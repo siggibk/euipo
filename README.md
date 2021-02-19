@@ -7,7 +7,7 @@ There are a couple of example folders/files there with data thats included but y
 need to download the files yourself and move it there if you want more data.
 Did test with 90k files (multiple GBs) but I will not be including multiple GBs of files in git
 
-## Run it
+## Run it locally
 
 ### Start db
 
