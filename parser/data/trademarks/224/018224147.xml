@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-08T07:36:59</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224147</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224147</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<RegistrationDate>2020-09-05</RegistrationDate>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-08</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-08</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>EARACTIONS</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Слушалки; Говорители; Слушалки; Аудио декове; Части от озвучителни системи; Микрофони; Аудио и видео електрически кабели и конектори; Апарати и оборудване за звукозаписи и видеозаписи; Стерео четци.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Sluchátka; Reproduktory; Sluchátka; Audio desky; Části zvukových instalací; Mikrofony; Audio a video elektrické kabely a konektory; Přístroje a vybavení pro záznam zvuku a videa; Stereo přehrávače.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Hovedtelefoner; Højttalere; Hovedtelefoner; Lydafspillere; Dele af lydanlæg; Mikrofoner; Elektriske kabler og konnektorer til audio- og videoudstyr; Apparater og udstyr til lyd- og videooptagelser; Stereoafspillere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kopfhörer; Lautsprecher; Kopfhörer; Audiodecks; Teile von Tonanlagen; Mikrofone; Audio- und Videoelektrokabel und -stecker; Ton- und Videoaufzeichnungsapparate und -geräte; Stereogeräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ακουστικά· Ηχεία· Ακουστικά κεφαλής με μικρόφωνο· Κονσόλες ήχου· Μέρη ηχητικών εγκαταστάσεων· Μικρόφωνα· Ηλεκτρικά καλώδια και σύνδεσμοι ήχου και βίντεο· Συσκευές και εξοπλισμός εγγραφής ήχου και βίντεο· Στερεοφωνικές συσκευές αναπαραγωγής.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Headphones; Loudspeakers; Headsets; audio decks; Audio equipment components; Microphones; Audio and video electric cables and connectors; Sound and video recording apparatus and equipment; Stereo players.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Auriculares; Altavoces; Cascos auriculares; Pletinas de audio; Componentes de aparatos de sonido; Micrófonos; Cables y conectores eléctricos de audio y vídeo; Aparatos y equipos para la grabación de sonido y vídeo; Reproductores estéreo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kõrvaklapid; Kõlarid, valjuhääldid; Mikrofoniga kõrvaklapid; Audiodekid; Helipaigaldiste osad; Mikrofonid; Elektrilised audio- ja videokaablid ning konnektorid; Heli- ja videosalvestusvahendid ja -seadmed; Stereoplaadimängijad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kuulokkeet; Kaiuttimet; Kuulokkeet; Ääninauhurit; Äänilaitteistojen osat; Mikrofonit; Ääni- ja videosähkökaapelit ja -liittimet; Ääni- ja videotallennuslaitteet ja -välineet; Stereolukulaitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Casques d'écoute; Enceintes; Casques d'écoute; Platines audio; Composants d'installations sonores; Microphones; Câbles et connecteurs électriques audio et vidéo; Appareils et équipements d'enregistrement sonore et vidéo; Lecteurs stéréo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Slušalice; Zvučnici; Slušalice; Audiosustavi; Komponente za audioopremu; Mikrofoni; Električni priključci i kabeli za audio i video; Uređaji i oprema za snimanje zvuka i videa; Stereo-čitači.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fejhallgatók; Hangszórók, hangosbemondók, megafonok; Fejhallgatók; Audiodekkek; Hangberendezések alkatrészei; Mikrofonok; Elektromos audio- és videokábelek és csatlakozók; Hang- és videofelvevő készülékek és felszerelések; Sztereó lejátszók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cuffie per la musica; Altoparlanti; Cuffie per la musica; Piatti audio; Parti di impianti audio; Microfoni; Cavi e connettori elettrici audio e video; Apparecchi ed apparecchiature per la registrazione audio e video; Lettori stereo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Radijo ausinės; Garsiakalbiai; Ausinės; Garso dekoderiai; Garso sistemų dalys; Mikrofonai; Garso ir vaizdo elektros kabeliai ir jungtys; Garso ir vaizdo įrašų aparatūra bei įranga; Stereogrotuvai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Austiņas; Skaļruņi; Radioaustiņas; Audio magnetafoni; Skaņu sistēmu daļas; Mikrofoni; Audio un video elektriskie kabeļi un savienotāji; Skaņas un video ierakstīšanas iekārtas un aprīkojums; Stereoatskaņotāji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kuffji; Lawdspikers; Kuffji; Deks tal-awdjo; Partijiet ta' installazzjonijiet tal-ħoss; Mikrofoni; Kejbils u konnetturi tal-elettriku tal-awdjo u tal-vidjow; Apparat u tagħmir għar-reġistrazzjoni tal-ħsejjes u tal-vidjow; Qarrejja tal-isterjo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Hoofdtelefoons; luidsprekers; oortelefoons; geluidsinstallaties; onderdelen van geluidsinstallaties; microfoons; elektrische kabels en connectors voor audio- en videoapparatuur; toestellen en apparatuur voor geluids- en video-opnamen; stereoafspeelapparatuur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Słuchawki [zakładane na głowę]; Głośniki; Słuchawki [zakładane na głowę]; Magnetofon audio bez wzmacniacza mocy; Części do instalacji dźwiękowych; Mikrofony; Kable i złącza elektryczne audio i wideo; Aparatura i sprzęt do nagrywania dźwięku i obrazu; Odtwarzacze stereofoniczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Auriculares; Altifalantes; Auriculares; Leitores de áudio; Componentes de equipamento áudio; Microfones; Cabos e conectores elétricos para áudio e vídeo; Aparelhos e equipamentos para gravação de som e de vídeo; Leitores estereofónicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Căşti audio; Difuzoare; Căşti; Platforme audio; Piese de instalații de sunet; Microfoane; Cabluri şi conectoare electrice audio şi video; Aparate si echipamente pentru inregistrarea sunetului si a imaginilor; Aparate de redare stereo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Slúchadlá; Reproduktory, amplióny; Slúchadlá s mikrofónom; Zvukové súpravy; Časti zvukových inštalácií; Mikrofóny; Zvukové a video elektrické káble a konektory; Zariadenia a prístroje na nahrávanie zvuku a videa; Stereofónne prehrávače.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Slušalke; Zvočniki; Slušalke; Avdio sistemi; Sestavni deli zvočnih napeljav; Mikrofoni; Električni kabli in konektorji za avdio in video; Aparati in oprema za snemanje zvoka in videa; Stereo predvajalniki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Hörlurar; Högtalare; Headsets; Bärbara stereoapparater; Delar till ljudanläggningar; Mikrofoner; Elektriska kablar och kontaktdon för ljud och video; Apparater och utrustning för inspelning av ljud och video; Stereospelare.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/100</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/171</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-08</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079027</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>48081</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

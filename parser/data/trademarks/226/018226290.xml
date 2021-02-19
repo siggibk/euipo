@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-19T10:29:21</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226290</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226290</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-15</RegistrationDate>
+<ApplicationLanguageCode>et</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-19</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Rye 1886</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>33</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Алкохолни напитки (с изключение на бира).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Alkoholické nápoje (s výjimkou piv).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Alkoholholdige drikke (dog ikke øl).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Alkoholische Getränke (ausgenommen Biere).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Οινοπνευματώδη ποτά (εκτός ζύθου).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Alcoholic beverages (except beers).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bebidas alcohólicas (excepto cerveza).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">alkoholjoogid, v.a õlu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Alkoholijuomat (paitsi oluet).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Boissons alcoolisées (à l'exception des bières).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Alkoholna pića (osim piva).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Alkoholtartalmú italok (a sörök kivételével).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Bevande alcoliche (escluse le birre).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Svaigieji gėrimai (išskyrus alų).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Alkoholiskie dzērieni (izņemot alu).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xarbiet alkoħoliċi (minbarra birer).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Alcoholhoudende dranken (uitgezonderd bieren).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Napoje alkoholowe (z wyjątkiem piwa).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bebidas alcoólicas (com excepção das cervejas).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Băuturi alcoolice (cu excepţia berii).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Alkoholické nápoje s výnimkou piva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Alkoholne pijače (razen piva).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Alkoholhaltiga drycker (ej öl).</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/086</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-08</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/156</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-18</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>867085</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>30072</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

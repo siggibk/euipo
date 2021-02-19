@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-28T11:45:20</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226764</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226764</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-09-23</RegistrationDate>
+<ApplicationLanguageCode>et</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Rye 1886</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162316353</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226764/000162316353.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.01.19</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>33</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Водка, отговаряща на изискванията на защитеното географско указание „Estonian Vodka“.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vodka splňující požadavky chráněného zeměpisného označení "Estonian Vodka".</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Vodka, der opfylder kravene til den beskyttede geografiske betegnelse "Estonian Vodka".</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Wodka gemäß den Spezifikationen der geschützten geografischen Angabe "Estonian Vodka".</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Βότκα που πληροί τις απαιτήσεις της προστατευόμενης γεωγραφικής ένδειξης Estonian Vodka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Vodka that meets the requirements of the protected geographical indication "Estonian Vodka".</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Vodka que cumple con los requisitos de la indicación geográfica protegida "Estonian Vodka".</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Viin, mis vastab kaitstud geograafilise tähise ’Estonian Vodka’ nõuetele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vodka, joka vastaa suojatun maantieteellisen merkinnän "Estonian Vodka" eritelmiä.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Eau-de-vie conforme au cahier des charges de l'indication géographique protégée "Vodka estonienne".</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Votka u skladu sa zahtjevima zaštićene oznake zemljopisnog podrijetla "Estonian Vodka".</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Vodka, amely megfelel az „Estonian Vodka” oltalom alatt álló földrajzi jelzés előírásainak.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Vodka in conformità con i requisiti dell'indicazione geografica protetta "Vodka estone".</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Degtinė, atitinkanti saugomos geografinės nuorodos 'Estonian Vodka' reikalavimus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Degvīns, kas atbilst aizsargātas ģeogrāfiskās izcelsmes norādes “Estonian Vodka” prasībām.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Vodka li tissodisfa r-rekwiżiti tal-indikazzjoni ġeografika protetta "Estonian Vodka".</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Brandewijn, die voldoet aan de voorwaarden van de beschermde geografische aanduiding 'Estonian Vodka'.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Wódka, która spełnia warunki chronionego oznaczenia geograficznego „Estonian Vodka”.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vodka em conformidade com os requisitos da indicação geográfica protegida "Vodka da Estónia".</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Vodcă, respectând caietul de sarcini al originii de denumire protejate "Estonian Vodka".</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vodka, ktorá spĺňa požiadavky chráneného zemepisného označenia "Estonian Vodka".</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Vodka, ki ustreza zahtevam zaščitene geografske označbe 'Estonska vodka'.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Sprit, som uppfyller den skyddade geografiska beteckningen ”Estonian Vodka”.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/112</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/184</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-25</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>867085</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>30072</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

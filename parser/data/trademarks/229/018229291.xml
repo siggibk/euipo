@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-15T09:20:13</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229291</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229291</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-09-11</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>DIGESTRESS</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Диетични и хранителни добавки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Výživové doplňky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Diætetiske og ernæringsmæssige kosttilskud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Nahrungsergänzungsmittel für diätetische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συμπληρώματα διατροφής και δίαιτας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Dietary and nutritional supplements.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Complementos dietéticos y nutricionales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Dieet- ja toitelisandid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Dieetti- ja ravintolisäaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Compléments nutritionnels et alimentaires.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dijetetski i hranjivi dodaci.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Étrend- és táplálékkiegészítők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Integratori alimentari dietetici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dietiniai ir maisto papildai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Diētiskās un uztura piedevas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Supplimenti tad-dieta u tan-nutrizzjoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diëtische supplementen en voedselsupplementen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Suplementy dietetyczne i odżywcze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Suplementos dietéticos e nutricionais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suplimente dietetice şi nutritive.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Výživové doplnky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Prehranski in hranilni dodatki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Diet- och näringstillskott.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>US</PriorityCountryCode>
+<PriorityNumber>88728776</PriorityNumber>
+<PriorityDate>2019-12-16</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/103</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-03</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/176</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1070904</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10141</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

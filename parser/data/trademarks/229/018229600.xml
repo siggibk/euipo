@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-19T10:59:14</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229600</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229600</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-15</RegistrationDate>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-19</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SaniPulse</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162500894</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229600/000162500894.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>01.15.15</CategoryCode>
+          <CategoryCode>05.03.11</CategoryCode>
+          <CategoryCode>05.03.13</CategoryCode>
+          <CategoryCode>05.03.14</CategoryCode>
+          <CategoryCode>25.05.94</CategoryCode>
+          <CategoryCode>29.01.03</CategoryCode>
+          <CategoryCode>29.01.96</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Дезинфектанти; Хигиенни препарати и изделия за медицински цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Dezinfekční přípravky; Hygienické přípravky a výrobky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Desinfektionsmidler; Hygiejniske præparater og artikler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Desinfektionsmittel; Hygienepräparate und -artikel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Απολυμαντικά· Παρασκευάσματα υγειονομικά και είδη αυτών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Disinfectants; Hygienic preparations and articles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Desinfectantes; Preparaciones y artículos higiénicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Desinfektsioonivahendid; Hügieenipreparaadid ja -tooted.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Desinfiointiaineet; Hygieniavalmisteet ja -tuotteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Désinfectants; Préparations et articles d'hygiène.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dezinfekcijska sredstva; Higijenski pripravci i proizvodi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fertőtlenítőszerek; Higiéniai készítmények és cikkek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Disinfettanti; Preparati ed articoli per l'igiene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dezinfekantai; Higienos preparatai ir priemonės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dezinfekcijas līdzekļi; Higiēnas līdzekļi un izstrādājumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Diżinfettanti; Preparazzjonijiet u oġġetti iġjenici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Desinfectiemiddelen; Hygiënische preparaten en producten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Środki odkażające; Preparaty i artykuły higieniczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Desinfetantes; Preparações e artigos higiénicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dezinfectante; Produse și articole pentru igienă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Dezinfekčné prípravky; Hygienické prípravky a potreby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Razkužila; Izdelki in preparati za higieno.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Desinfektionsmedel; Hygieniska preparat och artiklar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Автоматични системи за контрол на достъпа.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Automatické systémy na kontrolu přístupu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Automatiske systemer til adgangskontrol.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Automatische Zugangskontrollsysteme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συστήματα ελέγχου πρόσβασης, αυτόματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Access control systems (Automatic -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Sistemas de control de acceso automáticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Automaatsed juurdepääsu kontrolliseadmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kulunvalvontajärjestelmät (automaattiset).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Appareils de contrôle d'accès automatisés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Sustavi kontrole pristupa (Automatski -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Automatikus beléptető rendszerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Sistemi di controllo di accesso (Automatici -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Prieigos kontrolės sistemos (Automatinės -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Automātiskas piekļuves kontroles sistēmas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Sistemi (awtomatiċi) għall-kontroll tal-aċċess.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Toegangscontrolesystemen, automatisch.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Automatyczne systemy kontroli dostępu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Sistemas automáticos de controlo de acesso.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Sisteme de control al accesului (automate).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Automatické systémy na kontrolu prístupu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Avtomatski sistemi za nadzor dostopa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tillträdeskontrollsystem, automatiska.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Дезинфекциращи апарати; Механични санитарни инсталации; Писоари [санитарна арматура]; Умивалници [части на санитарни инсталации].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Dezinfekční přístroje; Elektrická sanitární zařízení; Pisoáry; Umyvadla [součásti hygienických zařízení].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Desinfektionsapparater; Elektriske sanitære installationer; Urinaler i form af sanitære installationer; Håndvaske [dele af sanitetsinstallationer].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Desinfektionsapparate; Energiebetriebene Sanitäranlagen; Urinale als sanitäre Einrichtungen; Waschbecken [Teile von Sanitäreinrichtungen].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Απολύμαντικές συσκευές· Εγκαταστάσεις υγιεινής που λειτουργούν με ηλεκτρισμό· Ουρητήρια· Νιπτήρες [τμήματα εγκαταστάσεων υγιεινής].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Disinfectant apparatus; Powered sanitary installations; Urinals being sanitary fixtures; Wash-hand basins [parts of sanitary installations].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aparatos de desinfección; Instalaciones sanitarias eléctricas; Urinarios; Lavabos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Desinfitseerimisseadmed; Elektrilised sanitaarseadmestikud; Pissuaarid [sanitaarseadmed]; Kätepesukausid [sanitaarseadmete osad].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Desinfiointilaitteet; Sähkökäyttöiset saniteettilaitteistot; Urinaalit ja pisoaarit [saniteettilaitteina]; Käsienpesualtaat [saniteettitilojen osina].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Appareils de désinfection; Installations sanitaires électriques; Urinoirs; Lavabos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Uređaj za dezinfekciju; Električne sanitarne instalacije; Pisoari; Umivaonici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fertőtlenítő készülékek, berendezések; Gépi hajtású szaniter berendezések; Piszoárok [szaniter berendezések]; Mosdókagylók [szaniter berendezések részei].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Apparecchi per la disinfezione; Impianti sanitari elettrici; Orinatoi essendo sanitari; Lavabi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dezinfekavimo aparatai; Varikliniai sanitariniai įrenginiai; Pisuarai (sanitariniai įtaisai); Rankų prausyklės [sanitarinių įrenginių dalys].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dezinfekcijas iekārtas; Elektriskas santehnikas iekārtas; Pisuāri (sanitārās iekārtas); Izlietnes (sanitārtehniskā aprīkojuma daļas).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Apparat għad-diżinfezzjoni; Installazzjonijiet sanitarji jaħdmu bid-dawl; Awrinarji [apparat sanitarju]; Sinkijiet għall-ħasil tal-idejn [partijiet ta' installazzjonijiet sanitarji].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Desinfectietoestellen; Elektrische sanitaire installaties; Urinoirs; Wastafels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia do dezynfekcji; Elektryczne instalacje sanitarne; Pisuary [armatura sanitarna]; Umywalki [części instalacji sanitarnych].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aparelhos de desinfeção; Instalações sanitárias elétricas; Urinóis sanitários; Lavabos [lavatórios].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aparate de dezinfectat; Instalații sanitare electrice; Pisoare [obiecte sanitare]; Lavabouri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zariadenia na dezinfikovanie; Elektrické sanitárne systémy; Pisoáre; Umývadlá.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Dezinfekcijski aparati; Električne sanitarne instalacije; Pisoarji (sanitarna oprema); Umivalniki [deli sanitarne opreme].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Desinfektionsapparater; Eldrivna sanitära installationer; Urinoarer utgörande sanitära inredningar; Handfat [delar av sanitära installationer].</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Рекламни, маркетингови и промоционални услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Reklamní, marketingové a propagační služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Virksomhed vedrørende reklame, marketing og salgsfremstød.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Werbung, Marketing und Verkaufsförderung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διαφήμιση, ενέργειες πώλησης (μάρκετινγκ) και υπηρεσίες προώθησης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Advertising, marketing and promotional services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios promocionales, de marketing y publicidad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Reklaam ja turundus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Mainonta-, markkinointi- ja myynninedistämispalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de publicité, de marketing et de promotion.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge oglašavanja, marketinga i promidžbe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Reklámozási, marketing és promóciós szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi pubblicitari, di marketing e promozionali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Reklamos, rinkodaros ir pardavimų skatinimo paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Reklāmas, tirgvedības un preču noieta veicināšanas pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' reklamar, kummerċjaliżżazzjoni u promozzjonali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Reclame, marketing en promotionele diensten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi reklamowe, marketingowe i promocyjne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de publicidade, de marketing e de promoção.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de publicitate, marketing și promovare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Reklamné, marketingové a propagačné služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oglaševalske, tržne in promocijske storitve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Reklam, marknadsföring och säljfrämjande tjänster.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>38</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Компютърни комуникационни услуги и услуги за достъп до Интернет; Осигуряване и отдаване под наем на телекомуникационни средства и оборудване; Телекомуникационни услуги; Видеоуслуги за предоставяне на тясна аудитория.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Počítačová komunikace a přístup k internetu; Poskytování a pronájem telekomunikačních zařízení a vybavení; Telekomunikační služby; Služby v oblasti vysílání videa úzkému okruhu diváků.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Computerkommunikation og tilvejebringelse af adgang til internettet; Tilvejebringelse og udlejning af telekommunikationsfaciliteter og -udstyr; Telekommunikation; Udsendelse af videoer til udvalgte brugergrupper.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Computerkommunikations- und Internetzugriffsdienste; Verleih und Vermietung von Telekommunikationsanlagen und -geräten; Telekommunikationsdienstleistungen; Ausstrahlung von Videofilmen für ausgewählte Nutzergruppen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ηλεκτρονικές επικοινωνίες και πρόσβαση στο διαδίκτυο· Παροχή και ενοικίαση εγκαταστάσεων και εξοπλισμού τηλεπικοινωνιών· Υπηρεσίες τηλεπικοινωνίας· Υπηρεσίες στενοζωνικής εκπομπής βίντεο.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Computer communication and Internet access; Provision and rental of telecommunications facilities and equipment; Telecommunication services; Video narrowcasting services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Comunicaciones telemáticas y acceso a internet; Suministro y alquiler de instalaciones y equipamientos de telecomunicaciones; Servicios de telecomunicaciones; Servicios de difusión limitada de vídeo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Arvutisideteenused ja juurdepääs internetile; Sidevahendite ja -seadmete pakkumine ja rent; Sideteenused; Videote edastamine kitsale vaatajaskonnale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tietokoneliikenne ja Internet-käyttöliittymät; Kaukoviestintävälineiden ja -laitteiden tarjoaminen ja vuokraus; Kaukoviestintä; Sisäiset videolähetyspalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Communication informatique et accès à Internet; Fourniture et location d'installations et d'équipement de télécommunication; Services de télécommunications; Services de diffusion vidéo pour public ciblé.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Računalna komunikacija i pristup Internetu; Pružanje i iznajmljivanje telekomunikacijskih instalacija i opreme; Telekomunikacijske usluge; Usluge fokusiranog emitiranja video sadržaja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Számítógépes kommunikáció és internet hozzáférés; Távközlési szolgáltatások és berendezések biztosítása és bérbeadása; Távközlési szolgáltatások; Videoanyagok meghatározott közönségnek történő terjesztése [narrowcasting].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Comunicazione per computer ed accesso ad Internet; Fornitura ed affitto di strumenti ed apparecchi di telecomunicazione; Servizi di telecomunicazione; Diffusione ristretta video.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kompiuteriniai ryšiai ir internetinė prieiga; Telekomunikacijos įtaisų ir įrenginių teikimas ir nuoma; Telekomunikacijų paslaugos; Abonentinio vaizdo transliavimo paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Datorkomunikācija un Interneta piekļuves pakalpojumi; Telesakaru iekārtu un ierīču nodrošināšana un iznomāšana; Telesakaru pakalpojumi; Video šaurapraides pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kommunikazzjoni tal-kompjuter u aċċess għall-Internet; Provvista u kiri ta' faċilitajiet u tagħmir tat-telekommunikazzjonijiet; Servizzi tat-telekommunikazzjoni; Servizzi ta' xandir ta' vidjo għal pubbliku limitat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Computercommunicatie en toegang tot Internet; Verschaffing en verhuur van telecommunicatiefaciliteiten en -uitrustingen; Telecommunicatiediensten; Narrowcasting van videobeelden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Łączność poprzez sieci komputerowe i dostęp do Internetu; Dostarczanie i wynajem infrastruktury i sprzętu telekomunikacyjnego; Usługi telekomunikacyjne; Usługi w zakresie transmisji typu narrowcasting [audiowizualny przekaz kierunkowy].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Comunicação informática e acesso à Internet; Fornecimento e aluguer de equipamentos e instalações de telecomunicações; Serviços de telecomunicações; Serviços de vídeo por difusão seletiva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Comunicarea cu terminale de computere și acces internet; Furnizarea și închirierea de instalații și echipamente de telecomunicații; Servicii de telecomunicații; Servicii de difuzare video pe arii restrânse [narrowcasting].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Počítačová komunikácia a prístup na internet; Poskytovanie a prenájom telekomunikačných zariadení a príslušenstva; Telekomunikačné služby; Služby v oblasti vysielanie videa pre úzky okruh prijímateľov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Računalniške komunikacije in dostop do svetovnega spleta; Zagotavljanje in oddajanje telekomunikacijskih zmogljivosti in opreme; Telekomunikacijske storitve; Storitve oddajanja videa za omejeno skupino uporabnikov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Datorkommunikation och internetåtkomst; Upplåtande och uthyrning av telekommunikationsfaciliteter och -utrustningar; Telekommunikationstjänster; Lokala videosändningstjänster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/086</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-08</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/156</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-18</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082651</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

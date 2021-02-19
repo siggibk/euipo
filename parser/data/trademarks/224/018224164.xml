@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T09:10:19</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224164</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224164</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>FREELEXO+</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162200104</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224164/000162200104.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>07.01.18</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>7</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Косачки [машини].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Sekačky na trávu [stroje].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Plæneklippere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Rasenmäher.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χορτοκοπτικές μηχανές [μηχανοκίνητες].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Lawnmowers [machines].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cortadoras de pasto [máquinas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Muruniidukid [masinad].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ruohonleikkurit [koneina].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Tondeuses à gazon.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Strojevi za rezanje trave.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fűnyírók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tosaerba [macchine].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vejapjovės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Zālienu pļaujmašīnas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Magni għall-qtugħ tal-ħaxix fil-lon.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Grasmaaimachines.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kosiarki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cortadores de relva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Tuns gazon (Maşini de -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kosačky na trávniky (stroje).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kosilnice za travo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Gräsklippningsmaskiner.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>343794</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

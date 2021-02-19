@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:10</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226523</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226523</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162318785</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226523/000162318785.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.05.25</CategoryCode>
+          <CategoryCode>26.03.01</CategoryCode>
+          <CategoryCode>26.03.05</CategoryCode>
+          <CategoryCode>26.03.07</CategoryCode>
+          <CategoryCode>29.01.04</CategoryCode>
+          <CategoryCode>29.01.06</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>1</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Прахообразни консерванти; Фунгицидни химични добавки; Химични вещества за консервиране на хранителни продукти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Konzervační přípravky na květiny; Chemické přísady do fungicidů; Chemické látky pro konzervování potravin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Konserveringsmidler til blomster; Kemiske tilsætningsstoffer til fungicider; Kemiske substanser til konservering af fødevarer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Mittel zum Haltbarmachen von Blumen; Chemische Zusatzmittel für Fungizide; Chemische Konservierungsmittel für Lebensmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συντήρηση ανθέων (Προϊόντα για τη -)· Πρόσθετα χημικά για μυκητοκτόνων· Χημικές ουσίες για τη συντήρηση τροφίμων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Flower preservatives; Additives, chemical, to fungicides; Chemical substances for preserving foodstuffs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Productos para conservar las flores; Aditivos químicos para fungicidas; Productos químicos para conservar alimentos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Lillesäilitusained; Fungitsiidide keemilised lisandid; Keemilised toidukonservandid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kukkien suoja-aineet; Sienimyrkkyjen kemialliset lisäaineet; Elintarvikkeiden kemialliset säilöntäaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Produits pour la conservation des fleurs; Additifs chimiques aux fongicides; Produits chimiques pour la conservation des aliments.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Cvijeće (proizvodi za konzerviranje cvijeća); Kemijski aditivi za fungicide; Prehrambene namirnice (kemijski proizvodi za konzerviranje prehrambenih namirnica).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Tartósítószerek virágokhoz; Vegyi adalékanyagok gombaölő szerekhez; Élelmiszerek tartósítására szolgáló vegyi anyagok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Prodotti per la conservazione dei fiori; Additivi chimici ai fungicidi; Prodotti chimici per la conservazione degli alimenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Gėlių konservantai; Fungicidų cheminiai priedai; Maisto produktų konservavimo cheminės medžiagos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ziedu konservanti; Ķīmiskās piedevas fungicīdiem; Ķīmiskās vielas pārtikas produktu konservēšanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preservattivi tal-fjuri; Sustanzi kimiċi miżjuda użati fil-fungiċidi; Ikel (Sustanzi kimiċi għall-ippreservar ta' affarijiet tal- -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Conserveermiddelen voor bloemen; Chemische additieven voor schimmeldodende middelen; Conserveermiddelen [chemische producten] voor voedingsmiddelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Środki do konserwacji kwiatów; Dodatki chemiczne do fungicydów; Substancje chemiczne do konserwowania żywności.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Conservantes de flores; Aditivos químicos para fungicidas; Substâncias químicos para a conservação de alimentos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Produse pentru conservarea florilor; Aditivi chimici pentru fungicide; Substanțe chimice pentru conservarea alimentelor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Prípravky na konzerváciu kvetov; Chemické prísady do fungicídov; Chemické prípravky na konzervovanie potravín.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Sredstva za konzerviranje rož; Kemični dodatki za fungicide; Kemične snovi za konzerviranje živil.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Blomkonserveringsmedel; Tillsatser, kemiska, för svampbekämpning; Kemiska ämnen för konservering av livsmedel.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Препарати за интимна хигиена за почистване или ароматизиране; Почистващи средства за целите на интимната лична хигиена, нелечебни; Препарати за вагинални промивки за целите на личната хигиена или дезодориране; Полиращи препарати; Химически почистващи препарати за домакински цели; Вода за плакнене на уста, не за медицински цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Sprchové přípravky pro intimní hygienu nebo deodorační použití [toaletní potřeby]; Neléčivé mycí přípravky pro intimní hygienu; Vaginální výplachy pro intimní hygienu nebo deodorační použití; Přípravky pro obnovení vzhledu; Chemické čisticí přípravky pro použití v domácnosti; Ústní vody, ne pro lékařské účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Udskylningsmidler til personlig hygiejne eller lugtfjerning [toiletpræparater]; Rensemidler til intimhygiejne, ikke-medicinske; Vaginale skyllepræparater til personlig hygiejne eller deodorisering; Pudsemidler; Kemiske rengøringspræparater til husholdningsbrug; Mundskyllemidler, ikke til medicinske formål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Mittel zur Intimreinigung für hygienische oder desodorierende Zwecke [Toiletteartikel]; Nicht medizinische Reinigungsmittel zur Intimpflege; Vaginalspülungen zur Intimreinigung oder für desodorierende Zwecke; Reinigungsmittel; Chemische Reinigungsmittel für Haushaltszwecke; Mundspülungen, nicht für medizinische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παρασκευάσματα για το ντους για χρήση στην ατομική υγιεινή ή για αποσμητική χρήση [είδη ατομικής περιποίησης]· Προϊόντα καθαρισμού της ευαίσθητης περιοχής για ατομική χρήση, μη φαρμακευτικά· Προϊόντα κολπικών πλύσεων για χρήση στην ατομική υγιεινή ή για αποσμητική χρήση· Στιλβωτικά παρασκευάσματα· Χημικά παρασκευάσματα καθαρισμού για οικιακή χρήση· Στοματικά διαλύματα μη προοριζόμενα για ιατρική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Douching preparations for personal sanitary or deodorant purposes [toiletries]; Cleansers for intimate personal hygiene purposes, non medicated; Vaginal washes for personal sanitary or deodorant purposes; Furbishing preparations; Chemical cleaning preparations for household purposes; Mouthwashes, not for medical purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Preparaciones de higiene íntima para uso sanitario o utilizadas como desodorantes; Preparaciones limpiadoras no medicinales para la higiene íntima; Duchas vaginales para la higiene íntima o en cuanto desodorantes; Preparaciones para bruñir; Preparaciones químicas de limpieza para uso doméstico; Enjuagues bucales que no sean para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Hügieenilised või värskendavad dušipreparaadid [tualett-tarbed]; Ravitoimeta intiimpuhastusained isikliku hügieeni tarbeks; Tupeloputusvedelikud isikliku hügieeni või desodoreerimise tarbeks; Poleerpreparaadid, -ained; Keemilised puhastuspreparaadid kodumajapidamises kasutamiseks; Ravitoimeta suuveed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Huuhteluvalmisteet henkilökohtaiseen hygieniaan ja hajunpoistoon [toalettitarvikkeina]; Lääkeaineita sisältämättömät puhdistusaineet intiimihygieniaan; Emätinkylvyt henkilökohtaiseen hygieniaan tai hajunpoistoon; Kiillotusvalmisteet; Kemialliset puhdistusvalmisteet kotitalouskäyttöön; Suuhuuhteet muihin kuin lääkinnällisiin tarkoituksiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Préparations de lavage pour la toilette intime ou en tant que déodorants; Nettoyants non médicamenteux pour l'hygiène intime; Bains vaginaux pour la toilette intime ou en tant que déodorants; Matières à astiquer; Produits chimiques de nettoyage à usage domestique; Bains de bouche non à usage médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pripravci za intimno ispiranje za osobnu higijensku uporabu ili osobno dezodoriranje [toaletne potrepštine]; Sredstva za čišćenje za intimnu osobnu higijenu, nemedicinski; Tekućine za vaginalno ispiranje za osobnu higijenu ili dezodoriranje; Preparati za čišćenje; Kemijski pripravci za čišćenje u kućanstvu; Vodice za ispiranje usta, za nemedicinsku uporabu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Hüvelyöblítő készítmények személyes higiéniai vagy dezodorálási célra [piperecikkek]; Intim lemosók személyi higiéniai célokra, nem gyógyszeres; Hüvelyöblítők személyi higiéniai vagy szagtalanítási célokra; Polírozó készítmények; Vegyi tisztítókészítmények háztartási célokra; Szájvizek, nem gyógyászati célra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Preparati di lavaggio per l'igiene intima o per uso come deodoranti; Detergenti per uso igienico intimo personale, non medicanti; Detergenti intimi personali per l'igiene e per deodorare; Sostanze per lucidare; Preparati chimici per la pulizia per uso domestico; Collutori non per uso medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dušo preparatai (asmeninės higienos ar dezodoravimo reikmėms) [tualeto reikmenys]; Negydomieji intymios higienos prausikliai; Makšties plovimo skysčiai (asmeninės higienos ar dezodoravimo reikmėms); Šveitimo preparatai; Cheminiai valymo preparatai (buities reikmėms); Burnos skalavimo preparatai (ne medicinos reikmėms).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Skalošanas līdzekļi intīmai higiēnai un dezodorēšanai; Mazgāšanas līdzekļi intīmai higiēnai, ne medicīniskiem nolūkiem; Maksts skalošanas līdzekļi intīmai higiēnai un dezodorēšanai; Spodrināšanas vielas; Ķīmiskie tīrīšanas līdzekļi mājsaimniecības nolūkiem; Mutes skalošanas līdzekļi, ne medicīniskiem nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preparazzjonijiet tad-doċċa għal skopijiet sanitarji jew deodoranti personali [oġġetti tal-latrini]; Sustanzi li jnaddfu għal skopijiet ta' iġjene personali intima, mhux medikati; Ħasil vaġinali għas-sanità personali jew għal skopijiet deodoranti; Preparazzjonijiet għal-lostrar; Preparazzjonijiet kimiċi tat-tindif għal skopijiet domestiċi; Likwidi għat-tlaħliħ tal-ħalq, mhux għal skopijiet mediċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Hygiënische of desodoriserende preparaten voor de intieme lichaamsverzorging; Reinigingsmiddelen voor de intieme persoonlijke hygiëne, niet medicinaal; Vaginale baden voor persoonlijke verzorging of het deodoriseren; Boenmiddelen; Chemische reinigingspreparaten voor huishoudelijk gebruik; Mondverzorgingsproducten, niet voor medicinaal gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Preparaty do higieny intymnej lub do celów dezodorujących [przybory toaletowe]; Środki czyszczące do higieny intymnej, nielecznicze; Płyny do przemywania pochwy do higieny intymnej lub dezodoryzacji; Preparaty do polerowania; Preparaty chemiczne do czyszczenia do użytku domowego; Płyny do płukania ust do celów niemedycznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Preparações de banhos para higiene pessoal ou para desodorização; Produtos de limpeza para fins de higiene íntima pessoal, não medicados; Preparações para lavagem vaginal para uso higiénico ou desodorizante pessoal; Matérias para polir; Produtos quimicos de limpeza para uso doméstico; Preparações para bochechar, sem ser para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Preparate de duș pentru igiena personală sau folosite ca deodorant [produse de toaletă]; Produse de curățare pentru igiena personală intimă, nemedicinale; Soluții pentru spălături vaginale, pentru igienă intimă sau odorizare; Lustruit (Preparate pentru -); Preparate chimice de curățare pentru uz casnic; Ape de gură, nu pentru uz medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Umývacie prípravky na osobnú hygienu; Neliečivé umývacie prípravky na osobnú hygienu; Vaginálne výplachové roztoky na osobnú hygienu alebo dezodoráciu; Leštiace prípravky; Chemické čistiace prípravky do domácnosti; Ústne vody (nie na lekárske použitie).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Preparati za tuširanje za osebne sanitarne namene ali namene dezodoriranja; Čistila za intimno osebno higieno, brez zdravilnih učinkovin; Tekočine za izpiranje nožnice za osebno higieno ali odišavljenje; Polirni pripravki; Kemični čistilni pripravki za gospodinjske namene; Ustne vodice, ne za medicinske namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Duschpreparat för personligt- eller deodoriseringsändamål [toalettartiklar]; Preparat för personlig intimhygien, icke-medicinska; Preparat för vaginal hygien för personligt bruk eller i deodorantsyfte; Putsmedel; Kemiska rengöringspreparat för hushållsändamål; Munsköljmedel, inte för medicinska ändamål.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бактериални отрови; Бактерициди; Стерилизиращи препарати; Биологични препарати за медицински цели; Химически препарати за фармацевтични цели; Химически препарати за медицински цели; Вагинални промивки за медицински цели; Препарати за промиване за медицински цели; Лосиони за фармацевтични цели; Антисептици; Фунгициди; Дезинфектанти за хигиенни цели; Дезинфектанти; Биоциди; Антибактериални препарати за миене на ръце; Вода за уста за медицински цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Bakteriální jedy; Germicidy; Přípravky na sterilizaci; Biologické přípravky pro léčebné účely; Chemické přípravky pro farmaceutické účely; Chemické přípravky pro léčebné účely; Léčebné vaginální výplachy; Přípravky na léčebné výplachy; Lotiony (pleťové vody) pro farmaceutické účely; Antiseptika; Fungicidy; Dezinfekční prostředky pro hygienické účely; Dezinfekční přípravky; Biocidy; Antibakteriální prostředky na mytí rukou; Ústní vody pro léčebné účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Bakteriegifte; Germicider; Steriliserende præparater; Biologiske præparater til medicinske formål; Kemiske præparater til farmaceutiske formål; Kemiske præparater til medicinske formål; Vaginale skyllepræparater til medicinske formål; Udskylningspræparater til medicinsk brug; Lotions til farmaceutisk brug; Antiseptiske midler; Fungicider; Desinfektionsmidler til hygiejniske formål; Desinfektionsmidler; Biocider; Antibakterielle håndvaskemidler; Mundskyllevand til medicinske formål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bakteriengifte; Keimtötende Mittel; Präparate zum Sterilisieren; Biologische Präparate für medizinische Zwecke; Chemische Präparate für pharmazeutische Zwecke; Chemische Präparate für medizinische Zwecke; Vaginalspülungen für medizinische Zwecke; Mittel zur Intimreinigung für medizinische Zwecke; Lotionen für pharmazeutische Zwecke; Antiseptika; Fungizide; Desinfektionsmittel für hygienische Zwecke; Desinfektionsmittel; Biozide; Antibakterielle Handwaschmittel; Mundspülungen für medizinische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Βακτηριακά δηλητήρια· Μικροβιοκτόνα· Αποστείρωσης (Προϊόντα -)· Βιολογικά παρασκευάσματα για ιατρική χρήση· Χημικά (Παρασκευάσματα -) για την φαρμακευτική· Χημικά (Παρασκευάσματα -) για την ιατρική· Κολπικές πλύσεις για ιατρική χρήση· Παρασκευάσματα για το ντους για ιατρική χρήση· Λοσιόν φαρμακευτικής χρήσης· Αντισηπτικά· Μυκητοκτόνα· Απολυμαντικά για υγειονομική χρήση· Απολυμαντικά· Βιοκτόνα· Αντιβακτηριακά προϊόντα για το πλύσιμο των χεριών· Στοματικά διαλύματα για ιατρική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Bacterial poisons; Germicides; Sterilizing preparations; Biological preparations for medical purposes; Chemical preparations for pharmaceutical purposes; Chemical preparations for medical purposes; Vaginal washes for medical purposes; Douching preparations for medical purposes; Lotions for pharmaceutical purposes; Antiseptics; Fungicides; Disinfectants for hygiene purposes; Disinfectants; Biocides; Antibacterial handwashes; Mouthwashes for medical purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Venenos bacterianos; Germicidas; Preparaciones para esterilizar; Preparaciones biológicas para uso médico; Preparaciones químicas para uso farmacéutico; Preparaciones químicas para uso médico; Duchas vaginales para uso médico; Preparaciones de irrigación interna para uso médico; Lociones para uso farmacéutico; Antisépticos; Fungicidas; Desinfectantes para uso higiénico; Desinfectantes; Biocidas; Productos antibacterianos para lavar las manos; Enjuagues bucales para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Baktermürgid; Germitsiidid; Steriliseerimispreparaadid; Meditsiinilised biopreparaadid; Farmatseutilised keemiapreparaadid; Meditsiinilised keemiapreparaadid; Meditsiinilised tupeloputusvedelikud; Meditsiinilised dušipreparaadid; Farmatseutilised loputusvedelikud; Antiseptikumid; Fungitsiidid; Hügieenilised desinfektsioonivahendid; Desinfektsioonivahendid; Biotsiidid; Antibakteriaalsed kätepesuained; Meditsiinilised suuloputusveed, suuveed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Bakteerimyrkyt; Bakteereja ja mikro-organismeja tuhoavat aineet; Sterilointivalmisteet; Biologiset valmisteet lääkinnällisiin tarkoituksiin; Kemialliset valmisteet lääketieteellisiin tarkoituksiin; Kemialliset valmisteet lääkinnällisiin tarkoituksiin; Emätinhuuhteet lääketieteellisiin tarkoituksiin; Huuhteluvalmisteet lääkinnälliseen käyttöön; Liuokset lääketieteellisiin tarkoituksiin; Antiseptiset aineet; Sienimyrkyt; Desinfiointiaineet hygieenisiin tarkoituksiin; Desinfiointiaineet; Biosidit; Antibakteeriset käsienpesuliuokset; Suuvedet lääkinnälliseen käyttöön.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Poisons bactériens; Germicides; Produits pour la stérilisation; Préparations biologiques à usage médical; Préparations chimiques à usage pharmaceutique; Préparations chimiques à usage médical; Bains vaginaux à usage médical; Préparations de lavage interne à usage médical; Lotions à usage pharmaceutique; Antiseptiques; Fongicides; Désinfectants à usage hygiénique; Désinfectants; Biocides; Produits antibactériens pour le lavage des mains; Bains de bouche à usage médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Bakterijski otrovi; Germicidi; Sredstva za sterilizaciju; Biološki preparati za medicinske potrebe; Kemijski preparati za farmaceutske potrebe; Kemijski preparati za medicinske potrebe; Tekućine za vaginalno ispiranje za medicinske svrhe; Pripravci za intimno ispiranje za medicinske svrhe; Losioni za farmaceutsku uporabu; Antiseptici; Fungicidi; Dezinfekcijska sredstva za higijenske namjene; Dezinfekcijska sredstva; Biocidi; Antibakterijska sredstva za pranje ruku; Usta (medicinski proizvodi za njegu usta).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Bakteriális mérgek; Csíraölő [fertőtlenítő] szerek; Sterilizáló készítmények; Biológiai készítmények orvosi célokra; Vegyi készítmények gyógyszerészeti célokra; Vegyi készítmények orvosi, gyógyászati célokra; Hüvelyöblítők egészségügyi célokra; Hüvelyöblítő készítmények gyógyászati célokra; Oldatok, folyadékok gyógyszerészeti használatra; Fertőtlenítőszerek, antiszeptikus készítmények; Gombaölő szerek, fungicidek; Fertőtlenítőszerek higiéniai célokra; Fertőtlenítőszerek; Biocidok; Antibakteriális kézmosók; Szájöblítők gyógyászati célokra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Veleni batterici; Germicidi; Prodotti per la sterilizzazione; Prodotti biologici per uso medico; Preparati chimici per uso farmaceutico; Preparati chimici per uso medico; Lavaggi vaginali per uso medico; Preparati per lavande interne per uso medico; Lozioni per uso farmaceutico; Antisettici; Fungicidi; Disinfettanti per uso igienico; Disinfettanti; Biocidi; Prodotti antibatterici per lavare le mani; Prodotti per la cura della bocca per uso medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Bakteriniai toksinai; Baktericidai; Sterilizavimo preparatai; Biologiniai preparatai (medicinos reikmėms); Cheminiai preparatai (farmacijos reikmėms); Cheminiai preparatai (medicinos reikmėms); Makšties plovimo skysčiai (medicinos reikmėms); Dušo preparatai (medicinos reikmėms); Losjonai (farmacijos reikmėms); Antiseptikai [vaistai nuo pūlinės infekcijos]; Fungicidai; Dezinfekavimo priemonės (higienos reikmėms); Dezinfekantai; Biocidai; Antibakteriniai rankų plovimo skysčiai; Burnos skalavimo preparatai (medicinos reikmėms).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Bakteriālas indes; Germicīdi; Sterilizācijas līdzekļi; Bioloģiskie preparāti medicīniskiem nolūkiem; Ķīmiskie preparāti farmaceitiskiem nolūkiem; Ķīmiskie preparāti medicīniskiem nolūkiem; Maksts skalošanas līdzekļi medicīniskiem nolūkiem; Skalošanas līdzekļi medicīniskiem nolūkiem; Losjoni farmaceitiskiem nolūkiem; Antiseptiskie līdzekļi; Fungicīdi; Dezinfekcijas līdzekļi higiēniskiem nolūkiem; Dezinfekcijas līdzekļi; Biocīdi; Antibakteriālie roku mazgāšanas līdzekļi; Mutes skalošanas līdzekļi medicīniskiem nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Velenu li joqtol il-batterji; Ġermiċidi; Preparazzjonijiet sterilizzanti; Preparazzjonijiet bijoloġiċi għal skopijiet mediċi; Preparazzjonijiet kimiċi għal skopijiet farmaċewtiċi; Preparazzjonijiet kimiċi għal skopijiet mediċi; Prodotti għat-tlaħliħ vaġinali għal skopijiet mediċi; Preparazzjonijiet tad-doċċa għal skopijiet mediċi; Lozjonijiet għal skopijiet farmaċewtiċi; Antisettiċi; Fungiċidi; Diżinfettanti għal skopijiet ta' iġjene; Diżinfettanti; Bioċidji; Ħasil tal-idejn antibatteriku; Likwidu għat-tlaħliħ tal-ħalq, għal skopijiet mediċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Gif uit bacteriën; Germiciden; Steriliseermiddelen; Biologische preparaten voor medisch gebruik; Chemische producten voor farmaceutisch gebruik; Chemische preparaten voor medisch gebruik; Vaginale baden voor medische doeleinden; Medische preparaten voor vaginale douches; Lotions voor farmaceutisch gebruik; Antiseptische middelen; Fungiciden; Desinfecterende middelen voor hygiënisch gebruik; Desinfectiemiddelen; Biociden; Antibacteriële handzeep; Mondverzorgingsproducten voor medisch gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Trucizny bakteryjne; Środki bakteriobójcze; Preparaty do sterylizacji; Biologiczne preparaty do celów medycznych; Preparaty chemiczne do celów farmaceutycznych; Preparaty chemiczne do celów medycznych; Płyny do przemywania pochwy do celów medycznych; Preparaty do irygacji do celów medycznych; Płyny do celów farmaceutycznych; Antyseptyki; Fungicydy; Środki dezynfekcyjne do celów higienicznych; Środki odkażające; Biocydy; Antybakteryjne środki do mycia rąk; Płyny do płukania jamy ustnej do celów medycznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Venenos bacterianos; Germicidas; Preparações para a esterilização; Preparações biológicas para uso medicinal; Preparações químicas para uso farmacêutico; Preparações químicas para uso medicinal; Banhos vaginais para fins medicinais; Preparações de lavagem vaginal para fins medicinais; Loções para uso farmacêutico; Antisséticos; Fungicidas; Desinfetantes para uso higiénico; Desinfetantes; Biocidas; Preparações antibacterianas de lavagem de mãos; Preparações de higiene bocal para uso medicinal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Bacteriene (Otrăvuri -); Germicide; Sterilizare (Produse pentru -); Biologice (preparate - de uz medical); Chimice (preparate - de uz farmaceutic); Chimice (preparate - de uz medical); Spălături vaginale de uz medical; Preparate de uz medical pentru spălături; Loțiuni de uz farmaceutic; Antiseptice; Fungicide; Dezinfectante folosite pentru igienă; Dezinfectante; Biocide; Soluții antibacteriene pentru spălarea mâinilor; Apă de gură pentru uz medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Bakteriálne jedy; Germicídy (dezinfekčné prípravky); Sterilizačné prípravky; Biologické prípravky na lekárske použitie; Chemické prípravky na farmaceutické použitie; Chemické prípravky na lekárske použitie; Vaginálne kúpele na lekárske použitie; Prípravky na intímnu hygienu na lekárske použitie; Roztoky na farmaceutické použitie; Antiseptické prípravky; Fungicídy; Dezinfekčné prípravky na hygienické použitie; Dezinfekčné prípravky; Biocídy; Antibakteriálne tekuté mydlá; Ústne vody na lekárske použitie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Bakterijski strupi; Germicidi; Sterilizacijski pripravki; Biološki preparati za medicinske namene; Kemični pripravki za farmacevtske namene; Kemični pripravki za medicinske namene; Vaginalna izpirala za medicinske namene; Pripravki za izpiranje vagine za medicinske namene; Losjoni za farmacevtsko uporabo; Antiseptiki; Fungicidi; Razkužila za higienske namene; Razkužila; Biocidi; Antibakterijska čistila za roke; Ustne vode za medicinske namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Bakteriegifter; Bakteriedödande medel; Steriliseringspreparat; Biologiska preparat för medicinska ändamål; Kemiska preparat för farmaceutiska ändamål; Kemiska preparat för medicinska ändamål; Preparat för vaginal hygien för medicinska ändamål; Duschpreparat för medicinska ändamål; Lotioner för farmaceutiska ändamål; Antiseptiska medel; Svampdödande medel; Desinfektionsmedel för hygieniska ändamål; Desinfektionsmedel; Biocider; Antibakteriella handtvättmedel; Munvatten för medicinska ändamål.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080153</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>90949</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

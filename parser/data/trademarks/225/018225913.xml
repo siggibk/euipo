@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:34:35</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225913</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225913</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>DONK</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162304833</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/225/018225913/000162304833.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.07.03</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>7</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Механични чукове; Ножици за стригане на овце, електрически; Отвертки с механично задвижване; Електрически триони; Ъглошлайфове; Ударни гайковерти; Саблени триони.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Elektrická kladiva; Elektrické nůžky; Elektrické šroubováky; Elektrické pily; Úhlové brusky; Nárazové utahováky; Šavlové pily.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Elektriske hamre; Sakse, elektriske; Elektriske skruetrækkere; Eldrevne save; Vinkelslibere; Slagnøgler; Sabelsave.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Elektrohämmer; Elektrische Meißel; Elektrische Schraubenzieher; Motorsägen; Winkelschleifmaschine; Schlagschrauber; Säbelsägen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σφύρες ηλεκτρικές· Ψαλίδια ηλεκτρικά· Ηλεκτροκίνητα κατσαβίδια· Μηχανοκίνητα πριόνια· Λειαντήρες υπό γωνία· Κλειδιά σύσφιγξης· Σπαθόσεγες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Electric hammers; Scissors, electric; Electric screwdrivers; Chainsaws; Power-operated angle grinders; Impact wrenches; Saber saws.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Martillos eléctricos; Tijeras eléctricas; Destornilladores eléctricos; Sierras eléctricas; Amoladoras angulares; Aprietatuercas neumático de percusión; Sierras sable.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Elektrivasarad; Elektrilised suured käärid; Elektrikruvikeerajad; Mootorsaed; Nurklihvijad; Löökpuurid, löökkruvikeerajad, löökmutrivõtmed; Tiigersaed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sähkövasarat; Keritsimet (Sähkö -); Sähkökäyttöiset ruuvitaltat; Moottorisahat; Kulmahiomakoneet; Iskuruuvinvääntimet; Lehtisahat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Marteaux électriques; Ciseaux électriques; Tournevis électriques; Scies électriques; Meuleuses d'angle; Clés à chocs; Scies sabres.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Električni čekići; Električne škare; Električni odvijači; Električne pile; Kutne brusilice; Zračni pištolji; Ubodne pile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Elektromos kalapácsok; Elektromos ollók; Elektromos csavarhúzók; Motoros fűrészek; Sarokcsiszolók; Ütvefúró csavarozók, ütvecsavarozók, ütő csavarkulcsok; Szablyafűrészek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Martelli elettrici; Forbici elettriche; Avvitatori, elettrici; Seghe elettriche; Smerigliatrici angolari; Avvitatrici a impulsi; Seghe a sciabola.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Elektriniai kūjai; Elektrinės žirklės; Elektriniai atsuktuvai; Juostiniai pjūklai; Kampiniai šlifuokliai; Smūginiai veržliarakčiai; Siaurapjūkliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Lieljaudas veseri; Elektriskās šķēres; Elektriskie skrūvgrieži; Motorzāģi; Leņķa slīpmašīnas; Trieciena uzgriežņatslēgas; Zobenzāģi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Mrietel elettriċi; Imqassijiet elettriċi; Tornaviti li jaħdmu bl-elettriku; Segi; Apparat tat-tħin angulari; Għodda li ddawwar ma' kamin b'forza qawwija; Segi elettriċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Elektrische hamers; Elektrische scharen; Schroevendraaiers, elektrisch; Kettingzagen; Slijpmachines voor hoeken; Moerenaanzetters; Sabelzagen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Młoty elektryczne; Nożyce elektryczne; Śrubokręty elektryczne; Piły o napędzie innym niż ręczny; Szlifierki kątowe; Klucze udarowe; Przenośne piły ręczne z napędem elektrycznym.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Martelos elétricos; Tesouras elétricas; Chaves de fenda, elétricas; Serras elétricas; Retificadoras de cantoneira; Aparafusadores de percussão; Serras de sabre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Ciocane electrice; Foarfeci electrice; Șurubelnițe electrice; Ferăstraie; Polizoare unghiulare; Chei pneumatice; Ferăstraie mecanice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Elektrické kladivá; Elektrické nožnice; Elektrické skrutkovače; Reťazové píly; Uhlové brúsky; Nástrčkové kľúče; Šabľové píly.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Električna kladiva; Električne škarje; Električni izvijači; Žage s pogonom; Kotni brusilniki; Udarni ključi; Vbodne žage.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Elektriska hammare; Saxar, elektriska; Elektriska skruvmejslar; Elektriska sågar; Vinkelslipar; Slagskruvnycklar; Tigersågar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/078</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080322</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>87424</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

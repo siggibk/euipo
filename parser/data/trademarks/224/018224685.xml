@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-29T09:52:43</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224685</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224685</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162204642</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224685/000162204642.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.01.09</CategoryCode>
+          <CategoryCode>25.01.25</CategoryCode>
+          <CategoryCode>25.03.25</CategoryCode>
+          <CategoryCode>25.12.01</CategoryCode>
+          <CategoryCode>28.03</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>43</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Ресторантьорски услуги; Услуги на кафенета и барове; Услуги за коктейлни салони; Кетъринг (приготвяне и доставка на храни и напитки); Услуги за кетъринг в нощни клубове; Ресторантьорство; Приготвяне на ястия за консумация извън заведението.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Restaurace; Kafeteria a bar servis; Služby denních barů; Zajištění stravování; Stravovací služby nočních klubů; Služby zajišťující stravování a nápoje; Příprava pokrmů a jídel pro odnos s sebou.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tjenester ydet af restauranter; Café- og barvirksomhed; Cocktailbarvirksomhed; Catering; Natklubcateringvirksomhed; Tilvejebringelse af mad og drikke; Tilberedning af næringsmidler og måltider til salg ud af huset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Verpflegung von Gästen in Restaurants; Betrieb von Cafés und Bars; Betrieb von Cocktailbars; Catering; Catering für Nachtclubs; Dienstleistungen zur Verpflegung; Zubereitung von Speisen und Gerichten für den Außer-Haus-Verkauf.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες εστιατορίου· Υπηρεσίες καφετέριας και μπαρ· Υπηρεσίες κοκτέιλ μπαρ· Τροφοδοσία· Υπηρεσίες τροφοδοσίας νυχτερινών κέντρων· Υπηρεσίες παροχής διατροφής και ποτών· Παρασκευή τροφίμων και γευμάτων για κατανάλωση εκτός του καταστήματος σε πακέτο.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Restaurant services; cafe and bar services; cocktail lounge services; catering services; night club catering services; services for providing food and drink; preparation of foods and meals for take away.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de restaurantes; Servicios de bar y de cafetería; Cocktail bar; Servicios de catering; Servicios de aprovisionamiento (abastecimiento) de clubs nocturnos; Servicios de restauración (alimentación); Preparación de alimentos y comidas para llevar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Restoraniteenused; Baari- ja kohvikuteenused; Kokteilibaaride teenused; Toitlustusteenindus; Toitlustusteenused ööklubides; Toitlustusteenused; Kaasamüügitoidu ja -einete valmistamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ravintolapalvelut; Kahvila- ja baaripalvelut; Cocktailbaaripalvelut; Pitopalvelu; Yökerhojen ravitsemuspalvelut; Ravitseminen ja juomien anniskelu; Ruokien ja aterioiden valmistus noutotarkoituksiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de restauration (alimentation); Services de cafés et de bars; Bar à cocktails; Services de traiteurs; Services de restauration pour boîtes de nuit; Services de restauration (alimentation); Préparation d'aliments et de plats à emporter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge restorana; Usluge kafića i barova; Usluge koktel bara; Catering; Usluge opskrbe hranom i pićem u noćnim klubovima; Usluge pružanja hrane i pića [okrepa]; Priprema hrane i obroka za van.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Éttermi szolgáltatások; Kávéházi és bárban nyújtott szolgáltatások; Koktélbárok szolgáltatásai; Vendéglátás; Éjszakai mulatók által biztosított vendéglátóipari szolgáltatások; Vendéglátás (élelmezés); Élelmiszerek és ételek készítése elvitelre történő fogyasztásra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di ristoranti; Servizi di caffetteria e bar; Servizi di bar specializzati in cocktail; Catering; Catering per locali notturni; Servizi di ristorazione (alimentazione); Preparazione d'alimenti e pasti da asporto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Restoranų paslaugos; Kavinių ir barų paslaugos; Kokteilių baro paslaugos; Aprūpinimas maistu ir gėrimais; Naktinių klubų aprūpinimo maistu ir gėrimais paslaugos; Maisto ir gėrimų parūpinimo paslaugos; Išsinešti skirto maisto ir patiekalų ruošimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Restorānu pakalpojumi; Kafejnīcu un bāru pakalpojumi; Kokteiļu bāru pakalpojumi; Ēdienu sagatavošana un piegāde pēc pasūtījuma; Naktsklubu ēdināšanas pakalpojumi; Apgāde ar uzturu; Pārtikas produktu un maltīšu pagatavošana līdzņemšanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' restorant; Servizzi ta' kafetteriji, bars; Servizzi ta' salotti bil-barijiet [cocktail lounges]; Catering; Servizzi tal-kejtering fi klabb ta' bil-lejl; Servizzi għall-provvista ta' ikel u xorb; Preparazzjoni ta' ikel u ikliet għall-konsum fuq barra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Restauratie [het verstrekken van maaltijden]; Diensten van cafés en bars; Cocktailbardiensten; Catering; Catering van nachtclubs; Restauratie (het verstrekken van voedsel en dranken); Bereiding van voedsel en maaltijden om af te halen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi restauracyjne; Usługi świadczone przez kawiarnie i bary; Usługi koktajlbarów; Obsługa gastronomiczna z własnym zapleczem, produktami i transportem; Usługi kateringowe klubów nocnych; Usługi zaopatrzenia w żywność i napoje; Przygotowywanie żywności i posiłków do spożycia poza lokalem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de restaurantes; Serviços de café e de bar; Serviços de bar de cocktails; Catering; Serviços de fornecimento de alimentos e bebidas para clubes nocturnos; Serviços de restauração (alimentação); Preparação de alimentos e refeições para fora.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Restaurante [servirea mesei]; Servicii de cafenele şi bar; Servicii specifice barurilor de cocteiluri; Catering; Servicii de catering pentru cluburi de noapte; Servicii de alimentaţie publică; Preparare de alimente şi mâncăruri la pachet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Reštauračné (stravovacie) služby; Služby kaviarní a barov; Služby kokteilových barov; Catering; Služby v oblasti stravovania v nočných kluboch; Reštauračné služby (strava); Príprava jedla za účelom jeho odnesenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve restavracij; Storitve kavarn in barov; Storitve koktajl barov; Catering; Gostinske storitve nočnih klubov; Nudenje hrane in pijače; Priprava živil in obrokov, ki jih odneseš s seboj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Restauranger; Kafé- och bartjänster; Cocktailbarverksamhet; Catering; Tjänster avseende catering för nattklubbar; Utskänkning av mat och dryck; Tillagning av mat och måltider för avhämtning.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/141</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079082</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>72210</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

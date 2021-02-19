@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-06T08:33:49</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222478</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222478</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<RegistrationDate>2020-10-02</RegistrationDate>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-08</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-10-06</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Pane Vivo</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Кафе; Чай; Какао; Захар; Ориз; Брашно; Зърнени храни; Хляб; Смес за сладкиши; Бонбони; Сладоледи за консумация; Мед; Мая; Сол; Оцет; Пикантни подправки; Сладоледи и сладоледени кремове; Сандвичи; Пици; Американски палачинки; Смес за сладкиши; Смес за сладкиши; Сухари; Шоколад; Напитки, съдържащи кафе; Чаени напитки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Káva; Čaj; Kakao; Cukr; Rýže; Mouka; Přípravky z obilovin; Chléb; Cukrářské výrobky; Cukrovinky; Zmrzlina; Med; Droždí; Sůl; Ocet; Koření; Led na osvěžení; Sendviče; Pizza; Lívance; Sušenky; Dorty; Suchary; Čokoláda; Nápoje na bázi kávy; Nápoje na bázi čaje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kaffe; Te; Kakao; Sukker; Ris; Mel; Kornpræparater; Brød; Konditorkager; Konfekturevarer; Spiseis; Honning; Gær; Salt; Eddike; Urter [tørrede krydderier]; Is til forfriskning; Sandwiches; Pizzaer; Pandekager; Småkager; Kager; Tvebakker; Chokolade; Kaffebaserede drikke; Tebaserede drikkevarer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kaffee; Tee; Kakao; Zucker; Reis; Mehl; Getreidepräparate; Brot; Feine Backwaren; Zuckerwaren, Konfekt; Speiseeis; Honig; Hefe; Salz; Essig; Gewürze; Kühleis; Sandwiches; Pizzas; Pfannkuchen [Crepes]; Kekse; Kuchen; Zwieback; Schokolade; Kaffeegetränke; Getränke auf der Basis von Tee.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καφές· Τσάι· Κακάο· Ζάχαρη· Ρύζι· Αλεύρι· Δημητριακά· Άρτος· Γλυκά· Ζαχαρώδη· Παγωτά και κρέμα παγωτό· Μέλι· Μαγιά· Αλάτι· Ξύδι· Μαγειρικά βότανα, μπαχαρικά· Παγωτά και κρέμα παγωτό· Σάντουιτς· Πίτσες· Τηγανίτες· Γλυκά· Γλυκά· Φρυγανιές· Σοκολάτα· Ποτά με βάση τον καφέ· Ποτά με βάση το τσάι.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Coffee; Tea; Cocoa; Sugar; Rice; Flour; Cereal preparations; Bread; Pastries; Confectionery; Edible ices; Honey; Yeast; Salt; Vinegar; Spices; Ice for refreshment; Sandwiches; Pizzas; Pancakes; Biscuits; Cakes; Rusks; Chocolate; Coffee-based beverages; Tea-based beverages.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Café; Té; Cacao; Azúcar; Arroz; Harinas; Preparaciones a base de cereales; Pan; Productos de pastelería; Productos de confitería; Helados; Miel; Levadura; Sal; Vinagres; Especias; Hielo; Sándwiches; Pizzas; Creps [filloas]; Galletas; Pasteles; Biscotes; Chocolate; Bebidas a base de café; Bebidas a base de té.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kohv; Tee; Kakao; Suhkur; Riis; Jahu; Teraviljasaadused; Leib, sai; Kondiitritooted; Maiustused; Jäätised; Mesi; Pärm; Sool; Äädikas; Vürtsid; Jahutusjää; Võileivad; Pitsad; Pannkoogid; Biskviidid, küpsised; Koogid, keeksid, tordid; Kuivikud; Šokolaad; Kohvijoogid; Teejoogid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kahvi; Tee; Kaakao; Sokeri; Riisi; Jauhot; Viljavalmisteet; Leipä; Voitaikina; Sokerimakeiset; Jäätelöt; Hunaja; Hiiva; Suola; Etikka; Maustesekoitukset; Jäätelöt; Voileivät; Pizza; Pannukakut; Voitaikina; Voitaikina; Korput; Suklaa; Juomat, kahvipohjaiset; Teepohjaiset juomat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Café; thé; cacao; sucre; riz; farine; préparations faites de céréales; pain; pâtisseries; confiserie; glaces alimentaires; miel; levure; sel; vinaigre; épices; glace à rafraîchir; sandwiches; pizzas; crêpes (alimentation); biscuits; gâteaux; biscottes; chocolat; boissons à base de café; boissons à base de thé.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kava; Čaj; Kakao; Šećer; Riža; Brašno; Žitarice; Kruh; Tijesto za kolače; Slastice; Sladoledi i mliječni sladoledi; Med; Pjenica [kvasac]; Sol; Ocat; Mirodije; Sladoledi i mliječni sladoledi; Sendviči; Pizza; Palačinke; Tijesto za kolače; Tijesto za kolače; Dvopek; Čokolada; Pića na bazi kave; Napitci na bazi čaja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kávé; Tea; Kakaó; Cukor; Rizs; Liszt; Gabonakészítmények; Kenyér; Süteménytészta; Kandiscukor; Fagylaltok és jégkrémek; Méz; Élesztő; Só; Ecet; Fűszerek; Fagylaltok és jégkrémek; Szendvicsek; Pizza; Palacsinták; Süteménytészta; Süteménytészta; Kétszersültek; Csokoládé; Kávé alapú italok; Tea alapú italok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Caffè; Tè; Cacao; Zucchero; Riso; Farine alimentari; Preparati fatti di cereali; Pane; Pasticcini; Confetteria; Gelati commestibili; Miele; Lievito; Sale; Aceto; Spezie; Ghiaccio per rinfrescare; Sandwiches; Pizze; Crêpes; Biscotti; Dolci; Pane biscottato; Cioccolato; Bevande a base di caffè; Bevande a base di tè.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kava; Arbata; Kakava; Cukrus; Ryžiai; Miltai; Grūdų produktai; Duona; Miltiniai konditerijos gaminiai; Konditerijos gaminiai; Valgomieji ledai; Medus; Mielės; Druska; Actas; Prieskoniai [aštrieji]; Ledas (šaldymui); Sumuštiniai; Picos; Blynai; Biskvitai; Kepiniai; Džiūvėsiai; Šokoladas ir šokoladiniai saldainiai; Kavos gėrimai; Arbatžolių gėrimai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kafija; Tēja; Kakao; Cukurs; Rīsi; Milti; Graudaugu produkti; Maize; Maizes izstrādājumi; Konditorejas izstrādājumi; Saldēti deserti; Medus; Raugs; Sāls; Etiķis; Aromātiskās garšvielas; Pārtikas ledus; Sviestmaizes; Picas; Pankūkas; Cepumi; Kūkas; Sausiņi; Šokolāde; Dzērieni, kas pamatā sastāv no kafijas; Dzērieni, kas pamatā sastāv no tējas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kafè; Tè; Kawkaw; Zokkor; Ross; Dqiq; Ċereali; Ħobż; Għaġina tal-kejk; Ħelu; Silġ li jittiekel; Għasel; Ħmira; Melħ; Ħall; Ħwawar; Silġ għar-rinfreskar; Sandwiċis; Pizez; Pancakes; Għaġina tal-kejk; Għaġina tal-kejk; Panini jqarmċu; Ċikkulata; Xorb ibbażat fuq il-kafè; Xorb ibbażat fuq it-te.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Koffie; Thee; Cacao; Suiker; Rijst; Meel; Graanpreparaten; Brood; Banketbakkerswaren; Suikergoed; Consumptie-ijs; Honing; Gist; Zout; Azijn; Specerijen; Koelijs; Belegde broodjes; Pizza's; Pannenkoeken; Koekjes; Taarten; Beschuit; Chocolade; Dranken op basis van koffie; Dranken op basis van thee.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kawa; Herbata; Kakao; Cukier; Ryż; Mąka; Zboża; Chleb; Ciastka; Wyroby cukiernicze; Lody; Miód; Drożdże; Sól; Ocet; Przyprawy korzenne; Lody; Kanapki; Pizza; Naleśniki; Ciasteczka; Ciasta; Suchary; Czekolada; Napoje na bazie kawy; Nielecznicze napoje na bazie herbaty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Café; Chá; Cacau; Açúcar; Arroz; Farinhas alimentares; Preparações à base de cereais; Pão; Produtos de pastelaria; Confeitaria; Gelados alimentares; Mel; Levedura; Sal; Vinagres; Especiarias; Gelo para refrescar; Sanduiches; Pizzas; Panquecas [crepes]; Biscoitos [bolinhos]; Bolos; Tostas; Chocolate; Bebidas à base de café; Bebida à base de chá.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cafea; Ceai; Cacao; Zahăr; Orez; Făină; Cereale; Pâine; Torturi; Dulciuri; Înghețată; Miere; Drojdie; Sare; Oțet; Mirodenii; Înghețată; Sandvișuri; Pizza; Clătite americane; Torturi; Torturi; Pișcoturi; Ciocolată; Băuturi pe bază de cafea; Băuturi pe bază de ceai (nemedicamentoase).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Káva; Čaj; Kakao; Cukor; Ryža; Múka; Prípravky z obilnín; Chlieb; Jemné pečivárske výrobky; Cukrovinky; Zmrzliny; Med; Droždie; Soľ; Ocot; Korenie; Ľad do nápojov; Sendviče; Pizza; Palacinky; Sušienky, keksy; Zákusky, koláče; Sucháre; Čokoláda; Kávové nápoje; Čajové nápoje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kava; Čaj; Kakav; Sladkor; Riž; Moka; Žitarice; Kruh; Testo za torte; Slaščice; Sladoled in mlečni sladoled; Med; Kvas; Sol; Kis; Dišave, začimbe (rastlinskega izvora, največkrat v prahu); Led; Sendviči; Pice; Palačinke; Testo za torte; Testo za torte; Prepečenec; Čokolada; Pijače na osnovi kave; Pijače na osnovi čaja (ne za medicinske namene).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kaffe; Te; Kakao; Socker; Ris; Mjöl; Spannmålspreparat; Bröd; Bakverk; Konfektyrer; Glassvaror; Honung; Jäst; Salt; Vinäger; Kryddor; Is för förfriskningar; Smörgåsar; Pizzor; Pannkakor; Småkakor; Kakor; Skorpor; Choklad; Kaffebaserade drycker; Te-baserade drycker.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>FR</PriorityCountryCode>
+<PriorityNumber>4584090</PriorityNumber>
+<PriorityDate>2019-09-23</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/191</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-10-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079006</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>66541</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003126194</OppositionIdentifier>
+<OppositionDate>2020-07-16</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion
+Unfair advantage /detriment to distinctiveness or repute</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>ES</EarlierMarkCountryCode>
+<ApplicationNumber>M2689432</ApplicationNumber>
+<ApplicationDate>2006-01-05</ApplicationDate>
+<RegistrationNumber>M2689432</RegistrationNumber>
+<RegistrationDate>2006-06-16</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BIMBO</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>ES</EarlierMarkCountryCode>
+<ApplicationNumber>M2689432</ApplicationNumber>
+<ApplicationDate>2006-01-05</ApplicationDate>
+<RegistrationNumber>M2689432</RegistrationNumber>
+<RegistrationDate>2006-06-16</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BIMBO</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>ES</EarlierMarkCountryCode>
+<ApplicationNumber>M3103913</ApplicationNumber>
+<ApplicationDate>2013-12-19</ApplicationDate>
+<RegistrationNumber>M3103913</RegistrationNumber>
+<RegistrationDate>2014-04-11</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BIMBO PAN DE HORNO</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>ES</EarlierMarkCountryCode>
+<ApplicationNumber>M3103913</ApplicationNumber>
+<ApplicationDate>2013-12-19</ApplicationDate>
+<RegistrationNumber>M3103913</RegistrationNumber>
+<RegistrationDate>2014-04-11</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BIMBO PAN DE HORNO</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>39344</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>14251</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

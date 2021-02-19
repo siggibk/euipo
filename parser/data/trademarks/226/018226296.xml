@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T17:01:15</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226296</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226296</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-01</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>BASENOR</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>12</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Вериги против буксуване; Сенници, щори, пригодени за автомобили; Багажници за ски на автомобили; Капаци за превозни средства; Скачване на ремаркета за превозни средства; Стъпала за превозни средства; Калъфи за седалки за превозни средства; Чистачки за предното стъкло за превозни средства; Тапицерия за вътрешността на превозни средства; Спойлери за превозни средства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Protismykové řetězy; Sluneční clony do automobilů; Nosiče lyží pro automobily; Kapoty pro vozidla; Tažná zařízení na vozidla; Stupačky vozidel; Potahy na sedadla vozidel; Stěrače skel; Čalounění do vozidel; Spoilery pro vozidla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Antiskridkæder; Solskærme udformede til automobiler; Skiholdere til biler; Kalecher til befordringsmidler; Anhængertræk til befordringsmidler; Trinbrætter til befordringsmidler; Sædebetræk til befordringsmidler; Vinduesviskere; Indtræk til befordringsmidler; Spoilere til befordringsmidler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schnee-, Gleitschutzketten; Sonnenblenden für Automobile; Skiständer für Kraftfahrzeuge; Fahrzeugverdecke; Anhängerkupplungen für Fahrzeuge; Trittbretter für Fahrzeuge; Schonbezüge für Fahrzeugsitze; Scheibenwischer; Innenpolsterungen für Fahrzeuge; Spoiler für Fahrzeuge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αλυσίδες αντιολισθητικές· Σκίαστρα για αυτοκίνητα· Σχάρες μεταφοράς χινοπέδιλων για χρήση σε οχήματα· Κουκούλες οχημάτων· Ζεύξεις ρυμουλκών για οχήματα· Βαθμίδες [σκαλοπάτια] οχημάτων· Καλύμματα για καθίσματα οχημάτων· Καθαριστήρες (Υαλο -)· Επενδύσεις εσωτερικές οχημάτων [ταπετσαρίες]· Φθορείς άνωσης για οχήματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">anti-skid chains; sun-blinds adapted for automobiles; ski carriers for cars; hoods for vehicles; trailer hitches for vehicles; vehicle running boards; seat covers for vehicles; windshield wipers; upholstery for vehicles; spoilers for vehicles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cadenas antiderrapantes; Parasoles para automóviles; Portaesquís para automóviles; Capotas para vehículos; Enganches de remolque para vehículos; Escalones para vehículos; Fundas para asientos de vehículos; Limpiaparabrisas; Tapizados para interiores de vehículos; Alerones para vehículos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Libisemisvastased rehviketid; Autode päikesekatted, -varjud; Autode suusakaared; Sõidukite lükandkatused; Sõidukite haakeseadmed; Sõidukite astmelauad; Sõidukite istmekatted; Klaasipuhastid; Sõidukipolsterdused; Sõidukite spoilerid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Liukuesteketjut; Kaihtimet autoihin; Suksitelineet autoihin; Konepellit ajoneuvoihin; Ajoneuvojen hinauskoukut; Ajoneuvojen astinlaudat; Istuinpäällykset ajoneuvoihin; Tuulilasinpyyhkimet; Verhoilut ajoneuvoihin; Ajoneuvojen spoilerit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Chaînes antidérapantes; Stores [pare-soleil] pour automobiles; Porte-skis pour automobiles; Capotes de véhicules; Attelages de remorques pour véhicules; Marchepieds de véhicules; Housses pour sièges de véhicules; Essuie-glace; Garnitures intérieures de véhicules [capitonnage]; Spoilers pour véhicules.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Lanci protiv klizanja; Automobilske mrežice protiv sunca; Nosači za skije za vozila; Poklopci, preklopni za vozila; Spojnice prikolice za vozila; Nogostupi za ulaz u vozila; Navlake za sjedala vozila; Brisači automobilskih stakala; Obloge, unutarnje za vozila [tapecirung]; Spojleri za vozila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Csúszásgátló láncok; Napellenzők gépkocsikba; Síléctartók járművekhez; Lenyitható tetők járművekhez; Utánfutó horgok járművekhez; Járműlépcsők, fellépők, hágcsók; Üléshuzatok járművekhez; Ablaktörlők, szélvédőtörlők; Járműkárpitok; Spoilerek, légterelő szárnyak járművekhez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Catene antisdrucciolo; Alette [parasole] per automobili; Porta-sci per automobili; Cappotte di veicoli; Attacchi di rimorchi per veicoli; Predellini di veicoli; Fodere per sedili di veicoli; Tergicristalli; Guarnizioni interne di veicoli [imbottitura]; Spoiler per veicoli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Grandinės nuo slydimo; Automobilių užuolaidėlės nuo saulės; Slidžių bagažinės (automobilinės); Transporto priemonių gaubtai; Transporto priemonių prikabinimo įtaisai; Transporto priemonių laipteliai; Transporto priemonių sėdynių apvalkalai; Priekinių stiklų valytuvai; Transporto priemonių apmušalai; Transporto priemonių aptakai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Pretslīdes ķēdes; Automobiļu sauljumi; Transportlīdzekļu jumta bagāžnieki slēpju pārvadāšanai; Transportlīdzekļu pārsegi; Pacēlāji transportlīdzekļiem; Transportlīdzekļu pakāpieni; Transportlīdzekļu sēdekļu apvalki; Stiklu tīrītāji; Transportlīdzekļu tapsējums; Transportlīdzekļu spoileri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Katini ta' kontra ż-żlieq; Ilqugħ (kontra x-xemx) għal vetturi ta' fuq l-art; Ġarriera tal-iski għall-vetturi; Għata għall-vetturi; Ganċijiet tal-irmonk għall-vetturi; Stafef għal vetturi; Kisi għas-sedili ta' vetturi; Xfafar tal-lasktu għat-tneħħija ta' l-ilma minn fuq il-ħġieġa ta' quddiem tal-vetturi; Tapizzerija tal-vetturi; Spojlers għall-vetturi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Sneeuwkettingen; Zonneschermen voor automobielen; Skidragers voor automobielen; Kappen voor voertuigen; Koppelingen [aanhaakinrichtingen] voor aanhangwagens; Treeplanken voor voertuigen; Hoezen voor voertuigzittingen; Ruitenwissers; Binnenbekledingen voor voertuigen; Spoilers voor voertuigen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Łańcuchy przeciwpoślizgowe; Osłony przeciwsłoneczne do samochodów; Bagażniki na narty do samochodów; Maski do pojazdów; Złącza do przyczep do pojazdów; Stopnie nadwozia do pojazdów; Pokrowce na siedzenia pojazdów; Wycieraczki do przednich szyb; Tapicerka do pojazdów; Spojlery do pojazdów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Correntes antiderrapantes; Estores para-sol concebidos para automóveis; Porta-esquis para automóveis; Capotas para veículos; Ganchos de reboques para veículos; Estribos para veículos; Coberturas para assentos de veículos; Limpa para-brisas; Estofos para veículos; Spoilers para veículos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Lanțuri antiderapante; Parasolare [storuri] pentru automobile; Portschiuri pentru automobile; Capote de vehicule; Dispozitive de remorcare pentru vehicule; Scări pentru vehicule; Huse pentru scaune de vehicule; Ștergătoare de parbriz; Tapițerii pentru vehicule; Spoilere pentru vehicule.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Protišmykové reťaze; Tienidlá proti slnku do automobilov; Nosiče lyží na autá; Kapoty na vozidlá; Ťažné zariadenia vozidiel; Stúpadlá na vozidlá; Poťahy na sedadlá automobilov; Stierače; Čalúnenie automobilov; Spojlery na vozidlá.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Protizdrsne verige; Senčniki za avtomobile; Prtljažniki za smuči za vozila; Ponjave za vozila; Vlečne kljuke za vozila; Stranske stopnice pri vozilih; Sedežne prevleke za vozila; Brisalci vetrobranskih stekel; Oblazinjenje za vozila; Spojlerji za vozila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Snökedjor; Solskydd för bilrutor; Skidhållare för bilar; Suffletter för fordon och farkoster; Dragkrokar för fordon och farkoster; Fotsteg för fordon; Sätesöverdrag för fordon och farkoster; Vindrutetorkare; Stoppad klädsel för fordon och farkoster; Spoilers för fordon.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/077</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080433</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15039</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017950422</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15039</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-05-27</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

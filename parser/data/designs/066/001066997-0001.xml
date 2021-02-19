@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:56</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001066997-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2009-01-07</ReceivingOfficeDate>
+<DesignIdentifier>001066997-0001</DesignIdentifier>
+<ApplicationNumber>001066997</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-01-20</PublicationDate>
+<ApplicationReference>D22027EU/SPC/JWB</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061882463</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066997_0001/001066997_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061882466</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066997_0001/001066997_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061882468</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066997_0001/001066997_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061882470</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066997_0001/001066997_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061882472</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066997_0001/001066997_0001_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061882474</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066997_0001/001066997_0001_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061882476</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066997_0001/001066997_0001_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Калъфи за кредитни карти</IndicationProduct>
+       <IndicationProduct languageCode="cs">Obaly na kreditní karty</IndicationProduct>
+       <IndicationProduct languageCode="da">Kreditkortetuier</IndicationProduct>
+       <IndicationProduct languageCode="de">Kreditkartenetuis</IndicationProduct>
+       <IndicationProduct languageCode="el">θήκες για πιστωτικές κάρτες</IndicationProduct>
+       <IndicationProduct languageCode="en">Credit-card holders</IndicationProduct>
+       <IndicationProduct languageCode="es">Fundas para tarjetas de crédito</IndicationProduct>
+       <IndicationProduct languageCode="et">Krediitkaardihoidjad</IndicationProduct>
+       <IndicationProduct languageCode="fi">luottokorttisuojukset</IndicationProduct>
+       <IndicationProduct languageCode="fr">Porte-cartes de crédit</IndicationProduct>
+       <IndicationProduct languageCode="hu">hitelkártyatartók</IndicationProduct>
+       <IndicationProduct languageCode="it">Porta-carte di credito</IndicationProduct>
+       <IndicationProduct languageCode="lt">dėklai kreditinėms kortelėms Kreditinių kortelių dėklai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Kredītkāršu maki</IndicationProduct>
+       <IndicationProduct languageCode="mt">Portafoll għall-karti tal-kreditu</IndicationProduct>
+       <IndicationProduct languageCode="nl">Creditcardhouders</IndicationProduct>
+       <IndicationProduct languageCode="pl">Portfele na karty kredytowe</IndicationProduct>
+       <IndicationProduct languageCode="pt">Carteiras para cartões de crédito</IndicationProduct>
+       <IndicationProduct languageCode="ro">Suporturi pentru cărţi de credit</IndicationProduct>
+       <IndicationProduct languageCode="sk">Puzdrá na kreditné karty</IndicationProduct>
+       <IndicationProduct languageCode="sl">Etuiji za kreditne kartice</IndicationProduct>
+       <IndicationProduct languageCode="sv">Kreditkortshållare</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>03.01</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/011</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-20</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2011/107</PublicationIdentifier>
+        <PublicationSequenceNumber>584702</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2011-05-13</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1326038</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>10626</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>004816058</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>584702</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2011-05-13</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-18T17:56:17</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229054</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229054</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-19</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>DECIBEL</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бизнес консултантски услуги и услуги за управление на бизнеса в областта на рисковия капитал, А именно, Формулиране на бизнес стратегии и предоставяне на стратегически съвети за бизнес планиране за предприемачи, стартиращи и нововъзникващи компании; Услуги за развитие на нови бизнес начинания за предприемачи, стартиращи и нововъзникващи компании.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Obchodně poradenské služby a obchodně manažerské služby v oboru rizikového kapitálu, Jmenovitě, Formulace obchodních strategií a poskytování poradenství v oblasti strategického obchodního plánování pro podnikatele, začínající společnosti a vyvíjející se společnosti; Služby nového obchodního rozvoje pro podnikatele, začínající společnosti a vyvíjející se společnosti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Forretningsrådgivning og forretningsledelse inden for risikovillig kapital, Nemlig, Formulering af forretningsstrategier og ydelse af strategisk rådgivning med hensyn til forretningsplanlægning, alt møntet på iværksættere, nystartede virksomheder og virksomheder i opstartsfasen; Udvikling af nye virksomhedssamarbejder med risikovillig kapital møntet på iværksættere, nystartede virksomheder og virksomheder i opstartsfasen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Unternehmensberatung und Geschäftsführung im Bereich Risikokapital, Nämlich, Aufstellung von Unternehmensstrategien und Bereitstellung von Beratung in Bezug auf strategische Geschäftsplanung für Unternehmer, neu gegründete und sich entwickelnde Unternehmen; Projektentwicklung in Bezug auf neue Unternehmen für Unternehmer und junge und neue Unternehmen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες παροχής επιχειρηματικών συμβουλών και υπηρεσίες διαχείρισης επιχειρήσεων στον τομέα του κεφαλαίου επιχειρηματικού κινδύνου, Συγκεκριμένα, Κατάρτιση επιχειρηματικών στρατηγικών και παροχή συμβουλών σε θέματα στρατηγικού επιχειρηματικού σχεδιασμού για επιχειρηματίες, νεοφυείς και αναδυόμενες εταιρείες· Υπηρεσίες ανάπτυξης νέων επιχειρηματικών κεφαλαίων για επιχειρηματίες, νεοφυείς και αναδυόμενες εταιρείες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Business-advisory services and business-management services in the field of venture capital, namely, formulating business strategies and providing strategic business planning advice for entrepreneurs, start-up and emerging companies; New business venture development services for entrepreneurs, start-up and emerging companies.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de asesoramiento de negocios y servicios de gestión de negocios en el ámbito del capital riesgo, En concreto, Formulación de estrategias de negocio y asesoramiento sobre planificación estratégica de negocios para emprendedores, empresas de nueva creación y empresas emergentes; Servicios de desarrollo de nuevos negocios para emprendedores, empresas de nueva creación y empresas emergentes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ärialased nõustamisteenused ja ärialane juhtimine riskikapitali valdkonnas, Nimelt, Äristrateegiate koostamine ja strateegilise ärinõu pakkumine ettevõtjatele, idufirmadele ja alustavatele ettevõtetele; Uue äriettevõtte arendusteenused ettevõtjatele, idufirmadele ja alustavatele ettevõtetele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Yritysneuvontapalvelut ja liikkeenjohtopalvelut riskipääoman alalla, Nimittäin, Liiketoimintastrategioiden laatiminen ja strategista liiketoimintasuunnittelua koskevan neuvonnan tarjoaminen yrittäjille, toimintaansa aloitteleville ja kasvaville yrityksille; Uusien yrityshankkeiden kehittämispalvelut yrittäjille, toimintaansa aloitteleville ja kasvaville yrityksille.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de conseils commerciaux et services de gestion commerciale dans le domaine du capital-risque, À savoir, Élaboration de stratégies commerciales et fourniture de conseils en matière de planification commerciale stratégique pour les entrepreneurs, les entreprises nouvelles et émergentes; Services de développement de nouvelles entreprises commerciales pour les entrepreneurs, les entreprises nouvelles et émergentes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge poslovnog savjetovanja i poslovnog upravljanja na području rizičnog kapitala, Odnosno, Formuliranje poslovnih strategija i pružanje savjeta u svezi s planiranjem poslovnih strategija za poduzetnike, novonastale tvrtke i tvrtke u razvoju; Usluge razvoja novih poslovnih pothvata za poduzetnike, novonastale tvrtke i tvrtke u razvoju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Üzleti tanácsadási és üzleti menedzsment szolgáltatások a kockázati tőke területén, Nevezetesen, Üzleti stratégiák megfogalmazása és stratégiai üzleti tervezési tanácsadás a vállalkozók, az induló és a feltörekvő vállalkozások számára; Új üzleti vállalkozási fejlesztési szolgáltatások vállalkozók, induló és feltörekvő vállalkozások számára.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di consulenza e di assistenza aziendale e di gestione aziendale in materia di capitale di rischio, Ovvero, Creazione di strategie aziendali e consulenza in materia di pianificazione strategica commerciale per imprenditori, start-up e società emergenti; Sviluppo di nuove imprese commerciali per imprenditori, start-up e società emergenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Verslo patariamosios ir verslo valdymo paslaugos rizikos kapitalo srityje, Būtent, Verslo strategijų formulavimas ir strateginio verslo planavimo patarimų teikimas verslininkams, pradedančioms ir besikuriančioms įmonėms; Naujos verslo plėtros paslaugos verslininkams, pradedančioms ir besikuriančioms įmonėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Uzņēmējdarbības konsultāciju pakalpojumi un uzņēmējdarbības vadības pakalpojumi riska kapitāla jomā, Proti, Biznesa stratēģiju formulēšana un stratēģisko biznesa plānošanas padomu sniegšana uzņēmējiem, jaundibinātiem un topošajiem uzņēmumiem; Jauni biznesa riska attīstības pakalpojumi uzņēmējiem, jaundibinātiem un topošajiem uzņēmumiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' ġestjoni u pariri dwar in-negozju fil-qasam ta' kapital ta' sogru, Jiġifieri, Tfassil ta' strateġiji kummerċjali u l-provvista ta' pariri strateġiċi dwar l-ippjanar tan-negozju għal intraprendituri, kumpaniji li għadhom jibdew u dawk emerġenti; Servizzi ta' żviluppi ta' riskji ta' negozju ġodda għal intraprendituri, kumpaniji li għadhom jibdew u dawk emerġenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Advisering op zakelijk gebied en beheer van commerciële zaken op het gebied van risicokapitaal, Te weten, Formuleren van zakelijke strategieën en advisering inzake strategische zakelijke planning voor ondernemers, opkomende en startende ondernemingen; Ontwikkeling van nieuwe ondernemingen voor ondernemers, opkomende en startende bedrijven.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi doradcze w zakresie działalności gospodarczej oraz usługi zarządzania działalnością gospodarczą w zakresie funduszy venture capital, Mianowicie, Określanie strategii biznesowych oraz udzielanie porad w zakresie strategii planowania biznesowego dla przedsiębiorców, start-upów i nowopowstających firm; Usługi w zakresie rozwoju nowych przedsięwzięć gospodarczych dla przedsiębiorców, start-upów i nowopowstających firm.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de assessoria e gestão de negócios no domínio do capital de risco, Nomeadamente, Formulação de estratégias empresariais e assessoria em planeamento estratégico empresarial para empresários e empresas em fase de arranque e emergentes; Serviços de desenvolvimento de novos empreendimentos de negócios para empresários e empresas em fase de arranque e emergentes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de asistență pentru firme și de administrare comercială în domeniul capitalului de risc, Şi anume, Formularea de strategii de afaceri și furnizarea de asistență strategică pentru planificarea afacerilor pentru antreprenori, firme nou-înființate și în dezvoltare; Servicii de dezvoltare de capital pentru firme noi pentru antreprenori, firme nou-înființate și în dezvoltare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Obchodné poradenské služby a služby obchodného manažmentu v oblasti rizikového kapitálu, Menovite, Vytváranie obchodných stratégií a poskytovanie strategického obchodného plánovacieho poradenstva pre podnikateľov, začínajúce a vznikajúce firmy; Služby rozvoja nových firiem pre podnikateľov, začínajúce a vznikajúce firmy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve poslovnega svetovanja in vodenja komercialni poslov na področju tveganega kapitala, In sicer, Oblikovanje poslovnih strategij in nudenje svetovanja o strateškem poslovnem načrtovanju za podjetnike, zagonska in nastajajoča podjetja; Storitve razvoja novih poslovnih podvigov za podjetnike, zagonska in nastajajoča podjetja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Företagsrådgivningstjänster och företagsledningstjänster inom området för riskkapital, Nämligen, Formulering av affärsstrategier och tillhandahållande av strategisk affärsplaneringskonsultation för företagare, uppstartsföretag och tillväxtföretag; Nya affärsprojektutvecklingstjänster för företagare, uppstartsföretag och tillväxtföretag.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>36</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Финансиране на рисков капитал; Услуги във връзка с рискови капитали, а именно предоставяне на фиансиране за нововъзникващи и стартиращи предприятия.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Financování rizikového kapitálu; Služby v oblasti rizikového kapitálu, jmenovitě poskytování financování pro začínající podniky a nově založené podniky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Finansiering med risikovillig kapital; Risikovillig kapital, nemlig finansiering rettet mod virksomheder i etableringsfasen og nystartede virksomheder.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Risikokapitalfinanzierung; Dienstleistungen im Zusammenhang mit Risikokapital, nämlich Bereitstellung von Finanzierung für im Aufbau befindliche Unternehmen und neu gegründete Unternehmen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χρηματοδοτήσεις με επιχειρηματικά κεφάλαια· Υπηρεσίες σε σχέση με επιχειρηματικά κεφάλαια, συγκεκριμένα παροχή χρηματοδότησης για επιχειρήσεις υπό ανέγερση και νεοϊδρυθείσες επειχειρήσεις.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Venture capital financing; venture capital services, namely, providing financing to emerging and start-up companies.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Financiación de capital riesgo; Servicios relacionados con capitales de riesgo, en concreto, facilitación de financiación para empresas en constitución y empresas de nueva creación.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Riskikapitali finantseerimine; Riskikapitaliga seonduvad teenused, nimelt finantseerimise pakkumine kasvavatele ja iduettevõtetele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Riskisijoitusten rahoitus; Riskipääomapalvelut, nimittäin rahoituksen tarjoaminen perustamisvaiheessa oleville yrityksille ja uusille yrityksille.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Financement de capital-risque; Services de capital risque, à savoir fourniture de fonds à des nouvelles entreprises.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Financiranje rizičnog kapitala; Usluge poduzetničkog kapitala, odnosno financiranje tvrtki koje nastaju i start-up tvrtki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kockázati tőke finanszírozás; Kockázati tőkével kapcsolatos szolgáltatások, nevezetesen vállalatok indításához és felfuttatásához szükséges finanszírozás biztosítása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Finanziamento di capitali di rischio; Servizi in materia di capitali di rischio, ovvero fornitura di finanziamenti per imprese in ristrutturazione e nuove imprese fondate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Rizikos kapitalo finansavimas; Rizikos kapitalo paslaugos, būtent, steigiamų ir pradedančiųjų įmonių finansavimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Riska kapitāla finansēšana; Pakalpojumi saistībā ar riska kapitālu, proti, finansējuma nodrošināšana jaunietekmes uzņēmumiem un no jaunuzņēmumiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Finanzjament ta' kapitali għal proġett ta' riskju; Servizzi ta' kapital ta' riskju, jiġifieri, il-finanzjament għal kumpaniji emerġenti u li għadhom jibdew.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Financiering van risicokapitaal; Diensten op het gebied van risicokapitaal, te weten het ter beschikking stellen van financiering voor ondernemingen in de opbouwfase en nieuw gevestigde ondernemingen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Finansowanie kapitału wysokiego ryzyka; Usługi związane z kapitałem podwyższonego ryzyka, mianowicie zapewnianie finansowania przedsiębiorstwom nowo powstałym i rozpoczynającym swoją działalność.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Financiamento de capital de risco; Serviços de capital de risco, nomeadamente, concessão de financiamento a empresas emergentes e em fase de arranque.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Finanţarea capitalului de risc; Servicii de investiţie a capitalului de risc, şi anume furnizarea de finanţări pentru preluarea de întreprinderi în construcţie şi de firme nou înfiinţate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Financovanie rizikového kapitálu; Služby rizikového kapitálu, menovite zabezpečovanie financovania expandujúcich a začínajúcich podnikov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Financiranje tveganega kapitala; Storitve v zvezi s tveganim kapitalom, in sicer zagotavljanje financiranja podjetij, ki se ustanavljajo in ki so na novoustanovljena.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Finansiering av riskkapital; Tjänster avseende riskkapital, nämligen finansiering av framväxande och nystartade företag.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/093</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-19</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1004932</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>84076</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003128874</OppositionIdentifier>
+<OppositionDate>2020-08-19</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Art. 8(4)
+Likelihood of confusion
+Unfair advantage /detriment to distinctiveness or repute</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>008864721</ApplicationNumber>
+<ApplicationDate>2010-02-08</ApplicationDate>
+<RegistrationNumber>008864721</RegistrationNumber>
+<RegistrationDate>2010-08-02</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>DECIBEL</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>008864721</ApplicationNumber>
+<ApplicationDate>2010-02-08</ApplicationDate>
+<RegistrationNumber>008864721</RegistrationNumber>
+<RegistrationDate>2010-08-02</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>DECIBEL</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>010648046</ApplicationNumber>
+<ApplicationDate>2012-02-15</ApplicationDate>
+<RegistrationNumber>010648046</RegistrationNumber>
+<RegistrationDate>2012-08-29</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>DECIBEL</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>010648046</ApplicationNumber>
+<ApplicationDate>2012-02-15</ApplicationDate>
+<RegistrationNumber>010648046</RegistrationNumber>
+<RegistrationDate>2012-08-29</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>DECIBEL</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>494664</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>44412</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017824130</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>71673</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-05-13</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018293475</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>84076</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-08-06</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:36</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225908</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225908</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-01</RegistrationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>eclox</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Софтуер за виртуална и добавена реалност.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Software pro virtuální a rozšířenou realitu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Software til virtual og augmented reality.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Software für virtuelle und erweiterte Realität.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λογισμικό εικονικής και επαυξημένης πραγματικότητας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Virtual and augmented reality software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Software de realidad virtual y aumentada.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Virtuaalse ja täiendatud reaalsuse tarkvara.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Virtuaaliseen ja lisättyyn todellisuuteen liittyvät ohjelmistot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Logiciels de réalité virtuelle et augmentée.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Softver za virtualnu i proširenu stvarnost.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Virtuális és kiterjesztett valóság szoftverek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Software per realtà virtuale e realtà aumentata.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Virtualios ir išplėstinės realybės programinė įranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Virtuālās un paplašinātās realitātes programmatūra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Softwer virtwali u b'realtà awmentata.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Software voor virtuele en verhoogde realiteit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oprogramowanie do rzeczywistości wirtualnej i rozszerzonej.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Software de realidade virtual e aumentada.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Software pentru realitate virtuală și augmentată.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Softvér pre virtuálnu a rozšírenú realitu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Programska oprema za virtualno in razširjeno resničnost.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Programvara för virtuell och förstärkt verklighet.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/077</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

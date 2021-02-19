@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-11-05T11:30:56</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063630-0002</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063630-0002</DesignIdentifier>
+<ApplicationNumber>001063630</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-04-14</PublicationDate>
+<ApplicationReference>EM5563RBbib</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2018-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2019-11-01</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061901888</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063630_0002/001063630_0002_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061901890</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063630_0002/001063630_0002_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061901891</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063630_0002/001063630_0002_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061901893</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063630_0002/001063630_0002_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061901894</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063630_0002/001063630_0002_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061901896</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063630_0002/001063630_0002_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061901897</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063630_0002/001063630_0002_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Брони за транспортни средства</IndicationProduct>
+       <IndicationProduct languageCode="cs">Nárazníky vozidel</IndicationProduct>
+       <IndicationProduct languageCode="da">Kofangere til køretøjer</IndicationProduct>
+       <IndicationProduct languageCode="de">Stoßstangen für Fahrzeuge</IndicationProduct>
+       <IndicationProduct languageCode="el">Προφυλακτήρες για οχήματα</IndicationProduct>
+       <IndicationProduct languageCode="en">Bumpers for vehicles</IndicationProduct>
+       <IndicationProduct languageCode="es">Parachoques para vehículos</IndicationProduct>
+       <IndicationProduct languageCode="et">Sõidukite kaitserauad</IndicationProduct>
+       <IndicationProduct languageCode="fi">Ajoneuvojen puskurit</IndicationProduct>
+       <IndicationProduct languageCode="fr">Pare-chocs de véhicules</IndicationProduct>
+       <IndicationProduct languageCode="hu">Lökhárítók (Jármű ~)</IndicationProduct>
+       <IndicationProduct languageCode="it">Paraurti per veicoli</IndicationProduct>
+       <IndicationProduct languageCode="lt">Transporto priemonių bamperiai buferiai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Bamperi transportlīdzekļiem</IndicationProduct>
+       <IndicationProduct languageCode="mt">Bampers ta’ vetturi</IndicationProduct>
+       <IndicationProduct languageCode="nl">Bumpers voor voertuigen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Zderzaki do pojazdów</IndicationProduct>
+       <IndicationProduct languageCode="pt">Pára-choques para veículos</IndicationProduct>
+       <IndicationProduct languageCode="ro">Bare de protecţie pentru vehicule</IndicationProduct>
+       <IndicationProduct languageCode="sk">Nárazníky na vozidlá</IndicationProduct>
+       <IndicationProduct languageCode="sl">Odbijači za vozila</IndicationProduct>
+       <IndicationProduct languageCode="sv">Stötfångare för fordon</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>12.16</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PriorityDetails>
+       <Priority>
+        <PriorityCountryCode>JP</PriorityCountryCode>
+        <PriorityNumber>2008-017414</PriorityNumber>
+        <PriorityDate>2008-07-07</PriorityDate>
+        <PriorityStatusCode>Claimed</PriorityStatusCode>
+       </Priority>
+      </PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/068</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-04-14</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/002</PublicationIdentifier>
+        <PublicationSequenceNumber>1129235</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2014-01-07</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/133</PublicationIdentifier>
+        <PublicationSequenceNumber>1269012</PublicationSequenceNumber>
+        <PublicationSection>B.2.2</PublicationSection>
+        <PublicationDate>2014-07-21</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/137</PublicationIdentifier>
+        <PublicationSequenceNumber>1276360</PublicationSequenceNumber>
+        <PublicationSection>B.2.2</PublicationSection>
+        <PublicationDate>2014-07-25</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2015/043</PublicationIdentifier>
+        <PublicationSequenceNumber>1441572</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2015-03-04</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2019/210</PublicationIdentifier>
+        <PublicationSequenceNumber>101483913</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2019-11-05</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>6961</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>10111</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>008330130</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1276360</PublicationSequenceNumber>
+           <PublicationSection>B.2.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-07-25</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>008314951</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1269012</PublicationSequenceNumber>
+           <PublicationSection>B.2.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-07-21</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>009055538</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1441572</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2015-03-05</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006996106</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1129235</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-07</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

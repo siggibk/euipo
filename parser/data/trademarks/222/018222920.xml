@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:34:28</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222920</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222920</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>sv</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-08</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Cine4Health</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>6</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Метални конструкции и преносими постройки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Přemístitelné konstrukce a kovové stavby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Konstruktioner og transportable bygninger af metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bauten und transportable Bauten aus Metall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Mεταλλικές κατασκευές και λυόμενες μεταλλικές κατασκευές.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Structures and transportable buildings of metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Estructuras y construcciones transportables metálicas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Metallist tarindid ja transporditavad ehitised.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Metalliset rakenteet ja siirrettävät rakennukset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Structures métalliques et constructions transportables en métal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Metalne strukture i prijenosne građevine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fémből készült szerkezetek és hordozható építmények.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Strutture e costruzioni trasportabili in metallo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Metalinės konstrukcijos ir kilnojamieji statiniai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Metāla konstrukcijas un pārvietojamas metāla būves.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Strutturi u bini trasportabbli tal-metall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Constructies en verplaatsbare constructies van metaal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Metalowe konstrukcje i budynki przenośne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Estruturas e construções transportáveis de metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Structuri și construcții metalice transportabile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kovové konštrukcie a kovové prenosné stavby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Konstrukcije in prenosne kovinske zgradbe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Konstruktioner och flyttbara byggnader av metall.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Филми, които могат да се изтеглят; Филми, експонирани; Образователни курсови материали, с възможност за записване; Записано медийно съдържание; Записано съдържание; Компютърни софтуерни приложения; Прожекционни екрани; Аудиовидео апаратура; Екрани; Светлофилтри [фотография]; Програми за компютри.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Filmy ke stažení; Exponované filmy; Materiály pro vzdělávací kurzy ke stažení; Obsah médií; Nahraný obsah (počítačové programy, data a informace); Aplikační software; Promítací plátna; Audiovizuální přístroje; Obrazovky; Odrazné desky [fotografování]; Počitačové programy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Spillefilm, der kan downloades; Eksponerede film; Downloadable undervisningskursusmateriale; Medieindhold; Optaget indhold; Applikationssoftware; Projektionsskærme; Audiovisuelle apparater; Skærme; Skærme [fotografiske]; Programmer til computere [computersoftware].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Herunterladbare Kinofilme; Belichtete Filme; Herunterladbare Kursmaterialien für Schulungen und Ausbildungen; Bespielte Medien; Aufgezeichnete Daten; Anwendungssoftware; Projektionsschirme; Audiovisuelle Geräte; Bildschirme; Schirme [Fotografie]; Programme für Computer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Τηλεφορτώσιμες κινηματογραφικές ταινίες· Φωτοεκτεθειμένα φιλμ· Τηλεφορτώσιμο εκπαιδευτικό υλικό μαθημάτων· Περιεχόμενο πολυμέσων· Ηχογραφημένα περιεχόμενα· Λογισμικό εφαρμογών· Οθόνες προβολής· Οπτικοακουστικά όργανα· Οθόνες οπτικής παρουσίασης· Οθόνες [φωτογραφία]· Προγράμματα για ηλεκτρονικούς υπολογιστές.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Downloadable movies; Films, exposed; Downloadable educational course materials; Media content; Recorded content; Application software; Projection screens; Audiovisual apparatus; Display screens; Screens [photography]; Programs for computers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Películas cinematográficas descargables; Películas expuestas; Material de cursos educativos descargable; Contenidos multimedia; Grabaciones; Programas de aplicación; Pantallas de proyección; Aparatos audiovisuales; Pantallas de visualización; Pantallas [fotografía]; Programas para ordenadores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Allalaaditavad filmid; Säritatud filmid; Allalaaditavad õppekursuse materjalid; Meediasisu; Salvestised; Rakenduslik tarkvara; Projektsiooniekraanid; Audiovisuaalseadmed; Kuvaseadmed; Ekraanid [fototarbed]; Arvutiprogrammid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ladattavat elokuvat; Filmit, valotetut; Ladattavat opetuskurssimateriaalit; Mediatallenteet; Tallenteet; Sovellusohjelmistot; Projektiotasot; Audiovisuaaliset laitteet; Näyttöruudut; Valkokankaat [valokuvaukseen]; Ohjelmat tietokoneille.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Films cinématographiques téléchargeables; Films exposés; Matériel de cours éducatif téléchargeable; Contenu de médias; Contenu enregistré; Logiciels d'applications; Écrans de projection; Appareils audiovisuels; Écrans d'affichage; Écrans [photographie]; Programmes pour ordinateurs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Filmovi koji se mogu preuzimati; Eksponirani film; Materijali za obrazovne tečajeve koji se mogu preuzeti; Medijski sadržaj; Snimljeni sadržaj; Aplikacijski softver; Zasloni za projiciranje [ekrani]; Audiovizualni uređaji; Zasloni; Zasloni [fotografija]; Programi za računala.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Letölthető filmek; Exponált filmek; Letölthető tanfolyami anyagok; Média tartalmak; Rögzített tartalmak; Applikációs szoftver; Vetítővásznak; Audiovizuális készülékek, berendezések; Kijelzők; Háttérvásznak [fényképészet]; Programok számítógépekhez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pellicole cinematografiche scaricabili; Pellicole impressionate; Materiali per corsi d'istruzione scaricabili; Contenuti per mezzi di comunicazione; Contenuti registrati; Software specializzati; Schermi di proiezione; Apparecchi audiovisivi; Schermi di visualizzazione; Schermi [fotografia]; Programmi per computer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Parsisiunčiami filmai; Eksponuoti filmai; Parsisiunčiamoji mokomųjų kursų medžiaga; Masinės Informacijos priemonių turinys; Įrašytas turinys; Taikomoji programinė įranga; Projekciniai ekranai; Audiovizualinė aparatūra; Vaizduokliai; Ekranai [fotografija]; Kompiuterių programos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Lejupielādējamas filmas; Eksponētas filmas; Lejupielādējami mācību kursu materiāli; Audio, video un multivides materiāli; Ierakstu materiāli; Lietojumprogrammatūra; Projekcijas ekrāni; Audiovizuālie aparāti; Monitori; Ekrāni fotogrāfijai; Programmas datoriem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Films li jistgħu jitniżżlu; Films, esposti; Materjali ta' korsijiet edukattivi li jistgħu jitniżżlu; Kontenut tal-midja; Kontenut irrekordjat; Softwer għal applikazzjonijiet; Skrins għall-projezzjoni ta' films; Tagħmir awdjoviżiv; Skrins tad-displej; Skrins [fotografija]; Programmi għall-kompjuter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Downloadbare films; Films, belicht; Downloadbaar educatief cursusmateriaal; Media content; Opgenomen content; Softwaretoepassingen; Projectieschermen; Audiovisuele instrumenten; Beeldschermen; Schermen [fotografie]; Programma' s voor computers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Filmy do pobrania; Filmy [błony] naświetlone; Edukacyjne materiały na zajęcia, do pobrania; Muzyka, filmy i inne rodzaje elektronicznych publikacji tekstowych i obrazowych utrwalone na nośnikach; Utrwalone na nośnikach informacje i dane; Oprogramowanie użytkowe; Ekrany projekcyjne; Urządzenia audiowizualne; Wyświetlacze; Ekrany [fotografia]; Programy komputerowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Filmes descarregáveis; Filmes impressos; Materiais de curso educativos descarregáveis; Conteúdos de média; Conteúdo gravado; Software de aplicação; Telas de projeção; Aparelhos audiovisuais; Monitores de visualização; Telas [fotografia]; Programas para computadores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Filme descărcabile; Filme expuse; Materiale descărcabile pentru cursuri didactice; Conținut media; Materiale înregistrate; Aplicații software; Ecrane de proiecție; Sisteme audio-vizuale; Ecrane de afișare; Ecrane [fotografie]; Programe pentru calculatoare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Sťahovateľné filmy; Exponované filmy; Materiály pre vzdelávacie kurzy s možnosťou prevzatia; Záznamy na nosičoch; Nahrávky a záznamy; Aplikačný softvér; Premietacie plochy, plátna; Audiovizuálne prístroje; Obrazovky; Zobrazovacie dosky (fotografia); Počítačové programy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Naložljivi filmi; Eksponirani filmi; Prenosljivi materiali za izobraževalne tečaje; Medijske posnete vsebine; Posnete vsebine; Aplikacijska programska oprema; Projekcijski zasloni; Avdiovizualni aparati; Prikazovalni zasloni; Zasloni [fotografija]; Programi za računalnike.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Nedladdningsbara filmer; Inspelad film; Nedladdningsbart utbildningskursmaterial; Medieinnehåll; Inspelningar; Applikationsprogramvaror (appar); Projektionsdukar; Audiovisuell utrustning; Bildskärmar; Filmdukar; Datorprogramvaror.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>17</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Изолации с уплътнителни функции, за предпазване от шум; Изолации с уплътнителни функции, за топлопредпазване; Неметални конструкции за поглъщане на звука [звукоизолация]; Гума за звукоизолиране; Звукоизолиращи подови настилки; Изделия и материали за топлоизолация; Неметални изолиращи уплътнения; Изолиращи материали за строителството.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Izolace s těsnicími funkcemi pro zvukovou ochranu; Izolace s těsnicími funkcemi pro tepelnou ochranu; Nekovové konstrukce pro pohlcování hluku (zvukotěsné); Guma pro zvukovou izolaci; Podlahové podklady pro regulaci zvuku; Výrobky a materiály pro tepelnou izolaci; Nekovová těsnění na ochranu proti povětrnostním vlivům; Izolační stavební materiály.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Isolering med forseglende egenskaber til støjbeskyttelse; Isolering med forseglende egenskaber til varmebeskyttelse; Ikke-metalliske strukturer til støjabsorbering [lydisolering]; Gummi til lydisolering; Lyddæmpende underlag til gulvbelægning; Termisk isolerende artikler og materialer; Ikke-metalliske tætningslister; Isoleringsmaterialer til bygningsbrug.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Isolierungen mit Dichtungsfunktionen zum Lärmschutz; Isolierungen mit Dichtungsfunktionen zum Hitzeschutz; Material, nicht aus Metall, zur Schallabsorption [Schallschutz]; Gummi für die Schallisolierung; Schalldämmende Fußbodenbelagunterlagen; Artikel und Materialien zur Wärmeisolierung; Wetterfestes Dichtungsmaterial, nicht aus Metall; Isoliermaterial für Bauzwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μονώσεις στεγανοποίησης για προστασία από τον θόρυβο· Μονώσεις στεγανοποίησης για θερμική προστασία· Μη μεταλλικές κατασκευές για απορρόφηση θορύβου (ηχομόνωση)· Καουτσούκ για ηχομόνωση· Υποστρώματα δαπέδου για τον έλεγχο του ήχου· Είδη και υλικά θερμομόνωσης· Μη μεταλλικά στεγανοποιητικά υλικά χαραμάδων· Μονωτικά υλικά για οικοδομική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Insulations with sealing functions for noise protection; Insulations with sealing functions for heat protection; Structures (non-metallic -) for noise absorption [soundproofing]; Rubber for sound insulation; Sound control flooring underlayment; Thermal insulation articles and materials; Weather seals (Non-metallic -); Insulating materials for building.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aislamientos con funciones de sellado para protección acústica; Aislamientos con funciones de sellado para protección térmica; Estructuras no metálicas para la absorción de ruido [insonorización]; Caucho para insonorización; Solado de suelo para controlar el ruido; Artículos y materiales para aislamiento térmico; Juntas aislantes para uso exterior (no metálicas); Materiales aislantes para la construcción.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Hermetiseeriv müraisolatsioon; Hermetiseeriva funktsiooniga isolatsioonid kuumuse kaitseks; Mittemetallist mürasummutustarindid; Heliisolatsiooni kumm; Põranda aluskihid heli kontrollimiseks, summutamiseks; Termoisolatsioontooted ja -materjalid; Ilmastikukindlad tihendid (mittemetallist); Hoonete isolatsioonimaterjalid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Meluntorjuntaan tarkoitetut eristeet, joissa on tiivistysominaisuuksia; Lämmöltä suojaamiseen tarkoitetut eristeet, joissa on tiivistysominaisuuksia; Rakenteet (ei-metalliset) melun vaimentamiseen [äänieristys]; Äänieristeenä käytettävä kumi; Äänen voimakkuutta säätävät lattia-alusteet; Lämpöeristetuotteet ja -aineet; Muut kuin metalliset säänkestävät tiivisteet; Eristysaineet rakennuksiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Isolations aux propriétés insonorisantes; Isolations de protection contre la chaleur; Structures non métalliques pour l'absorption du bruit [insonorisation]; Caoutchouc pour l'isolation acoustique; Sous-couches de sol insonorisantes; Articles et matériaux d'isolation thermique; Joints de calfeutrage non métalliques; Matériaux isolants pour la construction.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Izolacije s funkcijom brtvljenja za zaštitu od buke; Izolacije s funkcijom brtvljenja za toplinsku zaštitu; Nemetalne strukture za zvučnu apsorpciju [za zvučno izoliranje]; Guma za zvučnu izolaciju; Podstave za podove za zvučnu zaštitu; Artikli i materijali za toplinsku izolaciju; Brtve za zaštitu vremenskih utjecaja (nemetalne); Izolacijski materijali za izgradnju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Lezáró funkcióval rendelkező szigetelések zajjal szembeni védelemre; Lezáró funkcióval rendelkező szigetelések hővel szembeni védelemre; Hangelnyelő struktúrák (nemfém -) [hangszigetelés]; Gumi hangszigetelési célokra; Hangtompító padlóaljzatok; Hőszigetelő cikkek és anyagok; Időjárásálló tömítések (Nem fém -); Szigetelőanyagok építőipari felhasználásra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Isolanti con funzioni di tenuta per la protezione dal rumore; Isolanti con funzione di tenuta per la protezione termica; Strutture (non metalliche -) per assorbimento acustico [insonorizzazione]; Gomma per isolamento acustico; Strati fonoassorbenti da posizionare sotto il pavimento; Articoli e materiali per l'isolamento termico; Dispositivi di tenuta per agenti atmosferici (Non metallici -); Materiali isolanti per l'edilizia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Sandarinamieji izoliatoriai nuo triukšmo; Sandarinamieji šilumos izoliatoriai; Ne metalinės triukšmą sugeriančios konstrukcijos [garso izoliacija]; Guma (garso izoliacijos reikmėms); Garso slopinimo grindų paklotai; Šilumos izoliavimo gaminiai ir medžiagos; Sandarinimo tarpikliai (Ne metaliniai -); Izoliacinės statybinės medžiagos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Izolācija ar blīvēšanas funkciju aizsardzībai pret trokšņiem; Izolācija ar blīvēšanas funkciju siltumaizsardzībai; Troksni slāpējošas nemetāliskas konstrukcijas (skaņas izolācijai); Gumija skaņas izolācija nolūkiem; Grīdas pamatnes klājums ar skaņas izolāciju; Siltumizolācijas izstrādājumi un materiāli; Nemetāliski blīvēšanas materiāli atmosfēras nokrišņu aizturēšanai; Izolācijas materiāli celtniecībai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Mezzi tal-iżolazzjoni b'funzjonijiet ta' siġillar għall-protezzjoni mill-istorbju (ħsejjes); Mezzi tal-iżolazzjoni b'funzjonijiet ta' siġillar għall-protezzjoni mis-sħana; Strutturi (mhux metalliċi) għall-assorbiment tal-ħoss [iżolament tal-ħoss]; Lastku għall-iżolament tal-ħsejjes; Materjal li jitqiegħed taħt il-paviment biex jikkontrolla l-ħsejjes; Oġġetti u materjali għall-insulazzjoni termali; Siġilli kontra l-elementi tat-temp (mhux tal-metall); Materjali iżolanti għall-bini.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Isolatiematerialen met afdichtingseigenschappen voor bescherming tegen geluid; Isolatiematerialen met afdichtingseigenschappen voor bescherming tegen hitte; Constructies (niet-metalen -) voor het absorberen van lawaai [geluidsisolatie]; Rubber voor geluidsisolatie; Ondervloeren voor geluidsbeheersing; Thermische isolatieartikelen en -materialen; Pakkingen (Niet-metalen tocht -); Isolatiemateriaal voor de bouw.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Izolacje z funkcją uszczelniania do ochrony przed hałasem; Izolacje z funkcją uszczelniania do ochrony przed ciepłem; Konstrukcje niemetalowe do pochłaniania hałasu [izolacja akustyczna]; Guma do izolacji dźwiękowej; Podkłady podłogowe kontrolujące dźwięk; Artykuły i materiały termoizolacyjne; Uszczelki niemetalowe odporne na warunki pogodowe; Materiały izolacyjne dla budownictwa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Isolamentos com funções vedantes para proteção acústica; Isolamentos com função de vedação para proteção térmica; Estruturas não metálicas para absorção de ruído [insonorização]; Borracha para isolamento acústico; Revestimentos de base para controlo acústico de pavimentos; Artigos e materiais de isolamento térmico; Isolantes (não metálicos) contra intempéries; Materiais isolantes para construção.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Izolații cu funcții de etanșare pentru protecție fonică; Izolații cu funcții de etanșare pentru protecție termică; Structuri nemetalice pentru absorbția zgomotului [izolare fonică]; Cauciuc pentru izolație fonică; Substraturi de pardoseală pentru controlul acustic; Articole și materiale pentru izolare termică; Dispozitive de etanșare împotriva agenților atmosferici (nemetalice); Materiale izolante pentru construcții.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Izolácia s tesniacim účinkom na protihlukovú ochranu; Izolácia s tesniacim účinkom na tepelnú ochranu; Nekovové zvukotesné zábrany na absorpciu zvuku; Guma na izolovanie zvuku; Podpodlahové vrstvy na reguláciu zvuku; Materiály a výrobky na tepelnú izoláciu; Nekovové tesnenia na ochranu proti poveternostným vplyvom; Izolačné stavebné materiály.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Izolacije s tesnilnimi funkcijami za zaščito pred hrupom; Izolacije s tesnilnimi funkcijami za zaščito pred toploto; Nekovinske konstrukcije za absorpcijo hrupa (zvočna izolacija); Guma za zvočno izolacijo; Talni vložki za nadzor zvoka; Proizvodi in materiali za toplotno izolacijo; Nekovinska tesnila za zaščito pred vremenskimi vplivi; Izolacijski materiali za gradbeništvo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Isolering med tätningsfunktioner för ljudskydd; Isolering med tätningsfunktioner för värmeskydd; Konstruktioner, inte av metall för bullerabsorbering (ljudisolering); Gummi för ljudisolering; Ljuddämpande underlagsmaterial för golv; artiklar och material för värmeisolering; Vädertätningar, inte av metall; isoleringsmaterial för byggnation.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>19</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Конструкции и преносими постройки, неметални.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nekovové konstrukce a přenosné stavební prvky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Konstruktioner og transportable bygninger, ikke af metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bauten und transportable Bauten, nicht aus Metall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κατασκευές και λυόμενες κατασκευές, μη μεταλλικές.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Structures and transportable buildings, not of metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Estructuras y construcciones transportables, no metálicas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Teisaldatavad ehitised ja ehitustarindid, v.a metallist.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Rakenteet ja siirrettävät rakennukset, ei-metalliset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Structures et constructions transportables non métalliques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Strukture i prijenosne konstrukcije, ne od metala.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Nem fémből készült hordozható szerkezetek és épületek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Strutture e costruzioni trasportabili, non di metallo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Ne metalinės konstrukcijos ir kilnojamieji pastatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Nemetāliskas konstrukcijas un pārvietojamas būves.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Strutturi u bini trasportabbli, mhux tal-metall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Constructies en verplaatsbare gebouwen, niet van metaal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Niemetalowe konstrukcje i budynki przenośne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Estruturas e construções transportáveis, não sendo de metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Structuri și construcții nemetalice transportabile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Konštrukcie a prenosné stavby, nekovové.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Konstrukcije in prenosne zgradbe, ne kovinske.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Konstruktioner och flyttbara byggnader inte av metall.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Кинотеатри; Услуги за филмова продукция; Продуциране на аудиовизуални презентации; Видео- и звукозаписни услуги; Осигуряване на он-лайн публикации; Публикуване на мултимедиен материал онлайн; Преподавателски услуги; Културни дейности.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kina; Služby týkající se produkce filmů; Produkce audiovizuálních představení; Audio a video nahrávací služby; Poskytování on-line publikací; Publikování multimediálních materiálů on-line; Školení; Kulturní aktivity.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Biografer; Filmproduktion; Produktion af audiovisuelle præsentationer; Lyd- og videooptagelsesvirksomhed; Stille online publikationer til rådighed; Online-udgivelse af multimediemateriale; Undervisning; Kulturelle arrangementer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Betrieb eines Kinos; Filmproduktion; Produktion von Ton- und Bildpräsentationen; Betrieb eines Ton- und Videoaufnahmestudios; Bereitstellen von Online-Veröffentlichungen; Veröffentlichung von Multimedia-Materialien online; Erziehung und Unterricht; Kulturelle Aktivitäten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κινηματοθέατρα· Υπηρεσίες παραγωγής ταινιών· Παραγωγή οπτικοακουστικών παρουσιάσεων· Υπηρεσίες οπτικοακουστικής καταγραφής· Παροχή εκδόσεων σε διαδικτυακή σύνδεση (on-line)· Ηλεκτρονική δημοσίευση πολυμεσικού υλικού· Παροχή κατάρτισης· Πολιτιστικές δραστηριότητες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Cinema theaters; Film production services; Production of audio/visual presentations; Audio and video recording services; Providing on-line publications; Publication of multimedia material online; Teaching; Cultural activities.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Salas de cine; Producción de películas; Producción de presentaciones audiovisuales; Servicios de grabación de audio y vídeo; Facilitación de publicaciones en línea (online); Publicación de material multimedia en línea; Educación; Actividades culturales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kinod; Filmitootmine, -produtseerimine; Audiovisuaalsete esitluste tootmine; Audio- ja videosalvestuse teenused; Veebiväljaannete pakkumine; Multimeediamaterjali avaldamine veebis; Õpetamine; Kultuuritegevus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Elokuvateatteripalvelut; Elokuvien tuotantopalvelut; Audiovisuaalisten esitysten tuotanto; Ääni- ja videotallennuspalvelut; Online-julkaisujen tarjoaminen; Multimediamateriaalin julkaiseminen online-periaatteella; Opetuksen tarjoaminen; Kulttuuritoiminnat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services cinématographiques; Production de films; Production de présentations audiovisuelles; Services d'enregistrement audiovisuels; Services de publication en ligne; Publication de matériel multimédia en ligne; Enseignement; Activités culturelles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kina; Usluge filmske produkcije; Produkcija audio / vizualnih prezentacija; Usluge snimanja zvuka i video sadržaja; Pružanje online publikacija; Izdavanje multimedijskog materijala na Internetu; Pružanje poduke; Kulturne aktivnosti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Filmszínházak; Filmgyártási szolgáltatások; Audio/vizuális bemutatók készítése; Hang- és videofelvételek készítése; Online kiadványok megjelentetése; Multimédiás anyagok online kiadása; Oktatás biztosítása; Kulturális tevékenységek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Sale cinema; Produzione di film; Produzione di presentazioni audiovisive; Servizi di registrazione audio e video; Fornitura di pubblicazioni on-line; Pubblicazione di materiale multimediale online; Educazione; Attività culturali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kinematografijos paslaugos; Filmų kūrimo paslaugos; Garso/vaizdo pristatymų kūrimas; Garso ir vaizdo įrašymo paslaugos; Publikacijų pateikimas internete; Multimedijos medžiagos publikavimas internete; Mokymas; Kultūrinė veikla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kinoteātru pakalpojumi; Filmu producēšanas pakalpojumi; Audio/vizuālo prezentāciju veidošana; Audio un video ierakstīšanas pakalpojumi; Tiešsaistes publikāciju nodrošināšana; Multivides materiālu, izņemot reklāmas materiālus, publicēšana tiešsaistē; Mācību pakalpojumi; Kultūras pasākumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Swali taċ-ċinema; Servizzi ta' produzzjoni ta' films; Produzzjoni ta' preżentazzjonijiet awdjo/viżivi; Servizzi ta' reġistrazzjoni tal-awdjo u vidjo; Il-provvista ta' pubblikazzjonijiet online; Pubblikazzjoni ta' materjal multimedjali onlajn; Provvista ta' tagħlim; Attivitajiet kulturali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bioscopen; Filmproductie; Productie van audiovisuele presentaties; Geluids- en video-opnamen; Publicatie online; Publicatie van multimediamateriaal online; Educatie; Culturele activiteiten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kina; Usługi produkcji filmów; Produkcja prezentacji audiowizualnych; Usługi w zakresie nagrań audio i wideo; Udostępnianie publikacji on-line; Publikowanie materiałów multimedialnych online; Usługi w zakresie oświaty [nauczanie]; Imprezy kulturalne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Salas de cinema; Serviços de produção de filmes; Produção de apresentações audiovisuais; Serviços de gravação de áudio e vídeo; Disponibilização de publicações on-line; Publicação online de material multimédia; Educação; Atividades culturais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cinematografe; Servicii de producție de filme; Producție de prezentări audiovizuale; Servicii de înregistrare audio și video; Furnizare de publicații on-line; Publicarea de materiale multimedia online; Educație; Activități culturale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kiná; Služby v oblasti filmovej tvorby; Výroba audio/vizuálnych prezentácií; Služby v oblasti zvukových nahrávok a videonahrávok; Poskytovanie on-line publikácií; Vydávanie on-line multimediálnych materiálov; Vyučovanie; Kultúrna činnosť.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kino gledališča; Filmska produkcija; Produkcija avdiovizualnih predstavitev; Avdio in video snemalne storitve; Nudenje spletnih publikacij; Objavljanje večpredstavnostnih materialov na spletu; Poučevanje; Kulturne dejavnosti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Biograftjänster; Filmproduktion; Produktion av audiovisuella presentationer; Ljud- och videoinspelningstjänster; upplåtande av publikationer online; Publicering av multimediematerial online; Utbildning/undervisning; Kulturverksamhet.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги в областта на архитектурата; Разработване на софтуер за виртуална реалност; Проектиране на аудио-визуални творби; Софтуер като услуги; Платформа като услуга [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Architektura; Vývoj softwaru virtuální reality; Návrh audiovizuálních tvůrčích prací; Software jako služba [SaaS]; Platforma jako služba (PAAS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Arkitektur; Udvikling af software til virtual reality; Design af audiovisuelt, kreativt arbejde; Software as a service [saas]; Platform as a Service [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Dienstleistungen eines Architekten; Entwicklung von Software für die virtuelle Realität; Entwurf von audiovisuellen kreativen Arbeiten [Software]; Software as a Service [SaaS]; Platform as a Service [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αρχιτεκτονική· Ανάπτυξη λογισμικού εικονικής πραγματικότητας· Σχεδιασμός οπτικοακουστικών δημιουργικών έργων· Λογισμικό σαν υπηρεσία· Παροχή πλατφόρμας ως υπηρεσίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Architecture; Development of virtual reality software; Design of audio-visual creative works; Software as a service [SaaS]; Platform as a service [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Arquitectura; Desarrollo de software de realidad virtual; Diseño de trabajos audiovisuales creativos; Software como servicio [SaaS]; Plataforma como servicio [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Arhitektuuriteenused; Virtuaalreaalsustarkvara arendamine; Audiovisuaalsete teoste kujundamine; Pilveteenused [SaaS]; Platvorm teenusena [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Arkkitehtuuri; Virtuaalitodellisuusohjelmistojen kehittäminen; Luovien audiovisuaalisten teosten suunnittelu; Verkkosovelluspalvelut [SaaS]; Sovellusalusta palveluna (PaaS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Architecture; Développement de logiciels de réalité virtuelle; Conception d'œuvres créatives audiovisuelles; Logiciel-service [SaaS]; Plateforme informatique en tant que service [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Arhitektura; Razvoj softvera virtualne stvarnosti; Koncepcija audiovizualnih stvaralačkih djela; Softver kao usluga [SaaS]; Platforma kao usluga (PaaS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Építészet; Virtuális valóság-szoftverek fejlesztése; Audiovizuális alkotások tervezése; Szoftver mint szolgáltatás [SaaS]; Platform-mint-szolgáltatás (PAAS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Architettura; Sviluppo di software di realtà virtuale; Progettazione di opere creative audiovisive; Servizi di software [SaaS]; Piattaforma come servizio [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Architektūra; Virtualiosios realybės programinės įrangos kūrimas; Audiovizualinių kūrybinių darbų projektavimas; Programinė įranga kaip paslauga [SaaS]; Platforma kaip paslauga [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Arhitektūras objektu projektēšana; Virtuālās realitātes programmatūras izstrāde; Audiovizuālo radošo darbu projektēšana; Programmatūra kā pakalpojums (SaaS); Platforma kā pakalpojums (PaaS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Arkitettura; Żvilupp ta' softwer tar-realtà virtwali; Disinn ta' xogħlijiet awdjoviżivi kreattivi; Softwer bħala servizz [SaaS]; Pjattaforma bħala Servizz (PAAS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Architectuur; Ontwikkeling van virtuele werkelijkheidssoftware; Ontwerp van audiovisuele creatieve stukken; Ter beschikking stellen van software [SaaS]; Platform als een dienst (PaaS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Architektura; Opracowywanie oprogramowania rzeczywistości wirtualnej; Projektowanie audiowizualnych prac twórczych; Oprogramowanie jako usługa [SaaS]; Platforma jako usługa [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Arquitetura; Desenvolvimento de software de realidade virtual; Conceção de obras criativas audiovisuais; Software como serviço [SaaS]; Plataformas como um serviço [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Arhitectură; Dezvoltare de software de realitate virtuală; Proiectare de lucrări creative audiovizuale; Software ca serviciu [SaaS]; Platformă ca serviciu [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Architektúra; Vývoj softvéru na virtuálnu realitu; Navrhovanie audiovizuálnych tvorivých diel; Poskytovanie softvéru prostredníctvom internetu (SaaS); Platforma ako služba (Paas).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Arhitektura; Razvoj programske opreme za navidezno resničnost; Oblikovanje avdiovizualnih kreativnih del; Programska oprema kot storitev [SaaS]; Platforma kot storitev[PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Arkitektverksamhet; Utveckling av virtual reality programvara; Utformning av kreativa audiovisuella verk; Molntjänster [SaaS]; Plattform som en tjänst (PAAS).</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>44</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Медицински услуги; Услуги, свързани със справяне със стреса.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zdravotní péče; Služby v oblasti zvládání stresu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Medicinske tjenesteydelser; Stresshåndterings tjenesteydelser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Medizinische Dienstleistungen; Stressbewältigungsdienste.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ιατρικές υπηρεσίες· Υπηρεσίες διαχείρισης του άγχους.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Medical services; Stress management services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios médicos; Servicios de gestión del estrés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiiniteenused; Stressijuhtimine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lääkinnälliset palvelut; Stressin hallintapalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services médicaux; Conseil en matière de gestion du stress.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Medicinske usluge; Usluge upravljanja stresom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Orvosi szolgáltatások; Stresszkezelési szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi medici; Servizi di gestione dello stress.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Medicinos paslaugos; Streso valdymo paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medicīniskie pakalpojumi; Stresa novēršanas pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi mediċi; Servizzi ta' ġestjoni tal-istress.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Medische diensten; Stresstherapie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi medyczne; Usługi w zakresie zarządzania stresem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços médicos; Serviços de gestão do stress.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii medicale; Servicii de management al stresului.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lekárske služby; Služby v oblasti zvládania stresu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zdravstvene storitve; Storitve za obvladovanje stresa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Hälsovårdstjänster; Stressbehandlingstjänster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/078</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1078999</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11332</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017709877</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11332</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-04-14</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

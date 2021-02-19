@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:07</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229176</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229176</ApplicationNumber>
+<ApplicationDate>2020-04-22</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-22</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162453869</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229176/000162453869.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>03.07.24</CategoryCode>
+          <CategoryCode>03.07.99</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>16</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Подложки за бирени чаши; Подложки за бирени чаши.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Podtácky pod pivní sklenice; Podtácky pod pivní sklenice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Bordskånere til ølkrus; Bordskånere til ølkrus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bierdeckel; Bierdeckel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μπύρας (Σουβέρ ποτηριών -)· Μπύρας (Σουβέρ ποτηριών -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Mats for beer glasses; Mats for beer glasses.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Posavasos para cerveza; Posavasos para cerveza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Õllekannualused; Õllekannualused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Alustat olutlaseille [paperia tai pahvia]; Alustat olutlaseille [paperia tai pahvia].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Sous-bock de bière; Dessous de chope de bière.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Podlošci za pivo; Podlošci za pivo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Söröskorsó alátétek; Söröskorsó alátétek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Sottobicchieri per boccali da birra; Sottobicchieri per boccali da birra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Servetėlės (alaus bokalams); Servetėlės (alaus bokalams).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Alus kausu un glāžu paliktņi; Alus kausu un glāžu paliktņi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Metts għal taħt it-tazzi tal-birra; Metts għal taħt it-tazzi tal-birra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bierviltjes; Bierviltjes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Podstawki pod kufle do piwa; Podstawki pod kufle do piwa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bases para canecas de cerveja; Bases para canecas de cerveja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suporturi pentru halbe de bere; Suporturi pentru halbe de bere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Podložky pod pivové poháre; Podložky pod pivové poháre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Podstavki za pivske kozarce; Podstavki za pivske kozarce.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Underlägg för ölglas; Underlägg för ölglas.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>21</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бирени халби; Чаши за бира; Подложки за халби за бира, различни от тези от хартия или от плат.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nádoby na pivo; Sklenice na pivo; Podložky pod pivní sklenice, s výjimkou z papíru nebo tkanin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Ølkrus; Ølglas; Ølbrikker, dog ikke af papir eller vævede stoffer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bierkrüge; Biergläser; Bierglasuntersetzer, nicht aus Papier oder Stoff.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ποτήρια μπύρας· Ποτήρια μπύρας· Επιτραπέζιες προστατευτικές βάσεις για ποτήρια μπίρας εκτός από χάρτινες ή υφασμάτινες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Beer mugs; Beer glasses; Beer mats other than of paper or of fabric.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Jarras de cerveza; Vasos de cerveza; Salvamanteles para jarra de cerveza que no sean de papel ni de tela.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Õllekannud; Õlleklaasid; Õllekannualused, v.a paberist või tekstiilist.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Olutkannut; Olutlasit; Oluttuopin aluset muusta kuin paperista tai kankaasta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Chopes à bière; Verre à bière; Dessous de chope de bière autres qu'en papier ou en tissu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Čaše za pivo; Čaše za pivo; Podmetači za krigle osim od papira ili tkanine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Söröskancsók; Söröspoharak; Söröskorsó-alátétek nem papírból vagy szövetből.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Bicchiere da birra; Boccali di birra; Sottobicchieri per boccali da birra tranne che di carta e in tessuto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Alaus bokalai; Alaus bokalai; Alaus bokalų padėkliukai (ne popieriniai ir ne medžiaginiai).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Alus krūkas; Alus glāzes; Alus kausi paliktņi, izņemot tos, kas ir no papīra vai auduma.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Buqari tal-birra; Tazez tal-birra; Tagħmir ta' taħt mug tal-birra minbarra tal-karti jew għażel tal-mejda.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bierpullen; Bierglazen; Onderzetters voor bierglazen, niet van papier of textiel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kufle do piwa; Szklanki do piwa; Podstawki pod kufle do piwa inne niż papierowe lub z tkaniny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Canecas para cerveja; Copos de cerveja; Bases para canecas de cerveja, sem ser em papel ou em tecido.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Halbe mari de bere; Pahare de bere; Suporturi pentru halbe de bere, altele decât cele din carton sau ţesături.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Krčahy na pivo; Pivové poháre; Pivné podložky s výnimkou papierových alebo textilných.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Vrčki za pivo; Kozarci za pivo; Podstavki za vrčke za pivo, razen iz papirja ali tkanin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Ölsejdlar; Ölglas; Glasunderlägg, ej av papper eller tyg.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>32</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бира; Ароматизирана бира; Светла бира; Тъмна бира; Малцова бира; Безалкохолна бира; Коктейли на основата на бира; Безалкохолни напитки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pivo; Ochucená piva; Světlé pivo; Tmavé pivo; Sladové pivo; Nealkoholické pivo; Koktejly na bázi piva; Nealkoholické nápoje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Øl; Øl med smagstilsætning; Lyst øl; Mørk øl; Maltøl; Ikke-alkoholholdige øl; Ølbaserede cocktails; Ikke-alkoholholdige drikke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Biere; Aromatisierte Biere; Helles Bier; Dunkles Bier; Malzbier; Alkoholfreie Biere; Bier-Cocktails; Nichtalkoholische Getränke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ζύθος· Αρωματικοί ζύθοι· Ξανθός ζύθος· Σκούρος ζύθος· Βύνη (μπύρα -ης)· Μη αλκοολούχος ζύθος· Κοκτέιλ με βάση την μπίρα· Μη αλκοολούχα ποτά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">bear; Flavored beers; Pale lager; Dark beer; Malt beer; Non-alcoholic beer; Beer-based cocktails; Non-alcoholic beverages.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cerveza; Cervezas aromatizadas; Cerveza rubia; Cerveza oscura; Cerveza de malta; Cerveza sin alcohol; Cocteles a base de cerveza; Bebidas no alcohólicas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Õlu; Maitsestatud õlu; Hele õlu; Tumedad õlled; Linnaseõlu; Alkoholivaba õlu; Õllepõhised kokteilid; Alkoholivabad joogid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Oluet; Maustetut oluet; Vaaleat oluet; Tummat oluet; Mallasolut; Olut, alkoholiton; Olutpohjaiset cocktailit; Alkoholittomat juomat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Bière; Bière aromatisée; Bière blonde; Bière brune; Bière de malt; Bière sans alcool; Cocktails à base de bière; Boissons non alcoolisées.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pivo; Piva s okusima; Lager pivo; Tamno pivo; Pivo od slada; Bezalkoholno pivo; Kokteli na bazi piva; Bezalkoholna pića.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sör; Ízesített sörök; Világos sör; Sötét sörök; Malátasör; Alkoholmentes sör; Söralapú koktélok; Alkoholmentes italok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Birra; Birre aromatizzate; Birra chiara; Birre scure; Birra di malto; Birra analcolica; Cocktails a base di birra; Bevande non alcoliche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Alus; Aromatizuotas alus; Šviesusis alus; Tamsus alus; Salyklinis alus; Nealkoholinis alus; Alaus kokteiliai; Gaivieji gėrimai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Alus; Aromatizēts alus; Gaišais alus; Tumšais alus; Iesala alus; Bezalkoholiskais alus; Alus kokteiļi; Bezalkoholiskie dzērieni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Birer; Birer bit-togħma; Birra ċara; Birra skura; Birra magħmula mix-xgħir; Birra mhux alkoħolika; Taħlitiet ta' xorb ibbażati fuq il-birra; Xarbiet mhux alkoħoliċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bier; Gearomatiseerde bieren; Licht bier; Donker bier; Moutbier; Alcoholvrij bier; Cocktails op basis van bier; Niet-alcoholische dranken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Piwo; Piwa smakowe; Piwo jasne; Piwo ciemne; Piwo słodowe; Piwo bezalkoholowe; Drinki na bazie piwa; Napoje bezalkoholowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cerveja; Cervejas aromatizadas; Cerveja clara; Cerveja de cor forte; Cerveja de malte; Cervejas sem álcool; Cocktails à base de cerveja; Bebidas sem álcool.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Bere; Beri aromatizate; Bere blondă; Bere bruna; Malţ (Bere din -); Bere fără alcool; Coctailuri pe bază de bere; Băuturi nealcoolice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Pivo; Ochutené pivá; Svetlé pivo; Tmavé pivo; Sladové pivo; Nealkoholické pivo; Pivové koktaily; Nealkoholické nápoje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pivo; Aromatizirana piva; Svetlo pivo; Temno pivo; Pivo iz slada; Brezalkoholno pivo; Koktajli na osnovi piva; Brezalkoholne pijače.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Björn; Smaksatt öl; Ljust öl; Mörkt öl; Maltöl; Icke-alkoholhaltigt öl; Ölbaserade cocktailar; Icke alkoholhaltiga drycker.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за търговия на дребно във връзка с бира; Услуги за онлайн продажба относно бири; Услуги за търговия на дребно във връзка с безалкохолни напитки; Услуги за онлайн продажба относно безалкохолни напитки; Подпомагане в областта на търговския франчайзингов мениджмънт; Бизнес консултации във връзка с франчайзинг; Професионални съвети в областта на франчайза; Съвети за управлението на предприятия - франчайзополучатели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Maloobchodní prodej piva; On-line prodej piv; Maloobchodní prodej nealkoholických nápojů; On-line prodej nealkoholických nápojů; Asistence při řízení obchodních franšízových společností; Provozně-ekonomické poradenství s ohledem na franšízing; Odborné poradenství se zaměřením na franšízu; Poradenství v provozování koncesních firem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Detailhandel med øl; Onlinesalg af øl; Detailhandel med alkoholfri drikkevarer; Onlinesalg vedrørende ikke-alkoholholdige drikke; Bistand ved forretningsledelse i franchisevirksomheder; Driftsøkonomisk rådgivning vedrørende franchising; Professionel rådgivning vedrørende franchising; Rådgivning ved drift af virksomheder som franchisevirksomheder.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Einzelhandelsdienstleistungen in Bezug auf Biere; Online-Handel für Biere; Einzelhandelsdienstleistungen in Bezug auf alkoholfreie Getränke; Online-Handel für alkoholfreie Getränke; Hilfe bei der Führung von gewerblichen Franchise-Unternehmen; Betriebswirtschaftliche Beratung in Bezug auf Franchising; Fachliche Beratung im Zusammenhang mit Franchising; Beratung bei der Geschäftsführung von Franchise-Unternehmen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες λιανικής πώλησης σε σχέση με ζύθο· Υπηρεσίες πώλησης επί γραμμής σε σχέση με είδη ζύθου· Υπηρεσίες λιανικής πώλησης σε σχέση με μη οινοπνευματώδη ποτά· Υπηρεσίες πώλησης επί γραμμής σε σχέση με μη οινοπνευματώδη ποτά· Υποστήριξη στη διαχείριση εμπορικών επιχειρήσεων υπό καθεστώς δικαιόχρησης· Υπηρεσίες παροχής τεχνικοοικονομικών συμβουλών σε θέματα δικαιόχρησης· Παροχή επαγγελματικών συμβουλών για θέματα δικαιόχρησης· Παροχή συμβουλών για λειτουργία καταστημάτων ως αλυσίδες δικαιόχρησης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Retail services in relation to beer; Online sale of beers; Retail services in relation to non-alcoholic beverages; Retailing of non-alcoholic beverages; Assistance in franchised commercial business management; Professional business consultancy with regard to franchising; Professional consultancy relating to franchising; Advice in the running of establishments as franchises.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de venta al por menor de cerveza; Servicios de venta en línea relativos a las cervezas; Servicios de venta al por menor relacionados con bebidas no alcohólicas; Servicios de venta en línea relativos a las bebidas sin alcohol; Asistencia en la gestión de negocios comerciales franquiciados; Asesoramiento empresarial en materia de franquicias; Asesoramiento profesional relacionado con franquicias; Asesoramiento para la dirección de establecimientos como franquicias.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Õlle jaemüügiteenused; Õlle sidusmüügiteenused; Alkoholita jookide jaemüügiteenused; Alkoholivabade jookide sidusmüügiteenused; Frantsiisi korras tegutsevate kaubandusettevõtete juhtimisabi; Spetsialisti ärialased teenused frantsiisi valdkonnas; Frantsiisialane professionaalne nõustamine; Frantsiisiettevõtete töös hoidmise alane nõustamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Olueen liittyvät vähittäismyyntipalvelut; Oluiden online-myyntipalvelut; Alkoholittomiin juomiin liittyvät vähittäismyyntipalvelut; Alkoholittomien juomien online-myyntipalvelut; Franchising-toimintaa koskevaan kaupalliseen liikkeenjohtoon liittyvä avustaminen; Liiketaloudellinen neuvonta, joka liittyy franchising-liiketoimintaan; Franchising-liiketoimintaan liittyvä ammattimainen neuvonta; Neuvonta franchise-periaatteella toimivien yritysten hoidon alalla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de vente au détail concernant les bières; Services de vente en ligne concernant les bières; Services de vente au détail concernant les boissons non alcoolisées; Services de vente en ligne concernant les boissons non alcoolisées; Assistance en gestion de franchise commerciale; Conseils commerciaux en matière de franchise; Conseils professionnels en matière de franchise; Conseils concernant la gestion d'établissements en tant que franchise.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Maloprodajne usluge u vezi s pivom; Usluge prodaje putem interneta piva; Maloprodajne usluge vezane uz bezalkoholna pića; Usluge prodaje putem interneta bezalkoholnih pića; Potpora u upravljanju komercijalnom poslovnom djelatnošću u obliku franšize; Savjetovanje o organizaciji i vođenju poslova u vezi s franšizom; Stručno savjetovanje o franšizama; Savjeti za vođenje poduzeća kao franšiza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sörökkel kapcsolatos kiskereskedelmi szolgáltatások; Sörökkel kapcsolatos online kereskedelmi szolgáltatások; Alkoholmentes italokkal kapcsolatos kiskereskedelmi szolgáltatások; Alkoholmentes italokkal kapcsolatos online kereskedelmi szolgáltatások; Segítségnyújtás franchise rendszerű kereskedelmi üzletvitelhez; Franchise-zal kapcsolatos üzleti tanácsadás; Szaktanácsadás franchise tárgyában; Létesítmények franchise-rendszerben való működtetésével kapcsolatos tanácsadás.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi al dettaglio in relazione alla birra; Servizi di vendita on-line riguardanti le birre; Servizi al dettaglio in relazione a bevande non alcoliche; Servizi di vendita on-line riguardanti le birre analcoliche; Assistenza nella gestione di imprese commerciali in franchising; Consulenza economico-aziendale in materia di franchising; Consulenza professionale in materia di franchising; Consulenza nella gestione di imprese in franchising.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mažmeninė prekyba alumi; Internetinės prekybos paslaugos, susijusios su alumi; Mažmeninė prekyba gaiviaisiais gėrimais; Internetinė prekyba, susijusi su gaiviaisiais gėrimais; Franšizės komercijos verslo vadybos pagalba; Verslo konsultacijos, susijusios su franšize; Profesionalios konsultacijos franšizės srityje; Konsultacijos dėl franšizės įmonių valdymo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mazumtirdzniecības pakalpojumi saistībā ar alu; Tiešsaistes pārdošanas pakalpojumi saistībā ar alu; Mazumtirdzniecības pakalpojumi saistībā ar bezalkoholiskiem dzērieniem; Tiešsaistes pārdošanas pakalpojumi saistībā ar bezalkoholiskajiem dzērieniem; Atbalsts franšīzes tirdzniecības uzņēmumu vadībā; Uzņēmējdarbības konsultācijas saistībā ar franšīzi; Profesionālas konsultācijas par franšīzi; Ieteikumi par franšīzes uzņēmumu vadīšanu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' bejgħ bl-imnut fir-rigward tal-birra; Servizzi ta' bejgħ onlajn dwar il-birer; Servizzi ta' bejgħ bl-imnut fir-rigward ta' xarbiet mhux alkoħoliċi; Servizzi ta' bejgħ onlajn dwar ix-xorb mhux alkoħoliku; Assistenza fil-ġestjoni kummerċjali ta' negozju ta' frankiġja; Konsulenza dwar in-negozju b'rabta mal-franchising; Pariri professjonali fil-qasam tal-franchise; Pariri fit-tmexxija ta' stabbilimenti bħala frankiġji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Detailhandelsdiensten op het gebied van bier; Onlinedetailhandelsdiensten op het gebied van bier; Detailhandelsdiensten op het gebied van alcoholvrije dranken; Onlineverkoopdiensten op het gebied van alcoholvrije dranken; Hulp bij de leiding van commerciële franchiseondernemingen; Bedrijfseconomische advisering met betrekking tot franchising; Beroepsmatige advisering op het gebied van franchises; Exploiteren van franchisebedrijven (Advisering bij het -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi sprzedaży detalicznej w związku z piwem; Usługi sprzedaży online dotyczące piw; Usługi sprzedaży detalicznej w związku z napojami bezalkoholowymi; Usługi sprzedaży online dotyczące napojów bezalkoholowych; Pomoc w zarządzaniu przedsiębiorstwami zarządzanymi na zasadach franchisingu; Doradztwo biznesowe z zakresu franczyzy; Profesjonalne doradztwo w zakresie franczyzy; Porady odnośnie prowadzenia firm w ramach franchisingu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços retalhistas relacionados com cerveja; Serviços de venda em linha relacionados com cervejas; Serviços retalhistas relacionados com bebidas não alcoólicas; Serviços de venda em linha relacionados com bebidas não alcoólicas; Assistência na gestão de negócios comerciais de franchising; Consultadoria de gestão empresarial relacionada com franchising; Assessoria profissional relacionada com franchising; Assessoria na gestão de estabelecimentos de franchising.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de vânzare cu amănuntul în legătură cu bere; Servicii de vânzare online cu privire la bere; Servicii de vânzare cu amănuntul în legătură cu băuturi nealcoolice; Servicii de vânzare online cu privire la băuturi nealcoolice; Asistenţă în gestiunea comercială a firmelor în sistem de franciză; Consultanţă profesională în afaceri în legătură cu francizarea; Consultanţă profesională în materie de franciză; Consultanţă privind conducerea întreprinderilor în sistem de franciză.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Maloobchodné služby s pivom; Služby v oblasti on-line predaja piva; Maloobchodné služby s nealkoholickými nápojmi; Služby v oblasti on-line predaja nealkoholických nápojov; Pomoc pri riadení franchisingových obchodných podnikov; Odborné obchodné poradenstvo so zameraním na franchising; Obchodné poradenstvo v oblasti franšízingu; Poradenstvo pri zakladaní franchisingových podnikov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve prodaje na drobno v zvezi s pivom; Storitve spletne prodaje v zvezi s pivom; Storitve prodaje na drobno v zvezi z brezalkoholnimi pijačami; Storitve spletne prodaje v zvezi z brezalkoholnimi pijačami; Pomoč pri upravljanju trgovskega podjetja v franšiznem režimu; Poslovno-ekonomsko svetovanje v zvezi s franšizingom; Strokovno svetovanje v zvezi s franšizo; Svetovanje pri vodenju franšiznih podjetij.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Återförsäljartjänster avseende öl; Nätförsäljning avseende öl; Återförsäljartjänster avseende alkoholfria drycker; Nätförsäljning avseende icke-alkoholhaltiga drycker; Assistans vid företagsledning för kommersiell franchising; Företagsekonomisk rådgivning avseende franchising; Professionell yrkesrådgivning rörande franchising; Rådgivning avseende etablering och drift av franchiserörelser.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>43</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Обслужване на бар; Барове за бира; Сервиране на храна и напитки; Кетъринг (приготвяне и доставка на храни и напитки); Наемане на оборудване за бар; Отдаване под наем на машини за бира; Даване под наем на стаи за социални дейности.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Bary (Služby -); Pivnice; Podávání jídel a nápojů; Zajištění stravování; Pronájem barového vybavení; Pronájem výčepního zařízení na pivo; Pronájem místností na společenské akce.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tjenester ydet af barer; Ølstuer; Servering af mad og drikke; Catering; Udlejning af udstyr til barer; Udlejning af fadølsanlæg; Udlejning af lokaler til selskabsformål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Betrieb einer Bar; Bierbars; Verpflegung von Gästen mit Speisen und Getränken; Catering; Vermietung von Barausrüstung; Vermietung von Bierzapfgeräten; Vermietung von Gesellschaftsräumen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μπαρ (Υπηρεσίες -)· Μπυραρίες· Σερβίρισμα φαγητού και ποτών· Τροφοδοσία· Εκμίσθωση εξοπλισμού μπαρ· Εκμίσθωση αντλιών μπύρας· Ενοικίαση αιθουσών για κοινωνικές εκδηλώσεις.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Bar services; Beer bars; Serving food and drinks; Catering; Rental of bar equipment; Rental of beer taps; Hiring of rooms for social functions.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de bar; Bares de cervezas; Servicios de restauración [alimentos y bebidas]; Servicios de catering; Alquiler de equipamientos para bares; Alquiler de tirador de cerveza; Alquiler de salas para actos sociales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Baariteenused; Õllebaarid; Toitude ja jookide serveerimine; Toitlustusteenindus; Baariseadmestiku rentimine; Kraaniga õllemahutite laenutus; Ruumide tähtajaline üürimine seltskonnaüritusteks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Baaripalvelut; Olutbaarit; Ruokien ja juomien tarjoilu; Pitopalvelu; Baarivarusteiden vuokraus; Olutlaitteistojen vuokraus; Huoneiden vuokraus sosiaalisia toimintoja varten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Bars; Bars à bières; Services de restauration; Services de traiteurs; Location d'équipements de bars; location de tireuse à bière; Location de salles pour événements sociaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge barova; Pivnice; Serviranje hrane i pića; Catering; Iznajmljivanje barske opreme; Iznajmljivanje aparata za točenje piva; Iznajmljivanje prostorija za društvene svečanosti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Bár szolgáltatások; Sörbárok; Ételek és italok felszolgálása; Vendéglátás; Bárfelszerelések bérbeadása; Sörcsapoló gép kölcsönzése; Termek kölcsönzése közösségi célokra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di bar; Birrerie; Servizi di ristorazione; Catering; Noleggio d'attrezzature da bar; Noleggio di spillatori per birra; Affitto di sale per funzioni sociali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Barų paslaugos; Aludės; Maisto ir gėrimų patiekimas; Aprūpinimas maistu ir gėrimais; Baro įrangos nuoma; Alaus pylimo aparatų nuoma; Socialinių funkcijų patalpų nuoma.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Bāru pakalpojumi; Alus bāri; Ēdienu un dzērienu pasniegšana; Ēdienu sagatavošana un piegāde pēc pasūtījuma; Bāra aprīkojuma noma; Alus automātu noma; Telpu noma sabiedriskiem pasākumiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' barijiet; Pubs tal-birra; Tqassim tal-ikel u x-xorb; Catering; Kiri ta' tagħmir tal-bars; Kiri ta' magna tal-birra; Il-kiri ta' kmamar għal funzjonijiet soċjali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bardiensten; Biercafés; Serveren van voedsel en dranken; Catering; Verhuur van baruitrusting; Verhuur van biertappen; Verhuur van kamers voor sociale plechtigheden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi barowe; Bary piwne; Serwowanie jedzenia i napojów; Obsługa gastronomiczna z własnym zapleczem, produktami i transportem; Wypożyczanie wyposażenia barowego; Wynajmowanie nalewaka do piwa; Wynajem pomieszczeń na uroczystości towarzyskie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de bar; Cervejarias; Serviços de restauração [alimentação e bebidas]; Catering; Aluguer de equipamento de bar; Aluguer de extrator de cerveja; Arrendamento de salas para eventos sociais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii ale barurilor; Baruri care servesc bere; Servire de alimente şi băuturi; Catering; Închiriere de echipamente de bar; Închiriere de dozator de bere; Închiriere de săli pentru evenimente sociale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Bary (služby); Pivárne, pivné bary; Podávanie jedál a nápojov; Catering; Prenájom barového vybavenia; Prenájom zariadení na čapovanie piva; Prenájom miestností pre spoločenské slávnosti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve barov; Pivnice; Strežba hrane in pijače; Catering; Dajanje v najem opreme za bar; Dajanje v najem aparatov za točenje piva; Najem prostorov za družabne namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Cocktailbartjänster; Ölbarer; Servering av mat och dryck; Catering; Uthyrning av barutrustning; Uthyrning av öltappningsapparater; Uthyrning av rum för samkvämstillställningar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>45</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги на орган по лицензиране; Интелектуална собственост (Лицензиране на -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby licenčního úřadu; Poskytování licencí k duševnímu vlastnictví.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Udstedelse af licenser; Licensgivning af immaterielle rettigheder.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Lizenzierungsdienste; Lizenzvergabe von gewerblichen Schutzrechten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες χορήγησης αδειών· Εκχώρηση αδειών χρήσης δικαιωμάτων πνευματικής ιδιοκτησίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Licensing authority services; Licensing of intellectual property.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de concesión de licencias; Concesión de licencias de propiedad intelectual.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Litsentse väljaandva asutuse teenused; Intellektuaalomandi litsentsimine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lisensointipalvelut; Immateriaalioikeuksien lisensointi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services d'octroi de licence; Concession de licences de propriété intellectuelle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge licenciranja; Licenciranje intelektualnog vlasništva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Engedélyező hatósági szolgáltatások; Szellemi tulajdon licenszelése.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Concessione in licenza di servizi di authority; Concessione di diritti di proprietà intellettuale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Licencijavimo paslaugos; Intelektinės nuosavybės licencijavimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Licencēšanas pakalpojumi; Intelektuālā īpašuma licencēšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi tal-awtorita tal-liċenzjar; Liċenzjar ta' proprjetà intellettwali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Licentieverlening; Licentieverlening op het gebied van intellectuele eigendom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi organów nadających uprawnienia; Licencjonowanie własności intelektualnej.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de licenciamento; Licenciamento da propriedade intelectual.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de autorizare; Licenţe de proprietate intelectuală (Concesiune de -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Služby poskytované autoritami udeľujúcimi licencie; Udeľovanie licencií na práva duševného vlastníctva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve izdajanja licenc; Licenciranje intelektualne lastnine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tjänster i form av licensieringsbemyndigande; Licensiering av immaterialrätter.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>688524</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>900222</Identifier>
+</RepresentativeKey>
+<RepresentativeKey>
+<Identifier>15388</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

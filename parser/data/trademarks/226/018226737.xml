@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-03T09:03:04</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226737</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226737</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-09-01</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-03</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Dr. Hands</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162309294</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226737/000162309294.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>02.09.14</CategoryCode>
+          <CategoryCode>26.01.03</CategoryCode>
+          <CategoryCode>29.01.04</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Почистващи продукти за ръце; Препарати за измиване на ръце; Кърпи, бърсалки, кърпички и гъби, напоени с почистващи препарати; Препарати за почистване.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Čisticí přípravky na ruce; Mycí přípravky na ruce; Utěrky, hadříky, ubrousky a houby napuštěné přípravky pro čištění; Úklidové čisticí prostředky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Håndrensemidler; Håndvaskemidler; Klude, rengøringsklude, servietter og svampe imprægneret med rengøringspræparater; Rengøringsmidler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Handreiniger; Handwaschmittel; Mit Reinigungsmitteln getränkte Tücher, Wischtücher, Lappen und Schwämme; Reinigungsmittel zum Putzen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παρασκευάσματα καθαρισμού των χεριών· Παρασκευάσματα πλύσης των χεριών· Πανιά, μαντιλάκια, πανάκια και σφουγγάρια εμποτισμένα με απολυμαντική ουσία για καθαρισμό· Καθαριστικά για χρήση στο πλύσιμο.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Hand cleaning preparations; hand washes; cloths, wipes, tissues and sponges impregnated with cleaning preparations; detergent for cleaning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Agentes de limpieza para las manos; Productos para lavarse las manos; Paños, trapos, pañuelos y esponjas impregnados con preparaciones de limpieza; Detergentes para limpiar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kätepuhastusvahendid; Kätepesuvahendid; Puhastusainetega immutatud rätid, lapid, salvrätid ja käsnad; Puhastusvahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Käsien puhdistusaineet; Käsienpesuaineet; Rievut, pyyhkeet, liinat ja sienet, jotka on kyllästetty puhdistusvalmisteilla; Pesuaineet puhdistukseen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Agents nettoyants pour mains; Produits lavants pour les mains; Serviettes, chiffons, torchons et éponges imprégnés de produit nettoyant; Détergents de nettoyage.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Sredstvo za čišćenje ruku; Sredstva za pranje ruku; Krpe, vlažne maramice, maramice i spužve natopljene s preparatima za čišćenje; Sredstva za čišćenje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kéztisztító anyagok; Kézmosó szerek; Tisztítószerekkel átitatott törlőkendők, kendők, szövetek és szivacsok; Tisztítószerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Agenti purificatori per la pulizia delle mani; Prodotti per l'igiene delle mani; Assorbenti, salviette, fazzoletti e spugne imbevute di prodotti per la pulizia; detergenti per pulire.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Rankų valymo medžiagos; Rankų plovikliai; Audiniai, šluostės, servetėlės ir kempinės, įmirkytos valomaisiais preparatais; Valikliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Roku tīrīšanas līdzekļi; Roku mazgāšanas līdzekļi; Drāniņas, salvetes, salvetes un sūkļi, kas piesucināti ar tīrīšanas līdzekļiem; Tīrīšanas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Prodotti għat-tindif tal-idejn; Prodotti għall-ħasil tal-idejn; Biċċiet, karti tal-imsiħ, tixus u sponoż mimlija bi preparazzjonijiet tat-tindif; Deterġenti għat-tindif.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Reinigingsmiddelen voor de handen; Wasmiddelen voor handen; Handdoeken, doekjes, tissues en sponzen geïmpregneerd met reinigingsmiddelen; Reinigingsmiddelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Środki do mycia rak; Produkty do mycia rąk; Szmatki, chusteczki, chusteczki higieniczne i gąbki nasączone preparatami czyszczącymi; Środki do czyszczenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Agentes de limpeza para as mãos; Produtos para lavar as mãos; Panos, toalhetes, lenços e esponjas impregnados com produtos de limpeza; Detergentes para limpeza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Produse de curăţare pentru mâini; Produse pentru spălarea mâinilor; Lavete, şerveţele, batistuţe şi bureţi impregnaţi cu produse de curăţat; Detergenţi pentru curăţare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Čistiace prostriedky na ruky; Prípravky na umývanie rúk; Utierky, handričky, látky a špongie napustené čistiacimi prípravkami; Čistiace prípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Čistilna sredstva za roke; Sredstva za umivanje rok; Krpe, brisače, robčki in gobe, impregnirani s pripravki za čiščenje; Čistila za čiščenje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Rengöringspreparat för händerna; Handtvättmedel; Trasor, torkdukar, servetter och svampar impregnerade med rengöringsmedel; Rengöringsmedel.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Дезинфектанти и антисептици; Антибактериални и дезинфекциращи миещи препарати за ръце; Импрегнирани антисептични кърпички; Санитарни кърпички за еднократна употреба; Импрегнирани медицински кърпички; Антибактериален сапун; Медицински сапуни за тяло и лице; Дезинфектанти за почистване.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Dezinfekční a antiseptické přípravky; Antibakteriální a dezinfekční prostředky na mytí rukou; Napuštěné dezinfekční ubrousky; Dezinfekční ubrousky; Ubrousky napuštěné léky; Antibakteriální mýdla; Léčivá mýdla na tělo a obličej; Dezinfekční přípravek na čištění.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Desinficerende og antiseptiske midler; Antibakterielle og desinficerende håndvaskemidler; Imprægnerede antiseptiske servietter; Renseservietter; Imprægnerede medicinske servietter; Antibakteriel sæbe; Medicinsk sæbe til krop og ansigt; Desinfektionsmidler til rengøring.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Desinfektionsmittel und Antiseptika; Antibakterielle und desinfizierende Handwaschmittel; Imprägnierte antiseptische Wischtücher; Desinfektionstücher für medizinische Zwecke; Imprägnierte medizinische Wischtücher; Antibakterielle Seifen; Medizinische Seifen für Körper und Gesicht; Desinfektionsmittel zur Reinigung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Απολυμαντικά και αντισηπτικά· Αντιβακτηριακά και απολυμαντικά παρασκευάσματα για το πλύσιμο των χεριών· Εμποτισμένα αντισηπτικά μαντηλάκια· Μαντιλάκια καθαρισμού· Φαρμακευτικά εμποτισμένα μαντιλάκια· Αντιβακτηριακά σαπούνια· Φαρμακευτικά σαπούνια για το σώμα και το πρόσωπο· Απολυμαντικά για καθαρισμό.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Disinfectants and antiseptics; antibacterial and disinfectant hand wash; impregnated antiseptic wipes; sanitizing wipes; impregnated medicated wipes; antibacterial soaps; medicated soaps for body and face; disinfectant for cleaning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Desinfectantes y antisépticos; Productos antibacterianos y desinfectantes para el lavado de las manos; Toallitas impregnadas antisépticas; Paños desinfectantes; Toallitas medicinales impregnadas; Jabones antibacterianos; Jabones medicinales para el cuerpo y la cara; Desinfectante para la limpieza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Desinfektsioonivahendid ja antiseptikumid; Antibakteriaalsed ja desinfitseerivad käepesuvahendid; Immutatud antiseptilised lapid; Desinfitseerivad lapid; Ravitoimelised immutatud puhastuslapid; Antibakteriaalne seep; Meditsiinilised keha- ja näoseebid; Puhastavad desinfitseerimisvahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Desinfiointiaineet ja antiseptiset aineet; Bakteereja tappavat ja desinfioivat käsienpesuaineet; Kyllästetyt antiseptiset pyyhkeet; Desinfiointipyyhkeet; Lääkeaineita sisältävät kyllästetyt pyyhkeet; Antibakteerinen saippua; Lääkesaippuat vartalolle ja kasvoille; Desinfiointiaineet puhdistukseen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Désinfectants et antiseptiques; Produits antibactériens et désinfectants pour se laver les mains; Lingettes imprégnées antiseptiques; Lingettes désinfectantes; Lingettes imprégnées à usage médical; Savons antibactériens; savons médicinaux pour le corps et le visage; Désinfectants pour le nettoyage.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dezinfekcijska i antiseptička sredstva; Antibakterijska i dezinfekcijska sredstva za pranje ruku; Impregnirane antiseptičke maramice; Dezinfekcijske maramice; Impregnirane medicinske maramice; Antibakterijski sapun; Medicinski sapuni za tijelo i lice; Dezinfekcijsko sredstvo za čišćenje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fertőtlenítők és fertőzésgátlók; Antibakteriális és fertőtlenítő kézmosó szerek; Impregnált antiszeptikus kendők; Fertőtlenítő törlőkendők; Gyógyszerrel átitatott kendők; Antibakteriális szappan; Gyógyászati szappanok testre és arcra; Fertőtlenítőszerek tisztításhoz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Disinfettanti ed antisettici; Detergenti per le mani antibatterici e disinfettanti; Salviette imbevute antisettiche; Salviette disinfettanti; Salviette medicate imbevute; Saponi antibatterici; Saponi medicinali per il corpo e per il viso; Disinfettanti per la pulizia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dezinfekavimo priemonės ir antiseptikai; Antibakteriniai ir dezinfekuojamieji rankų plovimo preparatai; Įmirkytos antiseptinės servetėlės; Dezinfekuojamosios šluostės; Impregnuotos medicininės servetėlės; Antibakterinis muilas; Gydomieji kūno ir veido muilai; Valymui skirtos dezinfekavimo priemonės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dezinfekcijas un antiseptiskie līdzekļi; Antibakteriāli un dezinficējoši roku mazgāšanas līdzekļi; Piesūcinātas antiseptiskas drāniņas; Dezinfekcijas drāniņas; Piesūcinātas drāniņas medicīniskiem nolūkiem; Antibakteriālās ziepes; Medicīniskas ziepes ķermenim un sejai; Dezinficējoši līdzekļi tīrīšanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Diżinfettanti u antisettiċi; Prodotti antibatteriċi u diżinfettanti għall-ħasil tal-idejn; Karti tal-imsiħ imxarrbin antisettiċi; Biċċiet tal-imsiħ għal skop ta' iġjene; Karti tal-imsiħ mimlijin b'sustanza, mmedikati; Sapun antibatteriku; Sapun mediċinali għall-ġisem u għall-wiċċ; Diżinfettant għat-tindif.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ontsmettingsmiddelen en antiseptica; antibacteriële en desinfecterende handwasmiddelen; Antiseptische geïmpregneerde doekjes; Hygiënische doekjes; Geïmpregneerde medicinale doekjes; Antibacteriële zeep; Medicinale zepen voor het lichaam en het gezicht; Ontsmettingsmiddelen voor het reinigen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Środki dezynfekcyjne i antyseptyczne; Środki antybakteryjne i dezynfekcyjne do mycia rąk; Nasączane chusteczki antyseptyczne; Chusteczki odkażające; Nasączone chusteczki lecznicze; Mydła antybakteryjne; Mydła lecznicze do ciała i twarzy; Środek dezynfekujący do czyszczenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Desinfetantes e antissépticos; Produtos antibacterianos e desinfetantes para lavar as mãos; Toalhetes impregnados antissépticos; Toalhetes higiénicos; Toalhetes medicinais impregnados; Sabão antibacteriano; Sabões medicinais para o corpo e o rosto; Desinfectantes para limpeza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dezinfectanţi şi antiseptice; Produse antibacteriene şi dezinfectante pentru spălarea mâinilor; Şerveţele antiseptice impregnate; Şerveţele dezinfectante; Şerveţele impregnate cu medicamente; Săpun antibacterian; Săpunuri medicinale pentru corp și față; Dezinfectant pentru curăţare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Dezinfekčné a antiseptické prípravky; Antibakteriálne a dezinfikujúce prípravky na umývanie rúk; Impregnované dezinfekčné utierky; Dezinfekčné utierky; Utierky napustené liečivými látkami; Antibakteriálne mydlá; Mydlá s liečivými účinkami na telo a tvár; Dezinfekčné prostriedky na čistenie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Dezinfekcijska in antiseptična sredstva; Antibakterijska in dezinfekcijska sredstva za umivanje rok; Impregnirane brisačke z antiseptikom; Dezinfekcijski robčki; Impregnirane brisačke z zdravilnimi učinkovinami; Antibakterijska mila; Zdravilna mila za telo in obraz; Dezinfekcijsko sredstvo za čiščenje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Desinfektions- och antiseptiska medel; Antibakteriella och desinficerande handtvättmedel; Impregnerade antiseptiska servetter; Steriliserande torkservetter; Impregnerade medicinska servetter; Bakteriedödande tvål; Medicinska tvålar för kroppen och ansiktet; Desinfektionsmedel för rengöring.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/097</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-25</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/167</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-02</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080381</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10722</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

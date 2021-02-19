@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-07T16:44:28</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225915</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225915</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-27</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Vitaxium</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Витаминни добавки; Витаминни и минерални добавки; Диетични добавки, състоящи се от витамини; Витаминни препарати под формата на хранителни добавки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vitaminové doplňky; Vitaminové a minerální doplňky; Potravinové doplňky obsahující vitaminy; Vitaminové přípravky jako doplňky stravy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Vitamintilskud; Vitamin- og mineraltilskud; Kosttilskud bestående af vitaminer; Vitaminpræparater i form af kosttilskud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Vitaminzusätze; Vitamin- und Mineralstoffzusätze; Nahrungsergänzungsmittel aus Vitaminen; Vitaminpräparate in Form von Nahrungsergänzungsstoffen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συμπληρώματα βιταμινών· Συμπληρώματα βιταμινών και μεταλλικών στοιχείων· Βιταμινούχα συμπληρώματα διατροφής· Βιταμινούχα παρασκευάσματα με τη μορφή συμπληρωμάτων διατροφής.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Vitamin supplements; Vitamin and mineral supplements; Dietary supplements consisting of vitamins; Vitamin preparations in the nature of food supplements.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Suplementos vitamínicos; Suplementos vitamínicos y minerales; Complementos dietéticos de vitaminas; Preparados de vitaminas como complementos alimenticios.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Vitamiinilisandid; Vitamiini- ja mineraallisandid; Vitamiinidest koosnevad toidulisandid; Vitamiinipreparaadid toidulisanditena.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vitamiinilisät; Vitamiini- ja kivennäislisäaineet; Dieettien täydennysaineet, jotka sisältävät vitamiineja; Vitamiinivalmisteet elintarvikelisinä.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Compléments vitaminés; Compléments vitaminés et minéraux; Compléments alimentaires composés de vitamines; Produits vitaminés sous forme de compléments alimentaires.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Vitaminski dodaci; Vitaminski i mineralni dodaci hrani; Dodaci prehrani koji sadrže vitamine; Vitaminski pripravci u obliku prehrambenih dodataka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Vitamin kiegészítők; Vitamin és ásványi anyag kiegészítők; Vitaminokat tartalmazó étrend-kiegészítők; Vitaminkészítmények ételkiegészítők formájában.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Integratori vitaminici; Integratori vitaminici e minerali; Integratori alimentari di vitamine; Preparati vitaminici in forma di integratori alimentari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vitaminų papildai; Vitamininiai ir mineraliniai papildai; Dietiniai papildai iš vitaminų; Vitamininiai maisto papildai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Vitamīnu piedevas; Vitamīni un diētiskas minerālvielu piedevas; Uztura piedevas, kas sastāv no vitamīniem; Kā uztura bagātinātāji lietojami vitamīnu preparāti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Supplimenti ta' vitamini; Supplimenti tal-vitamini u tal-minerali; Supplimenti dijetetiċi li jikkonsistu minn vitamini; Preparazzjonijiet tal-vitamini f'għamla ta' supplimenti tal-ikel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Vitaminesupplementen; Vitamine- en mineralensupplementen; Voedingssupplementen bestaande uit vitaminen; Vitaminepreparaten in de vorm van voedingssupplementen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Dodatki witaminowe; Dodatki witaminowe i mineralne; Suplementy diety składające się z witamin; Preparaty witaminowe w postaci suplementów diety.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Suplementos vitamínicos; Suplementos vitamínicos e minerais; Suplementos dietéticos de vitaminas; Preparações vitamínicas sob a forma de suplementos alimentares.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suplimente pe bază de vitamine; Suplimente vitaminice și minerale; Suplimente dietetice care conțin vitamine; Preparate pe bază de vitamine sub formă de suplimente alimentare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vitamínové doplnky; Vitamíny a minerálne doplnky; Dietetické doplnky obsahujúce vitamíny; Vitamínové prípravky v podobe potravinových doplnkov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Vitaminski dodatki; Vitaminski in mineralni dodatki; Prehranski dodatki, sestavljeni iz vitaminov; Vitaminski pripravki v obliki prehranskih dopolnil.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Vitamintillskott; Vitamin- och mineraltillskott; Kosttillskott bestående av vitaminer; Vitaminpreparat i form av livsmedelstillskott.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/079</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>482682</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003126819</OppositionIdentifier>
+<OppositionDate>2020-07-27</OppositionDate>
+<ProceedingLanguageCode>fr</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>FR</EarlierMarkCountryCode>
+<ApplicationNumber>3991710</ApplicationNumber>
+<ApplicationDate>2013-03-20</ApplicationDate>
+<RegistrationNumber>3991710</RegistrationNumber>
+<RegistrationDate>2013-07-26</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>VIT-ALLIUM</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>176634</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11412</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

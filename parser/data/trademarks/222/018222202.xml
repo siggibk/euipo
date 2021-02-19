@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-29T09:52:44</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222202</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222202</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-08</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>IRIS VIVALDI</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>16</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хартия; Чертожна хартия; Хартия за чертане под формата на подвързии; Луксозна хартия; Пореста хартия; Цветна хартия; Хартия за писане, чертане, акварел, рисуване, графики и изящни изкуства; Хартиени листове [канцеларски принадлежности].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Papír; Papír na kreslení (rýsování); Vázaný kreslicí papír; Jemný papír; Plástvový papír; barvený papír; Papíry na psaní, kreslicí, akvarelové, malířské, grafické a pro výtvarná umění; Archy papíru [papírnické zboží].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Papir; Tegnepapir; Indbundet tegnepapir; Tyndt papir; Vaffelmønstret papir; Farvet papir; Skrivepapir, tegnepapir, akvarelpapir, malepapir, grafisk kunst og kunstværker; Papirark.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Papier; Zeichenpapier; Zeichenpapier in gebundener Form; Feinpapier; Wabenpapier; Farbiges Papier; Schreibpapier, Zeichenpapier, Aquarellpapier, Papier zum Malen, für Grafiker und für die schönen Künste; Papierblätter [Papeteriewaren].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χαρτί· Χαρτί σχεδίου· Χαρτί σχεδίου σε δεμένες δεσμίδες· Λεπτό χαρτί· Κυψελωτό χαρτί· Έγχρωμο χαρτί· Χαρτί γραφής, σχεδίου, υδατογραφίας, ζωγραφικής, για τις γραφικές τέχνες και τις καλές τέχνες· Φύλλα χάρτου[είδη χαρτοπωλείου].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Paper; Drawing paper; Drawing paper in the form of bound sheets; Fine paper; Honeycomb paper; Coloured paper; Paper for writing, drawing, watercolours, painting, graphic art and fine art; Paper sheets [stationery].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Papel; Papel de dibujo; Papel de dibujos en forma de cuadernos; Papel fino; Papel alveolado; Papel de colores; Papel para escritura, dibujo, acuarela, pintura, artes gráficas y bellas artes; Hojas de papel [artículos de papelería].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Paber; Joonistuspaber; Joonistamise paber köidetud kujul; Õhuke paber; Kärgpaber; Värviline paber; Kirjutamis-, joonistus-, akvarelli, maalimis-, graafika-, kunstipaberid; Paberilehed [kirjatarbed].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Paperi; Piirustuspaperi; Piirustuspaperi kirjansidonta-aineiden muodossa; Hienopaperi; Kennopaperi; Värillinen paperi; Paperi kirjoitus, piirustus-, akvarelli-, maalaus-, taidegrafiikka- ja kuvataidetarkoituksiin; Paperiarkit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Papier; papier à dessin; papier à dessin sous forme de reliures; papier fin; papier alvéolé; papier de couleurs; papier pour l'écriture, le dessin, l'aquarelle, la peinture, les arts graphiques et les beaux-arts; feuilles (papeterie).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Papir; Papir za crtanje; Uvezani papir za crtanje; Fini papir; Papir u obliku saće; Papir u boji; Papir za pisanje, crtanje, akvarel, slikanje, grafičku umjetnost i likovnu umjetnost; Listovi [papirnati proizvodi].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Papír; Rajzpapír; Rajzpapírok kötött formában,; Finompapír; Méhsejtpapír; Színes papír; Írólap, rajzpapír, papír vízfestékhez, festéshez, a képzőművészet és a szépművészet számára; Ívek [papíráruk].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Carta; Carta da disegno; Carta per disegnate in forma di rilegature; Carta fine; Carta a struttura alveolare; Carta colorata; Carta per scrivere, disegnare, acquerello, pittura, arti grafiche e belle arti; Fogli [cartoleria].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Popierius; Piešimo popierius; Piešimo popierius knygų įrišimo forma; Aukštos kokybės popierius; Popieriniai koriai; Spalvotas popierius; Popierius, skirtas rašymui, piešimui, akvarelei, tapybai, grafiniam menui ir meno kūriniams; Popieriaus lakštai [raštinės reikmėms].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Papīrs; Zīmēšanas un rasēšanas papīrs; Papīrs zīmēšanai iesietā veidā; Plānais papīrs; Šūnu papīrs; Krāsots papīrs; Papīrs rakstīšanai, zīmēšanai, akvarelim, gleznošanai, grafiskai mākslai un tēlotājmākslai; Papīra loksnes [rakstāmlietas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Karti; Karta tat-tpinġija; Karta tat-tpinġija fil-forma ta' legaturi; Karta fina; Karti tax-xemgħa; Karta kkulurita; Karti għall-kitba, it-tpinġija, l-akkwarelli, il-pittura, l-arti grafika u l-arti fina; Folji tal-karti (kartoleriji).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Papier; Tekenpapier; Tekenpapier in gebonden vorm; Dun papier; Papier (Honingraat -); Gekleurd papier; Schrijfpapier, tekenpapier, aquarelpapier, schilderpapier, papier voor grafische kunst en schone kunsten; Vellen papier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Papier; Papier rysunkowy; Papier rysunkowy w formie skoroszytu; Cienki papier; Papier o strukturze plastra miodu; Papier kolorowy; Papier do pisania, rysowania, akwareli, malowania, plastyki i sztuk pięknych; Papier w arkuszach [artykuły piśmienne].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Papel; Papel de desenho; Papel de desenho sob a forma de encadernações; Papel fino; Papel alveolado; Papel colorido; Papel para a escrita, o desenho, a aguarela, a pintura, as artes gráficas e as belas-artes; Folhas de papel [papelaria].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Hârtie; Hârtie pentru desen; Hârtie de desen sub formă de legătorie; Hârtie fină; Hârtie tip fagure; Hârtie colorată; Hârtie pentru scris, desen, acuarelă, pictură, artele grafice şi artele frumoase; Coli de hârtie [papetărie].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Papier; Papier na rysovanie a kreslenie; Papier na rysovanie a kreslenie v knižnej väzbe; Jemný papier; Papier sformovaný do nepretržitých šesťhranných rovnomerných buniek; Farbený papier; Papier vhodný na písanie, rysovanie a kreslenie, vodomaľbu, maľbu, na použitie v grafike a výtvarnom umení; Hárky papiera.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Papir; Risalni papir; Risalni papir v obliki knjigoveškega materiala; Fini papir (zelo tanek papir); Satasti papir; Barvni papir; Papir za pisanje, risanje, akvarel, slikanje, grafično in likovno umetnost; Papirni listi [pisalne potrebščine].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Papper; Ritpapper; Ritpapper i inbunden form; Finpapper; Bivaxat papper; Färgat papper; Papper för skift, ritning, akvarell, målning, grafisk konst och de sköna konsterna; Pappersark [kontorsmateriel].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/141</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>719933</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10696</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

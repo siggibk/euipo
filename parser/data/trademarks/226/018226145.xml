@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-31T08:41:02</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226145</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226145</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-28</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-31</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>TianLang</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162307886</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226145/000162307886.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Кранове [канелки]; Фонтани; Устройства за водохващане; Вани; Седящи вани за баня; Тоалетни, преносими; Казанчета за изполиване за тоалетни; Тоалетни чинии; Душове; Умивалници [части на санитарни инсталации]; Мивки; Дезинфекциращи апарати.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kohouty a kohoutky; Fontány; Zařízení pro přívod vody; Koupací vany; Vany pro sedací koupele; Přenosné toalety; Kontejnery proplachovací; Toaletní (záchodové) mísy; Sprchy; Umyvadla [součásti hygienických zařízení]; Dřezy; Dezinfekční přístroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Vandhaner; Fontæner; Apparater til vandindtag; Badekar; Siddebadekar; WC-kabiner, transportable; Skyllecisterner; WC-kummer; Brusere; Vaskekummer [dele af sanitetsinstallationer]; Køkkenvaske; Desinfektionsapparater.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Hähne; Springbrunnen; Wasserzapfgeräte; Badewannen; Sitzbadewannen; Transportable Toiletten; Wasserkästen für Toilettenspülungen; Toilettenschüsseln [WC]; Duschen; Handwaschbecken [Teile von sanitären Anlagen]; Abwaschbecken, Spülen; Desinfektionsapparate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Στρόφιγγες· Πίδακες· Ύδωρ (Συσκευές υδροληψίας -)· Καμπίνες για ντους· Λουτήρες για καθιστά λουτρά· Τουαλέτες φορητές· Λουτρού καζανάκια· Λεκάνες τουαλέτας· Ντους· Νιπτήρες [τμήματα εγκαταστάσεων υγιεινής]· Νεροχύτες· Απολύμαντικές συσκευές.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Faucets; Fountains; Water intake apparatus; Bath tubs; Bath tubs for sitz baths; toilets, portable; Flushing tanks; Toilet bowls; Showers; Wash-hand bowls [parts of sanitary installations]; Sinks; Disinfection apparatus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Grifos; Fuentes de agua; Aparatos de toma de agua; Bañeras; Bañeras para baños de asiento; Retretes transportables; Depósitos de descarga de agua; Tazas de inodoro; Duchas; Lavabos; Fregaderos; Aparatos de desinfección.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kraanid; Purskkaevud; Veesisselaskeseadmed; Vannid; Istevannid, bideed; Teisaldatavad käimlad, klosetid; WC-loputuskastid; WC-potid, klosetipotid; Dušid; Kätepesukausid [sanitaarseadmete osad]; Valamud; Desinfitseerimisseadmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vesihanat; Suihkukaivot; Vedenottolaitteet; Kylpyammeet; Istuma-ammeet; Käymälät, siirrettävät; WC-säiliöt; WC-pöntöt; Suihkut; Käsienpesualtaat [saniteettitilojen osina]; Pesualtaat; Desinfiointilaitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Robinets; Fontaines; Appareils de prise d'eau; Baignoires; Baignoires pour bains de siège; Cabinets d'aisances transportables; Réservoirs de chasses d'eau; Cuvettes de toilettes [W.-C.]; Douches; Lavabos; Éviers; Appareils de désinfection.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pipe [slavine]; Fontane; Uređaji za dovod vode; Kade; Sjedeće kade za kupaonice; Prijenosni zahodi; Vodokotlići za WC školjke; Zahodske školjke; Tuševi; Umivaonici; Sudoperi; Uređaj za dezinfekciju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Csapok; Kutak, szökőkutak; Vízkivételi készülékek, berendezések; Fürdőkádak; Kádak ülőfürdőkhöz; Mobil vécék; WC-vízöblítő tartályok; Vécékagylók; Zuhanyok; Mosdókagylók [szaniter berendezések részei]; Mosogatók, mosdók; Fertőtlenítő készülékek, berendezések.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Rubinetti; Fontane; Apparecchi per prese d'acqua; Vasche da bagno; Vasche da bagno per semicupi; Gabinetti di decenza portatili; Cassette di scarico dell'acqua; Tazze da WC; Docce; Lavabi; Lavandini; Apparecchi per la disinfezione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Čiaupai; Fontanai; Vandens ėmimo įrenginiai; Vonios; Sėdimosios vonios; Kilnojamieji tualetai; Klozetų bakeliai; Klozetų puodai; Dušai; Rankų prausyklės [sanitarinių įrenginių dalys]; Plautuvės [virtuvinės]; Dezinfekavimo aparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ūdens krāni; Strūklakas; Ūdens pievadīšanas aparatūra; Vannas; Sēdvannas; Pārvietojamas tualetes; Tualetes podu ūdens tvertnes; Tualetes podi; Dušas; Mazgājamās bļodas [sanitārtehnisko iekārtu daļas]; Izlietnes; Dezinfekcijas aparatūra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Viti [għal bittiji]; Funtani; Apparat għad-dħul tal-ilma; Banjijiet; Friskatur għall-banju sitz; Tojlits trasferibbli; Tankijiet tal-flaxing; Bieqji tat-tojlit; Doċoċ; Sinkijiet għall-ħasil tal-idejn [partijiet ta' installazzjonijiet sanitarji]; Sinkijiet; Apparat għad-diżinfezzjoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Waterkranen; Fonteinen; Apparaten voor het aftappen van water; Badkuipen; Badkuipen voor zitbaden; Verplaatsbare toiletten; Stortbakken; Toiletpotten; Douches; Wastafels; Gootstenen; Ontsmettingstoestellen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Krany; Fontanny; Urządzenia do ujęcia wody; Wanny; Wanny do nasiadówek; Ustępy przenośne; Zbiorniki do płuczek ustępowych; Muszle klozetowe; Natryski, prysznice; Umywalki [części instalacji sanitarnych]; Zlewozmywaki; Urządzenia do dezynfekcji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Torneiras [bicas]; Fontes; Aparelhos para tomada de água; Banheiras; Banheiras para banhos de assento; Retretes portáteis; Reservatórios de autoclismos; Sanitas; Chuveiros; Lavabos [lavatórios]; Lava - loiças; Aparelhos de desinfeção.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Robinete; Fântâni; Aparate pentru captarea apei; Cabine pentru duş; Căzi pentru băi de şezut; Toalete transportabile; Rezervoare de spălare cu apă; Vase de toaletă [w.c.]; Duşuri; Lavabouri; Chiuvete; Aparate de dezinfectat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kohútiky; Fontány; Zariadenia na prívod vody; Vane; Vane na sedacie kúpele; Záchody (Prenosné -); Splachovacie nádrže; Toaletné (záchodové) misy; Sprchy; Umývadlá; Drezy; Zariadenia na dezinfikovanie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pipe; Vodometi; Naprave za dovod vode; Banje; Sedežne kopalne kadi; Prenosna stranišča; Kotlički za izplakovanje; Straniščne školjke; Tuši; Umivalniki [deli sanitarne opreme]; Kuhinjska korita; Dezinfekcijski aparati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Vattenkranar; Fontäner; Apparatur för vattenintag; Badkar; Sittbadkar; Flyttbara toaletter; Spoltankar; Toalettstolar; Duschar; Handfat [delar av sanitära installationer]; Vaskar; Desinfektionsapparater.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бюфети; Чинове; Закачалки за дрехи; Рафтове за складове; Етажерки за саксии [мебелировка]; Чинове; Тоалетни масички, тоалетки; Библиотеки; Масички за сервиране на чай; Мебелировка за спални; Мебели от дърво; Обзавеждане за бани; Сандъци за играчки; Стойки за книги [мебелировка]; Маси за трапезарии; Колибки за домашни любимци; Тоалетни масички, тоалетки; Кучешки колибки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Příborníky; Psací stoly; Ramínka a věšáky na oděvy; Regály [nábytek]; Stojany na květiny [nábytek]; Psací stoly; Toaletní stolky; Knihovny; Čajové stolky; Nábytek do ložnice; Nábytek ze dřeva; Koupelnový nábytek; Bedny na hračky; Stojánky na knihy [nábytek]; Jídelní stoly; Boudy pro domácí zvířata; Stolky a skříňky s umyvadlem [nábytek]; Psí boudy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Buffeter; Skriveborde; Klædebøjler og tøjkroge; Reoler [møbler]; Blomsterborde og -stativer [møbler]; Skriveborde [chatoller]; Toiletborde; Bogreoler; Teborde; Soveværelsesmøbler; Træmøbler; Badeværelsesmøbler; Kister til legetøj; Bogstativer [møbler]; Spiseborde; Huse til kæledyr; Servanter [møbler]; Hundehuse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Buffets [Möbel]; Schreibtische; Kleiderbügel und Kleiderhaken; Regale; Blumentische [Möbel]; Schreibschränke; Toilettetische; Büchergestelle; Teetische; Schlafzimmermöbel; Holzmöbel; Badezimmermöbel; Spielzeugkisten; Buchstützen; Esstische; Hütten für Haustiere; Waschtische [Möbel]; Zwinger [Hundehütten].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σκευοθήκες· Γραφεία· Κρεμάστρες και άγκιστρα ρούχων· Ράφια για αποθήκευση· Ζαρντινιέρες [επίπλωση]· Γραφεία· Τουαλέτα (έπιπλο, μποντουάρ)· Βιβλιοθηκών εταζέρες· Τραπέζια για τσάι· Έπιπλα κρεβατοκάμαρας· Ξύλινα έπιπλα· Έπιπλα μπάνιου· Κιβώτια παιχνιδιών· Βιβλιοθήκες· Τραπέζια φαγητού· Σπιτάκια για κατοικίδια ζώα· Τραπέζια τουαλέτας· Σκυλόσπιτα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Sideboards; Desks; Coat hangers; Racks [furniture]; Flower-stands [furniture]; Writing desks; Dressing tables; Bookcases; tea tables; Bedroom furniture; Wooden furniture; Bathroom furniture; Chests for toys; Book rests [furniture]; Dining tables; Kennels for household pets; Washstands [furniture]; Dog kennels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aparadores [muebles]; Escritorios [muebles]; Perchas para prendas de vestir; Estantes [muebles]; Jardineras [muebles]; Secreteres; Mesas de tocador; Bibliotecas [muebles]; Mesas de té; Muebles de dormitorio; Muebles de madera; Mobiliario de cuarto de baño; Baúles para juguetes; Atriles; Mesas de comedor; Casetas para animales de compañía; Tocadores [muebles]; Casetas de perro.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Puhvetkapid; Kirjutuslauad, koolipingid; Riidepuud; Väikesed riiulid [mööbel]; Lillelauad, -kastid [mööbel]; Kirjutuslauad, kirjutuspuldid; Tualettlauad; Raamaturiiulid; Kohvilauad; Magamistoamööbel; Puitmööbel; Vannitoamööbel; Kastid mänguasjadele, mänguasjakastid; Raamatualused [mööbel]; Söögilauad; Lemmikloomakuudid; Pesulauad [mööbel]; Koerakuudid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Senkit; Pulpetit; Vaateripustimet; Hyllyt [kaluste]; Puutarhakalusteet; Pulpetit; Pukeutumispöydät; Kirjahyllyt; Teepöydät; Makuuhuoneiden huonekalut; Puiset huonekalut; Kylpyhuonekalusteet; Kirstut (Lelu -); Kirjatuet [kalusteina]; Ruokasalin pöydät; Asumukset lemmikkieläimille; Pukeutumispöydät; Koirankopit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Buffets; Bureaux [meubles]; Cintres et patères (crochets) pour vêtements; Étagères; Jardinières [meubles]; Secrétaires; Coiffeuses; Bibliothèques [meubles]; Tables pour le thé; Meubles de chambres à coucher; Meubles en bois; Mobilier de salle de bains; Coffres à jouets; Supports pour livres; Tables de salle à manger; Niches pour animaux d'intérieur; Tables de toilette [mobilier]; Niches.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ormari za stolno posuđe; Pisaći stolovi; Vješalice i kuke za vješanje odjeće; Stalaže; Vrtni namještaj; Pisaći stolovi; Stolići za umivanje [pokućstvo]; Police za knjige; Čajni stolići; Namještaj za spavaću sobu; Drveni namještaj; Kupaonski namještaj; Sanduci za igračke; Knjige [stalci za knige]; Blagovaonski stolovi; Kućice za domaće životinje; Stolići za umivanje [pokućstvo]; Pseće kućice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Pohárszékek, ebédlőszekrények; Álló asztalok; Ruhafogasok, ruhaakasztók, vállfák; Állványok, polcok; Kerti bútorok; Álló asztalok; Fésülködő asztalok; Könyvszekrények; Tea asztalok; Hálószobabútor; Fabútorok; Fürdőszobabútorok; Dobozok játékokhoz; Könyvtartók [bútorzat]; Ebédlőasztalok; Ólak, vackok lakásban tartott kisállatoknak; Fésülködő asztalok; Kennelek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Buffet; Scrivanie; Appendi abiti e grucce per indumenti; Scaffalature; Giardiniere [mobili]; Scrittoi; Tavoli da toilette; Librerie [mobili]; Tavoli da tè; Mobili per camere da letto; Mobili in legno; Mobili per il bagno; Casse per giocattoli; Supporti per libri [mobili]; Tavoli per sale da pranzo; Cucce per animali d'appartamento; Tavolini da tolette [mobili]; Cucce.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Indaujos [bufetai]; Stovimieji stalai; Pakabos; Lentynos [baldai]; Gėlių lentynėlės [baldai]; Sekreterai (rašomieji stalai); Tualetiniai staliukai; Knygų lentynos; Arbatiniai staliukai; Miegamojo baldai; Mediniai baldai; Vonios kambario baldai; Žaislų dėžės; Knygų (atverstų) pultai [baldai]; Valgomojo stalai; Būdos (naminiams gyvūnams); Tualetiniai staliukai; Šunų būdos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Trauku skapji; Rakstāmgaldi; Drēbju pakaramie un vadži; Plaukti; Dārza mēbeles; Rakstāmgaldi; Tualetes galdiņi; Grāmatu plaukti; Tējas galdiņi; Mēbeles guļamistabām; Koka mēbeles; Vannasistabas mēbeles; Rotaļlietu kastes; Grāmatu turētāji (mēbeles); Ēdamistabas galdi; Sprosti un būdas istabas dzīvniekiem; Tualetes galdiņi; Suņu būdas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Sajdbords; Skrivaniji; Spallieri u ganċijiet għall-ħwejjeġ; Xkafef; Stends tal-fjuri (għamara); Skrivaniji; Twaletti; Xkafef għall-kotba; Mwejjed tat-tè; Għamara tal-kmamar tas-sodda; Għamara tal-injam; Għamara tal-kmamar tal-banju; Gradenzi għall-ġugarelli; Sostenn għall-kotba (għamara); Imwejjed tal-kamra tal-pranzu; Marqad għall-annimali domestiċi; Twaletti; Djar żgħar fejn jinżammu l-klieb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Buffetkasten; Bureaus [meubelen]; Klerenhangers en -haken; Rekken [stellingen]; Bloembakken [meubelen]; Secrétaires; Kaptafels; Boekenkasten; Theetafels; Slaapkamermeubilair; Houten meubelen; Badkamermeubilair; Speelgoedkisten; Boekenrekken [meubelen]; Eetkamertafels; Hokken voor huisdieren; Wastafels [meubilair]; Kennels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kredensy; Biurka; Wieszaki i haczyki na ubrania; Regały [meble]; Meble ogrodowe; Pulpity do pisania; Toaletki; Biblioteczki [regały na książki]; Stoliki do herbaty; Meble sypialne; Meble drewniane; Meble łazienkowe; Skrzynki na zabawki; Stojaki na książki [meble]; Stoły do jadalni; Budy dla zwierząt domowych; Toaletki; Budy dla psów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aparadores [mobiliário]; Secretárias [mobiliário]; Cabides para roupa e ganchos de roupa; Estantes [mobiliário]; Suportes para flores [mobiliário]; Secretárias; Mesas de toucador; Estantes para livros; Mesas de chá; Mobílias de quarto; Mobiliário em madeira; Mobiliário para casas de banho; Arcas ou baús para brinquedos; Porta-livros; Mesas de sala de jantar; Casotas para animais domésticos; Armários para lavatórios [mobiliário]; Casotas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Bufeturi; Birouri; Umeraşe şi cuiere pentru haine; Etajere; Mobilier de grădină; Birou de scris; Măsuţe de toaletă; Biblioteci (Etajere pentru -); Măsuţe de ceai; Mobilier pentru dormitor; Mobilier din lemn; Mobilier de baie; Jucării (Cutii pentru -); Suporturi de cărți; Mese pentru săli de mese; Cuşti pentru animale de companie; Măsuţe de toaletă; Câini (Cuşti pentru -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Servírovacie stoly a pulty; Písacie stoly; Vešiaky na odevy; Police (samostatne stojaci nábytok); Stojany na kvety (nábytok); Písacie stoly; Toaletné stolíky; Knižnice (nábytok); Čajové stolíky; Spálňový nábytok; Drevený nábytok; Nábytok do kúpeľne; Truhlica na hračky; Opierky na knihy; Jedálenské stoly; Búdy pre zvieratá chované v domácnosti; Skrinky s umývadlom (nábytok); Psie búdy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Omare za namizno posodo; Pisalne mize; Obešalniki in kljuke za obleke; Regali; Vrtno pohištvo; Pisalne mize; Toaletne mizice; Knjižne omare; Čajne mizice; Pohištvo za spalnice; Pohištvo iz lesa; Pohištvo za kopalnice; Skrinje za igrače; Stojala za knjige [pohištvo]; Mize za jedilnico; Hišice za domače ljubljenčke; Toaletne mizice; Pasje hišice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Matsalsskänkar; Skolbänkar; Hängare och krokar för kläder; Hyllor; Blomställ [möbler]; Skolbänkar; Toalettbord; Bokhyllor; Tebord; Sovrumsmöbler; Trämöbler; Badrumsmöbler; Leksakslådor; Bokstöd [möbler]; Matsalsbord; Kennlar för husdjur; Toalettbord; Kennlar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/095</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/165</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-31</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080355</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>32203</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

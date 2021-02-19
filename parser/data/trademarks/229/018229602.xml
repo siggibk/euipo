@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-21T09:10:14</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229602</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229602</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-09-18</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-21</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Cutees</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Препарати за почистване и полиране на кожа и обувки; Кутии за червила.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Přípravky na čištění a leštění kůže a obuvi; Pouzdra na rtěnky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Præparater til rengøring og polering af læder og fodtøj; Etuier til læbestifter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Leder- und Schuhreinigungs- und -poliermittel; Lippenstiftetuis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παρασκευάσματα για τον καθαρισμό και τη στίλβωση δερμάτων και υποδημάτων· Θήκες κραγιόν.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Leather and shoe cleaning and polishing preparations; Lipstick cases.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Preparaciones para limpiar y dar brillo al cuero y calzado; Estuches para pintalabios.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Naha- ja kingapuhastus- ja -poleerained; Huulepulgaümbrised.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Nahan ja kenkien puhdistus- ja kiillotusvalmisteet; Huulipunakotelot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Préparations pour nettoyer et polir le cuir et les chaussures; Étuis pour rouges à lèvres.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pripravci za čišćenje i laštenje kože i cipela; Futrole za ruž.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Bőr- és cipőtisztító és fényesítő készítmények; Rúzstokok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Preparati per la pulizia della pelle e per pulire e lucidare le scarpe; Astucci per rossetti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Odų ir batų valymo ir blizginimo preparatai; Lūpų dažų dėklai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ādas izstrādājumu un apavu tīrīšanas un spodrināšanas līdzekļi; Lūpu krāsas futrāli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preparazzjonijiet għat-tindif u għall-illustrar tal-ġilda u ż-żraben; Kaxxi għal-lipstik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Reinigings- en glansproducten voor schoenen en leder; Etuis voor lippenstift.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Preparaty do czyszczenia i polerowania skóry i butów; Etui na szminkę.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Produtos para limpeza e polimento de couros e calçados; Estojos para batons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Preparate pentru curăţarea şi lustruirea pielii şi încălţămintei; Etuiuri pentru ruj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Čistiace a leštiace prípravky na kožu a obuv; Puzdrá na rúže.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Preparati za čiščenje in loščenje usnja in čevljev; Torbice s priborom za šminke za ustnice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Preparat för rengöring och polering av läder och skor; Etuier för läppstift.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>4</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Свещи (Тънки -); Ароматни свещи.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Svíčky; Parfémované svíčky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kærter; Parfumerede lys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kerzen; Duftkerzen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ψηλά λεπτά κεριά για κηροπήγιο· Αρωματικά κεριά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Tapers; Perfumed candles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Velas para iluminar; Velas perfumadas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Peened vahaküünlad; Lõhnaküünlad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kynttilät; Tuoksukynttilät.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Bougies; Bougies parfumées.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Svijeće; Mirisne svijeće.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyertyák; Illatosított gyertyák.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Candele [illuminazione]; Candele profumate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Žvakės; Kvepiančios žvakės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Sveces; Sveces (aromatizētas).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xemgħat; Xemgħat imfewħa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Spits toelopende kaarsen; Geurkaarsen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Świece; Świece zapachowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Velas, candeias, círios [iluminação]; Velas perfumadas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Lumânări; Lumânări parfumate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Sviečky (na svietenie); Parfumované sviečky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Koničaste sveče; Parfumirane sveče.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Ljus; Parfymerade ljus.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>6</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Консервни кутии от тенекия.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Plechové nádoby [kovové].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Blikdåser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Dosen aus Metall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μεταλλικά κουτιά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Tins of metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Latas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Metallist säilituspurgid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Metallirasiat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Boîtes de conserve en fer-blanc.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Metalne limenke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fém konzervdobozok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Barattoli in metallo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Metalinės skardinės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Metāla konservu kārbas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Laned tal-metall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Blikjes van metaal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Puszki metalowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Latas metálicas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cutii din metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kovové plechovky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kovinske pločevinke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Burkar av metall.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Калъфи за очила; Електромагнитни бобини.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pouzdra na brýle; Elektromagnetické cívky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Etuier til briller; Magneter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Brillenetuis; Magnete.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Επιρρίνιων γυαλιών οράσεως θήκες· Ηλεκτρομαγνητικά πηνία.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Spectacle cases; Magnets.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Estuches para gafas; Imanes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Prillitoosid; Magnetid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Silmälasikotelot; Käämit, sähkömagneettiset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Étuis à lunettes; Aimants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Etuiji za naočale; Elektromagnetni svici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szemüvegtokok; Elektromágneses tekercsek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Astucci per occhiali; Magneti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Akinių dėklai; Elektromagnetinės ritės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Briļļu maki; Elektromagnētiskās spoles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kontenituri tan-nuċċalijiet; Kolji elettromanjetiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Brillenkokers; Elektromagnetische spoelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Etui na okulary; Cewki elektromagnetyczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Estojos para óculos; Imanes [ímans].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Tocuri pentru ochelari fără braţe; Magneţi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Puzdrá na okuliare; Magnety.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Etuiji za očala; Elektromagnetne tuljave.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Glasögonfodral; Elektromagnetiska spolar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>14</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Гривни; Бижутерия; Халки за ключове [халки за ключове с дребни украшения или декоративни накрайници].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Ozdobné kroužky a náramky; Klenoty; Klíčenky (dělené kroužky s ozdobou nebo jako přívěsek).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Armbånd; Smykker; Nøgleringe [splitringe med vedhæng].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Armbänder; Schmuck; Schlüsselanhänger.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Βραχιόλια· Απομιμήσεις κοσμημάτων· Κλειδοθήκες [κρίκοι με κοσμημάτια ή διακοσμητικά αλυσιδάκια].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Bracelets; Jewellery; Key rings [split rings with trinket or decorative fob].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Brazaletes y pulseras; Bisutería; Llaveros [anillas partidas con dijes o abalorios].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Käe- ja jalavõrud; Juveeltooted; Ripatsitega võtmerõngad [võtmehoidjad].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Rannerenkaat; Epäaidot korut; Avainrenkaat [koristehelyillä tai avaimenperillä].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Bracelets; Bijoux; Porte-clés [anneaux brisés avec breloque ou colifichet].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Narukvice; Nakit; Privjesci za ključeve [alke s drangulijama ili ukrasnim privjescima].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Karperecek és karkötők; Ékszerek; Kulcskarikák [apró díszekkel, fityegőkkel].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Braccialetti; Articoli di bigiotteria; Portachiavi [anelli portachiavi con gingillo o charm].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Apyrankės; Juvelyriniai dirbiniai; Raktų žiedai [su pakabučiais].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Rokassprādzes; Juvelierizstrādājumi; Atslēgu piekariņi [šķeltgredzeni ar greznumlietiņu vai dekoratīvu piekariņu].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Brazzuletti / Ċpiepet; Ġojjellerija; Ħoloq taċ-ċwievet [ċrieki maqsuma b'ornament jew aċċessorju dekorattiv].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Arm- en enkelbanden; Juwelen; Sleutelhangers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Bransolety; Wyroby jubilerskie; Breloczki do kluczy [kółka do kluczy z ozdobami lub dekoracyjnymi zawieszkami].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Pulseiras; Artigos de bijutaria; Porta-chaves [com objeto decorativo].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Brăţări; Giuvaiergerie; Inele pentru chei [inele de chei cu breloc sau portchei decorativ].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Náramky; Klenoty; Krúžky na kľúče (s príveskom alebo ozdobou).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zapestnice; Nakit; Obeski za ključe [obročki z okraskom ali dekorativnim obeskom].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Armringar; Bijouterier; Nyckelringar [delade ringar med prydnader eller dekorativa emblem].</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>16</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Стикери; Картонени контейнери за пакетиране; Картонени кутии; Калъфи за паспорти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nálepky; Balicí nádoby z lepenky; Krabice z lepenky, kartonu nebo z papíru; Pouzdra na cestovní pasy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Klistermærker; Emballagebeholdere af pap; Æsker af pap; Etuier til pas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Aufkleber [Sticker]; Verpackungsbehälter aus Pappe; Schachteln aus Pappe; Reisepasshüllen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αυτοκόλλητα· Χάρτινα δοχεία συσκευασίας· Χαρτόκουτα· Θήκες διαβατηρίων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Stickers; Containers of card for packaging; Cardboard boxes; Passport covers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Pegatinas; Recipientes de cartón para embalaje; Cajas de cartón; Fundas para pasaportes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kleebised; Kartongmahutid pakkimiseks; Pappkarbid; Passikaaned.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tarrat; Pakkaussäiliöt pahvista; Pahvilaatikot; Passikotelot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Autocollants; Récipients d'emballage en carton; Boîtes en carton; Pochettes pour passeports.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ljepljive naljepnice; Kartonske ambalaže; Kartonske kutije; Futrole za putovnice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Címkék, matricák; Kartondobozok csomagolásra; Kartondobozok; Útlevéltartók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Autoadesivi; Contenitori in cartoncino per imballaggio; Scatole di cartone; Portapassaporti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Lipdukai; Kartoninės pakavimo talpos; Kartoninės dėžės; Pasų laikikliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Uzlīmes; Pakošanas konteineri no kartona; Kartona kastes; Pasu apvāki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Stikers; Kontenituri tal-kartun għall-ippakkjar; Kaxex tal-kartun; Kavers għall-passaporti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Stickers; Houders van karton voor verpakkingen; Dozen van karton; Paspoorthoesjes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Naklejki; Pojemniki kartonowe do pakowania; Pudła kartonowe; Okładki na paszporty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Autocolantes; Recipientes de cartão para embalagem; Caixas de cartão; Bolsas para passaportes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Autocolante; Recipiente din carton pentru ambalat; Cutii din carton; Etuiuri pentru paşapoarte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nálepky; Kartónové nádoby na balenie; Kartónové škatule; Puzdrá na pasy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Nalepke; Pakirna embalaža iz lepenke; Kartonske škatle; Ovitki za potne liste.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Klistermärken; Förpackningsbehållare av papp; Askar av papp; Passfodral.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>18</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Bсекидневни чанти; Кесии за пари; Несесери за козметика, продавани празни; Чанти за обувки за пътуване; Прикачени етикети [кожени].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Tašky; Sáčky; Kosmetické taštičky prodávané prázdné; Tašky na boty na cesty; Visačky na zavazadla (kožené zboží).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tasker; Poser; Kosmetiktasker uden indhold; Skoposer til rejsebrug; Kuffertmærker (lædervarer).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Taschen; Beutel; Kosmetiktaschen ohne Inhalt; Schuhbeutel für die Reise; Angepasste Kofferanhänger [Lederwaren].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Τσάντες για ανεπίσημο ντύσιμο· Πουγγιά· Τσαντάκια καλλυντικών πωλούμενα άδεια· Τσάντες υποδημάτων για το ταξίδι· Ταμπελίτσες αποσκευών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Casual bags; Pouches; Cosmetic bags sold empty; Shoe bags for travel; Luggage tags [leatherware].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bolsas; Bolsitos; Bolsas vacías para cosméticos; Bolsas de zapatos para viaje; Etiquetas para equipaje [marroquinería].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Vaba aja kotid; Kukrud, kotid, kotikesed; Tühjalt müüdavad kosmeetikakotid; Jalatsikotid reisimiseks; Pagasilipikud [nahakaubad].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vapaa-ajanlaukut; Pussukat; Tyhjinä myytävät kosmetiikkalaukut; Kenkäpussit matkakäyttöön; Matkalaukkujen nimilaput [nahkatavarat].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Sacs de tous les jours; Petits sacs; Trousses vides pour produits cosmétiques; Sacs à chaussures pour le voyage; Étiquettes à bagages [maroquinerie].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Torbe; Vrećaste torbice; Kozmetičke torbice koje se prodaju prazne; Torbe za cipele za putovanje; Oznake za prtljagu [kožna galanterija].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Hétköznapi, utcai táskák; Erszények, bugyellárisok; Üresen értékesített kozmetikai táskák; Cipőtáskák utazáshoz; Poggyászcímkék [bőráruk].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Borse casual; Sacchetto; Borse per cosmetici [non accessoriate]; Borse da viaggio per scarpe; Etichette per bagagli [pelletteria].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kasdieniai krepšiai; Krepšeliai; Kosmetikos maišeliai, parduodami tušti; Kelioniniai avalynės maišai; Bagažo kortelės [odos gaminiai].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Somas; Maisveida somas; Tukšas kosmētikas somiņas; Apavu somas ceļošanai; Bagāžas birkas [ādas izstrādājumi].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Basktijiet ta' kuljum; Boroż żgħar; Basktijiet għall-kosmetiċi mibjugħa vojta; Boroż taż-żraben għall-ivvjaġġar; Tikketti għal mal-bagalji [oġġetti tal-ġilda].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Vrijetijdstassen; Buidels; Tassen voor cosmetische middelen, leeg verkocht; Schoenentassen voor op reis; Bagage-etiketten (lederwaren).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Torby; Worki, sakiewki; Kosmetyczki sprzedawane bez zawartości; Torby podróżne na buty; Zawieszki, etykiety na bagaż [wyroby ze skóry].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Sacos de lazer; Bolsas; Sacos para cosméticos vendidos vazios; Sacos de viagem para sapatos; Etiquetas para bagagem [marroquinaria].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Genţi; Săculeţe; Genţi pentru cosmetice [fără conţinut]; Genţi de voiaj pentru pantofi; Etichete pentru bagaje [articole din piele].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Tašky; Vrecká a vrecúška; Kozmetické taštičky predávané bez obsahu; Cestovné tašky na topánky; Kožené štítky a visačky na batožinu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Torbe; Mošnjički; Kozmetične torbice, ki se prodajajo prazne; Potovalne torbe za čevlje; Oznake za prtljago [usnjeni izdelki].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Fritidsväskor; Påsar; Sminkväskor, sålda utan innehåll; Skoväskor för resor; Adresslappar för bagage [lädervaror].</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Подложки [възглавници]; Ръчни и джобни огледала [козметични, тоалетни огледала]; Подаръчни кутии от пластмаса; Кутии, кутии от пластмаса.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Polštáře (dekorační); Příruční a kapesní zrcadla [kosmetická, toaletní zrcátka]; Dárkové krabice z plastické hmoty; Dózy, krabice z plastických hmot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Puder; Hånd- og lommespejle [kosmetik-, toiletspejle]; Gaveæsker af plastic; Dåser, kasser af plastic.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kissen; Hand- und Taschenspiegel [Kosmetik-, Toilettenspiegel]; Geschenkboxen aus Kunststoff; Dosen, Kästen aus Kunststoff.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μαξιλάρια· Καθρέφτες χειρός και καθρεφτάκια [καθρέφτες καλλωπισμού, ατομικής περιποίησης]· Κουτιά δώρων από πλαστικό· Κυλινδρικές συσκευασίες, κουτιά από πλαστικό.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Cushions; Hand-held mirrors [cosmetics, toilet mirrors]; Gift boxes of plastic; Cases of plastic.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Almohadones; Espejos de mano y de bolso [espejos cosméticos, espejos de tocador]; Bolsas de regalo de plástico; Latas, cajones de plástico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Istme-, sohvapadjad; Käsi- ja taskupeeglid [kosmeetika-, tualettpeeglid]; Plastist kingikarbid; Plastist toosid, karbid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tyynyt; Käsi- ja taskupeilit [kosmetiikka- ja kylpyhuonepeilit]; Muoviset lahjalaatikot; Muovirasiat, -laatikot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Coussins; Miroirs de main et de sac [miroirs cosmétiques, de toilette]; Boîtes cadeau en plastique; Boîtes, coffrets en matières plastiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Jastuci; Ručna i džepna ogledala [kozmetička, toaletna zrcala]; Kutije za poklone od plastike; Limenke, kutije od plastike.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Párnák, díszpárnák; Kézi és zsebtükrök [kozmetikai-, piperetükrök]; Műanyag ajándékdobozok; Műanyag dobozok, ládák.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cuscini; Specchietti a mano e tascabili [specchi cosmetici, per la toletta]; Scatole regalo di plastica; Scatole, casse di plastica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Pagalvės [lovų]; Kosmetiniai ir kišeniniai veidrodėliai [nedideli, kosmetiniai veidrodėliai]; Plastikinės dovanų dėžės; Dėžutės, dėklai iš plastiko.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dekoratīvie spilveni; Rokas un kabatas spogulīši [kosmētikas, tualetes spogulīši]; Dāvanu kastes no plastmasas; Plastmasas kārbas un kastes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kuxxini; Mirja li jinżammu fl-idejn u mirja tal-but [mirja tal-irtokk u mirja tat-twaletta]; Kaxxi tal-plastik tar-rigali; Kontenituri, kaxxetti magħmula mill-plastik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Zit- of sierkussens; Hand- en zakspiegels [cosmetica-, toiletspiegels]; Geschenkdozen van plastic; Potjes, bakjes van plastic.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Poduszki; Lusterka ręczne i kieszonkowe [lusterka kosmetyczne i toaletowe]; Pudełka upominkowe z tworzywa sztucznego; Pudełka, skrzynki z tworzywa sztucznego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Almofadas [travesseiros]; Espelhos de mão e de bolso [espelhos de maquilhagem, espelhos de toilette]; Caixas para presentes em matérias plásticas; Caixas, caixotes em matérias plásticas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Perne decorative; Oglinzi de mână și de buzunar [oglinzi cosmetice, oglinzi de toaletă]; Cutii de cadouri din material plastic; Doze, lăzi din plastic.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Podušky; Ručné a príručné toaletné zrkadielka [kozmetické, toaletné zrkadlá]; Plastové škatuľky na spomienkové predmety a darčeky; Dózy, skrinky z plastu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Blazine; Ročna in žepna ogledala [kozmetična, toaletna ogledala]; Darilne škatle iz plastike; Doze, škatle iz umetnih snovi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Dynor; Hand- och väskspeglar [kosmetik-, toalettspeglar]; Presentboxar av plast; Askar, lådor av plast.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>21</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Чаши, направени от порцелан; Кутии за обяд; Чаши за кафе за еднократна употреба; Изотермични чанти; Почистващи кърпи за обувки; Кутийки за таблетки за лична употреба; Гребени; Четки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Šálky z porcelánu; Svačinové boxy; Pohárky na kávu k odnosu s sebou; Termoizolační tašky; Hadříky na čištění obuvi; Krabičky na léky pro osobní použití; Hřebeny; Kartáče.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kopper fremstillet af porcelæn; Madkasser; Kaffebægre til at tage med; Isotermiske tasker; Pudseklude til sko; Pilleæsker til personlig brug; Kamme; Børster.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Tassen aus Porzellan; Brotdosen; Coffee to go Becher; Kühltaschen; Schuhputztücher; Pillenboxen für den persönlichen Gebrauch; Kämme; Bürsten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κύπελλα από πορσελάνη· Κουτιά για φαγητό· Κύπελλα για καφέ σε πακέτο· Τσάντες ισοθερμικές· Υφάσματα καθαρισμού για παπούτσια· Κουτάκια χαπιών για ατομική χρήση· Χτένες· Βούρτσες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Cups made of porcelain; Lunch boxes; Takeaway coffee cups; Isothermic bags; Shoe cloths; Pill boxes for personal use; Combs; Brushes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Tazas hechas de porcelana; Portaviandas; Vasos de café para llevar; Bolsas isotérmicas; Gamuzas para calzado; Cajas de píldoras para uso doméstico; Peines; Cepillos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Portselantassid; Võileivakarbid, einekarbid; Kohvitopsid; Isotermilised kotid; Kingalapid; Isiklikud tabletikarbid; Kammid; Harjad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Posliinikupit; Eväsrasiat; Mukaan otettavat kahvimukit; Isotermiset laukut; Kenkienhoitoliinat; Pillerirasiat henkilökohtaiseen käyttöön; Kammat; Harjat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Tasses en porcelaine; Boîtes à casse-croûte; Gobelets pour le café à emporter; Sacs isothermes; Chiffons de lustrage pour chaussures; Piluliers à usage personnel; Peignes; Brosses.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Šalice izrađene od porculana; Kutije za užinu; Posude za kavu za van; Termičke izolacijske vrećice; Krpe za čišćenje cipela; Kutije za tablete za osobnu upotrebu; Češljevi; Četke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Porceláncsészék; Uzsonnás dobozok; Coffee-to-go pohár; Izotermikus táskák; Cipőfényesítő rongy; Gyógyszertartó dobozok személyi használatra; Fésűk; Kefék.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tazze in porcellana; Recipienti per i pasti; Bicchieri Coffee-to-go (da asporto della bevanda); Borse isotermiche; Panni per scarpe; Portapillole per uso personale; Pettini; Spazzole.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Porcelianiniai puodeliai; Užkandžių dėžutės; Puodeliai kavai išsinešti; Izoterminiai maišeliai; Skudurai avalynei valyti; Asmeninio naudojimo tablečių dėžutės; Šukos; Šepečiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kausi no porcelāna; Brokastu kārbas; Līdzņemamās kafijas krūzītes; Izotermiskas somas; Drāniņas kurpju tīrīšanai; Tablešu kastītes personīgai lietošanai; Ķemmes; Sukas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kikkri magħmula mill-porċellana; Kontenituri ta' ikel ħafif; Tazzi għal coffee2go; Boroż isotermiċi; Ċraret għaż-żraben; Kaxex tal-pilloli għall-użu personali; Pettnejiet; Pniezel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kopjes van porselein; Lunchtrommeltjes; Coffee-to-go-bekers; Koeltassen; Doeken voor schoenen; Pillendoosjes voor persoonlijk gebruik; Kammen; Borstels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Filiżanki wykonane z porcelany; Pudełka obiadowe; Kubki na kawę na wynos; Torby izotermiczne; Szmatki do butów; Pudełka na pigułki do użytku osobistego; Grzebienie; Szczotki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Taças em porcelana; Lancheiras; Copos de café com tampa ("coffee to go"); Sacos isotérmicos; Panos para calçado; Caixas de comprimidos para uso pessoal; Pentes; Escovas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Ceşti din porţelan; Sufertaşe; Pahare pentru cafea la pachet; Sacoşe termoizolante; Pânze de curăţat pantofi; Cutii de pastile, pentru uz personal; Piepteni; Perii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Porcelánové šálky; Škatuľky na desiatu; Poháre na kávu na odnesenie so sebou; Izotermické vrecká; Handry na čistenie obuvi; Škatuľky na tabletky na osobné účely; Hrebene; Kefy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Skodelice iz porcelana; Škatle za prenašanje hrane; Lončki za kavo za s seboj; Termične izolacijske vrečke; Krpice za čevlje; Škatle za tablete za osebno uporabo; Glavniki; Krtače.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Koppar gjorda av porslin; Matlådor; Muggar för kaffe för avhämtning; Isotermiska väskor; Skodukar; Pilleraskar för personligt bruk; Kammar; Borstar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Шалове [шалчета за врата]; Ръкавици [облекло]; Маски за спане.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Šátky a šály (na krk); Rukavice [oděvy]; Masky na spaní.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Halstørklæder; Handsker [beklædning]; Sovemasker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schals; Handschuhe; Schlafmasken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κασκόλ [μαντίλια για τον λαιμό]· Γάντια· Μάσκες ύπνου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Neck scarves [mufflers]; Gloves [clothing]; Sleep masks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Protectores para cuellos de prendas de vestir; Guantes [prendas de vestir]; Antifaces para dormir.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Nina ja suud katvad kaelasallid; Kindad (rõivad); Magamisel kasutatavad silmakatted.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Huivit (kaulaliinat); Käsineet; Uninaamiot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Cache-cols; Gants [habillement]; Masques pour dormir.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Marame za vrat [šalovi]; Rukavice; Maske (za spavanje-).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Nyaksálak [sálak]; Kesztyűk [ruházat]; Alvómaszkok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Scaldacolli; Guanti [abbigliamento]; Maschere per dormire.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kaklaskarės [šalikai]; Pirštinės [drabužiai]; Naktiniai akių raiščiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kaklauti [šalles]; Cimdi; Gulēšanas maskas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Maflers [xalpi ta' madwar l-għonq]; Ingwanti; Maskri tal-irqad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Boordbeschermers; Handschoenen [kleding]; Slaapmaskers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Apaszki [chustki]; Rękawiczki [odzież]; Maski na oczy do spania.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Echarpes [cachecóis]; Luvas [vestuário]; Máscaras para dormir.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Eşarfe pentru gât [fulare]; Mănuşi [articole de îmbrăcăminte]; Măşti pentru dormit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Pletené šály; Rukavice; Masky na spanie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Naglavne rute [ovratne rute]; Rokavice; Maske za spanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Halsdukar (sjalar); Handskar; Sovmasker.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>26</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Значки; Ленти за коса; Украшения, орнаменти за коса.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Ozdobné odznaky [knoflíky]; Čelenky do vlasů; Ozdoby do vlasů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Pyntemærker [badges]; Hårbånd; Artikler til hårudsmykning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Anstecker [Buttons]; Haarbänder; Haarschmuck.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διακριτικά διακοσμητικά [κομβία]· Στέκες μαλλιών· Διακοσμητικά είδη για τα μαλλιά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Badges [buttons] (Ornamental novelty -); Hair bands; Decorative articles for the hair.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Insignias de adorno; Bandas para el cabello; Artículos de adorno para el cabello.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ehismärgid, ehisnööbid; Juuksepaelad, juukselindid; Juukseehted.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Koristemerkit ja -napit; Hiusnauhat; Hiuskoristeet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Badges ornementaux; Serre-tête; Articles décoratifs pour la chevelure.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ukrasne značke; Rajfovi za kosu; Ukrasni predmeti za kosu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Díszjelvények, kitűzők; Hajpántok; Hajdíszek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Distintivi ornamentali; Fasce per i capelli; Articoli d'ornamento per la capigliatura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Puošnieji ženkliukai [sagos]; Plaukų juostos; Plaukų papuošalai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Pogveida piespraudes dekoratīviem nolūkiem; Galvas lentes; Dekoratīvas matu rotas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Beġis [buttuni] (novita' ornamentali); Faxex għaż-żamma lura tax-xagħar; Oġġetti dekorattivi għax-xagħar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Badges voor versiering; Haarbanden; Versiersels voor het haar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Ozdobne plakietki; Przepaski do włosów; Dekoracyjne akcesoria do włosów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Emblemas ornamentais; Bandoletes; Artigos decorativos para o cabelo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Insigne ornamentale; Benzi pentru păr; Articole decorative pentru păr.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Ozdobné brošne; Stuhy do vlasov; Ozdoby do vlasov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Okrasne značke z ornamenti (gumbi); Trakovi za lase; Dekorativni izdelki za lase.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Märken [knappar] (prydnads- -); Snoddar och band för håruppsättning; Dekorativa artiklar för håret.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/109</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/180</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082274</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11854</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

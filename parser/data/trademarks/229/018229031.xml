@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T11:10:25</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229031</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229031</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>TOCOL</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162457811</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229031/000162457811.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.25</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Калъфи, пригодени за мобилни телефони; Батерии за клетъчни телефони; Зарядни устройства; Слушалки за мобилни телефони; Безжични клетъчни телефонни комплекти; Компютърни кабели; Силови кабели; Кабели за USB устройства; Съединителни кабели; Поставки за клетъчни телефони и компютри модел таблет; Защитно фолио за екран за клетъчни телефони и преносими електронни устройства; Адаптери за AC захранвания; Адаптери за DC захранвания; Калъфи за пренасяне за мобилни компютри; Предпазни калъфи и калъфи за клетъчни телефони, лаптопи и портативни медия плейъри; Слушалки за употреба с компютри.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Obaly na mobilní telefony; Baterie mobilních telefonů; Nabíječky baterií; Sluchátka k mobilním telefonům; Bezdrátová náhlavní sluchátka s mikrofonem k mobilním telefonům; Počítačové kabely; Přívodní šňůry; USB kabely; Spojovací kabely; Chrániče displejů pro mobilní telefony a tabletové počítače; Ochranné fólie na obrazovku pro mobilní telefony a přenosná elektronická zařízení; Adaptéry střídavého proudu; Adaptéry stejnosměrného proudu; Pouzdra na přenosné počítače; Ochranné kryty a pouzdra pro mobilní telefony, laptopy a přenosné mediální přehrávače; Sluchátka s mikrofonem používaná s počítači.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Etuier til mobiltelefoner; Batterier til mobiltelefoner; Opladere til batterier; Headsets til mobiltelefoner; Trådløse hovedtelefoner til mobiltelefoner; Computerkabler; Elektriske kabler; USB-kabler; Tilslutningskabler; Skærmbeskyttelse til mobiltelefoner og tabletcomputere; Beskyttende film tilpasset mobiltelefoner og bærbare elektroniske apparater; Vekselstrømsadaptere; Jævnstrømsadaptere; Bæretasker til bærbare computere; Beskyttelsesovertræk og etuier til mobiltelefoner, bærbare computere og bærbare medieafspillere; Hovedtelefoner til anvendelse sammen med computere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Etuis für Mobiltelefone; Akkus für Mobiltelefone; Ladegeräte für Akkumulatoren; Headsets für Mobiltelefone; Kabellose Mobiltelefon-Headsets; Computerkabel; Stromkabel; USB-Kabel; Anschlusskabel; Bildschirmschützer für Mobiltelefone und Tablet-Computer; Bildschirmschutzfolien für Mobiltelefone und tragbare elektronische Geräte; Wechselstromadapter; Gleichstromadapter; Tragebehältnisse für mobile Computer; Schutzabdeckungen und Gehäuse für Mobiltelefone, Laptops und tragbare Medienabspielgeräte; Kopfhörergarnituren zur Verwendung mit Computern.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Θήκες για κινητά τηλέφωνα· Μπαταρίες κυψελοειδών τηλεφώνων· Φορτιστές μπαταριών· Ακουστικά με μικρόφωνο για κινητά τηλέφωνα· Ασύρματα κεφαλόφωνα για κυψελοειδή τηλέφωνα· Καλώδια ηλεκτρονικών υπολογιστών· Καλώδια τροφοδοσίας· Καλώδια καθολικού σειριακού αγωγού (USB)· Καλώδια συνδέσεων· Προγράμματα προφύλαξης οθόνης για κυψελοειδή τηλέφωνα και ταμπλέτες· Προστατευτική μεμβράνη οθόνης για κυψελοειδή τηλέφωνα και φορητές ηλεκτρονικές διατάξεις· Προσαρμογείς εναλλασσόμενου ρεύματος· Προσαρμογείς συνεχούς ρεύματος· Θήκες μεταφοράς φορητών υπολογιστών· Προστατευτικά καλύμματα και θήκες για κυψελοειδή τηλέφωνα, φορητούς ηλεκτρονικούς υπολογιστές και φορητές συσκευές αναπαραγωγής μέσων· Ακουστικά κεφαλής για χρήση με ηλεκτρονικούς υπολογιστές.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Cell phone cases; Cell phone batteries; Battery chargers; Headsets for mobile telephones; Wireless cellular phone headsets; Computer cables; Power cables; USB cables; Connection cables; Screen protectors for cell phones and tablet computers; Protective screen film for cell phones and portable electronic devices; AC power adapters; DC power adapters; Carrying cases for mobile computers; Protective covers and cases for cell phones, laptops and portable media players; Headsets for use with computers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Estuches adaptados para teléfonos móviles; Baterías para teléfonos celulares; Cargadores de baterías; Auriculares para teléfonos móviles; Auriculares inalámbricos para teléfonos celulares; Cables para ordenadores; Cables de alimentación; Cables USB; Cables de conexión; Protector de pantalla para teléfono celular y tableta; Película protectora de pantalla para teléfonos móviles y dispositivos portátiles electrónicos; Adaptadores eléctricos de CA; Adaptadores eléctricos de CC; Maletines para ordenadores portátiles; Cubiertas de protección y estuches para teléfonos móviles, portátiles y equipos reproductores portátiles; Cascos con auriculares para su uso con ordenadores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mobiiltelefonivutlarid; Mobiiltelefoniakud; Akulaadurid, patareilaadurid; Mobiiltelefonide peakomplektid; Mobiiltelefonide juhtmeta peakomplektid; Arvutijuhtmed; Kaablid (Elektri -), elektrikaablid; USB-kaablid; Ühenduskaablid; Mobiiltelefonide ja tahvelarvutite ekraanikaitsmed; Mobiiltelefonide ja kaasaskantavate elektroonikaseadmete ekraanikaitsekiled; Vahelduvvooluadapterid; Alalisvooluadapterid; Mobiilarvutite kandeümbrised; Mobiiltelefonide, sülearvutite ja kaasaskantavate meediamängijate kaitsekatted ja korpused; Kuularid, kõrvaklapid kasutamiseks arvutiga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Matkapuhelinkotelot; Matkapuhelinten akut; Latauslaitteet sähköparistoille; Kuulokelaitteet matkapuhelimille; Matkapuhelinten langattomat kuulokkeet; Tietokonekaapeloinnit; Virtakaapelit; USB-kaapelit; Yhdyskaapelit; Matkapuhelinten ja taulutietokoneiden näytönsuojat; Suojaavat kalvot matkapuhelimen ja kannettavien elektroniikkalaitteiden näyttöjä varten; Vaihtovirtasovittimet; Tasavirtasovittimet; Kannettavien tietokoneiden kantokotelot; Matkapuhelinten, kannettavien tietokoneiden ja kannettavien mediasoittimien suojapäällykset ja -kotelot; Tietokoneiden kanssa käytettävät kuulokkeet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Étuis pour téléphones portables; Batteries de téléphones cellulaires; Chargeurs de batteries; Casques pour téléphones portables; Casques d'écoute sans fil pour téléphones cellulaires; Câbles pour ordinateurs; Câbles d'alimentation électrique; Câbles USB; Câbles de connexion; Protection d'écran pour téléphones cellulaires et tablettes électroniques; Films de protection pour écrans de téléphones portables et dispositifs électroniques portables; Adaptateurs d'alimentation en courant alternatif; Adaptateurs d'alimentation en courant continu; Housses de transport d'ordinateur portable; Housses de protection et étuis pour téléphones cellulaires, ordinateurs portables et lecteurs multimédias portables; Micro-casques pour ordinateurs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Futrole prilagođene za mobilne telefone; Baterije za mobilne telefone; Akumulatori (punjači električnih akumulatora); Slušalice za mobilne telefone; Bežične naglavne slušalice za mobilne telefone; Računalni kablovi; Strujni kablovi; USB kablovi; Priključni kablovi; Štitnici zaslona za mobilne telefone i tablet računala; Zaštitna folija za zaslone mobilnih telefona i prijenosnih elektroničkih uređaja; Adapteri izmjenične struje; Adapteri jednosmjerne struje; Torbe za nošenje prijenosnih računala; Zaštitne maske i navlake za mobitele, prijenosna računala i prijenosne uređaje za reproduciranje; Slušalice za uporabu s računalima.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Mobiltelefonokhoz kialakított tokok; Mobiltelefon-akkumulátorok; Akkumulátor- és elemtöltők; Headsetek mobiltelefonokhoz; Vezeték nélküli headsetek mobiltelefonokhoz; Számítógép kábelek; Tápkábelek; USB kábelek; Csatlakozókábelek; Mobiltelefonokhoz és táblagépekhez való képernyővédők; Védőfólia mobiltelefonokhoz és hordozható elektronikus eszközökhöz; Váltakozó áramú adapterek; Egyenáramú adapterek; Hordtokok mobil számítógépekhez; Védőburkolatok és tokok mobiltelefonokhoz, laptopokhoz és hordozható médialejátszókhoz; Számítógépekkel használható fejhallgatók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Custodie adattate per telefoni cellulari; Batterie per telefoni cellulari; Caricabatterie; Cuffie per telefoni cellulari; Cuffie per telefoni cellulari senza fili; Cavi per elaboratori elettronici; Cavi di alimentazione; Cavi USB; Cavi di connessione; Protezioni per lo schermo per telefoni cellulari e tablet PC; Pellicole protettive per schermi per telefoni cellulari e dispositivi elettronici portatili; Adattatori di corrente alternata; Adattatori di corrente continua; Custodie per il trasporto di computer portatili; Rivestimenti protettivi e custodie per telefoni cellulari, computer portatili e riproduttori portatili di supporti; Cuffie per computer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mobiliesiems telefonams pritaikyti dėklai; Korinio ryšio telefonų akumuliatoriai; Baterijų įkrovimo įtaisai; Mobiliųjų telefonų ausinės; Belaidžiai mobilieji telefonai; Kompiuterių kabeliai; Kabeliai, elektriniai; USB kabeliai; Jungiamieji kabeliai; Korinio ryšio telefonų ir planšetinių kompiuterių ekranų apsaugos; Apsauginė ekrano plėvelė mobiliesiems telefonams ir nešiojamiesiems elektroniniams prietaisams; Kintamosios srovės adapteriai; Nuolatinės srovės adapteriai; Mobiliųjų kompiuterių nešiojimo dėklai; Apsauginiai apdangalai ir korinio ryšio telefonų dėklai, nešiojami personaliniai kompiuteriai ir nešiojami laikmenų grotuvai; Ausinės, skirtos naudoti su kompiuteriais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mobilo tālruņu futrāļi; Šūnu telefonu baterijas; Elektrisko bateriju lādētāji; Mobilo tālruņu austiņas ar mikrofonu; Bezvadu austiņas mobilajiem telefoniem; Datoru kabeļi; Strāvas kabeļi; Universālo seriālo kopņu (USB) kabeļi; Savienotājkabeļi; Mobilo tālruņu un planšetdatoru ekrānsaudzētāji; Ekrāna aizsargplēve mobilajiem tālruņiem un mobilām elektroniskām ierīcēm; Maiņstrāvas adapteri; Līdzstrāvas adapteri; Somas portatīvo datoru pārnēsāšanai; Mobilo tālruņu, klēpjdatoru un portatīvo multivides atskaņotāju aizsargapvalki un vāciņi; Austiņas ar mikrofonu, paredzētas lietošanai ar datoru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kaxxetti adattati għat-telefowns ċellulari; Batteriji tat-telefons ċellulari; Karikaturi għal batteriji elettriċi; Kuffji tal-widna għat-telefons ċellulari; Settijiet tar-ras mingħajr fili tat-telefowns ċellulari; Kejbils tal-kompjuter; Linji tad-dawl; Kejbil tal-USB; Linji tal-konnessjoni; Protettur tal-iskrin għal telefowns ċellulari u tablets; Film protettiv għall-iskrin għal telefowns ċellulari u tagħmir elettroniku li jista' jinġarr; Adapters tal-kurrent AC; Adapters tal-kurrent DC; Kaxxetti għal ġarr ta' kompjuters mobbli; Għotjien protettivi u kaxxetti għat-telefowns ċellulari, leptops u plejers tal-medja li jistgħu jinġarru; Kufji ta' mar-ras għall-użu ma' kompjuters.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Hoesjes voor mobiele telefoons; Batterijen voor mobiele telefoons; Batterij-opladers; Koptelefoons voor mobiele telefoons; Draadloze koptelefoons voor mobiele telefoons; Computerkabels; Elektriciteitskabels; USB kabels; Aansluitkabels; Schermbeschermers voor mobiele telefoons en tabletcomputers; Beschermende folie voor beeldschermen van mobiele telefoons en draagbare elektronica; Wisselstroomadapters; Gelijkstroomadapters; Aangepaste draagkoffers voor mobiele computers; Beschermende hoezen en etuis voor mobiele telefoons, laptops en draagbare mediaspelers; Koptelefoons voor gebruik met computers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Futerały dopasowane do telefonów komórkowych; Baterie do telefonów komórkowych; Ładowarki do baterii; Zestawy słuchawkowe do telefonów komórkowych; Bezprzewodowe zestawy słuchawkowe do telefonów komórkowych; Okablowanie do komputerów; Kable elektroenergetyczne; Kable USB; Kable połączeniowe; Wygaszacze ekranu do telefonów komórkowych i tabletów; Folia ochronna na ekran do telefonów komórkowych i przenośnych urządzeń elektronicznych; Łączniki do prądu zmiennego; Łączniki do prądu stałego; Futerały na komputery przenośne; Oprawy i futerały ochronne do telefonów komórkowych, komputerów podręcznych oraz przenośnych odtwarzaczy multimedialnych; Zestawy słuchawkowe do użytku z komputerami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bolsas adaptadas para telemóveis; Baterias de telefones celulares; Carregadores de baterias; Auriculares para telemóveis; Auriculares para telemóveis sem fios; Cabos de computador; Cabos de alimentação; Cabos USB; Cabos de ligação; Protetores de ecrã para telemóveis e computadores "tablet"; Películas de proteção para ecrãs de telemóveis e dispositivos eletrónicos portáteis; Adaptadores elétricos de corrente alterna; Adaptadores elétricos de corrente contínua; Estojos de transporte para computadores móveis; Capas de protecção e estojos para telemóveis, computadores portáteis e leitores multimédia portáteis; Auscultadores para usar em computadores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Etuiuri pentru telefoane mobile; Baterii pentru telefoane mobile; Alimentatoare pentru acumulatoare; Seturi de căşti pentru telefoanele mobile; Căşti fără fir pentru telefoane celulare; Cabluri pentru calculatoare; Cabluri de curent; Cabluri USB; Cabluri de conectare; Protecţie de ecran pentru telefon celular şi tabletă; Folie de protecţie pentru ecran pentru telefoane celulare şi dispozitive electronice portabile; Adaptoare pentru curent alternativ; Adaptoare pentru curent continuu; Genţi de transport pentru calculatoare portabile; Huse şi carcase de protecţie pentru telefoanele celulare, laptopuri şi aparate de redare media portabile; Căşti cu microfon pentru utilizare cu calculatoare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Puzdrá na mobilné telefóny; Batérie do mobilných telefónov; Nabíjačky batérií; Slúchadlá pre mobilné telefóny; Bezdrôtové náhlavné súpravy pre mobilné telefóny; Počítačové káble; Silové káble; USB káble; Spájacie káble; Chrániče obrazovky pre mobilné telefóny a tabletové počítače; Ochranné fólie na obrazovky mobilných telefónov a prenosných elektronických prístrojov; Adaptéry striedavého prúdu; Adaptéry jednosmerného prúdu; Prenosné puzdrá pre mobilné počítače; Ochranné puzdra pre mobilné telefóny, prenosné počítače a prenosné prehrávače médií; Slúchadlá s mikrofónom na použitie v počítačoch.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Etuiji za mobilne telefone; Baterije za celične mobilne telefone; Polnilci za baterije; Slušalke z mikrofonom za mobilne telefone; Brezžične slušalke za mobilne telefone; Računalniški kabli; Napajalni kabli; USB kabli; Priključni kabli; Ščitniki zaslonov za mobilne telefone in tablične računalnike; Zaščitna folija za zaslone mobilnih telefonov in prenosnih elektronskih naprav; Adapterji za izmenični tok; Adapterji za enosmerni tok; Torbe za prenašanje mobilnih računalnikov; Zaščitne prevleke in etuiji za mobilne telefone, prenosne računalnike in prenosne predvajalnike medijev; Slušalke, ki se uporabljajo z računalniki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Fodral anpassade för mobiltelefoner; Batterier för mobiltelefoner; Batteriladdare; Headset till mobiltelefoner; Trådlösa hörlurar till mobiltelefoner; Kablar till datorer; Elkablar; USB-kablar; Anslutningskablar; Skärmskydd för mobiltelefoner och pekdatorer; Skyddande skärmfilm för mobiltelefoner och bärbara elektroniska anordninga; Växelströmsadaptrar; Likströmsadaptrar; Bärfodral för bärbara datorer; Skyddskåpor och fodral till mobiltelefoner, bärbara datorer och bärbara mediespelare; Hörtelefoner för användning med datorer.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/081</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-30</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/150</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082001</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>90319</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

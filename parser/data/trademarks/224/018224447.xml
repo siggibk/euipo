@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-28T09:22:41</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224447</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224447</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-28</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="12" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>LANDI</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162208715</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224447/000162208715.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.11.02</CategoryCode>
+          <CategoryCode>26.11.12</CategoryCode>
+          <CategoryCode>28.03</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Оборудване за обработка на информация; Компютърни програми, записани; Четящи устройства за баркод; Програми (Компютърни -) [софтуер, които може да бъде прехвърлян върху друг носител]; Компютърни софтуерни приложения, за сваляне; Апарати (Касови -); Смартфони; Чипове [интегрирани схеми]; Касови апарати за продажба; Четящи устройства за смарт карти; Компютърни терминали за банкови цели; Автомати за теглене на пари [банкомати]; Нито една от посочените по-горе стоки за употреба във връзка с моторни превозни средства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zařízení ke zpracování dat; Počítačové programy (Nahrané -); Čtečky čárových kódů; Počítačové programy [stahovatelné]; Stahovatelné počítačové aplikace; Registrační pokladny; Chytré telefony (smartphony); Čipy [integrované obvody]; Prodejní zařízení; Čtečky čipových karet; Počítačové terminály pro účely bankovnictví; Bankomaty [atm]; Žádné z výše uvedeného zboží není určeno pro použití s motorovými vozidly.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Databehandlingsudstyr; Optagne computerprogrammer; Stregkodelæsere; Computerprogrammer [downloadable software]; Softwareapplikationer til computere, downloadable; Kasseapparater; Smartphones; Chips [integrerede kredsløb]; Salgsterminaler; Smartkortlæsere; Computerterminaler til brug inden for bankvirksomhed; Pengeautomater; Førnævnte varer ikke til brug i forbindelse med motorkøretøjer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Datenverarbeitungsanlagen; Gespeicherte Computerprogramme; Strichcodeleser; Computerprogramme [herunterladbar]; Herunterladbare Software-Anwendungen für Computer; Registrierkassen; Smartphones; Chips [integrierte Schaltkreise]; Kassen; Smartcard-Leser; Computerbildschirme für Bankgeschäftszwecke; Geldautomaten; Keine der vorstehend genannten Waren zur Verwendung im Zusammenhang mit Kraftfahrzeugen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εξοπλισμός επεξεργασίας δεδομένων· Εγγεγραμμένα προγράμματα ηλεκτρονικών υπολογιστών· Γραμμικού κώδικα αναγνώστες· Η/Υ (προγράμματα -) [τηλεμεταφερόμενο λογισμικό]· Εφαρμογές λογισμικού ηλεκτρονικών υπολογιστών, μεταφορτώσιμες· Μηχανές ταμειακές· Έξυπνα τηλέφωνα· Τσιπς ολοκληρωμένων κυκλωμάτων· Τερματικά σημεία πώλησης· Συσκευές ανάγνωσης έξυπνων καρτών· Τερματικά ηλεκτρονικών υπολογιστών για τραπεζικές χρήσεις· Αυτόματες ταμειολογιστικές μηχανές [ΑΤΜ]· Κανένα από τα προαναφερθέντα είδη για χρήση σε συνδυασμό με μηχανοκίνητα οχήματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Data processing equipment; Recorded computer programs; bar code readers; computer programs (downloadable software); Computer software applications, downloadable; cash registers; smart phones; chips (integrated circuits); Point-of-sale terminals; smart card readers; Computer terminals for banking purposes; Automated teller machines; none of the foregoing for use in connection with motor vehicles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Equipos de procesamiento de datos; Programas informáticos grabados; Lectores de códigos de barras; Programas informáticos [software descargable]; Aplicaciones informáticas descargables; Cajas registradoras; Teléfonos inteligentes; Chips de circuitos integrados; Aparatos de punto de venta; Lectores de tarjetas inteligentes; Terminales informáticos con una finalidad bancaria; Cajeros automáticos; Ninguno de los productos mencionados para su uso en relación con vehículos de motor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Andmetöötlusseadmed; Salvestatud arvutiprogrammid; Vöötkoodilugerid, vöötkoodiriiderid; Arvutiprogrammid [allalaaditav tarkvara]; Allalaaditavad arvutitarkvararakendused; Kassaaparaadid; Nutitelefonid; Kiibid, pooljuhtkristallid [integraallülitused]; Kassaterminalid; Kiipkaardilugejad; Panganduse arvutiterminalid; Sularahaautomaadid; Ükski eelnimetatud kaupadest ei ole kasutamiseks mootorsõidukitega.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tietojenkäsittelylaitteistot; Tietokoneohjelmat, tallennetut; Viivakoodinlukijat; Ohjelmistot (tietokone -) [järjestelmästä toiseen poimittavat]; Ladattavat tietokoneohjelmistosovellukset; Kassakoneet; Älypuhelimet; Integroitujen piirien sirut; Myymäläpäätteet; Älykortinlukijat; Tietokonepäätteet pankkitoimintaa varten; Pankkiautomaatit; Mitään edellä mainituista tavaroista ei ole tarkoitettu käytettäväksi moottoriajoneuvojen kanssa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Équipements de traitement de données; Programmes d'ordinateurs enregistrés; Lecteurs de codes-barres; Programmes d'ordinateurs [logiciels téléchargeables]; Applications logicielles informatiques téléchargeables; Caisses enregistreuses; Ordiphones [smartphones]; Puces [circuits intégrés]; Terminaux de point de vente; Lecteurs de cartes à puce; Terminaux d'ordinateurs à usage bancaire; Guichets automatiques [DAB]; Aucun des produits précités n'étant à utiliser en rapport avec des véhicules à moteur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Oprema za obradu podataka; Snimljeni računalni programi; Čitači bar kodova; Programi (računalni -) [koji se mogu preuzeti]; Aplikacije za računalne programe koje se mogu preuzeti s Interneta; Registarske blagajne; Pametni telefoni; Čipovi s integriranim sklopovima; Aparati za prodajne punktove; Čitači pametnih kartica; Računalni terminali za bankovne namjene; Bankomati; Nijedan od prethodno navedenih proizvoda nije za uporabu povezanu s motornim vozilima.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Adatfeldolgozó berendezések; Számítógépes programok, rögzített; Vonalkód leolvasók; Számítógépes programok [letölthető szoftverek]; Számítógépes szoftveralkalmazások, letölthető; Pénztárgépek; Okostelefonok; Integrált áramköri chipek; Berendezések bankkártyás fizetéshez, pénzfelvételhez a vásárlás helyén; Chipkártya leolvasók; Számítógépes terminálok banki célokra; Bankjegykiadó automaták [ATM]; A fentebb említett termékek egyike sem gépjárművekkel kapcsolatban használatos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Dispositivi per l'elaborazione dati; Programmi informatici, registrati; Lettori di codici a barre; Programmi per computer [scaricabili]; Applicazioni per computer software, scaricabili; Registratori di cassa; Smartphone; Piastrine di silicio [circuiti integrati]; Terminali POS; Lettori di smart card; Terminali informatici per uso bancario; Sportelli automatici; Nessuno dei suddetti prodotti per l'uso in connessione con veicoli a motore.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Duomenų apdorojimo įranga; Kompiuterių programos (Įrašytos -); Brūkšninio kodo (brūkšniaženklio) skaitymo įrenginiai; Kompiuterių programos [parsisiunčiamoji programinė įranga]; Parsisiunčiamoji kompiuterių programinė įranga; Kasos aparatai; Išmanieji telefonai; Lustai [integrinės grandinės]; Elektroninių pardavimo sandorių terminalai; Lustinių kortelių skaitymo įrenginiai; Kompiuterių terminalai bankininkystės reikmėms; Pinigų išdavimo automatai [bankomatai]; Nė viena iš minėtų prekių, skirtų naudoti su variklinėmis transporto priemonėmis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Datu apstrādes aprīkojums; Ierakstītas datorprogrammas; Svītrkodu lasītāji; Lejupielādējamas datorprogrammas; Datoru lietojumprogrammatūras, lejupielādējamas; Kases aparāti; Viedtālruņi; Čipi; Tirdzniecības punktu termināļi; Viedkaršu nolasītāji; Datoru termināļi bankas operācijām; Bankomāti; Neviena no iepriekš minētām precēm nav paredzēta lietošanai saistībā ar motorizētiem transportlīdzekļiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħmir tal-ipproċessar tad-data; Programmi tal-kompjuter irrekordjati; Apparat għall-qari tal-kodiċi tal-linji; Programmi tal-kompjuter [softwer li jista' jitniżżel]; Applikazzjonijiet ta' softwer tal-kompjuter, li jitniżżlu; Cash registers; Smartfowns; Ċirkwiti integrati; Terminali tal-post tal-bejgħ; Magni għall-qari ta' skedi b'ċirkwiti integrati; Terminali tal-kompjuter għal skopijiet bankarji; Magni għat-transazzjonijiet awtomatiċi tal-flus [ATM]; L-ebda mill-oġġetti msemmija qabel m'huma għall-użu fil-konnessjoni ma' vetturi bil-mutur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Gegevensverwerkende apparatuur; Geregistreerde computerprogramma's; Barcode-lezers; Computerprogramma's [te downloaden software]; Downloadbare computersoftware-applicaties; Kassa's; Smartphones; IC-chips; Verkooppuntterminals; Smartcardlezers; Computerterminals voor bankzaken; Geldautomaten; Geen van de voornoemde goederen voor gebruik in samenhang met motorvoertuigen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Sprzęt do przetwarzania danych; Programy komputerowe nagrane; Czytniki kodów kreskowych; Programy komputerowe [oprogramowanie do pobrania]; Aplikacje komputerowe do pobrania; Kasy rejestrujące; Smartfony; Chipy [układy scalone]; Terminale POS; Czytniki kart inteligentnych; Terminale komputerowe do celów bankowych; Bankomaty; Żaden z wyżej wymienionych towarów nie jest do użytku z pojazdami samochodowymi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Equipamento para o tratamento de informação; Programas de computador gravados; Leitores de códigos de barras; Programas de computador [software descarregável]; Aplicações de software informático descarregáveis; Caixas registadoras; Smartphones; Chips de circuitos integrados; Aparelhos para pontos de venda; Leitores de cartões inteligentes; Terminais de computador para uso bancário; Caixas automáticas de multibanco; Nenhum dos produtos atrás referidos para uso com veículos motorizados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Echipamente de procesare a datelor; Programe de calculator înregistrate; Cititoare de coduri de bare; Programe de calculatoare [software descărcabil]; Aplicaţii software de calculator, descărcabile; Maşini înregistratoare de încasat; Telefoane inteligente; Cipuri [circuite integrate]; Terminale pentru puncte de vânzare; Cititoare de carduri inteligente; Terminale computerizate pentru uz bancar; Bancomate; Niciunele din produsele susmenţionate nefiind destinate utilizării în legătură cu vehiculele cu motor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zariadenia na spracovanie dát; Nahraté počítačové programy; Čítačky čiarových kódov; Počítačové programy (sťahovateľné); Počítačové softvérové aplikácie (sťahovateľné); Registračné pokladnice; Smartfóny; Čipy (mikroprocesorové doštičky); Predajné terminálové zariadenia; Čítacie zariadenia smart kariet; Počítačové terminály na bankové účely; Bankomaty; Žiadne z vyššie uvedených tovarov pre použitie súvisiace s motorovými vozidlami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oprema za obdelavo podatkov; Računalniški programi, posneti; Čitalniki črtnih kod; Računalniški programi [naložljiva programska oprema]; Računalniška programska oprema, naložljiva preko računalniške mreže; Registrske blagajne; Pametni telefoni; Čipi z integriranim vezjem; POS transakcijski terminali; Čitalniki pametnih kartic; Računalniški terminali za bančništvo; Avtomatizirana uradna okenca [bankomat]; Nič od omenjenega blaga ni za uporabo v povezavi z motornimi vozili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Databehandlingsutrustning; Registrerade datormjukvaror; Streckkodsläsare; Datorprogram [nedladdningsbara mjukvaror]; Nedladdningsbara programvaruapplikationer; Kassaapparater; Smartphones; Chips med integrerade kretsar; Försäljningsapparater; Avläsare för smartkort; Datorterminaler för bankändamål; Automatiska uttagsmaskiner; Inga av dessa varor för användning i samband med motorfordon.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/073</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1014614</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>85806</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

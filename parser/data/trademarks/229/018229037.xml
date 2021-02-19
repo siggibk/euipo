@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:05</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229037</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229037</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>CAROOTU</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Поставки за саксии; Рафтове за складове; Етажерки за саксии [мебелировка]; Стълбчета, дъски за острене на котешки нокти; Резета, неметални; Възглавнички за домашни любимци; Обиколници за бебешки креватчета, различни от спално бельо; Крака за мебели; Дюшеци за къмпинг; Матраци за къмпинг от пенообразен материал; Кукички за пердета; Мебели; Училищна мебелировка.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Podstavce pod květináče; Police (k nábytku); Stojany na květiny [nábytek]; Škrabadla pro kočky; Závory, ne kovové; Podušky pro domácí zvířata; Mantinely do dětských postýlek, jiné než ložní prádlo; Nohy k nábytku; Kempinkové matrace; Molitanové kempinkové matrace; Háčky na záclony; Nábytek; Školní nábytek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Urtepottestativer; Møbelhylder; Blomsterborde og -stativer [møbler]; Kradsebræt til katte; Dørklinker, ikke af metal; Puder til kæledyr; Sengerande til barnesenge, undtagen sengelinned; Ben til møbler; Madrasser til campingbrug; Liggeunderlag af skum; Gardinkroge; Møbler; Skolemøbler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Ständer für Blumentöpfe; Fachböden für Möbel; Blumentische [Möbel]; Kratzbäume für Katzen; Riegel, nicht aus Metall; Kissen für Haustiere; Stoßleisten für Kinderbettchen, ausgenommen Bettzeug; Möbelbeine; Campingmatratzen; Schaumstoffmatratzen für Campingzwecke; Gardinenhaken; Möbel; Schulmöbel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ανθοστήλες· Ράφια για αποθήκευση· Ζαρντινιέρες [επίπλωση]· Πάσσαλοι για το ξύσιμο των γατών· Σύρτες μη μεταλλικοί· Μαξιλάρια για ζώα κατοικίδια· Προστατευτικά πρόσκρουσης για βρεφικά κρεβατάκια, εκτός από λευκά είδη κρεβατοκάμαρας· Πόδια επίπλων· Στρώματα κατασκήνωσης· Αφρώδη στρώματα κατασκήνωσης· Ράβδοι, ρολά και άγκιστρα για κουρτίνες· Έπιπλα· Σχολική επίπλωση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Flower-pot pedestals; Pedestals (Flower-pot -); Shelf units [furniture]; Flower stands [furniture]; Flower-stands [furniture]; Scratching posts for cats; Catches, not of metal; Pet cushions; Bumper guards for cribs, other than bed linen; Legs for furniture; Camping mattresses; Foam camping mattresses; Curtain hooks; Furniture; School furniture; Furniture (School -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Pedestales para macetas de flores; Anaqueles [baldas] de muebles; Jardineras [muebles]; Rascadores para gatos; Pestillos no metálicos; Cojines para animales de compañía; Protectores de barrotes para cunas de bebé que no sean ropa de cama; Patas de muebles; Colchones de camping; Colchones de espuma para acampar; Ganchos de cortinas; Muebles; Mobiliario escolar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Lillepotialused, lillepostamendid; Mööbliriiulid; Lillelauad, -kastid [mööbel]; Kasside kraapimispuud; Lingid, v.a metallist; Lemmikloomapadjad; Beebivoodite pehmendused, v.a voodipesu; Kõrged mööblijalad; Matkamadratsid; Vahtmadratsid [matkatarbed]; Kardinahaagid, kardinakonksud; Mööbel; Koolimööbel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kukkapylväät; Kalustehyllyt; Puutarhakalusteet; Raavintapylväät kissoille; Salvat, ei-metalliset; Tyynyt lemmikkieläimille; Kehtojen reunapehmusteet, muut kuin vuodevaatteet; Huonekalujen jalat; Retkeilypatjat; Vaahtomuoviset retkipatjat; Verhokoukut; Huonekalut; Koulukalusteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Piédestaux pour pots à fleurs; Rayons de meubles; Jardinières [meubles]; Arbres à griffes pour chats; Loquets non métalliques; Coussins pour animaux de compagnie; Protège-barreaux pour lits à barreaux pour bébés, autres que linge de lit; Pieds pour meubles; Matelas de camping; Matelas en mousse pour le camping; Crochets de rideaux; Meubles; Mobilier scolaire.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Stalci za posude s cvijećem; Stalci; Vrtni namještaj; Drvo grebanje za mačke; Zasuni za vrata, nemetalni; Jastuci za kućne ljubimce; Štitnici za dječje krevetiće, osim posteljine; Noge za namještaj; Madraci za kampiranje; Madraci za kampiranje punjeni pjenom; Kukice za postavljanje zavjesa; Namještaj; Školski namještaj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Virágcseréptartó talapzatok; Állványok, polcok; Kerti bútorok; Körömkoptató állvány macskáknak; Ajtóreteszek, nem fémből; Párnák háziállatoknak; Rácsvédők kiságyakhoz, nem ágynemű; Bútorlábak; Kemping matracok; Habszivacs kempingmatracok; Függönyakasztók; Bútorok; Iskolabútorok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Piedestalli per vasi da fiori; Ripiani di mobili; Giardiniere [mobili]; Legni per unghie per gatti; Saliscendi non metallici; Cuscini per animali domestici; Rostri paracolpi per culle, diversi da biancheria da letto; Gambe per mobili; Materassini da campeggio; Materassini in gommapiuma da campeggio; Ganci per tende; Mobilia; Mobilia scolastica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Gėlių vazonų padėklai; Baldų lentynos; Gėlių lentynėlės [baldai]; Kačių draskyklos (stulpeliai); Ne metalinės velkės; Kambarinių gyvūnėlių pagalvėlės; Vaikiškų lovelių apsauginiai apmušalai (ne lovos baltiniai); Baldų kojos; Turistiniai čiužiniai; Poroloniniai turistiniai čiužiniai; Užuolaidų kabliukai; Baldai; Mokykliniai baldai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Pjedestāli puķu podiem; Mēbeļu plaukti; Puķu statīvi (mēbeles); Nagu asināšanas stabi kaķiem; Nemetāliski aizbīdņi durvīm; Spilveni mājas (istabas) dzīvniekiem; Bērnu gultiņu aizsargapmales, izņemot aizsargapmales, kas ir gultas veļa; Mēbeļu kājas; Matrači pārgājieniem; Tūristu matrači no putu materiāla; Aizkaru āķi; Mēbeles; Mēbeles skolām.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Sostenn tal-qsari; Xkafef; Stends tal-fjuri (għamara); Oġġetti apposta għall-qtates biex ikunu jistgħu jigirfu; Lukketti, mhux tal-metall; Kuxxini għall-annimali domestiċi; Protezzjonijiet tal-bamper għal kots, minbarra l-frix tas-sodda; Saqajn tal-għamara; Saqqijiet għall-kampeġġ; Saqqijiet tal-fowm għall-kampeġġ; Ganċijiet tal-purtieri; Għamara; Għamara għall-iskola.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Standers voor bloempotten; Planken voor meubelen; Bloembakken [meubelen]; Krabpalen voor katten; Deurklinken, niet van metaal; Kussens voor huisdieren; Stootkussentjes voor kinderbedden, anders dan bedlinnen; Poten voor meubelen; Kampeermatrassen; Kampeermatrassen van schuim; Gordijnhaken; Meubelen; Schoolmeubilair.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Postumenty pod doniczki na kwiaty; Stojaki, półki; Meble ogrodowe; Słupki do drapania dla kotów; Zasuwy drzwiowe niemetalowe; Poduszki dla zwierząt domowych; Ochraniacze na szczebelki do łóżeczek dla dzieci, inne niż pościel; Nogi do mebli; Materace kempingowe; Piankowe materace kempingowe; Haki do zasłon; Meble; Meble szkolne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Pedestais para vasos; Prateleiras para mobiliário; Suportes para flores [mobiliário]; Arranhadores para gatos; Fechos, não metálicos; Almofadas para animais de estimação; Proteções [amparos] para berços, não sendo roupa de cama; Pernas para mobiliário; Colchões para campismo; Colchões em espuma para campismo; Ganchos para cortinas; Mobiliário; Mobiliário escolar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Socluri pentru ghivece de flori; Polițe; Mobilier de grădină; Stâlpi de zgâriat pentru pisici; Zăvoare de ușă, nemetalice; Perne pentru animale de companie; Protecții antilovire pentru pătuțuri de copii, altele decât lenjeriile de pat; Picioare pentru mobilă; Saltele pentru camping; Saltele din spumă pentru camping; Cârlige pentru perdele; Piese de mobilier; Mobilier școlar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Podstavce na kvety; Nábytkové police; Stojany na kvety (nábytok); Preliezačky pre mačky; Závory (nekovové); Podušky pre domáce zvieratá; Textilné chrániče do detských postieľok; Nohy na nábytok; Kempingové matrace; Penové kempingové matrace; Záclonové háčiky; Nábytok; Školský nábytok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Podstavki za cvetlične lončke; Stojala; Vrtno pohištvo; Leseni praskalniki za mačke (stebrički); Zapahi, nekovinski; Blazine za hišne ljubljence; Ščitniki za otroške posteljice, razen posteljnine; Pohištvene noge; Blazine za kampiranje; Penaste blazine za kampiranje; Kaveljčki za zavese; Pohištvo; Šolsko pohištvo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Piedestaler för blomkrukor; Möbelhyllor; Blomställ [möbler]; Klösbrädor för katter; Klinkor, inte av metall; Husdjurskuddar; Stötskydd för spjälsängar, med undantag av sängkläder; Möbelben; Campingmadrasser; Skummadrasser för campingändamål; Gardinkrokar; Möbler; Skolmöbler.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082012</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>84209</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

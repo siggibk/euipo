@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-15T01:40:02</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229623</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229623</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Robit</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162504896</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229623/000162504896.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.05</CategoryCode>
+          <CategoryCode>26.04.24</CategoryCode>
+          <CategoryCode>26.04.98</CategoryCode>
+          <CategoryCode>27.05.05</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>7</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Мелачки за месо [машини]; Машини за приготвяне на храна, електромеханични; Електрически сокоизстисквачки; Металорежещи машини; Режещи остриета на инструменти [части на машини]; Патронници за свредели [части на машини]; Пробивни свредла [части на машини]; Електрически ножове; Отвертки с механично задвижване; Електрически, ръчни дрелки; Моторни гаечни ключове; Машини и апарати за почистване [електрически]; Машини за отстраняване на битови отпадъци; Снегорини; Машини и апарати за пране на килими [електрически]; Централни вакуумни почистващи инсталации; Очистващи устройства, използващи пара; Прахоуловители; Прахоуловители; Прахосмукачки; Почистващи роботи за домакински цели; Машини за раздробяване на отпадъци.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Stroje na mělnění masa; Elektromechanické stroje na přípravu potravin; Elektrické odšťavňovače; Řezací stroje; Břity, čepele [části strojů]; Sklíčidla pro vrtáky [součásti strojů]; Vrtací korunky [části strojů]; Elektrické nože; Elektrické šroubováky; Elektrické ruční vrtačky; Elektrické klíče; Elektrické stroje a zařízení na čištění; Drtiče odpadu (potravinového); Sněžné pluhy; Elektrické stroje a zařízení na šamponování koberců; Centrální vysavače; Parní čisticí stroje; Zařízení na odsávání prachu pro čisticí účely; Zařízení na odstraňování prachu pro čisticí účely; Vysavače; Robotické čističe pro použití v domácnosti; Drtičky odpadu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kødhakkere [maskiner]; Madtilberedningsmaskiner, elektromekaniske; Elektriske frugtpressere; Skæremaskiner; Knive [dele af maskiner]; Borepatroner [dele af maskiner]; Borehoveder [dele af maskiner]; Knive, elektriske; Elektriske skruetrækkere; Elektriske håndholdte bor; Elektriske skruenøgler; Maskiner og apparater til rengøring, elektriske; Affaldskværne; Sneplove; Maskiner og apparater til tæpperensning, elektriske; Centralstøvsugningsinstallationer; Dampdrevne rengøringsapparater; Støvudsugningsinstallationer til rengøringsformål; Støvfjerningsinstallationer til rengøringsformål; Støvsugere; Rengøringsrobotter til husholdningsformål; Maskiner til knusning af affald.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Fleischhackmaschinen; Elektromechanische Apparate für die Zubereitung von Nahrungsmitteln; Elektrische Entsafter; Zuschneidemaschinen; Klingen [Maschinenteile]; Bohrfutter [Maschinenteile]; Bohrkronen [Maschinenteile]; Elektrische Messer; Elektrische Schraubenzieher; Elektrische Handbohrmaschinen; Kraftbetriebene Schraubenschlüssel; Elektrische Reinigungsmaschinen und -geräte; Müllzerkleinerer; Schneepflüge; Elektrische Shampooniermaschinen und -geräte für Teppiche und Teppichböden; Zentralstaubsaugeranlagen; Dampfreiniger; Staubsauganlagen für Reinigungszwecke; Entstaubungsanlagen für Reinigungszwecke; Staubsauger; Reinigungsroboter für Haushaltszwecke; Abfallzerkleinerungsmaschinen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κρεατομηχανή· Τροφίμων (Συσκευές ηλεκτρομηχανικές για την παρασκευή -)· Ηλεκτρικοί αποχυμωτές φρούτων· Κοπής μηχανήματα· Λεπίδες [μέρη μηχανών]· Τρυπάνια (σφιγκτήρες -ών) [μέρη μηχανών]· Δακτύλιοι γεώτρησης[μέρη μηχανών]· Ηλεκτρικά μαχαίρια· Ηλεκτροκίνητα κατσαβίδια· Τρυπάνια χειρός ηλεκτρικά· Μηχανοκίνητα κλειδιά σύσφιξης· Μηχανές και συσκευές καθαρισμού, ηλεκτρικές· Σκουπιδοφάγοι· Εκχιονιστικά μηχανήματα· Μηχανές και συσκευές για πλύσιμο ταπήτων, ηλεκτρικές· Καθαρισμός (κεντρικές εγκαταστάσεις -ού) μέσω εκκένωσης· Καθαρισμός (συσκευές -ού) με ατμό· Απορρόφηση σκόνης (Εγκαταστάσεις για -) για καθαρισμό· Απορρόφηση σκόνης (Εγκαταστάσεις για -) για καθαρισμό· Μηχανές καθαρισμού με αναρρόφηση [ηλεκτρικές σκούπες]· Ρομποτικές συσκευές καθαρισμού για οικιακή χρήση· Μηχανές σύνθλιψης αποβλήτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">meat choppers [machines]; food preparation machines, electromechanical; juice extractors, electric; cutting machines; blades [parts of machines]; drill chucks [parts of machines]; drilling bits [parts of machines]; knives, electric; screwdrivers, electric; electric hand drills; Power-driven wrenches; machines and apparatus for cleaning, electric; waste disposal units; snow ploughs; machines and apparatus for carpet shampooing, electric; central vacuum cleaning installations; cleaning appliances utilizing steam; dust exhausting installations for cleaning purposes; dust removing installations for cleaning purposes; vacuum cleaners; Robot cleaners for household purposes; Waste crushing machines.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Picadoras de carne [máquinas]; Aparatos electromecánicos para preparar alimentos; Extractores de zumo eléctricos; Recortadoras; Cuchillas [partes de máquinas]; Portabrocas [partes de máquinas]; Coronas de perforación [partes de máquinas]; Cuchillos eléctricos; Destornilladores eléctricos; Taladradoras de mano eléctricas; Llaves de tuerca eléctricas; Máquinas y aparatos de limpieza eléctricos; Trituradoras de residuos; Quitanieves; Máquinas eléctricas para lavar alfombras y moquetas; Instalaciones centrales de limpieza al vacío; Aparatos de limpieza a vapor; Instalaciones de aspiración de polvo para limpiar; Instalaciones de desempolvado para limpiar; Aspiradoras; Limpiadores robóticos para uso doméstico; Máquinas trituradoras de residuos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Hakklihamasinad; Elektromehaanilised toiduvalmistusmasinad; Elektrilised mahlapressid; Lõikemasinad, lõikurid; Terad [masinaosad]; Puuripadrunid [masinaosad]; Puuri lõiketerad [masinaosad]; Elektrilised noad; Elektrikruvikeerajad; Elektrilised käsitrellid; Elektrilised mutrivõtmed; Elektrilised puhastusmasinad ja -aparaadid; Prahihävitusmasinad; Lumesahad; Elektrilised vaipade šampooniga pesemise masinad ja seadmed; Tsentraaltolmuimejaseadmestik; Auru jõul töötavad puhastusseadmed; Tolmu imemise seadmed puhastuseks; Tolmu eemaldamise seadmestik puhastuseks; Tolmuimejad; Koristusrobotid majapidamises kasutamiseks; Peenestid (Jäätme -), jäätmepeenestid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lihamyllyt; Ruoanvalmistuskoneet, sähkömekaaniset; Sähkökäyttöiset mehulingot; Leikkurit [koneina]; Terät [koneiden osina]; Poran istukat [koneiden osina]; Poran terät [koneiden osina]; Sähköveitset; Sähkökäyttöiset ruuvitaltat; Porat (Käsi -), sähkökäyttöiset; Sähkökäyttöiset vääntimet; Puhdistuskoneet ja -laitteet [sähkökäyttöiset]; Jätteenhävityslaitteet (koneet); Lumiaurat; Matonpuhdistuskoneet ja -laitteet [sähkökäyttöiset]; Keskuspölynimurit; Puhdistuslaitteet (Höyry -); Pölynimulaitteet puhdistustarkoituksiin; Pölynimulaitteet puhdistustarkoituksiin; Pölynimurit; Robottipuhdistimet kotitalouskäyttöön; Jätteenpuristuskoneet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Hache-viande [machines]; Appareils électromécaniques pour la préparation d'aliments; Extracteurs de jus électriques; Découpeuses; Fers [parties de machines]; Porte-forets [parties de machines]; Couronnes de forage [parties de machines]; Couteaux électriques; Tournevis électriques; Perceuses à main électriques; Clés de torsion électriques; Machines et appareils de nettoyage électriques; Broyeurs d'ordures; Chasse-neige; Shampouineuses électriques pour tapis et moquettes; Installations centrales de nettoyage par le vide; Appareils de nettoyage à vapeur; Installations pour l'aspiration de poussières pour le nettoyage; Installations de dépoussiérage pour le nettoyage; Aspirateurs de poussière; Robots de nettoyage à usage domestique; Machines pour le broyage de déchets.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Meso [strojevi za mljevenje mesa]; Elektromehanički strojevi za pripremu hrane; Električni sokovnici; Rezači [strojevi]; Oštrice [dijelovi strojeva]; Držači svrdala [dijelovi strojeva]; Svrdla [dijelovi alata]; Električni noževi; Električni odvijači; Električne ručne bušilice; Električni ključevi; Električni strojevi i aparati za čišćenje; Drobilice smeća [strojevi]; Strojevi za uklanjanje snijega; Pranje sagova (električni strojevi za pranje sagova); Centralna postrojenja za usisavanje; Strojevi za čišćenje na paru; Prašina (postrojenja za usisavanje prašine za potrebe čišćenja); Prašina (postrojenja za usisavanje prašine za potrebe čišćenja); Usisavači prašine; Robotizirani čistači za potrebe kućanstva; Drobilice smeća [strojevi].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Húsdarálók [gépek]; Elektromechanikus élelmiszergyártó gépek; Elektromos juicer-ek; Vágógépek, vágószerszámok; Pengék [gépalkatrészek]; Fúrótokmányok [gépek részei]; Fúrókoronák [gépalkatrészek]; Elektromos kések; Elektromos csavarhúzók; Elektromos kézifúrók; Elektromos csavarkulcsok; Tisztítógépek és berendezések, elektromos; Hulladékaprító gépek; Hóekék; Szőnyegsamponozó gépek és készülékek, elektromos; Központi porszívó berendezések; Gőzzel tisztító készülékek; Porelszívó készülékek tisztítási célra; Porelszívó készülékek tisztítási célra; Porszívók; Robotvezérlésű tisztítók háztartási célokra; Hulladékaprító gépek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tritacarne [macchine]; Apparecchi elettromeccanici per la preparazione di alimenti; Estrattore di succhi, elettrici; Trancie; Lame [parti di macchine]; Porta-punte [parti di macchine]; Corone di trivellazione [parti di macchine]; Coltelli elettrici; Avvitatori, elettrici; Trapanatrici a mano elettriche; Avvitatrici elettriche; Macchine e apparecchi pulitrici elettrici; Trituratori di spazzature; Spazzaneve; Macchine elettriche per il lavaggio di tappeti e moquettes; Impianti centrali di pulizia; Apparecchi di pulizia a vapore; Impianti per l'aspirazione di polveri per la pulizia; Impianti di depolverizzazione per la pulizia; Aspirapolvere; Apparecchi di pulizia robotici per uso domestico; Trituratori di spazzature.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mėsos kapoklės (mašinos); Elektromechaninės maisto ruošimo mašinos; Elektrinės vaisių sulčiaspaudės; Pjovimo mašinos; Peiliai [mašinų detalės]; Grąžtų griebtuvai [mašinų dalys]; Grąžtai [mašinų dalys]; Elektriniai peiliai; Elektriniai atsuktuvai; Elektriniai rankiniai gręžtuvai; Elektriniai veržliarakčiai; Elektrinės valymo mašinos ir prietaisai; Atliekų smulkintuvai; Sniego valytuvai; Kilimų plovimo mašinos ir prietaisai [elektriniai]; Išcentriniai vakuuminiai valymo įrenginiai; Gariniai valymo prietaisai; Dulkių siurbimo įrenginiai (valymo reikmėms); Dulkių šalinimo įrenginiai (valymo reikmėms); Dulkių siurbliai; Robotizuoti valymo įrenginiai namų apyvokos reikmėms; Atliekų traiškymo mašinos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ierīces gaļas izciršanai un kapāšanai; Elektromehāniskās iekārtas pārtikas sagatavošanai; Elektriskas sulu spiedes; Griešanas mašīnas; Asmeņi (mašīnu daļas); Urbjmašīnu iespiedpatronas (mašīnu daļas); Urbju vainagi (mašīnu daļas); Elektriskie naži; Elektriskie skrūvgrieži; Elektriskie rokas urbji; Skrūvgrieži ar piedziņu; Elektriskās mašīnas un iekārtas tīrīšanai; Atkritumu savākšanas mašīnas; Sniega arkli; Elektriskas mašīnas un ierīces paklāju mazgāšanai; Vakuumtīrīšanas centrālās iekārtas; Ierīces tīrīšanai ar tvaiku; Putekļu nosūcējiekārtas tīrīšanas nolūkiem; Putekļu nosūcējiekārtas tīrīšanas nolūkiem; Putekļsūcēji; Robotizēti tīrītāji mājsaimniecības vajadzībām; Atkritumu sasmalcināšanas mašīnas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Magni għat-tqattigħ ta' laħam; Magni għat-tħejjija tal-ikel, elettromekkaniċi; Apparat elettriku għat-tagħsir tal-frott; Għodda tal-qtugħ [magni]; Xfafar [partijiet ta' magni]; Ċokkijiet ta' trapan [partijiet ta' magni]; Golji [partijiet ta' magni]; Skieken tal-elettriku; Tornaviti li jaħdmu bl-elettriku; Trapani elettriċi tal-idejn; Spàners li jaħdmu bl-elettriku; Tindif (Magni u tagħmir għat- -), tal-elettriku; Magni tar-rimi tal-iskart; Mħaret tas-silġ; Ħasil tat-twapet bix-xampu (Magni u tagħmir għall- -), tal-elettriku; Installazzjonijiet ċentrali ta' tindif bil-vakwu; Apparat ta' tindif bil-fwar; Installazzjonijiet għal skopijiet ta' tindif li jassorbu t-trab; Installazzjonijiet għal skopijiet ta' tindif li jassorbu t-trab; Vacuum cleaners; Apparat tat-tindif f'forma ta' robot għal skopijiet tad-dar; Magni għat-tgħaffiġ tal-iskart.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Vleeshakmachines; Elektromechanische apparaten voor het bereiden van voedingsmiddelen; Vruchtenpersen, elektrisch; Afsnijmachines; Snij-ijzers [machine-onderdelen]; Boorhouders [machine-onderdelen]; Boorkronen [machine-onderdelen]; Elektrische messen; Schroevendraaiers, elektrisch; Elektrische handboormachines; Elektrische zetijzers; Reinigingsmachines en -apparaten, elektrisch; Afvalverbrijzelmachines; Sneeuwruimers [machines]; Elektrische shamponeermachines voor tapijt; Centrale vacuümreinigingsinstallaties; Stoomreinigingsapparaten; Stofafzuiginstallaties voor reinigingsdoeleinden; Stofverwijderingsinstallaties voor reinigingsdoeleinden; Stofzuigers; Reinigingsrobots voor huishoudelijk gebruik; Afvalverbrijzelmachines.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maszynki do siekania mięsa; Urządzenia elektromechaniczne do przygotowywania żywności; Elektryczne sokowirówki; Krajarki [maszyny]; Ostrza [części maszyn]; Uchwyty wiertarskie [części maszyn]; Świdry wiertnicze [części maszyn]; Noże elektryczne; Śrubokręty elektryczne; Wiertarki ręczne elektryczne; Klucze o napędzie elektrycznym; Maszyny i urządzenia do czyszczenia [elektryczne]; Maszyny do usuwania odpadków; Pługi śnieżne; Maszyny i urządzenia do prania dywanów, elektryczne; Instalacje do centralnego odkurzania; Urządzenia do czyszczenia parowe; Instalacje odsysające pył do czyszczenia; Instalacje odsysające pył do czyszczenia; Odkurzacze; Roboty do czyszczenia do celów domowych; Rozdrabniarki odpadów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Picadoras de carne; Aparelhos eletromecânicos para a preparação de alimentos; Extratores de sumo, elétricos; Máquinas cortadoras; Lâminas [partes de máquinas]; Porta-brocas [partes de máquinas]; Coroas de perfuração [partes de máquinas]; Facas elétricas; Chaves de fenda, elétricas; Berbequins elétricos; Chaves inglesas elétricas; Máquinas e aparelhos de limpeza, elétricos; Trituradoras de resíduos; Limpa-neves; Máquinas elétricas para lavagem de tapetes e carpetes; Instalações centrais de limpeza a vácuo; Aparelhos de limpeza a vapor; Instalações de aspiração de poeiras para limpeza; Instalações de remoção de poeiras para limpeza; Aspiradores; Robôs de limpeza para uso doméstico; Máquinas de eliminação de lixo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Carne (Mașini de tocat -); Alimente (aparate electromecanice pentru prepararea - lor); Storcătoare electrice de suc; Tăiat (Mașini de -); Lame [organe de mașini]; Mandrine pentru mașini de găurit [organe de mașini]; Sape de foraj [organe de mașini]; Cuțite electrice; Șurubelnițe electrice; Mașini de găurit manuale cu acționare electrică; Chei de piulițe acționate electric; Mașini și aparate electrice de curățat; Concasoare pentru deșeuri; Pluguri de zăpadă; Mașini și aparate electrice pentru șamponat covoare; Curățat cu vid (Instalații centrale de -); Aparate de curățat cu aburi; Praf (aspiratoare de - pentru curățare); Praf (aspiratoare de - pentru curățare); Aspiratoare; Roboți de curățenie de uz casnic; Concasoare de gunoi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Mäsové mlynčeky (stroje); Elektromechanické stroje na prípravu pokrmov; Elektrické odšťavovače; Rezacie stroje; Čepele (časti strojov); Vrtákové skľučovadlá (časti strojov); Vŕtacie korunky (časti strojov); Elektrické nože; Elektrické skrutkovače; Elektrické ručné vŕtačky; Elektricky poháňané kľúče na matice; Stroje a prístroje na čistenie (elektrické); Drviče odpadu (stroje); Snehové pluhy; Stroje a prístroje na tepovanie kobercov (elektrické); Centrálne vysávače; Parné čistiace stroje; Zariadenia na odsávanie prachu (upratovacie stroje); Odprašovacie zariadenia (čistiace stroje); Vysávače; Robotické čističe na domáce použitie; Drviče odpadu (stroje).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Stroji za sekljanje mesa; Elektromehanični stroji za pripravljanje hrane; Sokovniki [električni]; Rezalni stroji; Rezila [deli strojev]; Vrtalne vpenjalne glave [deli strojev]; Vrtalne krone [deli strojev]; Električni noži; Električni izvijači; Električni ročni vrtalniki; Električni ključi; Čistilni stroji in aparati (električni); Stroji za odstranjevanje odpadkov; Snežni plugi; Električni stroji in aparati za šamponiranje preprog; Centralne vakuumske čistilne instalacije; Čistilne naprave na paro; Naprave za sesanje prahu, za čistilne namene; Naprave za sesanje prahu, za čistilne namene; Vakuumski sesalci; Robotske čistilne naprave za gospodinjstvo; Stroji za drobljenje smeti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kötthackningsmaskiner; Elektromekaniska matberedningsmaskiner; Elektriska juicepressar; Skärmaskiner; Skärblad [maskindelar]; Borrchuckar [maskindelar]; Borrskär [maskindelar]; Elektriska knivar; Elektriska skruvmejslar; Elektriska handborrar; Eldrivna skiftnycklar; Maskiner och apparater för rengöring (elektriska); Avfallskvarnar; Snöplogar; Elektriska mattrengöringsmaskiner och -apparater; Centraldammsugare; Rengöringsanordningar som använder ånga; Dammutsugningsinstallationer för rengöringsändamål; Dammborttagningsinstallationer för rengöringsändamål; Dammsugare; Rengöringsrobotar för hushållsändamål; Maskiner för krossning av avfall.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>829821</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>85806</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003126130</OppositionIdentifier>
+<OppositionDate>2020-07-15</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>001454446</ApplicationNumber>
+<ApplicationDate>2000-01-10</ApplicationDate>
+<RegistrationNumber>001454446</RegistrationNumber>
+<RegistrationDate>2001-01-31</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>ROBIT</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>77035</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10880</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

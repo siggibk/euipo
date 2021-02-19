@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228806</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228806</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>GKER</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>28</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Защитни кутии, специално пригодени за носене на джобни видео игри; Игри; Защитно фолио за екрани на портативни игри; Строителни кубчета [играчки]; Играчки за стискане; Надуваеми игри за плувни басейни; Играчки маски; Играчки мебели; Водни пистолети [Играчки]; Стойки за коледни елхи; Плажни топки; Играчки за кучета; Играчки за домашни любимци; Тротинетки [играчки]; Карти за игра.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Ochranná přenosná pouzdra speciálně přizpůsobená na přenosné videohry; Hry; Ochranné fólie pro displeje přenosných her; Stavebnicové kostky [hračky]; Mačkací hračky; Nafukovací atrakce pro bazény; Masky [na hraní]; Nábytek (hračky); Vodní pistole (hračky); Stojany na vánoční stromeček; Plážové míče; Hračky pro psy; Hračky pro domácí zvířata; Koloběžky [hračky]; Hrací karty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beskyttende bæretasker, der er specielt tilpassede til håndholdte videospil; Spil; Beskyttelsesfilm tilpasset skærme på bærbare spil; Byggeklodser [legetøj]; Klemmelegetøj; Oppustelige spil til svømmebassiner; Masker [lejetøj]; Legetøjsmøbler; Vandpistoler [legesager]; Juletræsfødder; Badebolde; Hundelegetøj; Legetøj til kæledyr; Løbehjul [lejetøj]; Spillekort.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Angepasste Schutzetuis für Taschenvideospiele; Spiele; Schutzfolien für Bildschirme für tragbare Spiele; Bauklötze [Spielwaren]; Quetschspielzeug; Aufblasbare Spiele für Schwimmbecken; Masken [Spielzeug]; Spielzeugmöbel; Wasserpistolen [Spielwaren]; Christbaumständer; Wasserbälle; Spielzeug für Hunde; Spielzeug für Haustiere; Roller [Spielzeug]; Kartenspiele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Προστατευτικές θήκες μεταφοράς ειδικά προσαρμοσμένες για βιντεοπαιχνίδια χειρός· Αθύρματα· Μεμβράνες προστασίας οθόνης για φορητά παιχνίδια· Κύβοι κατασκευών [παιχνίδια]· Ελαστικά πιεζόμενα παιχνίδια· Φουσκωτά παιχνίδια για πισίνες· Μάσκες παιχνιδιού· Έπιπλα ως παιχνίδια· Νεροπίστολα [Αθύρματα]· Δένδρα χριστουγεννιάτικα (Στηρίγματα για -)· Μπάλες για την παραλία· Σκύλοι ως παιχνίδια· Παιχνίδια για κατοικίδια ζώα· Πατίνια· Μάρκες για παιχνίδια.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Protective carrying cases specially adapted for handheld video games; Games; Protective films adapted for screens for portable games; Building blocks [toys]; Squeeze toys; Inflatable games for swimming pools; Masks [playthings]; Toy furniture; Toy water guns; Christmas tree stands; Beach balls; Dog toys; Toys for pets; Scooters [toys]; Playing cards.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Estuches de protección especialmente adaptados para videojuegos de mano; Juegos; Láminas protectoras para pantallas de juegos portátiles; Bloques de construcción [juguetes]; Juguetes para apretar; Artículos de juego inflables para piscinas; Máscaras [juguetes]; Muebles de juguete; Pistolas de agua [juguetes]; Soportes para árboles de Navidad; Pelotas de playa; Juguetes para perros; Juguetes para animales de compañía; Patinetes [juguetes]; Naipes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Käeshoitavate videomängude kaitsvad ümbrised, kotid; Mängud; Kaasaskantavate mänguseadmete ekraanide kaitsekiled; Ehitusklotsid [mänguasjad]; Pigistamislelud; Täispuhutavad mängud ujumisbasseinide jaoks; Maskid (mänguasjad); Mängumööbel; Veepüstolid [mänguasjad]; Jõulupuujalad, jõulupuuhoidikud; Rannapallid; Koeramänguasjad; Lemmikloomade mänguasjad; Tõukerattad (mänguasjad); Mängukaardid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Erityisesti kädessä pidettäville videopeleille tarkoitetut suojaavat kantokotelot; Lelut; Kannettaville pelilaitteille tarkoitetut näyttöä suojaavat kalvot; Rakennuspalikat [leluina]; Paineltavat lelut; Puhallettavat pelit uima-altaisiin; Leikkinaamarit; Lelukalusteet; Vesipistoolit [leikkikalut]; Joulukuusenjalat; Rantapallot; Lelut koirille; Lelut lemmikkieläimille; Potkulaudat [leikkikalut]; Pelikortit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Housses et étuis de protection spécialement adaptés aux jeux vidéo portables; Jeux; Films de protection conçus pour écrans de jeux portatifs; Blocs de construction [jouets]; Jouets malléables; Jeux gonflables pour piscine; Masques [jouets]; Meubles [jouets]; Pistolets à eau [jouets]; Supports pour arbres de Noël; Ballons de plage; Jouets pour chiens; Jouets pour animaux de compagnie; Trottinettes [jouets]; Cartes à jouer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Zaštitne futrole za nošenje ručnih video igri; Igračke; Zaštitne folije prilagođene za zaslone prijenosnih igara; Kocke za slaganje [igračke]; Igračke za stiskanje; Igračke na napuhavanje za bazene; Karnevalske maske; Namještaj za igru; Puške na vodu [igračke]; Postolja za božićna drvca; Lopte za plažu; Psi - igračke; Igračke za ljubimce; Romobili; Igraće karte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Speciálisan kézi videojátékokhoz adaptált védő hordtáskák; Játékok; Hordozható játékok képernyőihez kialakított védőfóliák; Építőkockák [játékok]; Összenyomható, nyomogatós játékok; Felfújható játékok úszómedencékbe; Játékálarcok; Játékbútorok; Vízipisztolyok [játékszerek]; Karácsonyfa talpak; Strandlabdák; Játékkutyák; Játékok kisállatoknak; Rollerek; Játékkártyák.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Custodie protettive adatte a contenere videogiochi tascabili; Giochi; Pellicole protettive adatte per schermi di giochi portatili; Blocchi per costruzioni [giocattoli]; Giocattoli morbidi; Giochi gonfiabili per piscine; Maschere [giocattoli]; Mobili giocattolo; Pistole ad acqua [giocattoli]; Basamenti per alberi di natale; Palle da spiaggia; Giocattoli per cani; Giocattoli per animali da compagnia; Monopattini; Carte da gioco.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Specialiai pritaikyti nešiojamieji apsauginiai rankinių vaizdo žaidimų dėklai; Žaidimai; Nešiojamųjų žaidimų ekranų apsauginės plėvelės; Konstrukciniai kubeliai [žaislai]; Suspaudžiami žaislai; Pripučiamieji žaidimų reikmenys baseinams; Žaidimų kaukės; Žaisliniai baldai; Vandens pistoletai [žaislai]; Kalėdų eglučių stovai; Paplūdimio kamuoliai; Šunų žaislai; Kambarinių gyvūnėlių žaislai; Paspirtukai [žaislai]; Lošiamosios kortos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Aizsargietvari pārnēsājamām videospēlēm; Spēles; Pārnēsājamo spēļu ekrāniem pielāgotas aizsargplēves; Rotaļu klucīši [konstruktori]; Saspiežamas rotaļlietas; Piepūšamās spēles izmantošanai peldbaseinā; Rotaļu maskas; Rotaļu mēbeles; Ūdenspistoles [rotaļlietas]; Ziemassvētku eglīšu statīvi; Pludmales bumbas; Rotaļlietas suņiem; Mājas (istabas) dzīvnieku rotaļlietas; Skrejriteņi (rotaļlietas); Spēļu kārtis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kaxxetti protettivi adattati speċjalment għall-ġarr ta' logħob tal-vidjo li jinżamm fl-idejn; Ġugarelli; Films protettivi adattati għall-iskrins għal logħob li jista' jinġarr; Blokki għal bini ta' kostruzzjonijiet [ġugarelli]; Ġugarelli li jingħafsu; Logħob li jinkludi oġġetti li jintefħu għall-pixxini; Maskri tal-logħob; Għamara tal-logħob; Pistoli tal-ilma [ġugarelli]; Sostenn għas-siġar tal-milied; Blalen tal-baħar; Ġugarelli għall-klieb; Ġugarelli għal annimali domestiċi; Skuters [ġugarelli]; Karti tal-logħob.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Beschermende dragende etuis aangepast aan videospellen op zakformaat; Spellen; Speciaal aangepaste beschermende folie voor schermen voor draagbare spellen; Bouwblokken [speelgoed]; Knijpspeelgoed; Opblaasbare spellen voor zwembaden; Maskers [speelgoed]; Speelgoedmeubelen; Waterpistolen [speelgoederen]; Standaards voor kerstbomen; Strandballen; Speelgoed voor honden; Speelgoed voor huisdieren; Autopeds [speelgoed]; Speelkaarten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Futerały ochronne specjalnie przystosowane do ręcznych gier wideo; Gry; Folie ochronne przystosowane do ekranów gier przenośnych; Klocki do zabawy [konstrukcyjne]; Zabawki do ściskania; Gry nadmuchiwane do basenów; Maski zabawkowe; Meble zabawkowe; Pistolety na wodę [zabawki]; Stojaki do choinek; Piłki plażowe; Zabawki dla psów; Zabawki dla zwierząt domowych; Hulajnogi [zabawki]; Karty do gry.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Estojos de proteção especialmente concebidos para jogos de vídeo portáteis; Jogos; Películas protetoras concebidas para ecrãs de jogos portáteis; Blocos de construção [brinquedos]; Brinquedos de apertar; Jogos insufláveis para piscinas; Máscaras [artigos de brincar]; Mobiliário de brincar; Pistolas de água [brinquedos]; Suportes de árvores de natal; Bolas de praia; Brinquedos para cães; Brinquedos para animais de estimação; Trotinetas [brinquedos]; Cartas de jogar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Huse protectoare de transport adaptate special pentru jocuri video portabile; Jocuri; Folii de protecție adaptate pentru ecrane pentru jocuri portabile; Blocuri de construcție [jucării]; Jucării flexibile (care pot fi strânse în mână); Jocuri gonflabile pentru piscine de înot; Măști de carnaval; Mobilier de jucărie; Pistoale cu apă [articole de joacă]; Suporturi pentru pomi de Crăciun; Mingi de plajă; Jucării pentru câini; Jucării pentru animale de companie; Trotinete; Cărți de joc.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Ochranné puzdrá na prenosné videohry; Hry; Ochranné fólie na displeje prenosných elektronických hier; Stavebnicové kocky (hračky); Hračky ktoré sa dajú stláčať; Nafukovacie hry do bazéna; Masky (hračky); Hračkársky nábytok; Vodné pištole na hranie; Stojany na vianočné stromčeky; Plážové lopty; Hračky pre psy; Hračky pre zvieratá chované v domácnosti; Kolobežky (hračky); Hracie karty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zaščitne nosilni etuiji, posebej prilagojeni za ročne video igre; Igrače; Zaščitne folije, prilagojene za zaslone za prenosne igre; Kocke [igrače]; Igrače za stiskanje; Napihljiva igrala za plavalne bazene; Maske (igrače); Pohištvo (igrače); Vodne pištole [igrače]; Podstavki za božična drevesa; Žoge za plažo; Igrače za pse; Igrače za hišne ljubljence; Skiroji [igrače]; Igralne karte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Skyddande bärväskor speciellt anpassade för handhållna videospel; Spel; Skyddsfilmer anpassade för skärmar till bärbara spel; Byggklossar [leksaker]; Klämleksaker; Uppblåsbara spel för pooler; Masker [leksaker]; Leksaksmöbler; Vattenpistoler [lekutrustning]; Julgransfötter; Strandbollar; Leksaker för hundar; Leksaker för husdjur; Sparkcyklar [leksaker]; Spelkort.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1018477</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>61580</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

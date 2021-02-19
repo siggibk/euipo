@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-07T09:44:28</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225683</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225683</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ICE SCREAM</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162307858</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/225/018225683/000162307858.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>04.05.05</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Софтуерни програми за видеоигри.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Softwarové programy na video hry.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Softwareprogrammer til videospil.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Software für Videospiele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Προγράμματα λογισμικού πληροφορικής για παιχνίδια βίντεο.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Software programs for video games.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Software de videojuegos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Videomängude tarkvaraprogrammid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ohjelmistot videopeleihin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Logiciels pour jeux vidéo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Računalni programi za video igre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szoftverek videojátékokhoz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Software per videogiochi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vaizdo žaidimų programinė įranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Videospēļu programmas (datoru programmatūra).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Softwer tal-logħob tal-vidjo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Softwareprogramma's voor videospellen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oprogramowanie do gier wideo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Programas de software para jogos de vídeo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Programe pentru jocuri de calculator [software de calculator].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Softvérové programy pre video hry.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Programska oprema za video igre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Programvara för videospel.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>28</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Играчки, игри и артикули за игра.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Hračky, hry a žertovné předměty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Legetøj, spil og festartikler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Spielwaren, Spiele und Spielzeug.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παιδικά παιχνίδια, παιχνίδια και αθύρματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Toys, games, and playthings.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Juguetes, juegos y artículos para jugar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mänguasjad, mängud ja peotarbed, pilakaubad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lelut, pelit ja leikkivälineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Jouets, jeux et articles de jeux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Igračke, igre, predmeti za igranje i zabavu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Játékszerek, játékok és játéktárgyak.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Giochi, giocattoli, balocchi e ninnoli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Žaislai, žaidimai, žaisliukai ir niekučiai (dovanėlės).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Rotaļlietas, spēles un spēļlietas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ġugarelli, logħob, oġġetti tal-logħob.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Speelgoed, spelletjes en speelgoed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Gry, zabawki i akcesoria do zabawy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Brinquedos, jogos, artigos de brincar e de festa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Jucării, jocuri și articole de joacă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Hračky, hry a drobný hračkársky tovar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Igrače, igre, predmeti za zabave.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Leksaker, spel och skämtartiklar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/078</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080356</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>91521</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

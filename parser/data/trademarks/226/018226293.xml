@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:34:27</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226293</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226293</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>ro</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Arad South Terminal</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Търговско подпомагане, търговско управление и административни услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pomoc v obchodní a podnikatelské činnosti, management a administrativní služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Bistand ved forretningsudførelse, -ledelse og -administration.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Hilfe in Geschäftsangelegenheiten, Geschäftsführung und administrative Dienstleistungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Επιχειρηματική υποστήριξη, υπηρεσίες διοίκησης και διαχείρισης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Business assistance, management and administrative services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de asistencia, dirección y administración de negocios.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ärijuhtimisteenused ja ärialane abi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Yritystoiminnan avustamis-, liikkeenjohto- ja hallintopalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services d'aide et de gestion des affaires et services administratifs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge poslovne pomoći, upravljanja i administracije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Üzleti segítségnyújtás, menedzseri és adminisztratív szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Assistenza negli affari, servizi gestionali ed amministrativi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Verslo pagalba, vadyba ir administravimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Atbalsta, pārvaldības un biroju administratīvie pakalpojumi uzņēmējdarbībai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' assistenza, ġestjoni u amministrazzjoni fin-negozju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Commercieel-zakelijke assistentie, commercieel-zakelijk beheer en administratieve diensten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Pomoc w prowadzeniu działalności gospodarczej, zarządzanie i administrowanie działalnością gospodarczą.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de assistência, gestão e administração de negócios.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Asistență în afaceri, management și servicii administrative.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Pomoc pri podnikaní, riadenie podniku a obchodná správa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Poslovna asistenca, poslovno vodenje in administrativne storitve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Företagsassistans, -ledning och -administration.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>39</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Паркиране и съхранение на превозни средства; Услуги за информация, съвети и резервации в областта на транспорта; Услуги за отдаване под наем, свързани с транспортиране и складиране; Транспорт.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Parkování a uskladnění vozidel; Dopravní informace, poradenské a rezervační služby; Pronájem v souvislosti s dopravou a skladováním; Přeprava.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Parkering og opbevaring af befordringsmidler; Information, rådgivning og reservation i forbindelse med transport; Udlejning inden for transport og oplagring; Transport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Parken und Abstellen von Fahrzeugen; Informations-, Beratungs- und Reservierungsdienste in Bezug auf Transportdienstleistungen; Vermietungsdienste in Bezug auf Transport und Lagerung; Transportdienstleistungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Στάθμευση και αποθήκευση οχημάτων· Υπηρεσίες παροχής πληροφοριών και συμβουλών και κρατήσεων για μεταφορές· Υπηρεσίες εκμίσθωσης σχετικές με τη μεταφορά και την αποθήκευση· Μεταφορές.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Vehicle parking and storage; Transport information, advice and reservation services; Rental services related to transportation and storage; Transport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aparcamiento y almacenamiento de vehículos; Servicios de información, asesoramiento y reserva en materia de transporte; Servicios de arrendamiento relacionados con el transporte y el almacenamiento; Servicios de transporte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Sõidukite parkimine ja hoiustamine; Transporditeabe, -nõustamise ja reserveerimise teenused; Transpordi ja ladustamisega seotud rentimisteenused; Transport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ajoneuvojen pysäköinti ja säilytys; Kuljetukseen liittyvät tiedotus-, neuvonta- ja varauspalvelut; Kuljetukseen ja varastointiin liittyvät vuokrauspalvelut; Kuljetus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Stationnement et stockage de véhicules; Services d’information, de conseil et de réservation relatifs aux transports; Services de location en matière de transport et stockage; Transports.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Parkiranje i skladištenje vozila; Usluge informiranja, savjetovanja i rezervacija u vezi prijevoza; Usluge iznajmljivanja vezane uz prijevoz i skladištenje; Prijevoz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Jármű parkoltatás és tárolás; Szállítással kapcsolatos információs, tanácsadási és foglalási szolgáltatások; Szállítással és tárolással kapcsolatos bérbeadási szolgáltatások; Szállítás.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Parcheggio e deposito di veicoli; Servizi di informazione, consulenza e prenotazione in materia di trasporti; Servizi di noleggio relativi a trasporto e immagazzinaggio; Trasporto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Transporto priemonių statymas ir laikymas; Transporto informacijos, patarimų ir rezervavimo paslaugos; Su transportavimu ir sandėliavimu susijusios nuomos paslaugos; Vežimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Transportlīdzekļu novietošana stāvvietās un autostāvvvietu pakalpojumi; Informācijas un padomu sniegšana par pārvadājumiem, transporta rezervēšanas pakalpojumi; Ar transportēšanas un uzglabāšanas pakalpojumiem saistīta iznomāšana; Transporta pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ipparkjar u ħażna tal-vetturi; Servizzi ta' informazzjoni tat-trasport, pariri u riservazzjoni; Servizzi ta' kiri relatati mat-trasport u l-ħażna; Trasport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Parking en opslag van voertuigen; Informatie-, advies- en reserveringsdiensten inzake transport; Verhuurdiensten met betrekking tot vervoer en opslag; Transport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Parkowanie i przechowywanie pojazdów; Usługi informacji, doradztwa i rezerwacji w zakresie transportu; Usługi wynajmu związane z transportem i magazynowaniem; Transport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Estacionamento e armazenamento de veículos; Serviços de informação, aconselhamento e reserva relativos a transportes; Serviços de aluguer relacionados com transporte e armazenamento; Transporte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Parcare și depozitare de vehicule; Servicii de informare, de consiliere și de rezervare în legătură cu transportul; Servicii de închiriere în legătură cu transport și depozitare; Transport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Parkovanie a úschova vozidiel; Dopravné informácie, poradenstvo a rezervačné služby; Služby v oblasti prenájmu týkajúce sa dopravy a skladovania; Dopravné služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Parkiranje in hramba vozil; Storitve informacij, svetovanja in rezervacij v zvezi s prevozom; Storitve najema v zvezi s transportom in skladiščenjem; Transport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Parkering och förvaring av fordon; Informations-, rådgivnings- och bokningstjänster för transporter; Uthyrningtjänster relaterad till transport och förvaring; Transporter.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/079</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080420</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

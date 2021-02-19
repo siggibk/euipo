@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2018-09-21T16:02:36</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063762-0002</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-26</ReceivingOfficeDate>
+<DesignIdentifier>001063762-0002</DesignIdentifier>
+<ApplicationNumber>001063762</ApplicationNumber>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-26</ApplicationDate>
+<RegistrationDate>2008-12-26</RegistrationDate>
+<PublicationDate>2009-01-15</PublicationDate>
+<ApplicationReference>21.B0161.52.EM12</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-26</ExpiryDate>
+<EffectiveDate>2008-12-26</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-09-20</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061771473</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063762_0002/001063762_0002_1.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Лампи</IndicationProduct>
+       <IndicationProduct languageCode="cs">Lampy</IndicationProduct>
+       <IndicationProduct languageCode="da">Lamper</IndicationProduct>
+       <IndicationProduct languageCode="de">Lampen</IndicationProduct>
+       <IndicationProduct languageCode="el">Λάμπες</IndicationProduct>
+       <IndicationProduct languageCode="en">Lamps</IndicationProduct>
+       <IndicationProduct languageCode="es">Lámparas</IndicationProduct>
+       <IndicationProduct languageCode="et">Lambid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Lamput</IndicationProduct>
+       <IndicationProduct languageCode="fr">Luminaires</IndicationProduct>
+       <IndicationProduct languageCode="hu">Lámpák</IndicationProduct>
+       <IndicationProduct languageCode="it">Lampade</IndicationProduct>
+       <IndicationProduct languageCode="lt">Lempos</IndicationProduct>
+       <IndicationProduct languageCode="lv">Lampas</IndicationProduct>
+       <IndicationProduct languageCode="mt">Lampi</IndicationProduct>
+       <IndicationProduct languageCode="nl">Lampen voor verlichting</IndicationProduct>
+       <IndicationProduct languageCode="pl">Lampy</IndicationProduct>
+       <IndicationProduct languageCode="pt">Luminárias</IndicationProduct>
+       <IndicationProduct languageCode="ro">Lămpi</IndicationProduct>
+       <IndicationProduct languageCode="sk">Lampy</IndicationProduct>
+       <IndicationProduct languageCode="sl">Svetilke</IndicationProduct>
+       <IndicationProduct languageCode="sv">Lampor</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>26.05</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/008</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/130</PublicationIdentifier>
+        <PublicationSequenceNumber>1018471</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2013-07-12</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/180</PublicationIdentifier>
+        <PublicationSequenceNumber>100683376</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2018-09-21</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>175895</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>10647</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006987717</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1018471</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-07-12</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012442907</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100683376</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-09-21</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

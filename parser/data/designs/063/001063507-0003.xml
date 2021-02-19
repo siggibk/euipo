@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:54</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063507-0003</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-29</ReceivingOfficeDate>
+<DesignIdentifier>001063507-0003</DesignIdentifier>
+<ApplicationNumber>001063507</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ApplicationDate>2008-12-29</ApplicationDate>
+<RegistrationDate>2008-12-29</RegistrationDate>
+<PublicationDate>2009-03-10</PublicationDate>
+<ApplicationReference>PM02/08</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-29</ExpiryDate>
+<EffectiveDate>2008-12-29</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000062044965</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063507_0003/001063507_0003_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062044966</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063507_0003/001063507_0003_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062044967</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063507_0003/001063507_0003_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062044968</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063507_0003/001063507_0003_4.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Стъклени чаши</IndicationProduct>
+       <IndicationProduct languageCode="cs">Sklenice</IndicationProduct>
+       <IndicationProduct languageCode="da">Glas</IndicationProduct>
+       <IndicationProduct languageCode="de">Gläser</IndicationProduct>
+       <IndicationProduct languageCode="el">Ποτήρια</IndicationProduct>
+       <IndicationProduct languageCode="en">Glasses</IndicationProduct>
+       <IndicationProduct languageCode="es">Vasos</IndicationProduct>
+       <IndicationProduct languageCode="et">Joogiklaasid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Juomalasit</IndicationProduct>
+       <IndicationProduct languageCode="fr">Verres</IndicationProduct>
+       <IndicationProduct languageCode="hu">Ivópoharak</IndicationProduct>
+       <IndicationProduct languageCode="it">Bicchieri</IndicationProduct>
+       <IndicationProduct languageCode="lt">Gėrimų taurės</IndicationProduct>
+       <IndicationProduct languageCode="lv">Dzeramglāzes</IndicationProduct>
+       <IndicationProduct languageCode="mt">Tazzi għax-xorb</IndicationProduct>
+       <IndicationProduct languageCode="nl">Glazen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Szklanki</IndicationProduct>
+       <IndicationProduct languageCode="pt">Copos</IndicationProduct>
+       <IndicationProduct languageCode="ro">Pahare</IndicationProduct>
+       <IndicationProduct languageCode="sk">Poháre</IndicationProduct>
+       <IndicationProduct languageCode="sl">Kozarci</IndicationProduct>
+       <IndicationProduct languageCode="sv">Dricksglas</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>07.01</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/044</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-03-10</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/126</PublicationIdentifier>
+        <PublicationSequenceNumber>282396</PublicationSequenceNumber>
+        <PublicationSection>B.2.2</PublicationSection>
+        <PublicationDate>2009-07-03</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1326002</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2012/045</PublicationIdentifier>
+        <PublicationSequenceNumber>731566</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2012-03-02</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2012/058</PublicationIdentifier>
+        <PublicationSequenceNumber>744417</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2012-03-22</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>326299</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>27018</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003183153</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>282396</PublicationSequenceNumber>
+           <PublicationSection>B.2.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-07-03</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>005616788</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>731566</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2012-03-02</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>005675339</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>744417</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2012-03-22</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

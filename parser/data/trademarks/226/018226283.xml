@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-02T10:32:55</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226283</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226283</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-30</RegistrationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-02</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>NARANO CASA D’ARISITI</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>33</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Алкохолни напитки (с изключение на бира).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Alkoholické nápoje s výjimkou piva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Alkoholholdige drikke, undtagen øl.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Alkoholische Getränke, ausgenommen Bier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αλκοολούχα ποτά (εκτός μπύρας).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Alcoholic beverages (except beer).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bebidas alcohólicas (excepto cervezas).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Alkoholjoogid, v.a õlu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Alkoholijuomat (paitsi oluet).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Boissons alcoolisées à l'exception des bières.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Alkoholna pića (osim piva).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Alkoholos italok (sörök kivételével).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Bevande alcoliche (eccetto le birre).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Svaigieji gėrimai [išskyrus alų].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Alkoholiskie dzērieni (izņemot alu).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xarbiet alkoħoliċi (minbarra birra).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Alcoholische dranken (uitgezonderd bier).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Napoje alkoholowe (z wyjątkiem piwa).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bebidas alcoólicas (excluindo cerveja).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Băuturi alcoolice (cu excepţia berii).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Alkoholické nápoje okrem piva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Alkoholne pijače (razen piva).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Alkoholhaltiga drycker, inte öl.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/096</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/166</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-01</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>479264</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>17367</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

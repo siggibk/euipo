@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:34:36</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224171</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224171</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>MILINDA</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Сапуни; Парфюмерия, етерични масла, козметика, лосиони за коса; Средства за почистване на зъби.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Mýdla; Parfumerie, éterické oleje, kosmetika, vlasové vody; Zubní pasty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Sæber; Parfumerivarer, æteriske olier, kosmetiske præparater, hårvand; Tandplejemidler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Seifen; Parfümerien, ätherische Öle, Mittel zur Körper- und Schönheitspflege, Haarwässer; Zahnputzmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σαπούνια· Είδη αρωματοποιίας, αιθέρια έλαια, καλλυντικά, λοσιόν για τα μαλλιά· Οδοντοσκευάσματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Soaps; Perfumery, essential oils, cosmetics, hair lotions; Dentifrices.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Jabones; Perfumería, aceites esenciales, cosméticos, lociones capilares; Dentífricos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Seebid; Parfümeeriatooted, eeterlikud õlid, kosmeetikavahendid, juukseveed; Hambapastad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Saippuat; Hajuvedet, eteeriset öljyt, kosmeettiset tuotteet, hiusvedet; Hampaidenpuhdistusaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Savons; Parfumerie, huiles essentielles, cosmétiques, lotions pour les cheveux; Dentifrices.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Sapuni; Parfumerijski proizvodi, eterična ulja, kozmetički proizvodi, losioni za kosu; Prpoizvodi za njegu zubi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szappanok; Parfümök, illóolajok, kozmetikumok, hajszeszek; Fogkrémek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Saponi; Profumeria, oli essenziali, cosmetici, lozioni per capelli; Dentifrici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Muilas; Parfumerijos gaminiai, eteriniai aliejai, kosmetika, plaukų losjonai; Dantų milteliai ir pastos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ziepes; Parfimērija, ēteriskās eļļas, kosmētika, matu losjoni; Zobu kopšanas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Sapun; Fwejjaħ, żjut essenzjali, kożmetiċi, lozjonijiet tax-xagħar; Dentifriċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Zepen; Parfumerieën, etherische oliën, cosmetische middelen, haarlotions; Tandreinigingsmiddelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Mydła; Produkty perfumeryjne, olejki esencjonalne, kosmetyki, płyny do włosów; Środki do czyszczenia zębów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Sabões; Perfumaria, óleos essenciais, cosméticos, loções para os cabelos; Dentífricos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Săpunuri; Produse de parfumerie, uleiuri eterice, produse cosmetice, loţiuni capilare; Produse pentru îngrijirea dinţilor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Mydlá; Voňavkárske výrobky, éterické oleje, kozmetické prípravky, vlasové lotion; Prípravky na čistenie zubov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Mila; Parfumi, eterična olja, kozmetična sredstva, losjoni za lase; Sredstva za čiščenje zob.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tvål; Parfymer, eteriska oljor, kosmetika, hårvårdspreparat; Tandpulver, -kräm och -pastor.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Фармацевтични препарати, А именно лекарства за кожни болести, дезинфектанти за фаринкса и гърлото, Химически препарати за хигиена; ДИЕТИЧНИ ПРОДУКТИ ЗА ДЕЦА И БОЛНИ; Дезинфектанти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Farmaceutika, Jmenovitě dermatika, přípravky na dezinfekci krku a hrdla, Chemické hygienické přípravky; Dietní přípravky pro děti a nemocné; Dezinfekční přípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Farmaceutiske præparater, Nemlig dermatologiske produkter, desinficerende produkter til hals og svælg, Kemiske præparater til hygiejneformål; Diætetiske produkter til børn og syge; Desinfektionsmidler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Pharmazeutische Erzeugnisse, nämlich Dermatika, Hals- und Rachendesinfizientien, chemische Erzeugnisse für die Gesundheitspflege; diätetische Erzeugnisse für Kinder und Kranke; Desinfektionsmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φαρμακευτικά (Προϊόντα -), Συγκεκριμένα δερματολογικά σκευάσματα, σκευάσματα για την απολύμανση του λαιμού και του φάρυγγα, Χημικά παρασκευάσματα υγιεινής· Διαιτητικά προϊόντα για παιδιά και ασθενείς· Απολυμαντικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Pharmaceuticals, Namely dermatological preparations, neck and throat disinfectant, Chemical preparations for hygiene; Dietetic preparations for children and invalids; Disinfectants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Productos farmacéuticos, En concreto medicamentos dermatológicos, desinfectar cuello y garganta, Preparaciones químicas para la higiene; Preparaciones dietéticas para niños y enfermos; Desinfectantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Farmaatsiapreparaadid, Nimelt naha-, kurgu- ja kurgu desinfitseerimisvahendid, Keemilised hügieenivahendid; Dieteettooted lastele ja haigetele; Desinfektsioonivahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Farmaseuttiset valmisteet, Nimittäin dermatologiset, kurkun ja nielun desinfiointiaineet, Kemialliset valmisteet hygieniakäyttöön; Dieettivalmisteet lapsille ja sairaille; Desinfiointiaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Produits pharmaceutiques, À savoir produits de dermatologie, désinfectants pour la gorge et le pharynx, Produits chimiques pour l'hygiène; Produits diététiques pour enfants et malades; Désinfectants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Farmaceutski pripravci, I to lijekovi za liječenje kožnih bolesti, dezinficijensi za grlo i ždrijelo, Kemijski preparati za sanitarne svrhe; DIJETETSKI PROIZVODI ZA DJECU I BOLESNIKE; Dezinfekcijska sredstva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyógyszerészeti készítmények, Mégpedig bőrgyógyászati készítmények, torok- és garatfertőtlenítő szerek, Higiénés célú kémiai készítmények; Gyerekek és betegek számára készített diétetikus készítmények; Fertőtlenítőszerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Prodotti farmaceutici, Ovvero dermatici, disinfettanti per la gola, Preparati chimici per l'igiene; PRODOTTI DIETETICI PER BAMBINI ED AMMALATI; Disinfettanti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vaistai, Būtent odos priežiūros priemonės, kaklo ir gerklės dezinfekciniai skysčiai, Cheminiai higienos preparatai; Vaikų ir ligonių dietiniai preparatai; Dezinfekavimo preparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Farmaceitiskie preparāti, Proti, ādu mīkstinoša ziede, kakla un rīkles dezinfekcijas līdzekļi, Ķīmiskie higiēnas līdzekļi; Diētiskie preparāti bērniem un slimniekiem; Dezinfekcijas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preparazzjonijiet farmaċewtiċi, Jiġifieri diżinfettanti għad-dermatite, il-gerżuma u l-farinġi, Preparazzjonijiet kimiċi għall-iġjene; Preparazzjonijiet djetetiċi għat-tfal u l-morda; Diżinfettanti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Farmaceutische producten, Te weten dermatica, desinfectiemiddelen voor hals en keel, Chemische producten voor de hygiëne; Diëtische substanties voor kinderen en zieken; Ontsmettingsmiddelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Preparaty farmaceutyczne, Mianowicie preparaty dermatologiczne, środki do dezynfekcji szyi i gardła, Środki chemiczne do celów higienicznych; PREPARATY DIETETYCZNE DLA DZIECI I CHORYCH; Środki odkażające.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Produtos farmacêuticos, Nomeadamente produtos dermatológicos, desinfetantes para a garganta e faringe, Preparações químicas para a higiene; Produtos dietéticos para crianças e doentes; Desinfectantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Preparate farmaceutice, Și anume produse dermatologice, dezinfectante de gât și faringe, Preparate chimice pentru igienă; PRODUSE DIETETICE PENTRU COPII ŞI BOLNAVI; Dezinfectante.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Farmaceutické prípravky, Menovite dermatika, dezinfekcia krku a pažeráku, Chemické hygienické prípravky; DIETETICKÉ PRÍPRAVKY PRE DETI A CHORÝCH; Dezinfekčné prostriedky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Farmacevtski pripravki, In sicer dermatiki, razkužila za grlo in žrelo, Higienska kemična sredstva; Dietetični preparati za otroke in bolnike; Dezinfekcijska sredstva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Läkemedel, Nämligen hudläkemedel, medel för hals- och svalgdesinficering, Kemiska preparat för hygieniska ändamål; Dietetiska preparat för barn och sjuka; Desinfektionsmedel.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>21</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Гребени и гъби; Четки (с изключение на четки за боя).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Hřebeny a mycí houby; Kartáče (kromě malířských štětců).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kamme og svampe; Børster,.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kämme und Schwämme; Bürsten (mit Ausnahme von Pinseln).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χτένια και σφουγγάρια· Βούρτσες (εκτός πινέλων).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Combs and sponges; Brushes (except paint brushes).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Peines y esponjas; Cepillos (excepto pinceles).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kammid ja käsnad; Pintslid (v.a. värvipintslid).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kammat ja pesusienet; Harjat (paitsi siveltimet).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Peignes et éponges; Brosses (à l'exception des pinceaux).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Češljevi i spužve; Četke (osim kistova).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fésűk és szivacsok; Ecsetek (kefék) (festő ecseteket kivéve).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pettini e spugne; Spazzole (ad eccezione dei pennelli).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Šukos ir kempinės; Šepečiai (išskyrus teptukus).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ķemmes un sūkļi; Sukas (izņemot otas).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Pettnijiet u sponoż; Pniezel (ħlief pniezel taż-żebgħa).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kammen en sponzen; Borstelwerk (uitgezonderd penselen).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Grzebienie i gąbki; Pędzle (z wyjątkiem pędzli dla malarzy).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Pentes e esponjas; Escovas (com excepção dos pincéis).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Piepteni şi bureţi; Perii (cu exceptia pensulelor).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Hrebene a špongie; Kefy (okrem natieracích štetcov).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Glavniki in gobe; Ščetke (razen čopičev).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kammar och tvättsvampar; Borstar (ej målarpenslar).</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<SeniorityDetails>
+<Seniority>
+<SeniorityCountryCode>DE</SeniorityCountryCode>
+<SeniorityApplicationNumber>1069309</SeniorityApplicationNumber>
+<SeniorityFilingDate>1981-10-14</SeniorityFilingDate>
+<SeniorityRegistrationNumber>1069309</SeniorityRegistrationNumber>
+<SeniorityRegistrationDate>1984-04-18</SeniorityRegistrationDate>
+<InternationalTradeMarkCode>EU</InternationalTradeMarkCode>
+<SeniorityPartialIndicator>false</SeniorityPartialIndicator>
+<SeniorityStatusCode>Accepted</SeniorityStatusCode>
+</Seniority>
+<Seniority>
+<SeniorityCountryCode>PL</SeniorityCountryCode>
+<SeniorityApplicationNumber>Z.176906</SeniorityApplicationNumber>
+<SeniorityFilingDate>1997-08-12</SeniorityFilingDate>
+<SeniorityRegistrationNumber>R.120382</SeniorityRegistrationNumber>
+<SeniorityRegistrationDate>2000-11-15</SeniorityRegistrationDate>
+<InternationalTradeMarkCode>EU</InternationalTradeMarkCode>
+<SeniorityPartialIndicator>false</SeniorityPartialIndicator>
+<SeniorityStatusCode>Accepted</SeniorityStatusCode>
+</Seniority>
+<Seniority>
+<SeniorityCountryCode>HU</SeniorityCountryCode>
+<SeniorityApplicationNumber>M9703126</SeniorityApplicationNumber>
+<SeniorityFilingDate>1997-08-28</SeniorityFilingDate>
+<SeniorityRegistrationNumber>154291</SeniorityRegistrationNumber>
+<SeniorityRegistrationDate>1997-08-28</SeniorityRegistrationDate>
+<InternationalTradeMarkCode>EU</InternationalTradeMarkCode>
+<SeniorityPartialIndicator>false</SeniorityPartialIndicator>
+<SeniorityStatusCode>Accepted</SeniorityStatusCode>
+</Seniority>
+<Seniority>
+<SeniorityCountryCode>RO</SeniorityCountryCode>
+<SeniorityApplicationNumber>M 2017 02861</SeniorityApplicationNumber>
+<SeniorityFilingDate>2017-04-28</SeniorityFilingDate>
+<SeniorityRegistrationNumber>150956</SeniorityRegistrationNumber>
+<SeniorityRegistrationDate>2017-04-28</SeniorityRegistrationDate>
+<InternationalTradeMarkCode>EU</InternationalTradeMarkCode>
+<SeniorityPartialIndicator>false</SeniorityPartialIndicator>
+<SeniorityStatusCode>Accepted</SeniorityStatusCode>
+</Seniority>
+</SeniorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/079</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>523162</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>65080</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018015969</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>65080</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-06-17</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

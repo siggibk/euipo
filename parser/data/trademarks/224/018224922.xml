@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:13</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224922</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224922</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162203049</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224922/000162203049.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>15.01.13</CategoryCode>
+          <CategoryCode>26.13.25</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>7</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Селскостопански машини; Аериращи помпи за аквариуми; Машини за отстраняване на битови отпадъци; Динамомашини; Стартери за мотори и двигатели; Въздушни турбини; Генератори за електричество, задвижвани с вятърна енергия; Турбини, с изключение на такива за сухопътни превозни средства; Хидравлични турбини; Рудокопачни машини; Генератори за вятърни турбини; Машини за раздробяване на отпадъци.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zemědělské stroje; Provzdušňovací čerpadla do akvárií; Drtiče odpadu (potravinového); Dynama; Startéry motorů; Větrné turbíny; Elektrické generátory na větrný pohon; Turbíny, jiné než pro pozemní vozidla; Hydraulické turbíny; Důlní stroje; Generátory větrných turbín; Drtičky odpadu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Landbrugsmaskiner; Luftpumper til akvarier; Affaldskværne; Dynamoer; Startere til motorer og maskiner; Vindmøller; Vindgeneratorer til produktion af elektricitet; Turbiner, ikke til befordringsmidler til brug på land; Hydrauliske turbiner; Maskiner til brug i miner; Generatorer til vindturbiner; Maskiner til knusning af affald.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Landwirtschaftliche Maschinen; Belüftungspumpen für Aquarien; Müllzerkleinerer; Dynamos; Anlasser für Motoren; Windturbinen; Windkraftgeneratoren; Turbinen, ausgenommen für Landfahrzeuge; Wasserturbinen; Bergbaumaschinen; Generatoren für Windturbinen; Abfallzerkleinerungsmaschinen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Γεωργικές μηχανές· Αντλίες εξαερισμού για ενυδρεία· Σκουπιδοφάγοι· Δυναμό· Εκκινητήρες για κινητήρες· Ανεμογεννήτριες· Γεννήτριες ηλεκτρισμού με τη χρήση αιολικής ενέργειας· Τουρμπίνες, εκτός αυτών που προορίζονται για χερσαία οχήματα· Τουρμπίνες υδραυλικές· Μεταλλεία (μηχανές εξόρυξης -ων)· Γεννήτριες για ανεμογεννήτριες· Μηχανές σύνθλιψης αποβλήτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">agricultural machines; aerating pumps for aquaria; waste disposal units; dynamos; starters for motors and engines; wind turbines; Wind-powered electricity generators; turbines, other than for land vehicles; hydraulic turbines; mineworking machines; Generators for wind turbines; Waste crushing machines.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Máquinas agrícolas; Bombas de aireación para acuarios; Trituradoras de residuos; Dínamos; Arranques para motores; Turbinas eólicas; Generadores eléctricos activados con energía eólica; Turbinas que no sean para vehículos terrestres; Turbinas hidráulicas; Máquinas de explotación minera; Generadores para turbinas eólicas; Máquinas trituradoras de residuos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Põllutöömasinad; Akvaariumi õhutuspumbad; Prahihävitusmasinad; Dünamod, jõumootorid; Mootori starterid; Tuulegeneraatorid; Tuule jõul töötavad elektrigeneraatorid; Turbiinid, v.a maismaasõidukite; Veeturbiinid; Kaevandusmasinad; Tuulikugeneraatorid; Peenestid (Jäätme -), jäätmepeenestid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Maanviljelyskoneet; Akvaarioiden ilmastuspumput; Jätteenhävityslaitteet (koneet); Dynamot; Käynnistyslaitteet moottoreita varten; Tuuliturbiinit; Tuulivoimageneraattorit sähköntuotantoon; Turbiinit, paitsi maa-ajoneuvoihin; Vesiturbiinit; Kaivostyökoneet; Tuuliturbiinien generaattorit; Jätteenpuristuskoneet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Machines agricoles; Pompes d'aération pour aquariums; Broyeurs d'ordures; Dynamos; Démarreurs pour moteurs; Éoliennes; Générateurs d'électricité à énergie éolienne; Turbines autres que pour véhicules terrestres; Turbines hydrauliques; Machines pour l'exploitation des mines; Générateurs pour éoliennes; Machines pour le broyage de déchets.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Poljoprivredni strojevi; Crpke za provjetravanje akvarija; Drobilice smeća [strojevi]; Dinamo uređaji; Pokretači motora; Turbine na vjetar; Generatori struje koje pokreće vjetar; Turbine [osim za kopnena vozila]; Hidraulične turbine; Strojevi za rudarstvo; Generatori za vjetroturbine; Drobilice smeća [strojevi].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Mezőgazdasági gépek; Légpumpák akváriumokba; Hulladékaprító gépek; Dinamók; Önindítók, indítókapcsolók motorokhoz és hajtóművekhez; Szélturbinák; Széllel hajtott áramfejlesztők; Turbinák, nem szárazföldi járművekhez; Vízturbinák; Bányaművelő gépek; Generátorok szélturbinákhoz; Hulladékaprító gépek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Macchine agricole; Pompe d'aerazione per acquari; Trituratori di spazzature; Dinamo; Motorini d'avviamento per motori; Turbine eoliche; Generatori di elettricità ad energia eolica; Turbine, diverse da quelle per veicoli terrestri; Turbine idrauliche; Macchine per lo sfruttamento delle miniere; Generatori per turbine eoliche; Trituratori di spazzature.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Žemės ūkio mašinos; Akvariumų aeraciniai siurbliai; Atliekų smulkintuvai; Nuolatinės srovės generatoriai; Variklių starteriai; Vėjo turbinos; Vėjo varomi elektros generatoriai; Turbinos (ne antžeminio transporto priemonėms); Hidraulinės turbinos; Kasybos mašinos; Vėjo turbinų generatoriai; Atliekų traiškymo mašinos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Lauksaimniecības mašīnas; Gaisa sūkņi akvārijiem; Atkritumu savākšanas mašīnas; Dinamomašīnas; Motoru un dzinēju starteri; Vēja turbīnas; Vēja elektroģeneratori; Turbīnas, izņemot sauszemes transportlīdzekļiem paredzētās turbīnas; Hidrauliskās turbīnas; Kalnrūpniecības (šahtu izstrādes) mašīnas; Vēja turbīnu ģeneratori; Atkritumu sasmalcināšanas mašīnas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Magni għall-agrikoltura; Pompi ta' ventilazzjoni għal akkwarji; Magni tar-rimi tal-iskart; Dajnamows; Apparat li jqabbad muturi u magni; Turbini tar-riħ; Ġeneraturi tal-elettriku li jaħdmu bir-riħ; Turbini, minbarra għal vetturi ta' fuq l-art; Turbini idrawliċi; Magni għall-użu fix-xogħol tal-minjieri; Ġeneraturi għat-turbini tar-riħ; Magni għat-tgħaffiġ tal-iskart.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Landbouwmachines; Beluchtingspompen voor aquaria; Afvalverbrijzelmachines; Dynamo's; Startmotors; Windmolens [turbines]; Generatoren voor het opwekken van elektriciteit (Door wind aangedreven -); Turbines, anders dan voor landvoertuigen; Hydraulische turbines; Mijnbouwmachines; Generatoren voor windturbines; Afvalverbrijzelmachines.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maszyny rolnicze; Pompki napowietrzające do akwariów; Maszyny do usuwania odpadków; Prądnice prądu stałego; Rozruszniki silników; Turbiny wiatrowe; Generatory energii elektrycznej napędzane energią wiatru; Turbiny, inne niż do pojazdów lądowych; Turbiny hydrauliczne; Maszyny górnicze; Generatory do turbin wiatrowych; Rozdrabniarki odpadów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máquinas agrícolas; Bombas de aeração para aquários; Trituradoras de resíduos; Dínamos; Arranques para motores; Turbinas eólicas; Geradores de eletricidade acionados por energia eólica; Turbinas, não sendo para veículos terrestres; Turbinas hidráulicas; Máquinas para exploração de minas; Geradores para turbinas eólicas; Máquinas de eliminação de lixo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Utilaje agricole; Pompe de aerare pentru acvarii; Concasoare pentru deșeuri; Dinamuri; Demaroare pentru motoare; Turbine eoliene; Generatoare electrice eoliene; Turbine, altele decât cele pentru vehicule terestre; Turbine hidraulice; Miniere (Mașini pentru exploatări -); Generatoare pentru turbine eoliene; Concasoare de gunoi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poľnohospodárske stroje; Prevzdušňovacie čerpadlá do akvárií; Drviče odpadu (stroje); Dynamá; Štartéry motorov; Veterné turbíny; Veterné generátory elektriny; Turbíny (nie do pozemných vozidiel); Hydraulické turbíny; Banské stroje; Generátory veterných turbín; Drviče odpadu (stroje).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kmetijski stroji; Prezračevalne črpalke za akvarij; Stroji za odstranjevanje odpadkov; Dinama; Zaganjači za motorje; Vetrne turbine; Električni generatorji na veter; Turbine, razen za kopenska vozila; Hidravlične turbine; Rudarski stroji; Generatorji za vetrne turbine; Stroji za drobljenje smeti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Jordbruksmaskiner; Luftningspumpar för akvarier; Avfallskvarnar; Dynamor; Startapparater för motorer och elmotorer; Vindturbiner; Vindkraftsgeneratorer för elektricitet; Turbiner, inte för landfordon; Vattenturbiner; Gruvbrytningsmaskiner; Generatorer för vindturbiner; Maskiner för krossning av avfall.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079056</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>85806</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

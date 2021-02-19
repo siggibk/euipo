@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:45</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063200-0026</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063200-0026</DesignIdentifier>
+<ApplicationNumber>001063200</ApplicationNumber>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-04-08</PublicationDate>
+<ApplicationReference>44721</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<VerbalElementText>MONIX</VerbalElementText>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061755908</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0026/001063200_0026_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755909</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0026/001063200_0026_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755910</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0026/001063200_0026_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755911</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0026/001063200_0026_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755912</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0026/001063200_0026_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755915</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0026/001063200_0026_6.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Фритюрници</IndicationProduct>
+       <IndicationProduct languageCode="cs">Fritovací hrnce</IndicationProduct>
+       <IndicationProduct languageCode="da">Frituregryder</IndicationProduct>
+       <IndicationProduct languageCode="de">Bratgefäße</IndicationProduct>
+       <IndicationProduct languageCode="el">Φριτέζες</IndicationProduct>
+       <IndicationProduct languageCode="en">Deep fryers</IndicationProduct>
+       <IndicationProduct languageCode="es">Freidoras eléctricas</IndicationProduct>
+       <IndicationProduct languageCode="et">Fritterid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Uppopaistolaitteet</IndicationProduct>
+       <IndicationProduct languageCode="fr">Friteuses</IndicationProduct>
+       <IndicationProduct languageCode="hu">Olajsütők, fritőzök</IndicationProduct>
+       <IndicationProduct languageCode="it">Friggitrici</IndicationProduct>
+       <IndicationProduct languageCode="lt">Gruzdintuvės</IndicationProduct>
+       <IndicationProduct languageCode="lv">Cepeškrāsnis</IndicationProduct>
+       <IndicationProduct languageCode="mt">Taġen fond, b’taġen ieħor b’forma ta’ xibka fih, għal qali</IndicationProduct>
+       <IndicationProduct languageCode="nl">Frituurpannen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Głębokie patelnie</IndicationProduct>
+       <IndicationProduct languageCode="pt">Fritadeiras</IndicationProduct>
+       <IndicationProduct languageCode="ro">Friteuze</IndicationProduct>
+       <IndicationProduct languageCode="sk">Fritovacie hrnce</IndicationProduct>
+       <IndicationProduct languageCode="sl">Cvrtniki</IndicationProduct>
+       <IndicationProduct languageCode="sv">Fritöser</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>07.02</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/066</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-04-08</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325749</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/029</PublicationIdentifier>
+        <PublicationSequenceNumber>928982</PublicationSequenceNumber>
+        <PublicationSection>B.9.2</PublicationSection>
+        <PublicationDate>2013-02-11</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>51414</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>62060</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006645133</RecordIdentifier>
+<BasicRecordKind>Appointment Replacement and Deletion of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>928982</PublicationSequenceNumber>
+           <PublicationSection>B.9.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-02-11</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

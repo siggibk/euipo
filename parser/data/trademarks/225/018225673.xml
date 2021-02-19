@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-10T08:51:37</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225673</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225673</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-22</RegistrationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-25</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>MURVIEDRO 1927</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162303411</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/225/018225673/000162303411.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>05.05.20</CategoryCode>
+          <CategoryCode>05.05.22</CategoryCode>
+          <CategoryCode>24.01.01</CategoryCode>
+          <CategoryCode>24.01.23</CategoryCode>
+          <CategoryCode>24.09.02</CategoryCode>
+          <CategoryCode>24.09.03</CategoryCode>
+          <CategoryCode>25.07.25</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>33</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Алкохолни напитки (с изключение на бира).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Alkoholické nápoje s výjimkou piva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Alkoholholdige drikke, undtagen øl.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Alkoholische Getränke, ausgenommen Bier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αλκοολούχα ποτά (εκτός μπύρας).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Alcoholic beverages (except beer).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bebidas alcohólicas (excepto cervezas).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Alkoholjoogid, v.a õlu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Alkoholijuomat (paitsi oluet).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Boissons alcoolisées à l'exception des bières.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Alkoholna pića (osim piva).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Alkoholos italok (sörök kivételével).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Bevande alcoliche (eccetto le birre).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Svaigieji gėrimai [išskyrus alų].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Alkoholiskie dzērieni (izņemot alu).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xarbiet alkoħoliċi (minbarra birra).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Alcoholische dranken (uitgezonderd bier).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Napoje alkoholowe (z wyjątkiem piwa).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bebidas alcoólicas (excluindo cerveja).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Băuturi alcoolice (cu excepţia berii).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Alkoholické nápoje okrem piva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Alkoholne pijače (razen piva).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Alkoholhaltiga drycker, inte öl.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>ES</PriorityCountryCode>
+<PriorityNumber>M4042007</PriorityNumber>
+<PriorityDate>2019-11-05</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/090</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-14</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/161</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-25</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/214</PublicationIdentifier>
+        <PublicationSection>C.2.1</PublicationSection>
+        <PublicationDate>2020-11-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>536587</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>61458</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018771090</RecordIdentifier>
+<BasicRecordKind>Representative - Change of name and professional address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>61458</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-11-10</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-03T12:28:00</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226181</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226181</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-07-30</RegistrationDate>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-03</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>OTELLO</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Ветеринарни препарати.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Veterinární přípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Veterinære præparater.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Veterinärmedizinische Präparate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κτηνιατρικά (Προϊόντα -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Veterinary preparations.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Preparaciones veterinarias.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Veterinaariapreparaadid, loomaravimid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Eläinlääkinnälliset valmisteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Produits vétérinaires.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Veterinarski proizvodi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Állatgyógyászati készítmények.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Prodotti veterinari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Veterinariniai preparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Veterinārie preparāti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preparazzjonijiet veterinarji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Veterinaire producten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Preparaty weterynaryjne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Preparações veterinárias.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Veterinare (Produse -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zverolekárske prípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Veterinarski pripravki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Veterinärpreparat.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<SeniorityDetails>
+<Seniority>
+<SeniorityCountryCode>BX</SeniorityCountryCode>
+<SeniorityApplicationNumber>452642</SeniorityApplicationNumber>
+<SeniorityFilingDate>1980-05-27</SeniorityFilingDate>
+<SeniorityRegistrationNumber>452642</SeniorityRegistrationNumber>
+<SeniorityRegistrationDate>1980-05-27</SeniorityRegistrationDate>
+<InternationalTradeMarkCode>Madrid</InternationalTradeMarkCode>
+<SeniorityPartialIndicator>false</SeniorityPartialIndicator>
+<SeniorityStatusCode>Accepted</SeniorityStatusCode>
+</Seniority>
+<Seniority>
+<SeniorityCountryCode>DE</SeniorityCountryCode>
+<SeniorityApplicationNumber>452642</SeniorityApplicationNumber>
+<SeniorityFilingDate>1980-05-27</SeniorityFilingDate>
+<SeniorityRegistrationNumber>452642</SeniorityRegistrationNumber>
+<SeniorityRegistrationDate>1980-05-27</SeniorityRegistrationDate>
+<InternationalTradeMarkCode>Madrid</InternationalTradeMarkCode>
+<SeniorityPartialIndicator>false</SeniorityPartialIndicator>
+<SeniorityStatusCode>Accepted</SeniorityStatusCode>
+</Seniority>
+<Seniority>
+<SeniorityCountryCode>HU</SeniorityCountryCode>
+<SeniorityApplicationNumber>452642</SeniorityApplicationNumber>
+<SeniorityFilingDate>2006-08-02</SeniorityFilingDate>
+<SeniorityRegistrationNumber>452642</SeniorityRegistrationNumber>
+<InternationalTradeMarkCode>Madrid</InternationalTradeMarkCode>
+<SeniorityPartialIndicator>false</SeniorityPartialIndicator>
+<SeniorityStatusCode>Accepted</SeniorityStatusCode>
+</Seniority>
+<Seniority>
+<SeniorityCountryCode>IT</SeniorityCountryCode>
+<SeniorityApplicationNumber>452642</SeniorityApplicationNumber>
+<SeniorityFilingDate>1980-05-27</SeniorityFilingDate>
+<SeniorityRegistrationNumber>452642</SeniorityRegistrationNumber>
+<SeniorityRegistrationDate>1980-05-27</SeniorityRegistrationDate>
+<InternationalTradeMarkCode>Madrid</InternationalTradeMarkCode>
+<SeniorityPartialIndicator>false</SeniorityPartialIndicator>
+<SeniorityStatusCode>Accepted</SeniorityStatusCode>
+</Seniority>
+<Seniority>
+<SeniorityCountryCode>PL</SeniorityCountryCode>
+<SeniorityApplicationNumber>452642</SeniorityApplicationNumber>
+<SeniorityFilingDate>2006-08-02</SeniorityFilingDate>
+<SeniorityRegistrationNumber>452642</SeniorityRegistrationNumber>
+<InternationalTradeMarkCode>Madrid</InternationalTradeMarkCode>
+<SeniorityPartialIndicator>false</SeniorityPartialIndicator>
+<SeniorityStatusCode>Accepted</SeniorityStatusCode>
+</Seniority>
+<Seniority>
+<SeniorityCountryCode>RO</SeniorityCountryCode>
+<SeniorityApplicationNumber>452642</SeniorityApplicationNumber>
+<SeniorityFilingDate>2006-08-02</SeniorityFilingDate>
+<SeniorityRegistrationNumber>452642</SeniorityRegistrationNumber>
+<InternationalTradeMarkCode>Madrid</InternationalTradeMarkCode>
+<SeniorityPartialIndicator>false</SeniorityPartialIndicator>
+<SeniorityStatusCode>Accepted</SeniorityStatusCode>
+</Seniority>
+</SeniorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/075</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/144</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-31</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>64489</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

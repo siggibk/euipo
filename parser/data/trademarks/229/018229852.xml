@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-28T12:49:04</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229852</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229852</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-25</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>BOUHMIDI</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>36</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Финансови сделки; Финансови съвети; Финансови анализи, По-специално анализи на финансови портфейли; Инвестиционни услуги; Управление на финансови портфейли; Проучвателни услуги, свързани с финанси; Предоставяне на финансови данни, по-специално на финансови индикатори; Финансово прогнозиране; Управление на финасови активи; Финансова информация.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby finanční; Finanční poradenství; Finanční analýza, Zejména analýzy finančního portfolia; Investiční služby; Správa finančního portfolia; Služby týkající se průzkumu v oblasti financí; Poskytování finančních dat, zejména finančního indikátoru; Finanční prognózy; Správa finančních aktiv; Finanční informace.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Finansiel virksomhed; Rådgivning vedrørende finansiering; Finansielle analyser, Især analyse af finansielle porteføljer; Investeringsvirksomhed; Finansiel porteføljestyring; Finansielle undersøgelser; Formidling af finansielle data, især af et finansindeks; Finansielle prognoser; Forvaltning af finansielle aktiver; Finansiel information.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Finanzdienstleistungen; Finanzberatung; Finanzanalysen, insbesondere Finanzportfolioanalysen; Finanzanlagegeschäfte; Finanz-Portfolio-Management; Finanzrecherchedienste; Bereitstellen von Finanzdaten, insbesondere eines Finanzindikators; Finanzprognosen; Finanzanlagenverwaltung; Erteilung von Finanzauskünften.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Οικονομικές υπηρεσίες· Συμβουλευτική χρηματοοικονομική· Ανάλυση χρηματοοικονομική, Ειδικότερα χρηματοπιστωτικές αναλύσεις χαρτοφυλακίου· Επενδυτικές υπηρεσίες· Οικονομικές υπηρεσίες διαχείρισης χαρτοφυλακίου· Υπηρεσίες οικονομικής έρευνας· Διάθεση χρηματοπιστωτικών δεδομένων, ειδικότερα χρηματοπιστωτικών δεικτών· Χρηματοοικονομική πρόβλεψη· Υπηρεσίες διαχείρισης χρηματοπιστωτικών προϊόντων· Πληροφόρηση χρηματοοικονομική.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Finance services; Financial advice; Financial analysis, In particular financial portfolio analysis; Financial investment; Financial portfolio management; Research services relating to finance; Providing of financial data, that provided by a financial indicator; Financial forecasting; Management of financial assets; Financial information.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios financieros; Asesoramiento financiero; Análisis financiero, En particular, análisis de carteras financieras; Inversiones financieras; Gestión de carteras financieras; Servicios de investigación relacionados con finanzas; Puesta a disposición de datos financieros, en concreto, de un indicador financiero; Previsiones financieras; Administración de patrimonios financieros; Información financiera.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Finantsteenused; Finantsnõustamine; Finants-, rahandusanalüüsid, Eelkõige finantsportfelli analüüsid; Investeerimisteenused; Finantsportfelli juhtimine; Finantsuuringud; Finantsandmete, eelkõige finantsindikaatori andmete pakkumine; Finantsprognoosid; Finantsvarade haldamine; Finantsteave, -info, rahandusteave, -info.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Rahoituspalvelut; Rahatalouteen liittyvän neuvonnan tarjoaminen; Rahoitusanalyysit, Erityisesti rahoitussalkkuanalyysit; Sijoituspalvelut; Rahataloudellisten arvopaperisijoitusten hallinta (portfoliot); Rahataloudelliset tutkimuspalvelut; Taloustietojen, erityisesti taloudellisten indikaattorien, tarjoaminen; Rahoitusennusteet; Rahoitusomaisuuden hallintapalvelut; Rahoitusneuvonta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services financiers; Prestation de conseils financiers; Analyse financière, En particulier analyses de portefeuilles financiers; Investissements financiers; Gestion de portefeuilles financiers; Services de recherche financière; Mise à disposition de données financières, en particulier d'un indicateur financier; Prévisions financières; Gestion d'actifs financiers; Informations financières.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Financijske usluge; Financijsko savjetovanje; Financijska analiza, Posebno analize financijskih portfelja; Usluge ulaganja; Upravljanje financijskim portfeljem; Usluge istraživanja u svezi s financijama; Pružanje financijskih podataka, posebno financijskog pokazatelja; Financijska prognoza; Financijsko upravljanje imovinom; Financijske obavijesti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Pénzügyi szolgáltatások; Pénzügyi tanácsok; Pénzügyi elemzések, Elsősorban pénzügyi portfóliók elemzése; Befektetési szolgáltatások; Pénzügyi portfóliókezelés; Pénzügyi kutatási szolgáltatások; Pénzügyi adatok, elsősorban pénzügyi mutatók biztosítása; Pénzügyi előrejelzés; Pénzügyi eszközök ügyintézése; Pénzügyi információs szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Affari finanziari; Consulenza finanziaria; Analisi finanziaria, In particolare analisi del portafoglio finanziario; Servizi in materia di investimenti; Gestione di portafogli finanziari; Servizi di rricerca in materia di finanza; Fornitura di dati finanziari, in particolare di un indicatore finanziario; Previsioni finanziarie; Gestione di beni finanziari; Informazioni finanziarie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Finansinės paslaugos; Finansiniai patarimai; Finansų analizė, Ypač finansinių paketų analizavimas; Investavimo paslaugos; Finansinio portfelio valdymas; Tyrimų paslaugos, susijusios su finansais; Finansinių duomenų, ypač finansinių rodiklių, teikimas; Finansinis prognozavimas; Finansinio turto valdymas; Finansinė informacija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Finanšu pakalpojumi; Finanšu konsultācijas; Finanšu analīze, Jo īpaši finanšu portfeļa analīzes; Investīciju pakalpojumi; Finanšu portfeļa vadība; Finanšu izpētes pakalpojumi; Finanšu datu, jo īpaši finanšu rādītāju nodrošināšana; Finanšu prognozēšana; Finanšu aktīvu pārvaldība; Finanšu informācijas sniegšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi f'finanzi; Parir finanzjarju; Analiżi (Finanzjarja), Speċjalment analiżi tal-portafoll finanzjarju; Servizzi ta' nvestiment; Ġestjoni ta' portafolli finanzjarji; Servizzi ta' riċerka relatati mal-finanzi; Provvista ta' data finanzjarja, speċjalment ta' indikatur finanzjarju; Tbassir finanzjarju; Il-ġestjoni ta' assi finanzjarji; Informazzjoni finanzjarja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Financiële diensten; Financieel advies; Financiële analyse, Met name analyses van financiële portfolio's; Beleggingsdiensten; Beheer van financiële portefeuilles; Diensten op het gebied van financieel onderzoek; Verstrekking van financiële gegevens, met name van een financiële indicator; Financiële prognoses; Beheer van financiële goederen; Financiële informatie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi finansowe; Doradztwo finansowe; Analizy finansowe, W szczególności analiza portfeli finansowych; Usługi inwestycyjne; Zarządzanie portfelem finansowym; Usługi badań dotyczących finansów; Dostarczanie danych finansowych, w szczególności wskaźników finansowych; Prognozy finansowe; Zarządzanie aktywami finansowymi; Informacje finansowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços financeiros; Consultadoria financeira; Análise financeira, Em especial análises de carteiras financeiras; Serviços de investimento; Gestão de carteiras financeiras; Serviços de pesquisa relacionados com finanças; Disponibilização de dados financeiros, em especial indicadores financeiros; Previsões financeiras; Gestão do ativos financeiros; Informação financeira.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii financiare; Consiliere financiară; Analiză financiară, În special analiza portofoliilor financiare; Servicii de investiţii; Gestiunea portofoliului financiar; Studii financiare; Furnizare de date financiare, în special a unui indicator financiar; Previziuni financiare; Gestiunea activelor financiare; Informaţii financiare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Služby v oblasti finančníctva; Finančné poradenstvo; Finančné analýzy, Predovšetkým služby analýzy finančného portfólia; Investičné služby; Manažment finančného portfólia; Výskumné služby v oblasti financií; Poskytovanie finančných údajov, predovšetkým finančného ukazovateľa; Finančné predpovede; Riadenie finančného kapitálu; Finančné informácie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Finančne storitve; Finančno posvetovanje; Finančna analiza, Zlasti analize finančnega portfelja; Investicijske storitve; Upravljanje s finančnim portfeljem; Finančno raziskovalne storitve; Nudenje finančnih podatkov, zlasti finančnega kazalnika; Finančno napovedovanje; Upravljanje finančnih sredstev; Finančno informiranje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Finansiella tjänster; Finansiell rådgivning; Finansiella analyser, Speciellt finansportföljanalyser; Finansiell investering; Finansiell värdepappersförvaltning; Finansiella undersökningstjänster; Upplåtande av finansdata, speciellt en finansindikator; Finansiell prognosticering; Förvaltning av finansiella tillgångar; Finansiell information.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Подготвяне и провеждане на семинари, по-специално в областта на финансовото дело; Подготовка и провеждане на курсове за допълнителна квалификация, по-специално в областта на финансовото дело.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Příprava a realizace seminářů, zejména v oblasti finančních služeb; Příprava a realizace kurzů dalšího vzdělávání, zejména v oblasti finančních služeb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Forberedelse og ledelse af seminarer, især inden for finansiel virksomhed; Forberedelse og ledelse af videreuddannelseskurser, især inden for finansiel virksomhed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Vorbereitung und Durchführung von Seminaren, insbesondere auf dem Gebiet des Finanzwesens; Vorbereitung und Durchführung von Fortbildungskursen, insbesondere auf dem Gebiet des Finanzwesens.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Προετοιμασία και διεξαγωγή σεμιναρίων, ειδικότερα στον χρηματοπιστωτικό τομέα· Προετοιμασία και διεξαγωγή μαθημάτων συνεχούς επιμόρφωσης, ειδικότερα στον χρηματοπιστωτικό τομέα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Preparation and conducting of seminars, in particular in the field of financial affairs; Preparation and conducting of education courses, in particular in the field of financial affairs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Preparación y realización de seminarios, en particular, en el ámbito de las finanzas; Preparación y realización de cursos de formación continua, en particular, en el ámbito de las finanzas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Seminaride ettevalmistamine ja läbiviimine, eelkõige finantstehingute valdkonnas; Täiendõppekursuste ettevalmistamine ja läbiviimine, eelkõige finantstehingute valdkonnas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Seminaarien valmistelu ja toteuttaminen, erityisesti rahoituspalvelujen alalla; Jatkokoulutuskurssien valmistelu ja toteuttaminen, erityisesti rahoituspalvelujen alalla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Préparation et réalisation de séminaires, en particulier dans le domaine des finances; Préparation et réalisation de cours de formation continue, en particulier dans le domaine des finances.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Priprema i provođenje seminara, posebno u području financija; Priprema i provođenje tečajeva za usavršavanje, posebno u području financija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szemináriumok előkészítése és lebonyolítása, elsősorban pénzügyi területen; Továbbképző kurzusok előkészítése és lebonyolítása, elsősorban pénzügyi területen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Preparazione e realizzazione di seminari, in particolare nel settore finanziario; Preparazione e realizzazione di corsi di formazione continua, in particolare nel settore finanziario.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Seminarų, ypač finansų srities seminarų, rengimas ir vedimas; Kvalifikacijos kėlimo kursų, ypač finansų srities kvalifikacijos kėlimo kursų, rengimas ir vedimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Semināru sagatavošana un vadīšana, jo īpaši finanšu jomā; Apmācību kursu sagatavošana un vadīšana, jo īpaši finanšu jomā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tħejjija u tmexxija ta' seminars, speċjalment fil-qasam finanzjarju; Tħejjija u tmexxija ta' taħriġ ta' taħriġ avvanzat, speċjalment fil-qasam finanzjarju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Het voorbereiden en houden van seminars, met name op het gebied van financiële zaken; Het voorbereiden en houden van bijscholingscursussen, met name op het gebied van financiële zaken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Przygotowywanie i przeprowadzanie seminariów, zwłaszcza w dziedzinie finansów; Przygotowywanie i przeprowadzanie kursów kształcenia ustawicznego, w szczególności w zakresie finansów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Preparação e realização de seminários, em especial no domínio financeiro; Preparação e realização de cursos de formação contínua, em especial no domínio financeiro.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Prelucrare și realizare de seminare, în special în domeniul problemelor financiare; Pregătire și cursuri de formare continuă, în special în domeniul financiar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Príprava a vedenie seminárov, predovšetkým v oblasti finančných služieb; Príprava a vedenie vzdelávacích kurzov, predovšetkým v oblasti finančných služieb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Priprava in izvajanje seminarjev, zlasti na področju financ; Priprava in izvajanje tečajev dodatnega usposabljanja, zlasti na področju financ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Förberedelse och genomförande av seminarier, speciellt inom området finansverksamhet; Förberedelse och genomförande av fortbildningskurser, speciellt inom området finansiell verksamhet.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/091</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/163</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10793</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

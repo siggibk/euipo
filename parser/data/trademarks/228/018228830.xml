@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-31T12:15:42</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228830</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228830</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="6">Application under examination</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-04-23</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>THE SOCIAL VALUE PORTAL</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="en">Computer software; computer programs; computer firmware; computer applications for creating, authoring, downloading, transmitting, receiving, editing, extracting, encoding, decoding, displaying, storing and organising text, graphics, images and electronic publications; software applications delivered online through a web-browser or as a downloadable application or application delivered to any computing device including desktop, laptop, tablet computers and mobile devices; computer software for e-commerce and downloadable magazines or downloadable publications; data recordings including audio, video, still and moving images; computer software and computer applications for accessing, browsing and searching online databases; electronic databases; downloadable electronic publications; downloadable publications in electronic form, supplied online from databases provided on the Internet; published material in digital format; digital and analogue media for recording, reproducing, carrying, storing, processing, manipulating, transmitting, broadcasting, retrieving and reproducing downloadable publications, downloadable music, downloadable sounds, downloadable images, downloadable text; downloadable sounds, downloadable images, downloadable text and information provided by telecommunications networks, by online delivery and by way of the Internet and the worldwide web; information stored in electronic, digital and magnetic form; downloadable software applications; parts and fittings for the aforesaid goods.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="en">Business management; business administration; business consultancy; business advice; business research; commercial evaluation services; business forecasting; business appraisals; preparation of business plans; business reports; business investigations; evaluation of business opportunities; administrative services; business project management; procurement services; procurement of contracts; supply chain management services; business analysis; business surveys; data collection services; data processing; data management; compilation of data; administrative data processing; business and marketing data analysis; data retrieval services; interpretation and analysis of business, market, market research and marketing data; collating, organising, collecting, analysing and systemising of business, market, market research and marketing data; compiling of statistics; collecting business and market statistics; preparation of statistics; processing of statistics; marketing services; marketing analysis; marketing studies; market research services; market survey services; media consultancy services in the field of business, market research, marketing data and advertising; marketing research; preparation of marketing plans; planning of marketing strategies; public relations services; publicity services; advertising; online advertising services; information, advice and consultancy services in relation to the aforesaid services.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>38</ClassNumber>
+   <GoodsServicesDescription languageCode="en">Providing access to portals on the Internet; providing access to online platforms and portals; electronic communication services; providing user access to data on the internet; arranging access to databases via the internet; distribution of data via the internet; internet based telecommunications; provision of online forums; the provision of discussion forums; telecommunication services; data transmission and reception services via telecommunication means; electronic exchange of data stored in databases accessible via telecommunication networks; transfer of data by telecommunication; digital transmission of data; electronic and telecommunication transmission services; provision of telecommunication access and links to computer databases and the internet; telecommunication of information; transmission and reception of database information via telecommunication networks; value added network (communication) services; information, advice and consultancy services in relation to the aforesaid services.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="en">Education, training, instructional and teaching services; provision of training courses, workshops, lectures and seminars; provision of training facilities and instructional materials; providing on-line tutorials; the provision of sound and video recordings for training purposes; publication of books, booklets, brochures, leaflets, presentation documents, training manuals, magazines, journals, periodical publications, reports, newspapers, newsletters, guides, educational, instructional and teaching materials; providing on-line electronic publications (non-downloadable); production, presentation and distribution of audio, video, still and moving images, and data; organising seminars, workshops, conferences, exhibitions, lectures, meetings, award ceremonies, social events and public speaking events; provision of recreational services and facilities; entertainment services; arranging and conducting of entertainment, sporting and educational events for charitable purposes; information, advice and consultancy services in relation to the aforesaid services.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="en">Software as a service; software hosting services; rental of software; platform as a service; design and development of computer software; installation and customisation of computer applications software; software consultancy services; software customisation services; electronic data storage services; data mining; computer services for the analysis of data; technical data analysis services; database design; database maintenance; information, advice and consultancy services in relation to the aforesaid services.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082071</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>16704</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-09T10:07:58</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063879-0007</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-26</ReceivingOfficeDate>
+<DesignIdentifier>001063879-0007</DesignIdentifier>
+<ApplicationNumber>001063879</ApplicationNumber>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-26</ApplicationDate>
+<RegistrationDate>2008-12-26</RegistrationDate>
+<PublicationDate>2009-01-21</PublicationDate>
+<ApplicationReference>BDA/GT/NJD08L0217</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<VerbalElementText>JLB ACCEPTS AS 1 DESIGN: 19/1</VerbalElementText>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-26</ExpiryDate>
+<EffectiveDate>2008-12-26</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-09-25</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061774634</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063879_0007/001063879_0007_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061774636</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063879_0007/001063879_0007_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061774638</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063879_0007/001063879_0007_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061774640</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063879_0007/001063879_0007_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061774643</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063879_0007/001063879_0007_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061774645</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063879_0007/001063879_0007_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061774648</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063879_0007/001063879_0007_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Колички за кукли</IndicationProduct>
+       <IndicationProduct languageCode="cs">Kočárky pro panenky</IndicationProduct>
+       <IndicationProduct languageCode="da">Dukkevogne</IndicationProduct>
+       <IndicationProduct languageCode="de">Puppenwagen</IndicationProduct>
+       <IndicationProduct languageCode="el">Καρότσια για κούκλες</IndicationProduct>
+       <IndicationProduct languageCode="en">Prams for dolls</IndicationProduct>
+       <IndicationProduct languageCode="es">Cochecitos de muñecas</IndicationProduct>
+       <IndicationProduct languageCode="et">Nukuvankrid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Lastenvaunut nukeille</IndicationProduct>
+       <IndicationProduct languageCode="fr">Poussettes pour poupées</IndicationProduct>
+       <IndicationProduct languageCode="hu">Babakocsik játékbabáknak</IndicationProduct>
+       <IndicationProduct languageCode="it">Carrozzine per bambole</IndicationProduct>
+       <IndicationProduct languageCode="lt">Lėlių vežimėliai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Leļļu ratiņi</IndicationProduct>
+       <IndicationProduct languageCode="mt">Prammijiet tal-pupi</IndicationProduct>
+       <IndicationProduct languageCode="nl">Poppenwagens</IndicationProduct>
+       <IndicationProduct languageCode="pl">Wózki dla lalek</IndicationProduct>
+       <IndicationProduct languageCode="pt">Carrinhos de bonecas</IndicationProduct>
+       <IndicationProduct languageCode="ro">Cărucioare pentru păpuşi</IndicationProduct>
+       <IndicationProduct languageCode="sk">Kočíky pre bábiky</IndicationProduct>
+       <IndicationProduct languageCode="sl">Otroški vozički za lutke</IndicationProduct>
+       <IndicationProduct languageCode="sv">Dockvagnar</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>21.01</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/012</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-21</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/224</PublicationIdentifier>
+        <PublicationSequenceNumber>325312</PublicationSequenceNumber>
+        <PublicationSection>B.9.2</PublicationSection>
+        <PublicationDate>2009-11-06</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/225</PublicationIdentifier>
+        <PublicationSequenceNumber>1098440</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2013-11-26</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/229</PublicationIdentifier>
+        <PublicationSequenceNumber>1102677</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2013-12-02</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/184</PublicationIdentifier>
+        <PublicationSequenceNumber>100689403</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2018-09-27</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/171</PublicationIdentifier>
+        <PublicationSequenceNumber>102562429</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2020-09-08</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>332246</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>39887</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003526328</RecordIdentifier>
+<BasicRecordKind>Appointment Replacement and Deletion of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>325312</PublicationSequenceNumber>
+           <PublicationSection>B.9.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-11-06</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>007551363</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1098440</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-11-26</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006987600</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1102677</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-12-02</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012442933</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100689403</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-09-27</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012812620</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>102562429</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-09-09</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

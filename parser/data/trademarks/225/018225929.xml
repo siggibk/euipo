@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:10</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225929</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225929</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>fi</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>MAGYAR</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162306334</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/225/018225929/000162306334.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>01.01.02</CategoryCode>
+          <CategoryCode>01.01.99</CategoryCode>
+          <CategoryCode>05.13.07</CategoryCode>
+          <CategoryCode>24.01.18</CategoryCode>
+          <CategoryCode>24.01.20</CategoryCode>
+          <CategoryCode>24.07.01</CategoryCode>
+          <CategoryCode>24.07.23</CategoryCode>
+          <CategoryCode>25.01.06</CategoryCode>
+          <CategoryCode>25.01.25</CategoryCode>
+          <CategoryCode>25.07.21</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>33</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Вино.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Víno.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Vin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Weine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κρασί.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Wines.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Vinos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Vein.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Viinit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Vino.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Borok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Vino.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vynas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Vīni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Inbid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Wijn.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Wino.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vinho.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Vin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Víno.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Vino.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Viner.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>152190</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>50640</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017824056</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>50640</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-05-11</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

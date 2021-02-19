@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-31T14:40:56</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228818</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228818</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-26</RegistrationDate>
+<ApplicationLanguageCode>pt</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-31</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>HEALTHYFI  Advanced Healthcare Knowledge</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162458003</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/228/018228818/000162458003.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.05</CategoryCode>
+          <CategoryCode>26.04.22</CategoryCode>
+          <CategoryCode>26.04.98</CategoryCode>
+          <CategoryCode>26.11.22</CategoryCode>
+          <CategoryCode>27.05.07</CategoryCode>
+          <CategoryCode>29.01.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Търговско подпомагане, търговско управление и административни услуги; Рекламни, маркетингови и промоционални услуги; Консултантски услуги в областта на бизнеса; Организиране на търговски и бизнес контакти; Посреднически услуги при сключване на търговски сделки за трети лица; Продуктови демонстрации и продуктово представяне; Рекламиране на стоки и услуги за трети лица.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pomoc v obchodní a podnikatelské činnosti, management a administrativní služby; Reklamní, marketingové a propagační služby; Obchodní konzultační a poradenské služby; Zprostředkování obchodních a komerčních kontaktů; Zprostředkování obchodů pro třetí strany; Služby předvádění výrobků a vystavování zboží; Propagace zboží a služeb pro třetí osoby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Bistand ved forretningsudførelse, -ledelse og -administration; Virksomhed vedrørende reklame, marketing og salgsfremstød; Virksomhedsrådgivning og -konsultation; Tilrettelæggelse af handels- og erhvervskontakter; Formidling af handelsvirksomhed for tredjepart; Fremvisning og demonstration af produkter; Salgsfremmende foranstaltninger for andres varer og tjenesteydelser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Hilfe in Geschäftsangelegenheiten, Geschäftsführung und administrative Dienstleistungen; Werbung, Marketing und Verkaufsförderung; Unternehmensberatung; Vermittlung von Handels- und Wirtschaftskontakten; Vermittlung von Handelsgeschäften für Dritte; Produktvorführungen und -präsentationen; Verkaufsförderung für Waren und Dienstleistungen Dritter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Επιχειρηματική υποστήριξη, υπηρεσίες διοίκησης και διαχείρισης· Διαφήμιση, ενέργειες πώλησης (μάρκετινγκ) και υπηρεσίες προώθησης· Συμβουλευτικές υπηρεσίες και υπηρεσίες γνωμοδότησης για επιχειρήσεις· Μεσιτεία εμπορικών και οικονομικών επαφών· Διαμεσολάβηση σε εμπορικές επιχειρήσεις για λογαριασμό τρίτων· Υπηρεσίες επιδείξεις και προβολής προϊόντων· Υπηρεσίες προώθησης προϊόντων και υπηρεσιών για λογαριασμό τρίτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Business assistance, management and administrative services; Advertising, marketing and promotional services; Business consultancy and advisory services; Arranging of commercial and business contacts; Mediation of trade business for third parties; Product demonstrations and product display services; Promoting the goods and services of others.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de asistencia, dirección y administración de negocios; Servicios promocionales, de marketing y publicidad; Servicios de asesoramiento y consultoría de empresas; Organización de contactos comerciales y empresariales; Intermediación en negocios comerciales para terceros; Servicios de demostración y prueba de productos; Servicios de promoción de productos y servicios de terceros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ärijuhtimisteenused ja ärialane abi; Reklaam ja turundus; Ärikonsultatsioonid; Kaubandus- ja ärikontaktide vahendamine; Kaubandusvahendus; Toodete demonstreerimise ja väljapaneku teenused; Teiste isikute kaupade ja teenuste reklaamimine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Yritystoiminnan avustamis-, liikkeenjohto- ja hallintopalvelut; Mainonta-, markkinointi- ja myynninedistämispalvelut; Liiketoiminnan konsultointi- ja neuvontapalvelut; Kauppa- ja liikeyhteyksien välittäminen; Kauppaliiketoiminnan välitys kolmansien osapuolten lukuun; Tuote-esittelyt ja tuotteiden näytteillepanopalvelut; Tavaroiden ja palveluiden myynninedistäminen muille.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services d'aide et de gestion des affaires et services administratifs; Services de publicité, de marketing et de promotion; Services de consultation et de conseil relatifs aux affaires; Mise en relation entre contacts commerciaux et professionnels; Médiation d'opérations commerciales pour des tiers; Services de présentation et de démonstration de produits; Promotion des produits et des services de tiers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge poslovne pomoći, upravljanja i administracije; Usluge oglašavanja, marketinga i promidžbe; Usluge poslovnog savjetovanja i savjetodavne poslovne usluge; Posredovanje komercijalnih i poslovnih kontakata; Posredovanje u trgovinskim poslovima za treće osobe; Usluge predstavljanja i izlaganja proizvoda; Promidžba robe i usluga za druge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Üzleti segítségnyújtás, menedzseri és adminisztratív szolgáltatások; Reklámozási, marketing és promóciós szolgáltatások; Üzleti konzultációs és tanácsadási szolgáltatások; Kereskedelmi és gazdasági kapcsolatok közvetítése; Kereskedelmi üzletek közvetítése; Termékbemutatók és termék megjelenítési szolgáltatások; Mások termékeinek és szolgáltatásainak reklámozása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Assistenza negli affari, servizi gestionali ed amministrativi; Servizi pubblicitari, Servizi pubblicitari, di marketing e promozionali di ricerche di mercato e promozionali; Servizi di consulenza e di assistenza aziendale; Mediazione di contatti commerciali ed economici; Mediazione di affari commerciali per conto terzi; Servizi di dimostrazione e di esposizione di prodotti; Promozione di beni e servizi per conto terzi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Verslo pagalba, vadyba ir administravimas; Reklamos, rinkodaros ir pardavimų skatinimo paslaugos; Verslo konsultacijos ir patarimai; Prekybos ir verslo ryšių rengimas (organizavimas); Prekybos verslo tarpininkavimas trečiosioms šalims; Prekių rodymas ir pateikimas; Prekių ir paslaugų pardavimo skatinimas (kitiems).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Atbalsta, pārvaldības un biroju administratīvie pakalpojumi uzņēmējdarbībai; Reklāmas, tirgvedības un preču noieta veicināšanas pakalpojumi; Konsultāciju un padomu sniegšana darījumu jomā; Komerciālo un biznesa kontaktu organizēšana; Tirdzniecības darījumu starpniecība trešajām personām; Preču demonstrēšanas un izstādīšanas pakalpojumi; Preču un pakalpojumu veicināšana citu vajadzībām.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' assistenza, ġestjoni u amministrazzjoni fin-negozju; Servizzi ta' reklamar, kummerċjaliżżazzjoni u promozzjonali; Servizzi ta' konsulenza u pariri dwar in-negozju; L-arranġament ta' kuntatti kummerċjali u tan-negozju; Medjazzjoni ta' negozju tal-kummerċ għal terzi persuni; Servizzi ta' dimostrazzjonijiet tal-prodotti u displej tal-prodotti; Il-promozzjoni ta' oġġetti u servizzi ta' oħrajn.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Commercieel-zakelijke assistentie, commercieel-zakelijk beheer en administratieve diensten; Reclame, marketing en promotionele diensten; Commercieel-zakelijke informatie en advisering; Bemiddeling bij handels- en commerciële contacten; Bemiddeling bij handelszaken voor derden; Demonstreren en tentoonstellen van producten; Promoten van waren en diensten van anderen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Pomoc w prowadzeniu działalności gospodarczej, zarządzanie i administrowanie działalnością gospodarczą; Usługi reklamowe, marketingowe i promocyjne; Doradztwo i konsultacje w zakresie działalności gospodarczej; Pośrednictwo w kontaktach handlowych i gospodarczych; Pośrednictwo w działalności handlowej dla osób trzecich; Usługi w zakresie wystaw i prezentacji produktów; Promowanie towarów i usług osób trzecich.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de assistência, gestão e administração de negócios; Serviços de publicidade, de marketing e de promoção; Serviços de consultadoria e assessoria empresarial; Mediação de contactos comerciais e empresariais; Mediação de negócios comerciais para terceiros; Demonstração de produtos e serviços de exibição de produtos; Promoção dos bens e serviços de terceiros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Asistenţă în afaceri, management şi servicii administrative; Servicii de publicitate, marketing şi promovare; Servicii de consultanţă în afaceri; Intermedierea de contacte comerciale şi economice; Intermediere de afaceri comerciale pentru terţi; Prezentări de produse şi servicii de afişare a produselor; Promovare de produse şi servicii pentru terţi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Pomoc pri podnikaní, riadenie podniku a obchodná správa; Reklamné, marketingové a propagačné služby; Podnikateľské konzultačné a poradenské služby; Dojednávanie obchodných a podnikateľských kontaktov; Sprostredkovanie obchodovania pre tretie osoby; Predvádzanie a vystavovanie tovaru; Propagovanie tovarov a služieb pre tretie osoby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Poslovna asistenca, poslovno vodenje in administrativne storitve; Oglaševalske, tržne in promocijske storitve; Poslovno svetovalne storitve; Posredovanje trgovskih in poslovnih stikov; Posredovanje trgovskih poslov za tretje osebe; Storitve promocije in razstavljanja izdelkov; Promocija blaga in storitev drugih.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Företagsassistans, -ledning och -administration; Reklam, marknadsföring och säljfrämjande tjänster; Företagskonsultation och -rådgivning; Förmedling av handels- och ekonomiska kontakter; Förmedling av handelsaffärer för tredje man; Demonstration och visning av produkter; Marknadsföring av varor och tjänster för annans räkning.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за образование, развлечение и спорт; Организиране на конференции, изложения и конкурси; Услуги за образование и обучение; Образование и обучение; Организиране на конгреси и конференции за културни и образователни цели; Образование, развлечение и спорт.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby v oblasti vzdělávání, zábavy a sportu; Organizování konferencí, výstav a soutěží; Vzdělávací a školicí služby; Vzdělávání a výuka; Organizování kongresů a konferencí pro kulturní a vzdělávací účely; Výchova, vzdělávání, zábava a sportovní činnost.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Uddannelsesvirksomhed, underholdningsvirksomhed og sportsydelser; Organisering af konferencer, udstillinger og konkurrencer; Uddannelses- og undervisningsvirksomhed; Uddannelses og undervisningsvirksomhed; Organisering af kongresser og konferencer med kulturelt og uddannelsesmæssigt sigte; Uddannelsesvirksomhed, underholdningsvirksomhed og sportsarrangementer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bildung, Erziehung, Unterhaltung und Sport; Organisation und Durchführung von Konferenzen, Ausstellungen und Wettbewerben; Bildung, Erziehung und Unterricht; Bildung, Erziehung und Unterricht; Organisation von Kongressen und Konferenzen für kulturelle und Bildungszwecke; Bildung, Erziehung, Unterhaltung und Sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες εκπαίδευσης, ψυχαγωγίας και αθλητισμού· Οργάνωση συνεδρίων, εκθέσεων και διαγωνισμών· Υπηρεσίες εκπαίδευσης και διδασκαλίας· Εκπαιδευση και Διδασκαλία· Οργάνωση συνεδρίων για πολιτιστικούς και εκπαιδευτικούς σκοπούς· Εκπαίδευση, ψυχαγωγία και σπορ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Education, entertainment and sport services; Organisation of conferences, exhibitions and competitions; Education and instruction services; Education and instruction; Organisation of congresses and conferences for cultural and educational purposes; Education, entertainment and sports.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de educación, entretenimiento y de actividades deportivas; Organización de conferencias, exhibiciones y competiciones; Servicios de educación e instrucción; Educación e instrucción; Organización de congresos y conferencias con fines culturales y educativos; Educación, entretenimiento y actividades deportivas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Haridus-, meelelahutus- ja sporditeenused; Konverentside, näituste ja võistluste korraldamine; Haridus- ja õpetusteenused; Haridus ja juhendamine; Kultuuri- ja hariduskongresside ning -konverentside organiseerimine; Haridus, meelelahutus ja spordialane tegevus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Koulutus-, ajanviete- ja urheilupalvelut; Konferenssien, näyttelyjen ja kilpailujen järjestäminen; Koulutus- ja opetuspalvelut; Koulutus ja ohjaus; Kongressien ja konferenssien organisointi kulttuuri- ja koulutustarkoituksiin; Koulutus, ajanviete ja urheilu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services d'éducation, de divertissement et de sport; Organisation de conférences, expositions et compétitions; Services d'éducation et d'instruction; Éducation et instruction; Organisation de congrès et conférences à des fins culturelles et éducatives; Éducation, loisirs et sports.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Obrazovne, zabavne i sportske usluge; Organizacija konferencija, izložbi i natjecanja; Usluge obrazovanja i podučavanja; Obrazovanje i poduka; Organizacija kongresa i konferencija za kulturne i obrazovne svrhe; Obrazovanje, zabava i sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Oktatási, szórakoztatási és sportszolgáltatások; Konferenciák, kiállítások és versenyek szervezése; Oktatási és képzési szolgáltatások; Oktatás és tanítás; Kulturális és oktatási célú kongresszusok és konferenciák szervezése; Oktatás, szórakozás és sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi relativi a educazione, divertimento e sport; Organizzazione di conferenze, esposizioni e concorsi; Servizi relativi a educazione e istruzione; Educazione e formazione; Organizzazione di congressi e conferenze a fini culturali ed educativi; Educazione, intrattenimento e sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Švietimo, pramogų ir sporto paslaugos; Konferencijų, parodų ir varžybų organizavimas; Švietimo ir instruktavimo paslaugos; Švietimas ir instruktavimas; Suvažiavimų ir konferencijų organizavimas kultūrinėms ir švietimo reikmėms; Švietimas, pramogos ir sportinė veikla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Izglītības, izklaides un sporta pakalpojumi; Konferenču, izstāžu un sacensību organizēšana; Izglītības un instruēšanas pakalpojumi; Audzināšana un apmācība; Kongresu un konferenču organizēšana kultūras un izglītojošiem mērķiem; Audzināšanas, izpriecu un sporta pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' edukazzjoni, ta' divertiment u ta' sports; L-organizzazzjoni ta' konferenzi, esibizzjonijiet u kompetizzjonijiet; Servizzi ta' edukazzjoni u ta' tagħlim; Edukazzjoni u istruzzjoni; Organizzazzjoni ta' kungressi u konferenzi għal skopijiet kulturali u edukattivi; Edukazzjoni, divertiment u sports.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diensten op het gebied van opvoeding, ontspanning en sport; Het organiseren van conferenties, tentoonstellingen en wedstrijden; Diensten met betrekking tot opvoeding en opleiding; Opvoeding, onderwijs en training; Organisatie van congressen en conferenties voor culturele en educatieve doeleinden; Opvoeding, ontspanning en sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi edukacyjne, rozrywkowe i sportowe; Organizowanie konferencji, wystaw i konkursów; Usługi edukacyjne i instruktażowe; Nauczanie i szkolenia; Organizowanie kongresów i konferencji w celach kulturalnych i edukacyjnych; Edukacja, rozrywka i sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de educação, entretenimento e desporto; Organização de conferências, exposições e competições; Serviços de educação e formação; Educação e Formação; Organização de congressos e conferências com fins culturais e educativos; Educação, entretenimento e desporto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii educative, de divertisment şi sportive; Organizare de conferinţe, expoziţii şi concursuri; Servicii educative şi de instruire; Educaţie şi instruire; Organizare de congrese şi de conferinţe în scopuri culturale şi educative; Educaţie, divertisment şi sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Služby v oblasti vzdelávania, zábavy a športu; Organizovanie konferencií, výstav a súťaží; Výchovné a vzdelávacie služby; Výchovné a vzdelávacie služby; Organizovanie kongresov a konferencií na kultúrne a vzdelávacie účely; Vzdelávanie, zábavná a športová činnosť.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Izobraževalne, razvedrilne in športne storitve; Organizacija konferenc, razstav in tekmovanj; Storitve izobraževanja in poučevanja; Izobraževanje in poučevanje; Organizacija kongresov in konferenc za kulturne in izobraževalne namene; Izobraževanje, razvedrilo in šport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tjänster avseende utbildning, underhållning och sport; Organisering av konferenser, utställningar och tävlingar; Utbildnings- och undervisningstjänster; Utbildning och instruktion; Organisation av kongresser och konferenser för kultur- och utbildningsändamål; Utbildning, underhållning och sport.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Научни и технологични услуги; Медицински и фармацевтични изследователски услуги; Консултиране в областта на научните изследвания; Научно-технологични услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vědecké a technologické služby; Lékařský a farmakologický výzkum; Poradenství v oblasti vědeckého výzkumu; Vědecké technologické služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Videnskabelige og teknologiske tjenesteydelser; Medicinske og farmakologiske forskningstjenesteydelser; Konsulentbistand inden for videnskabelig forskning; Videnskabelige teknologiske tjenesteydelser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Wissenschaftliche und technologische Dienstleistungen; Medizinische und pharmazeutische Forschungsdienstleistungen; Beratung auf dem Gebiet der wissenschaftlichen Forschung; Wissenschaftlich-technologische Dienstleistungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Επιστημονικές και τεχνολογικές υπηρεσίες· Υπηρεσίες ιατρικής και φαρμακολογικής έρευνας· Υπηρεσίες συμβούλων επί θεμάτων επιστημονικής έρευνας· Επιστημονικές τεχνολογικές υπηρεσίες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Science and technology services; Medical and pharmacological research services; Consultancy in the field of scientific research; Scientific technological services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios científicos y tecnológicos; Servicios de investigación médica y farmacológica; Consultoría en investigación científica; Servicios tecnológicos científicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Teadus- ja tehnoloogiateenused; Meditsiini- ja farmakoloogiauuringud; Teadusuuringute alased konsultatsioonid; Teadustehnoloogilised teenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tieteelliset ja teknologiset palvelut; Lääketieteelliset ja farmakologiset tutkimuspalvelut; Neuvontapalvelut tieteellisen tutkimuksen alalla; Tieteelliset teknologiapalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services scientifiques et technologiques; Services de recherches médicales et pharmacologiques; Services de conseillers dans le domaine de la recherche scientifique; Services scientifico-technologiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge znanosti i tehnologije; Usluge medicinskog i farmakološkog istraživanja; Usluge savjetnika na području znanstvenog istraživanja; Znanstvene tehnološke usluge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Tudományos és technológiai szolgáltatások; Orvosi és gyógyszerészeti kutató szolgáltatások; Tanácsadási szolgáltatások a tudományos kutatás területén; Tudományos technológiai szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di scienza e tecnologia; Servizi di ricerca medica e farmacologica; Consulenza nel campo della ricerca scientifica; Servizi di scienza e tecnologia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mokslo ir technologijų paslaugos; Medicininių ir farmacinių tyrimų paslaugos; Mokslinių tyrimų konsultacijos; Mokslo technologijų paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Zinātniskie un tehnoloģiskie pakalpojumi; Medicīniskie un farmakoloģiskie pētījumi; Konsultantu pakalpojumi zinātniskās pētniecības jomā; Zinātniski tehnoloģiskie pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi xjentifiċi u teknoloġiċi; Servizzi ta' riċerka medika u tal-farmakoloġija; Servizzi ta' konsulenti fil-qasam tar-riċerka xjentifika; Servizzi teknoloġiċi xjentifiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Wetenschappelijke en technologische diensten; Medische en farmaceutische onderzoeksdiensten; Advisering op het gebied van wetenschappelijk onderzoek; Wetenschappelijk-technologische diensten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi naukowe i technologiczne; Usługi badawcze w dziedzinie medycyny i farmakologii; Doradztwo w zakresie badań naukowych; Usługi naukowo-technologiczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de ciência e tecnologia; Serviços de pesquisa médica e farmacológica; Consultoria no domínio da investigação científica; Serviços científicos e tecnológicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii în domeniul ştiinţei şi tehnologiei; Servicii de cercetare medicală şi farmaceutică; Consultanţă în domeniul cercetării ştiinţifice; Servicii tehnologice ştiinţifice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vedecké a technologické služby; Lekársky a farmaceutický výskum; Poradenské služby v oblasti vedeckého výskumu; Vedecké technologické služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Znanstvene in tehnološke storitve; Medicinske in farmakološke raziskovalne storitve; Svetovanje na področju znanstvenih raziskav; Znanstveno-tehnološke storitve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Vetenskapliga och tekniska tjänster; Medicínsk och farmakologisk forskning; Konsultationer inom området för vetenskaplig forskning; Vetenskapliga teknologiska tjänster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/093</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-19</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/164</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082006</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

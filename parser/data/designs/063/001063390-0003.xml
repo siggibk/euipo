@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:48</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063390-0003</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063390-0003</DesignIdentifier>
+<ApplicationNumber>001063390</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-01-27</PublicationDate>
+<ApplicationReference>8417</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061819745</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063390_0003/001063390_0003_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061819746</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063390_0003/001063390_0003_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061819747</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063390_0003/001063390_0003_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061819748</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063390_0003/001063390_0003_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061819749</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063390_0003/001063390_0003_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061819750</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063390_0003/001063390_0003_6.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Метални профили</IndicationProduct>
+       <IndicationProduct languageCode="cs">Kovové profily</IndicationProduct>
+       <IndicationProduct languageCode="da">Profiler af metal</IndicationProduct>
+       <IndicationProduct languageCode="de">Metallprofile</IndicationProduct>
+       <IndicationProduct languageCode="el">Μεταλλικά προφίλ</IndicationProduct>
+       <IndicationProduct languageCode="en">Metal profiles</IndicationProduct>
+       <IndicationProduct languageCode="es">Perfiles laminados</IndicationProduct>
+       <IndicationProduct languageCode="et">Metallprofiilid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Metalliprofiilit</IndicationProduct>
+       <IndicationProduct languageCode="fr">Profilés métalliques</IndicationProduct>
+       <IndicationProduct languageCode="hu">Fémszelvények, -idomok</IndicationProduct>
+       <IndicationProduct languageCode="it">Profili metallici</IndicationProduct>
+       <IndicationProduct languageCode="lt">Metaliniai profiliai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Metāla profili</IndicationProduct>
+       <IndicationProduct languageCode="mt">Profili tal-metall</IndicationProduct>
+       <IndicationProduct languageCode="nl">Metaalprofielen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Profile metalowe</IndicationProduct>
+       <IndicationProduct languageCode="pt">Perfis metálicos</IndicationProduct>
+       <IndicationProduct languageCode="ro">Profiluri metalice</IndicationProduct>
+       <IndicationProduct languageCode="sk">Kovové profily</IndicationProduct>
+       <IndicationProduct languageCode="sl">Kovinski profili</IndicationProduct>
+       <IndicationProduct languageCode="sv">Metallprofiler</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>25.01</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/017</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-27</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2011/028</PublicationIdentifier>
+        <PublicationSequenceNumber>542069</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2011-02-04</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2011/183</PublicationIdentifier>
+        <PublicationSequenceNumber>627179</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2011-08-12</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325781</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2012/197</PublicationIdentifier>
+        <PublicationSequenceNumber>870438</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2012-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>36602</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>005079292</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>627179</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2011-08-12</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006274389</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>870438</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2012-10-15</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

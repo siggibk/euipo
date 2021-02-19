@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-11T14:54:37</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228520</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228520</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>POWER2STRETCH</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162458110</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/228/018228520/000162458110.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.11.02</CategoryCode>
+          <CategoryCode>26.11.13</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Oблекло, обувки, каски и друго защитно оборудване срещу злополуки, химикали, облъчване и огън.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Oděvy, obuv, přílby a jiné ochranné vybavení proti nehodám, chemikáliím, záření a ohni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beklædningsgenstande, fodtøj, hjelme og andet udstyr til beskyttelse mod ulykker, kemikalier, bestråling og ild.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bekleidungsstücke, Schuhwaren, Helme und andere Schutzausrüstungen zum Schutz vor Unfällen, Chemikalien, Strahlung und Feuer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ενδύματα, υποδήματα, κράνη και λοιπός προστατευτικός εξοπλισμός κατά των ατυχημάτων, των χημικών, της ακτινοβολίας και της φωτιάς.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Clothing, footwear, helmets and other safety gear protecting against accidents, chemicals, radiation and fire.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Ropa, calzado, cascos y otros equipos de protección contra caídas, productos químicos, radiación y fuego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Rõivad, jalatsid, kiivrid ja muud kaitsevahendid õnnetuste, kemikaalide, kiirguse ja tule vastu kaitsmiseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vaatteet, jalkineet, kypärät ja muut suojavarusteet onnettomuuksilta, kemikaaleilta, säteilyltä ja tulelta suojaamiseen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vêtements, chaussures, casques et autre équipements de protection contre les accidents, les produits chimiques, les rayonnements et le feu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Odjeća, obuća, kacige i druga oprema za zaštitu od nesreća, kemikalija, zračenja i vatre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ruházat, lábbeli, sisakok, és egyéb, baleset, vegyszerek, sugárzás és tűz elleni védőfelszerelések.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Abbigliamento, calzature, caschi e altre attrezzature protettive contro incidenti, prodotti chimici, radiazioni e fuoco.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Drabužiai, avalynė, šalmai ir kita apsaugos nuo nelaimingų atsitikimų, chemikalų, spinduliuotės ir ugnies įranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apģērbi, apavi, aizsargķiveres un cits aizsargājošs aprīkojms pret negadījumiem, ķimikālijām, starojumu un uguni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ilbies, xedd is-saqajn, elmi u apparat protettiv ieħor għall-ħarsien mill-inċidenti, mill-kimiċi, mir-radjazzjoni u min-nar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kleding, schoeisel, helmen en andere beschermuitrustingen tegen ongevallen, chemicaliën, straling en vuur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odzież, obuwie, kaski i inne wyposażenia zabezpieczające przed wypadkami, chemikaliami, promieniowaniem i ogniem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vestuário, calçado, capacetes e outros equipamentos de protecção contra acidentes, substâncias químicas, radiação e fogo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Articole de îmbrăcăminte, articole de încălţăminte, căşti şi alte echipamente de protecţie împotriva accidentelor, produselor chimice, radiaţiilor şi focului.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Odevy, obuv, prilby a iné ochranné vybavenie proti nehodám, chemikáliám, žiareniu a ohňu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oblačila, obutev, čelade in druga zaščitna oprema pred nesrečami, kemikalijami, sevanjem in ognjem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kläder, fotbeklädnader, hjälmar och annana skyddsutrustning mot olyckor, kemikalier, strålning och brand.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Облекло, обувки, шапки и принадлежности за глава; Работно облекло; Работно облекло; Работно облекло; Работни гащеризони; Работни обувки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Oděvy, obuv, kloboučnické zboží; Pracovní oděvy; Pracovní oděvy; Pracovní oděvy; Kombinézy; Pracovní obuv.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beklædningsgenstande, fodtøj og hovedbeklædning; Virksomhedsbeklædning; Arbejdsbeklædning; Arbejdstøj; Kedeldragter; Arbejdssko.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bekleidungsstücke, Schuhwaren, Kopfbedeckungen; Berufskleidung; Berufsbekleidung; Arbeitskleidung; Overalls für die Arbeit; Arbeitsschuhe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ενδύματα, υποδήματα, είδη πιλοποιίας· Επαγγελματική ενδυμασία· Φόρμες εργασίας· Ενδύματα εργασίας· Ολόσωμες φόρμες εργασίας· Παπούτσια εργασίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Clothing, footwear, headgear; Work clothing; Workclothes; Work clothes; Coveralls; Work shoes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Prendas de vestir, calzado, artículos de sombrerería; Indumentaria corporativa; Ropa de trabajo; Ropa de trabajo; Monos de trabajo; Calzado de trabajo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Rõivad, jalatsid, peakatted; Töörõivad; Ametiriided; Tööriietus; Töökombinesoonid; Tööjalatsid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vaatteet, jalkineet, päähineet; Työasut; Työvaatteet; Työvaatteet; Suojahaalarit; Työjalkineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vêtements, chaussures, chapellerie; Vêtements de fonction; Vêtements professionnels; Vêtements à usage professionnel; Bleus de travail; Chaussures de chantier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Odjeća, obuća, pokrivala za glavu; Zaštitne pregače; Radna odjeća; Radna odjeća; Kombinezoni; Radne cipele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ruházati cikkek, cipők, kalapáruk; Munkaruhák; Munkaruházati cikkek; Munkaruházati cikkek; Kezeslábas overallok; Munkacipők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Articoli di abbigliamento, scarpe, cappelleria; Tenute professionali; Abiti da lavoro; Abbigliamento da lavoro; Tute da lavoro; Calzature da lavoro.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Drabužiai, apranga, avalynė, galvos apdangalai; Darbiniai drabužiai; Profesiniai drabužiai; Darbo drabužiai; Kombinezonai; Darbinė avalynė.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apģērbi, apavi, galvassegas; Darba apģērbi; Profesionāli apģērbi; Darba apģērbi; Kombinezoni (darba tērpi); Darba apavi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ħwejjeġ, xedd tas-saqajn u xedd ir-ras; Ħwejjeġ għal waqt ix-xogħol; Ħwejjeġ professjonali; Artikli ta' ħwejjeġ tax-xogħol; Lbiesi għal-ħaddiema għal xogħol ta' strapazz [coveralls]; Xedd is-saqajn għax-xogħol.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kledingstukken, schoeisel, hoofddeksels; bedrijfskleding; beroepskleding; werkkleding; overalls; werkschoenen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odzież, obuwie, nakrycia głowy; Ubranie robocze; Ubrania pracownicze; Odzież robocza; Okrycia robocze [kombinezony]; Obuwie robocze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vestuário, calçado, chapelaria; Vestuário profissional; Vestuário de trabalho; Vestuário de trabalho; Macacões; Calçado de trabalho.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Îmbrăcăminte, încălţăminte, articole care servesc la acoperirea capului; Imbracaminte de serviciu; Îmbrăcăminte profesională; Uniforme de lucru; Combinezoane; Încălţăminte de lucru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Odevy, obuv a pokrývky hlavy; Pracovné odevy; Pracovné odevy; Pracovné odevy; Overaly, kombinézy; Pracovné topánky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oblačila, obutev, pokrivala; Delovne obleke; Poklicna oblačila; Delovna oblačila; Kombinezoni; Delovni čevlji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kläder, fotbeklädnader, huvudbonader; Kårkläder; Arbetskläder; Arbetskläder; Överdragskläder; Arbetsskor.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>BX</PriorityCountryCode>
+<PriorityNumber>01406284</PriorityNumber>
+<PriorityDate>2019-11-20</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/089</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-13</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>504724</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>12213</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003128198</OppositionIdentifier>
+<OppositionDate>2020-08-12</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>001142629</ApplicationNumber>
+<ApplicationDate>1999-05-28</ApplicationDate>
+<RegistrationNumber>001142629</RegistrationNumber>
+<RegistrationDate>2000-05-29</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>POWERSTRETCH</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>001705524</ApplicationNumber>
+<ApplicationDate>2000-06-14</ApplicationDate>
+<RegistrationNumber>001705524</RegistrationNumber>
+<RegistrationDate>2001-08-06</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>POWERSTRETCH RX</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>306711</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>17167</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

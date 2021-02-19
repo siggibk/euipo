@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-19T10:29:41</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225940</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225940</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-15</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-19</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Indian MOTORCYCLE OUTPOST</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162307821</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/225/018225940/000162307821.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>02.01.01</CategoryCode>
+          <CategoryCode>02.01.04</CategoryCode>
+          <CategoryCode>02.01.23</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги на онлайн магазин за търговия на дребно, включващи облекло за мотоциклетизъм, принадлежности, части и свързани подаръци на тема мотоциклетизъм.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby on-line maloobchodní prodejny zaměřené na motorkářské oděvy, doplňky, části a související motorkářské tematické dárky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Onlinedetailsalg af motorcykeltøj, tilbehør, dele og gaver på motorcykelområdet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Online-Einzelhandelsdienstleistungen in Bezug auf Motorradbekleidung, -zubehör, -teile und entsprechende Geschenke zum Thema Motorrad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες καταστήματος λιανικής πώλησης επί γραμμής σε σχέση με ενδύματα για μοτοσυκλετιστές, αξεσουάρ, μέρη και σχετικά με τον μοτοσυκλετισμό δώρα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Online retail store services featuring motorcycle apparel, accessories, parts and related motorcycle themed gifts.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de tiendas de venta al por menor en línea con ropa, accesorios y piezas de motociclista y regalos relacionados con el motociclismo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mootorrattarõivaste, -tarvikute, -osade ja seonduvate mootorrattateemaliste kingituste sidusad jaemüügiteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Online-vähittäismyymäläpalvelut, jotka liittyvät moottoripyöräilyvaatteisiin, -varusteisiin, osiin sekä niihin liittyviin moottoripyöräilyteemaisiin lahjoihin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de magasins de vente au détail en ligne de tenues, accessoires, pièces de motocyclisme et cadeaux liés à ce thème.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge mrežne maloprodajne trgovine s motociklističkom odjećom, dodatcima, dijelovima i tematskim darovima.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Online kiskereskedelmi üzlet, amely motorkerékpár-ruházatot, kiegészítőket, alkatrészeket és kapcsolódó motorkerékpár-témájú ajándékokat tartalmaz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di punti vendita al dettaglio on-line di abbigliamento per motociclisti, accessori, ricambi e regali sul tema della motocicletta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Internetinių mažmeninės prekybos parduotuvių paslaugos, susijusios su motociklininkų drabužiais, aksesuarais, dalimis ir susijusiomis dovanomis motociklų srityje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Tiešsaistes mazumtirdzniecības veikalu pakalpojumi, kas saistīti ar motociklistu apģērbu, piederumiem, detaļām un saistītām motociklu tematiskajām dāvanām.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' ħwienet ta' bejgħ bl-imnut onlajn li jinkludu ilbies tal-muturi, aċċessorji, partijiet u rigali bit-tema tal-muturi relatati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Onlinedetailhandel in motorkleding, accessoires, onderdelen en cadeaus voor motorrijders.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi sklepów detalicznych online obejmujące odzież motocyklową, akcesoria, części i upominki związane z motocyklami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de loja de venda a retalho em linha de vestuário de motociclismo, acessórios e peças de motociclos e artigos de oferta temáticos alusivos ao motociclismo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii asigurate de magazine online care vând cu amănuntul haine pentru motocicliști, accesorii, piese și cadouri tematice pentru motociclism.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Služby on-line maloobchodných predajní v oblasti motocyklových odevov, doplnkov, častí a súvisiacich motocyklových tematických darov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve spletnih maloprodajnih trgovin z oblačili, dodatno opremo, deli in tematskimi darili v zvezi z motornimi kolesi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Direktansluten detaljhandelsförsäljning av motorcykelkläder, tillbehör, delar och relaterade motorcykelrelaterade gåvor.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>US</PriorityCountryCode>
+<PriorityNumber>88873404</PriorityNumber>
+<PriorityDate>2020-04-15</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/085</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-07</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/156</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-18</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>206824</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>53517</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

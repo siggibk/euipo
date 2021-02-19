@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-03T12:28:04</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224965</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224965</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-30</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-03</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>BURN</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162212996</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224965/000162212996.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>01.15.05</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>32</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Безалкохолни напитки, включващи газирани напитки и енергийни напитки; Сиропи, концентрати, прахове и препарати за приготвяне на напитки, включително газирани напитки и енергийни напитки; Бира.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nealkoholické nápoje, včetně nápojů sycených oxidem uhličitým a energetických nápojů; Sirupy, koncentráty, prášky a přípravky k zhotovování nápojů, včetně nápojů sycených oxidem uhličitým a energetických nápojů; Pivo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Ikke-alkoholholdige drikke inklusive kulsyreholdige drikke og energidrikke; Saft, koncentrater, pulvere og andre præparater til fremstilling af drikke inklusive kulsyreholdige drikke og energidrikke; Øl.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Alkoholfreie Getränke einschließlich kohlensäurehaltige Getränke und Energiegetränke; Sirupe, Konzentrate, Pulver und Präparate für die Zubereitung von Getränken einschließlich kohlensäurehaltige Getränke und Energiegetränke; Bier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μη οινοπνευματώδη ποτά, όπου περιλαμβάνονται ανθρακούχα ποτά και ενεργειακά ποτά· Σιρόπια, συμπυκνωμένα παρασκευάσματα, σκόνες και άλλα παρασκευάσματα για ποτοποιία, όπου περιλαμβάνονται ανθρακούχα ποτά και ενεργειακά ποτά· Ζύθος.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Non-alcoholic beverages, including carbonated drinks and energy drinks; syrups, concentrates, powders and preparations for making beverages, including carbonated drinks and energy drinks; beer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bebidas sin alcohol, incluyendo bebidas carbonatadas y bebidas energéticas; Siropes, concentrados, polvos y preparaciones para hacer bebidas, incluyendo bebidas carbonatadas y bebidas energéticas; Cerveza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Alkoholivabad joogid, sh gaseerjoogid ja energiajoogid; Siirupid, kontsentraadid, pulbrid ja muud jookide, sh gaseerjookide ja energiajookide valmistusained; Õlu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Alkoholittomat juomat, mukaan lukien hiilihapotetut juomat ja energiajuomat; Mehutiivisteet, tiivisteet, jauheet ja juomien valmistusaineet, mukaan lukien hiilihapotettujen juomien ja energiajuomien; Olut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Boissons sans alcool, y compris boissons gazeuses et boissons énergétiques; Sirops, concentrés, poudres et préparations pour faire des boissons, y compris des boissons gazeuses et des boissons énergétiques; Bières.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Bezalkoholni napitci, uključujući gazirana pića i energetska pića; Sirupi, koncentrati, prašci i pripravci za pripremu pića, uključujući gazirana pića i energetska pića; Pivo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Alkoholmentes italok, beleértve a szénsavas italokat és energiaitalokat; Szirupok, koncentrátumok, porok és készítmények italok készítéséhez, beleértve a szénsavas italokat és az energiaitalokat; Sörök.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Bevande analcoliche, comprese bevande gassate e bevande energetiche; Sciroppi, concentrati, polveri e altri preparati per fare bevande, comprese bevande gassate e bevande energetiche; Birre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Nealkoholiniai gėrimai, įskaitant angliarūgšte prisotintus gėrimus ir energetinius gėrimus; Sirupai, koncentratai, milteliai ir preparatai, skirti gėrimams gaminti, įskaitant angliarūgšte prisotintus gėrimus ir energetinius gėrimus; Alus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Bezalkoholiski dzērieni, tostarp gāzētie dzērieni un enerģijas dzērieni; Sīrupi, koncentrāti, pulveri un līdzekļi dzērienu pagatavošanai, tostarp gāzētie dzērieni un enerģijas dzērieni; Alus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xorb mhux alkoħoliku, inkluż xorb bil-gass u xorb tal-enerġija; Ġuleppijiet, konċentrati, trab u preparazzjonijiet oħra għat-tħejjija ta' xarbiet, inklużi xorb bil-gass u xorb tal-enerġija; Birer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Alcoholvrije dranken, waaronder koolzuurhoudende dranken en energiedranken; Siropen, concentraten, poeders en preparaten voor de bereiding van dranken, waaronder koolzuurhoudende dranken en energiedranken; Bier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Napoje bezalkoholowe, w tym napoje gazowane i napoje energetyczne; Syropy, koncentraty, proszki i inne preparaty do sporządzania napojów, w tym napojów gazowanych i napojów energetycznych; Piwo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bebidas não alcoólicas, incluindo bebidas gaseificadas e bebidas energéticas; Xaropes, concentrados, pós e preparações para fazer bebidas, incluindo bebidas gaseificadas e bebidas energéticas; Cerveja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Băuturi nealcoolice, inclusiv băuturi carbonatate şi băuturi energizante; Siropuri, concentrate, pudre şi alte preparate pentru fabricarea băuturilor, inclusiv a băuturilor carbonatate şi băuturilor energizante; Bere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nealkoholické nápoje vrátane sýtených nápojov a energetických nápojov; Sirupy, koncentráty, prášky a prípravky na výrobu nápojov vrátane sýtených nápojov a energetických nápojov; Pivo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Brezalkoholne pijače, vključno z gaziranimi pijačami in energijskimi napitki; Sirupi, koncentrati, praški in pripravki za proizvodnjo pijač, vključno z gaziranimi pijačami in energijskimi napitki; Pivo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Alkoholfria drycker, inklusive kolsyrade drycker och energidrycker; Safter, koncentrat, pulver och preparat för framställning av drycker, inklusive kolsyrade drycker och energidrycker; Öl.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/075</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/144</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-31</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>717535</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>59744</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

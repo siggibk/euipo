@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-17T10:50:22</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229605</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229605</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-09-15</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ResMeD3</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хранителни добавки и диетични препарати; Фармацевтични препарати; Ветеринарни препарати.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Potravní doplňky a dietetické přípravky; Farmaceutika; Veterinární přípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kosttilskud og diætetiske præparater; Farmaceutiske præparater; Veterinære præparater.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Diätetische Präparate und Nahrungsergänzungsmittel; Pharmazeutische Erzeugnisse; Veterinärmedizinische Präparate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συμπληρώματα διατροφής και διαιτητικά παρασκευάσματα· Φαρμακευτικά (Προϊόντα -)· Κτηνιατρικά (Προϊόντα -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Dietary supplements and dietetic preparations; Pharmaceuticals; Veterinary preparations.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Suplementos y preparaciones dietéticas; Productos farmacéuticos; Preparaciones veterinarias.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toidulisandid ja farmatseutilised dieetained; Farmaatsiapreparaadid; Veterinaariapreparaadid, loomaravimid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lisäravinteet ja dieettivalmisteet; Farmaseuttiset valmisteet; Eläinlääkinnälliset valmisteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Compléments alimentaires et préparations diététiques; Produits pharmaceutiques; Produits vétérinaires.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dodaci prehrani i dijetetski pripravci; Farmaceutski pripravci; Veterinarski proizvodi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Táplálékkiegészítők és diétás készítmények; Gyógyszerészeti készítmények; Állatgyógyászati készítmények.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Integratori alimentari e preparati dietetici; prodotti farmaceutici; prodotti veterinari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Maisto papildai ir dietiniai produktai; Vaistai; Veterinariniai preparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Uztura bagātinātāji un diētiskie preparāti; Farmaceitiskie preparāti; Veterinārie preparāti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Supplimenti tad-dieta u preparazzjonijiet dijetetiċi; Preparazzjonijiet farmaċewtiċi; Preparazzjonijiet veterinarji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diëtische supplementen en diëtische preparaten; Farmaceutische producten; Veterinaire producten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Suplementy diety i preparaty dietetyczne; Preparaty farmaceutyczne; Preparaty weterynaryjne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Suplementos e preparações dietéticos; Produtos farmacêuticos; Preparações veterinárias.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suplimente alimentare si preparate dietetice; Preparate farmaceutice; Veterinare (Produse -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Výživové doplnky a dietetické prípravky; Farmaceutické prípravky; Zverolekárske prípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Prehranska dopolnila in dietetske snovi; Farmacevtski pripravki; Veterinarski pripravki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Dietiska tillskott och preparat; Läkemedel; Veterinärpreparat.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/106</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-08</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/177</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1061869</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>20184</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

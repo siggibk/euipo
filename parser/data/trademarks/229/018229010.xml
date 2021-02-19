@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-14T07:26:41</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229010</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229010</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-10-09</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-10-14</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Suertree</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Очила за деца; Контактни лещи; Оптични стоки; Оптични очила; Очила; Поляризационни очила; Очила за четене; Рамки за пенснета; Очила; Модни слънчеви очила; Части за очила; Очиларски изделия за употреба в спорта; Противозаслепяващи очила; Защитни очила; Очила за стрелба [оптични].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Dětské brýle; Kontaktní čočky; Výrobky oční optiky; Optické brýle; Cvikry; Polarizační brýle; Brýle na čtení; Brýlové obroučky; Brýle; Módní sluneční brýle; Části brýlí; Optické zboží pro sportovní účely; Antireflexní brýle; Bezpečnostní brýle; Střelecké brýle (optické).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Børnebriller; Kontaktlinser; Optikervarer; Optiske briller; Lorgnetter; Polariseringsbriller; Læsebriller; Brillestel; Briller; Modesolbriller; Brilledele; Øjenbeskyttelse til brug ved sportsudøvelse; Blændingsforhindrende briller; Beskyttelsesbriller; Optiske skydebriller.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kinderbrillen; Kontaktlinsen; Brillen und Kontaktlinsen; Optische Brillen; Kneifer [Augengläser]; Polarisierende Brillen; Lesegläser; Brillenfassungen, -gestelle; Brillen; Modische Sonnenbrillen; Teile für Brillen; Schutzbrillen für den Sport; Blendschutzbrillen; Korbbrille; Optische Schießbrillen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Γυαλιά όρασης για παιδιά· Φακοί επαφής· Οπτικά είδη· Οπτικά γυαλιά· Γυαλιά οράσεως επιρρίνια· Πολαριζέ γυαλιά όρασης· Γυαλιά ανάγνωσης· Σκελετοί γυαλιών· Διόπτρες· Μοντέρνα γυαλιά ηλίου· Μέρη για οπτικά γυαλιά· Αθλητικά οπτικά είδη· Αντιθαμβωτικά γυαλιά· Προστατευτικά γυαλιά· Γυαλιά σκοποβολής [οπτικά].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Children's eye glasses; Contact lenses; Eyewear; Optical glasses; Pince-nez; Polarizing spectacles; Reading glasses; Spectacle frames; Spectacles; Fashion sunglasses; Parts for spectacles; Sports eyewear; Anti-glare glasses; Goggles; Shooting glasses [optical].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Gafas para niños; Lentes de contacto; Artículos de óptica para la vista; Cristales ópticos; Quevedos; Gafas polarizadas; Gafas de lectura; Monturas de gafas; Gafas [óptica]; Gafas de sol de moda; Piezas para gafas; Artículos de óptica para deporte; Gafas antideslumbrantes; Gafas protectoras; Gafas de tiro [ópticas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Lasteprillid; Kontaktläätsed; Optikakaubad; Optilised prillid; Näpitsprillid, lornjetid; Polariseerivad prillid; Lugemisprillid; Prilliraamid; Prillid [optika]; Moe-päikeseprillid; Prillide osad; Sportimisel kasutatavad kaitseprillid; Pimestusvastased prillid; Ohutusprillid; Optilised laskmisprillid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lasten silmälasit; Piilolinssit; Optikon tuotteet; Optiset lasit; Silmälasit; Polarisoivat silmälasit; Lukulasit; Silmälasinkehykset; Silmälasit; Muotiaurinkolasit; Silmälasien osat; Suojalasit urheilemiseen; Häikäisysuojalasit; Turvasuojalasit; Ammuntasilmälasit [optiset].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Lunettes pour enfants; Lentilles de contact; Articles de lunetterie; Verres optiques; Pince-nez; Lunettes polarisantes; Verres de lecture; Montures de lunettes; Lunettes [optique]; Lunettes de soleil à la mode; Pièces de lunettes; Articles de lunetterie pour le sport; Lunettes antiéblouissantes; Lunettes de protection; Lunettes de tir [optiques].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dječje naočale; Kontaktne leće; Optički proizvodi; Optičke naočale; Naočale; Polarizirajuće naočale; Naočale za čitanje; Okviri za naočale; Naočale; Moderne sunčane naočale; Dijelovi za naočale; Sportski optički artikli; Antireflekscijske naočale; Zaštitne naočale; Naočale za gađanje [optičke].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyermekszemüvegek; Kontaktlencsék; Optikai cikkek; Optikai üvegek; Szemüvegek; Polarizációs szemüvegek; Olvasószemüvegek; Szemüvegkeretek; Szemüvegek; Divatos napszemüvegek; Szemüveg alkatrészek; Szemvédő viselet sportoláshoz; Vakításgátló szemüvegek; Védőszemüvegek; Szemüvegek lövéshez [optikai].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Occhiali per bambini; Lenti a contatto; Occhiali; Occhiali da vista; Occhiali a molla; Occhiali polarizzanti; Occhiali da lettura; Montature di occhiali; Occhiali [ottica]; Occhiali da sole moda; Parti per occhiali; Articoli ottici per lo sport; Occhiali antiabbaglianti; Occhiali di protezione; Mirini [ottici].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vaikiški akiniai; Glaustiniai [kontaktiniai] lęšiai; Optikos prekės; Optiniai stiklai; Pensnė; Poliarizuoti akiniai; Skaitymo akiniai; Akinių rėmai; Akiniai; Madingi saulės akiniai; Akinių dalys; Akių apsaugos priemonės sporto reikmėms; Akiniai nuo akinimo; Apsauginiai akiniai; Šaudymo akiniai [optiniai].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Bērnu brilles; Kontaktlēcas; Optikas preces; Optiskās brilles; Pensneji; Polarizētās brilles; Brilles lasīšanai; Briļļu rāmji; Brilles; Modes saulesbrilles; Briļļu detaļas; Acu aizsargelementi sportistiem; Pretapžilbšanas brilles; Brilles acu aizsardzībai; Optiskas brilles šāvējiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Nuċċalijiet għat-tfal; Lenti tal-kuntatt; Prodotti tat-tobba li jieħdu ħsieb il-kura tal-għajnejn; Nuċċali ottiku; Nuċċalijiet; Nuċċalijiet polarizzanti; Nuċċalijiet għall-qari; Frejms għan-nuċċalijiet; Nuċċalijiet; Nuċċalijiet tax-xemx tal-moda; Parts għan-nuċċalijiet; Lbies għall-protezzjoni tal-għajnejn waqt l-isport; Nuċċalijiet bi protezzjoni minn dawl qawwi; Nuċċalijiet protettivi; Tazzi għall-isparar [ottiku].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kinderbrillen; Contactlenzen; Eyewear; Brillen met geslepen glazen; Knijpbrillen; Brillen (Polariserende -); Leesbrillen; Brilmonturen; Brillen [optiek]; Modezonnebrillen; Brilonderdelen; Brillen voor de sport; Antiverblindingsbrillen; Beschermende brillen; Brillen voor de schietsport [optisch].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Okulary dla dzieci; Szkła kontaktowe; Artykuły optyczne; Okulary optyczne; Okulary; Okulary polaryzacyjne; Okulary do czytania; Oprawki do okularów; Okulary; Modne okulary przeciwsłoneczne; Części do okularów; Artykuły optyczne do uprawiania sportu; Okulary przeciwoślepieniowe; Okulary ochronne; Okulary strzeleckie [optyczne].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Óculos de criança; Lentes de contacto; Artigos de ótica; Vidros óticos; Lunetas; Óculos polarizantes; Óculos de leitura; Armações de óculos; Óculos [ótica]; Óculos de sol da moda; Peças para óculos; Artigos de ótica para desporto; Óculos antirreflexo; Óculos de proteção; Óculos para tiro [óticos].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Ochelari de vedere pentru copii; Lentile de contact; Produse de optică; Sticle optice; Ochelari fără brațe; Ochelari cu lentile polarizate; Ochelari de citit; Rame de ochelari fără brațe; Ochelari; Ochelari de soare în ton cu moda; Piese pentru ochelari; Ochelari de protecție pentru sport; Ochelari antireflex; Ochelari de protecție; Ochelari pentru tir [articole optice].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Okuliare pre deti; Kontaktné šošovky; Výrobky očnej optiky; Optické okuliare; Cvikre; Polarizačné okuliare; Okuliare na čítanie; Rámy na okuliare; Okuliare; Módne okuliare; Časti okuliarov; Športová očná optika; Okuliare proti oslepeniu svetlom; Bezpečnostné okuliare; Strelecké okuliare [optické].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Otroška očala; Kontaktne leče; Proizvodi za optiko; Optična stekla; Očala; Polarizacijska očala; Očala za branje; Okvirji za očala; Očala; Modna sončna očala; Deli za očala; Športna očala; Očala proti bleščanju; Zaščitni naočniki; Optična očala za streljanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Glasögon för barn; Kontaktlinser; Optikervaror; Optiska glas; Pincenéer; Polariserande glasögon; Läsglasögon; Glasögonbågar; Glasögon; Modesolglasögon; Glasögondelar; Skyddsglasögon för sport; Bländskyddsglasögon; Skyddsglasögon; Glasögon för skytte [optiska].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/196</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-10-14</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1081931</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15039</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018347198</RecordIdentifier>
+<BasicRecordKind>Representative - Deletion of the representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>86428</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-08-21</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018374713</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15039</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-08-21</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

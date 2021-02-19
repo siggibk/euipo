@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-25T18:23:16</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229595</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229595</ApplicationNumber>
+<ApplicationDate>2020-04-26</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="3">Application withdrawn</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-25</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Covid Manager</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="de">Standorterfassungsgerate und Standortverfolgungsgeräte; Computerprogramme [gespeichert], einschließlich Applikationen für Smartphones und/oder Tablet-Computer [Apps]; Computersoftware [herunterladbar und gespeichert, einschließlich in Form von Apps] zur Erstellung und Analyse von Bewegungsprofilen.; Computersoftware zum Erfassen, Bearbeiten, Organisieren, Übertragen, Speichern und Teilen von Daten und Informationen auf der Basis des Standorts oder der Nähe zu Orten; Personenortungsgeräte; Computersoftware für Cloud-Computing-Dienste; GPS-Geräte; Hardware und Software für Ortungssysteme; Authentifizierungssoftware zur Regelung des Zugangs zu und der Kommunikation mit Computern und Computernetzen; Datenverarbeitungsgeräte, insbesondere Mobiltelefone und Tablet-Computer; Computerprogramme [herunterladbar], einschließlich Applikationen für Smartphones und/oder Tablet-Computer [Apps].</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="de">medizinische Testgeräte; Fieberthermometer mit und ohne telekommunikative Übermittlung von Daten..</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>38</ClassNumber>
+   <GoodsServicesDescription languageCode="de">Bereitstellung von Zugangsmöglichkeiten und Verbindungen zu Computer-Datenbanken und zum Internet mittels Telekommunikation, sowie zu Smartphones und/oder Tablet-Computern; Kommunikationsdienste über das Internet und private Kommunikationsnetze; Bereitstellung des Zugriffs zu elektronischen Kommunikationsnetzen für die Übertragung oder den Empfang von elektronischen Daten; Kommunikation über elektronische Plattformen; elektronisches Versenden von Daten und Dokumenten über das Internet oder andere Datenbanken; Telekommunikation; elektronische Datenübermittlung, insbesondere in Bezug Daten und Informationen auf der Basis des Standorts oder der Nähe zu Orten; elektronische Datenaustauschdienste; Bereitstellen des Zugriffs auf Plattformen und Portale im Internet; Bereitstellung des Zugriffs zu Web-Seiten; Telekommunikationsdienstleistungen in Bezug auf das Erfassen, Übertragen, Speichern und Teilen von Daten und Informationen auf der Basis des Standorts oder der Nähe zu Orten; Kommunikations- und Telekommunikationsleistungen unter Nutzung globaler Ortungssysteme und -technologien.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>39</ClassNumber>
+   <GoodsServicesDescription languageCode="de">Nachverfolgung und Überwachung der geographischen Standorte von Mobiltelefonen, insbesondere mittels Computer, Smartphones und GPS; Ortung, Positionsbestimmung und Navigation unter Nutzung globaler Ortungssysteme und Ortungstechnologien.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="de">IT-Dienstleistungen; Bereitstellen von Software zur Benachrichtigung von Personen; Analyse von Ortungsdaten; Cloud Hosting-Dienste; Analyse von Kommunikationsdaten; Software as a Service [Saas]; Analyse von Bewegungsdaten; Erstellung von Bewegungsprofilen; Plattform as a Service [PaaS]; Entwurf und Entwicklung von Software Applikationen [Apps]; Cloud-Computing; Zurverfügungstellung von nicht herunterladbarer Software zur Ortsbestimmung und Standortverfolgung von Personen und Geräten über Computernetzwerke, Intranets und das Internet zur zeitweiligen Nutzung; Installation und Wartung von Software; Vermietung von Computerprogrammen; Bereitstellen von Software zur Lokalisierung von Personen; Analyse von informationstechnologischen Daten; Entwurf und Entwicklung von Software; Analyse von Telekommunikationsdaten; Konfiguration von Computer-Netzwerken durch Software; Erstellen von Programmen für die Datenverarbeitung.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>827932</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11921</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

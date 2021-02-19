@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:37</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226127</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226127</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>F3 Invest</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>36</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Организиране на инвестиции.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Sjednávání investic.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Arrangering af investeringer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Anlagevermittlung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διακανονισμός επενδύσεων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Arranging of investments.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Organización de inversiones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Investeeringute korraldamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sijoitusten järjestäminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Organisation des investissements.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Organiziranje ulaganja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Befektetésekkel kapcsolatos ügyintézés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Organizzazione di investimenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Investicijų tvarkymas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Investīciju organizēšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Arranġament ta' investimenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Investeringen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Organizowanie inwestycji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Organização de investimentos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Intermediere în domeniul investițiilor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zabezpečovanie investícií.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Organiziranje investicij.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Anordnande av investeringar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>996115</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

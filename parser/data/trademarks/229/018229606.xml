@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T08:41:24</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229606</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229606</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>CONSTRUCT</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>18</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Чанти за пренасяне за всякакви цели, Спортни чанти и раници, Плажни чанти, Цилиндрични чанти с връв, Куриерски чанти, Ръчни чанти, пътнически чанти, ученически чанти, Багажи, Банан (чанта), Ръчни дамски чанти, портмонета, Багажи; Принадлежности и части за горепосочените стоки, включени в този клас.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Univerzální přepravní tašky, Batohy a sportovní tašky, Plážové tašky, Sportovní tašky, Brašny pro kurýry, Dámské kabely, školní tašky, Cestovní tašky, Ledvinky, Kabelky, peněženky, Náprsní tašky; Části a příslušenství pro uvedené zboží, zařazené do této třídy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Bæretasker til alle formål, Rygsække og sportstasker, Strandtasker, Køjesække, Kurertasker, Indkøbstasker, skoletasker, Rejsetasker, Bæltetasker, Håndtasker, punge, Punge; Dele og tilbehør til alle førnævnte varer, indeholdt i denne klasse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Mehrzwecktragetaschen, Reiserucksäcke und Sporttaschen, Badetaschen, Matchsäcke, Kuriertaschen, Einkaufstaschen, Schultaschen, Reisetaschen, Bauchtaschen, Handtaschen, Geldbörsen, Brieftaschen; Teile und Zubehör für alle vorgenannten Waren, soweit in dieser Klasse enthalten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σάκοι μεταφοράς γενικής χρήσης, Σακίδια πλάτης και αθλητικοί σάκοι, Παραλία (τσάντες -ας), Μακρόστενοι σάκοι στρατιωτικού τύπου, Σάκοι ταχυμεταφοράς, Τσάντες για ψώνια, σχολικές τσάντες, Βαλίτσες, Τσαντάκια που προσαρμόζονται στη ζώνη, Γυναικείες τσάντες, γυναικεία πορτοφόλια, Βαλίτσες· Μέρη και εξαρτήματα για το σύνολο των προαναφερόμενων ειδών, εφόσον περιλαμβάνονται στην παρούσα κλάση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">All-purpose carrying bags, backpacks, bags for sports, beach bags, duffle bags, messenger bags, school bags, tote bags, travelling bags, waist bags, handbags, purses, wallets; parts and accessories for all the aforesaid goods, included in this class.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bolsas de transporte multiusos, Mochilas y bolsas de deporte, Bolsas de playa, Sacos de lona, Bolsas de mensajería, Bolsones, carteras de colegial, Bolsas de viaje, Riñoneras, Carteras, bolsos y monederos, Billeteras; Partes y accesorios de todos estos productos, comprendidos en esta clase.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Universaalsed kandekotid, Seljakotid ja spordikotid, Rannakotid, Riidest reisikotid, Kullerikotid, Kandekotid, koolikotid, Reisikotid, Vöökotid, Käekotid, rahakotid, Rahataskud; Eelnimetatud kaupade osad ja tarvikud, mis kuuluvad sellesse klassi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Monikäyttöiset kantokassit, Reput ja urheilukassit, Rantalaukut, Merimiessäkit, Kuriirinlaukut, Ostoskassit, koululaukut, Matkakassit, Vyökotelot, Käsilaukut ja kukkarot, Lompakot; Kaikkien edellä mainittujen tavaroiden osat ja tarvikkeet tässä luokassa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Sacs à anses tous usages, Sacs à dos et sacs de sport, Sacs de plage, Sacs de paquetage, Sacs à courrier, Fourre-tout, cartables, Fourre-tout, Sacs banane, Sacs à mains, porte-monnaie, Portefeuilles; Pièces et accessoires de tous les produits précités, compris dans cette classe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Višenamjenske torbe, Naprtnjače i sportske torbe, Torbe za plažu, Duffel bag torbe [tekstilne torbe], Kurirske torbe, Platnene torbe, školske torbe, Torbe za putovanja, Pojasne torbice, Ručne torbe, novčanici, Lisnice; Dijelovi i oprema za sve prethodno spomenute proizvode ako su obuhvaćeni ovim razredom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Univerzális hordtáskák, Hátizsákok és sporttáskák, Strandtáskák, Málhazsákok, Postástáskák, Sporttáskák, iskolatáskák, Poggyász, Övtáskák, Kézitáskák, erszények, pénztárcák, Poggyász; A fent említett áruk részei és tartozékai, amennyiben ebbe az osztályba tartoznak.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Borse multiuso, Zaini e borse sportive, Borse da spiaggia, Sacche da viaggio in tela, Borse per corrieri, Borsoni, borse per la scuola, Sacchi da viaggio, Marsupi, Borsette, portamonete, Portafogli; Parti e accessori per tutti i suddetti articoli, compresi in questa classe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Universalūs krepšiai, Kuprinės ir sportiniai krepšiai, Paplūdimio krepšeliai, Daiktamaišiai, Kurjerių krepšiai, Pirkinių krepšiai, mokykliniai krepšiai, Bagažas, Prie juosmens tvirtinamos piniginės, Rankinukai, piniginės, Bagažas; Visų pirmiau išvardytų prekių priedai ir dalys, priskirti šiai klasei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Universālas pārnēsāšanas somas, Mugursomas un sporta somas, Pludmales somas, Cilindriskas ceļojuma somas, Kurjeru somas, Ietilpīgas somas, skolas somas, Kabatas portfeļi, Jostas somas, Rokassomas, naudasmaki, Kabatas portfeļi; Iepriekš minēto preču daļas un piederumi, kas ietverti šajā klasē.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Basktijiet għall-ġarr ta' diversi oġġetti, Barżakki u basktijiet tal-isports, Basktijiet tal-baħar, Barżakki ċilindriċi, Basktijiet tal-kurrier, Basktijiet taċ-ċarruta, basktijiet ta' l-iskola, Valiġġi, Basktijiet-ċinturin, Boroż, portmoni, Valiġġi; Partijiet u aċċessorji għall-oġġetti kollha msemmija, inklużi f'din il-Klassi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Universele draagtassen, Rugzakken en sporttassen, Strandtassen, Plunjezakken voor het reizen, Koerierstassen, Draagtassen, schooltassen, Reistassen, Heuptasjes, Handtassen, portemonnees, Portefeuilles; Onderdelen en accessoires voor alle voornoemde goederen, voor zover begrepen in deze klasse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Torby uniwersalne, Plecaki i torby sportowe, Torby plażowe, Worki marynarskie, Torby kurierskie, Torby na zakupy, torby szkolne, Bagaż, Torebki na biodra [nerki], Torebki, portmonetki, Bagaż; Akcesoria i części do wszystkich wyżej wymienionych towarów, ujęte w tej klasie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bolsas de transporte multiúsos, Mochilas e sacos de desporto, Sacos de praia, Sacos de equipamento [com formato cilíndrico], Sacos de estafeta, Sacos multiusos, sacos escolares, Sacos de viagem, Bolsas de cintura, Sacos de mão, porta moedas, Carteiras de bolso; Peças e acessórios para todos os produtos atrás referidos, incluídos nesta classe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Genţi de transport universale, Rucsacuri şi genţi sport, Genţi de plajă, Genţi de pânză, Genţi pentru curieri, Genţi de voiaj, rucsacuri de şcolari, Genţi, Borsete, Genti, posete, Genţi; Piese şi accesorii pentru toate produsele menţionate anterior, cuprinse în această clasă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Viacúčelové tašky, Batohy a športové tašky, Plážové tašky, Športové vaky, Kuriérske tašky, Cestovné tašky, školské tašky, Batožina, Ľadvinky, Kabelky, penaženky, mešteky na peniaze, Náprsné tašky; Príslušenstvo a časti všetkých vymenovaných tovarov, doteraz zahrnuté v tejto triede.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Večnamenske nosilne torbe, Nahrbtniki in športne torbe, Torbe za plažo, Taborniške vreče, Kurirske torbe, Nakupovalne torbe, šolske torbe, Prtljaga, Torbice za pas, Ročne torbe, denarnice, Prtljaga; Deli in oprema za prej omenjeno blago, v kolikor so vključeni v ta razred.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Väskor för alla ändamål, Ryggsäckar och sportväskor, Strandväskor, Persedelpåsar, Kurirväskor, Bärkassar, skolväskor, Bagage, Bältesväskor, Handväskor, portmonnäer, Bagage; Delar och tillbehör till alla nämnda varor, ingående i denna klass.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>31404</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>35321</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017913453</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>35321</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-05-22</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

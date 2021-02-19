@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-08-17T11:36:50</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063655-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063655-0001</DesignIdentifier>
+<ApplicationNumber>001063655</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-03-10</PublicationDate>
+<ApplicationReference>56686ED</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000062858436</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063655_0001/001063655_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062858439</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063655_0001/001063655_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062858441</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063655_0001/001063655_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062858445</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063655_0001/001063655_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062858447</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063655_0001/001063655_0001_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062858449</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063655_0001/001063655_0001_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062858451</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063655_0001/001063655_0001_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Куки</IndicationProduct>
+       <IndicationProduct languageCode="cs">Háky</IndicationProduct>
+       <IndicationProduct languageCode="da">Kroge</IndicationProduct>
+       <IndicationProduct languageCode="de">Haken</IndicationProduct>
+       <IndicationProduct languageCode="el">Γάντζοι</IndicationProduct>
+       <IndicationProduct languageCode="en">Hooks</IndicationProduct>
+       <IndicationProduct languageCode="es">Ganchos</IndicationProduct>
+       <IndicationProduct languageCode="et">Konksud</IndicationProduct>
+       <IndicationProduct languageCode="fi">Koukut</IndicationProduct>
+       <IndicationProduct languageCode="fr">Crochets</IndicationProduct>
+       <IndicationProduct languageCode="hu">Kampók (ruhakapcsok)</IndicationProduct>
+       <IndicationProduct languageCode="it">Ganci</IndicationProduct>
+       <IndicationProduct languageCode="lt">Kabliukai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Āķi</IndicationProduct>
+       <IndicationProduct languageCode="mt">Ganċijiet</IndicationProduct>
+       <IndicationProduct languageCode="nl">Haken</IndicationProduct>
+       <IndicationProduct languageCode="pl">Haczyki</IndicationProduct>
+       <IndicationProduct languageCode="pt">Ganchos</IndicationProduct>
+       <IndicationProduct languageCode="ro">Cârlige</IndicationProduct>
+       <IndicationProduct languageCode="sk">Háčiky</IndicationProduct>
+       <IndicationProduct languageCode="sl">Kavlji</IndicationProduct>
+       <IndicationProduct languageCode="sv">Krokar</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>08.08</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PriorityDetails>
+       <Priority>
+        <PriorityCountryCode>TW</PriorityCountryCode>
+        <PriorityNumber>097306943</PriorityNumber>
+        <PriorityDate>2008-12-08</PriorityDate>
+        <PriorityStatusCode>Claimed</PriorityStatusCode>
+       </Priority>
+      </PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/044</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-03-10</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1326112</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>355734</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>15595</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

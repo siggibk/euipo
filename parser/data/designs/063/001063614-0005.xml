@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2018-12-21T08:54:48</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063614-0005</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063614-0005</DesignIdentifier>
+<ApplicationNumber>001063614</ApplicationNumber>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-02-11</PublicationDate>
+<ApplicationReference>VD/NO2166</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-12-19</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061857573</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063614_0005/001063614_0005_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061857578</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063614_0005/001063614_0005_2.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Палешници [инструменти]</IndicationProduct>
+       <IndicationProduct languageCode="cs">Válce [náčiní]</IndicationProduct>
+       <IndicationProduct languageCode="da">Valser [værktøjer]</IndicationProduct>
+       <IndicationProduct languageCode="de">Walzen [Werkzeuge]</IndicationProduct>
+       <IndicationProduct languageCode="el">Κύλινδροι [εργαλεία]</IndicationProduct>
+       <IndicationProduct languageCode="en">Rollers [tools]</IndicationProduct>
+       <IndicationProduct languageCode="es">Rodillos [herramientas]</IndicationProduct>
+       <IndicationProduct languageCode="et">Rullid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Telat [työkalut]</IndicationProduct>
+       <IndicationProduct languageCode="fr">Rouleaux [outils]</IndicationProduct>
+       <IndicationProduct languageCode="hu">Hengerek [szerszámok]</IndicationProduct>
+       <IndicationProduct languageCode="it">Rulli [utensili]</IndicationProduct>
+       <IndicationProduct languageCode="lt">Velenai [įrankiai]</IndicationProduct>
+       <IndicationProduct languageCode="lv">Veltņi [darbarīki]</IndicationProduct>
+       <IndicationProduct languageCode="mt">Għodod ta' ġbid il-metall [għodod]</IndicationProduct>
+       <IndicationProduct languageCode="nl">Rollers (gereedschappen)</IndicationProduct>
+       <IndicationProduct languageCode="pl">Wałki [narzędzia]</IndicationProduct>
+       <IndicationProduct languageCode="pt">Cilindros [ferramentas]</IndicationProduct>
+       <IndicationProduct languageCode="ro">Role [unelte]</IndicationProduct>
+       <IndicationProduct languageCode="sk">Frézovacie vrtáky [náradie]</IndicationProduct>
+       <IndicationProduct languageCode="sl">Valjarji [orodja]</IndicationProduct>
+       <IndicationProduct languageCode="sv">Valsar (verktyg)</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>08.05</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/028</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-02-11</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/001</PublicationIdentifier>
+        <PublicationSequenceNumber>1127003</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2014-01-03</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/243</PublicationIdentifier>
+        <PublicationSequenceNumber>100821279</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2018-12-21</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>57948</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>12088</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006995991</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1127003</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-03</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012443851</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100821279</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-12-21</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-17T09:59:32</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229834</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229834</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-13</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SYY</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Четящи устройства [устройства за обработване на данни]; Периферни устройства, пригодени за използване с компютри; Кутии за високоговорители; Магнитофони; Слушалки; DVD плейъри; Аудио интерфейси; Кабели за предаване на оптични сигнали; Зарядни устройства; Презареждащи се батерии; Слушалки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Čtečky [zařízení pro zpracování dat]; Periferní zařízení počítačů; Reproduktorové skříně; Magnetofony; Sluchátka; DVD přehrávače; Zvuková rozhraní; Kabely pro přenos optického signálu; Nabíječky elektrických baterií; Dobíjecí baterie; Sluchátka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Læseapparater [databehandlingsudstyr]; Perifere enheder til computere; Højttalerkabinetter; Båndoptagere; Hovedtelefoner; DVD afspillere; Lyd interfaces; Kabler til transmission af optiske signaler; Opladere til elektriske akkumulatorer; Genopladelige batterier; Hovedtelefoner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Lesegeräte [Datenverarbeitungsgeräte]; An Computer angepasste Peripheriegeräte; Lautsprecherboxen; Tonbandgeräte; Kopfhörer; DVD-Spieler, DVD-Player; Audioschnittstellen; Kabel für die optische Signalübermittlung; Ladegeräte für elektrische Akkumulatoren; Wiederaufladbare Batterien; Kopfhörer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αναγνώστες [εξοπλισμός επεξεργασίας δεδομένων]· Περιφερειακός εξοπλισμός προσαρμοσμένος για χρήση σε ηλεκτρονικούς υπολογιστές· Κουτιά ηχείων· Συσκευές καταγραφής με μαγνητική ταινία· Κάσκες ακουστικών· Συσκευές αναπαραγωγής ψηφιακών βιντεοδίσκων· Διεπαφές ήχου· Καλώδια για μετάδοση οπτικών σημάτων· Φορτιστές μπαταριών· Επαναφορτιζόμενες μπαταρίες· Ακουστικά κεφαλής με μικρόφωνο.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">readers [data processing equipment]; computer peripheral devices; cabinets for loudspeakers; tape recorders; headphones; DVD players; audio interfaces; Cables for optical signal transmission; chargers for electric batteries; rechargeable batteries; Headsets.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Lectores [equipos de procesamiento de datos]; Dispositivos periféricos utilizados con ordenadores; Cajas de altavoces; Grabadoras de cinta magnética; Auriculares; Lectores de DVD; Interfaces de audio; Cables para transmisión de señales ópticas; Cargadores para acumuladores eléctricos; Baterías recargables; Cascos con micrófono.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Riiderid, lugerid [andmetöötlusseadmed]; Arvutite välisseadmed; Kõlarikastid; Magnetofonid; Kõrvaklapid; DVD-mängijad; Audioliidesed; Kaablid optiliste signaalide edastamiseks; Akulaadurid; Akupatareid; Mikrofoniga kõrvaklapid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lukijat [tietokonelaitteina]; Tietokoneiden oheislaitteet; Kaiutinkotelot; Ääninauhurit; Kuulokkeet; DVD-soittimet; Audioliitännät; Kaapelit optiseen signaalinsiirtoon; Latauslaitteet sähköparistoille; Ladattavat akut; Kuulokkeet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Lecteurs [équipements de traitement de données]; Périphériques adaptés pour utilisation avec des ordinateurs; Boîtiers de haut-parleurs; Enregistreurs à bande magnétique; Casques à écouteurs; Lecteurs DVD; Interfaces audio; Câbles pour la transmission de signaux optiques; Appareils pour la recharge des accumulateurs électriques; Batteries rechargeables; Casques d'écoute.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Čitači [oprema za obradu podataka]; Periferni uređaji prilagođeni za uporabu s računalima; Kućišta razglasa; Magnetofoni; Slušalice; DVD plejeri; Audio sučelja; Kablovi za prijenos optičkih signala; Akumulatori (punjači električnih akumulatora); Punjive baterije; Slušalice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Olvasók [adatfeldolgozó eszközök]; Számítógéphez kialakított perifériák; Hangszórószekrények, hangszóródobozok; Magnetofonok; Fejhallgatók; DVD-lejátszók; Audio interfészek; Kábelek optikai jelátvitelhez; Akkumulátor- és elemtöltők; Újratölthető elemek; Fejhallgatók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Lettori [informatica]; Periferiche concepite per essere utilizzate con i computer; Casse acustiche; Registratori a nastro magnetico; Cuffie per la musica; Lettori dvd; Interfacce audio; Cavi per la trasmissione di segnali ottici; Apparecchi per ricaricare gli accumulatori elettrici; Batterie ricaricabili; Cuffie per la musica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Skaitytuvai [duomenų dorojimo įrenginiai]; Kompiuterių išoriniai įrenginiai; Garsiakalbių korpusai; Juostiniai įrašymo aparatai; Radijo ausinės; DVD grotuvai; Garso sietuvai; Optinio signalų perdavimo kabeliai; Elektros akumuliatorių įkrovimo įtaisai; Įkraunamos baterijos; Ausinės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Lasītāji (datu apstrādes ierīces); Datoru perifērijas ierīces; Skandu korpusi; Magnetofoni; Austiņas; Ciparvideodisku (DVD) atskaņotāji; Audiosaskarnes; Kabeļi optisko signālu pārraidei; Elektrisko akumulatoru uzlādes ierīces; Uzlādējamas baterijas; Radioaustiņas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħmir li jipproċessa d-data; Periferali addattati għall-użu mal-kompjuters; Kabinetti għall-amplifikaturi tal-ħoss; Tagħmir għal reġistrazzjoni fuq tejp; Kuffji; Plejers (DVD); Interfaces tal-awdjo; Kejbils għat-trasmissjoni tas-sinjali ottiċi; Karikaturi għal batteriji elettriċi; Batteriji li jistgħu jerġgħu jiġu ċċarġjati; Kuffji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Lezers [apparaten voor gegevensverwerking]; Computerrandapparatuur; Luidsprekerkasten; Bandrecorders; Hoofdtelefoons; Dvd-spelers; Audio interfaces; Kabels voor optische signaaloverdracht; Acculaders; Oplaadbare batterijen; Hoofdtelefoons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Czytniki [sprzęt do przetwarzania danych]; Sprzęt peryferyjny do komputerów; Obudowy głośników; Magnetofony; Słuchawki [zakładane na głowę]; Odtwarzacze płyt DVD; Interfejsy audio; Przewody do przekazu sygnałów optycznych; Ładowarki do baterii; Baterie do ponownego ładowania; Słuchawki [zakładane na głowę].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Leitores [informática]; Periféricos adaptados para uso com computadores; Caixas de altifalantes; Gravadores ou registadores de fita magnética; Auriculares; Leitores de dvd; Interfaces de áudio; Cabos para transmissão de sinais ópticos; Aparelhos para recarga de acumuladores elétricos; Baterias recarregáveis; Auriculares.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cititoare [aparatură pentru procesarea datelor]; Periferice adaptate pentru a fi folosite la calculatoare; Cutii pentru difuzoare; Magnetofoane; Căști audio; DVD playere; Interfețe audio; Cabluri pentru transmisia de semnale optice; Alimentatoare pentru acumulatoare; Baterii reîncărcabile; Căști.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Čítacie zariadenia (zariadenia na spracovanie údajov); Periférne zariadenia počítačov; Reproduktorové skrinky; Magnetofóny; Slúchadlá; DVD prehrávače; Zvukové rozhrania; Káble na prenos optického signálu; Nabíjacie agregáty elektrických batérií; Dobíjateľné batérie; Slúchadlá s mikrofónom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Čitalniki [oprema za obdelavo podatkov]; Zunanje enote, prilagojene za uporabo z računalniki; Ohišja zvočnikov; Magnetofoni; Slušalke; DVD predvajalniki; Avdio vmesniki; Kabli za prenos optičnih signalov; Električni polnilniki za baterije; Baterije za ponovno polnjenje; Slušalke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Läsare [databehandlingsutrustning]; Kringutrustning anpassade för användning med datorer; Högtalarlådor; Bandinspelare; On-ear hörlurar; DVD spelare; Ljudgränssnitt; Kablar för optisk signalöverföring; Laddare för elektriska batterier; Återuppladdningsbara batterier; Headsets.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/084</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/154</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-14</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1076803</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>38810</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

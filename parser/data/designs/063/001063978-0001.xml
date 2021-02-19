@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2018-10-31T08:48:49</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063978-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-29</ReceivingOfficeDate>
+<DesignIdentifier>001063978-0001</DesignIdentifier>
+<ApplicationNumber>001063978</ApplicationNumber>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-29</ApplicationDate>
+<RegistrationDate>2008-12-29</RegistrationDate>
+<PublicationDate>2009-01-27</PublicationDate>
+<ApplicationReference>FIM0810GM/EU</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-29</ExpiryDate>
+<EffectiveDate>2008-12-29</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-10-29</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061767198</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063978_0001/001063978_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061767199</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063978_0001/001063978_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061767200</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063978_0001/001063978_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061767201</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063978_0001/001063978_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061767202</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063978_0001/001063978_0001_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061767203</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063978_0001/001063978_0001_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061767204</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063978_0001/001063978_0001_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Тенти</IndicationProduct>
+       <IndicationProduct languageCode="cs">Markýzy</IndicationProduct>
+       <IndicationProduct languageCode="da">Rullemarkiser</IndicationProduct>
+       <IndicationProduct languageCode="de">Markisen</IndicationProduct>
+       <IndicationProduct languageCode="el">Μαρκίζες</IndicationProduct>
+       <IndicationProduct languageCode="en">Awnings</IndicationProduct>
+       <IndicationProduct languageCode="es">Toldos</IndicationProduct>
+       <IndicationProduct languageCode="et">Markiisid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Markiisit</IndicationProduct>
+       <IndicationProduct languageCode="fr">Stores bannes</IndicationProduct>
+       <IndicationProduct languageCode="hu">Napellenző ponyvatetők</IndicationProduct>
+       <IndicationProduct languageCode="it">Marquise</IndicationProduct>
+       <IndicationProduct languageCode="lt">Markizės</IndicationProduct>
+       <IndicationProduct languageCode="lv">Audekla nojumes</IndicationProduct>
+       <IndicationProduct languageCode="mt">Purtieri tat-tinda</IndicationProduct>
+       <IndicationProduct languageCode="nl">Zonneschermen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Markizy</IndicationProduct>
+       <IndicationProduct languageCode="pt">Toldos para janelas e portas</IndicationProduct>
+       <IndicationProduct languageCode="ro">Marchize</IndicationProduct>
+       <IndicationProduct languageCode="sk">Markízy</IndicationProduct>
+       <IndicationProduct languageCode="sl">Platnene strehe</IndicationProduct>
+       <IndicationProduct languageCode="sv">Rullmarkiser</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>25.02</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/017</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-27</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/159</PublicationIdentifier>
+        <PublicationSequenceNumber>291544</PublicationSequenceNumber>
+        <PublicationSection>B.2.1</PublicationSection>
+        <PublicationDate>2009-08-14</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/213</PublicationIdentifier>
+        <PublicationSequenceNumber>1088034</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2013-11-08</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/207</PublicationIdentifier>
+        <PublicationSequenceNumber>100739541</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2018-10-31</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>17356</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>4604</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003341272</RecordIdentifier>
+<BasicRecordKind>Transfer of Ownership</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>291544</PublicationSequenceNumber>
+           <PublicationSection>B.2.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-08-14</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006992287</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1088034</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-11-08</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012443729</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100739541</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-10-31</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

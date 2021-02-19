@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:49</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063218-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063218-0001</DesignIdentifier>
+<ApplicationNumber>001063218</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-03-18</PublicationDate>
+<ApplicationReference/>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000062968242</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063218_0001/001063218_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062968244</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063218_0001/001063218_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062968246</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063218_0001/001063218_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062968248</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063218_0001/001063218_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062968250</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063218_0001/001063218_0001_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062968252</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063218_0001/001063218_0001_6.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Hадуваеми столове</IndicationProduct>
+       <IndicationProduct languageCode="cs">Nafukovací židle</IndicationProduct>
+       <IndicationProduct languageCode="da">Oppustelige stole</IndicationProduct>
+       <IndicationProduct languageCode="de">Aufblasbare Stühle</IndicationProduct>
+       <IndicationProduct languageCode="el">Φουσκωτά καθίσματα</IndicationProduct>
+       <IndicationProduct languageCode="en">Inflatable chairs</IndicationProduct>
+       <IndicationProduct languageCode="es">Sillas hinchables</IndicationProduct>
+       <IndicationProduct languageCode="et">Täispuhutavad toolid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Puhallettavat tuolit</IndicationProduct>
+       <IndicationProduct languageCode="fr">Sièges gonflables</IndicationProduct>
+       <IndicationProduct languageCode="hu">Felfújható székek</IndicationProduct>
+       <IndicationProduct languageCode="it">Sedie gonfiabili</IndicationProduct>
+       <IndicationProduct languageCode="lt">Pripučiami foteliai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Piepūšami krēsli</IndicationProduct>
+       <IndicationProduct languageCode="mt">Siġġijiet li jintefħu</IndicationProduct>
+       <IndicationProduct languageCode="nl">Opblaasbare stoelen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Krzesła nadmuchiwane</IndicationProduct>
+       <IndicationProduct languageCode="pt">Cadeiras insufláveis</IndicationProduct>
+       <IndicationProduct languageCode="ro">Scaune gonflabile</IndicationProduct>
+       <IndicationProduct languageCode="sk">Nafukovacie stoličky</IndicationProduct>
+       <IndicationProduct languageCode="sl">Napihljivi stoli</IndicationProduct>
+       <IndicationProduct languageCode="sv">Uppblåsbara stolar</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>06.01</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/050</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-03-18</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325817</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

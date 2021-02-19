@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-28T09:52:39</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222704</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222704</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<RegistrationDate>2020-07-28</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-08</ExpiryDate>
+<MarkCurrentStatusCode milestone="12" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>BRITTON</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Стенни шкафове за баня; Стенни шкафове за баня; Обзавеждане за бани; Oгледала (посребрено стъкло); Мебели за банята; Пръчки за завеси за баня; Умивални; Части и принадлежности за всички горепосочени стоки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Koupelnové skříňky; Koupelnové skříňky; Koupelnový nábytek; Zrcadla; Nábytek do koupelny; Držáky na sprchové závěsy; Dřezy; Části a vybavení veškerého výše uvedeného zboží.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Badeværelsesskabe; Badeværelsesskabe; Badeværelsesmøbler; Spejle (forsølvet glas); Møbler til badeværelser; Stænger til bruseforhæng; Håndvaske; Dele og tilbehør til alle førnævnte varer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Badschränke; Badschränke; Badezimmermöbel; Spiegel [versilbertes Glas]; Badmöbel; Duschvorhangschienen; Waschtische; Teile und Zusatzteile für alle vorstehend genannten Waren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ερμάρια μπάνιου· Ερμάρια μπάνιου· Έπιπλα μπάνιου· Καθρέπτες (επαργυρωμένο γυαλί)· Έπιπλα για μπάνια· Ράβδοι για κουρτίνες ντους· Έπιπλα νιπτήρα· Μέρη και εξαρτήματα για όλα τα προαναφερθέντα είδη.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Bathroom cabinets; bathroom cupboards; bathroom furniture; mirrors; furniture for the bathroom; shower curtain rails; washstands; parts and fittings for all the aforesaid goods.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Armarios de cuartos de baño; Armarios de cuartos de baño; Mobiliario de cuarto de baño; Espejos (vidrio argentado); Muebles para el cuarto de baño; Carriles para cortinas de ducha; Lavabos empotrados; Piezas y accesorios para todos los productos citados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Vannitoakapid; Vannitoakapid; Vannitoamööbel; Peeglid (hõbetatud klaas); Vannitoamööbel; Dušikardina siinid; Tualettlauad; Kõigi eelnimetatud kaupade osad ja tarvikud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kylpyhuonekaapit; Kylpyhuonekaapit; Kylpyhuonekalusteet; Peilit (hopeoitu lasi); Kylpyhuonekalusteet; Suihkuverhokiskot; Pesupöydät; Osat ja tarvikkeet kaikille edellä mainituille tavaroille.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Armoires de salle de bains; Armoires de salle de bains; Mobilier de salle de bains; Miroirs (verre argenté); Mobilier de salle de bains; Tringles à rideau de douche; Lavabos (meubles); Pièces et parties constitutives pour tous les produits précités.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kupaonski ormari; Kupaonski ormari; Kupaonski namještaj; Ogledala (posrebreno staklo); Namještaj za kupaonice; Šipke za zavjese za tuširanje; Toaletni stolići; Dijelovi i oprema za sve prethodno navedene proizvode.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fürdőszobaszekrények; Fürdőszobaszekrények; Fürdőszobabútorok; Tükrök (ezüstözött üveg); Fürdőszobabútorok; Zuhanyfüggönysínek; Mosogatók, lefolyók; A fent említett összes áru alkatrészei és szerelvényei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Armadi da bagno; Armadi da bagno; Mobili per il bagno; Specchi (vetro argentato); Mobili per il bagno; Binari per tende doccia; Piani d'appoggio per lavabi; Parti e accessori per tutti i prodotti summenzionati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vonios kambario spintos; Vonios kambario spintos; Vonios kambario baldai; Veidrodžiai; Vonios kambario baldai; Dušo užuolaidų bėgeliai; Plautuvės (virtuvinės); Visų anksčiau nurodytų prekių dalys ir priedai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Vannas istabu skapīši; Vannas istabu skapīši; Vannasistabas mēbeles; Spoguļi; Vannas istabu iekārtas; Dušas aizkaru sliedes; Izlietnes; Visu iepriekš minēto preču daļas un piederumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Armarji tal-kamra tal-banju; Armarji tal-kamra tal-banju; Għamara tal-kmamar tal-banju; Mirja (silvered glass); Għamara għall-kmamar tal-banju; Vireg tal-purtieri tad-doċċa; Sinkijiet; Partijiet u tagħmir għall-affarijiet kollha imsemmija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Badkamerkasten; Badkamerkasten; Badkamermeubilair; Spiegels (verzilverd glas); Badkamermeubilair; Rails voor douchegordijnen; Wastafels; Onderdelen en accessoires voor al de voornoemde goederen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Szafki do łazienek; Szafki do łazienek; Meble łazienkowe; Lustra (srebrzone szkło); Meble łazienkowe; Drążki prysznicowe do zasłon; Toaletki; Części i akcesoria do wszystkich wyżej wymienionych towarów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Armários de casa de banho; Armários de casa de banho; Mobiliário para casas de banho; Espelhos (vidro prateado); Móveis para casa de banho; Varões de cortina de duche; Mesas de lavatório; Peças e acessórios para todos os produtos atrás citados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dulapuri pentru baie; Dulapuri pentru baie; Mobilier de baie; Oglinzi (sticlă argintată); Mobilier pentru baie; Şine pentru perdele de duş; Lavoare; Piese şi accesorii pentru toate produsele menţionate anterior.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Skrinky do kúpeľní; Skrinky do kúpeľní; Nábytok do kúpeľne; Zrkadlá; Kúpeľňový nábytok; Koľajnice pre sprchové závesy; Skrinky s umývadlom (nábytok); Časti a súčasti pre všetky vyššie uvedené výrobky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Omare za kopalnico; Omare za kopalnico; Pohištvo za kopalnice; Ogledala (posrebreno steklo); Pohištvo za kopalnico; Tirnice za zavese za tuš; Stojala z umivalnikom; Deli in komponente za vse omenjeno blago.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Badrumsskåp; Badrumsskåp; Badrumsmöbler; Speglar (försilvrat glas); Möbler för badrummet; Duschdraperiskenor; Tvättställ; Delar och komponenter till alla nämnda varor.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>21</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Принадлежности и контейнери за бита и банята; Средства за почистване; Стъкло, необработено или полуобработено [не за строителни цели]; Стъклария, порцеланови и керамични изделия, които не са включени в други класове; Дозатори за сапун, поставки за сапун, кутии за сапун, сапунерки, помпи за сапун, поставки за четки за зъби; Тоалетни принадлежности, държачи за тоалетна хартия; Закачалки за хавлиени кърпи; Пръстени за окачване на кърпи; Части и принадлежности за горепосочените стоки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Náčiní a nádoby pro domácnost nebo koupelnu; Čisticí potřeby; Sklo surové nebo jako polotovar, s výjimkou stavebního skla; Sklo, porcelán a majolika neobsažené v jiných třídách; Krabičky na mýdlo, misky na mýdlo, dávkovače mýdla, držáky na mycí houby, držáky na zubní kartáčky; Toaletní potřeby, držáky na role toaletního papíru; Věšáky na ručníky; Kruhové věšáky na ručníky; Části a příslušenství výše uvedeného zboží.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Husholdnings- eller badeværelsesredskaber og -beholdere; Redskaber til rengøringsformål; Glas som råmateriale eller i halvforarbejdet tilstand, undtagen bygningsglas; Glasvarer, porcelæn og keramik, ikke indeholdt i andre klasser; Sæbeetuier, sæbeskåle, sæbeautomater, svampeholdere, tandbørsteholdere; Toiletredskaber, toiletrulleholdere; Håndklædestativer; Ringe til håndklæder; Dele og tilbehør til alle førnævnte varer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Haushalts- und Badutensilien und -behälter; Putzzeug; Glas, roh oder teilweise bearbeitet, ausgenommen Bauglas; Glaswaren, Porzellan und Steingut, so weit sie nicht in anderen Klassen enthalten sind; Seifendosen, -schalen, Seifenspender, Schwammhalter, Zahnbürstenhalter; Toilettenutensilien, Toilettenpapierhalter; Handtuchstangen; Handtuchringe; Teile der und Zubehör für die vorstehend genannten Waren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μικρά σκεύη και δοχεία οικιακής χρήσης ή για το μπάνιο· Είδη καθαρισμού· Ακατέργαστο ή ημικατεργασμένο γυαλί (εκτός της οικοδομικής υάλου)· Είδη υαλουργίας, πορσελάνη και φαγεντιανά μη περιλαμβανόμενα σε άλλες κλάσεις· Σαπουνοθήκες, δίσκοι για σαπούνι, διανομείς σαπουνιού, υποδοχές σφουγγαριών, υποδοχές για οδοντόβουρτσες· Σύνεργα τουαλέτας, θήκες για χαρτί υγείας· Σχάρες πετσετών· Κρίκοι για πετσέτες· Μέρη και εξαρτήματα για τα προαναφερθέντα είδη.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Household or bathroom utensils and containers; articles for cleaning purposes; un-worked or semi-worked glass (except glass used in building); glassware, porcelain and earthenware not included in other classes; soap boxes, soap dishes, soap dispensers, sponge holders, toothbrush holders; toilet utensils, toilet roll holders; towel rails; towel rings; parts and fittings for the aforesaid goods.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Utensilios y recipientes para el baño o la casa; Material de limpieza; Vidrio en bruto o semielaborado, excepto el vidrio de construcción; Artículos de cristalería, porcelana y loza no comprendidos en otras clases; Cajas para jabón, jaboneras, dispensadores de jabón, portaesponjas, soportes para cepillos de dientes; Utensilios de aseo, portarrollos de papel higiénico; Toalleros; Toalleros de aro; Piezas y accesorios para todos los productos citados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Majapidamis- või vannitoariistad ja -mahutid; Puhastus- ja koristustarbed; Töötlemata või pooltöödeldud klaas (v.a ehitusklaas); Klaas-, portselan- ja savinõud, mis ei kuulu teistesse klassidesse; Seebikarbid, seebialused, seebijaoturid, pesukäsnaalused, hambaharjahoidjad; Tualetitarvikud, tualettpaberirullide hoidikud; Rätikupuud, -nagid; Rätikurõngad; Eelnimetatud kaupade osad ja tarvikud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Talous- ja kylpyhuonevälineet ja -astiat; Puhdistukseen käytettävät tarvikkeet; Lasi käsittelemättömänä tai puolivalmisteena [paitsi rakennuslasi]; Lasitavarat, posliini ja keramiikka, jotka eivät sisälly muihin luokkiin; Saippuarasiat, saippuatelineet, saippuanannostelulaitteet, sienitelineet, hammasharjatelineet; WC-tarvikkeet, WC-paperirullan pidikkeet; Pyyhetelineet; Pyyherenkaat; Edellä mainittujen tavaroiden osat ja tarvikkeet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Ustensiles et récipients pour le ménage ou la salle de bain; Matériel de nettoyage; Verre brut ou mi-ouvré à l'exception du verre de construction; Verrerie, porcelaine et faïence non comprises dans d'autres classes; Boîtes à savon, porte-savons, distributeurs de savon, porte-éponges, supports pour brosses à dents; Ustensiles de toilette, porte-rouleaux hygiéniques; Étendoirs pour serviettes; Anneaux porte-serviettes; Pièces et accessoires pour les articles précités.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pribor i spremnici za domaćinstvo ili kupaonicu; Pribor za čišćenje; Staklo sirovo ili poluobrađeno [osim stakla za građevinarstvo]; Stakleni proizvodi, porculansko i keramičko posuđe koje nije obuhvaćeno drugim razredima; Kutije za sapun, posude za sapun, naprave za otpuštanje sapuna, dršci spužvi, stalci za četkice za zube; Toaletni pribor, držači toaletnog papira; Stalci za ručnike; Prstenovi za vješanje ručnika; Dijelovi i oprema za prethodno navedene proizvode.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Háztartási vagy fürdőszobai eszközök és edények; Takarítóeszközök; Üveg nyers vagy félig megmunkált állapotban, az építési üveg kivételével; Üveg-, porcelán- és fajanszáruk, amelyek nem tartoznak más osztályokba; Szappandobozok, szappantartók, szappanadagolók, szivacstartók, fogkefetartók; Toaletteszközök, WC-papír tartók; Törölköző állványok; Törölközőtartó gyűrűk; A fent említett áruk alkatrészei és szerelvényei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Utensili e recipienti per la casa o il bagno; Materiale per pulizia; Vetro grezzo o semilavorato all'eccezione del vetro di costruzione; Vetreria, porcellana e maiolica non comprese in altre classi; Scatole per sapone, piattini portasapone, distributori di sapone, porta-spugne, portaspazzolini da denti; Utensili da toilette, portarotoli di carta igienica; Supporti per asciugamani; Portasciugamani ad anello; Parti e accessori per i suddetti articoli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Buitiniai arba vonios rakandai ir indai; Valymo reikmenys; Neapdirbtas ar iš dalies apdirbtas stiklas [išskyrus statybinį stiklą]; Stiklo, porceliano ir keramikos gaminiai, nepriskirti prie kitų klasių; Muilo dėžutės, muilinės, muilo dalytuvai, kempinių laikikliai, dantų šepetėlių laikikliai; Tualetinio reikmenys, popieriaus laikikliai; Rankšluosčių džiovyklos; Rankšluosčių žiedai; Anksčiau nurodytų prekių dalys ir priedai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mājsaimniecības vai vannasistabas piederumi un tvertnes; Tīrīšanas un apkopšanas rīki un ierīces; Neapstrādāts vai daļēji apstrādāts stikls (izņemot stiklu celtniecības vajadzībām); Izstrādājumi no stikla, porcelāna, fajansa un keramikas, kas nav ietverti citās klasēs; Ziepju kastes, ziepju trauki, ziepju dozatori, sūkļu turētāji, zobu suku turētāji; Tualetes piederumi, tualetes papīra turētāji; Dvieļu pakaramie; Dvieļu riņķi; Iepriekš minēto preču daļas un piederumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Għodda u kontenituri domestiċi jew tal-kamra tal-banju; Oġġetti għat-tindif; Ħġieġ, mhux maħdum jew nofsu maħdum, minbarra ħġieġ użat fil-bini; Oġġetti tal-ħġieġ, porċellana u oġġetti tal-fuħħar mhux inklużi fi klassijiet oħra; Sapunieri, reċipjenti għas-sapun, distributuri tas-sapun, kontenituri ta' l-isponoż, kontenituri ta' l-ixkupilji tas-snien; Aċċessorji għat-tojlit, konteniuri għar-rollijiet tat-tojlit; Xtillieri tax-xugamani; Ħoloq għax-xugamani; Partijiet u fittings għall-oġġetti msemmija qabel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Gerei en vaatwerk voor de badkamer of de huishouding; Reinigingsmateriaal; Glas, ruw of halfbewerkt, uitgezonderd voor bouwdoeleinden; Glas-, porselein- en aardewerk voor zover niet begrepen in andere klassen; Zeepdozen, zeephouders, zeepdispensers, sponzenbakjes, houders voor tandenborstels; Toiletgerei, toiletrolhouders; Handdoekrekken; Ringen voor handdoeken; Onderdelen en accessoires voor alle bovengenoemde goederen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Przybory i pojemniki gospodarcze lub łazienkowe; Sprzęt do czyszczenia; Nieprzetworzone lub półprzetworzone szkło (z wyjątkiem szkła stosowanego w budownictwie); Wyroby szklane, porcelanowe i ceramiczne nie ujęte w innych klasach; Mydelniczki, mydelniczki-tacki, dozowniki do mydła, uchwyty do gąbek, stojaki na szczoteczki do zębów; Przybory toaletowe, pojemniki na papier toaletowy; Wieszaki na ręczniki; Wieszaki do ręczników w kształcie pierścieni; Części i akcesoria do wszystkich wyżej wymienionych towarów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Utensílios e recipientes para uso doméstico ou para casa de banho; Material de limpeza; Vidro bruto ou semitrabalhado, exceto vidro para construção; Vidraria, porcelana e faiança não incluídas noutras classes; Saboneteiras, distribuidores de sabão, porta-esponjas, suportes para escovas de dentes; Utensílios para casas de banho, porta-rolos de papel higiénico; Suportes para toalhas; Argolas para toalhas; Peças e acessórios para os artigos atrás referidos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Ustensile şi recipiente pentru menaj sau baie; Material pentru curăţare; Sticlă brută sau semiprelucrată, cu excepţia sticlei folosite în construcţii; Sticlărie, porţelan şi faianţă necuprinse în alte clase; Cutii pentru săpun, săpuniere, dozatoare (- de săpun), suporturi de bureţi, suporturi pentru periuţe de dinţi; Ustensile de toaletă, suporturi de hârtie igienică; Rafturi pentru prosoape; Inele pentru prosoape; Piese şi accesorii pentru produsele menţionate anterior.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Domáce alebo kúpeľňové potreby a nádoby; Prostriedky a pomôcky na čistenie; Sklo okrem stavebného (surovina alebo polotovar); Výrobky zo skla, porcelánu a kameniny, ktoré nie sú zahrnuté v iných triedach; Misky na mydlo, misky na mydlo, dávkovače mydla, držiaky na špongie, stojany na zubné kefky; Držiaky na toaletný papier, toaletné pomôcky; Držiaky na uteráky; Kruhové držiaky na uteráky; Časti a súčasti pre vyššie uvedené výrobky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Priprave in posode za gospodinjstvo ali kopalnico; Čistilne priprave; Steklo, neobdelano ali delno obdelano, razen za gradbeništvo; Steklenina, porcelan in fajansa, ki jih ne obsegajo drugi razredi; Škatlice za milo, posodice za milo, lončki za tekoče milo, podstavki za gobice, držala za zobne ščetke; Pripomočki za stranišče, držala za toaletni papir; Obešalniki za brisače; Obešala za brisače v obliki obroča; Deli in komponente za omenjeno blago.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Redskap och behållare för hushåll eller badrum; Artiklar för rengöringsändamål; Obearbetat eller delvis bearbetat glas, med undantag av byggnadsglas; Varor av glas, porslin och keramik, ej ingående i andra klasser; Tvålaskar, tvålkoppar, tvålautomater, svamphållare, tandborsthållare; Toalettpappershållare, toalettredskap; Handdukshängare; Handduksringar; Delar och tillbehör till ovan nämnda varor.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/073</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>762334</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>39509</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

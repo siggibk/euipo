@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-08-17T11:36:51</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063911-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-29</ReceivingOfficeDate>
+<DesignIdentifier>001063911-0001</DesignIdentifier>
+<ApplicationNumber>001063911</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ApplicationDate>2008-12-29</ApplicationDate>
+<RegistrationDate>2008-12-29</RegistrationDate>
+<PublicationDate>2009-01-29</PublicationDate>
+<ApplicationReference>AM/CDE/2C020750</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-29</ExpiryDate>
+<EffectiveDate>2008-12-29</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-12-17</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061766931</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063911_0001/001063911_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061766932</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063911_0001/001063911_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061766933</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063911_0001/001063911_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061766934</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063911_0001/001063911_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061766935</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063911_0001/001063911_0001_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061766936</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063911_0001/001063911_0001_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061766937</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063911_0001/001063911_0001_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Капачки за химикалки</IndicationProduct>
+       <IndicationProduct languageCode="cs">uzávěry pro pera</IndicationProduct>
+       <IndicationProduct languageCode="da">Hætter til penne</IndicationProduct>
+       <IndicationProduct languageCode="de">Schreibstiftkappen</IndicationProduct>
+       <IndicationProduct languageCode="el">Καπάκια στυλογράφων</IndicationProduct>
+       <IndicationProduct languageCode="en">Pen caps</IndicationProduct>
+       <IndicationProduct languageCode="es">Tapes de plumas estilográficas</IndicationProduct>
+       <IndicationProduct languageCode="et">Pliiatsikorgid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Kynänsuojukset</IndicationProduct>
+       <IndicationProduct languageCode="fr">Capuchons de stylos</IndicationProduct>
+       <IndicationProduct languageCode="hu">Tollkupakok</IndicationProduct>
+       <IndicationProduct languageCode="it">Cappucci di penne stilografiche</IndicationProduct>
+       <IndicationProduct languageCode="lt">Rašiklių dangteliai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Zīmuļu vāciņi</IndicationProduct>
+       <IndicationProduct languageCode="mt">Tokok tal-pinen</IndicationProduct>
+       <IndicationProduct languageCode="nl">Pennendop</IndicationProduct>
+       <IndicationProduct languageCode="pl">Nasadki długopisów</IndicationProduct>
+       <IndicationProduct languageCode="pt">Tampas de canetas</IndicationProduct>
+       <IndicationProduct languageCode="ro">Capace de pixuri</IndicationProduct>
+       <IndicationProduct languageCode="sk">Uzávery na perá</IndicationProduct>
+       <IndicationProduct languageCode="sl">Pokrovčki za penkala</IndicationProduct>
+       <IndicationProduct languageCode="sv">Huvar för pennor</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>19.06</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PriorityDetails>
+       <Priority>
+        <PriorityCountryCode>JP</PriorityCountryCode>
+        <PriorityNumber>2008-017100</PriorityNumber>
+        <PriorityDate>2008-07-02</PriorityDate>
+        <PriorityStatusCode>Claimed</PriorityStatusCode>
+       </Priority>
+      </PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/019</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-29</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/062</PublicationIdentifier>
+        <PublicationSequenceNumber>225539</PublicationSequenceNumber>
+        <PublicationSection>A.3.2</PublicationSection>
+        <PublicationDate>2009-04-03</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/002</PublicationIdentifier>
+        <PublicationSequenceNumber>1129224</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2014-01-07</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/034</PublicationIdentifier>
+        <PublicationSequenceNumber>100326326</PublicationSequenceNumber>
+        <PublicationSection>B.9.2</PublicationSection>
+        <PublicationDate>2018-02-19</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/042</PublicationIdentifier>
+        <PublicationSequenceNumber>100337389</PublicationSequenceNumber>
+        <PublicationSection>B.9.2</PublicationSection>
+        <PublicationDate>2018-03-01</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/241</PublicationIdentifier>
+        <PublicationSequenceNumber>100814875</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2018-12-19</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>113460</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>19503</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006993434</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1129224</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-07</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012393627</RecordIdentifier>
+<BasicRecordKind>Appointment Replacement and Deletion of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100326326</PublicationSequenceNumber>
+           <PublicationSection>B.9.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-02-27</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003005679</RecordIdentifier>
+<BasicRecordKind>Relative Errors on Part A on Design</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>225539</PublicationSequenceNumber>
+           <PublicationSection>A.3.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-04-03</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012443719</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100814875</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-12-19</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-08-17T11:36:50</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063176-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063176-0001</DesignIdentifier>
+<ApplicationNumber>001063176</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-03-26</PublicationDate>
+<ApplicationReference>JCF/D511605EM</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-11-30</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061756037</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063176_0001/001063176_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061756038</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063176_0001/001063176_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061756039</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063176_0001/001063176_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061756040</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063176_0001/001063176_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061756043</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063176_0001/001063176_0001_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061756044</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063176_0001/001063176_0001_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061756045</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063176_0001/001063176_0001_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Арматури за светодиодни лампи</IndicationProduct>
+       <IndicationProduct languageCode="cs">LED osvětlovací tělesa</IndicationProduct>
+       <IndicationProduct languageCode="da">Fatninger til LED-lamper</IndicationProduct>
+       <IndicationProduct languageCode="de">LED-Lampenarmaturen</IndicationProduct>
+       <IndicationProduct languageCode="el">Σταθερά εξαρτήματα λυχνιών με φωτοδιόδους (LED)</IndicationProduct>
+       <IndicationProduct languageCode="en">Led lamp fixtures</IndicationProduct>
+       <IndicationProduct languageCode="es">Apliques de iluminación por LED</IndicationProduct>
+       <IndicationProduct languageCode="et">Valgusdioodvalgustid</IndicationProduct>
+       <IndicationProduct languageCode="fi">LED-lamppujen kiinnittimet</IndicationProduct>
+       <IndicationProduct languageCode="fr">armatures pour éclairage à LED</IndicationProduct>
+       <IndicationProduct languageCode="hu">LED-lámpa tartók</IndicationProduct>
+       <IndicationProduct languageCode="it">Impianti fissi per lampade LED</IndicationProduct>
+       <IndicationProduct languageCode="lt">Šviesos diodų lempų armatūra</IndicationProduct>
+       <IndicationProduct languageCode="lv">LED gaismekļi</IndicationProduct>
+       <IndicationProduct languageCode="mt">Unitajiet b'lampi għad-dawl bl-LEDs</IndicationProduct>
+       <IndicationProduct languageCode="nl">Bevestigingen voor LED-lampen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Oprawy lamp LED</IndicationProduct>
+       <IndicationProduct languageCode="pt">Dispositivos de fixação para lâmpadas LED</IndicationProduct>
+       <IndicationProduct languageCode="ro">Armaturi pentru lămpi cu leduri</IndicationProduct>
+       <IndicationProduct languageCode="sk">LED osvetľovacie jednotky</IndicationProduct>
+       <IndicationProduct languageCode="sl">pritrdilni elementi LED-luči</IndicationProduct>
+       <IndicationProduct languageCode="sv">LED-lamparmaturer</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>26.05</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PriorityDetails>
+       <Priority>
+        <PriorityCountryCode>US</PriorityCountryCode>
+        <PriorityNumber>29/320,462</PriorityNumber>
+        <PriorityDate>2008-06-27</PriorityDate>
+        <PriorityStatusCode>Claimed</PriorityStatusCode>
+       </Priority>
+      </PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/056</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-03-26</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/213</PublicationIdentifier>
+        <PublicationSequenceNumber>319912</PublicationSequenceNumber>
+        <PublicationSection>B.2.2</PublicationSection>
+        <PublicationDate>2009-10-23</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2010/067</PublicationIdentifier>
+        <PublicationSequenceNumber>399815</PublicationSequenceNumber>
+        <PublicationSection>B.2.2</PublicationSection>
+        <PublicationDate>2010-03-26</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2012/127</PublicationIdentifier>
+        <PublicationSequenceNumber>802573</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2012-07-05</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2012/127</PublicationIdentifier>
+        <PublicationSequenceNumber>801877</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2012-07-05</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2012/128</PublicationIdentifier>
+        <PublicationSequenceNumber>803990</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2012-07-06</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2012/135</PublicationIdentifier>
+        <PublicationSequenceNumber>820403</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2012-07-17</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/009</PublicationIdentifier>
+        <PublicationSequenceNumber>1137554</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2014-01-16</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2016/036</PublicationIdentifier>
+        <PublicationSequenceNumber>1687882</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2016-02-23</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/219</PublicationIdentifier>
+        <PublicationSequenceNumber>100765858</PublicationSequenceNumber>
+        <PublicationSection>B.2.2</PublicationSection>
+        <PublicationDate>2018-11-19</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/230</PublicationIdentifier>
+        <PublicationSequenceNumber>100794471</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2018-12-04</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>352544</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>11227</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012516909</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100765858</PublicationSequenceNumber>
+           <PublicationSection>B.2.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-11-19</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003868233</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>399815</PublicationSequenceNumber>
+           <PublicationSection>B.2.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2010-03-26</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003492224</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>319912</PublicationSequenceNumber>
+           <PublicationSection>B.2.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-10-23</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>010310990</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1687882</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2016-02-24</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>005976984</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>820403</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2012-07-17</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>005942242</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>802573</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2012-07-05</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>005943273</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>803990</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2012-07-06</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>005942119</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>801877</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2012-07-05</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012442248</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100794471</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-12-04</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006985901</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1137554</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-16</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

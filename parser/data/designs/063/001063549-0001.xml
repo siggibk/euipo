@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-11-05T11:32:11</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063549-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063549-0001</DesignIdentifier>
+<ApplicationNumber>001063549</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-03-02</PublicationDate>
+<ApplicationReference/>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2018-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2019-11-01</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000062488421</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063549_0001/001063549_0001_1.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Бижута, скъпоценности</IndicationProduct>
+       <IndicationProduct languageCode="cs">Klenoty</IndicationProduct>
+       <IndicationProduct languageCode="da">Juvelerarbejder, smykker</IndicationProduct>
+       <IndicationProduct languageCode="de">Schmuck</IndicationProduct>
+       <IndicationProduct languageCode="el">Κοσμήματα</IndicationProduct>
+       <IndicationProduct languageCode="en">Jewellery</IndicationProduct>
+       <IndicationProduct languageCode="es">Joyería</IndicationProduct>
+       <IndicationProduct languageCode="et">Juveeltooted</IndicationProduct>
+       <IndicationProduct languageCode="fi">Korut</IndicationProduct>
+       <IndicationProduct languageCode="fr">Bijouterie</IndicationProduct>
+       <IndicationProduct languageCode="hu">Ékszerek</IndicationProduct>
+       <IndicationProduct languageCode="it">Articoli di gioielleria</IndicationProduct>
+       <IndicationProduct languageCode="lt">Juvelyriniai dirbiniai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Juvelierizstrādājumi</IndicationProduct>
+       <IndicationProduct languageCode="mt">Ġojjellerija</IndicationProduct>
+       <IndicationProduct languageCode="nl">Juwelierswaren</IndicationProduct>
+       <IndicationProduct languageCode="pl">Wyroby jubilerskie</IndicationProduct>
+       <IndicationProduct languageCode="pt">Joalharia, bijutaria</IndicationProduct>
+       <IndicationProduct languageCode="ro">Bijuterii</IndicationProduct>
+       <IndicationProduct languageCode="sk">Šperky</IndicationProduct>
+       <IndicationProduct languageCode="sl">Nakit</IndicationProduct>
+       <IndicationProduct languageCode="sv">Smycken</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>11.01</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/038</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-03-02</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/032</PublicationIdentifier>
+        <PublicationSequenceNumber>1167245</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2014-02-18</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2019/210</PublicationIdentifier>
+        <PublicationSequenceNumber>101479868</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2019-11-05</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>42417</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006984615</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1167245</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-02-18</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

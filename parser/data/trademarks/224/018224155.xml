@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-28T12:49:14</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224155</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224155</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<RegistrationDate>2020-08-25</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-08</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>RITOSTA</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Тениски; Трикотажно и плетено облекло; Палта; Поли; Пижами; Слипове; Сутиени; Бодита [бельо]; Дамски пликчета; Шалчета; Пояси, колани; Шапки и други принадлежности за глава; Трикотаж; Обувки; Ръкавици [облекло]; Бански костюми; Сукмани.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Trička; Pletené oděvní výrobky; Kabáty; Sukně; Pyžama; Pánské krátké spodky; Podprsenky; Body (spodní prádlo); Dámské spodní kalhotky; Šátky a šály; Podvazkové pásy; Pokrývky hlavy; Punčochové zboží; Obuv; Rukavice [oděvy]; Plavky; Šatové sukně.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">T-shirts; Strikkede beklædningsgenstande; Frakker; Nederdele; Pyjamasser; Underbukser; Brystholdere; Chemiser (undertøj); Knickers; Tørklæder; Hofteholdere; Hattemagervarer; Trikotagevarer; Fodtøj; Handsker [beklædning]; Badedragter; Spencerkjoler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">T-Shirts; Strickwaren [Bekleidung]; Mäntel; Röcke; Pyjamas; Slips; Büstenhalter; Bodys [Unterbekleidung]; Damenschlüpfer; Halstücher; Hüftgürtel; Hüte; Wirkwaren [Bekleidung]; Schuhwaren; Handschuhe [Bekleidung]; Badekleidung; Trägerkleider.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μπλουζάκια (τι-σερτ)· Πλεκτά [ενδύματα]· Μπουφάν· Φούστες· Πιτζάμες· Παντελόνια· Στηθόδεσμοι· Κορμάκια [εσώρουχα]· Κιλότες· Μαντήλια για το λαιμό· Ζώνες [εσώρουχα]· Είδη πιλοποιίας· Πλεκτά είδη· Υποδήματα· Γάντια· Μαγιό· Αμάνικα φορέματα τύπου ποδιάς.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">T-shirts; Knitwear [clothing]; Coats; Skirts; Pyjamas; Underpants; Brassieres; Teddies [underclothing]; Panties; Scarfs; Girdles; Hats; Hosiery; Gloves [clothing]; Swimsuits; Jumper dresses.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Camisetas [de manga corta]; Prendas de punto; Abrigos; Faldas; Pijamas; Slips; Sostenes; Bodis [ropa interior]; Bragas; Fulares; Fajas [ropa interior]; Sombreros; Prendas de calcetería; Calzado; Guantes [prendas de vestir]; Trajes de baño [bañadores]; Pichis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">T-särgid; Kudumid (rõivad); Kasukad, mantlid; Seelikud; Pidžaamad; Aluspüksid; Rinnahoidjad; Bodid [aluspesu]; Püksikud; Sallid; Toetavad vööd, kere alaosa toetavad korsetid; Kübarad, vormimütsid; Trikookaubad, trikotaaž; Jalatsid; Kindad (rõivad); Ujumistrikood, supelkostüümid; Pihikseelikud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">T-paidat; Neulevaatteet; Takit; Hameet; Pyjamat; Housut; Rintaliivit; Bodyt [alusvaatteet]; Naisten alushousut; Huivit; Liivit (Naisten -); Päähineet; Sukkatuotteet; Jalkineet; Käsineet; Uima-asusteet; Neulemekot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Tee-shirts; Tricots [vêtements]; Manteaux; Jupes; Pyjamas; Slips; Soutiens-gorge; Bodys [vêtements de dessous]; Culottes [sous-vêtements]; Foulards; Gaines [sous-vêtements]; Chapeaux; Bonneterie; Chaussures; Gants [habillement]; Costumes de bain [maillots de bain]; Robes-chasubles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Majice kratkih rukava; Pletena odjeća [odjevni predmeti]; Kaputi; Suknje; Pidžame; Hlače; Grudnjaci; Bodiji [donje rublje]; Gaćice; Rupci [fulari]; Steznici od struka do kukova [donje rublje za žene]; Pokrivala za glavu; Artikli iz grupe čarapa; Obuća; Rukavice; Kupaći kostimi; Haljine na tregere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Pólók; Kötöttáruk [ruházat]; Kabátok, dzsekik; Szoknyák; Pizsamák; Hosszúnadrágok; Melltartók; Teddyk [alsónemű]; Bugyik; Sálak; Csípőszorítók; Kalapáruk; Harisnyaáruk, kötöttáruk; Lábbelik; Kesztyűk [ruházat]; Fürdőruhák, úszódresszek; Kötényruhák.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tee-shirt; Indumenti lavorati a maglia; Cappotti; Gonne; Pigiama; Mutandine [slip]; Reggiseno; Body [biancheria intima]; Culottes [biancheria intima]; Foulards [fazzoletti]; Guaine [sottovesti]; Cappelli; Maglieria; Calzature; Guanti [abbigliamento]; Costumi da bagno; Abiti scamiciati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Marškinėliai; Megzti drabužiai; Paltai; Sijonai; Pižamos; Moteriškos kelnaitės; Liemenėlės; Naktiniai drabužiai; Moteriškos kelnaitės; Šalikai; Juostos; Galvos apdangalai; Trikotažo gaminiai; Apavas; Pirštinės [drabužiai]; Maudymosi kostiumai; Sarafanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">T-krekli; Trikotāžas izstrādājumi; Dūnu jakas; Svārki; Pidžamas; Bikses; Krūšturi; Bodiji [apakšveļa]; Biksītes; Kaklauti; Gurnu korsetes (apakšveļa); Galvassegas; Zeķu izstrādājumi; Kurpes; Cimdi; Peldkostīmi; Sarafānkleitas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Flokkijiet forma ta' T [T-shirts]; Xogħol tal-malja [lbies]; Ġkieket; Dbielet; Piġamas; Qliezet ta' taħt tal-irġiel; Riċipetti; Teddies [lbies ta' taħt]; Qliezet ta' taħt għan-nisa; Xalpi; Panċieri; Xedd ir-ras; Maljerija; Xedd is-saqajn; Ingwanti; Malji tal-għawm; Ilbiesi mingħajr kmiem jew għonq.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">T-shirts; Gebreide kleding; Mantels; Rokken; Pyjama's; Slips; Bustehouders; Bodystockings; Slips; Halsdoeken; Step-ins; Hoofddeksels; Breigoederen; Schoeisel; Handschoenen [kleding]; Badpakken; Overgooiers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Koszulki z krótkim rękawem; Dzianina [odzież]; Płaszcze; Spódnice; Piżamy; Majtki; Biustonosze; Body [bielizna]; Majtki damskie; Szaliki; Pasy elastyczne wyszczuplające [bielizna]; Nakrycia głowy; Wyroby pończosznicze; Obuwie; Rękawiczki [odzież]; Kostiumy kąpielowe; Sukienka na szelkach do noszenia na bluzkę.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">T-shirts; Roupa de malha; Casacos; Saias; Pijamas; Cuecas; Soutiens; Body [roupa interior]; Cuecas [roupa interior]; Cachecóis; Cintas elásticas [roupa interior]; Chapéus; Meias de malha; Calçado; Luvas [vestuário]; Fatos de banho; Vestidos jumper.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Tricouri; Tricoturi [îmbrăcăminte]; Mantouri; Fuste; Pijamale; Chiloţi; Sutiene şi brasiere; Body-uri [lenjerie de corp]; Chiloţi de damă; Eşarfe; Burtiere [lenjerie de corp]; Articole pentru acoperirea capului; Tricotaje; Articole de încălţăminte; Mănuşi [articole de îmbrăcăminte]; Costume de baie întregi; Sarafane (rochii).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Tričká; Pleteniny (oblečenie); Bundy, saká; Sukne; Pyžamá; Krátke priliehavé pánske spodky (slipy); Podprsenky; Body (spodná bielizeň); Dámske nohavičky; Šatky, šály; Šnurovačky; Pokrývky hlavy; Pleteniny; Obuv; Rukavice; Plavky; Šatové sukne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Majice s kratkimi rokavi; Pletenine [oblačila]; Plašči; Ženska krila; Pižame; Spodnje hlače; Modrčki; Bodiji [spodnje perilo]; Ženske spodnjice; Ovratne rute; Elastični trakovi (spodnje perilo); Pokrivala; Nogavice; Obutev; Rokavice; Kopalke; Obleke na naramnice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">T-shirtar; Trikåvaror [kläder]; Rockar; Kjolar; Pyjamasar; Byxor (Am.); Behåar; Teddies [underkläder]; Trosor; Scarves; Gördlar; Huvudbonader; Strumpvaror; Fotbeklädnader; Handskar; Baddräkter; Förklädesklänningar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/092</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-18</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/163</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>37556</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

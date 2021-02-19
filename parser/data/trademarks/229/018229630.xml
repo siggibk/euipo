@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-28T16:05:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229630</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229630</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-09-18</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-22</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SMOOTH-TEC</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>1</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Адхезиви (лепливи вещества), предназначени за промишлеността.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Lepidla pro průmysl.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Bindemidler til industrielle formål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Klebstoffe für gewerbliche Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κόλλες βιομηχανικής χρήσης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Adhesives used in industry.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Adhesivos (pegamentos) para la industria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Tööstuslikud kleebid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Liima-aineet teollisiin tarkoituksiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Adhésifs (matières collantes) destinés à l'industrie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ljepila (ljepljive tvari) namijenjene za industriju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ipari rendeltetésű ragasztóanyagok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Adesivi (materie collanti) destinati all'industria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Klijai pramonės reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Līmvielas rūpnieciskiem nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Adeżivi użati fl-industrija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kleefstoffen voor industriële doeleinden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kleje (spoiwa) przeznaczone dla przemysłu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Adesivos para a indústria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Adezivi (materiale de lipit) destinaţi/te industriei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lepidlá a spojivá používané v priemysle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Lepila za industrijo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Bindemedel för industriell användning.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>16</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Лепящи ленти за канцеларски или домакински цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Lepicí pásky pro kancelářské potřeby nebo pro domácnost.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Klæbestrimler til papirhandlervarer og til husholdningsbrug.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Klebebänder für Papier- und Schreibwaren oder für Haushaltszwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κολλητικές ταινίες για χαρτικά, ή οικιακή χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Adhesive tapes for stationery or household purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cintas adhesivas de papelería o para uso doméstico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kleepribad, teibid kantseleis või majapidamises kasutamiseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tarranauhat toimisto- tai kotikäyttöön.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Rubans adhésifs pour la papeterie ou le ménage.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ljepljive trake za kancelarijsku ili kućansku uporabu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ragasztószalagok irodai vagy háztartási célokra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Nastri adesivi per la cartoleria o la casa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Lipniosios juostelės (raštinės ar buities reikmėms).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Līmlentes kancelejas vai mājsaimniecības nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tejp li jeħel għal kartoleriji jew għal skopijiet domestiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Plakband voor kantoorgebruik of voor de huishouding.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Taśmy przylepne do celów papierniczych lub do użytku domowego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Fitas adesivas para papelaria ou para uso doméstico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Benzi adezive pentru papetărie sau menaj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lepiace pásky na kancelárske použitie alebo pre domácnosť.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Lepilni trakovi za pisarniške ali gospodinjske namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Klisterremsor för kontors- och hushållsändamål.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>17</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Залепящи се ленти за промишлени цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Lepicí pásky pro průmyslové účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Klæbebånd til industrielle formål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Klebebänder für gewerbliche Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κολλητικές ταινίες για βιομηχανική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Adhesive tapes for industrial purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cintas adhesivas para usos industriales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kleeplindid tööstuslikuks otstarbeks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Teipit teollisuuskäyttöön.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Rubans adhésifs à finalité industrielle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Samoljepljive trake za primjenu u industriji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ragasztócsíkok ipari használatra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Nastri adesivi per uso industriale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Lipniosios juostos pramonės reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Līmlentas rūpnieciskiem nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tejps adeżivi għal skopijiet industrijali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kleefband voor industriële doeleinden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Taśmy przylepne do celów przemysłowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Fitas adesivas para a indústria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Benzi adezive pentru aplicatii industriale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lepiace pásky na priemyselné účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Lepilni trakovi za industrijske namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tejp för industriella ändamål.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/108</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/181</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>198495</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>14115</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-01-31T09:55:42</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063622-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063622-0001</DesignIdentifier>
+<ApplicationNumber>001063622</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-03-06</PublicationDate>
+<ApplicationReference>56689ED</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-12-27</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000062619115</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063622_0001/001063622_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062619119</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063622_0001/001063622_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062619121</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063622_0001/001063622_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062619123</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063622_0001/001063622_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062619125</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063622_0001/001063622_0001_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062619127</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063622_0001/001063622_0001_6.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Отоплителни уреди</IndicationProduct>
+       <IndicationProduct languageCode="cs">topidla</IndicationProduct>
+       <IndicationProduct languageCode="da">Apparater til opvarmning</IndicationProduct>
+       <IndicationProduct languageCode="de">Heizgeräte</IndicationProduct>
+       <IndicationProduct languageCode="el">Θερμαντήρες</IndicationProduct>
+       <IndicationProduct languageCode="en">Heaters</IndicationProduct>
+       <IndicationProduct languageCode="es">Calentadores</IndicationProduct>
+       <IndicationProduct languageCode="et">Kütteseadmed</IndicationProduct>
+       <IndicationProduct languageCode="fi">Lämmittimet</IndicationProduct>
+       <IndicationProduct languageCode="fr">Radiateurs</IndicationProduct>
+       <IndicationProduct languageCode="hu">Fűtőberendezések</IndicationProduct>
+       <IndicationProduct languageCode="it">Impianti di riscaldamento</IndicationProduct>
+       <IndicationProduct languageCode="lt">Šildytuvai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Apkures iekārtas</IndicationProduct>
+       <IndicationProduct languageCode="mt">Tagħmir li jsaħħan</IndicationProduct>
+       <IndicationProduct languageCode="nl">Verwarmingstoestellen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Grzejniki</IndicationProduct>
+       <IndicationProduct languageCode="pt">Aquecedores</IndicationProduct>
+       <IndicationProduct languageCode="ro">Radiatoare</IndicationProduct>
+       <IndicationProduct languageCode="sk">Vyhrievače</IndicationProduct>
+       <IndicationProduct languageCode="sl">Grelci</IndicationProduct>
+       <IndicationProduct languageCode="sv">Värmare</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>23.03</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PriorityDetails>
+       <Priority>
+        <PriorityCountryCode>HK</PriorityCountryCode>
+        <PriorityNumber>0801805.7</PriorityNumber>
+        <PriorityDate>2008-07-14</PriorityDate>
+        <PriorityStatusCode>Claimed</PriorityStatusCode>
+       </Priority>
+      </PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/042</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-03-06</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/243</PublicationIdentifier>
+        <PublicationSequenceNumber>1120345</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2013-12-23</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2019/002</PublicationIdentifier>
+        <PublicationSequenceNumber>100828584</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2019-01-04</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/008</PublicationIdentifier>
+        <PublicationSequenceNumber>101610151</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2020-01-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/016</PublicationIdentifier>
+        <PublicationSequenceNumber>101635030</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2020-01-27</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/020</PublicationIdentifier>
+        <PublicationSequenceNumber>101645022</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2020-01-31</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>334929</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>15595</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012706851</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>101610151</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-01-16</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012708768</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>101635030</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-01-27</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012712686</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>101645022</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-01-31</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012443836</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100828584</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2019-01-07</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006997468</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1120345</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-12-23</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

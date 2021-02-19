@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-17T09:59:27</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229813</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229813</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-13</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>xianggan</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162496997</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229813/000162496997.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Секс играчки; Галванични терапевтични прибори; Санитарни маски за медицински цели; Изкуствени гърди [бюст]; Бебешки шишета; Ортопедични изделия; Стоматологично оборудване; Презервативи; Медицински апарати и инструменти; Апарати за масаж.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Erotické hračky; Galvanické terapeutické přístroje; Hygienické masky pro lékařské účely; Umělá poprsí; Dětské láhve; Ortopedické potřeby; Zařízení pro zubní lékařství; Kondomy; Lékařské přístroje a nástroje; Masážní přístroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Sexlegetøj; Galvaniske terapeutiske apparater; Sanitære masker til medicinske formål; Brystproteser; Sutteflasker; Ortopædiske artikler; Tandlægeapparater og -instrumenter; Kondomer; Medicinske apparater og instrumenter; Massageapparater.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Sexspielzeug; Galvanische Therapiegeräte; Mundschutz für medizinische Zwecke; Brustprothesen; Saugflaschen; Orthopädische Artikel; Zahnärztliche Apparate und Instrumente; Präservative [Kondome]; Medizinische Apparate und Instrumente; Massagegeräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σεξουαλικά παιχνίδια· Γαλβανικές (- θεραπευτικές συσκευές)· Μάσκες υγιεινής για ιατρική χρήση· Τεχνητές προσθήκες στήθους· Υποδοχείς για θήλαστρα· Ορθοπεδικά είδη· Οδοντιατρικός εξοπλισμός· Προφυλακτικά· Ιατρικά (Συσκευές και όργανα -)· Συσκευές μασαζ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Sex toys; Galvanic therapeutic appliances; Sanitary masks for medical purposes; Artificial breasts; Feeding bottles; Orthopaedic articles; Dental apparatus and instruments; Condoms; Medical apparatus and instruments; Massage apparatus..</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Juguetes sexuales; Aparatos galvánicos para uso terapéutico; Mascarillas sanitarias para uso médico; Prótesis mamarias; Biberones; Artículos ortopédicos; Aparatos e instrumentos odontológicos; Preservativos; Aparatos e instrumentos médicos; Aparatos de masaje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Sekslelud; Galvanoteraapiaseadmed; Meditsiinilised hügieenilised maskid; Rinnaproteesid; Lutipudelid; Ortopeediatooted, ortopeedilised tooted; Hambaraviseadmed ja -riistad; Kondoomid, preservatiivid; Meditsiiniseadmed ja -riistad; Massaažiaparaadid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Seksilelut; Galvanoterapeuttiset laitteet; Saniteettinaamarit lääketieteellisiin tarkoituksiin; Tekorinnat; Tuttipullot; Ortopediset välineet; Hammaslääketieteelliset laitteet ja välineet; Kondomit; Lääketieteelliset laitteet ja välineet; Hierontalaitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Jouets sexuels; Appareils thérapeutiques galvaniques; Masques d'hygiène à usage médical; Seins artificiels; Biberons; Articles orthopédiques; Appareils et instruments dentaires; Préservatifs; Appareils et instruments médicaux; Appareils de massage.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Seksualne igračke; Galvanski terapeutski uređaji; Sanitarne maske za medicinske svrhe; Umjetne dojke; Spremnici dječjih bočica; Ortopedski artikli; Stomatološka oprema; Kondomi; Medicinski uređaji i instrumenti; Uređaji za masažu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szexuális játékszerek; Galvánterápiás készülékek; Gyógyászati célú egészségügyi maszkok; Műmellek; Cumisüvegtartók; Ortopédiai cikkek; Fogászati berendezések; Óvszerek; Gyógyászati készülékek és eszközök; Masszázsberendezések.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Giocattoli del sesso [sex toys]; Apparecchi terapeutici galvanici; Maschere igieniche per uso medico; Seni artificiali; Poppatoi; Articoli ortopedici; Apparecchi e strumenti dentari; Preservativi; Apparecchi e strumenti medici; Apparecchi per il massaggio.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Sekso žaislai; Galvanoterapijos aparatūra; Higieninės kaukės (medicinos reikmėms); Krūtų protezai; Žindymo buteliukai; Ortopedijos gaminiai; Odontologijos aparatūra ir instrumentai; Prezervatyvai; Medicinos aparatai ir instrumentai; Masažavimo aparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Seksa rotaļlietas; Galvaniskās ierīces terapeitiskiem nolūkiem; Sanitārās maskas medicīniskiem nolūkiem; Krūts protēzes; Barošanas pudelītes; Ortopēdiskās preces; Zobārstniecības ierīces un instrumenti; Prezervatīvi; Medicīniskā aparatūra un instrumenti; Masāžas aparāti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ġugarelli tas-sess; Tagħmir terapewtiku galvaniku; Maskri sanitarji għal skopijiet mediċi; Sider artifiċjali; Reċipjenti bħala fliexken għat-tmigħ tat-trabi; Oġġetti ortopediċi; Tagħmir dentali; Kondoms; Apparat u strumenti mediċi; Apparat għall-massaġġi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Seksspeeltjes; Galvanische apparaten voor therapeutisch gebruik; Hygiënische maskers voor medisch gebruik; Borstprothesen; Zuigflessen; Orthopedische artikelen; Tandheelkundige apparaten en instrumenten; Condooms; Medische apparaten en instrumenten; Massageapparaten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Zabawki erotyczne; Galwaniczna aparatura terapeutyczna; Maski sanitarne do celów medycznych; Sztuczne piersi; Pojemniki na butelki do karmienia; Artykuły ortopedyczne; Przyrządy i przybory dentystyczne; Prezerwatywy; Urządzenia i instrumenty medyczne; Urządzenia do masażu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Brinquedos sexuais; Aparelhos terapêuticos galvânicos; Máscaras higiénicas para uso médico; Seios artificiais; Biberons [biberões]; Artigos ortopédicos; Aparelhos e instrumentos dentários; Preservativos; Aparelhos e instrumentos médicos; Aparelhos de massagem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Jucării erotice; Aparate pentru terapie galvanică; Măşti sanitare de uz medical; Proteze mamare; Recipiente pentru biberoane; Articole ortopedice; Echipament stomatologic; Prezervative; Aparate și instrumente medicale; Aparate de masaj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Erotické pomôcky; Galvanické terapeutické zariadenia; Sanitárne masky na lekárske účely; Umelé prsníky; Detské fľaše; Ortopedické pomôcky; Zubárske prístroje a nástroje; Kondómy, prezervatívy; Lekárske prístroje a nástroje; Masážne prístroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Spolni pripomočki; Terapevtske naprave z galvanskim tokom; Higienske maske za medicinske namene; Umetne dojke; Posodice za stekleničke za hranjenje; Ortopedski izdelki; Zobozdravstveni aparati in instrumenti; Kondomi; Medicinski aparati in instrumenti; Masažne naprave.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Sexleksaker; Galvaniska terapiapparater; Sanitetsmasker för medicinska ändamål; Bröstproteser; Nappflaskor; Konstgjorda lemmar, ögon och tänder; Dentala apparater och instrument; Kondomer; Medicinska apparater och instrument; Massageapparater.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/084</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/154</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-14</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082563</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>26721</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

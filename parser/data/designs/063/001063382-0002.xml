@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2018-12-05T11:06:31</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063382-0002</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063382-0002</DesignIdentifier>
+<ApplicationNumber>001063382</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-01-27</PublicationDate>
+<ApplicationReference>D/10927.RCD/HRW</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-12-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061949650</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063382_0002/001063382_0002_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061949648</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063382_0002/001063382_0002_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061949646</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063382_0002/001063382_0002_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061949644</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063382_0002/001063382_0002_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061949642</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063382_0002/001063382_0002_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061949652</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063382_0002/001063382_0002_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061949640</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063382_0002/001063382_0002_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Мивки за баня</IndicationProduct>
+       <IndicationProduct languageCode="cs">Vany</IndicationProduct>
+       <IndicationProduct languageCode="da">Badekar</IndicationProduct>
+       <IndicationProduct languageCode="de">Badewannen</IndicationProduct>
+       <IndicationProduct languageCode="el">Μπανιέρες</IndicationProduct>
+       <IndicationProduct languageCode="en">Bath tubs</IndicationProduct>
+       <IndicationProduct languageCode="es">Bañeras</IndicationProduct>
+       <IndicationProduct languageCode="et">Vannid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Kylpyammeet</IndicationProduct>
+       <IndicationProduct languageCode="fr">Baignoires</IndicationProduct>
+       <IndicationProduct languageCode="hu">Fürdőkádak</IndicationProduct>
+       <IndicationProduct languageCode="it">Vasche da bagno</IndicationProduct>
+       <IndicationProduct languageCode="lt">Vonios</IndicationProduct>
+       <IndicationProduct languageCode="lv">Vannas</IndicationProduct>
+       <IndicationProduct languageCode="mt">Vaski tal-banju</IndicationProduct>
+       <IndicationProduct languageCode="nl">Badkuipen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Wanny</IndicationProduct>
+       <IndicationProduct languageCode="pt">Banheiras</IndicationProduct>
+       <IndicationProduct languageCode="ro">Căzi de baie</IndicationProduct>
+       <IndicationProduct languageCode="sk">Kúpacie vane</IndicationProduct>
+       <IndicationProduct languageCode="sl">Kadi za kopanje, banje</IndicationProduct>
+       <IndicationProduct languageCode="sv">Badkar</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>23.02</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/017</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-27</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/235</PublicationIdentifier>
+        <PublicationSequenceNumber>334820</PublicationSequenceNumber>
+        <PublicationSection>B.10.2</PublicationSection>
+        <PublicationDate>2009-11-20</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/241</PublicationIdentifier>
+        <PublicationSequenceNumber>345567</PublicationSequenceNumber>
+        <PublicationSection>B.1.2</PublicationSection>
+        <PublicationDate>2009-11-27</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2010/168</PublicationIdentifier>
+        <PublicationSequenceNumber>465120</PublicationSequenceNumber>
+        <PublicationSection>B.2.2</PublicationSection>
+        <PublicationDate>2010-07-30</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/001</PublicationIdentifier>
+        <PublicationSequenceNumber>1122457</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2014-01-03</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/002</PublicationIdentifier>
+        <PublicationSequenceNumber>1128247</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2014-01-07</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/003</PublicationIdentifier>
+        <PublicationSequenceNumber>1131190</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2014-01-08</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/231</PublicationIdentifier>
+        <PublicationSequenceNumber>100795110</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2018-12-05</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>171277</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>10972</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>004175257</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>465120</PublicationSequenceNumber>
+           <PublicationSection>B.2.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2010-07-30</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>007693421</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1131190</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-08</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>007679297</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1128247</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-07</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006986156</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1122457</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-03</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003566670</RecordIdentifier>
+<BasicRecordKind>Appointment Replacement and Deletion of Designers</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>334820</PublicationSequenceNumber>
+           <PublicationSection>B.10.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-11-20</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003607292</RecordIdentifier>
+<BasicRecordKind>Relative Errors on Part B on Design</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>345567</PublicationSequenceNumber>
+           <PublicationSection>B.1.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-11-27</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012442288</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100795110</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-12-05</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

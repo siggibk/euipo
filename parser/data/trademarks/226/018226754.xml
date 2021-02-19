@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-29T08:34:35</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226754</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226754</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-09-25</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>THE FIDOUCHIES</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>16</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Печатни награди (печатни материали).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Tištěná ocenění.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Trykte priser [præmier].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Gedruckte Auszeichnungen [Drucksachen].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Έντυπα βραβεία.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Printed awards.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Premios impresos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Trükitud auhinnad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Painetut palkinnot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Prix imprimés [récompenses].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Tiskane nagrade.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Nyomtatott díjak [nyomtatványok], oklevelek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Attestati stampati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Spausdintiniai apdovanojimai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Iespiesti apbalvojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Għoti ta' premjijiet stampati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Gedrukte beloningen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Drukowane nagrody.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Prémios impressos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Premii imprimate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Tlačené ocenenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Tiskana priznanja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tryckta utmärkelser.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Неметални трофеи.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nekovové trofeje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Ikke-metalliske trofæer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Trophäen, nicht aus Metall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μη μεταλλικά τρόπαια.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Non-metal trophies.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Trofeos no metálicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Muust kui metallist trofeed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ei-metalliset pokaalit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Trophées non métalliques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Nemetalni trofeji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Nem fémből készült díjak.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Trofei non in metallo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Nemetaliniai prizai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Nemetāla balvas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Trofew mhux tal-metall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Trofeeën, niet van metaal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Trofea niemetalowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Troféus não metálicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Trofee nemetalice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nekovové trofeje a vyznamenania.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Nekovinski pokali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Troféer, ej av metall.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за забавления под формата на разработване, създаване, продукция, разпространение, и постпродукция на телевизионни предавания и мултимедийно развлекателно съдържание; Развлекателни услуги, а именно презентация на награди на живо.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zábavní služby ve formě vývoje, tvorby, produkce, distribuce a postprodukce televizních pořadů, multimediálních zábavních obsahů a zábavních programů v oboru financí; Zábavní služby, jmenovitě živé předávání cen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Underholdningsvirksomhed i form af udvikling, oprettelse, produktion, distribution og efterproduktion af tv-shows, multimediebaseret underholdningsindhold og underholdningsprogrammer inden for finansiering; Underholdningsvirksomhed, nemlig levende præsentation af priser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Unterhaltungsdienstleistungen in Form der Entwicklung, Erstellung, Produktion, Verbreitung und Postproduktion von Fernsehshows, Multimedia-Unterhaltungsinhalten und Unterhaltungsprogrammen im Bereich Finanzwesen; Unterhaltungsdienstleistungen, nämlich Live-Preisverleihungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες ψυχαγωγίας με τη μορφή ανάπτυξης, δημιουργίας, παραγωγής, διανομής, και μεταπαραγωγής τηλεοπτικών εκπομπών, πολυμεσικού ψυχαγωγικού περιεχομένου και ψυχαγωγικών προγραμμάτων στον τομέα της οικονομίας· Υπηρεσίες ψυχαγωγίας, συγκεκριμένα ζωντανές παρουσιάσεις τελετών απονομής βραβείων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Entertainment services in the nature of development, creation, production, distribution, and post-production of television shows, multimedia entertainment content, and entertainment programmes in the field of finance; Entertainment services, namely the live presentation of awards.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de entretenimiento del tipo del desarrollo, creación, producción, distribución y posproducción de programas de televisión, contenido multimedia de entretenimiento, y programas de entretenimiento en el ámbito de las finanzas; Servicios de entretenimiento, en concreto, la presentación de premios en directo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meelelahutusteenused rahandusalaste televisiooniprogrammide, multimeedia meelelahutussisu ja meelelahutuslike saadete arendamise, loomise, tootmise, levitamise ja tootmisjärgse toimetamise kujul; Meelelahutusteenused, nimelt autasustamine elavettekandes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ajanvietepalvelut talouselämää käsittelevien televisio-ohjelmien, multimediaviihdesisällön ja viihdeohjelmien kehittämisen, luomisen, tuotannon, jakelun ja jälkituotannon muodossa; Ajanvietepalvelut, nimittäin suorat palkintojenjakotapahtumat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de divertissement sous forme de développement, création, production, distribution et postproduction d'émissions télévisées, contenu multimédia de divertissement et programmes de divertissement dans le domaine des finances; Services de divertissement, à savoir la présentation en direct de remises de prix.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Zabavne usluge u obliku razvoja, stvaranja, produkcije, distribucije i postprodukcije televizijskih emisija, multimedijskih zabavnih sadržaja i zabavnih programa na području financija; Zabavne usluge, i to dodjela nagrada uživo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szórakoztatási szolgáltatások televíziós műsorok, multimédiás szórakoztató tartalmak és szórakoztató műsorok fejlesztése, létrehozása, gyártása, terjesztése és utómunkálata formájában a pénzügy területén; Szórakoztató szolgáltatások, nevezetesen élő díjátadók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi d'intrattenimento sotto forma di sviluppo, creazione, produzione, distribuzione e post-produzione di spettacoli televisivi, contenuti multimediali d'intrattenimento e programmi d'intrattenimento in materia di finanza; Servizi d'intrattenimento, ovvero presentazione dal vivo di premi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Pramogų paslaugos kaip televizijos laidų, daugialypės terpės pramoginio turinio ir pramoginių programų plėtra, kūrimas, kūrimas, platinimas ir postprodukcijos paslaugos finansų srityje; Pramogų paslaugos, būtent apdovanojimų tiesioginis pristatymas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Izklaides pakalpojumi televīzijas šovu, multimediju izklaides satura un izklaides programmu izstrādes, veidošanas, producēšanas, izplatīšanas un pēcapstrādes veidā finanšu jomā; Izklaides pasākumi, proti, tiešraides balvu pasniegšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' divertient fl-għamla ta' żvilupp, ħolqien, produzzjoni, distribuzzjoni, u s-servizzi ta' wara l-produzzjoni ta' programmi televiżivi, kontenut tad-divertiment multimedjali, u programmi ta' divertiment fil-qasam tal-finanzi; Servizzi ta' divertiment, jiġifieri preżentazzjoni diretta ta' premjijiet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Amusement in de vorm van de ontwikkeling, creatie, productie, verspreiding en postproductie van televisieshows, multimediaal amusementsmateriaal en amusementsprogramma's op het gebied van financiën; Amusement, te weten livepresentatie van prijsuitreikingen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi rozrywkowe w postaci rozwoju, tworzenia, produkcji, dystrybucji i postprodukcji programów telewizyjnych i multimedialnych treści rozrywkowych i programów rozrywkowych w dziedzinie finansów; Usługi rozrywkowe, mianowicie przyznawanie nagród na żywo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de entretenimento sob a forma de desenvolvimento, criação, produção, distribuição e pós-produção de programas de televisão, conteúdos de entretenimento multimédia e programas de entretenimento no domínio da dança; Serviços de entretenimento, especificamente apresentação de cerimónias de entrega de prémios ao vivo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de divertisment sub forma dezvoltării, creării, producției, distribuției și postproducției de emisiuni de televiziune, conținut multimedia de divertisment și programe de divertisment în domeniul finanțelor; Servicii de divertisment, și anume prezentarea live de premieri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Služby v oblasti zábavy v podobe vývoja, vytvárania, výroby, distribúcie a postprodukcie televíznych programov a multimediálneho zábavného obsahu a zábavných programov v oblasti financií; Služby v oblasti zábavy, menovite živá prezentácia ocenení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Razvedrilne storitve v obliki razvoja, ustvarjanja, produkcije, distribucije in postprodukcije televizijskih oddaj, multimedijskih razvedrilnih vsebin in razvedrilnih programov na področju financ; Razvedrilne storitve, in sicer podelitve nagrad v živo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Underhållningstjänster i form av utveckling, skapande, produktion, distribution, och efterbearbetning av TV-shower och underhållningsinnehåll och underhållningsprogram avseende finansområdet; Underhållningstjänster, nämligen levande prisutdelningar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>US</PriorityCountryCode>
+<PriorityNumber>88668119</PriorityNumber>
+<PriorityDate>2019-10-24</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/113</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/186</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080412</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>90432</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

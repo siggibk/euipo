@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-21T18:40:02</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229243</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229243</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<ApplicationLanguageCode>pt</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-18</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Caixa Azul</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>36</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Финансови и парични услуги и банкиране; Услуги, свързани с недвижими имоти; Международно банкиране; Финансови услуги, предоставяни посредством Интернет; Услуги, свързани с валутна търговия и обмен на валута; Издаване на банкови чекове; Услуги свързани с банкови карти, кредитни карти, дебитни карти и карти за електронно плащане; Услуги за прехвърляне на парични средства; Кредит услуги; Отпускане на кредити; Факторинг; Финансови услуги; Финансиране на заеми; Брокерски услуги; Застрахователни услуги; Инвестиционни услуги; Услуги, (консултации) свързани с финансово подпомагане.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Finanční a peněžní služby a bankovní služby; Služby nemovitostní (realitní služby); Mezinárodní bankovnictví; Finanční služby poskytované po internetu; Směňování peněžních prostředků; Vydávání bankovních šeků; Služby týkající se bankovních karet, kreditních karet, debetních karet a elektronických platebních karet; Převod fondů; Úvěrové služby; Financování formou koupě na splátky; Faktoring; Financování; Půjčky [financování]; Zprostředkování; Uzavírání pojištění; Investiční služby; Finanční asistence.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Finansiel og valutarisk virksomhed og bankvirksomhed; Virksomhed i forbindelse med fast ejendom; International bankvirksomhed; Finansiel virksomhed via internettet; Veksling af penge; Udstedelse af bankchecks; Tjenesteydelser i forbindelse med bankkort, kreditkort, debetkort og elektroniske betalingskort; Tjenester vedrørende kapitaloverførsel; Kreditvirksomhed; Financiering af leasing med forkøbsret; Factoring; Finansiering; Lån [finansiering]; Finansiel mæglervirksomhed; Forsikringsvirksomhed; Investeringsvirksomhed; Finansiel bistand.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Finanz-, Geld- und Bankgeschäfte; Immobiliendienstleistungen; Internationale Bankgeschäfte; Über das Internet bereitgestellte Finanzdienstleistungen; Devisenhandel und Währungsumtausch; Ausgabe von Bankschecks; Dienstleistungen im Zusammenhang mit Bankkarten, Kreditkarten, Debitkarten und Karten für den elektronischen Zahlungsverkehr; Überweisung von Geldern; Vergabe von Krediten; Kreditvergabe; Factoring; Finanzierungen; Vergabe von Darlehen; Dienstleistungen eines Maklers; Versicherungsdienstleistungen; Investmentgeschäfte; Gewährung finanzieller Unterstützung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Οικονομικές/Χρηματοπιστωτικές και νομισματικές υπηρεσίες και τραπεζικές υπηρεσίες· Κτηματομεσιτικές υπηρεσίες· Διεθνείς τραπεζικές υπηρεσίες· Χρηματοπιστωτικές υπηρεσίες, παρεχόμενες μέσω του Διαδικτύου· Αγοραπωλησία συναλλάγματος και υπηρεσίες συναλλάγματος· Εκδοση τραπεζικών επιταγών· Υπηρεσίες τραπεζικών καρτών, πιστωτικών καρτών, καρτών ανάληψης και καρτών ηλεκτρονικών πληρωμών· Υπηρεσίες μεταβίβασης κεφαλαίων· Χρηματοπιστωτικές υπηρεσίες· Πιστωτική χρηματοδοτική μίσθωση· Πρακτόρευση· Χρηματοδότησης (Υπηρεσίες -)· Δάνειοδότηση [χρηματοδότηση]· Μεσιτεία· Υπηρεσίες ασφάλισης· Επενδυτικές υπηρεσίες· Χρηματοοικονομική βοήθεια.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Financial and monetary services, and banking; Real estate services; International banking; Financial services provided via the Internet; Currency trading and exchange services; Issuing of bank cheques; Bank card, credit card, debit card and electronic payment card services; Funds transfer services; Credit services; Hire-purchase financing; Factoring; Financing services; Loans [financing]; Brokerage; Insurance underwriting; Investment services; Financial assistance.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios financieros, monetarios y bancarios; Servicios inmobiliarios; Servicios bancarios internacionales; Servicios financieros prestados a través de Internet; Servicios de cambio de divisas; Emisión de cheques de banco; Servicios de tarjetas de banco, tarjetas de crédito, tarjetas de cobro automático y tarjetas de pago electrónico; Servicios de transferencia de fondos; Servicios de crédito; Arrendamiento con opción de compra [leasing]; Descuento de facturas [factoraje]; Servicios de financiación; Préstamos [financiación]; Corretaje; Suscripción de seguros; Servicios de inversión; Asistencia financiera.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Finants-, rahandusteenused, pangandus; Kinnisvarateenused; Rahvusvaheline pangandus; Interneti teel pakutavad finantsteenused; Valuutakaubandus- ja -vahetusteenused; Pangatšekkide väljastamine; Pangakaardi-, krediitkaardi-, deebetkaardi- ja elektroonilise maksekaardi teenused; Rahaülekannete teenused; Krediiditeenused; Järelmaksuga ostu finantseerimine; Faktooring, kaubaarvete ost-müük, kaubaarvete ülesostmine; Finantseerimisteenused, rahastamisteenused; Laenud [finantseerimine]; Maaklerlus, vahendus, vahendamine; Kindlustusteenused; Investeerimisteenused; Finantsabi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Rahatalouteen ja raha-asioihin liittyvät palvelut ja pankkitoiminta; Kiinteistöpalvelut; Kansainväliset pankkipalvelut; Internetin kautta tarjottavat rahoituspalvelut; Valuuttakauppa- ja valuutanvaihtopalvelut; Sekkien myöntäminen; Pankkikorttiin, luottokorttiin, maksukorttiin ja elektroniseen maksukorttiin liittyvät palvelut; Varainsiirto; Luototuspalvelut; Osamaksukaupan rahoitus; Factoring-toiminta; Rahoituspalvelut; Lainananto; Meklaritoiminta; Vakuutuspalvelut; Sijoituspalvelut; Raha-avustuspalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services financiers et monétaires, services bancaires; Services de biens immobiliers; Services bancaires internationaux; Services financiers fournis par l'internet; Services d'opérations de change de devises; Émission de chèques bancaires; Services de cartes bancaires, cartes de crédit, cartes de débit et cartes de paiement électronique; Services de transfert de fonds; Services de crédits; Crédit-bail; Affacturage; Services de financement; Prêts [financement]; Courtage; Assurances; Services de placement; Services d'assistance financière.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Financijske i novčarske usluge, i bankarstvo; Usluge agencija za nekretnine; Međunarodno bankarstvo; Financijske usluge pružane putem interneta; Usluge deviznog trgovanja i razmjene; Izdavanje bankovnih čekova; Usluge u svezi s bankovnim karticama, kreditnim karticama, debitnim karticama i karticama za elektroničko plaćanje; Prijenos sredstava; Kreditne usluge; Kreditni zakup [lizing]; Faktoring; Usluge financiranja; Zajmovi (Financiranje -); Posredovanje [mešetarenje]; Osiguravateljske usluge; Usluge ulaganja; Financijska pomoć.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Pénzügyi szolgáltatások, bankügyletek; Ingatlannal kapcsolatos szolgáltatások; Nemzetközi banki tevékenység; Interneten keresztül nyújtott pénzügyi szolgáltatások; Valutakereskedelem és pénzváltási szolgáltatások; Banki csekkek kibocsátása; Szolgáltatások bankkártyákhoz, hitelkártyákhoz, debitkártyákhoz és elektronikus fizetésekhez; Pénzátutalási szolgáltatások; Hitelnyújtási szolgáltatások; Hitelbérlet; Faktorálás; Finanszírozási szolgáltatások; Kölcsön [finanszírozás]; Alkuszi/ügynöki tevékenység; Biztosítási szolgáltatások; Befektetési szolgáltatások; Pénzügyi segítségnyújtás.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi finanziari e monetari, e attività bancaria; Servizi immobiliari; Servizi bancari internazionali; Servizi finanziari forniti tramite Internet; Servizi di cambio di valuta; Emissione di assegni bancari; Servizi relativi a carte bancomat, carte di credito, carte di addebito e carte di pagamento elettronico; Trasferimento di fondi; Servizi di credito; Locazione di crediti; Factoring; Servizi di finanziamento; Prestiti [finanziamenti]; Brokeraggio; Sottoscrizione di assicurazioni; Servizi in materia di investimenti; Assistenza finanziaria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Finansinės ir piniginės paslaugos bei banko operacijos; Nekilnojamojo turto paslaugos; Tarptautinė bankininkystė; Finansinės paslaugos, teikiamos internetu; Pinigų keitimas; Banko čekių emisija; Banko kortelių, kredito kortelių, debeto kortelių ir elektroninių mokėjimo kortelių paslaugos; Lėšų pervedimas; Kredito paslaugos; Išperkamosios nuomos finansavimas; Faktoringas; Finansavimo paslaugos; Paskolos [finansinės]; Tarpininkavimas [maklerių veikla]; Draudimo paslaugos; Investavimo paslaugos; Finansinė pagalba.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Finanšu pakalpojumi, darījumi ar naudu un banku pakalpojumi; Pakalpojumi nekustamā īpašuma jomā; Starptautiskie banku pakalpojumi; Finanšu pakalpojumi, ko nodrošina internetā; Valūtas tirdzniecība un maiņa; Bankas čeku izsniegšana; Bankas karšu, kredītkaršu, debetkaršu, elektronisko maksājumu karšu pakalpojumi; Naudas uzkrājumu pārskaitījumi; Kredītu pakalpojumi; Kredītu noma; Faktoringa pakalpojumi; Finansēšanas pakalpojumi; Aizdevumu finansēšana; Starpniecības pakalpojumi finanšu jomā; Apdrošināšanas noformēšanas pakalpojumi; Investīciju pakalpojumi; Finansiālās palīdzības pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi finanzjarji u monetarji, u servizzi tal-banek; Servizzi ta' beni immobbli; Servizzi bankarji internazzjonali; Servizzi finanzjarji provduti permezz tal-Internet; Servizzi ta' kummerċ u skambju tal-flus; Ħruġ ta' ċekkijiet bankarji; Servizzi ta' kards tal-bank, kards tal-kreditu, kards tad-debitu u kards għall-ħlas elettroniku; Servizzi ta' trasferiment ta' fondi; Servizzi ta' kreditu; Kiri bi kreditu; Ġbir ta' djun ta' ħaddieħor; Servizzi ta' finanzjament; Finanzjament għas-self; Sensarija; Servizzi ta' assigurazzjoni; Servizzi ta' nvestiment; Assistenza finanzjarja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Financiële zaken, monetaire diensten en bankzaken; Diensten op het gebied van onroerend goed; Internationale bankdiensten; Financiële diensten via internet; Valutahandel en wisseldiensten; Uitgifte van bankcheques; Diensten voor bankkaarten, creditcards, debetkaarten en kaarten voor elektronische betalingen; Overmaking van fondsen; Kredietdiensten; Huurkoop-financiering [leasing]; Factoring; Financieringen; Lening [financiering]; Courtagediensten; Verzekeringsdiensten; Beleggingsdiensten; Financiële assistentie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi finansowe, pieniężne i bankowe; Usługi w zakresie nieruchomości; Międzynarodowe usługi bankowe; Usługi finansowe świadczone przez Internet; Handel walutami i wymiana walut; Wydawanie czeków bankowych; Usługi dotyczące kart bankowych, kart kredytowych, kart debetowych i elektronicznych kart płatniczych; Transfer funduszy; Usługi kredytowe; Leasing finansowy; Faktoring; Usługi finansowania; Pożyczki [finansowanie]; Maklerstwo; Usługi ubezpieczeniowe; Usługi inwestycyjne; Pomoc finansowa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços financeiros, monetários, bancários; Serviços imobiliários; Serviços bancários internacionais; Serviços financeiros prestados através da Internet; Troca de moeda e serviços de câmbio; Emissão de cheques bancários; Serviços de cartões bancários, cartões de crédito, cartões de débito e de cartões de pagamento eletrónico; Transferências de fundos; Serviços de crédito; Leasing financeiro (locação); Serviços de factoring; Serviços de financiamento; Empréstimos [finanças]; Corretagem; Serviços de seguros; Serviços de investimento; Assistência financeira.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii financiare, monetare şi bancare; Servicii imobiliare; Servicii bancare internaţionale; Servicii financiare furnizate prin intermediul Internetului; Comerţ şi schimb valutar; Emisiune de cecuri bancare; Servicii de card bancar, card de credit, card de debit şi card pentru plată electronică; Servicii de transfer de fonduri; Servicii de creditare; Servicii de închiriere cu opţiune de cumpărare; Factoring; Servicii de finanţare; Împrumuturi [finanţare]; Curtaj; Servicii de asigurare; Servicii de investiţii; Asistenţă financiară.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Finančníctvo, peňažníctvo, bankovníctvo; Realitné služby; Medzinárodné bankovníctvo; Finančné služby poskytované cez internet; Devízový trh a zmenárenské služby; Vydávanie bankových šekov; Služby v oblasti bankových kariet, kreditných kariet, debetných kariet a elektronických platobných kariet; Prevod kapitálu; Úverové služby; Finančný lízing; Faktoring; Financovanie (služby); Pôžičky (finančné úvery); Sprostredkovanie (maklérstvo); Poisťovníctvo; Investičné služby; Finančná pomoc.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Finančne in denarne storitve in bančništvo; Storitve poslovanja z nepremičninami; Mednarodno bančništvo; Finančne storitve, nudene prek interneta; Trgovanje z valutami in menjalniške storitve; Izdajanje bančnih čekov; Plačilne storitve z bančnimi, kreditnimi, debetnimi in elektronskimi karticami; Prenosi sredstev; Kreditne storitve; Kreditni lizing; Faktoring; Storitve financiranja; Posojila [financiranje]; Borzno posredništvo; Zavarovalniške storitve; Investicijske storitve; Finančna pomoč.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Finansiella och monetära tjänster och bankrörelse; Tjänster avseende fast egendom; Internationell bankverksamhet; Finansiella tjänster tillhandahållna via internet; Valutamarknad och valutaväxling; Utställande av bankcheckar; Tjänster avseende bankkort, kreditkort, kontantkort och elektroniska betalkort; Tjänster avseende överföring av pengar; Kredittjänster; Kreditleasing; Factoring; Finansieringstjänster; Kreditgivning; Finansiellt mäkleri; Försäkringstjänster; Investeringstjänster; Finansiell handräckning.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/098</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-26</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>53233</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>61532</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003128734</OppositionIdentifier>
+<OppositionDate>2020-08-18</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion
+Unfair advantage /detriment to distinctiveness or repute</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>004685145</ApplicationNumber>
+<ApplicationDate>2005-10-28</ApplicationDate>
+<RegistrationNumber>004685145</RegistrationNumber>
+<RegistrationDate>2014-04-05</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>"la Caixa"</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>004685145</ApplicationNumber>
+<ApplicationDate>2005-10-28</ApplicationDate>
+<RegistrationNumber>004685145</RegistrationNumber>
+<RegistrationDate>2014-04-05</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>"la Caixa"</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>018035431</ApplicationNumber>
+<ApplicationDate>2019-03-13</ApplicationDate>
+<RegistrationNumber>018035431</RegistrationNumber>
+<RegistrationDate>2019-07-23</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>"la Caixa"</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>018035431</ApplicationNumber>
+<ApplicationDate>2019-03-13</ApplicationDate>
+<RegistrationNumber>018035431</RegistrationNumber>
+<RegistrationDate>2019-07-23</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>"la Caixa"</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>018035437</ApplicationNumber>
+<ApplicationDate>2019-03-13</ApplicationDate>
+<RegistrationNumber>018035437</RegistrationNumber>
+<RegistrationDate>2019-07-23</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>"la Caixa"</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>018035437</ApplicationNumber>
+<ApplicationDate>2019-03-13</ApplicationDate>
+<RegistrationNumber>018035437</RegistrationNumber>
+<RegistrationDate>2019-07-23</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>"la Caixa"</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>ES</EarlierMarkCountryCode>
+<ApplicationNumber>M2987070</ApplicationNumber>
+<ApplicationDate>2011-06-09</ApplicationDate>
+<RegistrationNumber>M2987070</RegistrationNumber>
+<RegistrationDate>2011-09-20</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>LA CAIXA</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>ES</EarlierMarkCountryCode>
+<ApplicationNumber>M2987070</ApplicationNumber>
+<ApplicationDate>2011-06-09</ApplicationDate>
+<RegistrationNumber>M2987070</RegistrationNumber>
+<RegistrationDate>2011-09-20</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>LA CAIXA</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>40954</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10682</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+<Opposition>
+<OppositionIdentifier>003128818</OppositionIdentifier>
+<OppositionDate>2020-08-19</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion
+Unfair advantage /detriment to distinctiveness or repute</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>014363014</ApplicationNumber>
+<ApplicationDate>2015-07-14</ApplicationDate>
+<RegistrationNumber>014363014</RegistrationNumber>
+<RegistrationDate>2015-11-30</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>CAIXABANK WEALTH</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>015023203</ApplicationNumber>
+<ApplicationDate>2016-01-20</ApplicationDate>
+<RegistrationNumber>015023203</RegistrationNumber>
+<RegistrationDate>2016-06-07</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>CAIXABANK</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>015023203</ApplicationNumber>
+<ApplicationDate>2016-01-20</ApplicationDate>
+<RegistrationNumber>015023203</RegistrationNumber>
+<RegistrationDate>2016-06-07</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>CAIXABANK</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>015872419</ApplicationNumber>
+<ApplicationDate>2016-09-28</ApplicationDate>
+<RegistrationNumber>015872419</RegistrationNumber>
+<RegistrationDate>2017-02-17</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>CAIXABANK PROMOTIONAL SERVICES</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>015959786</ApplicationNumber>
+<ApplicationDate>2016-10-21</ApplicationDate>
+<RegistrationNumber>015959786</RegistrationNumber>
+<RegistrationDate>2017-03-13</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>CAIXABANK TITULIZACIÓN</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>017933050</ApplicationNumber>
+<ApplicationDate>2018-07-20</ApplicationDate>
+<RegistrationNumber>017933050</RegistrationNumber>
+<RegistrationDate>2018-12-26</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>CAIXABANKNOW</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>018100460</ApplicationNumber>
+<ApplicationDate>2019-07-26</ApplicationDate>
+<RegistrationNumber>018100460</RegistrationNumber>
+<RegistrationDate>2020-01-09</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>CaixaBank OPERATIONAL SERVICES</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>018225876</ApplicationNumber>
+<ApplicationDate>2020-04-15</ApplicationDate>
+<RegistrationNumber>018225876</RegistrationNumber>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>CAIXABANK XPERIENCE</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>ES</EarlierMarkCountryCode>
+<ApplicationNumber>M3599941</ApplicationNumber>
+<ApplicationDate>2016-02-17</ApplicationDate>
+<RegistrationNumber>M3599941</RegistrationNumber>
+<RegistrationDate>2016-09-16</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>CAIXABANK AUTORENTING</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>584424</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>13708</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

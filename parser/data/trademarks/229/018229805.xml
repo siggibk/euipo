@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-22T07:40:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229805</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229805</ApplicationNumber>
+<ApplicationDate>2020-04-26</ApplicationDate>
+<RegistrationDate>2020-09-18</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-26</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-22</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>CHICHENG</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162491828</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229805/000162491828.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.25</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Смарт часовници; Защитни тънкослойни покрития, пригодени за смартфони; Смартфони; Клетъчни телефони; Клетъчни телефони; Калъфи за смартфони; Калъфи за смартфони; Термични принтери; Фотокопирни машини; Кабели за предаване на данни.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Chytré hodinky; Ochranné fólie na chytré telefony; Chytré telefony (smartphony); Buňkové telefony; Buňkové telefony; Kryty na chytré telefony (smartphony); Pouzdra na chytré telefony (smartphony); Termické tiskárny; Fotokopírovací stroje a zařízení [fotografické, elektrostatické, termické]; Kabely na přenos dat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Smartwatches; Beskyttelsesfilm tilpasset til smartphones; Smartphones; Mobiltelefoner; Mobiltelefoner; Covers til smartphones; Etuier til smartphones; Termiske printere; Fotokopimaskiner [fotografiske, elektrostatiske og termiske]; Kabler til datatransmission.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Smartwatches; Angepasste Schutzfolien für Smartphones; Smartphones; Mobiltelefone; Mobiltelefone; Hüllen für Smartphones; Schalen für Smartphones; Thermodrucker; Fotokopierer; Kabel für die Datenübertragung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Έξυπνα ρολόγια χειρός· Προστατευτικές μεμβράνες προσαρμοσμένες για έξυπνα τηλέφωνα· Έξυπνα τηλέφωνα· Κινητά τηλέφωνα· Κινητά τηλέφωνα· Καλύμματα για έξυπνα τηλέφωνα· Θήκες για έξυπνα τηλέφωνα· Θερμοεκτυπωτές· Φωτοτυπικα μηχανηματα· Καλώδια μετάδοσης δεδομένων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Smart watches; Protective films adapted for mobile phone screens; Smart phones; mobile telephones; cell phones; Covers for smartphones; Cases for smartphones; thermal printers; photocopiers [photographic, electrostatic, thermic]; Data cables.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Relojes inteligentes; Películas de protección para teléfonos inteligentes [smartphones]; Teléfonos inteligentes; Teléfonos celulares; Teléfonos celulares; Fundas para teléfonos inteligentes; Carátulas para teléfonos inteligentes; Impresoras térmicas; Fotocopiadoras; Cables para la transmisión de datos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Nutikellad; Nutitelefonide kaitsekiled; Nutitelefonid; Mobiiltelefonid; Mobiiltelefonid; Nutitelefonide katted; Nutitelefonide ümbrised; Termoprinterid; Fotokoopiamasinad; Andmeedastuskaablid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Älykellot; Älypuhelimille tarkoitetut suojakalvot; Älypuhelimet; Matkapuhelimet; Matkapuhelimet; Älypuhelinten suojukset; Älypuhelinten kuoret; Lämpökirjoittimet; Kopiokoneet; Tiedonsiirtokaapelit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Montres intelligentes; Films de protection conçus pour ordiphones [smartphones]; Ordiphones [smartphones]; Téléphones portables; Téléphones portables; Coques pour smartphones; Étuis pour smartphones; Imprimantes thermiques; Photocopieuses; Câbles de transmission de données.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pametni ručni satovi; Zaštitne folije prilagođene za pametne telefone; Pametni telefoni; Mobiteli; Mobiteli; Navlake za pametne telefone; Etuiji za pametne telefone; Termalni pisači; Fotokopirni uređaji; Kablovi za prijenos podataka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Okoskarórák; Védőfóliák okostelefonokhoz; Okostelefonok; Mobiltelefonok; Mobiltelefonok; Tokok okostelefonokhoz; Tokok okostelefonhoz; Termikus nyomtatók/hőnyomtatók; Fénymásolók; Adatátviteli kábelek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Orologi intelligenti; Pellicola protettiva adattata per smartphone; Smartphone; Telefoni portatili; Telefoni portatili; Coperchi per smartphone; Custodie per smartphone; Stampanti termiche; Fotocopiatrici; Cavi per trasmissione di dati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Išmanieji laikrodžiai; Išmaniųjų telefonų ekranų apsauginės plėvelės; Išmanieji telefonai; Mobilieji telefonai; Mobilieji telefonai; Išmaniųjų telefonų dangteliai; Išmaniųjų telefonų dėklai; Šiluminiai spausdintuvai; Kopijavimo aparatai [fotografiniai, elektrostatiniai, terminiai]; Duomenų perdavimo kabeliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Viedie rokaspulksteņi; Aizsargplēves, pielāgotas viedtālruņiem; Viedtālruņi; Mobilie tālruņi; Mobilie tālruņi; Maciņi viedtālruņiem; Ietvari viedtālruņiem; Termoprinteri; Kopēšanas ierīces; Datu pārraides kabeļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Arloġġi tal-idejn tat-tip smart; Films protettivi adattati għal smartfowns; Smartfowns; Mowbajls; Mowbajls; Kavers għal smartfowns; Kaxxi għall-ismartphones; Printers termali; Fotokopjatriċi; Linji għat-trasmissjoni ta' data.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Smartwatches; Beschermende folie aangepast aan smartphones; Smartphones; Mobiele telefoons; Mobiele telefoons; Hoezen voor smartphones; Etuis voor smartphones; Thermische printers; Fotokopieerapparaten; Datatransmissiekabels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Zegarki inteligentne; Folie ochronne dostosowane do smartfonów; Smartfony; Telefony komórkowe; Telefony komórkowe; Pokrowce na smartfony; Etui na smartfony; Drukarki termiczne; Fotokopiarki; Kable do transmisji danych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Relógios de pulso inteligentes; Películas protetoras adaptadas para smartphones; Smartphones; Telefones celulares; Telefones celulares; Capas para smartphones; Capas para smartphones; Impressoras térmicas; Fotocopiadoras; Cabos para a transmissão de dados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Ceasuri inteligente; Folii de protecţie adaptate pentru telefoane inteligente; Telefoane inteligente; Telefoane mobile; Telefoane mobile; Huse pentru telefoane inteligente; Carcase pentru telefoane inteligente; Imprimante termice; Fotocopiatoare; Cabluri pentru transmisia de date.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Inteligentné hodinky; Ochranné fólie na smartfóny; Smartfóny; Mobilné telefóny; Mobilné telefóny; Kryty na smartfóny; Puzdrá na smartfóny; Termotlačiarne; Fotokopírovacie stroje (fotografické, elektrostatické alebo termické); Káble na prenos údajov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pametne zapestne ure; Zaščitne folije, prilagojene za pametne telefone; Pametni telefoni; Mobilni telefoni; Mobilni telefoni; Ohišja za pametne telefone; Etuiji za pametne telefone; Termični tiskalniki; Fotokopirni stroji; Kabli za prenos podatkov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Smarta klockor; Skyddsfilm för smartphones; Smartphones; Mobiltelefoner; Mobiltelefoner; Fodral för smartphones; Skal för smartphones; Termoskrivare; Fotokopieringsmaskiner; Kablar för dataöverföring.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/108</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/181</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082606</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>32203</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

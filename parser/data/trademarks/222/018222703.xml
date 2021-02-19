@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-02T23:00:43</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222703</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222703</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="6">Application under examination</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-04-09</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Kleine Krone</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Информационно-технологични и аудиовизуални, мултимедийни и фотографски устройства; Уреди и апарати за научни изследвания и лаборатории, уреди, апарати и симулатори за обучение.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Informační technologie a audiovizuální, multimediální a fotografické přístroje; Vědecké výzkumné a laboratorní přístroje, přístroje pro vyučování a simulátory.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Informationsteknologiske, audiovisuelle og fotografiske apparater, samt apparater til multimedie; Videnskabelige forsknings og laboratorie apparater, undervisningsapparater og simulatorer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Informationstechnologische, audiovisuelle, multimediale und fotografische Geräte; Apparate für wissenschaftliche Forschung und Labor, Unterrichtsapparate und Simulatoren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Τεχνολογία της πληροφορίας και συσκευές οπτικοακουστικές, πολυμέσων και φωτογραφικές· Συσκευές επιστημονικής έρευνας και εργαστηρίων, συσκευές εκπαίδευσης και εξομοιωτές.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Information technology and audio-visual, multimedia and photographic devices; Scientific research and laboratory apparatus, educational apparatus and simulators.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Equipos de tecnología de la información, audiovisuales, multimedia y fotográficos; Aparatos para la investigación científica y de laboratorio, aparatos educativos y simuladores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Infotehnoloogia- ning audiovisuaal-, multimeedia- ja fotoseadmed; Teaduslikud uuringu- ja laboriseadmed, õppeseadmed ning -simulaatorid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tietotekniset laitteet sekä audiovisuaaliset, multimedia- ja valokuvauslaitteet; Tieteelliset tutkimus- ja laboratoriolaitteet, opetuslaitteet ja simulaattorit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Dispositifs de la technologie de l’information, audiovisuels, multimédias et photographiques; Appareils de recherche scientifique et de laboratoire, appareils et simulateurs didactiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Informacijska tehnologija te uređaji za reprodukciju zvučnih zapisa, videozapisa i multimedijskih sadržaja te uređaji za fotografiranje; Uređaji za znanstveno istraživanje i laboratorije, obrazovni uređaji i simulatori.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Informatikai és audio-, vizuális, multimédiás és fényképészeti készülékek; Berendezések tudományos kutatáshoz és laboratóriumi használatra, oktatási berendezések és szimulátorok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tecnologie dell’informazione e dispositivi audiovisivi, multimediali e fotografici; Strumenti, indicatori e regolatori per misurare, rilevare e monitorare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Informacinių technologijų ir garso, vaizdo, daugialypės terpės ir fotografijos prietaisai; Mokslinių tyrimų ir laboratoriniai aparatai, mokymo prietaisai ir imituokliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Informācijas tehnoloģijas un audiovizuālo materiālu, multivides un fotografēšanas ierīces; Zinātniskās pētniecības un laboratoriju aparāti, mācību aparāti un simulatori.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Teknoloġija tal-informatika u tagħmir awdjo-viżwali, multimedjali u fotografiku; Apparat għar-riċerka xjentifika u fil-laboratorju, apparat edukattiv u simulaturi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Informatietechnologische, audiovisuele, multimedia- en fotografische toestellen; Apparaten voor wetenschappelijk onderzoek en laboratoria, onderwijsapparaten en simulatoren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia technologii informacyjnej i audiowizualne, multimedialne i fotograficzne; Urządzenia do badań naukowych i laboratoryjne, urządzenia dydaktyczne i symulatory.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Tecnologia da informação e dispositivos audiovisuais, multimédia e fotográficos; Aparelhos de pesquisa científica e de laboratório, aparelhos educacionais e simuladores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dispozitive pentru tehnologia informației, audio-vizuale, multimedia și fotografice; Aparate pentru cercetare științifică și de laborator, aparate și simulatoare educaționale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zariadenia informačných technológií a audiovizuálne, multimediálne a fotografické zariadenia; Vedeckovýskumné a laboratórne prístroje, vzdelávacie prístroje a simulátory.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Naprave za informacijsko tehnologijo, avdiovizualne in večpredstavnostne vsebine ter fotografiranje; Znanstveno-raziskovalni in laboratorijski aparati, učni aparati in simulatorji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Informationsteknologiska anordningar, ljudanordningar, visuella anordningar, multimedieanordningar och fotografiska anordningar; Utrustning för vetenskaplig forskning och laboratorier, undervisningsapparater och simulatorer.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>28</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Играчки, игри и артикули за игра; Спортни артикули и оборудване.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Hračky, hry a žertovné předměty; Sportovní potřeby a vybavení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Legetøj, spil og festartikler; Sportsartikler og -udstyr.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Spielwaren, Spiele und Spielzeug; Sportartikel und -ausrüstungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παιδικά παιχνίδια, παιχνίδια και αθύρματα· Είδη και εξοπλισμός άθλησης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Toys, games, and playthings; Sporting articles and equipment.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Juguetes, juegos y artículos para jugar; Equipamientos y artículos deportivos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mänguasjad, mängud ja peotarbed, pilakaubad; Sporditarbed ja -riistad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lelut, pelit ja leikkivälineet; Urheiluvälineet ja -varusteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Jouets, jeux et articles de jeux; Articles et équipement de sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Igračke, igre, predmeti za igranje i zabavu; Sportski artikli i oprema.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Játékszerek, játékok és játéktárgyak; Sportcikkek és felszerelések.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Giochi, giocattoli, balocchi e ninnoli; Articoli e attrezzature sportive.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Žaislai, žaidimai, žaisliukai ir niekučiai (dovanėlės); Sporto reikmenys ir įranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Rotaļlietas, spēles un spēļlietas; Sporta preces un sporta inventārs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ġugarelli, logħob, oġġetti tal-logħob; Artikli u tagħmir sportivi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Speelgoed, spelletjes en speelgoed; Sportartikelen en -uitrustingen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Gry, zabawki i akcesoria do zabawy; Artykuły i sprzęt sportowy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Brinquedos, jogos, artigos de brincar e de festa; Artigos e equipamento de desporto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Jucării, jocuri și articole de joacă; Articole și echipament de sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Hračky, hry a drobný hračkársky tovar; Športové potreby a športový výstroj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Igrače, igre, predmeti za zabave; Športne potrebščine in oprema.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Leksaker, spel och skämtartiklar; Sportartiklar och sportutrustning.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за образование, развлечение и спорт; Услуги за резервация и резервация на билети за образователни, развлекателни и спортни дейности и събития; Издателска дейност, репортажи и писане на текстове.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby v oblasti vzdělávání, zábavy a sportu; Rezervace vstupenek na vzdělávací, zábavní a sportovní aktivity a akce a související rezervační služby; Zveřejňování, oznamování a psaní textů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Uddannelsesvirksomhed, underholdningsvirksomhed og sportsydelser; Reservation af billetter og booking af aktiviteter og arrangementer vedrørende uddannelse, underholdning og sport; Publicering, journalistvirksomhed og tekstforfatning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bildung, Erziehung, Unterhaltung und sportliche Aktivitäten; Ticketreservierung und -buchung für Bildungs- und Unterhaltungsveranstaltungen sowie für sportliche Veranstaltungen und Äktivitäten; Verlagsdienstleistungen und Berichterstattung sowie Verfassen von Texten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες εκπαίδευσης, ψυχαγωγίας και αθλητισμού· Υπηρεσίες κράτησης εισιτηρίων και θέσεων για εκπαιδευτικές, ψυχαγωγικές και αθλητικές δραστηριότητες και εκδηλώσεις· Υπηρεσίες έκδοσης, αναφοράς, και σύνταξης κειμένων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Education, entertainment and sport services; Ticket reservation and booking services for education, entertainment and sports activities and events; Publishing, reporting, and writing of texts.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de educación, entretenimiento y de actividades deportivas; Servicios de reserva de entradas para actividades y eventos de educación, entretenimiento y deporte; Publicación, edición de reportajes y redacción de textos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Haridus-, meelelahutus- ja sporditeenused; Haridus-, meelelahutus- ja sporditegevuste ja -ürituste piletite reserveerimise ja broneerimise teenused; Kirjastamine, reporteriteenused ja tekstide kirjutamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Koulutus-, ajanviete- ja urheilupalvelut; Lippujen varauspalvelut koulutus-, viihde- ja urheilutoimintaan ja -tilaisuuksiin; Tekstien julkaisu, raportointi ja kirjoittaminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services d’éducation, de divertissement et de sport; Services de réservation et de préréservation de billets concernant les activités et les événements dans les domaines de l’éducation, du divertissement et des sports; Édition, établissement de rapports et rédaction de textes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Obrazovne, zabavne i sportske usluge; Predbilježba i rezervacija ulaznica za događanja i aktivnosti u području obrazovanja, zabave i sporta; Objavljivanje, izvještavanje i pisanje tekstova.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Oktatási, szórakoztatási és sportszolgáltatások; Jegyfoglalás és foglalási szolgáltatások oktatási, szórakoztató és sporttevékenységekhez, illetve -rendezvényekhez; Kiadói és híradói, beszámolói szolgáltatások, illetve szövegek írása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi relativi a educazione, divertimento e sport; Servizi di prenotazione di biglietti per attività ed eventi in ambito educativo, ricreativo e sportivo; Pubblicazione, comunicazione e redazione di testi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Švietimo, pramogų ir sporto paslaugos; Bilietų į mokomuosius, pramoginius ir sporto renginius ir užsiėmimus rezervavimo ir užsakymo paslaugos; Tekstų leidyba, reportažų rengimas ir tekstų rašymas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Izglītības, izklaides un sporta pakalpojumi; Biļešu rezervēšanas un pasūtīšanas pakalpojumi izglītības, izklaides un sporta nodarbībām un pasākumiem; Tekstu rakstīšana, publicēšana un reportāžu sagatavošana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' edukazzjoni, ta' divertiment u ta' sports; Servizzi ta' riservazzjoni u riservazzjoni ta' biljetti għall-edukazzjoni, id-divertiment u l-attivitajiet sportivi u eventi; Il-pubblikazzjoni, ir-rapportaġġ u l-kitba ta' testi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diensten op het gebied van opvoeding, ontspanning en sport; Ticketreserverings- en boekingsdiensten voor onderwijs-, entertainment- en sportactiviteiten en -evenementen; Publiceren, rapporteren en schrijven van teksten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi edukacyjne, rozrywkowe i sportowe; Usługi rezerwacji biletów na atrakcje i wydarzenia edukacyjne, rozrywkowe i sportowe; Publikowanie, sprawozdawczość i pisanie tektów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de educação, entretenimento e desporto; Serviços de reserva de bilhetes para atividades e eventos educativos, de entretenimento e desportivos; Publicação, relato e redação de textos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii educative, de divertisment și sportive; Servicii de rezervare de bilete în domeniul educației, divertismentului și sportului; Editare, întocmire de rapoarte și redactare de texte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Služby v oblasti vzdelávania, zábavy a športu; Rezervácia vstupeniek a rezervačné služby v oblasti vzdelávacích, zábavných a športových činností a podujatí; Uverejňovanie, oznamovanie a písanie textov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Izobraževalne, razvedrilne in športne storitve; Storitve rezervacije vstopnic za izobraževalne, razvedrilne in športne dejavnosti in dogodke; Objava, priprava poročil in pisanje besedil.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tjänster avseende utbildning, underhållning och sport; Reservation och bokning av biljetter för aktiviteter och evenemang inom utbildning, underhållning och sport; Publicering, rapportering och författande av texter.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1078736</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>95711</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

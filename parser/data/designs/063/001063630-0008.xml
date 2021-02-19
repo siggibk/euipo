@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-08-17T11:36:50</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063630-0008</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063630-0008</DesignIdentifier>
+<ApplicationNumber>001063630</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-04-14</PublicationDate>
+<ApplicationReference>EM5563RBbib</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-12-17</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061901959</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063630_0008/001063630_0008_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061901960</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063630_0008/001063630_0008_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061901961</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063630_0008/001063630_0008_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061901963</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063630_0008/001063630_0008_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061901964</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063630_0008/001063630_0008_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061901966</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063630_0008/001063630_0008_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061901969</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063630_0008/001063630_0008_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Гарнитури за врати, за автомобили</IndicationProduct>
+       <IndicationProduct languageCode="cs">Obložení dveří automobilů</IndicationProduct>
+       <IndicationProduct languageCode="da">Dørlister til automobiler</IndicationProduct>
+       <IndicationProduct languageCode="de">Verkleidungen für Kraftfahrzeugtüren</IndicationProduct>
+       <IndicationProduct languageCode="el">Εσωτερικές επενδύσεις για θύρες αυτοκινήτων</IndicationProduct>
+       <IndicationProduct languageCode="en">Door trims for automobiles</IndicationProduct>
+       <IndicationProduct languageCode="es">Revestimientos interiores para puertas de vehículos</IndicationProduct>
+       <IndicationProduct languageCode="et">Autouste ehisosad</IndicationProduct>
+       <IndicationProduct languageCode="fi">Ajoneuvojen ovien kehystykset</IndicationProduct>
+       <IndicationProduct languageCode="fr">Garnitures de portières d'automobiles</IndicationProduct>
+       <IndicationProduct languageCode="hu">Ajtókárpitozás gépkocsik részére</IndicationProduct>
+       <IndicationProduct languageCode="it">Finiture di porte per veicoli</IndicationProduct>
+       <IndicationProduct languageCode="lt">Durelių aptaisai automobiliams</IndicationProduct>
+       <IndicationProduct languageCode="lv">Automobiļu durvju apdare</IndicationProduct>
+       <IndicationProduct languageCode="mt">Tapizzerija għall-bibien tal-karozzi</IndicationProduct>
+       <IndicationProduct languageCode="nl">Sierstrippen voor voertuigen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Opaski drzwiowe do samochodów</IndicationProduct>
+       <IndicationProduct languageCode="pt">Revestimentos para portas de automóveis</IndicationProduct>
+       <IndicationProduct languageCode="ro">Panouri de portiere pentru automobile</IndicationProduct>
+       <IndicationProduct languageCode="sk">Dverové obloženia pre automobily</IndicationProduct>
+       <IndicationProduct languageCode="sl">Zaključne obrobe za vrata avtomobilov</IndicationProduct>
+       <IndicationProduct languageCode="sv">Dörrlister för bilar</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>12.16</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PriorityDetails>
+       <Priority>
+        <PriorityCountryCode>JP</PriorityCountryCode>
+        <PriorityNumber>2008-022524</PriorityNumber>
+        <PriorityDate>2008-09-02</PriorityDate>
+        <PriorityStatusCode>Claimed</PriorityStatusCode>
+       </Priority>
+      </PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/068</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-04-14</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/213</PublicationIdentifier>
+        <PublicationSequenceNumber>323545</PublicationSequenceNumber>
+        <PublicationSection>A.3.2</PublicationSection>
+        <PublicationDate>2009-10-23</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/241</PublicationIdentifier>
+        <PublicationSequenceNumber>344746</PublicationSequenceNumber>
+        <PublicationSection>A.3.2</PublicationSection>
+        <PublicationDate>2009-11-27</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/002</PublicationIdentifier>
+        <PublicationSequenceNumber>1129233</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2014-01-07</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/133</PublicationIdentifier>
+        <PublicationSequenceNumber>1269010</PublicationSequenceNumber>
+        <PublicationSection>B.2.2</PublicationSection>
+        <PublicationDate>2014-07-21</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/137</PublicationIdentifier>
+        <PublicationSequenceNumber>1276358</PublicationSequenceNumber>
+        <PublicationSection>B.2.2</PublicationSection>
+        <PublicationDate>2014-07-25</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2015/043</PublicationIdentifier>
+        <PublicationSequenceNumber>1441569</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2015-03-04</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/241</PublicationIdentifier>
+        <PublicationSequenceNumber>100814947</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2018-12-19</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>6961</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>10111</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>008330130</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1276358</PublicationSequenceNumber>
+           <PublicationSection>B.2.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-07-25</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>008314951</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1269010</PublicationSequenceNumber>
+           <PublicationSection>B.2.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-07-21</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>009055538</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1441569</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2015-03-05</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006996080</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1129233</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-07</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003520206</RecordIdentifier>
+<BasicRecordKind>Relative Errors on Part A on Design</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>323545</PublicationSequenceNumber>
+           <PublicationSection>A.3.2</PublicationSection>
+          </RecordPublication>
+          <RecordPublication>
+           <PublicationSequenceNumber>344746</PublicationSequenceNumber>
+           <PublicationSection>A.3.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-11-27</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003520206</RecordIdentifier>
+<BasicRecordKind>Relative Errors on Part A on Design</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>323545</PublicationSequenceNumber>
+           <PublicationSection>A.3.2</PublicationSection>
+          </RecordPublication>
+          <RecordPublication>
+           <PublicationSequenceNumber>344746</PublicationSequenceNumber>
+           <PublicationSection>A.3.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-11-27</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012443860</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100814947</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-12-19</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-29T09:52:45</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224916</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224916</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ETI Tech Awards</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162199517</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224916/000162199517.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.01.03</CategoryCode>
+          <CategoryCode>26.01.18</CategoryCode>
+          <CategoryCode>26.01.24</CategoryCode>
+          <CategoryCode>27.99.05</CategoryCode>
+          <CategoryCode>27.99.09</CategoryCode>
+          <CategoryCode>27.99.20</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Организиране на предоставяне на награди; Организиране на съревнования и награди.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Organizování udílení cen; Organizace soutěží a vyhlašování cen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Værtsskab [organisering] i forbindelse med prisuddelinger; Organisering af konkurrencer og prisoverrækkelser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Veranstaltung und Organisation von Preisverleihungen; Veranstaltung von Wettbewerben und Preisverleihungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φιλοξενία και οργάνωση τελετών απονομής βραβείων· Διοργάνωση διαγωνισμών με απονομή βραβείων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Hosting [organising] awards; Organisation of competitions and awards.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Presentación [organización] de entregas de premios; Servicios de organización de concursos y entrega de premios.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Autasustamistseremooniate läbiviimine ja organiseerimine; Võistluste ja autasustamiste organiseerimine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Palkintoseremonioiden järjestäminen ja juontaminen; Kilpailujen ja palkinnonjakojen järjestämispalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Accueil et organisation de cérémonies de remise de prix; Organisation de compétitions et de cérémonies de remise de prix.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dodjela [organiziranje] nagrada; Organiziranje natjecanja i nagrada.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Díjátadók vendégül látása [szervezés]; Versenyek és díjkiosztók rendezése.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Conduzione ed organizzazione di premiazioni; Organizzazione di concorsi e premiazioni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Apdovanojimų ceremonijų vedimas ir rengimas; Konkursų ir apdovanojimų rengimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Balvu pasniegšanas ceremoniju vadīšana (rīkošana); Konkursu un apbalvošanas ceremoniju rīkošana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Żamma (organizzazzjoni) ta' ċerimonji ta' għoti ta' premjijiet; L-organizzazzjoni ta' kompetizzjonijiet u premjijiet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Organiseren van prijsuitreikingen; Organisatie van wedstrijden en prijsuitreikingen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Organizowanie ceremonii wręczania nagród; Organizowanie zawodów i ceremonii przyznawania nagród.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Apresentação e organização de entrega de prémios; Organização de competições e de entrega de prémios.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Organizare și găzduire de ceremonii de decernare de premii; Organizare de competiții și ceremonii de decernare de premii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Organizovanie odovzdávania ocenení; Organizovanie súťaží a slávností spojených s udeľovaním cien.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Prirejanje (organiziranje) podelitev nagrad; Organizacija tekmovanj in podelitev nagrad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Värdskap och anordnande av prisutdelningar; Organisering av tävlingar och prisutdelningar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/141</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>634557</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-16T11:52:56</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229854</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229854</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-23</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>GLORIOSO dalla mia terra</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162506191</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229854/000162506191.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>05.11.11</CategoryCode>
+          <CategoryCode>14.11.01</CategoryCode>
+          <CategoryCode>25.05.95</CategoryCode>
+          <CategoryCode>29.01.03</CategoryCode>
+          <CategoryCode>29.01.08</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>29</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Зехтин; Маслини, консервирани; Маслини [обработени]; Обработени плодове, гъби, зеленчуци, ядки и варива; Хранителни масла и мазнини; Млечни произведения и млечни заместители.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Olivový olej; Konzervované olivy; Olivy [zpracované]; Zpracované ovoce, houby a zelenina, ořechy a luštěniny; Jedlé oleje a tuky; Mléčné výrobky a jejich náhražky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Olivenolie; Oliven, konserverede; Tilberedte oliven; Forarbejdede frugt, svampe, grøntsager, nødder og bælgfrugter; Spiselige olier og fedtstoffer; Mejeriprodukter og erstatninger for mejeriprodukter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Olivenöl; Konservierte Oliven; Zubereitete Oliven; Verarbeitete Früchte, Pilze, Gemüse, Nüsse und Hülsenfrüchte; Speiseöle und -fette; Molkereiprodukte und deren Ersatzprodukte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ελαιόλαδο· Ελιές κονσερβοποιημένες· Ελιές, [επεξεργασμένες]· Επεξεργασμένα φρούτα, μανιτάρια, λαχανικά, ξηροί καρποί και όσπρια· Έλαια και λίπη βρώσιμα· Γαλακτοκομικά προϊόντα και υποκατάστατα γαλακτοκομικών προϊόντων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Olive oil; Olives, preserved; Olives, [prepared]; Processed fruits, fungi, vegetables, nuts and pulses; Edible oils and fats; Dairy products and dairy substitutes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aceite de oliva; Aceitunas en conserva; Aceitunas preparadas; Frutos, hongos, verduras, frutos secos y legumbres procesados; Aceites y grasas comestibles; Productos lácteos y sustitutivos de la leche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Oliiviõli; Oliivikonservid, konservitud oliivid; Oliivid [töödeldud]; Töödeldud puuviljad, seened, köögiviljad, pähklid ja kaunviljad; Toiduõlid ja toidurasvad; Piimatooted ja piima aseained.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Oliiviöljy; Oliivit, säilötyt; Käsitellyt oliivit; Käsitellyt hedelmät, sienet, vihannekset, pähkinät ja palkokasvit; Ravintoöljyt ja -rasvat; Maitotuotteet ja maitotuotteiden korvikkeet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Huile d'olive; Olives conservées; Olives préparées; Fruits, champignons, légumes, fruits à coque et légumineuses transformés; Huiles et graisses comestibles; Produits laitiers et substituts.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Maslinovo ulje; Konzervirane masline; Masline [pripremljene]; Prerađeno voće, gljive, povrće, orašasti plodovi i mahunarke; Jestiva ulja i masti; Mliječni proizvodi i njihovi nadomjesci.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Olívaolaj; Olajbogyó, tartósított; Olajbogyók [feldolgozott]; Feldolgozott gyümölcsök, gombák, zöldségek, diófélék és hüvelyesek; Étkezési olajok és zsírok; Tejtermékek és tejtermék-helyettesítők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Olio di oliva; Olive conservate; Olive [pronte]; Olive trasformate; Frutta, funghi ed ortaggi lavorati (inclusi frutta a guscio e legumi); Olii e grassi commestibili; Prodotti caseari e loro succedanei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Alyvuogių aliejus; Konservuotos alyvos; Paruoštos alyvuogės; Apdoroti vaisiai, grybai, daržovės, riešutai ir ankštinės daržovės; Valgomieji aliejai ir riebalai; Pieno produktai ir pieno pakaitalai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Olīveļļa; Konservētas olīvas; Olīves, pagatavotas; Apstrādāti augļi, sēnes, dārzeņi, rieksti un pākšaugi; Pārtikas eļlas un tauki; Piena produkti un piena aizstājēji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Żejt taż-żebbuġa; Żebbuġ ippreservat; Żebbuġ [preparat]; Frott proċessat, fungi, ħxejjex ġewż u legumi; Żjut u xaħmijiet li jittieklu; Prodotti tal-ħalib jew sostituti tal-ħalib.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Olijfolie; Olijven, geconserveerd; Olijven [bereide]; Bewerkte vruchten, paddenstoelen, groenten, noten en peulvruchten; Eetbare oliën en vetten; Zuivelproducten en vervangingsmiddelen voor zuivel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oliwa z oliwek; Oliwki konserwowane; Oliwki [przetworzone]; Przetworzone owoce, grzyby, warzywa, orzechy i nasiona roślin strączkowych; Oleje i tłuszcze jadalne; Nabiał i substytuty nabiału.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Azeite; Azeitonas em conserva; Azeitonas [preparadas]; Frutos, fungos e vegetais processados (incluindo oleaginosas e leguminosas); Óleos e gorduras alimentares; Produtos lácteos e substitutos lácteos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Ulei de măsline; Măsline conservate; Măsline [pregătite]; Fructe, ciuperci, legume, nuci și leguminoase prelucrate; Uleiuri și grăsimi comestibile; Produse lactate și înlocuitori.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Olivový olej; Konzervované olivy; Spracované olivy; Spracované ovocie, huby, zelenina, orechy a strukoviny; Jedlé oleje a tuky; Mliečne výrobky a ich náhradky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Olivno olje; Konzervirane olive; Pripravljene olive; Predelano sadje, gobe, zelenjava, oreščki in stročnice; Jedilno olje in maščoba; Mlečni proizvodi in njihovi nadomestki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Olivolja; Konserverade oliver; Tillredda oliver; Behandlade frukter, svampar, grönsaker, nötter och baljfrukter; Ätliga oljor och fetter; Mejeriprodukter och mejeriersättningar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Обработени зърнени храни, нишестета и стоки от тях, смеси за тестени изделия и кваси; Бонбони, близалки и дъвки; Сладкиши, кексове, торти и бисквити.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zpracované obilí, škrob a produkty z nich vyrobené, pečicí přípravky a droždí; Sladkosti (bonbóny), sladké tyčinky a žvýkačky; Moučníky, zákusky, dorty a sušenky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Forarbejdet korn, stivelse og varer fremstillet deraf, bagepræparater og gær; Slik, slikbarer og tyggegummi; Konditorivarer, kager, tærter, kiks og småkager.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Verarbeitetes Getreide und Stärken für Nahrungsmittel sowie Waren hieraus, Backzubereitungen und Hefe; Süßwaren [Bonbons], Schokoriegel und Kaugummi; Gebäck, Kuchen, Torten und Kekse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Επεξεργασμένα δημητριακά, άμυλα και προϊόντα που κατασκευάζονται από αυτά, ψημένα παρασκευάσματα και μαγιά· Ζαχαρωτά, ραβδοι ζαχαρωτών και τσίχλες· Γλύκισματα, κέικ, τάρτες και μπισκότα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Processed grains, starches, and goods made thereof, baking preparations and yeasts; Sweets (candy), candy bars and chewing gum; Pastries, cakes, tarts and biscuits (cookies).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Granos preparados, almidones y productos fabricados con los mismos, productos para panadería y levaduras; Caramelos, golosinas y chicles; Pastas, pasteles, tartas y galletas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Töödeldud teraviljad, tärklis ning nendest valmistatud kaubad, küpsetuspulbrid ja pärm; Kompvekid, maiustused (batoonid) ja närimiskumm; Kondiitritooted, koogid, tordid ja biskviidid (küpsised).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Jalostetut viljat, tärkkelykset ja niistä tehdyt tuotteet, leivontavalmisteet ja hiivat; Makeiset (karamellit), makeispatukat ja purukumi; Leivonnaiset, kakut, piirakat ja keksit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Grains transformés, amidons et dérivés, préparations pour boulangerie et levures; Bonbons (sucreries), friandises et gomme à mâcher; Pâtisseries, gâteaux, tartes et biscuits.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Prerađene žitarice, škrobovi i njihovi proizvodi, pripravci za pečenje i kvasci; Slatkiši (bomboni), čokoladice i guma za žvakanje; Slastice, torte, pite i keksi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Feldolgozott gabonák, keményítő és az ezekből készült áruk, pékáruk és élesztők; Édességek (cukorkák), csokoládés szeletek, rágógumi; Sütemények, cukrászsütemények, torták és kekszek (aprósütemények).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cereali lavorati, amidi e prodotti da essi derivati, preparati da forno e lieviti; Dolci (caramelle) e gomme da masticare; Pasticcini, torte, crostate e biscotti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Apdoroti grūdai, krakmolas ir jų gaminiai, preparatai kepimo reikmėms ir mielės; Saldainiai, batonėliai ir kramtomoji guma; Miltiniai konditerijos gaminiai, kepiniai, tortai ir sausainiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apstrādāti graudi, ciete un no tiem ražoti produkti, piedevas cepšanai un raugs; Saldumi (konfektes), šokolādes tāfelītes un košļājamās gumijas; Konditorejas izstrādājumi, kūkas, tortes un cepumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Qamħ proċessat, lamtu, u prodotti magħmula minnhom, preparazzjonijiet għall-ħami u ħmira; Ħelu (kandju), bars tal-kandju u chewing gum; Pasti, kejkijiet, torti u gallettini (cookies).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bewerkte granen, zetmeel en producten hiervan, preparaten voor het bakken en gist; Zoetigheden (snoep), snoeprepen en kauwgom; Banketbakkerswaren, cakes, taarten en biscuits (koekjes).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Ziarna przetworzone, skrobia i wyroby z tych towarów, preparaty do pieczenia i drożdze; Cukierki, batony i guma do żucia; Wyroby cukiernicze, ciasta, tarty i ciasteczka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Grãos processados, amidos, e produtos feitos a partir dos mesmos, preparações de cozedura e leveduras; Doces (guloseimas), barras de chocolate e pastilhas elásticas; Pastelaria, bolos, tartes e biscoitos (bolachas).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Semințe procesate, amidon și produsele acestora, preparate coapte și drojdie; Dulciuri (bomboane), tablete de ciocolată și gumă de mestecat; Produse de patiserie, prăjituri, tarte și biscuiți (prăjiturele).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Spracované semená, škroby a produkty z nich vyrobené, prípravky na pečenie a droždia; Cukríky, sladké tyčinky a žuvačky; Jemné pečivo, koláče, torty, sušienky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Predelano zrnje, škrobi, in proizvodi narejeni iz naštetega, sredstva za peko in kvasila; Sladkarije (bonboni), sladke ploščice in žvečilni gumi; Fino pecivo, torte, kolači in piškoti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Bearbetat korn, stärkelse samt varor framställda av dessa, preparat för bakning samt jäst; Godis, konfektyrbitar och tuggummi; Bakverk, kakor, tårtor och kex (småkakor).</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/083</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>740162</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003126620</OppositionIdentifier>
+<OppositionDate>2020-07-23</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>ES</EarlierMarkCountryCode>
+<ApplicationNumber>M3651784</ApplicationNumber>
+<ApplicationDate>2017-02-13</ApplicationDate>
+<RegistrationNumber>M3651784</RegistrationNumber>
+<RegistrationDate>2017-06-30</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>GLORIA</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>437454</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>5942</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

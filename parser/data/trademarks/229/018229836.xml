@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-18T14:29:20</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229836</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229836</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-13</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-18</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>CREATIVES</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162501533</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229836/000162501533.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+          <CategoryCode>29.01.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Облекло; Обувки; Украшения за глава, шапки; Части от облекло, обувки, шапки и принадлежности за глава.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Oděvy; Obuv; Pokrývky hlavy; Části oděvů, obuvi a pokrývek hlavy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beklædningsgenstande; Fodtøj; Hovedbeklædning; Dele af beklædningsgenstande, fodtøj og hovedbeklædning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bekleidungsstücke; Schuhwaren; Kopfbedeckungen; Teile von Bekleidungsstücken, Schuhwaren und Kopfbedeckungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ενδύματα· Υποδήματα· Είδη πιλοποιίας· Μέρη ενδυμάτων, υποδημάτων και ειδών πιλοποιίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Clothing; Footwear; Headgear; Parts of clothing, footwear and headgear.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Prendas de vestir; Calzado; Artículos de sombrerería; Partes de indumentaria, calzado y sombrerería.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Rõivad; Jalatsid; Peakatted; Rõivaste, jalatsite ja peakatete osad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vaatteet; Jalkineet; Päähineet; Vaatteiden, jalkineiden ja päähineiden osat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vêtements; Chaussures; Chapellerie; Parties de vêtements, articles chaussants et articles de chapellerie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Odjeća; Obuća; Pokrivala za glavu; Dijelovi odjeće, obuće i pokrivala za glavu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ruházati cikkek; Lábbelik; Kalapáruk; Ruházat, lábbelik és fejfedők részei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Abbigliamento; Calzature; Cappelleria; Parti di abbigliamento, calzature e articoli di cappelleria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Drabužiai, apranga; Apavas; Galvos apdangalai; Drabužių, avalynės ir galvos apdangalų dalys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apģērbi; Apavi; Galvassegas; Apģērbu, apavu un galvassegu daļas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ilbies; Xedd is-saqajn; Xedd ir-ras; Partijiet minn ħwejjeġ, xedd is-saqajn u xedd ir-ras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kleding; Schoeisel; Hoofddeksels; Delen van kleding, schoeisel en hoofdbedekking.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odzież; Obuwie; Nakrycia głowy; Części odzieży, obuwia i nakryć głowy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vestuário; Calçado; Chapelaria; Partes de vestuário, calçado e chapelaria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Articole de îmbrăcăminte; Articole de încălțăminte; Articole pentru acoperirea capului; Părți de îmbrăcăminte, încălțăminte și articole pentru acoperirea capului.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Odevy; Obuv; Pokrývky hlavy; Časti oblečenia, obuvi a pokrývok hlavy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oblačila; Obutev; Pokrivala; Deli oblačil, obutve in pokrival.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kläder; Fotbeklädnader; Huvudbonader; Delar av kläder, fotbeklädnader och huvudbonader.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/083</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/155</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082667</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

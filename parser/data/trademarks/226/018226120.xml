@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T07:05:15</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226120</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226120</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>OPHTHAJOD</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Фармцевтични продукти за употреба в офталмологията.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Farmaceutické přípravky k použití v oftalmologii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Farmaceutiske præparater til brug inden for oftalmologi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Pharmazeutische Präparate zur Verwendung in der Augenheilkunde.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φαρμακευτικά παρασκευάσματα για χρήση στην οφθαλμολογία.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Pharmaceutical preparations for use in ophthalmology.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Productos farmacéuticos para su uso en oftalmología.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Oftalmoloogia farmaatsiapreparaadid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Farmaseuttiset valmisteet silmälääketieteelliseen käyttöön.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Produits pharmaceutiques utilisés en ophtalmologie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Farmaceutski preparati za primjenu u oftalmologiji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szemészetben használt gyógyszerészeti készítmények.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Preparati farmaceutici per uso oftalmico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Farmaciniai preparatai, skirti naudoti oftalmologijos srityje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Farmaceitiskie preparāti izmantošanai oftalmoloģijā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Prodotti farmaċewtiċi użati fl-oftalmika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Farmaceutische preparaten voor gebruik in oogheelkunde.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Preparaty farmaceutyczne do użytku w okulistyce.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Preparações farmacêuticas para uso em oftalmologia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Preparate farmaceutice pentru utilizare în oftalmologie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Farmaceutické prípravky na použitie v oftalmológii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Farmacevtski proizvodi za uporabo v oftalmologiji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Farmaceutiska preparat för oftamologiskt bruk.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/149</PublicationIdentifier>
+        <PublicationSection>C.3.6</PublicationSection>
+        <PublicationDate>2020-08-07</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1014083</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10910</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

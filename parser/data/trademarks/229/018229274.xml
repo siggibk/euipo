@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-16T10:16:44</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229274</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229274</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-10-14</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-10-16</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>CLARITY</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162471456</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229274/000162471456.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.25</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Компютърни програми [софтуер, които може да бъде прехвърлян върху друг носител], А именно, Софтуер за изкуствен интелект с цел автоматично анализиране на формата на вълните на електроенцефалограма (EEG) с цел предупреждаване на ползвателите при откриване на припадъци.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Počítačové programy [stahovatelné], Jmenovitě, Software umělé inteligence za účelem automatické analýzy vln elektroencefalogramu (EEG) za účelem upozornění uživatelů v případě zjištění záchvatů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Downloadable computerprogrammer, Nemlig, Software med kunstig intelligens til automatisk analyse af elektroencefalogram (EEG) bølgeformer til alarmering af brugere, hvis der registreres anfald.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Herunterladbare Computerprogramme, Nämlich, Software für künstliche Intelligenz zur automatischen Analyse von Elektroenzephalogramm-(EEG-)Wellenformen zum Zweck der Warnung von Benutzern bei der Entdeckung von Anfällen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Η/Υ (προγράμματα -) [τηλεμεταφερόμενο λογισμικό], Συγκεκριμένα, Λογισμικό τεχνητής νοημοσύνης για αυτόματη ανάλυση κυματομορφών ηλεκτροεγκεφαλογραφήματος (ΗΕΓ) για χρήση στην ειδοποίηση των χρηστών κατά την ανίχνευση κρίσεων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Downloadable computer software, namely, artificial intelligence software for the purpose of automatically analyzing electroencephalogram (EEG) waveforms for the purpose of alerting users when seizures are detected.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Programas informáticos descargables, En concreto, Software de inteligencia artificial para el análisis automático de formas de onda de electroencefalograma (EEG) para el propósito de alertar a los usuarios cuando se detectan convulsiones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Arvutiprogrammid [allalaaditav tarkvara], Nimelt, Tehisintellekti tarkvara elektroentsefalogrammi (EEG) lainekujude automaatseks analüüsimiseks, et hoiatada kasutajaid haigushoogude avastamise korral.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ohjelmistot (tietokone -) [järjestelmästä toiseen poimittavat], Nimittäin, Tekoälyohjelmistot elektroenkefalogrammiaaltomuotojen (EEG-) automaattiseen analysointiin käyttäjien varoittamiseksi havaittaessa kohtauksia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Programmes d'ordinateurs téléchargeables, À savoir, Logiciels d'intelligence artificielle destinés à analyser automatiquement les ondes d'électroencéphalogrammes (EEG) afin d'alerter les utilisateurs en cas de détection de crises.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Programi (računalni -) [koji se mogu preuzeti], Odnosno, Softver za umjetnu inteligenciju za potrebe automatske analize valnih oblika elektroencefalograma (EEG) za potrebe upozoravanja korisnika prilikom otkrivanja napadaja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Számítógépes programok [letölthető szoftverek], Nevezetesen, Mesterséges intelligencia szoftver az elektroencephalogram (EEG) hullámformák automatikus elemzéséhez a felhasználók figyelmeztetése céljából, amikor rohamokat észlelnek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Programmi per computer, scaricabili, Ovvero, Software d'intelligenza artificiale per analizzare automaticamente forme d'onda di elettroencefalogramma (EEG) per avvertire gli utenti quando vengono rilevate crisi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Parsisiunčiamosios kompiuterių programos, Būtent,, Dirbtinio intelekto programinė įranga, skirta automatiškai analizuoti elektroencefalogramos (EEG) bangos formas, siekiant įspėti vartotojus apie aptiktus traukulius.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Lejupielādējamas datorprogrammas, Proti, Mākslīgā intelekta programmatūra, lai automātiski analizētu elektroencefalogrammas [EEG] viļņu formas, lai brīdinātu lietotājus, ja tiek atklāti krampji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Programmi tal-kompjuter [softwer li jista' jitniżżel], Jiġifieri, Softwer tal-intelliġenza artifiċjali għall-iskop ta' analizzar awtomatiku ta' forom ta' mwieġ tal- elettroċifalogramma (EEG) għall-iskop li twissija lill-utenti meta jinstabu aċċessjonijiet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Computerprogramma's, downloadable, Te weten, Software voor kunstmatige intelligentie voor het automatisch analyseren van golfvormen van een elektro-encefalogram (EEG) om gebruikers te waarschuwen wanneer attaques worden gedetecteerd.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Programy komputerowe [oprogramowanie do pobrania], Mianowicie, Oprogramowanie typu sztuczna inteligencja do celów automatycznego analizowania fal elektroencefalogramu (EEG) w celu powiadamiania użytkowników o wykrytych atakach.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Programas de computador descarregáveis, Nomeadamente, Software de inteligência artificial para fins de análise automática de formas de onda eletroencefalográficas (EEG) para fins de alerta dos utilizadores quando são detetadas convulsões.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Programe de calculatoare [software descărcabil], Şi anume, Software cu inteligență artificială pentru analiza automată a formelor undelor electroencefalogramei (EEG) pentru a alerta utilizatorii atunci când sunt detectate crize.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Počítačové programy (sťahovateľné), Menovite, Softvér s funkciami umelej inteligencie na účely automatickej analýzy vlnových foriem elektroencefalogramu (EEG) na účely upozorňovania používateľov pri detekcii záchvatov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Računalniški programi [naložljiva programska oprema], In sicer, Programska oprema za umetno inteligenco za namen avtomatične analize valovnih oblik elektroencefalograma (EEG) za namen opozarjanja uporabnikov ob odkritju napadov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Datorprogram, nedladdningsbara, Nämligen, Programvara med artificiell intelligens för automatisk analys av elektroencefalogramvågformar (EEG) för att varna användare när slaganfall upptäcks.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Компютъризиран апарат, а именно хардуер за наблюдение на мозъчната активност за откриване на поява на припадъци.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Počítačové přístroje, jmenovitě hardware pro monitorování mozkové činnosti za účelem zjištění výskytu záchvatů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Computerbaserede apparater, nemlig hardware til overvågning af hjerneaktivitet til detektering af forekomsten af anfald.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Computergestützte Apparate, nämlich Hardware zur Überwachung der Hirnaktivität zwecks Erkennung des Auftretens von Anfällen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συσκευές που λειτουργούν με τη βοήθεια ηλεκτρονικού υπολογιστή, συγκεκριμένα υλικό για παρακολούθηση της εγκεφαλικής δραστηριότητας για την ανίχνευση της εμφάνισης κρίσεων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Computerised apparatus, namely hardware for monitoring brain activity to detect the occurrence of seizures.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aparato informatizado, en concreto hardware para la monitorización de la actividad cerebral para detectar la aparición de convulsiones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Arvutiseadmed, nimelt riistvara ajutegevuse jälgimiseks haigushoogude tuvastamiseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tietokoneistetut laitteet, nimittäin laitteistot aivotoiminnan seurantaan kohtausten havaitsemiseksi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Appareils informatisés, à savoir matériel informatique pour la surveillance de l'activité cérébrale afin de détecter la survenue de crises.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kompjuterizirani ređaji, i to hardver za praćenje moždane aktivnosti radi otkrivanja napadaja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Számítógépes készülékek, nevezetesen a rohamok előfordulásának észlelésére szolgáló agyi tevékenységek figyelésére szolgáló hardverek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Apparecchi computerizzati, ovvero hardware per monitorare l'attività celebrale, al fine di rilevare l'insorgere di crisi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kompiuterizuotas aparatas, būtent aparatūra, skirta smegenų veiklai stebėti, siekiant nustatyti traukulius.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Datorizēti aparāti, proti, aparatūra smadzeņu darbības uzraudzībai, lai noteiktu krampju gadījumus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħmir ikkompjuterizzat, jiġifieri ħardwer għall-monitoraġġ ta' attività fil-moħħ biex tinqabad l-okkorrenza tal-aċċessjonijiet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Computerapparatuur, te weten hardware voor het bewaken van hersenactiviteit voor het detecteren van attaques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia komputerowe, mianowicie sprzęt do monitorowania aktywności mózgu w celu wykrywania występowania ataków.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aparelhos informatizados, especificamente hardware para monitorização da atividade cerebral para detetar a ocorrência de convulsões.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aparate informatizate, și anume hardware pentru monitorizarea activității creierului pentru detectarea manifestării crizelor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Počítačové prístroje, menovite hardvér na monitorovanie činnosti mozgu na účely detekcie záchvatov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Računalniški aparati, in sicer strojna oprema za spremljanje možganske dejavnosti za odkrivanje pojava napadov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Datorbaserade anordningar, nämligen maskinvara för övervakning av hjärnverksamhet för att upptäcka förekomsten av slaganfall.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Осигуряване временна употреба на несваляем софтуер за наблюдение на мозъчната активност за откриване на поява на припадъци; Предоставяне за временна употреба на компютърен софтуер без възможност за изтегляне, А именно, Софтуер за изкуствен интелект с цел автоматично анализиране на формата на вълните на електроенцефалограма (EEG) с цел предупреждаване на ползвателите при откриване на припадъци.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Poskytování dočasného použití počítačového softwaru bez možnosti stažení pro monitorování mozkové činnosti za účelem zjištění výskytu záchvatů; Poskytování dočasného používání počítačového softwaru bez možnosti stažení, Jmenovitě, Software umělé inteligence za účelem automatické analýzy vln elektroencefalogramu (EEG) za účelem upozornění uživatelů v případě zjištění záchvatů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Udbydelse af midlertidig anvendelse af ikke-downloadable computersoftware til overvågning af hjerneaktivitet til detektering af forekomsten af anfald; Tilvejebringelse af midlertidig brug af ikke-downloadable computersoftware, Nemlig, Software med kunstig intelligens til automatisk analyse af elektroencefalogram (EEG) bølgeformer til alarmering af brugere, hvis der registreres anfald.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bereitstellung der zeitweiligen Nutzung von nicht herunterladbarer Computersoftware zur Überwachung der Hirnaktivität zwecks Erkennung des Auftretens von Anfällen; Zurverfügungstellung von nicht herunterladbarer Computersoftware zur zeitweiligen Nutzung, Nämlich, Software für künstliche Intelligenz zur automatischen Analyse von Elektroenzephalogramm-(EEG-)Wellenformen zum Zweck der Warnung von Benutzern bei der Entdeckung von Anfällen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παροχή δυνατότητας προσωρινής χρήσης μη τηλεφορτώσιμου λογισμικού ηλεκτρονικών υπολογιστών για παρακολούθηση της εγκεφαλικής δραστηριότητας για την ανίχνευση της εμφάνισης κρίσεων· Παροχή δυνατότητας προσωρινής χρήσης μη τηλεφορτώσιμου λογισμικού ηλεκτρονικών υπολογιστών, Συγκεκριμένα, Λογισμικό τεχνητής νοημοσύνης για αυτόματη ανάλυση κυματομορφών ηλεκτροεγκεφαλογραφήματος (ΗΕΓ) για χρήση στην ειδοποίηση των χρηστών κατά την ανίχνευση κρίσεων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Providing temporary use of non-downloadable computer software for monitoring brain activity to detect the occurrence of seizures; providing temporary use of non-downloadable computer software, namely, artificial intelligence software for the purpose of automatically analyzing electroencephalogram (eeg) waveforms for the purpose of alerting users when seizures are detected.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Facilitación de uso temporal de software no descargable para la monitorización de la actividad cerebral para detectar la aparición de convulsiones; Facilitación del uso temporal de software informático no descargable, En concreto, Software de inteligencia artificial para el análisis automático de formas de onda de electroencefalograma (EEG) para el propósito de alertar a los usuarios cuando se detectan convulsiones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ajutise tegevuse jälgimiseks allalaadimatu arvutitarkvara ajutise kasutamise võimaldamine haigushoogude tuvastamiseks; Arvutitarkvara, v.a allalaaditava, ajutise kasutuse pakkumine, Teisisõnu, Tehisintellekti tarkvara elektroentsefalogrammi (EEG) lainekujude automaatseks analüüsimiseks, et hoiatada kasutajaid haigushoogude avastamise korral.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Muiden kuin ladattavien tietokoneohjelmistojen tilapäisen käyttömahdollisuuden tarjoaminen aivotoiminnan seurantaan kohtausten havaitsemiseksi; Muiden kuin ladattavien tietokoneohjelmistojen tilapäisen käyttömahdollisuuden tarjoaminen, Nimittäin, Tekoälyohjelmistot elektroenkefalogrammiaaltomuotojen (EEG-) automaattiseen analysointiin käyttäjien varoittamiseksi havaittaessa kohtauksia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Fourniture d'accès temporaire à des logiciels informatiques non téléchargeables pour la surveillance de l'activité cérébrale afin de détecter la survenue de crises; Mise à disposition temporaire de logiciels non téléchargeables, À savoir, Logiciels d'intelligence artificielle destinés à analyser automatiquement les ondes d'électroencéphalogrammes (EEG) afin d'alerter les utilisateurs en cas de détection de crises.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pružanje privremene uporabe računalnog softvera koji se ne može preuzimati za praćenje moždane aktivnosti radi otkrivanja napadaja; Pružanje privremenog korištenja računalnog softvera koji se ne može preuzeti, Naime, to jest, Softver za umjetnu inteligenciju za potrebe automatske analize valnih oblika elektroencefalograma (eeg) za potrebe upozoravanja korisnika prilikom otkrivanja napadaja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Nem letölthető számítógépes szoftverek ideiglenes használatának biztosítása az agyi tevékenység figyelemmel kísérésére a rohamok előfordulásának észlelésére; Nem letölthető számítógépes szoftverek ideiglenes használatának biztosítása, Nevezetesen, Mesterséges intelligencia szoftver az elektroencephalogram (eeg) hullámformák automatikus elemzéséhez a felhasználók figyelmeztetése céljából, amikor rohamokat észlelnek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Fornitura d'uso temporaneo di software non scaricabili per monitorare l'attività celebrale, al fine di rilevare l'insorgere di crisi; Utilizzo temporaneo di software non scaricabili, Ovvero, Software d'intelligenza artificiale per analizzare automaticamente forme d'onda di elettroencefalogramma (EEG) per avvertire gli utenti quando vengono rilevate crisi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Laikino naudojimo neatsisiunčiamos kompiuterinės programinės įrangos, skirtos smegenų veiklai stebėti, siekiant aptikti traukulius, teikimas; Laikino naudojimosi neparsisiunčiamąja kompiuterių programine įranga parūpinimas, Būtent, Dirbtinio intelekto programinė įranga, skirta automatiškai analizuoti elektroencefalogramos (eeg) bangos formas, siekiant įspėti vartotojus, kai pastebimi traukuliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Nelejupielādējamas datoru programmatūras pagaidu lietošanas nodrošināšana smadzeņu darbības uzraudzībai, lai noteiktu krampju gadījumus; Pagaidu lietojuma nodrošināšana nelejupielādējamai datora programmatūrai, Proti, Mākslīgā intelekta programmatūra, lai automātiski analizētu elektroencefalogrammas [EEG] viļņu formas, lai brīdinātu lietotājus, ja tiek atklāti krampji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Il-provvista tal-użu temporanju ta' softwer tal-kompjuter li ma jistax jitniżżel għall-monitoraġġ ta' attività fil-moħħ biex tinqabad l-okkorrenza tal-aċċessjonijiet; Il-provvista ta' użu temporanju ta' softwer tal-kompjuter li ma jistax jitniżżel, Jiġifieri, Softwer tal-intelliġenza artifiċjali għall-iskop ta' analizzar awtomatiku ta' forom ta' mwieġ tal-elettroċifalogramma (EEG) għall-iskop li twissija lill-utenti meta jinstabu aċċessjonijiet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Verschaffing, voor tijdelijk gebruik, van niet-downloadbare software voor het bewaken van hersenactiviteit voor het detecteren van attaques; Ter beschikking stellen van tijdelijk gebruik van niet-downloadbare software, Te weten, Software voor kunstmatige intelligentie voor het automatisch analyseren van golfvormen van een elektro-encefalogram (EEG) om gebruikers te waarschuwen wanneer attaques worden gedetecteerd.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Umożliwianie tymczasowego użytkowania oprogramowania komputerowego nie do pobrania do monitorowania aktywności mózgu w celu wykrywania występowania ataków; Umożliwianie tymczasowego użytkowania oprogramowania komputerowego nie do pobrania, Mianowicie, Oprogramowanie typu sztuczna inteligencja do automatycznego analizowania fal elektroencefalogramu (EEG) w celu powiadamiania użytkowników o wykrytych atakach.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Fornecimento de acesso temporário a software não descarregável para monitorização da atividade cerebral para detetar a ocorrência de convulsões; Fornecimento de utilização temporária de software não descarregável, Nomeadamente, Software de inteligência artificial para fins de análise automática de formas de onda eletroencefalográficas (EEG) para fins de alerta dos utilizadores quando são detetadas convulsões.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Furnizarea accesului temporar la software de calculator nedescărcabil pentru monitorizarea activității creierului pentru detectarea manifestării crizelor; Punere la dispoziție temporară de software informatic nedescărcabil, Şi anume, Software cu inteligență artificială pentru analiza automată a formelor undelor electroencefalogramei (EEG) pentru a alerta utilizatorii atunci când sunt detectate crize.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poskytovanie dočasného používania počítačového softvéru bez možnosti stiahnutia na monitorovanie činnosti mozgu na účely detekcie záchvatov; Poskytovanie dočasného použitia nestiahnuteľného počítačového softvéru, Menovite, Softvér s funkciami umelej inteligencie na účely automatickej analýzy vlnových foriem elektroencefalogramu (EEG) na účely upozorňovania používateľov pri detekcii záchvatov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Nudenje začasne uporabe neprenosljive računalniške programske opreme za spremljanje možganske dejavnosti za odkrivanje pojava napadov; Zagotavljanje začasne uporabe nenaložljive računalniške programske opreme, In sicer, Programska oprema za umetno inteligenco za namen avtomatične analize valovnih oblik elektroencefalograma (EEG) za namen opozarjanja uporabnikov ob odkritju napadov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tillhandahållande av tillfällig användning av ej nedladdningsbar programvara för övervakning av hjärnverksamhet för att upptäcka förekomsten av slaganfall; Upplåtande av tillfällig användning av inte nedladdningsbar mjukvara, Nämligen, Programvara med artificiell intelligens för automatisk analys av elektroencefalogramvågformar (EEG) för att varna användare när slaganfall upptäcks.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>US</PriorityCountryCode>
+<PriorityNumber>88740499</PriorityNumber>
+<PriorityDate>2019-12-27</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/125</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-07-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/198</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-10-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>964759</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>59237</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

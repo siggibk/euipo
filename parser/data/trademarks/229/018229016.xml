@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-05-13T08:57:08</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229016</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229016</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<ApplicationLanguageCode>sv</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="3">Application withdrawn</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-05-13</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ZETA PIADINA</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162455635</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229016/000162455635.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>05.07.19</CategoryCode>
+          <CategoryCode>05.09.17</CategoryCode>
+          <CategoryCode>08.07.16</CategoryCode>
+          <CategoryCode>11.01.04</CategoryCode>
+          <CategoryCode>11.03.18</CategoryCode>
+          <CategoryCode>19.07.01</CategoryCode>
+          <CategoryCode>25.01.25</CategoryCode>
+          <CategoryCode>26.04.01</CategoryCode>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.03</CategoryCode>
+          <CategoryCode>26.04.09</CategoryCode>
+          <CategoryCode>26.04.10</CategoryCode>
+          <CategoryCode>26.04.22</CategoryCode>
+          <CategoryCode>26.05.04</CategoryCode>
+          <CategoryCode>26.11.02</CategoryCode>
+          <CategoryCode>26.11.08</CategoryCode>
+          <CategoryCode>29.01.06</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="sv">Bröd i enlighet med specifikationerna för den skyddade geografiska beteckningen Piadina Romagnola / Piada Romagnola.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>231189</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>26169</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

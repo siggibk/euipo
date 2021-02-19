@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-06-26T15:31:08</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226494</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226494</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="1">Application published</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-04-23</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>VAYO</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Майонеза; Имитация на майонеза; Веганска майонеза; Майонеза с кисели краставички; Паста за мазане на основата на майонеза; Сосове на основата на майонеза; Паста за мазане на основата на майонеза и кетчуп; Подправки; Сосове [подправки за ястия]; Соева паста като подправка [doenjang]; Пастет от соеви зърна [подправка].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Majonéza; Náhražka majonézy; Veganská majonéza; Majonéza s nakládanou zeleninou; Lahůdkové pomazánky s majonézovým základem; Omáčky na bázi majonézy; Pomazánky na bázi majonézy a kečupu; Dochucovadla; Omáčky [dochucovadla]; Sojová pasta k ochucení (doenjang); Miso [ochucovadlo].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Mayonnaise; Erstatning for mayonnaise; Veganske mayonnaiser; Mayonnaise med pickles; Smørepålæg baseret på mayonnaise; Mayonnaise baserede saucer; Mayonnaise- og ketchupbaseret smørepålæg; Smagsstoffer [krydderier]; Kryddersaucer; Krydderi i form af sojabønnepasta (doenjang); Miso.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Mayonnaise; Mayonnaise-Imitat; Vegane Mayonnaise; Majonäse mit Pickles; Brotaufstriche auf Mayonnaisebasis; Soßen auf der Basis von Mayonnaise; Mayonnaise- und Ketchupaufstriche; Gewürzmischungen; Soßen [Würzen]; Sojabohnenpaste als Würze [doenjang]; Miso.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μαγιονέζα· Υποκατάστατα μαγιονέζας· Χορτοφαγική μαγιονέζα· Μαγιονέζα με τουρσιά· Αλλαντικά σε μορφή επαλείμματος με βάση τη μαγιονέζα· Σάλτσες με βάση τη μαγιονέζα· Επαλείμματα με βάση τη μαγιονέζα και την κέτσαπ· Καρυκεύματα· Σάλτσες [καρυκεύματα]· Άρτυμα πάστας σόγιας [doenjang]· Πολτοί από σόγια [καρυκεύματα].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Mayonnaise; Imitation mayonnaise; Vegan mayonnaise; Mayonnaise with pickles; Mayonnaise-based spreads; Mayonnaise-based sauces; Mayonnaise and ketchup-based spreads; Condiments; Sauces [condiments]; Soybean paste condiment [doenjang]; Soya bean paste [condiment].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Mayonesa; Sucedáneo de mayonesa; Mahonesa vegana; Mayonesa con encurtidos; Cremas para untar a base de mayonesa; Salsas a base de mayonesa; Cremas para untar a base de ketchup y mayonesa; Condimentos; Salsas [condimentos]; Condimento de soja en pasta [doenjang]; Pasta de soja [condimento].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Majonees; Tehismajonees; Taimne majonees; Majonees marineeritud aedviljadega; Majoneesipõhised määrded; Majoneesipõhised kastmed; Majoneesi- ja ketšupipõhised määrded; Maitseained; Maitsekastmed; Sojaoapasta maitsekastmena [doenjang]; Miso.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Majoneesi; Majoneesin korvikkeet; Vegaanimajoneesi; Pikkelssimajoneesi; Majoneesipohjaiset levitteet; Majoneesipohjaiset kastikkeet; Majoneesi- ja ketsuppipohjaiset levitteet; Mausteet; Kastikkeet (Mauste -); Doenjang, soijapaputahnamauste; Tahna (soijapapu -) [mausteena].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Mayonnaises; Succédanés de mayonnaise; Mayonnaise végétalienne; Mayonnaise aux pickles; Produits à tartiner à base de mayonnaise; Sauces à base de mayonnaise; Pâtes à tartiner à base de mayonnaise et de ketchup; Condiments; Sauces [condiments]; Condiment à base de pâte de soja [doenjang]; Pâte de fèves de soja [condiment].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Majoneza; Imitacija majoneze; Veganska majoneza; Majoneza s kiselim voćem ili povrćem; Namazi na bazi majoneze; Umaci na bazi majoneze; Namazi na bazi majoneze i kečapa; Začinski dodaci; Umaci (začinski); Pasta od sojinih klica kao začin [doenjang]; Tijesto od sojinog zrna [začin].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Majonéz; Majonéz utánzat; Vegán majonéz; Majonéz savanyúsággal; Majonéz-alapú krémek; Majonéz alapú szószok; Majonéz és ketchup alapú kenhető készítmények; Fűszerek, ízesítők; Szószok [ízesítőszerek, fűszeres mártások]; Szójabab krém, paszta ízesítőszer [doenjang]; Szójabab krém [ételízesítő].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Maionese; Succedanei della maionese; Maionese vegana; Maionese con sottaceti; Prodotti spalmabili a base di maionese; Salse a base di maionese; Creme da spalmare a base di maionese e ketchup; Condimenti; Salse [condimenti]; Condimento a base di pasta di soia [doenjang]; Pasta di semi di soia [condimento].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Majonezas; Majonezo pakaitalas; Veganiškas majonezas; Majonezas su marinuotomis daržovėmis; Majonezo užtepai; Majonezo padažai; Majonezo ir pomidorų padažo užtepai; Prieskoniai; Padažai [uždarai]; Sojų pupelių tyrės pagardai (doenjang); Misas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Majonēze; Majonēzes aizstājēji; Vegānu majonēze; Majonēze ar marinētiem dārzeņiem; Delikatesēm paredzētas mērces, kas gatavotas no majonēzes; Mērces uz majonēzes bāzes; Majonēzes un kečupa bāzes pavalgi; Mērces (ēdienu piedevas); Garšvielu mērces; Garšviela no sojas pupiņu pastas (doenjang); Sojas pupiņu pasta (ēdienu piedeva).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Majoneż; Imitazzjoni tal-majoneż; Mayonnaise vegan; Majoneż bil-pikles; Dlik delizzjuż ibbażat fuq il-majoneż; Zlazi bbażati fuq il-majoneż; Majoneż u dlik ibbażat fuq is-sos; Kondimenti; Zlazi [kondimenti]; Pejst tal-fażola tas-sojja [doenjang]; Pejst tas-sojja [kondiment].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Mayonaise; Imitatiemayonaise; Veganistische mayonnaise; Mayonaise met pickles; Smeersels op basis van mayonaise; Sauzen op basis van mayonaise; Smeersels op basis van mayonaise en ketchup; Kruiden [specerijen]; Kruidensausen; Pastasaus op basis van sojabonen [doenjang]; Sojaboonpasta [kruiden].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Majonez; Imitacja majonezu; Majonez wegański; Majonez z piklami; Pasty do smarowania na bazie majonezu; Sosy na bazie majonezu; Pasy do smarowania na bazie majonezu i keczupu; Przyprawy; Sosy [przyprawy]; Pasta sojowa do użytku jako przyprawa [doenjang]; Pasta z soi [przyprawy].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Maionese; Sucedâneo de maionese; Maionese vegana; Maionese com picles; Patés delicatessen e à base de maionese; Molhos à base de maionese; Pastas de barrar à base de maionese e ketchup; Condimentos; Molhos [condimentos]; Condimento de pasta de soja [doenjang]; Pasta de soja [condimentos].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Maioneză; Înlocuitor de maioneză; Maioneză vegană; Maioneză cu murături; Creme pe bază de maioneză; Sosuri pe bază de maioneză; Creme pe bază de maioneză și ketchup; Condimente; Sosuri [condimente]; Condimente pe bază de pastă de soia [doenjang]; Pasta din boabe de soia [condiment].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Majonézy; Imitácia majonézy; Vegánska majonéza; Majonéza s nakladanou zeleninou; Lahôdkové pomazánky a pasty používané na majonézu; Omáčky na báze majonézy; Majonézové a kečupové omáčky; Chuťové prísady; Omáčky (chuťové prísady); Koreniaca sójová pasta (doenjang); Pasta zo sójových bôbov (chuťové prísady).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Majoneza; Nadomestek za majonezo; Veganska majoneza; Majoneza z vloženo zelenjavo; Delikatesni namazi in premazi na osnovi majoneze; Omake na osnovi majoneze; Namazi na osnove majoneze in kečapa; Začimbni dodatki jedem (sol, kis, gorčica); Omake [začimbe]; Začimbna sojina pasta (doenjang); Namaz iz sojinih zrn (začimba).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Majonnäs; Konstgjord majonnäs; Veganmajonäs; Majonnäs med pickles; Bredbara pålägg av majonnäs; Majonnäsbaserade såser; Majonnäs och ketchupbaserade bredbara pålägg; Smaktillsatser (såser); Såser [smaktillsatser]; Sojabönspasta som smaktillsats [doenjang]; Sojabönspasta [smaktillsats].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/092</PublicationIdentifier>
+        <PublicationSection>A.2.1.1</PublicationSection>
+        <PublicationDate>2020-05-18</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

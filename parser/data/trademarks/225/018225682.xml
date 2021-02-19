@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-06-29T10:55:41</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225682</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225682</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="3">Application withdrawn</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-06-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162307260</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/225/018225682/000162307260.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.01.97</CategoryCode>
+          <CategoryCode>29.01.01</CategoryCode>
+          <CategoryCode>29.01.03</CategoryCode>
+          <CategoryCode>29.01.05</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Пещи за промишлени цели; Горелки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pece určené pro průmysl; Hořáky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Højovne til industrielle formål; Brændere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Öfen für industrielle Zwecke; Brenner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κλίβανοι για βιομηχανική χρήση· Καυστήρες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Furnaces for industrial use; Burners.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Hornos de uso industrial; Quemadores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Tööstuslikud ahjud; Põletid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Uunit teollisuuskäyttöön; Polttimet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Fourneaux à usage industriel; Brûleurs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Peći za industrijsku uporabu; Plamenici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kemencék, kazánok ipari használatra; Égők, égőfejek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">forni per uso industriale; bruciatori.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Pramoninio naudojimo krosnys; Degikliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Rūpnieciskas krāsnis; Degļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Fran għall-użu industrijali; Berners.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ovens voor industriële doeleinden; Branders.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Piece do użytku przemysłowego; Palniki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Fornos para uso industrial; Queimadores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cuptoare de uz industrial; Arzătoare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Pece na priemyselné účely; Horáky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Peči za industrijsko uporabo; Gorilniki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Ugnar för industriell användning; Brännare.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1078150</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15058</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

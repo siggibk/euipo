@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T09:10:18</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226148</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226148</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>GU</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162308151</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226148/000162308151.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.99.07</CategoryCode>
+          <CategoryCode>27.99.21</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>45</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Информация, свързана с координиране на модни услуги за трети лица; Персонални консултации в областта на стила на обличане; Услуги за онлайн социални мрежи; Отдаване под наем на облекло; Отдаване под наем на бижута и декоративни стоки за носене; Съдействие при обличане на кимоно; Управление на авторски права; Осигуряване на информация, свързана с лицензиране на интелектуална собственост.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Informace vztahující se ke službám zaměřeným na koordinaci módy pro jednotlivce; Poradenství v oblasti návrhu osobního šatníku; Služby sociálních sítí online; Půjčování oděvů; Pronájem klenotů a dekorativních předmětů na nošení; Pomoc při oblékání kimona; Správa autorských práv; Poskytování informací týkajících se poskytování licencí k duševnímu vlastnictví.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Informationer vedrørende beklædningsrelateret koordinering for enkeltpersoner; Personlig rådgivning udøvet af garderobestylister; On-line sociale netværkstjenester; Udlejning af beklædningsgenstande; Udlejning af smykker og pynteartikler til at bære på sig; Assistance ved påklædning af kimonoer; Administration af copyright; Formidling af information vedrørende meddelelse af licens til udnyttelse af immaterielle ejendomsrettigheder.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bereitstellung von Informationen in Bezug auf Modekoordinierung für Privatkunden; Beratung zum persönlichen Kleidungsstil; Knüpfen von sozialen Kontakten im Internet; Vermietung von Bekleidungsstücken; Vermietung von Schmuck und Dekorationsgegenständen zum Tragen; Hilfestellung beim Anziehen von Kimonos; Verwaltung von Urheberrechten; Bereitstellung von Informationen in Bezug auf Lizenzierung geistiger Eigentumsrechte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παροχή πληροφοριών σε σχέση με υπηρεσίες συντονισμού μόδας για ιδιώτες· Παροχή προσωπικών υπηρεσιών στιλιστικής σε θέματα ένδυσης· Υπηρεσίες κοινωνικής δικτύωσης επί γραμμής· Ενοικίαση ρούχων· Εκμίσθωση κοσμημάτων και διακοσμητικών ειδών που φοριούνται· Παροχή βοήθειας για την ένδυση κιμονό· Διαχείριση δικαιωμάτων πνευματικής ιδιοκτησίας· Παροχή πληροφοριών σε σχέση με την εκχώρηση άδειας χρήσης δικαιωμάτων διανοητικής ιδιοκτησίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Provision of information relating to fashion coordination services for individuals; personal wardrobe styling consultancy; on-line social networking services; rental of clothing; rental of jewellery and decorative articles for wearing; kimono dressing assistance; copyright management; provision of information relating to licensing of intellectual property.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Información relativa a servicios de combinación de moda para particulares; Servicios de estilismo y consulta en materia de atuendo personal; Servicios de redes sociales en línea (online); Alquiler de ropa; Alquiler de joyería y artículos de decoración para llevar; Asistencia para vestir un kimono; Gestión de derechos de autor; Facilitación de información sobre la concesión de licencias de propiedad intelectual.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Info seoses moe koordineerimise teenustega, üksikisikutele; Isikliku riietumisstiili alal nõustamine; Suhtlusvõrgustike teenused arvutivõrgus; Rõivaste rent; Juveeltoodete ja dekoratiivesemete laenutus kandmiseks; Kimonosse riietumise abi; Autoriõiguse juhtimine, haldamine; Intellektuaalomandi litsentsimisega seotud teabe pakkumine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Yksittäisille ihmisille tarjottaviin muodin koordinointipalveluihin liittyvä tiedotus; Henkilökohtaiseen pukeutumistyyliin liittyvä neuvonta; Online-muotoiset sosiaaliset verkostoitumispalvelut; Vaatteiden vuokraus; Korujen ja päälle puettavien koriste-esineiden vuokraus; Kimonon pukemisessa avustaminen; Tekijänoikeuksien hallintapalvelut; Immateriaaliomaisuuden lisensointiin liittyvän tiedotuksen tarjoaminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Informations en matière de services de coordination de mode pour personnes; Services de stylisme vestimentaire personnel; Services de réseautage social en ligne; Location de vêtements; Location d'articles de bijouterie-joaillerie et d'articles décoratifs à porter sur soi; Aide à l'habillage en kimono; Gestion de droits d'auteur [service juridique]; Fourniture d'informations relatives à la concession de licences de propriété intellectuelle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Informacije u vezi s uslugama modnog savjetovanja za pojedince; Usluge individualnog modnog savjetovanja; Usluge online društvene mreže; Iznajmljivanje odjeće; Iznajmljivanje nakita i ukrasnih predmeta koji se mogu nositi; Pomoć pri odijevanju kimona; Upravljanje autorskim pravima; Pružanje informacija u vezi s licenciranjem intelektualnog vlasništva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Tájékoztatás magánszemélyek számára divatkoordinálási szolgáltatásokkal kapcsolatban; Személyi stílustanácsadás; Online közösségi hálózatok szolgáltatásai; Ruházat kölcsönzése; Ékszerek és dekoratív cikkek kölcsönzése; Öltözködési segítségnyújtás kimonó viseléséhez; Szerzői jogok kezelése; Szellemi tulajdon engedélyezésével kapcsolatos információk biztosítása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Informazioni relative a coordinamento di moda per persone; Consulenza personalizzata di stile in materia di guardaroba; Servizi on-line di social networking; Noleggio di abbigliamento; Noleggio di gioielleria e articoli decorativi da indossare; Assistenza nella vestizione del kimono; Gestione di diritti d'autore; Fornitura di informazioni relative alla concessione di licenze in materia di proprietà intellettuale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Informacija apie asmenims teikiamas mados suderinimo paslaugas; Asmeninio aprangos stiliaus konsultacijos; Internetinių socialinių tinklų paslaugos; Drabužių nuoma; Juvelyrinių dirbinių ir nešiojamų dekoratyvinių daiktų nuoma; Kimono apsirengimo pagalba; Autorių teisių vadyba; Su intelektinės nuosavybės licencijavimu susijusios informacijos teikimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Informācija saistībā ar modes koordinēšanas pakalpojumiem indivīdiem; Personīgā apģērba stilista pakalpojumi; Sociālās tīklošanās pakalpojumi tiešsaistē; Apģērbu iznomāšana; Juvelierizstrādājumu un dekoratīvu priekšmetu noma; Kimono ģērbēja pakalpojumi; Autortiesību vadība; Informācijas nodrošināšana saistībā ar intelektuālā īpašuma licencēšanu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Informazzjoni dwar servizzi ta' koordinazzjoni tal-moda għall-individwi; Konsultazzjoni dwar l-istilizzar tal-gwardarobba personali; Servizzi ta' netwerking soċjali online; Kiri tal-ħwejjeġ; Kiri ta' ġojjelli u oġġetti dekorattivi biex jintlibsu; Assistenza relatata mal-ilbies tal-kimono; Ġestjoni tad-drittijiet tal-awtur; Provvista ta' informazzjoni b'rabta ma' għoti ta' liċenzji għal proprjetà intellettwali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Informatie met betrekking tot kledingadvies voor individuen; Advisering op het gebied van persoonlijke garderobestijl; Sociale netwerkdiensten; Verhuur van kleding; Verhuur van juwelierswaren en decoratieve artikelen om op het lichaam te dragen; Assistentie bij het aankleden van kimono's; Beheer van auteursrechten; Het aanbieden van informatie over licentieverlening op intellectuele eigendom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Informacje związane z usługami harmonizowania w zakresie mody dla osób indywidualnych; Usługi doradztwa osobistego w zakresie stylizacji ubioru; Usługi serwisów społecznościowych online; Wypożyczanie odzieży; Wynajem biżuterii i artykułów dekoracyjnych do noszenia; Pomoc przy zakładaniu kimono; Zarządzanie prawami autorskimi; Dostarczanie informacji dotyczących licencjonowania własności intelektualnej.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Informações relacionadas com serviços de coordenação de moda para indivíduos; Consultoria de estilo pessoal em matéria de guarda-roupa; Serviços de redes sociais on-line; Aluguer de vestuário; Aluguer de artigos de joalharia e decorativos para uso; Assistência na indumentária de kimonos; Gestão de direitos de autor; Fornecimento de informações sobre o licenciamento de direitos de propriedade intelectual.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Informare cu privire la serviciile de coordonare a modei pentru persoane; Consiliere personalizată de stilism vestimentar; Servicii de reţele de socializare on-line; Închiriere de îmbrăcăminte; Închiriere de bijuterii și articole decorative pentru purtat la haine; Asistenţă cu privire la îmbrăcatul chimonourilor; Gestionarea drepturilor de autor; Furnizarea de informații referitoare la licențierea proprietății intelectuale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Informácie v oblasti módnych poradenských služieb pre jednotlivcov; Individuálne módne poradenstvo; Online služby sociálnych sietí; Požičiavanie odevov; Prenájom šperkov a ozdobných výrobkov na nosenie; Pomoc pri obliekaní kimona; Spravovanie autorských práv; Poskytovanie informácií v oblasti udeľovania licencií na duševné vlastníctvo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Informacije v zvezi z modnimi koordinacijskimi storitvami za posameznike; Osebno svetovanje o slogu oblačenja; Spletne storitve družabnega mreženja; Izposoja oblačil; Dajanje v najem nakita in okrasnih izdelkov za nošenje; Pomoč pri oblačenju kimona; Upravljanje z avtorskimi pravicami; Nudenje informacij v zvezi z licenciranjem intelektualne lastnine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Information rörande modekoordineringstjänster för individer; Personlig rådgivning rörande klädstil; Sociala nätverkstjänster online; Uthyrning av kläder; Uthyrning av smyckes- och dekorationsartiklar att ha på sig; Assistans vid kimono-påklädning; Förvaltning av upphovsrätter; Tillhandahållande av information om licensiering av immaterialrätter.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>442287</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10005</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

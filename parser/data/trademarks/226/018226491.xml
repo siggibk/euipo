@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:34:38</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226491</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226491</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>MY READY GARDEN</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162309174</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226491/000162309174.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>05.05.23</CategoryCode>
+          <CategoryCode>25.07.99</CategoryCode>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.05</CategoryCode>
+          <CategoryCode>26.04.22</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>1</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Горен слой на почва.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Ornice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Muldjord.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Mutterboden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Επιφανειακό έδαφος.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Topsoil.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Tierra vegetal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kasvumuld.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Pintamaa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Terre végétale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Površinski sloj zemlje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Felső földréteg.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Terriccio.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dirvožemio armuo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Augsnes grunts slānis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ħamrija tal-wiċċ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bouwlaag.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Warstwa uprawna gleby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Terra superfícial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Strat superior al solului.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Ornica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Humus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Matjord.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>31</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Семена за засяване; Семена; Растения.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Osivo; Semena pro pěstování rostlin; Rostliny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Frø [såsæd]; Plantefrø; Planter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Samenkörner; Samenkörner als Saatgut; Pflanzen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σπόροι για σπορά· Σπόροι φυτών· Φυτά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Sowing seeds; Seeds for planting; Plants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Semillas para siembra; Granos de siembra; Plantas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Külviseemned; Seemned istutamiseks; Taimed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kylvösiemenet; Siemenet (Kasvin -); Kasvit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Graines à semer; Graines à planter; Plantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Sjeme za sijanje; Sjeme; Biljke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Magvak [vetőmagvak]; Magvak; Növények.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Sementi per la semina; Semi [sementi]; Piante.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Sėklos sėjai; Sodinimo sėklos; Augalai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Sēklas sēsanai; Sēklas sējai; Augi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Żrieragħ biex jinżergħu; Żrieragħ; Pjanti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Zaaizaden; Zaaizaden; Planten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Ziarno siewne; Nasiona; Rośliny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Sementes para semear; Sementes para plantação; Plantas [desenhos técnicos].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Semințe pentru semănat; Grăunțe [semințe]; Plante.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Semená na siatie; Zrno (osivo); Rastliny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Semena za sajenje; Semena; Rastline.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Utsäde; Växtfrön; Plantor.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/078</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080380</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>2837</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

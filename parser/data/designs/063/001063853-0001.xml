@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:58</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063853-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063853-0001</DesignIdentifier>
+<ApplicationNumber>001063853</ApplicationNumber>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-03-02</PublicationDate>
+<ApplicationReference>13</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000062619205</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063853_0001/001063853_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062619207</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063853_0001/001063853_0001_2.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Въздушни дифузьори</IndicationProduct>
+       <IndicationProduct languageCode="cs">Vyústky s regulací (klimatizace)</IndicationProduct>
+       <IndicationProduct languageCode="da">Luftdiffusorer</IndicationProduct>
+       <IndicationProduct languageCode="de">Luftdiffusoren</IndicationProduct>
+       <IndicationProduct languageCode="el">Διαχυτήρες αέρα</IndicationProduct>
+       <IndicationProduct languageCode="en">Air diffusers</IndicationProduct>
+       <IndicationProduct languageCode="es">Difusores de aire</IndicationProduct>
+       <IndicationProduct languageCode="et">Õhupihustid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Ilmanhajottimet</IndicationProduct>
+       <IndicationProduct languageCode="fr">Diffuseurs d'air</IndicationProduct>
+       <IndicationProduct languageCode="hu">Légbefúvók</IndicationProduct>
+       <IndicationProduct languageCode="it">Diffusori di aria</IndicationProduct>
+       <IndicationProduct languageCode="lt">Oro difuzoriai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Gaisa izkliedētājs</IndicationProduct>
+       <IndicationProduct languageCode="mt">Tagħmir li jitfa' l-arja</IndicationProduct>
+       <IndicationProduct languageCode="nl">Luchtinblaas- en -verdeelornamenten</IndicationProduct>
+       <IndicationProduct languageCode="pl">Dyfuzory powietrza</IndicationProduct>
+       <IndicationProduct languageCode="pt">Difusores de ar</IndicationProduct>
+       <IndicationProduct languageCode="ro">Coloane de aer</IndicationProduct>
+       <IndicationProduct languageCode="sk">Difúzory vzduchu</IndicationProduct>
+       <IndicationProduct languageCode="sl">Razpršilci zraka</IndicationProduct>
+       <IndicationProduct languageCode="sv">Luftspridare</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>23.03</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/038</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-03-02</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2010/045</PublicationIdentifier>
+        <PublicationSequenceNumber>387792</PublicationSequenceNumber>
+        <PublicationSection>B.9.2</PublicationSection>
+        <PublicationDate>2010-02-26</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1326084</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>55551</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>10005</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003806886</RecordIdentifier>
+<BasicRecordKind>Appointment Replacement and Deletion of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>387792</PublicationSequenceNumber>
+           <PublicationSection>B.9.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2010-02-26</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

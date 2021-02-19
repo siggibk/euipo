@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-06T16:49:12</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229240</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229240</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-30</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SOULLOOP</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162456193</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229240/000162456193.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.01.03</CategoryCode>
+          <CategoryCode>26.01.20</CategoryCode>
+          <CategoryCode>26.01.24</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Софтуер; Компютърен приложен софтуер; Компютърен софтуер за мобилни телефонни приложения и други мобилни устройства; Компютърни програми [софтуер, които може да бъде прехвърлян върху друг носител]; Електронни публикации, които могат да бъдат прехвърляни върху друг носител; Подкасти (за предаване в аудио или видео формат).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Počítačový software; Počítačový aplikační software; Počítačové softwarové aplikace pro mobilní telefony a jiná mobilní zařízení; Počítačové programy [stahovatelné]; Stahovatelné elektronické publikace; Podcasty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Software; Applikationssoftware til computere; Computerapplikationssoftware til mobiltelefoner og andre mobile apparater; Downloadable computerprogrammer; Elektroniske publikationer, downloadable; Podcasts.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Software; Computeranwendungssoftware; Computersoftwareanwendungen für Mobiltelefone und andere Mobilgeräte; Herunterladbare Computerprogramme; Herunterladbare elektronische Publikationen; Podcasts.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λογισμικό· Λογισμικό εφαρμογών ηλεκτρονικών υπολογιστών· Εφαρμογές λογισμικού ηλεκτρονικών υπολογιστών για κινητά τηλέφωνα και λοιπές κινητές διατάξεις· Η/Υ (προγράμματα -) [τηλεμεταφερόμενο λογισμικό]· Ηλεκτρονικές εκδόσεις, με δυνατότητα μεταφόρτωσης· Πολυμεσικό περιεχόμενο διαδικτυακής εκπομπής.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Computer software; computer application software; computer application software for mobile telephones and mobile devices; downloadable computer software; electronic publications (downloadable); podcasts.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Software informático; Programas de aplicaciones para ordenadores; Aplicaciones de software de ordenador para teléfonos móviles y otros dispositivos móviles; Programas informáticos descargables; Publicaciones electrónicas descargables; Podcasts.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Arvutitarkvara; Arvutirakendustarkvara; Mobiiltelefonide ja muude mobiilsete seadmete tarkvararakendused; Arvutiprogrammid [allalaaditav tarkvara]; Elektroonilised allalaaditavad publikatsioonid; Taskuhääling (podcast).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ohjelmistot; Tietokonesovellusohjelmistot; Tietokoneohjelmistosovellukset matkapuhelimiin ja muihin mobiililaitteisiin; Ohjelmistot (tietokone -) [järjestelmästä toiseen poimittavat]; Elektroniset julkaisut [järjestelmästä toiseen poimittavat]; Podcast-tallenteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Logiciels pour ordinateurs; Logiciels d'applications informatiques; Applications logicielles pour téléphones mobiles et autres dispositifs mobiles; Programmes d'ordinateurs téléchargeables; Publications électroniques téléchargeables; Podcasts.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Softver; Softver za računalne aplikacije; Računalne softverske aplikacije za mobilne telefone i ostale mobilne naprave; Programi (računalni -) [koji se mogu preuzeti]; Elektronske publikacije koje se mogu preuzeti s Interneta; Emisije na zahtjev.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szoftverek; Számítógépes alkalmazásszoftverek; Számítógépes szoftveralkalmazások mobiltelefonokhoz és egyéb mobileszközökhöz; Számítógépes programok [letölthető szoftverek]; Letölthető elektronikus kiadványok, publikációk; Podcastok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Software; Software applicativo; Applicazioni software per telefoni cellulari e altri dispositivi mobili; Programmi per computer, scaricabili; Pubblicazioni elettroniche [scaricabili]; Podcast.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Programinė įranga; Kompiuterių programinė įranga; Kompiuterių programinės įrangos programos, skirtos mobiliesiems telefonams ir kitiems mobiliesiems prietaisams; Parsisiunčiamosios kompiuterių programos; Elektroniniai leidiniai [parsisiunčiamieji]; Tinklalaidės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Datoru programmatūra; Datoru lietojumprogrammatūra; Datoru programmatūru lietotnes mobilajiem tālruņiem un citām mobilajām ierīcēm; Lejupielādējamas datorprogrammas; Lejupielādējamas elektroniskās publikācijas; Podraide.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Softwer; Softwer tal-kompjuter għall-applikazzjoni; Applikazzjonijiet tas-softwer tal-kompjuter għat-telefowns ċellulari u tagħmir mobbli ieħor; Programmi tal-kompjuter [softwer li jista' jitniżżel]; Pubblikazzjonijiet elettroniċi, li jistgħu jitniżżlu; Podkast.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Software; Computerapplicatiesoftware; Softwareapplicaties voor mobiele telefoons en andere mobiele apparaten; Computerprogramma's, downloadable; Elektronische publicaties [te downloaden]; Podcasts.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oprogramowanie; Komputerowe oprogramowanie użytkowe; Aplikacje do telefonów komórkowych i innych urządzeń mobilnych; Programy komputerowe [oprogramowanie do pobrania]; Publikacje elektroniczne, do pobrania; Podcasty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Software; Software de aplicação para computadores; Aplicações de software para telemóveis e outros dispositivos móveis; Programas de computador descarregáveis; Publicações eletrónicas descarregáveis; Podcasts (ficheiros de áudio).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Software; Software de aplicații de calculator; Aplicaţii software de calculator pentru telefoane mobile şi alte aparate mobile; Programe de calculatoare [software descărcabil]; Publicații electronice descărcabile; Fișiere digitale [podcast].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Softvér; Počítačový aplikačný softvér; Počítačové softvérové aplikácie pre mobilné telefóny a iné mobilné prístroje; Počítačové programy (sťahovateľné); Elektronické publikácie (sťahovateľné); Digitálne nahrávky umiestnené na internete a stiahnuteľné z internetu (podcasty).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Programska oprema; Računalniška aplikacijska programska oprema; Računalniške programske aplikacije za mobilne telefone in druge mobilne naprave; Računalniški programi [naložljiva programska oprema]; Naložljive elektronske publikacije; Večpredstavne vsebine na spletu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Datormjukvaror; Applikationsprogram för datorer; Datorapplikationsprogram för mobiltelefoner och andra mobila enheter; Datorprogram, nedladdningsbara; Tidskrifter (elektroniska), nedladdningsbara; Podcast-filer.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Предоставяне за временна употреба на софтуер без възможност за изтегляне; Осигуряване временна употреба на софтуер, базиран на изчислителни облаци, без възможност за сваляне; Хостинг на уеб портали, Хостинг на уеб портали; Хостинг на платформи в интернет; Платформа като услуга [PaaS]; Софтуер като услуга (SAAS), софтуер като услуга (SAAS) за наблюдение на компютърни софтуерни платформи; Информационно-технологични услуги; Консултантски услуги, свързани с всички гореизброени услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Poskytování dočasného použití softwaru bez možnosti stažení; Poskytování dočasného použití softwaru na bázi cloudu bez možnosti stažení; Hosting webových portálů, Hosting webových portálů; Hosting platforem na internetu; Platforma jako služba (PAAS); Software jako služba (SaaS), software jako služba (SaaS) monitorující počítačové softwarové platformy; Služby v oblasti informačních technologií; Konzultační služby vztahující se k výše uvedeným službám.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tilvejejebringelse af midlertidig brug af ikke-downloadable software; Udbydelse af tidsbegrænset anvendelse af cloud computing-software, som ikke kan downloades; Hosting af webportaler, Hosting af webportaler; Hosting af internetplatforme; Platform as a Service [PaaS]; Software-as-a-Service (SaaS), Software-as-a-Service (SaaS) vedrørende monitorering af computersoftwareplatforme; IT tjenesteydelser; Konsulentbistand vedrørende alle ovennævnte tjenesteydelser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bereitstellung der zeitweiligen Nutzung nicht herunterladbarer Software; Ermöglichung der zeitweiligen Nutzung von nicht herunterladbarer cloudbasierter Software; Hosting von Internetportalen, Hosting von Internetportalen; Hosting von Plattformen im Internet; Platform as a Service [PaaS]; Software as a Service (SaaS), Software as a Service (SaaS) zur Überwachung von Computersoftwareplattformen; IT-Dienstleistungen; Beratung in Bezug auf alle vorstehend genannten Leistungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παροχή της δυνατότητας προσωρινής χρήσης μη τηλεφορτώσιμου λογισμικού· Παροχή δυνατότητας προσωρινής χρήσης μη τηλεφορτώσιμου λογισμικού βάσει υπολογιστικού νέφους· Φιλοξενία πυλών ιστού [ιστοπυλών], Φιλοξενία πυλών ιστού [ιστοπυλών]· Φιλοξενία πλατφορμών στο Διαδίκτυο· Παροχή πλατφόρμας ως υπηρεσίας· Υπηρεσίες λογισμικού ως υπηρεσίας, υπηρεσίες λογισμικού ως υπηρεσίας για παρακολούθηση πλατφορμών λογισμικού ηλεκτρονικών υπολογιστών· Υπηρεσίες τεχνολογιών της πληροφορικής· Υπηρεσίες παροχής συμβουλών σε σχέση με όλες τις προαναφερθείσες υπηρεσίες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Providing temporary use of non-downloadable software; providing temporary use of non-downloadable Cloud-based software; hosting web portals, hosting of portals on the Internet; hosting platforms on the Internet; platform as a service (PaaS); software as a service (SaaS), software as a service (SaaS) monitoring computer software platforms; information technology services; consultancy services relating to all the aforementioned services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Facilitación del uso temporal de software no descargable; Facilitación del uso temporal de software no descargable basado en la nube; Alojamiento de portales web, Alojamiento de portales web; Alojamiento de plataformas en Internet; Plataforma como servicio [PaaS]; Software como servicio (SAAS), software como servicio (SAAS) que monitoriza plataformas de software; Servicios de tecnologías de la información; Asesoramiento en relación con todos los servicios mencionados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Allalaadimatu tarkvara ajutise kasutuse pakkumine; Allalaadimatu pilvetarkvarale ajutise kasutuse pakkumine; Veebiportaalide hostimine, Veebiportaalide hostimine; Interneti-platvormide hostimine; Platvorm teenusena [PaaS]; Pilveteenused (SaaS), arvutitarkvaraplatvormide jälgimise pilveteenused (SAAS); IT-teenused; Konsultatsiooniteenused kõigi eespool nimetatud teenuste osas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Muiden kuin ladattavien ohjelmistojen tilapäisen käyttömahdollisuuden tarjoaminen; Muiden kuin ladattavien pilvipohjaisten ohjelmistojen tilapäisen käyttömahdollisuuden tarjoaminen; Web-portaalien ylläpito, Web-portaalien ylläpito; Alustojen ylläpito internetissä; Sovellusalusta palveluna (PaaS); Verkkosovelluspalvelut (SaaS), verkkosovelluspalvelut (SaaS) tietokoneohjelmistoympäristöjen valvontaan; IT-palvelut; Kaikkiin yllämainittuihin palveluihin liittyvät konsultointipalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Fourniture d’utilisation temporaire de logiciels non téléchargeables; Fourniture d'accès temporaire à des logiciels non téléchargeables dans le nuage; Hébergement de portails Web, Hébergement de portails Web; Hébergement de plates-formes sur Internet; Plateforme informatique en tant que service [PaaS]; Logiciels-services (SaaS), logiciels-services (SaaS) surveillant des plates-formes logicielles informatiques; Services des technologies de l'information; Conseils en rapport avec tous les services précités.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pružanje privremenog korištenja softvera koji se ne može preuzeti; Omogućavanje privremene uporabe softvera u oblaku koji se ne može preuzimati; Hosting internetskih portala, Hosting internetskih portala; Hosting platformi na Internetu; Platforma kao usluga (PaaS); Softver kao usluga, softver kao usluga za nadzor računalnih softverskih platformi; Usluge informacijske tehnologije; Savjetodavne usluge u vezi sa svim prethodno navedenim uslugama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Nem letölthető szoftverek ideiglenes használatának biztosítása; Nem letölthető felhő-alapú szoftverek ideiglenes használatának biztosítása; Webportálok hosztolása, Webportálok hosztolása; Internetes platformok bértárolása; Platform-mint-szolgáltatás (PAAS); Szoftver mint szolgáltatás (SaaS), szoftver mint szolgáltatás (SaaS) a számítógépes szoftverplatformok megfigyelése céljából; Információtechnológiai [IT] szolgáltatások; Az összes fentemlített szolgáltatásra vonatkozó konzultációs szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Utilizzo temporaneo di software non scaricabili; Utilizzo temporaneo di software non scaricabili su base cloud; Hosting di portali web, Hosting di portali web; Domiciliazione di piattaforme su internet; Piattaforma come servizio [PaaS]; Servizio di software (SaaS), servizio di software (SaaS) riguardante piattaforme software; Servizi informatici; Servizi di consulenza relativi a tutti i suddetti servizi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Laikino naudojimosi neparsisiunčiamąja programine įranga parūpinimas; Laikino naudojimosi neatsisiunčiama debesijos programine įranga teikimas; Interneto portalų administravimas, Interneto portalų administravimas; Interneto platformų priegloba; Platforma kaip paslauga [PaaS]; Programinė įranga kaip paslauga (SaaS), programinė įranga kaip paslauga (SaaS), stebinti kompiuterių programinės įrangos platformas; Informacinių technologijų paslaugos; Konsultacinės paslaugos, susijusios su visomis anksčiau paminėtomis paslaugomis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Pagaidu lietošanas nodrošināšana nelejuplādējamai programmatūrai; Nelejupielādējamas, mākonī izvietotas programmatūras pagaidu lietošanas nodrošināšana; Tīmekļa portālu mitināšana, Tīmekļa portālu mitināšana; Platformu mitināšana internetā; Platforma kā pakalpojums (PaaS); Programmatūra kā pakalpojums [SaaS], programmatūra kā pakalpojums [SaaS], kas uzrauga datoru programmatūras platformas; Informācijas tehnoloģiju pakalpojumi; Konsultāciju pakalpojumi saistībā ar iepriekšminētajiem pakalpojumiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Il-provvista ta' użu temporanju ta' softwer li ma jistax jitniżżel; Provvista ta' użu temporanju ta' softwer ibbażat fuq il-cloud li ma jistax jitniżżel mill-Internet; Ħosting ta' portals tal-web, Ħosting ta' portals tal-web; Ħosting ta' pjattaformi fuq l-Internet; Pjattaforma bħala Servizz (PAAS); Softwer bħala servizz (SaaS), softwer bħala servizz (SaaS) li jieħu ħsieb pjattaformi ta' softwer tal-kompjuter; Servizzi tal-IT; Servizzi ta' konsulenza dwar is-servizzi kollha hawn fuq imsemmija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ter beschikkng stellen van tijdelijk gebruik van niet-downloadbare software; Verschaffing, voor tijdelijk gebruik, van niet-downloadbare software op basis van een cloud; Hosten van webportalen, Hosten van webportalen; Hosting van platforms op het Internet; Platform als een dienst (PaaS); Software-als-een-dienst (SaaS), software-als-een-dienst (SaaS) voor de bewaking van softwareplatforms; IT-diensten; Advisering met betrekking tot alle voornoemde diensten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Zapewnianie tymczasowego dostępu do niepobieralnego oprogramowania; Umożliwianie tymczasowego użytkowania oprogramowania w chmurze nie do pobrania; Hosting portali internetowych, Hosting portali internetowych; Hosting platform w Internecie; Platforma jako usługa [PaaS]; Oprogramowanie jako usługa (SaaS), oprogramowanie jako usługa (SaaS) monitorujące platformy oprogramowania komputerowego; Usługi w zakresie technologii informacyjnych; Usługi konsultingowe dotyczące wszystkich wymienionych wyżej usług.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Fornecimento de acesso temporário a software não descarregável; Fornecimento de acesso temporário a software em nuvem não descarregável; Alojamento de portais na Web, Alojamento de portais na Web; Alojamento de plataformas na Internet; Plataformas como um serviço [PaaS]; Serviços de software como serviço (SaaS), serviços de software como serviço (SaaS) que incluem plataformas de software de monitorização; Serviços de TI (tecnologias de informação); Consultoria relacionada com todos os serviços atrás mencionados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Furnizare de uz temporar de software nedescărcabil; Furnizarea accesului temporar la software nedescărcabil pe bază cloud; Găzduire de portaluri web, Găzduire de portaluri web; Găzduire de platforme pe internet; Platformă ca serviciu [PaaS]; Software ca un serviciu (SAAS), software ca un serviciu (SAAS) pentru monitorizarea platformelor cu software de calculator; Servicii IT; Servicii de consultanta privind toate serviciile mentionate anterior.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poskytovanie dočasného používania nesťahovateľného softvéru; Poskytovanie dočasného používania cloudového softvéru bez možnosti stiahnutia; Hosting webových portálov, Hosting webových portálov; Hosting platforiem na internete; Platforma ako služba (Paas); Softvér ako služba (SaaS) na monitorovanie počítačových softvérových platforiem; Informačné technológie; Konzultačné služby týkajúce sa všetkých vyše uvedených služieb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zagotavljanje začasne uporabe nenaložljive programske opreme; Nudenje začasne uporabe nenaložljive oblačne programske opreme; Gostovanje spletnih portalov, Gostovanje spletnih portalov; Gostovanje platform na internetu; Platforma kot storitev[PaaS]; Programska oprema kot storitev (SaaS), programska oprema kot storitev (SaaS) s platformami za računalniško programsko opremo; Storitve informacijske tehnologije; Svetovalne storitve v zvezi z vsemi prej omenjenimi storitvami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tillhandahållande av tillfällig användning av icke nedladdningsbar programvara; Upplåtande av tillfällig användning av ej nedladdningsbar molnbaserad programvara; Hosting för webbportaler, Hosting för webbportaler; Hosting för plattformar på internet; Plattform som en tjänst (PAAS); Programvara som en tjänst (SaaS), programvara som en tjänst (SaaS) som övervakar programvaruplattformar; IT-tjänster; Konsulttjänster med avseende på alla nämnda tjänster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/126</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-07-07</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1076932</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>13766</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003131883</OppositionIdentifier>
+<OppositionDate>2020-09-30</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>013371463</ApplicationNumber>
+<ApplicationDate>2014-10-17</ApplicationDate>
+<RegistrationNumber>013371463</RegistrationNumber>
+<RegistrationDate>2017-04-30</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>LOOP</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>DE</EarlierMarkCountryCode>
+<ApplicationNumber>3020130087607</ApplicationNumber>
+<ApplicationDate>2013-12-19</ApplicationDate>
+<RegistrationNumber>302013008760</RegistrationNumber>
+<RegistrationDate>2014-01-31</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>LOOP UP</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>DE</EarlierMarkCountryCode>
+<ApplicationNumber>3020172179194</ApplicationNumber>
+<ApplicationDate>2017-06-09</ApplicationDate>
+<RegistrationNumber>302017217919</RegistrationNumber>
+<RegistrationDate>2017-07-07</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>loopo</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>145675</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>16339</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

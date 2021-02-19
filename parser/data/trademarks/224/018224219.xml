@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-29T09:52:45</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224219</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224219</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>AL Basha</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>34</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Тютюн за наргиле.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Tabák do vodní dýmky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Hookah-tobak.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Wasserpfeifentabak.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καπνός για ναργιλέ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Hookah tobacco.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Tabaco de hookah.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Vesipiibutubakas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vesipiippuihin tarkoitettu tupakka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Tabac pour narguilé.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Duhan za nargile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Vízipipa dohány.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tabacco per narghilè.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kaljano tabakas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ūdenspīpju tabaka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tabakk tal-hookah.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Tabak voor waterpijpen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Tytoń hookah.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Tabaco para cachimbo de água.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Tutun pentru narghilea.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Tabak do vodnej fajky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Tobak za nargilo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tobak för vattenpipor.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/141</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079163</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

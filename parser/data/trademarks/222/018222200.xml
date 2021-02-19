@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-28T09:52:44</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222200</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222200</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<RegistrationDate>2020-07-28</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-08</ExpiryDate>
+<MarkCurrentStatusCode milestone="12" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>OCCHIO DI PUGLIA</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162186540</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/222/018222200/000162186540.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>24.07.01</CategoryCode>
+          <CategoryCode>24.07.23</CategoryCode>
+          <CategoryCode>26.01.04</CategoryCode>
+          <CategoryCode>26.03.01</CategoryCode>
+          <CategoryCode>26.03.06</CategoryCode>
+          <CategoryCode>26.11.02</CategoryCode>
+          <CategoryCode>26.11.13</CategoryCode>
+          <CategoryCode>26.11.97</CategoryCode>
+          <CategoryCode>26.99.03</CategoryCode>
+          <CategoryCode>26.99.07</CategoryCode>
+          <CategoryCode>26.99.10</CategoryCode>
+          <CategoryCode>26.99.22</CategoryCode>
+          <CategoryCode>26.99.24</CategoryCode>
+          <CategoryCode>29.01.97</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>29</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Сирене, кашкавал; Мляко; Сметана [млечни произведения]; Млечни и прозлизащи от мляко продукти; Масло; Кисело мляко; Десерти, приготвени от млечни продукти; Кремове за мазане на основата на мляко или сирене.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Sýr; Mléko; Smetana [mléčný výrobek]; Mlékařství a mléčné výrobky; Máslo; Jogurt; Dezerty z mléčných výrobků; Roztíratelné krémy na bázi mléka nebo sýrů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Ost; Mælk; Fløde; Mejeri- og mælkeprodukter; Smør; Yoghurt; Desserter fremstillet af mælkeprodukter; Smørepålæg på basis af mælk eller ost.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Käse; Milch; Sahne [Rahm]; Molkerei- und Milchprodukte; Butter; Joghurt; Desserts aus Milchprodukten; Streichfähige Cremes auf Milch- oder Käsebasis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Τυροκομικά προϊόντα· Γάλα· Κρέμα (γάλακτος) [γαλακτοκομικά προϊόντα]· Γαλακτοκομικά προϊόντα και προϊόντα γάλακτος· Βούτυρο· Γιαούρτι· Επιδόρπια παρασκευασμένα από γαλακτοκομικά προϊόντα· Κρέμες για επάλειψη που παρασκευάζονται με γάλα ή τυρί.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Cheese; Milk; Cream [dairy products]; Dairy and milk products; Butter; Yoghurt; Desserts made from milk products; Milk-based or cheese-based cream spreads.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Quesos; Leche; Crema [producto lácteo]; Leche y productos lácteos; Mantequilla; Yogur; Postres de productos lácteos; Cremas para untar a base de leche o queso.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Juustutooted; Piim; Koor [piimatoode]; Piim ja piimatooted; Või; Jogurt; Piimatoodetest valmistatud magustoidud; Piima- või juustuvõided.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Juustot; Maito; Kerma [maitotuotteista]; Meijeri- ja maitotuotteet; Voi; Jogurtti; Maitotuotteista tehdyt jälkiruoat; Maito- tai juustopohjaiset levitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Fromages; Lait; Crème [produit laitier]; Produits laitiers; Beurre; Yaourt; Desserts à base de produits laitiers; Crèmes à tartiner à base de lait ou de fromage.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Proizvodi od sira; Mlijeko; Vrhnje [mliječni proizvodi]; Mljekarski proizvodi i mliječni derivati; Maslac; Jogurt; Deserti od mliječnih proizvoda; Namazi na bazi mlijeka ili sira.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sajtok; Tej; Tejszín [tejtermékek]; Tej és tejtermékek; Vaj; Joghurt; Tejtermékekből készült desszertek; Tej vagy sajt alapú, kenhető krémek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Formaggi; latte; Panna [prodotto lattiero]; prodotti caseari e derivati dal latte; burro; yogurt; dessert a base di latticini; creme spalmabili a base di latte o formaggio.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Sūris; Pienas; Grietinėlė [pieno produktas]; Pieno ir pieniški produktai; Sviestas; Jogurtas; Pieno produktų desertai; Tepamieji pieno ar sūrio kremai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Siera produkti; Piens; Krējums [piena produkti]; Piena produkti; Sviests; Jogurts; Deserti, kas pagatavoti no piena produktiem; Smērējams krēms uz piena vai siera bāzes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Prodotti mill-ġobon; Ħalib; Krema [prodotti tal-ħalib]; Ħalib u prodotti tal-ħalib; Butir; Jogurt; Deżerti magħmulin minn prodotti tal-ħalib; Kremi li jindilku bbażati fuq ħalib jew ġobon.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kaas; Melk; Room; Zuivel- en melkproducten; Boter; Yoghurt; Desserts gemaakt van zuivelproducten; Smeerbare crèmes op basis van melk of kaas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Produkty serowarskie; Mleko; Śmietana [produkty mleczarskie]; Produkty nabiałowe i mleczne; Masło; Jogurt; Desery wykonane z produktów mlecznych; Kremy do smarowania na bazie mleka lub sera.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Queijo; Leite; Nata [láctea]; Lacticínios e produtos lácteos; Manteiga; Iogurte; Sobremesas elaboradas a partir de produtos lácteos; Cremes de barrar à base de leite ou queijo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Brânzeturi; Lapte; Smântână [produse lactate]; Produse lactate şi derivate din lapte; Unt; Iaurt; Deserturi preparate din produse lactate; Creme tartinabile pe bază de lapte sau brânză.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Syr; Mlieko; Smotana (mliečne výrobky); Mlieko a mliečne výrobky; Maslo; Jogurt; Zákusky z mliečnych výrobkov; Mliečne alebo syrové nátierky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Izdelki iz sira; Mleko; Smetana [mlečni proizvodi]; Mleko in mlečni izdelki; Maslo; Jogurt; Sladice iz mlečnih izdelkov; Namazi na osnovi mleka ali sira.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Ost; Mjölk; Grädde; Mjölk och mejeriprodukter; Smör; Surmjölk; Efterrätter tillverkade av mjölkprodukter; Bredbara pålägg baserade på mjölkprodukter eller ost.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/073</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>784806</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10859</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

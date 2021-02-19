@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-08-17T11:36:51</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063994-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-29</ReceivingOfficeDate>
+<DesignIdentifier>001063994-0001</DesignIdentifier>
+<ApplicationNumber>001063994</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ApplicationDate>2008-12-29</ApplicationDate>
+<RegistrationDate>2008-12-29</RegistrationDate>
+<PublicationDate>2009-03-31</PublicationDate>
+<ApplicationReference>D14649EM</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-29</ExpiryDate>
+<EffectiveDate>2008-12-29</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061774542</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063994_0001/001063994_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061774543</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063994_0001/001063994_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061774544</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063994_0001/001063994_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061774545</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063994_0001/001063994_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061774546</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063994_0001/001063994_0001_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061774547</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063994_0001/001063994_0001_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061774548</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063994_0001/001063994_0001_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Кламери [канцеларско оборудване]</IndicationProduct>
+       <IndicationProduct languageCode="cs">Svorky [kancelářské potřeby]</IndicationProduct>
+       <IndicationProduct languageCode="da">Clips [kontorudstyr]</IndicationProduct>
+       <IndicationProduct languageCode="de">Klammern [Büroausrüstung]</IndicationProduct>
+       <IndicationProduct languageCode="el">Συνδετήρες [εξοπλισμός γραφείου]</IndicationProduct>
+       <IndicationProduct languageCode="en">Clips [office equipment]</IndicationProduct>
+       <IndicationProduct languageCode="es">Pinzas [equipos de oficina]</IndicationProduct>
+       <IndicationProduct languageCode="et">Klambrid [kontoritarbed]</IndicationProduct>
+       <IndicationProduct languageCode="fi">Liittimet [toimistotarvikkeet]</IndicationProduct>
+       <IndicationProduct languageCode="fr">Agrafes [fournitures de bureau]</IndicationProduct>
+       <IndicationProduct languageCode="hu">Gemkapcsok [irodai felszerelés]</IndicationProduct>
+       <IndicationProduct languageCode="it">Fermagli [attrezzatura per ufficio]</IndicationProduct>
+       <IndicationProduct languageCode="lt">Sąvaržėlės (raštinės reikmenys)</IndicationProduct>
+       <IndicationProduct languageCode="lv">Spraudes [biroja piederumi]</IndicationProduct>
+       <IndicationProduct languageCode="mt">Klipps [tagħmir għall-uffiċċju]</IndicationProduct>
+       <IndicationProduct languageCode="nl">Klemmen [kantooruitrusting]</IndicationProduct>
+       <IndicationProduct languageCode="pl">Spinacze (wyposażenie biur)</IndicationProduct>
+       <IndicationProduct languageCode="pt">Clips [equipamento de escritório]</IndicationProduct>
+       <IndicationProduct languageCode="ro">Agrafe [echipament de birou]</IndicationProduct>
+       <IndicationProduct languageCode="sk">Kancelárske spinky</IndicationProduct>
+       <IndicationProduct languageCode="sl">Spojke (pisarniška oprema)</IndicationProduct>
+       <IndicationProduct languageCode="sv">Klämmor (kontorsutrustning)</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>19.02</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PriorityDetails>
+       <Priority>
+        <PriorityCountryCode>US</PriorityCountryCode>
+        <PriorityNumber>29/320.615</PriorityNumber>
+        <PriorityDate>2008-06-30</PriorityDate>
+        <PriorityStatusCode>Claimed</PriorityStatusCode>
+       </Priority>
+      </PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/059</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-03-31</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325894</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2012/006</PublicationIdentifier>
+        <PublicationSequenceNumber>701444</PublicationSequenceNumber>
+        <PublicationSection>B.9.2</PublicationSection>
+        <PublicationDate>2012-01-09</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>245600</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>661</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>005454826</RecordIdentifier>
+<BasicRecordKind>Appointment Replacement and Deletion of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>701444</PublicationSequenceNumber>
+           <PublicationSection>B.9.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2012-01-09</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

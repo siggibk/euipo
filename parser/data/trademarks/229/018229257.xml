@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-10T08:16:15</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229257</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229257</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-09-08</RegistrationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-10</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>MOBILITYNOW</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162457972</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229257/000162457972.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.05.94</CategoryCode>
+          <CategoryCode>29.01.01</CategoryCode>
+          <CategoryCode>29.01.04</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>39</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Осигуряване на пътна информация и информация за движението; Управление на трафика на превозни средства с помощта на съвременна комуникационна мрежа и технология.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Poskytování silničních a dopravních informací; Řízení dopravy prostřednictvím pokročilé komunikační sítě a technologie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Stille information til rådighed om veje og trafik; Ledelse af trafikstrømme af køretøjer ved hjælp af avancerede kommunikationsnetværk og avanceret kommunikationsteknologi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Erteilung von Auskünften über Straßen- und Verkehrsinformationen; Organisation des Fahrzeugverkehrs mittels neuer Kommunikationsnetzwerke und -technologien.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παροχή πληροφοριών σχετικά με το οδικό δίκτυο και την οδική κυκλοφορία· Διαχείριση κυκλοφοριακής ροής οχημάτων διαμέσου προχωρημένου δικτύου επικοινωνίας και τεχνολογίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Providing road and traffic information; Management of vehicular traffic flow through advanced communications network and technology.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Facilitación de información sobre carreteras y tráfico; Gestión de flujo del tráfico de vehículos mediante redes y tecnologías de comunicación avanzadas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Maantee- ja liiklusinfo pakkumine; Sõidukiliikluse haldus täiustatud sidevõrgu ja -tehnoloogia abil.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tie- ja liikennetietojen tarjoaminen; Ajoneuvoliikenteen hallinta tietoliikenneverkkojen ja -teknologian avulla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Mise à disposition d'informations sur le trafic routier et l'état des routes; Gestion de l'écoulement du trafic de véhicules via des réseaux et des technologies de communications de pointe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Obavijesti o stanju na cesti i prometu; Upravljanje protokom prometa vozila pomoću naprednih komunikacijskih mreža i tehnologije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Úti és közlekedési információk biztosítása; Forgalomáramlás irányítása korszerű kommunikációs hálózat és technológia segítségével.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Informazioni sulla viabilità e sul traffico; Gestione del traffico stradale tramite tecnologie e reti di comunicazione avanzate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Informacijos apie kelius ir eismą teikimas; Transporto priemonių eismo srautų valdymas per pažangius ryšio tinklus ir technologijas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ceļu un satiksmes informācijas sniegšana; Autotransporta satiksmes plūsmas vadība, izmantojot modernu komunikāciju tīklu un tehnoloģijas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Provvista ta' informazzjoni tat-toroq u t-traffiku; Ġestjoni tal-fluss ta' traffiku ta' vetturi permezz ta' netwerk u teknoloġija ta' komunikazzjoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Verschaffing van wegen- en verkeersinformatie; Beheer van de doorstroom van voertuigverkeer door geavanceerde communcatienetwerk- en technologie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Udzielanie informacji na temat dróg i ruchu drogowego; Zarządzanie ruchem pojazdów dzięki zaawansowanym sieciom komunikacyjnym i technologii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Fornecimento de informações sobre vias rodoviárias e trânsito; Gestão do fluxo de tráfego de veículos através de redes e tecnologias de comunicação avançadas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Furnizare de informații rutiere și de trafic; Gestionarea de fluxul traficului de vehicule prin intermediul rețelelor și al tehnologiilor avansate de comunicații.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poskytovanie cestovných a dopravných informácií; Riadenie dopravy vozidiel prostredníctvom vyspelých komunikačných sietí a technológií.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zagotavljanje cestnih in prometnih informacij; Upravljanje pretoka prometa vozil s pomočjo naprednega komunikacijskega omrežja in tehnologije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Information avseende vägar och trafik; Ledning av fordonstrafikflöde med hjälp av avancerade kommunikationsnät och kommunikationsteknik.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Отдаване под наем на научно и технологично оборудване.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pronájem vědeckého a technologického vybavení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Udlejning af videnskabs- og teknologiudstyr.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Vermietung von wissenschaftlichen und technologischen Geräten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εκμίσθωση επιστημονικού και τεχνολογικού εξοπλισμού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Rental of science and technology equipment.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Alquiler de equipos científicos y tecnológicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Teadus- ja tehnoloogiaseadmete rentimine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tieteellisten ja teknologisten laitteiden vuokraus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Location d’équipements scientifiques et technologiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Iznajmljivanje znanstvene i tehnološke opreme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Tudományos és technológiai berendezések bérbeadása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Noleggio di apparecchiature scientifiche e tecnologiche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mokslinės ir technologinės įrangos nuoma.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Zinātnes un tehnoloģiju aprīkojuma iznomāšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kiri ta' apparat tax-xjenza u tat-teknoloġija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Verhuur van wetenschappelijke en technologische apparatuur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Wynajem sprzętu naukowego i technologicznego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aluguer de equipamento científico e tecnológico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Închiriere de echipamente științifice și tehnologice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Prenájom vedeckého a technického vybavenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Najem znanstvene in tehnološke opreme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Uthyrning av vetenskapliga och teknologiska utrustningar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/101</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/173</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>436279</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>22326</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018229982</RecordIdentifier>
+<BasicRecordKind>Representative - Change of name and professional address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>22326</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-07-30</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

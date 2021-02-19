@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-08-17T11:36:50</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063010-0004</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063010-0004</DesignIdentifier>
+<ApplicationNumber>001063010</ApplicationNumber>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-01-27</PublicationDate>
+<ApplicationReference>246480A</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061755605</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063010_0004/001063010_0004_1.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Аксесоари за обувки</IndicationProduct>
+       <IndicationProduct languageCode="cs">Doplňky k obuvi</IndicationProduct>
+       <IndicationProduct languageCode="da">Skotilbehør</IndicationProduct>
+       <IndicationProduct languageCode="de">Zubehör für Schuhe</IndicationProduct>
+       <IndicationProduct languageCode="el">Συμπληρώματα υποδημάτων</IndicationProduct>
+       <IndicationProduct languageCode="en">Shoe attachments</IndicationProduct>
+       <IndicationProduct languageCode="es">Accesorios de sujeción de calzado</IndicationProduct>
+       <IndicationProduct languageCode="et">Kingade manused</IndicationProduct>
+       <IndicationProduct languageCode="fi">Kenkien lisävarusteet</IndicationProduct>
+       <IndicationProduct languageCode="fr">Accessoires de chaussures</IndicationProduct>
+       <IndicationProduct languageCode="hu">Cipőkellékek</IndicationProduct>
+       <IndicationProduct languageCode="it">Accessori per scarpe</IndicationProduct>
+       <IndicationProduct languageCode="lt">Batų priedai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Kurpju furnitūra</IndicationProduct>
+       <IndicationProduct languageCode="mt">Aċċessorji għaż-żraben</IndicationProduct>
+       <IndicationProduct languageCode="nl">Toebehoren voor schoenen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Dodatki do butów</IndicationProduct>
+       <IndicationProduct languageCode="pt">Acessórios para sapatos</IndicationProduct>
+       <IndicationProduct languageCode="ro">Accesorii pentru pantofi</IndicationProduct>
+       <IndicationProduct languageCode="sk">Doplnky k topánkam</IndicationProduct>
+       <IndicationProduct languageCode="sl">pribor za tuš kabine</IndicationProduct>
+       <IndicationProduct languageCode="sv">Skotillbehör</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>02.04</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PriorityDetails>
+       <Priority>
+        <PriorityCountryCode>FR</PriorityCountryCode>
+        <PriorityNumber>083102</PriorityNumber>
+        <PriorityDate>2008-07-10</PriorityDate>
+        <PriorityStatusCode>Claimed</PriorityStatusCode>
+       </Priority>
+      </PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/017</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-27</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325741</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2012/109</PublicationIdentifier>
+        <PublicationSequenceNumber>782724</PublicationSequenceNumber>
+        <PublicationSection>B.9.2</PublicationSection>
+        <PublicationDate>2012-06-11</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>6708</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>55664</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>005866508</RecordIdentifier>
+<BasicRecordKind>Appointment Replacement and Deletion of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>782724</PublicationSequenceNumber>
+           <PublicationSection>B.9.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2012-06-11</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

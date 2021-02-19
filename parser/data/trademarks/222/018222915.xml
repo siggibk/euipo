@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-23T23:07:26</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222915</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222915</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="6">Application under examination</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-04-08</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>POR</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>1</ClassNumber>
+   <GoodsServicesDescription languageCode="de">Chemische Erzeugnisse für gewerbliche, wissenschaftliche, photographische, land-, garten- und forstwirtschaftliche Zwecke; Kunstharze im Rohzustand, Kunststoffe im Rohzustand; Düngemittel; Feuerlöschmittel; Mittel zum Härten und Löten von Metallen; chemische Erzeugnisse zum Frischhalten und Haltbarmachen von Lebensmitteln; Gerbmittel; Klebstoffe für gewerbliche Zwecke.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>2</ClassNumber>
+   <GoodsServicesDescription languageCode="de">Farben, Firnisse, Lacke; Rostschutzmittel, Holzkonservierungsmittel; Färbemittel; Beizen; Naturharze im Rohzustand; Blattmetalle und Metalle in Pulverform für Maler, Dekorateure, Drucker und Künstler; Anstrichfarben; Bindemittel für Anstrichfarben; Dickungsmittel für Farben; Fixiermittel; Grundierfarbe; Verdünnungsmittel.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>17</ClassNumber>
+   <GoodsServicesDescription languageCode="de">Dämmungsplatten; Dämmungsmittel; Dämmungsmaterialien; Isolierputz.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>19</ClassNumber>
+   <GoodsServicesDescription languageCode="de">Baumaterialien (nicht aus Metall); Rohre (nicht aus Metall) für Bauzwecke; Asphalt, Pech und Bitumen; transportable Bauten (nicht aus Metall); Denkmäler (nicht aus Metall); Kunst- und Bausteine; Bitumen; Zement; Zementputz; Beton; Mörtel; Gips; Putz; Verputzmittel; Kalk; Edelputz.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>317381</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10481</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

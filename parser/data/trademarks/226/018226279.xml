@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-10T09:40:09</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226279</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226279</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-01</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Koselugo</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162311374</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226279/000162311374.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.03.03</CategoryCode>
+          <CategoryCode>26.01.24</CategoryCode>
+          <CategoryCode>26.01.96</CategoryCode>
+          <CategoryCode>29.01.96</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Фармацевтични препарати и вещества.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Farmaceutické přípravky a látky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Farmaceutiske præparater og stoffer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Pharmazeutische Präparate und Substanzen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φαρμακευτικά παρασκευάσματα και ουσίες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Pharmaceutical preparations and substances.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Preparaciones y sustancias farmacéuticas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Farmatseutilised preparaadid ja ained.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Farmaseuttiset valmisteet ja aineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Substances et préparations pharmaceutiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Farmaceutski pripravci i tvari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyógyszerészeti készítmények és anyagok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Preparazioni e sostanze farmaceutiche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Farmaciniai preparatai ir medžiagos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Farmaceitiskie preparāti un līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preparazzjonijiet u sustanzi farmaċewtiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Farmaceutische preparaten en substanties.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Preparaty i substancje farmaceutyczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Preparações e substâncias farmacêuticas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Preparate și substanțe farmaceutice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Farmaceutické prípravky a látky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Farmacevtski pripravki in substance.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Farmaceutiska preparat och substanser.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/077</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/149</PublicationIdentifier>
+        <PublicationSection>C.3.6</PublicationSection>
+        <PublicationDate>2020-08-07</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>91737</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10666</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

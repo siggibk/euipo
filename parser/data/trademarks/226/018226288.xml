@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-15T09:20:01</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226288</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226288</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-09-12</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>PeroXguard</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>7</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Почистващи машини и перални машини; Машини за производство на материали и Машини за обработка на материали; Машини, А именно машини за стерилизиране, дезинфекция и обеззаразяване на текстил и предмети; Машини за обработка на текстилни материали.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Čisticí stroje a pračky; Stroje pro výrobu materiálu a Stroje na zpracování materiálu; Stroje, Jmenovitě stroje pro sterilizaci a dezinfekci textilií a předmětů; Stroje pro úpravu textilního materiálu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Rengøringsmaskiner og vaskemaskiner; Maskiner til materialeproduktion og Maskiner til materialebearbejdning; Maskiner, Nemlig maskiner til sterilisation og desinfektion af tekstiler og genstande; Maskiner til behandling af tekstilmaterialer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Reinigungsmaschinen und Waschmaschinen; Materialfertigungsmaschinen und Materialbearbeitungsmaschinen; Maschinen, nämlich Maschinen zur Sterilisation, Desinfektion und Entkeimung von Textilien und Gegenständen; Maschinen zur Behandlung von Textilien.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μηχανές καθαρισμού και πλυντήρια· Μηχανές κατασκευής υλικών και Μηχανές κατεργασίας υλικών· Μηχανές, Συγκεκριμένα μηχανές αποστείρωσης, απολύμανσης υφασμάτων και αντικειμένων· Μηχανές για την επεξεργασία υφάσματος.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Cleaning machines and washing machines; Machines for the manufacture of materials and Material treatment machines; machines, Namely machines for sterilising, disinfecting and decontaminating textiles and objects; Machines for treating textile materials.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Maquinaria de limpieza y lavadoras de ropa; Máquinas para fabricación de materiales y Máquinas para tratamiento de materiales; Máquinas, En concreto máquinas para la esterilización y la desinfección de materias textiles y objetos; Máquinas para el tratamiento de material textil.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Puhastusmasinad ja pesumasinad; Materjali tootmisseadmed ja Materjalitöötlusmasinad; Masinad, Täpsemalt masinad steriliseerimiseks, desinfitseerimiseks ja bakterite eemaldamiseks tekstiilidelt ja esemetelt; Masinad tekstiilimaterjalide käitlemiseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Puhdistus- ja pesukoneet; Koneet materiaalien tuottamiseen ja Materiaalinkäsittelykoneet; Koneet, Nimittäin tekstiilien ja esineiden sterilointiin ja desinfiointiin; Tekstiilimateriaalin käsittelykoneet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Machines de nettoyage et machines à laver; Machines de production de matériel et Machines de traitement des matériaux; Machines, À savoir machines de stérilisation, désinfection et destruction de germes sur des textiles et objets; Machines pour le traitement de matières textiles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Strojevi za čišćenje i strojevi za pranje rublja; Strojevi za proizvodnju materijala i Strojevi za obradu materijala; Strojevi, I to strojevi za sterilizaciju, dezinfekciju i raskuživanje tekstila i predmeta; Strojevi za obradu tekstila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Tisztítógépek és mosógépek; Anyagkészítő gépek és Anyagfeldolgozó gépek; Gépek, Nevezetesen textilek és tárgyak sterilizálása, fertőtlenítésére és csírátlanítására szolgáló gépek; Textíliák kezelésére szolgáló gépek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Macchine per pulire e lavare; Macchine di fabbricazione di materiale e Macchine per il trattamento di materiali; Macchine, Ovvero macchine per la sterilizzazione, disinfezione ed eliminazione di germi da tessuti e oggetti; Macchine per il trattamento di materiali tessili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Valymo mašinos ir plovimo mašinos; Medžiagų gamybos mašinos ir Medžiagų apdirbimo mašinos; Mašinos, Būtent sterilizavimo, dezinfekavimo ir bakterijų šalinimo mašinos tekstilės gaminiams ir daiktams apdoroti; Tekstilinių medžiagų apdirbimo mašinos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Tīrīšanas mašīnas un veļas mazgājamās mašīnas; Materiālu izgatavošanas mašīnas un Materiālu apstrādes iekārtas; Iekārtas, Proti, mašīnas tekstīliju un priekšmetu sterilizešanai, dezinficēšana un mikrobu iznīcināšana; Tekstilmateriālu apstrādes iekārtas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Magni tat-tindif u magni tal-ħasil; Magni tal-produzzjoni ta' materjali u Magni għall-ipproċessar tal-materjal; Magni, Jiġifieri magni għal sterilizzazzjoni, diżinfezzjoni u diżinfettar ta' tessuti u oġġetti; Magni għall-ipproċessar ta' tessuti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Reinigingsmachines en wasmachines; Machines voor de productie van materialen en Machines voor de behandeling van materialen; Machines, Te weten machines voor sterilisatie, desinfectie en ontsmetting van textiel en voorwerpen; machines voor het behandelen van textielmateriaal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maszyny czyszczące i pralki; Maszyny do produkcji materiałów i Maszyny do obróbki materiałów; Maszyny, Mianowicie maszyny do sterylizacji, dezynfekcji i odkażania tekstyliów i przedmiotów; Maszyny do obróbki wyrobów włókienniczych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máquinas de limpeza e máquinas para lavar a roupa; Máquinas para o fabrico de materiais e Máquinas de tratamento de materiais; Máquinas, Nomeadamente máquinas para esterilização, desinfeção e eliminação de germes em têxteis e objetos; Máquinas para tratar matérias têxteis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Maşini de curăţat şi maşini de spălat; Maşini pentru fabricarea de materiale şi Maşini de prelucrare a materialelor; Maşini, Și anume mașini pentru sterilizarea, dezinfectarea și decontaminarea de produse textile și obiecte; Maşini pentru tratarea materialelor textile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Čistiace stroje a práčky; Stroje na zhotovenie materiálu a Stroje na obrábanie materiálu; Strojov, Menovite stroje na sterilizáciu, dezinfekciu a odstraňovanie zárodkov z textílií a predmetov; Stroje na úpravu textilného materiálu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Čistilni stroji in pralni stroji; Stroji za izdelavo materiala in Stroji za obdelavo materialov; Stroji, In sicer stroji za sterilizacijo, dezinfekcijo in razkuževanje tekstila in predmetov; Naprave za obdelavo tekstilnih materialov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Rengöringsmaskiner och tvättmaskiner; Materialtillverkningsmaskiner och Materialbearbetningsmaskiner; Maskiner, Nämligen maskiner för sterilisering, desinficering och sterilisering av textilier och föremål; Maskiner för behandling av textilmaterial.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Инсталации за стерилизиране, дезинфекция и очистване и оборудване за стерилизиране, дезинфекция и очистване; Апарати за стерилизиране, дезинфекция и очистване и уреди за стерилизиране, дезинфекция и очистване.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Sterilizační, dezinfekční a dekontaminační zařízení a sterilizační, dezinfekční a dekontaminační vybavení; Sterilizační, dezinfekční a dekontaminační přístroje a sterilizační, dezinfekční a dekontaminační přístroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Sterilisations-, desinfektions- og dekontamineringsanlæg og -udstyr; Apparater og indretninger til sterilisation, desinfektion og dekontaminering.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Sterilisations-, Desinfektions- und Dekontaminierungsanlagen und Sterilisations-, Desinfektions- und Dekontaminierungsausrüstung; Sterilisations-, Desinfektions- und Dekontaminierungsapparate und Sterilisations-, Desinfektions- und Dekontaminierungsgeräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εγκαταστάσεις αποστείρωσης, απολύμανσης και απορρύπανσης και εξοπλισμός αποστείρωσης, απολύμανσης και απορρύπανσης· Συσκευές αποστείρωσης, απολύμανσης και απορρύπανσης και διατάξεις αποστείρωσης, απολύμανσης και απορρύπανσης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Sterilising, disinfecting and decontaminating installations and sterilising, disinfecting and decontaminating apparatus; Sterilising, disinfecting and decontaminating apparatus and sterilising, disinfecting and decontaminating devices.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Instalaciones de esterilización, desinfección y descontaminación y equipos de esterilización, desinfección y descontaminación; Aparatos de esterilización, desinfección y descontaminación e instrumentos de esterilización, desinfección y descontaminación.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Steriliseerimis-, desinfektsiooni- ja saasteärastusseadmed ja steriliseerimis-, desinfektsiooni- ja dekontamineerimisseadmed; Steriliseerimis-, desinfektsiooni- ja saasteärastusseadmed ja steriliseerimis-, desinfektsiooni- ja dekontamineerimisseadmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sterilointi-, desinfiointi- ja dekontaminointilaitteistot sekä sterilointi-, desinfiointi- ja dekontaminointivälineet; Sterilointi-, desinfiointi- ja dekontaminointilaitteet sekä sterilointi-, desinfiointi- ja dekontaminointivälineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Installations de stérilisation, désinfection et décontamination et dispositifs de stérilisation, désinfection et décontamination; Appareils de stérilisation, désinfection et décontamination et équipements de stérilisation, désinfection et décontamination.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Postrojenja za sterilizaciju, dezinfekciju i dekontaminaciju i oprema za sterilizaciju, dezinfekciju i dekontaminaciju; Aparati za sterilizaciju, dezinfekciju i dekontaminaciju i uređaji za sterilizaciju, dezinfekciju i dekontaminaciju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sterilizáló, fertőtlenítő és dekontamináló berendezések és sterilizáló, fertőtlenítő és dekontamináló felszerelések; Sterilizáló, fertőtlenítő és dekontamináló berendezések és sterilizáló, fertőtlenítő és dekontamináló eszközök.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Impianti di sterilizzazione, disinfezione e decontaminazione e apparecchiature di sterilizzazione, disinfezione e decontaminazione; Apparecchi di sterilizzazione, disinfezione e decontaminazione e dispositivi di sterilizzazione, disinfezione e decontaminazione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Sterilizavimo, dezinfekavimo ir nukenksminimo įrenginiai ir įranga; Sterilizavimo, dezinfekavimo ir nukenksminimo aparatai ir prietaisai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Sterilizācijas, dezinfekcijas un dekontaminācijas iekārtas un sterilizācijas, dezinfekcijas un dekontaminācijas aprīkojums; Sterilizācijas, dezinfekcijas un dekontaminācijas parāti un sterilizācijas, dezinfekcijas un dekontaminācijas ierīces.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Impjanti ta' sterilizzazzjoni, diżinfezzjoni u dekontaminazzjoni u tagħmir tad-diżinfezzjoni u d-dekontaminazzjoni; Apparat ta' sterilizzazzjoni, diżinfezzjoni u dekontaminazzjoni u tagħmir tad-diżinfezzjoni u d-dekontaminazzjoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Sterilisatie-, desinfectie- en decontaminatie-installaties en sterilisatie-, desinfectie- en decontaminatie-uitrusting; Sterilisatie-, desinfectie- en decontaminatieapparaten en sterilisatie-, desinfectie- en decontaminatietoestellen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Instalacje do sterylizacji, dezynfekcji i odkażania i sprzęt do sterylizacji, dezynfekcji i odkażania; Urządzenia do sterylizacji, dezynfekcji i odkażania i przyrządy do sterylizacji, dezynfekcji i odkażania.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Instalações de esterilização, desinfeção e descontaminação e equipamentos de esterilização, desinfeção e descontaminação; Aparelhos de esterilização, desinfeção e descontaminação e dispositivos de esterilização, desinfeção e descontaminação.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Instalații de sterilizare, dezinfectare și decontaminare și echipamente de sterilizare, dezinfectare și decontaminare; Aparate de sterilizare, dezinfectare și decontaminare și dispozitive de sterilizare, dezinfectare și decontaminare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Sterilizačné, dezinfekčné a dekontaminačné zariadenia a sterilizačné, dezinfekčné a dekontaminačné nástroje; Sterilizačné, dezinfekčné a dekontaminačné prístroje a sterilizačné, dezinfekčné a dekontaminačné zariadenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Sterilizacijski, dezinfekcijski in dekontaminacijski sistemi in sterilizacijska, dezinfekcijska in dekontaminacijska oprema; Sterilizacijski, dezinfekcijski in dekontaminacijski aparati in sterilizacijske, dezinfekcijske in dekontaminacijske naprave.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Steriliserings-, desinfektions- och saneringsanläggningar och steriliserings-, desinfektions- och saneringsutrustning; Steriliserings-, desinfektions- och saneringsapparater och steriliserings-, desinfektions- och saneringsanordningar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>40</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Обработване на материали и Трансформиране на материали; Обработка на текстил; Третиране на платове; Химикали за обработване на текстил; Стерилизиране на текстил и тъкани; Обеззаразяване на текстил и тъкани; Дезинфекция на текстил и тъкани; Очистване на текстил и тъкани.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zpracování materiálů a Přeměna materiálů; Zpracování textilu; Úprava a zpracování textilií; Chemické ošetření textilií; Sterilizace textilií a tkanin; Dezinfekce textilií a tkanin; Dezinfekce textilií a tkanin; Dekontaminace textilií a tkanin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Forarbejdning og behandling af materialer og genstande og Omdannelse af materiale; Tekstilforarbejdning; Behandling af tekstiler; Kemisk behandling af tekstilmaterialer; Sterilisation af tekstiler og tekstilstoffer; Desinfektion af tekstiler og tekstilstoffer; Desinfektion af tekstiler og tekstilstoffer; Dekontaminering af tekstiler og tekstilstoffer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Materialbearbeitung und Materialumwandlung; Textilbearbeitung; Behandlung von Textilien und Webstoffen; Chemische Behandlung von Textilien; Sterilisation von Textilien und Webstoffen; Entkeimung von Textilien und Webstoffen; Desinfektion von Textilien und Webstoffen; Dekontaminierung von Textilien und Webstoffen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Επεξεργασία υλικών και Μετατροπή υλικών· Επεξεργασία υφασμάτων· Επεξεργασία υφασμάτων· Χημική επεξεργασία κλωστοϋφαντουργικών· Αποστείρωση υφασμάτων και ειδών υφαντουργίας· Αποστείρωση υφασμάτων και ειδών υφαντουργίας· Απολύμανση υφασμάτων και ειδών υφαντουργίας· Απορρύπανση υφασμάτων και ειδών υφαντουργίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Treatment of materials and Material conversion; Processing of textiles; Cloth treating; Chemical treatment of textile; Sterilising textiles and fabrics; Decontaminating textiles and fabrics; Disinfecting textiles and fabrics; Decontaminating textiles and fabrics.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Tratamiento de materiales y Transformación de materiales; Procesamiento de textiles; Tratamiento de tejidos; Tratamiento químico de textiles; Esterilización de materias textiles y tejidos; Esterilización de materias textiles y tejidos; Desinfección de materias textiles y tejidos; Descontaminación de materias textiles y tejidos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Materjalitöötlus ja Materjali muutmine; Tekstiili töötlemine; Tekstiili töötlemine, riidetöötlus; Tekstiili keemiline töötlemine; Tekstiilide ja riidematerjalide steriliseerimine; Tekstiilidelt ja riidematerjalidelt bakterite eemaldamine; Tekstiilide ja riidematerjalide desinfitseerimine; Tekstiilide ja riidematerjalide dekontamineerimine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Aineiden ja esineiden käsittely ja Aineiden muuntaminen; Tekstiilien käsittely; Kankaan muokkaus; Tekstiilien kemiallinen käsittely; Tekstiilien ja kankaiden sterilointi; Tekstiilien ja kankaiden desinfektio; Tekstiilien ja kankaiden desinfiointi; Tekstiilien ja kankaiden dekontaminointi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Traitement de matériaux et Transformation de matériaux; Traitement de textiles; Traitement de tissus; Traitement chimique de textiles; Stérilisation de textiles et tissus; Destruction de germes de textiles et tissus; Désinfection de textiles et tissus; Décontamination de textiles et tissus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Obrada materijala i Pretvaranje materijala; Obrada tekstila; Usluge apreture tekstila; Kemijska obrada tekstila; Sterilizacija tekstila i tkanih materijala; Raskuživanje tekstila i tkanih materijala; Dezinfekcija tekstila i tkanih materijala; Dekontaminacija tekstila i tkanih materijala.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Anyagmegmunkálás és Anyagátalakítás; Textilfeldolgozás; Textilanyagok kikészítése, appretúrája; Textíliák vegyszeres kezelése; Textilek és szövetek sterilizálása; Textilek és szövetek csírátlanítása; Textilek és szövetek fertőtlenítése; Textilek és szövetek dekontaminálása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Trattamento di materiali e Trasformazione di materiali; Lavorazione tessile; Trattamento di tessili; Trattamento chimico di prodotti tessili; Sterilizzazione di articoli tessili e tessuti:; Eliminazione di germi da articoli tessili e tessuti:; Disinfezione di articoli tessili e tessuti; Decontaminazione di articoli tessili e tessuti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Medžiagų apdirbimas ir apdorojimas ir Medžiagų keitimas; Tekstilės medžiagų apdirbimas ir apdorojimas; Tekstilės gaminių apretavimas; Audinių cheminis apdorojimas; Tekstilės gaminių ir audinių sterilizavimas; Tekstilės gaminių ir audinių bakterijų šalinimas; Tekstilės gaminių ir audinių dezinfekavimas; Tekstilės gaminių ir audinių nukenksminimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Materiālu apstrāde un Materiālu pārveidošana; Tekstilmateriālu apstrāde; Tekstilizstrādājumu apdare; Ķīmiska tekstila apstrāde; Tekstīliju un audumu sterilizācija; Tekstīliju un audumu mikrobu iznīcināšana; Tekstīliju un audumu dezinfekcija; Tekstīliju un audumu dekontaminācija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Trattament ta' materjali u Konverżjoni ta' materjal; Ipproċessar tad-drapp; Applikazzjoni ta' irfinar tat-tessuti; Trattament kimiku ta' tessuti; Sterilizzazzjoni ta' tessuti u drappijiet minsuġin; Diżinfettar ta' tessuti u drappijiet minsuġin; Diżinfezzjoni ta' tessuti u drappijiet minsuġin; Dekontaminazzjoni ta' tessuti u drappijiet minsuġin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Behandeling van materialen en Materiaalomzetting; Textielbehandeling; Behandeling van weefsels; Chemische behandeling van textiel; Sterilisatie van textiel en weefsels; Ontsmetting van textiel en weefsels; Desinfectie van textiel en weefsels; Decontamineren van textiel en weefsels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Obróbka materiałów i Przetwarzanie materiałów; Obróbka tekstyliów; Apreturowanie tkanin; Chemiczna obróbka tkanin; Sterylizacja tekstyliów i tkanin; Odkażanie tekstyliów i tkanin; Dezynfekcja tekstyliów i tkanin; Odkażanie tekstyliów i tkanin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Tratamento de materiais e Transformação de materiais; Transformação de têxteis; Tratamento de tecidos; Tratamento químico de têxteis; Esterilização de têxteis e tecidos; Eliminação de germes em têxteis e tecidos; Desinfeção de têxteis e tecidos; Descontaminação de têxteis e tecidos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Tratament de materiale şi Transformarea materialelor; Prelucrarea textilelor; Tratarea stofelor; Tratarea chimică a textilelor; Sterilizare de materiale textile și țesături; Igienizare de materiale textile și țesături; Dezinfectare de materiale textile și țesături; Decontaminare de materiale textile și țesături.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Spracovanie a úprava materiálov a Premena materiálu; Spracovanie textilu; Úprava textílií; Chemické ošetrovanie textílií; Sterilizácia textílií; Odstraňovanie zárodkov z textílií; Dezinfekcia textílií; Dekontaminácia textílií.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Obdelava materialov in Pretvorba materiala; Obdelava tekstilij; Apretiranje tekstila; Kemična obdelava tkanin; Sterilizacija tekstila in tkanin; Razkuževanje tekstila in tkanin; Dezinfekcija tekstila in tkanin; Dekontaminacija tekstilna in tkanin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Behandling av ämnen och material och Materialomvandling; Textilbearbetning; Textilappretering; Kemisk textilbehandling; Sterilisering av textilier och vävda material; Sterilisering av textilier och vävda material; Desinfektion av textilier och tyger; Sanering av textilier och tyger.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/105</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/176</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-09-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080416</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>13797</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

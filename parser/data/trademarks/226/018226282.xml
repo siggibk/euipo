@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-17T08:58:40</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226282</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226282</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-13</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ASCON GROUP</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162312071</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226282/000162312071.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.04.01</CategoryCode>
+          <CategoryCode>26.04.05</CategoryCode>
+          <CategoryCode>26.04.18</CategoryCode>
+          <CategoryCode>26.04.99</CategoryCode>
+          <CategoryCode>26.11.08</CategoryCode>
+          <CategoryCode>26.11.09</CategoryCode>
+          <CategoryCode>26.11.98</CategoryCode>
+          <CategoryCode>27.05.05</CategoryCode>
+          <CategoryCode>27.05.21</CategoryCode>
+          <CategoryCode>27.99.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>4</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Суров петрол; Гориво, добито от суров нефт; Горива, добити от нефт; Сурови нефтени продукти, добити при рафинирането на суров петрол.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Surová ropa; Paliva ze surové ropy; Paliva získaná z ropy; Ropné výrobky získané rafinací surové ropy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Jordolier; Brændstof udvundet af råolie; Brændstoffer udvundet af olie; Råolieprodukter fra raffinering af råolie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Rohöl; Kraftstoff aus Rohöl; Aus Ölen gewonnene Kraftstoffe; Aus der Raffination von Rohöl gewonnene Rohölerzeugnisse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ακατέργαστο πετρέλαιο· Καύσιμα από αργό πετρέλαιο· Καύσιμα παραγόμενα από πετρέλαιο· Προϊόντα αργού πετρελαίου παραγόμενα από τη διύλιση αυτού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Crude oil; Fuels derived from crude oil; Fuels derived from oil; Crude oil products derived from the refining of crude.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Petróleo crudo; Combustibles derivados del petróleo crudo; Combustibles derivados del petróleo; Productos de petróleo derivados del refinado de petróleo crudo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toorõlid (nafta); Toornaftast valmistatud kütus; Õlist saadud kütused; Toornaftatooted, mis on saadud toornafta rafineerimise teel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Raakaöljy; Raakaöljystä jalostetut polttoaineet; Öljystä saatavat polttoaineet; Raakaöljyn jalostuksesta saadut öljytuotteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Pétrole brut; Combustibles dérivés du pétrole brut; Combustibles dérivés du pétrole; Produits à base de pétrole brut dérivés des procédés de raffinage.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Sirova nafta; Goriva iz sirove nafte; Goriva dobivena iz nafte; Proizvodi dobiveni rafiniranjem sirove nafte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Nyersolaj; Nyersolajból nyert üzemanyagok; Olajból nyert tüzelőanyagok, üzemanyagok; Nyersolaj finomítása során nyert kőolaj termékek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Petrolio grezzo; Combustibili derivati da petrolio greggio; Combustibili derivati dal petrolio; Prodotti derivati dalla raffinazione del petrolio greggio.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Žalia nafta; Degalai iš žaliavinės naftos; Iš naftos gaunamas kuras; Žaliavinės naftos produktai, gaunami valant žaliavinę naftą.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Jēlnafta; Degviela no jēlnaftas; Degvielas, kas iegūtas no naftas; Jēlnaftas produkti, kas iegūti rafinējot jēlnaftu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Żejt mhux raffinat; Karburanti miksuba minn żejt mhux maħdum; Karburanti miksuba miż-żejt; Prodotti ta' żejt mhux raffinat miksuba mir-raffinar ta' żejt mhux raffinat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ruwe olie; Brandstoffen bereid uit aardolie; Brandstoffen die zijn afgeleid van aardolie; Ruwe-olieproducten afgeleid van de raffinage van ruwe olie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Ropa naftowa [crude oil]; Paliwa otrzymywane z ropy naftowej [crude oil]; Paliwa z ropy naftowej; Produkty naftowe uzyskane z rafinacji ropy naftowej.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Petróleo bruto; Combustíveis derivados do petróleo bruto; Combustíveis derivados de petróleo; Produtos de petróleo derivados da refinação do petróleo bruto (crude).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Țiței brut; Combustibili din țiței (petrol brut); Combustibili derivați din petrol; Produse petroliere derivate din rafinarea țițeiului.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nespracovaná ropa; Palivá zo surovej ropy; Ropné deriváty ako palivá; Ropné produkty zo surovej ropy derivované v procese rafinácie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Surova nafta; Goriva, pridobljena iz surove nafte; Goriva, pridobljena iz nafte; Proizvodi, pridobljeni z rafiniranjem surove nafte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Råolja; Bränslen erhållna från råolja; Bränsle utvunnen ur olja; Råoljeprodukter utvunna från råoljeraffinering.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>39</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Транспорт; Транспортиране на суров петрол.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Přeprava; Přeprava surové ropy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Transport; Transport af råolie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Transportdienstleistungen; Transport von Rohöl.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μεταφορές· Μεταφορά αργού πετρελαίου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Transport; Transportation of crude oil.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de transporte; Transporte de crudo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Transport; Toornafta transport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kuljetus; Raakaöljyn kuljetus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Transports; Transport de pétrole brut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Prijevoz; Prijevoz sirove nafte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szállítás; Nyersolaj szállítása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Trasporto; Trasporto di petrolio greggio.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vežimas; Žalios naftos gabenimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Transporta pakalpojumi; Jēlnaftas transportēšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Trasport; It-trasportazzjoni ta' żejt mhux raffinat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Transport; Transport van ruwe olie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Transport; Transport ropy naftowej.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Transporte; Transporte de crude.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Transport; Transport de petrol brut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Dopravné služby; Preprava surovej ropy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Transport; Transport surove nafte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Transporter; Transport av råolja.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/083</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/155</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080403</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>95823</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-17T16:20:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226753</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226753</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ZERODELAY</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Медицински инструменти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Lékařské nástroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Medicinske instrumenter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Medizinische Apparate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ιατρικά όργανα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Medical devices.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Instrumentos médicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiiniinstrumendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lääketieteelliset välineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Instruments à usage médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Medicinski instrumenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Orvosi műszerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Strumenti medici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Medicininiai instrumentai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medicīnas instrumenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Attrezzaturi mediċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Medische instrumenten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Instrumenty medyczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aparelhos médicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Instrumente medicale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lekárske nástroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Medicinski instrumenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Medicinska apparater.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/078</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/171</PublicationIdentifier>
+        <PublicationSection>C.2.2</PublicationSection>
+        <PublicationDate>2020-09-08</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>30558</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>97265</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018447410</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>97265</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-09-09</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T08:41:13</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228820</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228820</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>MELEN</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162458062</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/228/018228820/000162458062.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Козметика за красота; Кремове за лице и за тяло.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zkrášlující kosmetika; Pleťové a tělové krémy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kosmetiske præparater til skønhedspleje; Ansigts- og kropscremer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schönheitspflegemittel; Cremes für die Gesichts- und Körperpflege.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καλλυντικά αισθητικής περιποίησης· Κρέμες για το πρόσωπο και το σώμα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Beauty care cosmetics; Face and body creams.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cosméticos para tratamiento de belleza; Cremas faciales y corporales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Iluhoolduskosmeetika tooted; Näo- ja kehakreemid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kauneudenhoitokosmetiikka; Kasvo- ja vartalovoiteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Produits cosmétiques de soins de beauté; Crèmes pour le visage et le corps.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kozmetika za njegu ljepote; Kreme za lice i tijelo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szépségápoló kozmetikumok; Arc- és testkrémek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cosmetici di bellezza; Creme per il viso e per il corpo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Grožio priežiūros kosmetika; Veido ir kūno kremai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Skaistumkopšanas kosmētika; Sejas un ķermeņa krēmi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kosmetiċi għall-kura u s-sbuħija; Kremi għall-wiċċ u għall-ġisem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Cosmetische middelen voor de schoonheidsverzorging; Gezichts-en lichaamscrèmes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kosmetyki do pielęgnacji urody; Kremy do twarzy i ciała.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cosméticos para cuidados de beleza; Cremes para o rosto e para o corpo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cosmetice de îngrijire a frumuseții; Creme de față și de corp.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Skrášľovacia kozmetika; Krémy na tvár a telové krémy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kozmetična sredstva za lepotilno nego; Kreme za obraz in telo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kosmetika för skönhetsvård; Krämer för ansikte och kropp.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082009</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>60681</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

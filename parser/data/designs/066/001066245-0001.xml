@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:53</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001066245-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2009-01-05</ReceivingOfficeDate>
+<DesignIdentifier>001066245-0001</DesignIdentifier>
+<ApplicationNumber>001066245</ApplicationNumber>
+<ApplicationLanguageCode>el</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-29</ApplicationDate>
+<RegistrationDate>2008-12-29</RegistrationDate>
+<PublicationDate>2009-02-19</PublicationDate>
+<ApplicationReference>AnastasiaGeorgopoulou</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-29</ExpiryDate>
+<EffectiveDate>2008-12-29</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061870227</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066245_0001/001066245_0001_1.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Фотьойли</IndicationProduct>
+       <IndicationProduct languageCode="cs">Křesla</IndicationProduct>
+       <IndicationProduct languageCode="da">Lænestole</IndicationProduct>
+       <IndicationProduct languageCode="de">Armsessel</IndicationProduct>
+       <IndicationProduct languageCode="el">Πολυθρόνες</IndicationProduct>
+       <IndicationProduct languageCode="en">Armchairs</IndicationProduct>
+       <IndicationProduct languageCode="es">Sillones</IndicationProduct>
+       <IndicationProduct languageCode="et">Tugitoolid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Nojatuolit</IndicationProduct>
+       <IndicationProduct languageCode="fr">Fauteuils</IndicationProduct>
+       <IndicationProduct languageCode="hu">Fotelok</IndicationProduct>
+       <IndicationProduct languageCode="it">Poltrone</IndicationProduct>
+       <IndicationProduct languageCode="lt">Foteliai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Atpūtas krēsli</IndicationProduct>
+       <IndicationProduct languageCode="mt">Pultruni</IndicationProduct>
+       <IndicationProduct languageCode="nl">Leunstoelen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Fotele</IndicationProduct>
+       <IndicationProduct languageCode="pt">Cadeiras de braços</IndicationProduct>
+       <IndicationProduct languageCode="ro">Fotolii</IndicationProduct>
+       <IndicationProduct languageCode="sk">Kreslá</IndicationProduct>
+       <IndicationProduct languageCode="sl">Naslonjači</IndicationProduct>
+       <IndicationProduct languageCode="sv">Fåtöljer</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>06.01</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/034</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-02-19</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325952</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/126</PublicationIdentifier>
+        <PublicationSequenceNumber>1265741</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2014-07-10</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>42908</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>008285060</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1265741</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-07-10</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

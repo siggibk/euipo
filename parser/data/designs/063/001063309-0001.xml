@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:47</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063309-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063309-0001</DesignIdentifier>
+<ApplicationNumber>001063309</ApplicationNumber>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-01-26</PublicationDate>
+<ApplicationReference>M-2978-EU-01 DP/co</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061876738</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063309_0001/001063309_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061876740</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063309_0001/001063309_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061876742</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063309_0001/001063309_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061876744</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063309_0001/001063309_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061876746</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063309_0001/001063309_0001_5.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Отоплително оборудване</IndicationProduct>
+       <IndicationProduct languageCode="cs">Topná zařízení</IndicationProduct>
+       <IndicationProduct languageCode="da">Opvarmingsudstyr</IndicationProduct>
+       <IndicationProduct languageCode="de">Heizungsausrüstungen</IndicationProduct>
+       <IndicationProduct languageCode="el">Εγκαταστάσεις θέρμανσης</IndicationProduct>
+       <IndicationProduct languageCode="en">Heating equipment</IndicationProduct>
+       <IndicationProduct languageCode="es">Equipos para la calefacción</IndicationProduct>
+       <IndicationProduct languageCode="et">Kütteseadmed</IndicationProduct>
+       <IndicationProduct languageCode="fi">Lämmityslaitteet</IndicationProduct>
+       <IndicationProduct languageCode="fr">Équipements pour le chauffage</IndicationProduct>
+       <IndicationProduct languageCode="hu">Fűtőberendezések</IndicationProduct>
+       <IndicationProduct languageCode="it">Impianti per il riscaldamento</IndicationProduct>
+       <IndicationProduct languageCode="lt">Šildymo įranga</IndicationProduct>
+       <IndicationProduct languageCode="lv">Apkures iekārtas</IndicationProduct>
+       <IndicationProduct languageCode="mt">Tagħmir li jsaħħan</IndicationProduct>
+       <IndicationProduct languageCode="nl">Verwarmingsinstallaties</IndicationProduct>
+       <IndicationProduct languageCode="pl">Piece, grzejniki, urządzenia grzewcze, reaktory itp.</IndicationProduct>
+       <IndicationProduct languageCode="pt">Equipamentos para o aquecimento</IndicationProduct>
+       <IndicationProduct languageCode="ro">Echipamente de încălzire</IndicationProduct>
+       <IndicationProduct languageCode="sk">Tepelné zariadenia</IndicationProduct>
+       <IndicationProduct languageCode="sl">Oprema za ogrevanje</IndicationProduct>
+       <IndicationProduct languageCode="sv">Uppvärmningsanordningar</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>23.03</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/016</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-26</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325789</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>355707</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>10103</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

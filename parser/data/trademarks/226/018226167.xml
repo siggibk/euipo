@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-02T13:32:56</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226167</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226167</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>CELLSKIN CLEAN PINE GEL</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162313138</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226167/000162313138.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.14</CategoryCode>
+          <CategoryCode>27.99.03</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Немедикаментозни препарати за почистване на кожата; Почистващи продукти за лична интимна хигиена, немедицински,; Препарати за почистване на ръце; Почистващи гелове; Почистващи средства за лична употреба; Измиващи емулсии за тяло, не съдържащи сапун; Гелове за вана и душ, не за медицински цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Neléčivé přípravky na čištění pleti; Mycí prostředky určené pro intimní hygienu, neléčivé; Přípravky na čištění rukou; Čisticí gely; Čisticí přípravky pro osobní potřebu; Emulze na mytí těla neobsahující mýdlo; Koupelové a sprchové gely, nikoliv pro léčebné účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Ikke-medicinske hudrensende præparater; Rensemidler til personlig intimhygiejne, ikke medicinske; Præparater til rengøring af hænderne; Rensegeléer; Rengøringspræparater til personlig brug; Sæbefrie vaskemidler til kroppen; Badegeléer til kar- og brusebad, ikke til medicinsk formål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Nicht medizinische Hautreinigungsmittel; Nicht medizinische Reinigungsmittel zur Intimpflege; Reiniger für die Hände; Reinigungsgele; Reinigungsmittel für den persönlichen Gebrauch; Seifenfreie Waschemulsionen für den Körper; Bade- und Duschgele, nicht für medizinische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μη φαρμακευτικά παρασκευάσματα για τον καθαρισμό του δέρματος· Προϊόντα καθαρισμού για σκοπούς προσωπικής υγιεινής των ευαίσθητων περιοχών (μη φαρμακευτικά)· Καθαριστικά χεριών· Προϊόντα καθαρισμού σε μορφή ζελέ· Παρασκευάσματα καθαρισμού για προσωπική χρήση· Γαλακτώματα για το πλύσιμο του σώματος χωρίς σαπούνι· Αφρόλουτρα σε μορφή ζελ, για μη ιατρική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Non-medicated skin cleansing preparations; non-medicated cleansers for intimate personal hygiene purposes; hand cleansers; cleansing gels; cleaning preparations for personal use; soap free washing emulsions for the body; bath and shower gels, not for medical purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Productos limpiadores cutáneos no medicinales; Productos de limpieza para higiene íntima, no medicinales; Productos para limpiar las manos; Geles de limpieza; Productos de limpieza para uso personal; Emulsiones de lavado sin jabón para el cuerpo; Geles de baño y de ducha no medicinales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ravitoimeta nahapuhastuspreparaadid; Ravitoimeta intiimpuhastusained isikliku hügieeni tarbeks; Preparaadid käte puhastamiseks; Puhastusgeelid; Puhastusained isiklikuks tarbeks; Seebivabad kehapuhastusemulsioonid; Vanni- ja dušigeelid [välja arvatud meditsiinilised].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lääkeaineita sisältämättömät ihonpuhdistusvalmisteet; Pesuaineet henkilökohtaiseen hygieniaan, muuhun kuin lääkinnälliseen käyttöön; Käsienpuhdistusaineet; Puhdistusgeelit; Puhdistusvalmisteet henkilökohtaiseen käyttöön; Saippuattomat pesuemulsiot vartalolle; Kylpy- ja suihkugeelit muuhun kuin lääkintäkäyttöön.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Produits nettoyants pour la peau non médicinaux; Produits nettoyants pour l'hygiène intime personnelle, non médicinaux; Produits nettoyants pour les mains; Gels nettoyants; Préparations nettoyantes à usage personnel; Émulsions lavantes sans savon pour le corps; Gels de bain et de douche autres qu'à usage médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Nemedicinski pripravci za čišćenje kože; Nemedicinski proizvodi za čišćenje za osobnu intimnu higijenu; Sredstva za čišćenje ruku; Gelovi za čišćenje; Pripravci za čišćenje za osobnu uporabu; Emulzije za pranje tijela bez sapuna; Gelovi za kupanje i tuširanje, osim za medicinske potrebe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Nem gyógyhatású bőrtisztító készítmények; Nem gyógyászati célú tisztító készítmények személyi higiéniai céllal; Kéztisztítók; Tisztító zselék; Tisztító készítmények egyéni használatra; Szappanmentes emulziók mosakodáshoz [testre]; Fürdő- és tusoló gélek nem gyógyászati célokra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Prodotti non medicati detergenti per la pelle; Detergenti per uso igienico intimo personale, non per uso medico; Detergenti per mani; Gel detergenti; Prodotti detergenti per uso personale; Emulsioni detergenti senza sapone per il corpo; Gel per bagno e doccia, non per uso medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Negydomieji odos valymo preparatai; Valymo priemonės asmens higienos reikmėms, ne medicinos reikmėms; Rankų plovimo priemonės; Valomieji geliai; Asmeninio naudojimo valymo preparatai; Kūno prausimosi emulsijos, kurių sudėtyje nėra muilo; Vonios ir dušo geliai ne medicinos reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Nemedicīniski ādas attīrīšanas preparāti; Tīrīšanas līdzekļi personīgajai intīmajai higiēnai, nav paredzēti medicīniskai lietošanai; Roku tīrīšanas līdzekļi; Attīrošas želejas; Tīrīšanas līdzekļi personiskai lietošanai; Ķermeņa mazgāšanas emulsijas, kuru sastāvā nav ziepes; Dušas un vannas želejas, kas nav paredzētas medicīniskiem nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preparazzjonijiet għat-tindif tal-ġilda mhux immedikati; Prodotti tat-tindif għall-iġjene tal-partijiet intimi, minbarra dawk għal skopijiet mediċinali; Prodotti għat-tindif fil-fond tal-idejn; Ġellijiet għat-tindif; Preparazzjonijiet tat-tindif għall-użu personali; Prodotti tal-ħasil mingħajr sapun, għall-ġisem; Ġellijiet għall-banju u d-doċċa mhux għall-użu mediku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Niet-medicinale reinigingsmiddelen voor de huid; Niet-medicinale reinigingsproducten voor de intieme hygiëne; Handreinigers; Reinigingsgels; Preparaten voor reiniging, voor persoonlijk gebruik; Zeepvrije wasemulsies voor het lichaam; Bad- en douchegels, niet voor medische doeleinden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Nielecznicze produkty do oczyszczania skóry; Preparaty oczyszczające do higieny intymnej, inne niż do celów medycznych; Środki do czyszczenia rąk; Żele oczyszczające; Preparaty czyszczące do użytku osobistego; Emulsje do mycia ciała nie zawierające mydła; Żele do kąpieli i pod prysznic nie do celów medycznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Produtos não medicinais para limpeza da pele; Produtos de limpeza para fins de higiene íntima pessoal, não medicinais; Limpadores para mãos; Geles de limpeza; Preparações de limpeza para uso pessoal; Emulsões de lavagem sem sabão para o corpo; Géis de banho e de duche, não para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Preparate nemedicinale pentru curăţarea pielii; Produse de curăţare pentru igiena intimă personală, nu de uz medical; Produse pentru curăţarea mâinilor; Geluri de curăţare; Produse pentru curăţenie şi igienă personală; Emulsii fără săpun pentru spălarea corpului; Geluri de baie şi duş, nu de uz medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Neliečivé prípravky na čistenie pleti; Čistiace prípravky pre intímnu hygienu, nie liečivé; Čističe na ruky; Čistiace gély; Čistiace prípravky pre osobnú spotrebu; Bezmydlové emulzie na umývanie tela; Kúpeľové a sprchové gély nie na lekárske účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pripravki za čiščenje kože brez zdravilnih učinkovin; Čistilni izdelki za intimne osebne higienske namene, ne za medicinske namene; Čistila za roke; Čistilni geli; Čistilni pripravki za osebno uporabo; Emulzije za umivanje telesa, ki ne vsebujejo mila; Geli za kopanje in prhanje, ne za medicinske namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Icke-medicinska hudrengöringspreparat; Rengöringsprodukter för hygieniska ändamål, för personlig intimhygien, ej medicinska; Handrengöringsmedel; Rengöringsgeléer; Rengöringspreparat för personligt bruk; Tvålfria tvättemulsioner för kroppsrengöring; Bad- och duschgel, inte för medicinskt bruk.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1026812</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>38665</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003126274</OppositionIdentifier>
+<OppositionDate>2020-07-17</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Identity of marks and G&amp;S
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>006626931</ApplicationNumber>
+<ApplicationDate>2008-01-16</ApplicationDate>
+<RegistrationNumber>006626931</RegistrationNumber>
+<RegistrationDate>2008-10-07</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>CELLSKIN</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>006626931</ApplicationNumber>
+<ApplicationDate>2008-01-16</ApplicationDate>
+<RegistrationNumber>006626931</RegistrationNumber>
+<RegistrationDate>2008-10-07</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>CELLSKIN</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>497896</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>41917</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

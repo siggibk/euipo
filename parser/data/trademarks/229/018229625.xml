@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-25T07:37:11</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229625</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229625</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>dEYEmond</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162505937</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229625/000162505937.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>17.02.02</CategoryCode>
+          <CategoryCode>27.05.07</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>14</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Диаманти, брилянти; Шлифовани диаманти; Диаманти [необработени]; Бижута с вградини диаманти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Diamanty; Broušené diamanty; Diamanty (surové); Šperky obsahující diamanty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Diamanter; Slebne diamanter; Diamanter [rå]; Juvelerarbejder med diamanter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Diamanten; Geschliffene Diamanten; Diamanten [unbearbeitet]; Mit Diamanten besetzte Juwelier- und Schmuckwaren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διαμάντια· Διαμάντια κοπής (μπριγιάν)· Διαμάντια (ακτέργαστα)· Κοσμήματα με διαμάντια.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Diamonds; Cut diamonds; Diamond [unwrought]; Jewellery incorporating diamonds.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Diamantes; Diamantes tallados; Diamantes [en bruto]; Joyería con diamantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Teemandid; Lihvitud teemandid; Teemandid (töötlemata); Teemante sisaldavad väärisehted.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Timantit; Hiotut timantit; Timantit (käsittelemättömät); Timanttikorut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Diamants; Brillants; Diamant [brut]; Bijoux avec diamants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dijamanti; Brušeni dijamanti; Dijamant [neobrađeni]; Nakit s ugrađenim dijamantima.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyémántok; Csiszolt gyémántok; Gyémánt [nyers]; Gyémántot tartalmazó ékszerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Diamanti; Diamanti tagliati; Diamante [grezzo]; Articoli di gioielleria comprendenti diamanti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Deimantai; Šlifuoti deimantai; Deimantai [neapdoroti]; Papuošalai su inkrustuotais deimantais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dimanti; Slīpēti dimanti; Neapstrādāts dimants; Juvelierizstrādājumi ar dimantiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Djamanti; Djamanti maqtugħa; Djamant [mhux maħdum]; Ġojjellerija li tinkorpora d-djamanti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diamanten; Geslepen diamanten; Diamant [ruw]; Juwelierswaren met diamanten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Diamenty; Oszlifowane diamenty; Diament [nieobrobiony]; Biżuteria z diamentami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Diamantes; Diamantes lapidados; Diamantes [em bruto]; Joalharia com diamantes incorporados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Diamante; Diamante tăiate; Diamant [neprelucrat]; Bijuterii cu diamante.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Diamanty; Brúsené diamanty; Diamanty [surové]; Šperky obsahujúce diamanty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Diamanti; Brušeni diamanti; Diamant [neobdelan]; Nakit z diamanti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Diamanter; Slipade diamanter; Diamanter [obearbetade]; Smycken innehållande diamanter.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/184</PublicationIdentifier>
+        <PublicationSection>C.3.6</PublicationSection>
+        <PublicationDate>2020-09-25</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082715</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

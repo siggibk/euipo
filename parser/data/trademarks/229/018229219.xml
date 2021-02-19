@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-25T14:17:33</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229219</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229219</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>sv</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Artmax</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162455241</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229219/000162455241.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+          <CategoryCode>29.01.04</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Управление на търговски сделки; Търговска администрация; Консултации в областта на търговското управление; Консултантски услуги в областта на човешките ресурси; Секретарски услуги; Бизнес одит.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pomoc při řízení obchodní činnosti; Obchodní administrativa; Poradenství v oblasti řízení obchodní činnosti; Poradenství v oblasti řízení lidských zdrojů; Administrativní služby; Účetnictví.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Forretningsledelse; Forretningsadministration; Rådgivning vedrørende forretningsledelse; Rådgivning vedrørende personaleledelse; Sekretariatsvirksomhed; Regnskabsførelse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Geschäftsführung; Unternehmensverwaltung; Beratung in Fragen der Geschäftsführung; Beratung in Fragen des Personalwesens; Sekretariatsdienstleistungen; Buchführung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διοίκηση επιχειρήσεων· Διαχείριση επιχειρήσεων· Υπηρεσίες συμβούλων διοίκησης επιχειρήσεων· Συμβουλευτική για θέματα διοίκησης προσωπικού· Γραμματείας (Υπηρεσίες -)· Λογιστικός έλεγχος επιχειρήσεων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Business management; Business administration; Business management consultancy; Advice relating to personnel management; Secretarial services; Accounting services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Gestión de negocios comerciales; Administración comercial; Consultoría en dirección de negocios; Consultoría en gestión de personal; Servicios de secretariado; Contabilidad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ärijuhtimine; Ärikorraldus; Ärijuhtimiskonsultatsioonid; Personalijuhtimisalane nõustamine; Sekretäriteenused; Arvepidamine, raamatupidamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Liikkeenjohto; Yrityshallinto; Liikkeenjohdon konsultointi; Henkilöstöhallintakonsultointi; Sihteeripalvelut; Kirjanpito.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Gestion des affaires commerciales; Administration commerciale; Consultation pour la direction des affaires; Consultation pour les questions de personnel; Services de secrétariat; Comptabilité.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Vođenje komercijalnih poslova; Komercijalna administracija; Konzultantske usluge za poslovno upravljanje; Savjetovanje o osoblju; Tajničke usluge; Knjigovodstvo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kereskedelmi ügyletek; Kereskedelmi adminisztráció; Üzletvezetési konzultáció; Konzultáció személyzeti kérdésekben; Titkársági szolgáltatások; Üzleti könyvvizsgálat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Gestione di affari commerciali; Amministrazione commerciale; Consulenza per la gestione degli affari; Consulenza in materia di gestione del personale; Servizi di segreteria; Contabilità.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Verslo vadyba; Verslo tvarkyba; Verslo vadybos konsultacijos; Personalo vadybos konsultacijos; Sekretoriavimas; Buhalterinė apskaita.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Darījumu vadīšana; Uzņēmumu pārvaldīšana; Uzņēmējdarbības vadības konsultāciju pakalpojumi; Konsultāciju sniegšana personālvadībā; Sekretāru pakalpojumi; Rēķinvedības pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Il-ġestjoni ta' negozju; L-amministrazzjoni ta' negozju; Konsulenza dwar il-ġestjoni tan-negozju; Konsulenza dwar il-ġestjoni tal-personàl; Servizzi segretarjali; Il-verifika tan-negozju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Beheer van commerciële zaken; Zakelijke administratie; Advisering inzake bedrijfsvoering; Advisering met betrekking tot personeel; Secretariaat; Boekhouding.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Zarządzanie w działalności gospodarczej; Administrowanie działalności gospodarczej; Doradztwo w zakresie zarządzania biznesem; Doradztwo w zakresie zarządzania personelem; Usługi sekretarskie; Audyt działalności gospodarczej.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Gestão de negócios comerciais; Administração comercial; Consultoria de gestão de negócios comerciais; Consultadoria de gestão de pessoal; Serviços de secretariado; Contabilidade.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Gestiunea afacerilor comerciale; Administraţie comercială; Consultanţă privind managementul afacerilor; Consultanţă în gestiune de personal; Servicii de secretariat; Contabilitate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Obchodný manažment, obchodná správa; Obchodná administratíva; Poradenstvo pri riadení podnikov; Personálne poradenstvo; Sekretárske služby; Účtovníctvo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Vodenje komercialnih poslov; Poslovna administracija; Storitve poslovodnega svetovanja; Svetovanje pri kadrovanju; Tajniške storitve; Poslovno revidiranje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Företagsledning; Företagsadministration; Konsulttjänster avseende management; Konsultationer avseende personaladministration; Sekreterartjänster; Bokföring.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>36</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Финансови анализи; Финансови консултации; Управление на капитали; Инвестиране на капитали; Инвестиране на капитали; Управление на недвижимо имущество; Инвестиции в недвижими имоти (Услуги, свързани с -); Уреждане на отдаване под наем на недвижими имоти; Събиране на наеми; Уреждане на застраховки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Finanční analýza; Finanční poradenství; Finanční řízení; Investování peněžních prostředků; Kapitálové investice; Správa nemovitostí; Investice do nemovitostí; Pronájem nemovitostí; Inkasování nájemného; Zařizování pojištění.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Finansielle analyser; Finansiel rådgivning; Finansiel styring; Investering af pengemidler; Kapitalinvestering; Forvaltning af fast ejendom; Investeringer i fast ejendom; Udlejning af fast ejendom; Lejeopkrævning [husleje]; Organisering af forsikring.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Finanzanalysen; Finanzielle Beratung; Vermögensverwaltung; Anlegen von Kapital für Dritte; Investmentgeschäfte; Immobilienverwaltung; Investieren in Immobilien; Vermittlung der Vermietung von Immobilien; Einziehen von Miet- und Pachterträgen; Vermittlung von Versicherungsverträgen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ανάλυση χρηματοοικονομική· Συμβουλευτική χρηματοοικονομική· Χρηματοοικονομική διαχείριση· Επένδυση κεφαλαίων· Επένδυση κεφαλαίων· Διαχείριση ακινήτων· Επενδύσεις ακινήτων· Οργάνωση μίσθωσης ακινήτων· Είσπραξη ενοικίων· Ρύθμιση ασφαλειών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Financial analysis; Financial consultancy; Financial management; Fund investments; Capital investments; Real estate management; Real estate investment; Leasing of real estate; Rent collection; Arranging of insurance.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Análisis financiero; Consultoría financiera; Gestión financiera; Inversión de fondos; Inversión de capital; Gestión de propiedades (bienes inmuebles); Inversiones inmobiliarias; Elaboración de contratos de alquiler de bienes inmuebles; Cobro de alquileres; Tramitación de seguros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Finants-, rahandusanalüüsid; Finantskonsultatsioonid; Finantsjuhtimine; Fondiinvesteeringud; Kapitalimahutus; Kinnisvara haldamine, juhtimine; Kinnisvarainvesteeringud; Kinnisvara üürimine, rentimine; Üürikogumine, rendikogumine; Kindlustuse korraldamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Rahoitusanalyysit; Rahoituskonsultointi; Varainhoito; Varojen sijoittaminen; Rahastosijoituspalvelut; Omaisuuden (Kiinteistö-) hoito; Kiinteistösijoitukset; Kiinteistöjen vuokraaminen; Vuokranperintä; Vakuutuksien järjestäminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Analyse financière; Consultation en matière financière; Gestion financière; Placements de fonds; Investissement de capitaux; Gestion immobilière; Investissements immobiliers; Établissement de baux immobiliers; Recouvrement de loyers; Organisation d'assurances.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Financijska analiza; Savjetovanje o financijskim pitanjima; Financijsko upravljanje; Ulaganja sredstava; Ulaganja sredstava; Upravljanje imovinom [nekretninama]; Ulaganje u nekretnine; Nekretnine (davanje u zakup nekretnina) [lizing]; Ubiranje najamnine; Osiguranja (Ugovaranje -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Pénzügyi elemzések; Pénzügyi tanácsadás; Pénzügyi menedzsment; Tőkebefektetés, tőkeberuházás; Tőkebefektetés, tőkeberuházás; Ingatlantulajdon-kezelés; Ingatlan befektetések; Ingatlanok bérbeadásával kapcsolatos ügyintézés; Lakbér beszedés; Biztosítási ügyintézés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Analisi finanziaria; Consulenza in materia finanziaria; Amministrazione di patrimoni; Fondi di investimento; Investimento di capitali; Amministrazione di beni immobiliari; Investimenti immobiliari; Leasing di beni immobiliari; Riscossione di affitti; Organizzazione di assicurazioni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Finansų analizė; Finansinės konsultacijos; Finansinės veiklos vadyba; Lėšų investavimas; Kapitalo investavimas; Nekilnojamojo turto valdymas; Investicijų į nekilnojamąjį turtą paslaugos; Nekilnojamojo turto nuoma; Nuompinigių rinkimas; Draudimo rengimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Finanšu analīze; Finanšu konsultācijas; Finanšu pārvaldīšana; Līdzekļu ieguldīšana fondos; Kapitālieguldījumu pakalpojumi; Īpašuma (nekustamā īpašuma) pārvaldība; Investīcijas nekustamajā īpašumā; Nekustamā īpašuma nomas kārtošana; Nomas un īres maksas iekasēšana; Apdrošināšanas organizēšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Analiżi (Finanzjarja); Konsulenza finanzjarja; Ġestjoni tal-finanzi; Investiment ta' fondi; Investimenti kapitali; Ġestjoni ta' proprjetà (proprjetà immobbli); Investimenti fi proprjetà immobbli; Arranġament ta' kiri ta' proprjetà immobbli; Il-ġbir tal-kera; Arranġamenti ta' assigurazzjoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Financiële analyse; Advisering op financieel gebied; Financieel beheer; Investeren van fondsen; Kapitaalbelegging; Beheer van onroerende goederen; Investeringen in onroerende goederen; Verpachting van onroerende goederen; Incasso van huurgelden; Het afsluiten van verzekeringen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Analizy finansowe; Doradztwo w sprawach finansowych; Zarządzanie finansami; Inwestycje finansowe; Inwestycje kapitałowe; Zarządzanie nieruchomością; Inwestycje majątkowe [nieruchomości]; Organizowanie wynajmu nieruchomości; Pobieranie czynszu; Organizowanie ubezpieczenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Análise financeira; Consultadoria financeira; Administração financeira; Investimentos de fundos; Investimento de capitais; Gestão de propriedades [serviços prestados por imobiliárias]; Investimento imobiliário; Arrendamento de bens imobiliários; Cobrança de rendas; Organização de seguros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Analiză financiară; Consultaţii în domeniul financiar; Management financiar; Investirea fondurilor; Investiţii de capital; Gestionarea proprietăţilor (imobiliare); Investiţii imobiliare; Intermediere pentru închirierea de proprietăţi imobiliare; Colectarea chiriilor; Servicii de încheiere de asigurări.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Finančné analýzy; Finančné poradenstvo; Finančné riadenie; Investovanie do fondov; Kapitálové investície; Správa nehnuteľností; Investovanie v oblasti nehnuteľností; Prenájom nehnuteľností; Vyberanie nájomného; Zariadenie poistky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Finančna analiza; Finančno svetovanje; Finančno upravljanje; Investiranje sredstev; Finančne naložbe; Upravljanje lastnine (nepremičnine); Nepremičninske investicije; Urejanje najema nepremičnin; Pobiranje najemnin; Urejanje zavarovanja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Finansiella analyser; Finansiella konsultationer; Finansiell förvaltning; Fondinvesteringstjänster; Investering av kapital; Investeringstjänster avseende fastigheter; Utarrendering av egendom; Inkassering av hyror; Försäkringsförmedling; Fastighetsförvaltning.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/081</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-30</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/150</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/160</PublicationIdentifier>
+        <PublicationSection>C.2.4</PublicationSection>
+        <PublicationDate>2020-08-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1081916</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018368624</RecordIdentifier>
+<BasicRecordKind>Representative - Deletion of the representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>17662</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-08-25</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-28T12:49:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229053</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229053</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-25</RegistrationDate>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ELEMENZ</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Софтуер; Софтуерни платформи,.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Počítačový software; Software pro platformové hry.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Software; Software til platformspil.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Software; Plattform-Software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λογισμικό· Λογισμικό με πλατφόρμα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Software; platform software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Software; Software de juegos de plataforma.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Arvutitarkvara; Platvormitarkvara.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ohjelmistot; Ohjelmistot ohjelmistoympäristöjä varten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Logiciel; Logiciel de plate-forme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Softver; Softver za platformske igre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szoftverek; Platfom szoftver.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Software; Software per piattaforme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Programinė įranga; Programoms skirta programinė įranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Programmatūra; Platformas programmatūra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Softwer; Softwer tal-pjattaformi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Software; platform software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oprogramowanie; Oprogramowanie gier platformowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Software; Software de plataformas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Software; Platforme software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Softvér; Herný softvér v podobe tzv. plošinových skákačiek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Programska oprema; Programska oprema za ploščadne igre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Mjukvaror; Plattformsprogramvara.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Софтуер като услуги; SaaS включващ софтуерни платформи.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Software jako služba [SaaS]; SaaS zaměřené na softwarové platformy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Software as a service [saas]; SaaS med computersoftwareplatforme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Software as a Service [SaaS]; Software as a Service [SaaS] mit Softwareplattformen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λογισμικό σαν υπηρεσία· Υπηρεσίες λογισμικού ως υπηρεσίας με πλατφόρμες λογισμικού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Software as a service [SaaS]; SaaS featuring software platforms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Software como servicio [SaaS]; SaaS con plataformas de software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Pilveteenused [SaaS]; Tarkvaraplatvormidega teenustarkvara.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Verkkosovelluspalvelut [SaaS]; SaaS ohjelmistoympäristöjen alalla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Logiciel-service [SaaS]; SaaS proposant des plates-formes logicielles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Softver kao usluga [SaaS]; Softver kao usluga (SaaS) sa softverskim platformama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szoftver mint szolgáltatás [SaaS]; SaaS szoftverplatformokkal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di software [SaaS]; SaaS con piattaforme di software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Programinė įranga kaip paslauga [SaaS]; „SaaS“ su programinės įrangos platformomis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Programmatūra kā pakalpojums [SaaS]; Programmatūra kā pakalpojums [SaaS], ietverot programmatūras platformas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Softwer bħala servizz [SaaS]; Softwer bħala servizz (SaaS) li jinkludi pjattaforma ta' softwer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Software als een dienst [SaaS]; SaaS met software voor platforms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oprogramowanie jako usługa [SaaS]; Oprogramowanie jako usługa (SaaS) obejmujące platformy oprogramowania.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Software como serviço [SaaS]; Serviços SaaS que disponibilizam plataformas de software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Software ca serviciu [SaaS]; SAAS care oferă platforme cu software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poskytovanie softvéru prostredníctvom internetu (SaaS); Softvér ako služba (SaaS) zahŕňajúca softvérové platformy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Programska oprema kot storitev [SaaS]; SaaS s platformami programske opreme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Molntjänster [SaaS]; SaaS (programvara som en tjänst) med programvaruplattformar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/092</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-18</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/163</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1071165</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>43472</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

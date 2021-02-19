@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:05</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228505</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228505</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>CANCELLO AEROSPAZIALE</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162456785</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/228/018228505/000162456785.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.04.04</CategoryCode>
+          <CategoryCode>26.04.05</CategoryCode>
+          <CategoryCode>26.04.19</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>19</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Охранителни порти, не от метал.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Bezpečnostní nekovové brány.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Sikkerhedslåger, ikke af metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Sicherheitstore, nicht aus Metall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Πύλες ασφαλείας, μη μεταλλικές.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Security gates, not of metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Portones de seguridad, no metálicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Turvaväravad, v.a metallist.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Turvaportit, muut kuin metalliset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Portails de sécurité non métalliques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Sigurnosna vrata, nemetalna.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Nem fémből készült biztonsági kapuk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cancelli di sicurezza, non metallici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Nemetaliniai apsauginiai vartai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Nemetāliski drošības vārti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Gradi ta’ sigurtà, mhux tal-metall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Veiligheidspoorten, niet van metaal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Bramy bezpieczeństwa, nie z metalu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Portões de segurança não metálicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Porți de securitate, nu din metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nekovové bezpečnostné brány.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Varnostna vrata, ne iz kovine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Säkerhetsgrindar, inte av metall.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1081964</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

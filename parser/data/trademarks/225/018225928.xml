@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T17:01:16</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225928</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225928</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>WHEAT</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162306330</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/225/018225928/000162306330.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>05.07.02</CategoryCode>
+          <CategoryCode>24.03.07</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>7</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Центробежни помпи; Вакуумни помпи [машини]; Помпи [машини]; Хидравлични помпи; Клапани [части на машини]; Машини, работещи със сгъстен въздух; Машини, работещи със сгъстен въздух; Помпи, работещи със сгъстен въздух; Аериращи помпи за аквариуми; Контролни клапи за помпи.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Odstředivá čerpadla; Sací čerpadla [stroje]; Čerpadla [stroje]; Hydraulická čerpadla; Ventily [součásti strojů]; Kompresory [stroje]; Stroje na stlačený vzduch; Čerpadla na stlačený vzduch; Provzdušňovací čerpadla do akvárií; Regulační ventily čerpadel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Centrifugalpumper; Vakuumpumper [maskiner]; Pumper [maskiner]; Hydrauliske pumper; Maskinventiler; Kompressorer [maskiner]; Trykluftdrevne maskiner; Trykluftpumper; Luftpumper til akvarier; Reguleringsventiler til pumper.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Zentrifugalpumpen; Vakuumpumpen [Maschinen]; Pumpen [Maschinen]; Hydraulikpumpen; Schieber [Maschinenteile]; Kompressoren [Maschinen]; Druckluftmaschinen; Druckluftpumpen; Belüftungspumpen für Aquarien; Steuerventile für Pumpen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φυγοκεντρικές αντλίες· Αντλίες (κενού) [μηχανές]· Αντλίες [μηχανές]· Υδραυλικές αντλίες· Βαλβίδες [μέρη μηχανών]· Αέρα συμπιεσμένου (Μηχανές -)· Αέρα συμπιεσμένου (Μηχανές -)· Αέρα πεπιεσμένου (Αντλίες -)· Αντλίες εξαερισμού για ενυδρεία· Βαλβίδες ελέγχου αντλιών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Centrifugal pumps; vacuum pumps [machines]; pumps [machines]; hydraulic pumps; valves [parts of machines]; compressors [machines]; compressed air machines; compressed air pumps; aerating pumps for aquaria; pump control valves.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bombas centrífugas; Bombas de vacío [máquinas]; Bombas [máquinas]; Bombas hidráulicas; Válvulas [partes de máquinas]; Compresoras [máquinas]; Máquinas de aire comprimido; Bombas de aire comprimido; Bombas de aireación para acuarios; Válvulas de control de bombas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Tsentrifugaalpumbad; Vaakumpumbad [masinad]; Pumbad [masinad]; Hüdraulilised pumbad; Sulgeklapid, ventiilid [masinaosad]; Kompressorid [masinad]; Suruõhumasinad, pneumomasinad; Suruõhupumbad, pneumopumbad; Akvaariumi õhutuspumbad; Pumbajuhtventiilid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Keskipakopumput; Pumput (tyhjö -) [koneina]; Pumput [koneina]; Hydrauliset pumput; Venttiilit [koneiden osina]; Paineilmakoneet; Paineilmakoneet; Paineilmapumput; Akvaarioiden ilmastuspumput; Pumppujen ohjausventtiilit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Pompes centrifuges; Pompes à vide [machines]; Pompes [machines]; Pompes hydrauliques; Soupapes [parties de machines]; Compresseurs [machines]; Machines à air comprimé; Pompes à air comprimé; Pompes d'aération pour aquariums; Vannes de contrôle pour pompes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Centrifugalne crpke; Vakuumske pumpe [strojevi]; Pumpe [strojevi]; Hidraulične pumpe; Ventili kao dijelovi strojeva; Strojevi na komprimirani zrak; Strojevi na komprimirani zrak; Zračne crpke; Crpke za provjetravanje akvarija; Ventili za kontroliranje pumpi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Centrifugál szivattyúk; Vákuumszivattyúk [gépek]; Szivattyúk [gépek]; Hidraulikus szivattyúk; Szelepek [géprészek]; Sűrített levegős gépek; Sűrített levegős gépek; Sűrített levegős szivattyúk; Légpumpák akváriumokba; Szivattyúszabályozó szelepek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pompe centrifughe; Pompe per vuoto [macchine]; Pompe [macchine]; Pompe idrauliche; Valvole [parti di macchine]; Compressori [macchine]; Macchine ad aria compressa; Pompe ad aria compressa; Pompe d'aerazione per acquari; Valvole di controllo per pompe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Išcentriniai siurbliai; Vakuuminiai siurbliai [mašinos]; Siurbliai [mašinos]; Hidrauliniai siurbliai; Vožtuvai [mašinų dalys]; Kompresoriai [mašinos]; Pneumatinės mašinos; Pneumatiniai siurbliai; Akvariumų aeraciniai siurbliai; Siurblių valdymo vožtuvai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Centrbēdzes sūkņi; Vakuumsūkņi (mašīnas); Sūkņi (mašīnu daļas); Hidrauliskie sūkņi; Vārsti (mašīnu daļas); Kompresori (mašīnas); Saspiesta gaisa padeves iekārtas; Saspiesta gaisa sūkņi; Gaisa sūkņi akvārijiem; Sūkņu kontrolvārsti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Pompi ċentrifugi; Pompi tal-vakwu (magni); Pompi [magni]; Pompi idrawliċi; Valvoli [partijiet ta' magni]; Kumpressuri [magni]; Kumpressuri [magni]; Pompi tal-arja kompressata; Pompi ta' ventilazzjoni għal akkwarji; Valvoli għall-kontroll tal-pompi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Centrifugaalpompen; Vacuümpompen [machines]; Pompen [machines]; Hydraulische pompen; Kleppen [machine-onderdelen]; Compressoren [machines]; Luchtdrukmachines; Luchtdrukpompen; Beluchtingspompen voor aquaria; Regelkleppen voor pompen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Pompy odśrodkowe; Pompy próżniowe [maszyny]; Pompy [maszyny]; Pompy hydrauliczne; Zawory [części maszyn]; Maszyny na sprężone powietrze; Maszyny na sprężone powietrze; Pompy na sprężone powietrze; Pompki napowietrzające do akwariów; Zawory sterujące do pomp.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bombas centrífugas; Bombas de vácuo [máquinas]; Bombas [máquinas]; Bombas hidráulicas; Válvulas [partes de máquinas]; Compressoras [máquinas]; Máquinas de ar comprimido; Bombas de ar comprimido; Bombas de aeração para aquários; Válvulas de controlo de bombas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Pompe centrifuge; Pompe de vid [mașini]; Pompe [mașini]; Pompe hidraulice; Vane [organe de mașini]; Compresoare [mașini]; Compresoare [mașini]; Pompe de aer comprimat; Pompe de aerare pentru acvarii; Valve de control pentru pompe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Odstredivé čerpadlá; Vývevy (stroje); Čerpadlá, pumpy (stroje); Hydraulické čerpadlá; Ventily (časti strojov); Kompresory; Kompresory (stroje); Čerpadlá na stlačený vzduch; Prevzdušňovacie čerpadlá do akvárií; Regulačné ventily pre čerpadlá.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Centrifugalne črpalke; Vakuumske črpalke [stroji]; Črpalke [stroji]; Hidravlične črpalke; Ventili [deli strojev]; Stroji na stisnjen zrak; Stroji na stisnjen zrak; Črpalke na stisnjen zrak; Prezračevalne črpalke za akvarij; Kontrolni ventili za črpalko.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Centrifugalpumpar; Vakuumpumpar [maskiner]; Pumpar [maskiner]; Hydrauliska pumpar; Ventiler [maskindelar]; Kompressorer [maskiner]; Tryckluftsmaskiner; Tryckluftspumpar; Luftningspumpar för akvarier; Pumpreglerventiler.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080338</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15039</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017950422</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15039</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-05-27</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

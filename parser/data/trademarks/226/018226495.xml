@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-24T08:18:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226495</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226495</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-09-22</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-24</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>PRIVACY GLASS SOLUTIONS POWERED BY VISTAMATIC</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162310464</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226495/000162310464.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>24.17.25</CategoryCode>
+          <CategoryCode>25.07.21</CategoryCode>
+          <CategoryCode>26.01.98</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>6</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Прозорци и врати от метал; Външни щори от метал; Външни щори за врати и прозорци от метал.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kovová okna a dveře; Kovové venkovní rolety; Venkovní kovové dveřní a okenní rolety.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Vinduer og døre af metal; Udvendige skodder af metal; Metalpersienner til udendørs brug til døre og vinduer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Metallfenster und -türen; Außenrollläden aus Metall; Außenjalousien aus Metall für Türen und Fenster.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μεταλλικά παράθυρα και θύρες· Στόρια εξωτερικά μεταλλικά· Μεταλλικά ρολά θυρών και παραθύρων για εξωτερικούς χώρους.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Metallic windows and doors; metal exterior blinds; exterior door and window blinds of metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Ventanas y puertas metálicas; Persianas de exterior metálicas; Persianas metálicas de puertas y ventanas exteriores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Metallist aknad ja uksed; Välisrulood, -katted (metallist); Metallist välised ukse- ja aknarulood.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Metalliset ikkunat ja ovet; Ulkokaihtimet, metalliset; Metallikaihtimet ulko-oviin ja ikkunoihin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Fenêtres et portes métalliques; Stores d'extérieur métalliques; Stores d'extérieur métalliques pour portes et fenêtres.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Metalni prozori i vrata; Vanjske metalne zavjese; Metalne rolete za vrata i prozore.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fémablakok és -ajtók; Kültéri zsaluk, rolók fémből; Kültéri ajtó- és ablakredőnyök fémből.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Finestre e porte metalliche; Tende per l'esterno in metallo; Porte esterne e persiane di metallo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Metaliniai langai ir durys; Metalinės lauko langinės; Metalinės lauko durų ir langų žaliuzės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Logi un durvis no metāla; Āra žalūzijas no metāla; Metāla ārējo durvju un logu žalūzijas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Twieqi u bibien metalliċi; Persjani tal-metall għal fuq barra; Blajnds tal-metall għal bibien u twieqi ta' barra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Metalen vensters en deuren; Zonweringen van metaal, voor gebruik buitenshuis; Metalen buitenzonneschermen voor deuren en ramen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Metalowe okna i drzwi; Rolety zewnętrzne metalowe; Zewnętrzne żaluzje z metalu do drzwi i okien.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Janelas e portas metálicas; Estores de exterior metálicos; Estores exteriores para portas e janelas em metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Ferestre şi uşi metalice; Storuri metalice de exterior; Jaluzele metalice de exterior pentru uși și ferestre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kovové okná a dvere; Kovové vonkajšie rolety; Vonkajšie dverové a okenné žalúzie z kovu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kovinska okna in vrata; Zunanje kovinske žaluzije; Zunanje kovinske žaluzije za vrata in okna.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Fönster och dörrar [av metall]; Markiser av metall för utomhusbruk; Utomhusdörr- och fönsterjalusier av metall.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>19</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Неметални панели за наблюдение и проверка, съставени от стъкло, прозрачна пластмаса, включваща стъклена щора; Вътрешни стъклени щори; Стъклени щори за прозорци; Стъкло за строителство; Немтални прозорци и врати.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nekovové pozorovací a kontrolní panely sestávající ze skla, průsvitného plastu obsahujícího skleněné rolety; Vnitřní skleněné rolety; Skleněné okenní rolety; Stavební sklo; Okna a dveře, nekovové.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Paneler, ikke af metal, af glas eller klar plastic med glasskodde til observation og inspektion; Glasskodder til indendørs brug; Vinduesskodder af glas; Glas til bygningsbrug; Vinduer og døre (ikke af metal).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Beobachtungs- und Inspektionstafeln, nicht aus Metall, aus Glas, durchsichtigem Kunststoff mit integrierten Glasjalousien; Innenglasjalousien; Glasfensterjalousien; Bauglas; Fenster und Türen, nicht aus Metall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μη μεταλλικά ανοίγματα παρατήρησης και επιθεώρησης από γυαλί, διαφανές πλαστικό με ενσωματωμένο γυάλινο παραθυρόφυλλο· Εσωτερικά γυάλινα παραθυρόφυλλα· Γυάλινα παραθυρόφυλλα· Οικοδομική ύαλος, υαλοπίνακες· Μη μεταλλικές πόρτες και παράθυρα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Non-metal observation and inspection panels comprised of glass, clear plastic incorporating a glass shutter; interior glass shutters; glass window shutters; building glass; non-metallic windows and doors.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Paneles de observación e inspección no metálicos hechos de cristal, plástico transparente que incorpora una contraventana de cristal; Contraventanas interiores de cristal; Contraventanas de cristal; Vidrio de construcción; Ventanas y puertas no metálicas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mittemetallist vaatlus- ja kontrollpaneelid, mis koosnevad klaasist, klaasluugiga läbipaistvast plastikust; Seesmised klaasluugid; Klaasist aknaluugid; Ehitusklaas; Aknad ja uksed, muust kui metallist.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Muut kuin metalliset tarkkailu- ja tarkastuspaneelit, jotka koostuvat lasista tai läpinäkyvästä muovista ja jotka on varustettu lasiluukulla; Sisätiloihin tarkoitetut lasiluukut; Lasiset ikkunaluukut; Rakennuslasi; Ikkunat ja ovet, ei-metalliset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Panneaux non métalliques d'observation et d'inspection composés de verre, matière plastique transparente comprenant un volet en verre; Volets d'intérieur en verre; Volets en verre pour fenêtres; Verre de construction; Fenêtres et portes non métalliques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Nemetalni paneli za promatranje i inspekciju koji se sastoje od stakla, prozirne plastike s ugrađenim staklenim kapkom; Unutarnji stakleni kapci; Stakleni prozorski kapci; Građevinsko staklo; Prozori i vrata (ne od metala).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Nem fém megfigyelő és ellenőrző panelek üvegből, átlátszó műanyagból, beépített üveg redőnyökkel; Beltéri üveg redőnyök; Üveg ablakredőnyök; Építési üveg; Nem fémből készült ablakok és ajtók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pannelli di osservazione e ispezione non metallici composti da vetro, plastica trasparente che includono una serranda in vetro; Serrande interne in vetro; Serrande per finestre in vetro; Vetri da costruzione; Finestre e porte non metalliche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Nemetaliniai stebėjimo ir tikrinimo skydai, sudaryti iš stiklo, skaidraus plastiko su stiklo langine; Vidaus stiklinės langinės; Stiklinės langinės; Statybinis stiklas; Nemetaliniai langai ir durys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Nemetāla novērošanas un pārbaudes paneļi, kas sastāv no stikla, caurspīdīgas plastmasas ar stikla slēģiem; Stikla iekšējie slēģi; Stikla logu slēģi; Celtniecības stikls; Logi un durvis, kas nav no metāla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Pannelli tal-osservazzjoni u l-ispezzjoni mhux tal-metall magħmulin minn ħġieġ, plastik ċar li fih xater tal-ħġieġ; Xaters tal-ħġieġ interni; Xaters tat-twieqi tal-ħġieġ; Ħġieġ għall-bini; Twieqi u bibien, mhux tal-metall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Observatie- en inspectiepanelen, niet van metaal, bestaande uit glas, helder plastic met een glazen luik; Glasschermen voor binnenshuis; Glasschermen voor ramen; Glas voor bouwdoeleinden; Vensters en deuren, niet van metaal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Niemetalowe panele obserwacyjne i kontrolne składające się ze szkła, przezroczystego tworzywa sztucznego, posiadające szklaną przesłonę; Szklane okiennice wewnętrzne; Okiennice szklane; Szkło budowlane; Okna i drzwi, niemetalowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Painéis de observação e inspeção não metálicos constituídos por vidro ou plástico transparente com um postigo de vidro incorporado; Persianas de interior em vidro; Persianas em vidro para janelas; Vidro para construção; Janelas e portas não metálicas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Panouri de observare și inspecție nemetalice, din sticlă, plastic transparent cu jaluzea de sticlă incorporată; Jaluzele din sticlă pentru interior; Jaluzele din sticlă pentru geamuri; Sticlă de construcţii; Ferestre si usi nemetalice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nekovové panely na pozorovanie a kontrolu, pozostávajúce zo skla, priehľadného plastu so skleneným priezorom; Vnútorné okenné žalúzie; Okenné žalúzie; Stavebné sklo; Okná a dvere, nie z kovu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Nekovinske opazovalne in pregledovalne plošče, ki vsebujejo steklo, prozorno umetno snov z vključenim steklenim pokrovom; Notranja steklena zapirala; Steklena okenska zapirala; Stavbno steklo; Nekovinska okna in vrata.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Observations- och inspektionspaneler bestående av glas, klar plast som innehåller en glaslucka; Invändiga glasluckor; Glasluckor; Byggnadsglas; Fönster och dörrar, ej av metall.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Вътрешни щори [мебелировка]; Хоризонтални венециански щори.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vnitřní okenice [nábytek]; Horizontální žaluzie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Rullegardiner til indendørs brug [møbler]; Horisontale persienner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Innenjalousien für Fenster [Einrichtungsgegenstände]; Horizontale Lamellenjalousien.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Στόρια εσωτερικά και παντζούρια εσωτερικά για παράθυρα [επίπλωση]· Οριζόντιες περσίδες βενετικού τύπου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Indoor blinds; horizontal venetian blinds.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Persianas de interior para ventanas [mobiliario]; Persianas venecianas horizontales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Aknarulood siseruumides kasutamiseks [mööbel]; Rõhtsad ribakardinad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kaihtimet sisäikkunaan [kalustus]; Vaakasälekaihtimet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Stores d'intérieur pour fenêtres [mobilier]; Stores vénitiens horizontaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Unutarnja sjenila za prozore [pokućstvo]; Horizontalne žaluzin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Beltéri árnyékolók [bútorok]; Vízszintes reluxák.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tendine interne per finestre [tendine] [mobili]; Veneziane orizzontali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vidinės nuleidžiamosios aklinos užuolaidos [baldai]; Horizontaliosios pakeliamosios žaliuzės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Iekštelpu logu žalūzijas (mēbeles); Horizontālās žalūzijas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ilqugħ tad-dawl (għat-twieqi minn ġewwa) [għamara]; Venetian blinds orizzontali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Zonwering voor binnenshuis [meubilair]; Horizontale jaloezieën.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Rolety wewnętrzne okienne; Żaluzje weneckie poziome.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Estores de interior para janelas [mobiliário]; Estores venezianos horizontais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Storuri de interior pentru ferestre [mobilier]; Jaluzele veneţiene orizontale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Rolety (okenné interiérové -) [nábytkové vybavenie]; Vodorovné žalúzie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Notranje okenske rolete (pohištvo); Vodoravne žaluzije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Rullgardiner/persienner för inomhusbruk [möbler]; Horisontella fönsterpersienner.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>21</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Обикновено стъкло.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Běžné tabulové sklo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Almindeligt planglas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Normales Tafelglas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φύλλα κοινής υάλου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Common sheet glass.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Vidrio laminado.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Üldine tahvelklaas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tavallinen ikkunalasi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Verre à vitre standard.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Obično staklo u pločama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Közönséges síküveg.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Vetro comune in lastre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Įprastas lakštinis stiklas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Parastais lokšņu stikls.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Folji ta' ħġieġ komuni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Gewoon platglas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Szkło walcowane [okienne].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vidro laminado comum.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Sticlă sub formă de placă obişnuită.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Bežné tabuľové sklo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Navadne steklene plošče.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Vanliga glasrutor.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>40</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Производство по поръчка за трети страни на метални прозорци и врати, метални външни щори, външни щори от метал за врати и прозорци, неметални панели за наблюдение и проверка, състоящи се от стъкло, прозрачна пластмаса, включваща стъклена щора и вътрешни стъклени щори, стъклени щори, строително стъкло, неметални прозорци и врати, вътрешни щори, хоризонтални венециански щори, обикновени листови стъклени и хоризонтални венециански щори.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zakázková výroba kovových oken a dveří pro druhé, kovových venkovních žaluzií, venkovních kovových dveřních a okenních žaluzií, nekovových pozorovacích a kontrolních panelů ze skla, průsvitného plastu obsahujícího skleněné rolety a vnitřních skleněných rolet, skleněných okenních rolet, stavebního skla, nekovových oken a dveří, interiérových žaluzií, horizontálních žaluzií, horizontálních žaluzií z běžného tabulového skla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Specialfremstilling for tredjepart af vinduer og døre af metal, persienner af metal til udendørs brug, yderdøre og vinduesskodder af metal, paneler, ikke af metal, af glas eller klar plastic med glasskodde til observation og inspektion og glasskodder til indendørs brug, vinduesskodder af glas, bygningsglas, vinduer og døre (ikke af metal), indendørs persienner, horisontale persienner, almindeligt planglas og horisontale persienner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Spezialanfertigung von Fenstern und Türen aus Metall, Außenjalousien aus Metall, Außenjalousien aus Metall für Türen und Fenster, Beobachtungs- und Inspektionstafeln, nicht aus Metall, aus Glas, durchsichtigem Kunststoff mit integrierten Glasjalousien sowie Innenglasjalousien, Glasfensterjalousien, Bauglas, Fenstern und Türen, nicht aus Metall, Innenjalousien, Lamellenjalousien, Scheibenglas und Lamellenjalousien für Dritte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κατά παραγγελία κατασκευή για λογαριασμό τρίτων σε σχέση με μεταλλικά παράθυρα και θύρες, μεταλλικά εξωτερικά στόρια, μεταλλικά ρολά θυρών και παραθύρων για εξωτερικούς χώρους, μη μεταλλικά ανοίγματα παρατήρησης και επιθεώρησης από γυαλί, διαφανές πλαστικό με ενσωματωμένο γυάλινο παραθυρόφυλλο, εσωτερικά γυάλινα παραθυρόφυλλα, γυάλινα παραθυρόφυλλα, οικοδομική ύαλος, υαλοπίνακες, μη μεταλλικά παράθυρα και θύρες, παραπετάσματα (στόρια) εσωτερικού χώρου, οριζόντιες περσίδες βενετικού τύπου, φύλλα κοινής υάλου και οριζόντιες περσίδες βενετικού τύπου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Custom manufacture for others of metallic windows and doors, metal exterior blinds, exterior door and window blinds of metal, non-metal observation and inspection panels comprised of glass, clear plastic incorporating a glass shutter and interior glass shutters, glass window shutters, building glass, non-metallic windows and doors, indoor blinds, horizontal venetian blinds, common sheet glass and horizontal venetian blinds.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Fabricación a medida de puertas y ventanas metálicas, persianas exteriores metálicas, persianas metálicas de puertas y ventanas exteriores, paneles de observación e inspección no metálicos hechos de cristal, plástico transparente que incorpora una contraventana de cristal y contraventanas interiores de cristal, contraventanas de cristal, vidrio de construcción, puertas y ventanas no metálicas, persianas interiores, persianas venecianas horizontales, vidrio laminado y persianas venecianas horizontales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Metallakende ja -uste, metallist välisruloode, uste ja akende metallist välisruloode, klaasist, klaasluugiga läbipaistvast plastikust ja sisemistest klaasluukidest koosnevate mittemetallist vaatlus- ja kontrollpaneelide, klaasist aknaluukide, ehitusklaasi, mittemetallist akende ja uste, siseruloode, horisontaalsete ribikardinate, tavalise lehtklaasi ja horisontaalsete ribikardinate tellimustootmine teiste jaoks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Seuraavien tilausvalmistus muille: metalli-ikkunat ja -ovet, metalliset ulkokaihtimet, metallikaihtimet ulko-oviin ja ikkunoihin, muut kuin metalliset tarkkailu- ja tarkastuspaneelit, jotka koostuvat lasista tai läpinäkyvästä muovista ja jotka on varustettu lasiluukulla sekä sisätiloihin tarkoitetut lasiluukut, lasiset ikkunaluukut, rakennuslasi, muut kuin metalliset ikkunat ja ovet, sisäkaihtimet, vaakasälekaihtimet, tavallinen ikkunalasi ja vaakasälekaihtimet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Fabrication sur commande pour le compte de tiers de fenêtres et portes métalliques, stores d'extérieur métalliques, stores d'extérieur métalliques pour portes et fenêtres, panneaux non métalliques d'observation et d'inspection composés de verre, matière plastique transparente comprenant un volet en verre et volets d'intérieur en verre, volets en verre pour fenêtres, verre de construction, fenêtres et portes non métalliques, stores d'intérieur, stores vénitiens horizontaux, verre en feuilles commun et stores vénitiens horizontaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Proizvodnja po mjeri za druge metalnih prozora i vrata, metalnih roleta, metalnih roleta za vrata i prozore, nemetalnih panela za promatranje i inspekciju koji se sastoje od stakla, prozirne plastike s ugrađenim staklenim kapkom i unutarnjim staklenim kapkom, staklenih prozorskih kapaka, građevinskog stakla, nemetalnih prozora i vrata, unutarnjih sjenila, horizontalnih žaluzina, običnog stakla u pločama i horizontalnih žaluzina.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fém ablakok és ajtók, fém kültéri redőnyök, fém kültéri ajtó- és ablakredőnyök, nem fém megfigyelő és ellenőrző panelek üvegből, átlátszó műanyag üveg redőnnyel és beltéri üveg redőnnyel, üveg ablakredőnyök, építési üveg, nem fém ablakok és ajtók, beltéri redőnyök, vízszintes redőnyök, közönséges üveglapok és vízszintes redőnyök.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Produzione su misura per conto terzi di finestre e porte metalliche, tende esterne in metallo, tende esterne per porte e finestre in metallo, pannelli di osservazione e ispezione non metallici costituiti da vetro, plastica trasparente che includono una serranda in vetro e serrande interne in vetro, serrande per finestre in vetro, vetro da costruzione, porte e finestre non metalliche, tende da interno, veneziane orizzontali, lastre di vetro comuni e veneziane orizzontali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Gamyba pagal užsakymą kitiems tokių prekių kaip metaliniai langai ir durys, metalinės išorinės žaliuzės, išorinės durų ir langų žaliuzės iš metalo, nemetalinės stebėjimo ir apžiūros plokštės iš stiklo, skaidraus plastiko su stiklo langinėmis ir vidinės stiklo langinės, stiklinės langinės, statybinis stiklas, nemetaliniai langai ir durys, vidinės žaliuzės, horizontalios žaliuzės, paprastas lakštinis stiklas ir horizontalios žaliuzės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Metāla logu un durvju, metāla ārējo žalūziju, ārējo durvju un logu žalūzijas no metāla, nemetāla novērošanas un pārbaudes paneļi, kas izgatavoti no stikla, tīras plastmasas, kas ietver stikla slēģus un iekšējos stikla slēģus, stikla logu slēģus, būvniecības stiklu, nemetāla logus un durvis, iekšējos slēģus, horizontālās Venēcijas stila žalūzijas, vienkāršu lokšņu stiklu un horizontālās Venēcijas stila žalūzijas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Manifattura ppersonalizzata għal oħrajn ta' twieqi u bibien metalliċi, blajnds tal-metall għal barra, blajnds tal-metall għal bibien u twieqi ta' barra, pannelli tal-osservazzjoni u l-ispezzjoni mhux tal-metall magħmulin minn ħġieġ, plastik ċar li fih xater tal-ħġieġ u xaters tal-ħġieġ fuq ġewwa, xaters tat-twieqi tal-ħġieġ, ħġieġ għall-bini, twieqi u bibien mhux metalliċi, blajnds għal ġewwa, blajnds Venezjani orizzontali, blajnds Venezjani orizzontali ta' folja komuni tal-ħġieġ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Klantspecifieke fabricage voor derden van metalen ramen en deuren, metalen buitenzonneschermen, buitenzonneschermen van metaal voor deuren en ramen, observatie- en inspectiepanelen, niet van metaal, bestaande uit glas, helder plastic met een glazen luik en glasschermen voor binnenshuis, glasschermen voor ramen, glas voor bouwdoeleinden, niet-metalen ramen en deuren, zonneschermen voor binnenhuis, horizontale jaloezieën, gewoon vlak glas en horizontale jaloezieën.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Produkcja na zamówienie dla innych osób towarów, takich jak metalowe okna i drzwi, metalowe żaluzje zewnętrzne, zewnętrzne żaluzje z metalu do drzwi i okien, niemetalowe panele obserwacyjne i kontrolne składające się ze szkła, przezroczystego tworzywa sztucznego i posiadające szklaną przesłonę oraz szklane okiennice wewnętrzne, okiennice szklane, szkło budowlane, niemetalowe okna i drzwi, żaluzje wewnętrzne, żaluzje weneckie poziome, szyby i żaluzje weneckie poziome.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Fabrico por encomenda, para terceiros, de janelas e portas metálicas, estores exteriores em metal, estores exteriores para portas e janelas em metal, painéis de observação e inspeção não metálicos constituídos por vidro ou plástico transparente com um postigo de vidro incorporado, persianas de interior em vidro, persianas em vidro para janelas, vidro de construção, janelas e portas não metálicas, estores de interior, estores venezianos horizontais e vidro laminado comum.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Fabricarea la comandă, pentru alte persoane, de geamuri și uși metalice, jaluzele de exterior metalice, jaluzele metalice de exterior pentru uși și ferestre, panouri de observare și inspecție nemetalice, din sticlă, plastic transparent cu jaluzea de sticlă incorporată și jaluzele din sticlă pentru interior, jaluzele din sticlă pentru geamuri, sticlă pentru construcții, geamuri și uși nemetalice, jaluzele din interior, jaluzele orizontale venețiene, sticlă din placă obișnuită și jaluzele orizontale venețiene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zákazková výroba pre zákazníkov so zameraním na kovové okná a dvere, kovové vonkajšie žalúzie, vonkajšie dverové a okenné žalúzie, nekovové panely na pozorovanie a kontrolu, pozostávajúce zo skla, priehľadného plastu so skleným priezorom a vnútorné okenné žalúzie, okenné žalúzie, stavebné sklo, nekovové okná a dvere, vnútorné rolety, vodorovné okenné žalúzie, bežné tabuľové sklo a vodorovné okenné žalúzie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Izdelava po meri za druge kovinskih oken in vrat, zunanjih kovinskih žaluzij, zunanjih kovinskih žaluzij za vrata in okna, nekovinskih opazovalnih in pregledovalnih plošč, ki vsebujejo steklo, prozorno umetno snov z vključenim steklenim pokrovom in notranja steklena zapirala, steklenih okenskih zapiral, stavbnega stekla po meri, nekovinskih oken in vrat, notranjih senčil, vodoravnih senčil, običajnega ploskega stekla in vodoravnih senčil.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Specialtillverkning åt andra av metallfönster och -dörrar, utomhusjalusier av metall, ytterdörrar och fönsterrullgardiner av metall, observations- och inspektionspaneler, ej av metall, bestående av glas, klar plast med glasluckor och interiörglasluckor, glasfönsterluckor, byggnadsglas, icke-metalliska fönster och dörrar, rullgardiner för inomhusbruk, horisontella fönsterpersienner, vanliga glasrutor och horisontella fönsterpersienner.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/110</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/183</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080389</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>89710</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

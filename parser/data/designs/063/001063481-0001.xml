@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:37</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063481-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-23</ReceivingOfficeDate>
+<DesignIdentifier>001063481-0001</DesignIdentifier>
+<ApplicationNumber>001063481</ApplicationNumber>
+<ApplicationLanguageCode>el</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-23</ApplicationDate>
+<RegistrationDate>2008-12-23</RegistrationDate>
+<PublicationDate>2009-01-22</PublicationDate>
+<ApplicationReference>COM/D/139</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-23</ExpiryDate>
+<EffectiveDate>2008-12-23</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061879522</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063481_0001/001063481_0001_1.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.03</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061879523</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063481_0001/001063481_0001_2.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.03</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061879524</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063481_0001/001063481_0001_3.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.03</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061879525</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063481_0001/001063481_0001_4.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.03</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Шишенца за парфюми (Опаковки за -)</IndicationProduct>
+       <IndicationProduct languageCode="cs">Flakony na parfémy (Obaly na -)</IndicationProduct>
+       <IndicationProduct languageCode="da">Parfumeflasker (Emballager til -)</IndicationProduct>
+       <IndicationProduct languageCode="de">Parfümflakons (Verpackungen für -)</IndicationProduct>
+       <IndicationProduct languageCode="el">Φιαλίδια αρωμάτων (Συσκευασίες για -)</IndicationProduct>
+       <IndicationProduct languageCode="en">Perfume bottles (Packagings for -)</IndicationProduct>
+       <IndicationProduct languageCode="es">Frascos de perfume (Embalajes para -)</IndicationProduct>
+       <IndicationProduct languageCode="et">Parfüümipudelid (Pakendid -)</IndicationProduct>
+       <IndicationProduct languageCode="fi">Hajuvesipullot (Pakkauset -)</IndicationProduct>
+       <IndicationProduct languageCode="fr">Flacons de parfum (Emballages pour -)</IndicationProduct>
+       <IndicationProduct languageCode="hu">Parfümös üvegek (Csomagolás -/ Tartók -)</IndicationProduct>
+       <IndicationProduct languageCode="it">Boccette di profumo (Imballaggi per -)</IndicationProduct>
+       <IndicationProduct languageCode="lt">Kvepalų flakonai (Pakuotės -)</IndicationProduct>
+       <IndicationProduct languageCode="lv">Parfimērijas pudelītes (Iesaiņojums -)</IndicationProduct>
+       <IndicationProduct languageCode="mt">Fliexken tal-fwieħa (Ippakkjar għall -)</IndicationProduct>
+       <IndicationProduct languageCode="nl">Parfumflacons (Verpakkingen voor -)</IndicationProduct>
+       <IndicationProduct languageCode="pl">Flakony do perfum (Opakowania dla -)</IndicationProduct>
+       <IndicationProduct languageCode="pt">Frascos de perfume (Embalagens para -)</IndicationProduct>
+       <IndicationProduct languageCode="ro">Sticle pentru parfum (Ambalaje pentru -)</IndicationProduct>
+       <IndicationProduct languageCode="sk">Fľaštičky na parfumy (Obaly na -)</IndicationProduct>
+       <IndicationProduct languageCode="sl">stekleničke za parfume (Embalaže za -)</IndicationProduct>
+       <IndicationProduct languageCode="sv">Parfymflaskor (Förpackningar för -)</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>09.03</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/013</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-22</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325457</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>266337</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>16243</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

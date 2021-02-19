@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-08-17T11:36:53</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001066781-0002</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2009-01-07</ReceivingOfficeDate>
+<DesignIdentifier>001066781-0002</DesignIdentifier>
+<ApplicationNumber>001066781</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-03-26</PublicationDate>
+<ApplicationReference>D100425EU00</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-11-23</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061873607</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066781_0002/001066781_0002_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061873609</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066781_0002/001066781_0002_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061873611</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066781_0002/001066781_0002_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061873613</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066781_0002/001066781_0002_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061873614</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066781_0002/001066781_0002_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061873616</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066781_0002/001066781_0002_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061873618</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066781_0002/001066781_0002_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Екрани (Част от -)</IndicationProduct>
+       <IndicationProduct languageCode="cs">Obrazovky (část -)</IndicationProduct>
+       <IndicationProduct languageCode="da">Skærmvisning (del af -)</IndicationProduct>
+       <IndicationProduct languageCode="de">Bildschirmanzeige (Teil von -)</IndicationProduct>
+       <IndicationProduct languageCode="el">Απεικόνιση σε οθόνη (τμήματά τους -)</IndicationProduct>
+       <IndicationProduct languageCode="en">Screen displays (part of -)</IndicationProduct>
+       <IndicationProduct languageCode="es">Indicación de pantalla (parte de -)</IndicationProduct>
+       <IndicationProduct languageCode="et">Esitus ekraanil (osa -)</IndicationProduct>
+       <IndicationProduct languageCode="fi">Kuvaruutunäyttö (osa -)</IndicationProduct>
+       <IndicationProduct languageCode="fr">Affichage sur l'écran (partie de -)</IndicationProduct>
+       <IndicationProduct languageCode="hu">Képernyős kijelzők (…része)</IndicationProduct>
+       <IndicationProduct languageCode="it">Visualizzazione su schermo (parte di -)</IndicationProduct>
+       <IndicationProduct languageCode="lt">Vaizdo ekrane rodymas (dalis - )</IndicationProduct>
+       <IndicationProduct languageCode="lv">Reklāmas ekrāni (- daļa)</IndicationProduct>
+       <IndicationProduct languageCode="mt">Displays scrin (parti minn -)</IndicationProduct>
+       <IndicationProduct languageCode="nl">Mededeling op het scherm (deel van -)</IndicationProduct>
+       <IndicationProduct languageCode="pl">Ekrany (część - )</IndicationProduct>
+       <IndicationProduct languageCode="pt">Apresentação em écran (parte de -)</IndicationProduct>
+       <IndicationProduct languageCode="ro">Afişaje (Părţi de -)</IndicationProduct>
+       <IndicationProduct languageCode="sk">Obrazovky (časť - )</IndicationProduct>
+       <IndicationProduct languageCode="sl">Zaslon monitorja (del -)</IndicationProduct>
+       <IndicationProduct languageCode="sv">Bildskärmsvisning (del av -)</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>14.04</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PriorityDetails>
+       <Priority>
+        <PriorityCountryCode>US</PriorityCountryCode>
+        <PriorityNumber>29/320.621</PriorityNumber>
+        <PriorityDate>2008-06-30</PriorityDate>
+        <PriorityStatusCode>Claimed</PriorityStatusCode>
+       </Priority>
+      </PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/056</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-03-26</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/126</PublicationIdentifier>
+        <PublicationSequenceNumber>271763</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2009-07-03</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2010/210</PublicationIdentifier>
+        <PublicationSequenceNumber>484676</PublicationSequenceNumber>
+        <PublicationSection>B.9.2</PublicationSection>
+        <PublicationDate>2010-09-17</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/153</PublicationIdentifier>
+        <PublicationSequenceNumber>1034229</PublicationSequenceNumber>
+        <PublicationSection>B.2.1</PublicationSection>
+        <PublicationDate>2013-08-14</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/008</PublicationIdentifier>
+        <PublicationSequenceNumber>1136500</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2014-01-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/089</PublicationIdentifier>
+        <PublicationSequenceNumber>100463142</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2018-05-14</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/108</PublicationIdentifier>
+        <PublicationSequenceNumber>100513324</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2018-06-11</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/224</PublicationIdentifier>
+        <PublicationSequenceNumber>100777204</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2018-11-26</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>119460</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>24155</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012433272</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100463142</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-05-14</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012445114</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100513324</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-06-11</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003202227</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>271763</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-07-03</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012443930</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100777204</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-11-26</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006994978</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1136500</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-15</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>007209798</RecordIdentifier>
+<BasicRecordKind>Transfer of Ownership</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1034229</PublicationSequenceNumber>
+           <PublicationSection>B.2.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-08-14</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>004296228</RecordIdentifier>
+<BasicRecordKind>Appointment Replacement and Deletion of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>484676</PublicationSequenceNumber>
+           <PublicationSection>B.9.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2010-09-17</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

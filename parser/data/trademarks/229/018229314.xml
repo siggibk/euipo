@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-07T08:35:29</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229314</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229314</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="1">Application published</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-10-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>immer</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>18</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бастуни; Куфари, чанти, портфейли и други изделия за пренасяне на багаж; Чадъри и слънчобрани; Принадлежности за оседлаване, камшици и облекло за животни; Кожени колани за багаж.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Hole; Zavazadla, cestovní tašky, peněženky a ostatní tašky; Deštníky a slunečníky; Sedlářské výrobky, biče a postroje pro zvířata; Kožené popruhy na zavazadla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Spadserestokke; Rejsetasker, tasker, tegnebøger og andre bæreposer; Paraplyer og parasoller; Sadelmagervarer, piske og beklædningsgenstande til dyr; Kuffertremme af læder.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Gehstöcke; Gepäck, Taschen, Brieftaschen und andere Tragebehältnisse; Regen- und Sonnenschirme; Sattlerwaren, Peitschen und Bekleidung für Tiere; Gepäckgurte aus Leder.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ράβδοι περιπάτου· Ταξιδιωτικές αποσκευές, τσάντες, πορτοφόλια και άλλα είδη μεταφοράς· Ομπρέλες και ομπρέλες ηλίου· Είδη σελοποιίας, μαστίγια και ενδύματα ζώων· Δερμάτινα λουριά για αποσκευές.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Walking sticks; Luggage, bags, wallets and other carriers; Umbrellas and parasols; Saddlery, whips and apparel for animals; Leather luggage straps.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bastones; Equipaje, bolsos, carteras y otros porta objetos; Paraguas y sombrillas; Artículos de guarnicionería, fustas y aparejos para animales; Correas de cuero para equipaje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Jalutuskepid; Kohvrid, kotid, rahakotid ja muud sarnased kandmisvahendid; Päikese- ja vihmavarjud; Sadulsepatooted, piitsad ja loomarõivad; Nahast kohvririhmad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kävelykepit; Matkalaukut, laukut, lompakot ja muut kantimet; Sateenvarjot ja päivänvarjot; Satulavarusteet, raipat ja eläinten vaatteet; Matkalaukkujen hihnat, nahkaiset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Cannes; Bagages, sacs, portefeuilles et autres objets de transport; Parapluies et parasols; Sellerie, cravaches et vêtements pour animaux; Courroies en cuir pour bagages.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Štapovi za hodanje; Kovčezi, torbe, novčanici i drugi proizvodi za nošenje; Kišobrani i suncobrani; Sedlarski proizvodi, bičevi i odjeća za životinje; Kožnato remenje za prtljagu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sétapálcák; Utazótáskák, bőröndök, tárcák és más hordozóeszközök; Esernyők és napernyők; Lószerszámok, ostorok és ruházat állatoknak; Bőr poggyászszíjak.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Bastoni da passeggio; Valigie, borse, portafogli e contenitori portatili; Ombrelli e ombrelloni; Articoli di selleria, fruste e paramenti per animali; Cinghie in pelle per bagagli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Lazdos (kriukiai); Lagaminai, rankinukai, piniginės ir kiti krepšiai; Skėčiai nuo lietaus ir saulės; Gyvūnų pakinktai, botagai ir apranga; Odiniai lagaminų diržai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Spieķi; Bagāžas somas un čemodāni, somas, naudas maki un citi piederumi lietu pārnēsāšanai; Lietussargi un saulessargi; Zirglietas, pātagas un dzīvnieku apģērbs; Ādas siksnas bagāžai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Bsaten; Bagalji, basktijiet, kartieri u oġġetti oħra li ġġor fihom; Umbrelel u parasoli; Sruġ, frosti u lbies għall-annimali; Ċineg tal-bagalji magħmula mill-ġilda.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Wandelstokken; Bagage, tassen, knapzakken en andere draagtassen; Paraplu’s en parasols; Zadelmakerswaren, zwepen en kleding voor dieren; Lederen bagageriemen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Laski, kijki marszowe i trekkingowe; Walizy, torby podróżne, torby, portfele i inne artykuły służące do przenoszenia; Parasole i parasolki; Wyroby rymarskie, bicze i ubrania dla zwierząt; Paski skórzane do bagażu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bengalas; Bagagens, malas, carteiras e outras bolsas de transporte; Guarda-chuvas e guarda-sóis; Selaria, chicotes e vestimentas para animais; Correias em couro para bagagem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Bastoane; Bagaje, pungi, portofele și alte accesorii; Umbrele și parasolare; Articole de șelărie, bice și articole vestimentare pentru animale; Curele de piele pentru bagaje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vychádzkové palice; Kufre, tašky, peňaženky a výrobky koženej galantérie; Dáždniky a slnečníky; Sedlárske výrobky, biče a postroje na zvieratá; Kožené popruhy na batožinu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Sprehajalne palice; Kovčki, potovalne torbe, denarnice in drugi podobni proizvodi; Dežniki in sončniki; Sedlarski izdelki, biči in oprema za živali; Usnjeni pasovi za prtljago.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Promenadkäppar; Resgods, väskor, plånböcker och andra artiklar för bärhjälp; Paraplyer och parasoller; Sadelmakerivaror, piskor och djurkläder; Bagageremmar av läder.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Облекло; Украшения за глава, шапки; Обувки; Части от облекло, обувки, шапки и принадлежности за глава.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Oděvy; Pokrývky hlavy; Obuv; Části oděvů, obuvi a pokrývek hlavy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beklædningsgenstande; Hovedbeklædning; Fodtøj; Dele af beklædningsgenstande, fodtøj og hovedbeklædning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bekleidungsstücke; Kopfbedeckungen; Schuhwaren; Teile von Bekleidungsstücken, Schuhwaren und Kopfbedeckungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ενδύματα· Είδη πιλοποιίας· Υποδήματα· Μέρη ενδυμάτων, υποδημάτων και ειδών πιλοποιίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Clothing; Headgear; Footwear; Parts of clothing, footwear and headgear.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Prendas de vestir; Artículos de sombrerería; Calzado; Partes de indumentaria, calzado y sombrerería.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Rõivad; Peakatted; Jalatsid; Rõivaste, jalatsite ja peakatete osad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vaatteet; Päähineet; Jalkineet; Vaatteiden, jalkineiden ja päähineiden osat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vêtements; Chapellerie; Chaussures; Parties de vêtements, articles chaussants et articles de chapellerie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Odjeća; Pokrivala za glavu; Obuća; Dijelovi odjeće, obuće i pokrivala za glavu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ruházati cikkek; Kalapáruk; Lábbelik; Ruházat, lábbelik és fejfedők részei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Abbigliamento; Cappelleria; Calzature; Parti di abbigliamento, calzature e articoli di cappelleria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Drabužiai, apranga; Galvos apdangalai; Apavas; Drabužių, avalynės ir galvos apdangalų dalys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apģērbi; Galvassegas; Apavi; Apģērbu, apavu un galvassegu daļas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ilbies; Xedd ir-ras; Xedd is-saqajn; Partijiet minn ħwejjeġ, xedd is-saqajn u xedd ir-ras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kleding; Hoofddeksels; Schoeisel; Delen van kleding, schoeisel en hoofdbedekking.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odzież; Nakrycia głowy; Obuwie; Części odzieży, obuwia i nakryć głowy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vestuário; Chapelaria; Calçado; Partes de vestuário, calçado e chapelaria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Articole de îmbrăcăminte; Articole pentru acoperirea capului; Articole de încălțăminte; Părți de îmbrăcăminte, încălțăminte și articole pentru acoperirea capului.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Odevy; Pokrývky hlavy; Obuv; Časti oblečenia, obuvi a pokrývok hlavy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oblačila; Pokrivala; Obutev; Deli oblačil, obutve in pokrival.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kläder; Huvudbonader; Fotbeklädnader; Delar av kläder, fotbeklädnader och huvudbonader.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/192</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-10-07</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>5234</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017972244</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>5234</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-06-02</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017855001</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RecordCurrentStatusCode>Decision to reject (final)</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-10-05</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

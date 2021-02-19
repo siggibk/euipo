@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-08-17T11:36:53</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001066955-0002</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2009-01-07</ReceivingOfficeDate>
+<DesignIdentifier>001066955-0002</DesignIdentifier>
+<ApplicationNumber>001066955</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-03-27</PublicationDate>
+<ApplicationReference>END14750A-B</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-12-17</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061873669</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066955_0002/001066955_0002_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061873670</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066955_0002/001066955_0002_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061873671</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066955_0002/001066955_0002_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061873674</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066955_0002/001066955_0002_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061873676</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066955_0002/001066955_0002_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061873678</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066955_0002/001066955_0002_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061873679</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066955_0002/001066955_0002_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Перфоратори канцеларски</IndicationProduct>
+       <IndicationProduct languageCode="cs">Kancelářské děrovačky</IndicationProduct>
+       <IndicationProduct languageCode="da">Hullemaskiner til kontorbrug</IndicationProduct>
+       <IndicationProduct languageCode="de">Locher für Bürozwecke</IndicationProduct>
+       <IndicationProduct languageCode="el">διατρητικές μηχανές γραφείου</IndicationProduct>
+       <IndicationProduct languageCode="en">Office hole-punches</IndicationProduct>
+       <IndicationProduct languageCode="es">Perforadoras de oficina</IndicationProduct>
+       <IndicationProduct languageCode="et">Augurauad</IndicationProduct>
+       <IndicationProduct languageCode="fi">toimistoissa käytettävät rei'ittimet</IndicationProduct>
+       <IndicationProduct languageCode="fr">Perforateurs de bureau</IndicationProduct>
+       <IndicationProduct languageCode="hu">irodai lyukasztók</IndicationProduct>
+       <IndicationProduct languageCode="it">Perforatori da ufficio</IndicationProduct>
+       <IndicationProduct languageCode="lt">Kontoriniai Biuro skylamušiai skylmušos</IndicationProduct>
+       <IndicationProduct languageCode="lv">Biroja caurumotāji</IndicationProduct>
+       <IndicationProduct languageCode="mt">Makkinetta ta' l-aċċetti li tagħmel it-toqob għal uffiċċju</IndicationProduct>
+       <IndicationProduct languageCode="nl">Perforators voor kantoorgebruik</IndicationProduct>
+       <IndicationProduct languageCode="pl">Dziurkacze biurowe</IndicationProduct>
+       <IndicationProduct languageCode="pt">Perfuradores de escritório</IndicationProduct>
+       <IndicationProduct languageCode="ro">Perforatoare de birou</IndicationProduct>
+       <IndicationProduct languageCode="sk">Kancelárske dierkovačky</IndicationProduct>
+       <IndicationProduct languageCode="sl">Pisarniški luknjači</IndicationProduct>
+       <IndicationProduct languageCode="sv">Hålslag för kontorsbruk</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>19.02</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PriorityDetails>
+       <Priority>
+        <PriorityCountryCode>JP</PriorityCountryCode>
+        <PriorityNumber>2008-016877</PriorityNumber>
+        <PriorityDate>2008-06-30</PriorityDate>
+        <PriorityStatusCode>Claimed</PriorityStatusCode>
+       </Priority>
+      </PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/057</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-03-27</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/091</PublicationIdentifier>
+        <PublicationSequenceNumber>251313</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2009-05-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/137</PublicationIdentifier>
+        <PublicationSequenceNumber>279825</PublicationSequenceNumber>
+        <PublicationSection>A.3.2</PublicationSection>
+        <PublicationDate>2009-07-17</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/002</PublicationIdentifier>
+        <PublicationSequenceNumber>1129240</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2014-01-07</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/241</PublicationIdentifier>
+        <PublicationSequenceNumber>100814955</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2018-12-19</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2019/116</PublicationIdentifier>
+        <PublicationSequenceNumber>101142178</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2019-06-21</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>192907</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>10578</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003109141</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>251313</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-05-27</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006996353</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1129240</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-07</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003239286</RecordIdentifier>
+<BasicRecordKind>Relative Errors on Part A on Design</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>279825</PublicationSequenceNumber>
+           <PublicationSection>A.3.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-07-17</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012574786</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>101142178</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2019-06-21</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012443922</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100814955</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-12-19</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T11:10:28</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229253</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229253</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>sv</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>1923</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162457767</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229253/000162457767.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.07.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>29</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Месо, Вегетариански колбаси; Месо; Домашни птици &amp; дивеч; Месни екстракти; Консервирани, замразени, сушени, варени и печени плодове и зеленчуци; Желета, конфитюри и компоти; Яйца; Мляко, сирене, масло, кисело мляко и млечни продукти; Масла и мазнини за готвене.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Uzeniny, Vegetariánské lahůdkářské výrobky; Maso a masné výrobky; Drůbež a zvěřina; Masové výtažky; Konzervované, mražené, sušené a vařené ovoce a zelenina; Želé, džemy, kompoty; Vejce; Mléko, sýry, máslo, jogurty a jiné mlékárenské a sýrárenské výrobky; Oleje a tuky na vaření.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Charcuterivarer, Vegetabilsk charcuteri; Kød; Fjerkræ &amp; vildt; Kødekstrakter; Konserverede, frosne, tørrede og tilberedte frugter og grøntsager; Geléer, syltetøj, kompotter; Æg; Mælk, ost, smør, yoghurt og andre mejeriprodukter; Olier og fedtstoffer til kogning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Fleischwaren, Vegetarische Wurstwaren; Fleisch; Geflügel und Wild; Fleischextrakte; Konserviertes, tiefgekühltes, getrocknetes und gekochtes Obst und Gemüse; Gallerten (Gelees), Konfitüren, Kompotte; Eier; Milch, Käse, Butter, Joghurt und andere Milchprodukte; Speiseöle und -fette.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κρέατα, Αλλαντικά για φυτοφάγους· Κρέατα· Πουλερικά και κυνήγι· Εκχυλίσματα κρέατος· Φρούτα και λαχανικά διατηρημένα (κονσέρβες), κατεψυγμένα, αποξηραμένα και μαγειρεμένα· Ζελέ, μαρμελάδες, κομπόστες· Αβγά· Γάλα, τυρί, βούτυρο, γιαούρτι και άλλα γαλακτοκομικά-τυροκομικά προϊόντα· Μαγειρικά έλαια και λίπη.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Charcuterie, Vegetarian charcuterie; Meat; poultry &amp; game; Meat extracts; Preserved, frozen, dried and cooked fruits and vegetables; Jellies, jams, compotes; Eggs; Milk, cheese, butter, yoghurt and other dairy products; Oils and fats for food.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Productos de charcutería, Charcutería vegetariana; Carne; Carne de ave y carne de caza; Extractos de carne; Frutas y verduras, hortalizas y legumbres en conserva, congeladas, secas y cocidas; Jaleas, confituras, compotas; Huevos; Leche, queso, mantequilla, yogur y otros productos lácteos; Aceites y grasas para la cocina.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Charcuterie [sealihatooted, vorstitooted], Taimsed vorstitooted; Liha; Linnu- ja ulukiliha; Lihaekstraktid; Konservitud, külmutatud, kuivatatud ja küpsetatud puuvili ja köögivili; Tarretised, keedised, kompotid; Munad; Piim, juust, või, jogurt ja teised piima- ja juustutooted; Toiduõlid ja toidurasvad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Liha, Kasvisleikkeleet; Liha; Siipikarja ja riista; Lihauutteet; Säilötyt, pakastetut, kuivatut ja kuumentamalla valmistetut hedelmät ja vihannekset; Hyytelöt, hillot, hedelmähillokkeet; Munat; Maito, juusto, voi, jogurtti ja muut maito- ja meijerituotteet; Öljyt ja rasvat ruoanlaittoon.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Charcuterie, Charcuterie végétarienne; Viande; Volaille et gibier; Extraits de viande; Fruits et légumes conservés, congelés, séchés et cuits; Gelées, confitures, compotes; Oeufs; Lait, fromage, beurre, yaourts et autres produits laitiers; Huiles et graisses de cuisson.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Meso, Vegetarijanske zamjene za suhomesnate proizvode; Meso; Divljač; Mesni ekstrakti; Konzervirano, zamrznuto, sušeno i kuhano voće i povrće; Hladetine (želei), džemovi, kompoti; Jaja; Mlijeko, sir, maslac, jogurt i drugi mliječni proizvodi; Ulja i masti za kuhanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Húsok, Vegetáriánus felvágottak; Húsok; Baromfi &amp; vadhús; Húskivonatok; Tartósított, fagyasztott, szárított és főzött gyümölcsök és zöldségek; Zselék, lekvárok (dzsemek), kompótok; Tojások; Tej, sajt, vaj, joghurt és egyéb sajttermékek; Főzőolajok és főzőzsiradékok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Prodotti di salumeria, Salsicce vegetariane; Carni; Pollame e selvaggina; Estratti di carne; Frutta e ortaggi conservati, congelati, essiccati e cotti; Gelatine, marmellate, composte; Uova; latte, formaggio, burro, yogurt e altri prodotti lattiero-caseari; Oli e grassi per cucinare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mėsos gaminiai, Vegetariškas delikatesas; Mėsa; Paukštiena ir žvėriena; Mėsos ekstraktai; Konservuoti, šaldyti, džiovinti, virti ir kepti vaisiai ir daržovės; Drebučiai, uogienės, kompotai; Kiaušiniai; Pienas, sūris, sviestas, jogurtas ir kiti pieno ir sūrio produktai; Kepimo aliejus ir riebalai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Gaļa, Veģetāri desu izstrādājumi; Gaļa; Mājputnu un medījumu gaļa; Gaļas ekstrakti; Konservēti, saldēti, žāvēti (kaltēti) un termiski apstrādāti augļi un dārzeņi; Želejas, ievārījumi, kompoti; Olas; Piens, siers, sviests, jogurts un citi piena un siera produkti; Eļļas un tauki pārtikai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Laħmijiet, Prodotti taz-zalzett veġetarjani; Laħmijiet; Tjur u laħam tal-kaċċa; Estratti tal-laħam; Frott u ħaxix ippriservat, iffriżat, imnixxef u msajjar; Ġèli, ġammijiet, frott ippreservat jew misjur fix-xropp; Bajd; Ħalib, ġobon, butir, jogurt u prodotti tal-ħalib oħra; Żjut u xaħmijiet għat-tisjir.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Vleesbeleg, Fijne vleeswaren met vegetarische ingrediënten; Vlees; Gevogelte en wild; Vleesextracten; Geconserveerde, diepgevroren, gedroogde en gekookte vruchten en groenten; Geleien, jams, compote; Eieren; Melk, kaas, boter, melk, yoghurt en andere zuivelproducten; Kookoliën en -vetten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Mięso i wędliny, Wędliny wegetariańskie; Mięso i wędliny; Drób i dziczyzna; Ekstrakty mięsne; Konserwowane, mrożone, suszone i gotowane owoce i warzywa; Galaretki, dżemy, kompoty; Jaja; Mleko, ser, masło, jogurt i inne produkty mleczne; Oleje i tłuszcze do gotowania.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Produtos de charcutaria, Charcutaria vegetariana; Carnes; Aves e caça; Extractos de carne; Frutos e legumes em conserva, congelados, secos e cozidos; Geleias, doces, compotas; Ovos; Leite, queijo, manteiga, iogurte e outros produtos lácteos; Óleos e gorduras alimentares.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Mezeluri, Mezeluri vegetariene; Cărnuri; Carne de pasăre şi vânat; Extracte din carne; Fructe şi legume conservate, congelate, uscate şi fierte; Jeleuri, dulceţuri, compoturi; Ouă; Lapte, brânză, unt, iaurt și alte produse lactate; Uleiuri și grăsimi pentru gătit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Mäso, Vegetariánske údeniny; Mäso; Hydina a zverina; Mäsové výťažky; Konzervované, mrazené, sušené a varené ovocie a zelenina; Rôsoly, džemy, marmelády, ovocné zaváraniny, kompóty; Vajcia; Mlieko, syr, maslo, jogurt a iné mliečne výrobky; Jedlé oleje a tuky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Meso, Vegetarijanska delikatesa; Meso; Perutnina in divjačina; Mesni ekstrakti; Konzervirano, zamrznjeno, sušeno ter kuhano sadje in zelenjava; Želeji, marmelada, kompoti; Jajca; Mleko, sir, maslo, jogurt in drugi sirno-mlečni izdelki; Jedilna olja in maščobe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Charkuterivaror, vegetariska charkuterivaror; kött; fjäderfä och vilt; köttextrakt; konserverade, frysta, torkade och tillagade frukter och grönsaker; geléer, sylter, fruktkompotter; ägg; mjölk, ost, smör, yoghurt och andra mjölk-produkter; oljor och fetter för matlagning.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Брашно и изделия, произведени от зърнени култури; Хляб, сладкиши и захарни изделия.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Mouka a přípravky vyrobené z obilnin; Chléb, pečivo a cukrovinky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Mel og kornpræparater; Brød, konditori- og konfekturevarer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Mehle und Getreidepräparate; Brot, feine Backwaren und Konditorwaren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Άλευρα και παρασκευάσματα από δημητριακά· Άρτος, γλυκά και είδη ζαχαροπλαστικής.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Flour and preparations made from cereals; Bread, pastry and confectionery.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Harinas y preparados a base de cereales; Pan, productos de pastelería y confitería.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Jahu ja teraviljatooted; Leib, sai, kondiitritooted ja maiustused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Jauhot ja viljavalmisteet; Leipä, leivonnaiset ja makeiset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Farines et préparations à base de céréales; Pain, pâtisseries et confiseries.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Brašno i pripravci od žitarica; Kruh, kolači, slastice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Liszt és gabonakészítmények; Kenyér, péksütemények és cukrászsütemények.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Farina e preparati fatti di cereali; Pane, pasticceria e confetteria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Miltai ir grūdų produktai; Duona, pyragas ir konditerijos gaminiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Milti un graudaugu izstrādājumi; Maize, maizes un konditorejas izstrādājumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Dqiq u preparazzjonjiet magħmula miċ-ċereali; Ħobż, għaġina u ħlewwiet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Meel en graanpreparaten; Brood, banketbakkers- en suikerbakkerswaren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Mąka i preparaty ze zbóż; Chleb, wyroby cukiernicze i słodycze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Farinhas e preparações feitas de cereais; Pão, pastelaria e confeitaria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Făină şi alimente preparate din cereale; Pâine, produse de patiserie şi cofetărie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Múka a prípravky vyrobené z cereálií; Chlieb, pekárske a cukrárske výrobky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Moka in pripravki iz žitaric; Kruh, pecivo in slaščice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Mjöl och preparat tillverkade av spannmål; bröd, konditorivaror och godsaker.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за търговия на дребно във връзка с храни, Продукти за обзавеждане и Облекла.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Maloobchodní prodej potravy (pro zvířata), Zařizovací předměty a Oděvy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Detailhandel med fødevarer, Produkter til boligindretning og Beklædningsgenstande.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Einzelhandelsdienstleistungen in Bezug auf Nahrungsmittel, Einrichtungsartikel und Bekleidung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες λιανικής πώλησης σε σχέση με τρόφιμα, Προϊόντα επίπλωσης και Ειδη ένδυσης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Retail services in relation to foodstuffs, Furnishings and Clothing.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de venta al por menor de productos alimentarios, Productos de decoración y de la vestimenta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toiduainete jaemüügiteenused, Sisustustooted ja Rõivad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Eläinten ravintoaineisiin liittyvät vähittäismyyntipalvelut, Sisustustuotteet ja Vaatteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de vente au détail concernant les aliments, Articles de décoration et Vêtements.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Maloprodajne usluge u vezi s hranom, Usluge u vezi s proizvodima za uređenje interijera i Odjeća.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Állateledellel kapcsolatos kiskereskedelmi szolgáltatások, Berendezési cikkek és Ruházat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi al dettaglio in relazione a mangimi, Prodotti per l'arredamento e Dell'abbigliamento.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mažmeninė prekyba maisto produktais, Įrengimo produktai ir Apranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mazumtirdzniecības pakalpojumi saistībā ar pārtiku, Interjera priekšmeti un Apģērbi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' bejgħ bl-imnut fir-rigward tal-oġġetti tal-ikel, Prodotti tad-disinn ta' ġewwa u Ilbies.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Detailhandelsdiensten op het gebied van voedingsmiddelen, Producten voor de inrichting en Kleding.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi sprzedaży detalicznej w związku ze środkami spożywczymi, Artykuły wyposażenia i Odzieży.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços retalhistas relacionados com alimentos, Produtos para guarnição de interiores e Do vestuário.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de vânzare cu amănuntul în legătură cu produse alimentare, Produse pentru decoraţiuni interioare şi Vestimentaţie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Maloobchodné služby s potravinami, Výrobky do interiéru a Odevov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve prodaje na drobno v zvezi z živalskimi krmili, Izdelki notranjega dizajna in Oblačila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Återförsäljartjänster avseende livsmedel, inredningsprodukter och kläder.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>43</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Ресторантьорство; Временно настаняване.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby zajišťující stravování a nápoje; Dočasné ubytování.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tilvejebringelse af mad og drikke; Midlertidig indkvartering.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Dienstleistungen zur Verpflegung; Vorübergehende Beherbergung von Gästen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες παροχής διατροφής και ποτών· Προσωρινή κατάλυση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Services for providing food and drink; Temporary accommodation.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de restauración (alimentación); Hospedaje temporal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toitlustusteenused; Tähtajaline majutamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ravitseminen ja juomien anniskelu; Tilapäismajoitus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de restauration (alimentation); Logement temporaire.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge pružanja hrane i pića [okrepa]; Privremeni smještaj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Vendéglátás (élelmezés); Ideiglenes szállásbiztosítás.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di ristorazione (alimentazione); Alloggi temporanei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Maisto ir gėrimų parūpinimo paslaugos; Laikinas apgyvendinimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apgāde ar uzturu; Viesu izmitināšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi għall-provvista ta' ikel u xorb; Akkomodazzjoni temporanja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Restauratie (het verstrekken van voedsel en dranken); Tijdelijke huisvesting.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi zaopatrzenia w żywność i napoje; Tymczasowe zakwaterowanie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de restauração (alimentação); Alojamento temporário.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de alimentaţie publică; Cazare temporară.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Reštauračné služby (strava); Prechodné ubytovanie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Nudenje hrane in pijače; Začasna nastanitev.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Utskänkning av mat och dryck; tillfälligt boende.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/081</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-30</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/150</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1081998</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10936</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

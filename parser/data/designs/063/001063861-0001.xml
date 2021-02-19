@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:57</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063861-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063861-0001</DesignIdentifier>
+<ApplicationNumber>001063861</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-03-10</PublicationDate>
+<ApplicationReference>16174vs</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000062858454</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063861_0001/001063861_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062858455</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063861_0001/001063861_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062858457</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063861_0001/001063861_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062858458</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063861_0001/001063861_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062858461</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063861_0001/001063861_0001_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062858462</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063861_0001/001063861_0001_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062858463</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063861_0001/001063861_0001_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Комплекти хидравлична помпа с бутало</IndicationProduct>
+       <IndicationProduct languageCode="cs">Systémy čerpadel s hydraulickým pístem</IndicationProduct>
+       <IndicationProduct languageCode="da">Samlinger til hydrauliske stempelpumper</IndicationProduct>
+       <IndicationProduct languageCode="de">Hydraulische Kolbenpumpeneinheiten</IndicationProduct>
+       <IndicationProduct languageCode="el">Διατάξεις υδραυλικής αντλίας με έμβολο</IndicationProduct>
+       <IndicationProduct languageCode="en">Hydraulic piston pump assemblies</IndicationProduct>
+       <IndicationProduct languageCode="es">Unidades de bombas de pistón hidráulicas</IndicationProduct>
+       <IndicationProduct languageCode="et">Hüdrauliliste kolbpumpade komplektid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Hydrauliset mäntäpumppukokoonpanot</IndicationProduct>
+       <IndicationProduct languageCode="fr">Groupes de pompes à piston hydrauliques</IndicationProduct>
+       <IndicationProduct languageCode="hu">Hidraulikus hengeres szivattyúszerkezetek</IndicationProduct>
+       <IndicationProduct languageCode="it">Gruppi di pompe a stantuffo idrauliche</IndicationProduct>
+       <IndicationProduct languageCode="lt">Hidraulinių stūmoklinių pompų rinkiniai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Hidraulisko virzuļsūkņu komplekti</IndicationProduct>
+       <IndicationProduct languageCode="mt">Apparat tal-pistons idrawliċi għall-pompi</IndicationProduct>
+       <IndicationProduct languageCode="nl">Hydraulische zuigerpompeenheid</IndicationProduct>
+       <IndicationProduct languageCode="pl">Zespoły hydraulicznych pomp tłokowych</IndicationProduct>
+       <IndicationProduct languageCode="pt">Dispositivos para bombas de êmbolo hidráulicas</IndicationProduct>
+       <IndicationProduct languageCode="ro">Ansambluri de pompe hidraulice cu piston</IndicationProduct>
+       <IndicationProduct languageCode="sk">Čerpadlá s hydraulickým piestovým vstrekovaním</IndicationProduct>
+       <IndicationProduct languageCode="sl">Enote za hidravlične batne črpalke</IndicationProduct>
+       <IndicationProduct languageCode="sv">Hydrauliska kolvpumpenheter</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>15.02</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/044</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-03-10</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1326021</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/004</PublicationIdentifier>
+        <PublicationSequenceNumber>1131790</PublicationSequenceNumber>
+        <PublicationSection>B.9.2</PublicationSection>
+        <PublicationDate>2014-01-09</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>007693959</RecordIdentifier>
+<BasicRecordKind>Appointment Replacement and Deletion of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1131790</PublicationSequenceNumber>
+           <PublicationSection>B.9.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-09</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

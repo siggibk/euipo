@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-24T08:56:07</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229598</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229598</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-19</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-24</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>cozy TIMES</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162498809</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229598/000162498809.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>02.09.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Козметични продукти; Дифузори с клечки; Сапуни.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kosmetické výrobky; Tyčové difuzéry; Mýdla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kosmetiske produkter; Spredere i form af pinde; Sæber.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kosmetikprodukte; Duftstäbe; Seifen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καλλυντικά προϊόντα· Αποσμητικά χώρου με ξυλάκια εμποτισμού· Σαπούνια.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Cosmetic products; Incense stick diffusers; Soaps.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Productos cosméticos; Difusores de bastoncillo; Jabones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kosmeetikatooted; Pulgakeste kujul lõhnahajutid; Seebid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kosmeettiset tuotteet; Hajustetikut; Saippuat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Produits cosmétiques; Diffuseurs à bâtons; Savons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kozmetički proizvodi; Mirisni štapići; Sapuni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kozmetikai termékek; Pálcikás illatosítók; Szappanok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Prodotti cosmetici; diffusori a bastoncini; Saponi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kosmetikos produktai; Aromatinės lazdelės; Muilas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kosmētiskie produkti; Stienīša veida aromāta izplatītāji; Ziepes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Prodotti kożmetiċi; Tagħmir bl-istiks li jxerred (il-fwieħa); Sapun.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Cosmetische producten; Parfumverspreiders met geurstokjes; Zepen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Produkty kosmetyczne; Dyfuzory patyczkowe; Mydła.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Produtos cosméticos; Pauzinhos perfumados; Sabões.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Produse cosmetice; Difuzoare cu beţişoare; Săpunuri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kozmetické produkty; Vonné difuzéry s tyčinkami; Mydlá.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kozmetični izdelki; Razpršilci s palčkami; Mila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kosmetiska produkter; Doftsticks; Tvål.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>4</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Свещи (Тънки -); Ароматни свещи.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Svíčky; Parfémované svíčky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kærter; Parfumerede lys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kerzen; Duftkerzen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ψηλά λεπτά κεριά για κηροπήγιο· Αρωματικά κεριά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Tapers; Perfumed candles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Velas para iluminar; Velas perfumadas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Peened vahaküünlad; Lõhnaküünlad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kynttilät; Tuoksukynttilät.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Bougies; Bougies parfumées.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Svijeće; Mirisne svijeće.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyertyák; Illatosított gyertyák.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Candele [illuminazione]; Candele profumate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Žvakės; Kvepiančios žvakės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Sveces; Sveces (aromatizētas).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xemgħat; Xemgħat imfewħa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Spits toelopende kaarsen; Geurkaarsen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Świece; Świece zapachowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Velas, candeias, círios [iluminação]; Velas perfumadas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Lumânări; Lumânări parfumate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Sviečky (na svietenie); Parfumované sviečky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Koničaste sveče; Parfumirane sveče.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Ljus; Parfymerade ljus.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Покривала и калъфи за електронни четци на книги; Преносими тонколони; Декоративни магнити под формата на букви.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kryty a pouzdra pro čtečky elektronických knih; Přenosné reproduktory; Ozdobné magnety ve tvaru písmen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Overtræk og etuier til e-bogslæsere; Bærbare højttalere; Dekorative magneter i form af bogstaver.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Hüllen und Taschen für E-Book-Reader; tragbare Lautsprecher; dekorative Magnete in Form von Buchstaben.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καλύμματα και θήκες για ηλεκτρονικές συσκευές ανάγνωσης βιβλίων· Φορητά ηχεία· Διακοσμητικοί μαγνήτες σε σχήμα γραμμάτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">covers and cases for electronic book readers; Portable speakers; Decorative magnets in the shape of letters.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Fundas y estuches para lectores de libros electrónicos; Altavoces portátiles; Imanes decorativos con forma de letras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">E-raamatulugerite kaitsekestad ja kaitseümbrised; Kaasaskantavad kõlarid; Tähekujulised dekoratiivmagnetid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Päälliset ja suojukset elektronisille kirjanlukijoille; Kannettavat kaiuttimet; Kirjainten muotoiset koristemagneetit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Housses et étuis pour lecteurs de livres électroniques; Haut-parleurs portables; Aimants décoratifs en forme de lettres.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Maske i futrole za čitače elektroničkih knjiga; Prenosivi zvučnici; Ukrasni magneti u obliku slova.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Elektronikus könyvolvasók borítói és tokjai; Hordozható hangszórók; Betű fromájú dekoratív mágnesek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Custodie e astucci per lettori di libri elettronici; Altoparlanti portatili; Magneti decorativi a forma di lettere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Elektroninių knygų skaitytuvų dangteliai ir dėklai; Nešiojamieji garsiakalbiai; Dekoratyviniai raidžių formos magnetai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Elektronisko grāmatu lasīšanas ierīču apvāki un ietvari; Pārvietojami skaļruņi; Dekoratīvi magnēti burtu formā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Għata u kaxxetti għall-qarrejja elettroniċi ta' kotba; Spikers li jistgħu jinġarru; Kalamiti għat-tiżjin f'forom ta' ittri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Hoesjes en etuis voor e-readers; Draagbare luidsprekers; Decoratieve magneten in de vorm van letters.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Pokrowce i etui ochronne na czytniki książek elektronicznych; Przenośne głośniki; Magnesy dekoracyjne w kształcie liter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Capas e estojos para leitores de livros eletrónicos; Altifalantes portáteis; Ímans decorativos na forma de letras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Huse și cutii pentru aparate pentru citirea cărților electronice; Boxe portabile; Magneţi decorativi sub formă de litere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kryty a puzdrá na čítačky elektronických kníh; Prenosné reproduktory; Ozdobné magnetky v tvare písmen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Ovitki in etuiji za bralnike elektronskih knjig; Prenosni zvočniki; Okrasni magneti v obliki črk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Höljen och fodral för elektroniska bokläsare; Bärbara högtalare; Prydnadsmagneter i form av bokstäver.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Лампи [светлина, създаваща атмосфера]; Електрически свещи; Ароматизирани електрически свещи; Лампички за украса; Светодиодни осветителни тела; LED ленти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Lampy [světla pro vytvoření nálady]; Elektrické svíčky; Parfémované elektrické svíčky; Světelné řetězy; LED svítidla; LED pásky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Lamper (stemningsbelysning); Elektriske stearinlys; Elektriske duftlys; Lyskæder; LED-belysningslegemer; Led-strips.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Lampen [Stimmungslicht]; Kerzen [elektrisch]; Duftkerzen [elektrisch]; Lichterketten; LED-Leuchten; LED-Leuchtstreifen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λαμπτήρες [φώτα για τη δημιουργία ατμοσφαιρικού φωτισμού]· Ηλεκτρικά κεριά· Ηλεκτρικά αρωματικά κεριά· Γιρλάντες με φωτάκια· Φωτιστικά σώματα με φωτοδιόδους (LED)· Λωρίδες φωτοδιόδων (LED).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Lamps [mood light]; Electric candles; Scented electric candles; Strings of lights; LED luminaires; LED light strips.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Lámparas [luz ambiente]; Velas eléctricas; Velas eléctricas perfumadas; Cadenas de luces; Luminarias LED; Tiras led.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Valgustid [meeleoluvalgustid]; Elektriküünlad; Lõhnastatud elektriküünlad; Nöörvalgustid; LED-valgustid; LED-ribad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lamput [tunnelmavalaisimet]; Sähkökynttilät; Tuoksuvat sähkökynttilät; Valosarjat; LED-valaisimet; LED-valonauhat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Lampes [lumière d'ambiance]; Bougies électriques; Bougies électriques parfumées; Guirlandes lumineuses; Luminaires à LED; Bandes DEL.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Svjetiljke [ambijentalno svjetlo]; Električne svijeće; Mirisne električne svijeće; Svjetleći girlande; LED rasvjeta; LED svjetiljke na traci.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Lámpák [hangulatvilágítás]; Elektromos gyertyák; Illatosított elektromos gyertyák; Fényfüzérek, lámpafüzérek; LED-es lámpatestek, fényforrások; LED-csíkok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Lampade [luci da atmosfera]; Candele elettriche; Candele elettriche profumate; Fili di luci; Illuminazioni a LED; Strisce led.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Lempos [maloniai atmosferai kurti]; Elektrinės žvakės; Kvepiančios elektrinės žvakės; Šviesų juostos; Šviesos diodų apšvietimo įtaisai; Šviesos diodų juostos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Lampas [noskaņas radīšanas apgaismojums]; Elektriskas sveces; Elektriskās sveces ar smaržvielām; Lampiņu virtenes; Gaismas diožu gaismekļi; Led – vadu veida apgaismojums.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Lampi [dawl li joħloq atmosfera]; Xemgħat tal-elettriku; Xemgħat elettriċi li jfuħu; Festuni bi dwal; Dawl LED; Strixxi tal-LED.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Lampen [sfeerverlichting]; Elektrische kaarsen; Elektrische geurkaarsen; Strengen Lampkettingen; Led-verlichting; Led-strips.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Lampy [oświetlenie nastrojowe]; Świece elektryczne; Zapachowe świece elektryczne; Sznury lampek; Urządzenia oświetleniowe LED; Taśmy led.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Lâmpadas de iluminação [luz de ambiente]; Velas elétricas; Velas perfumadas elétricas; Cordões de luzes; Luminárias LED; Fitas LED.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Lămpi [lămpi de relaxare]; Lumânări electrice; Lumânări electrice parfumate; Ghirlande luminoase; Luminatoare LED; Benzi cu led.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Svietidlá [náladové osvetlenie]; Elektrické sviečky; Parfumované elektrické sviečky; Svetelné reťaze; LED svietidlá; LED-pásky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Svetilke [razpoloženjske luči]; Električne sveče; Dišeče električne sveče; Verige lučk; LED svetila; LED-trakovi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Lampor [stämningsljus]; Elektriska ljus; Elektriska doftljus; Elektriska ljuskedjor; LED-ljuskällor; LED-strips.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>16</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Тетрадки; Книги, По-специално книги на тема пребиваване; Картонени контейнери за пакетиране; Покрити с лепило гърбове на букви и цифри.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zápisníky (notesy); Knihy, Zejména knihy pro téma bydlení; Balicí nádoby z lepenky; Lepicí písmena a číslice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Notesbøger; Bøger, Især bøger vedrørende boligindretning; Emballagebeholdere af pap; Bogstaver og tal med klæbende bagside.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Notizbücher; Bücher, insbesondere Bücher zum Thema Wohnen; Boxen aus Karton für Verpackungszwecke; selbstklebende Buchstaben und Zahlen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σημειωματάρια· Βιβλία, Ειδικότερα βιβλία με θέματα που αφορούν την κατοικία· Χάρτινα δοχεία συσκευασίας· Αυτοκόλλητα γράμματα και αριθμοί.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Notebooks; Books, In particular books on the subject of housing; Containers of card for packaging; Adhesive-backed letters and numbers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Libretas; Libros, En concreto, libros sobre habitabilidad; Recipientes de cartón para embalaje; Letras y números adhesivos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Märkmikud; Raamatud, Eelkõige koduteemalised raamatud; Kartongmahutid pakkimiseks; Kleeptähed ja -numbrid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Muistikirjat; Kirjat, Erityisesti asumista koskevat kirjat; Pakkaussäiliöt pahvista; Tarrakirjaimet ja -numerot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Carnets; Livres, En particulier livres sur le thème de l'habitat; Récipients d'emballage en carton; Lettres et numéros adhésifs pour la papeterie ou le ménage.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Bilježnice; Knjige, Posebno knjige na temu stanovanja; Kartonske ambalaže; Samoljepljiva slova i brojevi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Noteszok; Könyvek, Elsősorban könyvek a lakástémában; Kartondobozok csomagolásra; Öntapadós betűk és számok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Taccuini; Libri, In particolare libri sul tema dell'abitare; Contenitori in cartoncino per imballaggio; Lettere e numeri adesivi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Užrašų knygutės; Knygos, Ypač knygos apie gyvenimą; Kartoninės pakavimo talpos; Lipniosios raidės ir numeriai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Piezīmju grāmatiņas; Grāmatas, Jo īpaši grāmatas par dzīvesvietas iekārtošanas tēmu; Pakošanas konteineri no kartona; Pašlīmējoši burti un cipari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Takkwini; Kotba, Speċjalment kotba dwar l-akkomodazzjoni; Kontenituri tal-kartun għall-ippakkjar; Ittri u numri li għandhom il-kolla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Notitieboekjes; Boeken, Met name boeken met als thema wonen; Houders van karton voor verpakkingen; Letters en cijfers voorzien van een plaklaag.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Notatniki [notesy]; Książki, W szczególności książki dotyczące tematu mieszkania; Pojemniki kartonowe do pakowania; Litery i cyfry samoprzylepne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Blocos de notas; Livros, Em especial livros sobre habitação; Recipientes de cartão para embalagem; Letras e números adesivos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Carnete de notiţe; Cărţi, În special cărți pe tema locuinței; Recipiente din carton pentru ambalat; Litere şi cifre adezive.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poznámkové zošity; Knihy, Predovšetkým knihy na tému bývania; Kartónové nádoby na balenie; Písmená a číslice s lepiacou stranou.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zvezki; Knjige, Zlasti knjige o življenju; Pakirna embalaža iz lepenke; Samolepilne črke in številke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Memo-böcker; Böcker, Speciellt böcker avseende ämnet boende; Förpackningsbehållare av papp; Bokstäver och siffror med baksidor av lim.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>18</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Bсекидневни чанти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Tašky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tasker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Taschen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Τσάντες για ανεπίσημο ντύσιμο.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Casual bags.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bolsas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Vaba aja kotid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vapaa-ajanlaukut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Sacs de tous les jours.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Torbe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Hétköznapi, utcai táskák.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Borse casual.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kasdieniai krepšiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Somas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Basktijiet ta' kuljum.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Vrijetijdstassen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Torby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Sacos de lazer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Genţi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Tašky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Torbe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Fritidsväskor.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Oгледала (посребрено стъкло); Кутии от дърво или пластмаса; Мебели за вътрешни терариуми.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zrcadla; Krabice ze dřeva nebo plastu; Zařízení pro terária do interiérů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Spejle (forsølvet glas); Æsker af træ eller plastic; Møbler til indendørs terrarier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Spiegel; Boxen aus Holz oder Kunststoff; Möbel für Terrarien.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καθρέπτες (επαργυρωμένο γυαλί)· Κουτιά από ξύλο ή πλαστικό· Επιπλα για θερμικές γυάλες εσωτερικού χώρου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Mirrors (silvered glass); Boxes of wood or plastic; Furniture for indoor terraria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Espejos (vidrio argentado); Cajas de madera o de materias plásticas; Muebles para terrarios de interior.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Peeglid (hõbetatud klaas); Puit- või plastkastid; Toaterraariumide sisustus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Peilit (hopeoitu lasi); Laatikot, puuta tai muovia; Kalusteet sisäterraarioita varten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Miroirs (verre argenté); Boîtes en bois ou en matières plastiques; Meubles pour terrariums d'appartement.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ogledala (posrebreno staklo); Kutije, drvene ili plastične; Namještaj za unutarnje terarije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Tükrök (ezüstözött üveg); Dobozok fából vagy műanyagból; Bútorok beltéri terráriumokhoz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Specchi (vetro argentato); Cassette in legno o plastica; Mobili per terrari d'appartamento.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Veidrodžiai; Medinės ar plastikinės dėžės; Kambarinių terariumų baldai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Spoguļi; Koka vai plastmasas kastes; Furnitūra iekštelpu terārijiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Mirja (silvered glass); Kaxxi tal-injam jew tal-plastik; Għamara għal terrarji ta' ġewwa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Spiegels; Dozen van hout of plastic; Meubelen voor binnenhuisterrariums.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Lustra (srebrzone szkło); Pudełka drewniane lub z tworzyw sztucznych; Meble do terrariów wewnętrznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Espelhos (vidro prateado); Caixas em madeira ou em plástico; Móveis para terrários de interior.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Oglinzi (sticlă argintată); Cutii din lemn sau din materiale plastice; Mobilier pentru terarii de interior.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zrkadlá; Drevené alebo plastové krabice; Vybavenie pre interiérové teráriá.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Ogledala (posrebreno steklo); Škatle iz lesa ali plastike; Pohištvo za sobne terarije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Speglar (försilvrat glas); Lådor av trä eller plast; Möbler för inomhusterrarier.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>21</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Купички от порцелан; Купи; Винени чаши; Чаши; Терариуми; Буркани; Съдове за пиене и принадлежности за барове, също като комплекти; Пластмасови рафтове за вана [кошнички]; Табли за легла [помощни средства]; Купички от порцелан; Купи; Винени чаши; Чаши; Терариуми; Буркани; Съдове за пиене и принадлежности за барове, също като комплекти; Пластмасови рафтове за вана [кошнички]; Табли за легла [помощни средства].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Misky z porcelánu; Misky; Skleničky na víno; Šálky; Terária; Nádobky; Nádoby na pití a příslušenství baru, také jako sada; Plastové držáky do koupelny; Podnos do postele [pomůcky]; Misky z porcelánu; Misky; Skleničky na víno; Šálky; Terária; Nádobky; Nádoby na pití a příslušenství baru, také jako sada; Plastové držáky do koupelny; Podnos do postele [pomůcky].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Skåle af porcelæn; Spølkum; Vinglas; Kopper; Terrarier; Krukker; Drikkebeholdere og tilbehør til barer, også i form af sæt; Badekarshylder af plastic til husholdningsbrug; Sengebakker (hjælpemidler); Skåle af porcelæn; Spølkum; Vinglas; Kopper; Terrarier; Krukker; Drikkebeholdere og tilbehør til barer, også i form af sæt; Badekarshylder af plastic til husholdningsbrug; Sengebakker (hjælpemidler).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schalen aus Porzellan; Schalen; Weingläser; Tassen; Terrarien; Gläser; Trinkgefäße und Barzubehör, auch als Set; Badewannentablett [Hilfsmittel]; Betttablett [Hilfsmittel]; Schalen aus Porzellan; Schalen; Weingläser; Tassen; Terrarien; Gläser; Trinkgefäße und Barzubehör, auch als Set; Badewannentablett [Hilfsmittel]; Betttablett [Hilfsmittel].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Γαβάθες από πορσελάνη· Γαβάθες· Ποτήρια κρασιού· Κύπελλα (όχι από πολύτιμα μέταλλα)· Θερμικές γυάλες· Βάζα· Δοχεία πόσης και εξαρτήματα για μπαρ, επίσης ως σετ· Πλαστικά ράφια μπάνιου [σχάρες]· Δίσκοι κρεβατιού [βοηθήματα]· Γαβάθες από πορσελάνη· Γαβάθες· Ποτήρια κρασιού· Κύπελλα (όχι από πολύτιμα μέταλλα)· Θερμικές γυάλες· Βάζα· Δοχεία πόσης και εξαρτήματα για μπαρ, επίσης ως σετ· Πλαστικά ράφια μπάνιου [σχάρες]· Δίσκοι κρεβατιού [βοηθήματα].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Bowls of porcelain; Basins [bowls]; Wine glasses; Cups; Terrariums; Jars; Drinking vessels and barware, including being sets; Plastic bath racks [caddies]; Bed trays [aids]; Bowls of porcelain; Basins [bowls]; Wine glasses; Cups; Terrariums; Jars; Drinking vessels and barware, including being sets; Plastic bath racks [caddies]; Bed trays [aids].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Tazones de porcelana; Tazones (cuencos); Copas de vino; Tazas; Terrarios; Botes (tarros); Recipientes para beber y accesorios de bar, también como conjunto; Portaobjetos de plástico para cuarto de baño; Tabletas para camas [productos de ayuda]; Tazones de porcelana; Tazones (cuencos); Copas de vino; Tazas; Terrarios; Botes (tarros); Recipientes para beber y accesorios de bar, también como conjunto; Portaobjetos de plástico para cuarto de baño; Tabletas para camas [productos de ayuda].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Portselanvaagnad; Kausid, vaagnad; Veiniklaasid; Tassid; Terraariumid; Purgid; Jooginõud ja baaritarvikud, ka komplektidena; Plastist vanniriiulid [kandikud]; Voodikandikud [abivahendid]; Portselanvaagnad; Kausid, vaagnad; Veiniklaasid; Tassid; Terraariumid; Purgid; Jooginõud ja baaritarvikud, ka komplektidena; Plastist vanniriiulid [kandikud]; Voodikandikud [abivahendid].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Posliiniastiat; Vadit [astiat]; Viinilasit; Kupit; Terraariot; Τölkit; Juoma-astiat ja baaritarvikkeet, myös sarjoina; Muoviset ammeen reunoihin kiinnitettävät tarviketelineet [telineet]; Sänkytarjottimet [apuvälineet]; Posliiniastiat; Vadit [astiat]; Viinilasit; Kupit; Terraariot; Τölkit; Juoma-astiat ja baaritarvikkeet, myös sarjoina; Muoviset ammeen reunoihin kiinnitettävät tarviketelineet [telineet]; Sänkytarjottimet [apuvälineet].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Bols en porcelaine; Bols; Verres à vin; Tasses; Terrariums; Pots; Récipients pour boire et accessoires de bar, également en tant que jeux; Ponts de bain en plastique; Plateaux de lits [auxiliaires]; Bols en porcelaine; Bols; Verres à vin; Tasses; Terrariums; Pots; Récipients pour boire et accessoires de bar, également en tant que jeux; Ponts de bain en plastique; Plateaux de lits [auxiliaires].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Plitice od porculana; Plitice [zdjelice]; Vinske čaše; Šalice; Terariji; Staklenke; Posude za pića i pribor za barove, također i kao komplet; Plastični stalci za kupaonicu [police]; Poslužavnik za krevet [pomagala]; Plitice od porculana; Plitice [zdjelice]; Vinske čaše; Šalice; Terariji; Staklenke; Posude za pića i pribor za barove, također i kao komplet; Plastični stalci za kupaonicu [police]; Poslužavnik za krevet [pomagala].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Porcelán tálak; Mosdótálak, lavórok; Borospoharak; Csészék; Terráriumok; Tárolóüvegek, befőttesüvegek; Ivóedények és bártartozékok, szettként is; Műanyag fürdőszobai állványok [polcok]; Ágytálcák [segédeszközök]; Porcelán tálak; Mosdótálak, lavórok; Borospoharak; Csészék; Terráriumok; Tárolóüvegek, befőttesüvegek; Ivóedények és bártartozékok, szettként is; Műanyag fürdőszobai állványok [polcok]; Ágytálcák [segédeszközök].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Scodelle in porcellana; Bacinelle; Bicchieri da vino; Tazze; Terrari; Barattoli; Servizi di bicchieri e accessori per bar, anche come set; Portaoggetti in plastica per il bagno; Vassoi da letto [prodotti ausiliari]; Scodelle in porcellana; Bacinelle; Bicchieri da vino; Tazze; Terrari; Barattoli; Servizi di bicchieri e accessori per bar, anche come set; Portaoggetti in plastica per il bagno; Vassoi da letto [prodotti ausiliari].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Porcelianiniai dubenėliai; Katiliukai; Vyno taurės; Puodukai; Terariumai; Stiklainiai; Geriamieji indai ir baro reikmenys, taip pat kaip rinkiniai; Plastikinės vonios lentynėlės; Lovos padėklai [pagalbinės priemonės]; Porcelianiniai dubenėliai; Katiliukai; Vyno taurės; Puodukai; Terariumai; Stiklainiai; Geriamieji indai ir baro reikmenys, taip pat kaip rinkiniai; Plastikinės vonios lentynėlės; Lovos padėklai [pagalbinės priemonės].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Porcelāna šķīvītis; Bļodas [tvertnes]; Vīna glāzes; Tases; Terāriji; Stikla burkas; Dzērienu trauki un bāra piederumi, arī komplektā; Vannas plaukti no plastmasas [statīvi]; Gultas paplāte [palīglīdzekļi]; Porcelāna šķīvītis; Bļodas [tvertnes]; Vīna glāzes; Tases; Terāriji; Stikla burkas; Dzērienu trauki un bāra piederumi, arī komplektā; Vannas plaukti no plastmasas [statīvi]; Gultas paplāte [palīglīdzekļi].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Skutelli tal-porċellana; Friskaturi [skutelli]; Tazzi tal-inbid; Kikkri; Terrarji; Vażetti; Reċipjenti għax-xorb u aċċessorji tal-bar, anke bħala sett; Xtillieri tal-plastik għall-banju [caddies]; Trej tas-sodda [mezzi ta' għajnuna]; Skutelli tal-porċellana; Friskaturi [skutelli]; Tazzi tal-inbid; Kikkri; Terrarji; Vażetti; Reċipjenti għax-xorb u aċċessorji tal-bar, anke bħala sett; Xtillieri tal-plastik għall-banju [caddies]; Trej tas-sodda [mezzi ta' għajnuna].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Schalen van porselein; Kommen; Wijnglazen; Kopjes; Terraria; Bokalen; Drinkgerei en accessoires voor bars, ook als set; Plastic badrekken [hulpstukken]; Dienbladen voor op bed [hulpmiddelen]; Schalen van porselein; Kommen; Wijnglazen; Kopjes; Terraria; Bokalen; Drinkgerei en accessoires voor bars, ook als set; Plastic badrekken [hulpstukken]; Dienbladen voor op bed [hulpmiddelen].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Miski porcelanowe; Miseczki; Kieliszki do wina; Filiżanki; Terraria; słoiki; Naczynia na napoje i akcesoria barowe, także jako zestaw; Półki z tworzywa sztucznego do wanien; Tace do spożywania posiłków w łóżku [pomoce]; Miski porcelanowe; Miseczki; Kieliszki do wina; Filiżanki; Terraria; słoiki; Naczynia na napoje i akcesoria barowe, także jako zestaw; Półki z tworzywa sztucznego do wanien; Tace do spożywania posiłków w łóżku [pomoce].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Tijelas em porcelana; Bacias [pias]; Copos de vinho; Taças; Terrários; Frascos; Recipientes para bebidas e acessórios de bar, incluindo enquanto conjunto; Prateleiras de banho em plástico [transportadores]; Tabuleiros de colocar em cima da cama [complementos]; Tijelas em porcelana; Bacias [pias]; Copos de vinho; Taças; Terrários; Frascos; Recipientes para bebidas e acessórios de bar, incluindo enquanto conjunto; Prateleiras de banho em plástico [transportadores]; Tabuleiros de colocar em cima da cama [complementos].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Boluri din porțelan; Chiuvete; Pahare de vin; Ceşti; Terarii; Borcane; Vase de băut și accesorii pentru baruri, inclusiv sub formă de set; Etajere pentru cadă din material plastic; Tăvi de pat [produse auxiliare]; Boluri din porțelan; Chiuvete; Pahare de vin; Ceşti; Terarii; Borcane; Vase de băut și accesorii pentru baruri, inclusiv sub formă de set; Etajere pentru cadă din material plastic; Tăvi de pat [produse auxiliare].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Misky z porcelánu; Misy; Poháre na víno; Šálky; Teráriá; Poháre; Nádoby na pitie a barové príslušenstvo, aj ako súprava; Plastové regály pre vane; Tácky do postele [pomôcky]; Misky z porcelánu; Misy; Poháre na víno; Šálky; Teráriá; Poháre; Nádoby na pitie a barové príslušenstvo, aj ako súprava; Plastové regály pre vane; Tácky do postele [pomôcky].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Skodelice iz porcelana; Umivalniki (sklede); Kozarci za vino; Skodelice; Terariji; Kozarci; Posode za pitje in dodatki za točilnico, tudi kot kompleti; Plastične police za kopalne kadi [posodice]; Pladnji za v posteljo [pripomočki]; Skodelice iz porcelana; Umivalniki (sklede); Kozarci za vino; Skodelice; Terariji; Kozarci; Posode za pitje in dodatki za točilnico, tudi kot kompleti; Plastične police za kopalne kadi [posodice]; Pladnji za v posteljo [pripomočki].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Skålar av porslin; Bunkar [skålar]; Vinglas; Bägare; Terrarier; Burkar; Dryckeskärl och bartillbehör, även som sats; Duschhyllor av plast [caddies]; Sängbricka [hjälpmedel]; Skålar av porslin; Bunkar [skålar]; Vinglas; Bägare; Terrarier; Burkar; Dryckeskärl och bartillbehör, även som sats; Duschhyllor av plast [caddies]; Sängbricka [hjälpmedel].</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>24</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Кърпи, хавлии от текстил; Одеяла; Плетени одеяла.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Ručníky; Přikrývky; Pletené dečky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Håndklæder af tekstilmateriale; Tæpper; Strikkede tæpper.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Handtücher; Decken; Strickdecken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Πετσέτες· Κουβέρτες· Πλεκτές κουβέρτες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Towels of textile; Blankets; Knitted blankets.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Toallas; Mantas; Mantas de punto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Riidest käterätikud; Tekid; Kootud tekid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Pyyheliinat; Huovat; Neulotut peitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Serviettes de toilette; Couvertures; Couvertures tricotées.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ručnici; Pokrivači; Pleteni prekrivači.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Törölközők; Takarók; Kötött takarók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Asciugamani in materie tessili; Coperte; Coperte lavorate a maglia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Tekstiliniai rankšluosčiai; Antklodės; Megzti užklotai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dvieļi; Segas; Adītas segas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xugamani; Kutri; Kutri nnittjati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Handdoeken; Dekens; Gebreide dekens.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Ręczniki; Koce; Koce dziergane.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Toalhas; Cobertores; Cobertores tricotados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Prosoape; Pături; Pături tricotate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Textilné uteráky; Prikrývky; Pletené deky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Brisače; Odeje; Pletene odeje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Textilhanddukar; Filtar; Stickade täcken.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>28</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Топки за сняг.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Sněhové koule.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Snekugler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schneekugeln.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μπάλες χιονιού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Snow globes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bolas de nieve (juguetes).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Lumesadu imiteerivad klaaskuulid lauale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lumisadepallot [leluina tai koristeina].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Boules à neige.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Snježne kugle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Hógömbök.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Globi di neve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Sniego rutuliai (žaislai).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Sniega bumbas [caurspīdīgas stikla lodes ar iekšpusē iestrādātām ainavām un krītoša sniega imitāciju].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Globi tal-borra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Sneeuwbollen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Śnieżne kule.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Globos de neve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Globuri de sticlă cu zăpadă în interior.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Snežiace gule.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Snežne krogle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Snöglober.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Чай.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Čaj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Te.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Tee.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Τσάι.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Tea.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Té.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Tee.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tee.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Thé.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Čaj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Tea.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tè.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Arbata.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Tēja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tè.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Thee.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Herbata.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Chá.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Ceai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Čaj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Čaj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Te.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/087</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/159</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082274</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11854</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

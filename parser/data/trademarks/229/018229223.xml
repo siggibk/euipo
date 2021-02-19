@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:08</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229223</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229223</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Amrxuts</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Дебитомери; Фотоелектрични сензори; Температурни сензори; Датчици за налягане; Сензори за газ; Електронни сензори; Релета, електрически; Електромагнитни бобини; Пиезоелектрически превключватели; Измервателни уреди за налягането в гумите; Щепселен съединител; Превключватели, електрически; Контролни устройства за електрически ток; Запалителни устройства, електрически, за дистанционно запалване; Километражи за превозни средства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Průtokoměry; Fotoelektrická čidla; Teplotní čidla; Tlaková čidla; Plynová čidla; Elektronická čidla; Elektrická relé; Elektromagnetické cívky; Piezoelektrické spínače; Měřidla tlaku v pneumatikách; Zásuvné konektory; Elektrické vypínače a spínače; Ovladače na elektrický proud; Elektrická zařízení na dálkové zapalování; Zařízení pro záznam ujeté vzdálenosti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Flowmålere; Fotoelektriske sensorer; Temperatursensorer; Trykfølere; Gassensorer; Elektroniske sensorer; Relæer, elektriske; Elektromagnetiske spoler; Piezoelektriske afbrydere; Trykmålere til dæk; Stikforbindelser; Afbrydere, elektriske; Anordninger til styring af elektrisk strøm; Elektriske apparater til fjerntænding; Kilometertællere til befordringsmidler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Durchflusssensoren; Photoelektrische Sensoren; Temperatursensoren; Druckaufnehmer; Gassensoren; Elektronische Sensoren; Elektrische Relais; Elektromagnetspulen; Piezoelektrische Schalter; Reifendruckmesser; Steckverbinder; Schalter [Stromunterbrecher]; Geräte zum Regeln von Strom; Elektrische Fernzündungsgeräte; Fahrtenschreiber für Fahrzeuge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μετρητές ροής· Φωτοηλεκτρικοί αισθητήρες· Αισθητήρες θερμοκρασίας· Αισθητήρες πίεσης· Αισθητήρες αερίου· Ηλεκτρονικοί αισθητήρες· Ηλεκτρικός (Ηλεκτρονόμος -)· Ηλεκτρομαγνητικά πηνία· Πιεζοηλεκτρικοί διακόπτες· Μετρητές πίεσης ελαστικών· Plug-in υποδοχές· Διακόπτες ηλεκτρικοί· Διατάξεις ελέγχου ηλεκτρικού ρεύματος· Ανάφλεξης από απόσταση (Ηλεκτρικοί μηχανισμοί -)· Μετρητές χιλιομετρικοί για οχήματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Flowmeters; Photoelectric sensors; Temperature sensors; Pressure sensors; Gas sensors; Electronic sensors; Relays,electric; Electromagnetic coils; piezoelectric switches; Tyre-pressure measurers; Plug-in connectors; Switches,electric; Electric current control devices; igniting apparatus, electric, for igniting at a distance; Mileage recorders for vehicles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Caudalímetros; Sensores fotoeléctricos; Sensores de temperatura; Sensores de presión; Sensores de gas; Sensores electrónicos; Relés eléctricos; Bobinas electromagnéticas; Interruptores piezoeléctricos; Medidores de la presión de los neumáticos; Conectores de enchufes; Interruptores; Dispositivos de control de la corriente eléctrica; Dispositivos eléctricos de encendido a distancia; Cuentakilómetros para vehículos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Veemõõtjad; Fotoelektrilised andurid; Termoandurid; Rõhuandurid; Gaasisensorid; Elektroonilised andurid; Elektrireleed; Elektromagnetilised poolid; Piesoelektrilised lülitid; Rehvide rõhumõõdikud; Pistikuühendused; Elektrilülitid; Elektrivoolu regulaatorid (seadmed); Elektrilised kaugsüüteseadmed; Sõidukite kilomeetriloendurid, miililoendurid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Virtausmittarit; Valosähköanturit; Lämpötila-anturit; Paineanturit; Kaasuanturit; Elektroniset anturit; Releet (Sähkö -); Käämit, sähkömagneettiset; Pietsosähköiset kytkimet; Rengaspainemittarit; Pistoliittimet; Katkaisijat (Sähkö -); Sähkönsäätölaitteet; Sähköiset sytytyslaitteet kaukosytytykseen; Matkamittarit ajoneuvoihin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Débitmètres; Capteurs photoélectriques; Capteurs de température; Capteurs de pression; Capteurs de gaz; Capteurs électroniques; Relais électriques; Bobines d'électro-aimants; Commutateurs piézoélectriques; Mesureurs de pression pour pneus; Connecteurs enfichables; Interrupteurs; Dispositifs de contrôle du courant électrique; Dispositifs électriques d'allumage à distance [mise à feu]; Enregistreurs kilométriques pour véhicules.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Mjerači protoka; Fotoelektrični senzori; Senzori temperature; Senzori tlaka; Senzori za plin; Elektronički senzori; Električni releji; Elektromagnetni svici; Piezoelektrični prekidači; Manometri za automobilske gume; Utični konektori; Električne sklopke; Uređaji za kontrolu struje; Električna oprema za daljinsko paljenje; Brojač kilometara za vozila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Áramlásmérők, fogyasztásmérők; Fotoelektromos érzékelők; Hőmérséklet-érzékelők; Nyomásérzékelők; Gázérzékelők; Elektronikus érzékelők, szenzorok; Relék, elektromos; Elektromágneses tekercsek; Piezoelektromos kapcsolók; Abroncsnyomásmérők; Dugaszolható csatlakozók; Kapcsolók, elektromos; Elektromos áramszabályozó készülékek; Elektromos távgyújtó készülékek; Kilométerszámlálók járművekhez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Flussometri [misuratori di portata]; Sensori fotoelettrici; Indicatori di temperatura; Sensori di pressione; Sensori di rilevamento gas; Sensori elettronici; Relè elettrici; Bobine d'elettromagneti; Interruttori piezoelettrici; Misuratori della pressione degli pneumatici; Connettori ad innesto; Interrutori elettrici; Dispositivi di controllo della corrente elettrica; Dispositivi elettrici per l'accensione a distanza; Registratori contachilometri per veicoli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Srautmačiai; Fotoelektriniai jutikliai; Temperatūros jutikliai; Spaudimo davikliai; Dujų jutikliai; Elektroniniai jutikliai; Elektrinės relės; Elektromagnetinės ritės; Pjezoelektriniai jungikliai; Padangų slėgio matuokliai; Kištukinės jungtys; Elektros jungikliai; Elektros srovės valdikliai; Elektriniai nuotolinio uždegimo aparatai; Nuvažiuoto kelio skaitikliai (transporto priemonėms).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Caurplūdes mērītāji; Fotoelektriski sensori; Temperatūras sensori; Spiediena sensori; Gāzes sensori; Elektroniski sensori; Elektriskie releji; Elektromagnētiskās spoles; Pjezoelektriskie slēdži; Riepu spiediena mērītāji; Kontaktspraudņi; Elektriskie slēdži; Elektriskās strāvas vadības ierīces; Elektriskas ierīces aizdedzes attālinātai iedarbināšanai; Nobraukuma reģistrācijas ierīces.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Strumenti għall-kejl tal-fluss; Sensers foto-elettriċi; Tagħmir sensittiv għat-temperatura; Strumenti sensittivi għall-pressjoni; Sensuri tal-gass; Sensers elettroniċi; Tagħmir elettriku li jirċievi u li jittrasmetti; Kolji elettromanjetiċi; Swiċis pjeżoelettriċi; Apparat għall-kejl tal-pressa fit-tajer; Konnetturi plug-in; Swiċċijiet elettriċi; Tagħmir għall-kontroll tal-kurrent elettriku; Apparat tal-elettriku għal tqabbid mill-bogħod; Reġistraturi tal-mili għal vetturi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Debietmeters; Sensoren (Foto-elektrische -); Temperatuursensoren; Druksensoren; Gasdetectoren; Sensoren (Elektronische -); Elektrische relais; Spoelen voor elektro magneten; Piëzo-elektrische schakelaars; Bandenspanningsmeters; Insteekverbindingen; Elektrische schakelaars; Elektriciteitsregelaars; Apparatuur voor elektrische ontsteking [ontbranding] op afstand; Kilometertellers voor voertuigen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Przepływomierze; Czujniki fotoelektryczne; Czujniki temperatury; Czujniki ciśnienia; Czujniki gazu; Czujniki elektroniczne; Przekaźniki elektryczne; Cewki elektromagnetyczne; Przełączniki piezoelektryczne; Przyrządy do pomiaru ciśnienia w oponach; Łączniki wtykowe; Przełączniki elektryczne; Urządzenia do sterowania prądem elektrycznym; Urządzenia elektryczne do zdalnego zapłonu; Rejestratory przebytej drogi [w milach] dla pojazdów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Medidores de vazão; Sensores fotoelétricos; Sensores de temperatura; Sensores de pressão; Sensores de gás; Sensores eletrónicos; Relés elétricos; Bobinas eletromagnéticas; Interruptores piezoelétricos; Medidores da pressão dos pneus; Terminais de ligação; Interruptores elétricos; Dispositivos de controlo da corrente elétrica; Dispositivos elétricos para ignição à distância; Registadores quilométricos para veículos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Fluometre; Senzori fotoelectrici; Senzori de temperatură; Senzori de presiune; Senzori de gaz; Senzori electronici; Relee electrice; Magneți; Comutatoare piezoelectrice; Dispozitive pentru măsurarea presiunii anvelopelor; Conectoare cu fișă de contact; Întrerupătoare; Dispozitive de comandă a curentului electric; Dispozitive electrice pentru combustie la distanță; Kilometraje pentru vehicule.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Prietokomery; Fotoelektrické senzory; Teplotné senzory; Tlakové snímače; Snímače plynu; Elektronické senzory; Elektrické relé; Elektromagnetické cievky; Piezoelektrické spínače; Tlakomery na pneumatiky; Konektory typu plug-in; Vypínače; Zariadenia na riadenie elektrického prúdu; Elektrické zariadenia na diaľkové zapaľovanie; Tachografy vozidiel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Merilniki pretoka; Fotoelektrični senzorji; Temperaturni senzorji; Tlačni senzorji; Plinski senzorji; Elektronski senzorji; Releji, električni; Elektromagnetne tuljave; Piezoelektrična stikala; Merilniki tlaka v pnevmatikah; Priključni konektorji; Stikala, električna; Naprave za nadzor električnega toka; Električni aparati za daljinski vžig; Števci kilometrov za vozila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Flödesmätare; Fotoelektriska sensorer; Temperaturgivare; Tryckgivare; Gassensorer; Elektroniska sensorer; Elektriska reläer; Elektromagnetiska spolar; Piezoelektriska strömbrytare; Kalibreringsanordningar för däck; Stickproppsanslutningar; Elektriska strömbrytare; Styrutrustning för elektrisk ström; Elektriska tändapparater för fjärrstyrd tändning; Vägmätare för fordon.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15066</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

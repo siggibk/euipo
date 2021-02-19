@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:51</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063895-0003</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-28</ReceivingOfficeDate>
+<DesignIdentifier>001063895-0003</DesignIdentifier>
+<ApplicationNumber>001063895</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ApplicationDate>2008-12-28</ApplicationDate>
+<RegistrationDate>2008-12-28</RegistrationDate>
+<PublicationDate>2009-01-29</PublicationDate>
+<ApplicationReference>sho-41101/eu</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-28</ExpiryDate>
+<EffectiveDate>2008-12-28</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061958660</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063895_0003/001063895_0003_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061958662</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063895_0003/001063895_0003_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061958665</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063895_0003/001063895_0003_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061958667</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063895_0003/001063895_0003_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061958670</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063895_0003/001063895_0003_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061958672</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063895_0003/001063895_0003_6.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Бюфети</IndicationProduct>
+       <IndicationProduct languageCode="bg">Гардероби</IndicationProduct>
+       <IndicationProduct languageCode="bg">Шкафове</IndicationProduct>
+       <IndicationProduct languageCode="bg">Шкафчета (Неподвижни -) [мебели]</IndicationProduct>
+       <IndicationProduct languageCode="bg">Сандъци</IndicationProduct>
+       <IndicationProduct languageCode="cs">Bedny (skříňky)</IndicationProduct>
+       <IndicationProduct languageCode="cs">Kuchyňské kredence</IndicationProduct>
+       <IndicationProduct languageCode="cs">Šatníky</IndicationProduct>
+       <IndicationProduct languageCode="cs">Skříňky na psací potřeby [nábytek]</IndicationProduct>
+       <IndicationProduct languageCode="cs">Skříně</IndicationProduct>
+       <IndicationProduct languageCode="da">Klædeskabe</IndicationProduct>
+       <IndicationProduct languageCode="da">Skabe</IndicationProduct>
+       <IndicationProduct languageCode="da">Kister</IndicationProduct>
+       <IndicationProduct languageCode="da">Anretterborde</IndicationProduct>
+       <IndicationProduct languageCode="da">Skabe til kontorartikler</IndicationProduct>
+       <IndicationProduct languageCode="de">Kästchen für Schreibwaren [Mobiliar]</IndicationProduct>
+       <IndicationProduct languageCode="de">Truhen</IndicationProduct>
+       <IndicationProduct languageCode="de">Schränke</IndicationProduct>
+       <IndicationProduct languageCode="de">Anrichten</IndicationProduct>
+       <IndicationProduct languageCode="de">Kleiderschränke</IndicationProduct>
+       <IndicationProduct languageCode="el">Βοηθητικά έπιπλα (προεκτάσεις τραπεζιών)</IndicationProduct>
+       <IndicationProduct languageCode="el">Ερμάρια (είδη χαρτοπωλείου) [έπιπλα]</IndicationProduct>
+       <IndicationProduct languageCode="el">Ιματιοθήκες</IndicationProduct>
+       <IndicationProduct languageCode="el">Ξύλινα μπαούλα με ανάκυρτο καπάκι</IndicationProduct>
+       <IndicationProduct languageCode="el">Ντουλάπια</IndicationProduct>
+       <IndicationProduct languageCode="en">Cupboards</IndicationProduct>
+       <IndicationProduct languageCode="en">Wardrobes</IndicationProduct>
+       <IndicationProduct languageCode="en">Sideboards</IndicationProduct>
+       <IndicationProduct languageCode="en">Chests</IndicationProduct>
+       <IndicationProduct languageCode="en">Cabinets (Stationery -) [furniture]</IndicationProduct>
+       <IndicationProduct languageCode="es">Cofres</IndicationProduct>
+       <IndicationProduct languageCode="es">Bufetes</IndicationProduct>
+       <IndicationProduct languageCode="es">Armarios</IndicationProduct>
+       <IndicationProduct languageCode="es">Armarios</IndicationProduct>
+       <IndicationProduct languageCode="es">Armarios (artículos de papelería -) [muebles]</IndicationProduct>
+       <IndicationProduct languageCode="et">Kummutid</IndicationProduct>
+       <IndicationProduct languageCode="et">Kirjatarvete kapid</IndicationProduct>
+       <IndicationProduct languageCode="et">Kapid (riiulitega)</IndicationProduct>
+       <IndicationProduct languageCode="et">Riidekapid</IndicationProduct>
+       <IndicationProduct languageCode="et">Puhvetkapid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Kaapit (Paperitarvike -) [huonekalut]</IndicationProduct>
+       <IndicationProduct languageCode="fi">Vaatekaapit</IndicationProduct>
+       <IndicationProduct languageCode="fi">Kirstut</IndicationProduct>
+       <IndicationProduct languageCode="fi">Astiakaapit</IndicationProduct>
+       <IndicationProduct languageCode="fi">Aputasot</IndicationProduct>
+       <IndicationProduct languageCode="fr">Bahuts</IndicationProduct>
+       <IndicationProduct languageCode="fr">Dressoirs</IndicationProduct>
+       <IndicationProduct languageCode="fr">Armoires</IndicationProduct>
+       <IndicationProduct languageCode="fr">Coffrets à papeterie [meubles]</IndicationProduct>
+       <IndicationProduct languageCode="fr">Garde-robes</IndicationProduct>
+       <IndicationProduct languageCode="hu">Szekrények (Irodaszer-) [Bútor]</IndicationProduct>
+       <IndicationProduct languageCode="hu">Ruhaszekrények</IndicationProduct>
+       <IndicationProduct languageCode="hu">Fiókos szekrények, tárolóládák és -dobozok</IndicationProduct>
+       <IndicationProduct languageCode="hu">Pohárszékek, tálalóasztalok</IndicationProduct>
+       <IndicationProduct languageCode="hu">Szekrények</IndicationProduct>
+       <IndicationProduct languageCode="it">Guardaroba</IndicationProduct>
+       <IndicationProduct languageCode="it">Buffet</IndicationProduct>
+       <IndicationProduct languageCode="it">Casse</IndicationProduct>
+       <IndicationProduct languageCode="it">Credenze</IndicationProduct>
+       <IndicationProduct languageCode="it">Cassette per cartoleria [mobilio]</IndicationProduct>
+       <IndicationProduct languageCode="lt">Drabužių spintos</IndicationProduct>
+       <IndicationProduct languageCode="lt">Indaujos</IndicationProduct>
+       <IndicationProduct languageCode="lt">Spintos</IndicationProduct>
+       <IndicationProduct languageCode="lt">Spintelės (Raštinės reikmenų -) [baldai]</IndicationProduct>
+       <IndicationProduct languageCode="lt">Skrynios</IndicationProduct>
+       <IndicationProduct languageCode="lv">Drēbju skapji</IndicationProduct>
+       <IndicationProduct languageCode="lv">(Rakstāmpiederumu) plaukti [mēbeles]</IndicationProduct>
+       <IndicationProduct languageCode="lv">Lādes</IndicationProduct>
+       <IndicationProduct languageCode="lv">Skapji</IndicationProduct>
+       <IndicationProduct languageCode="lv">Trauku skapji</IndicationProduct>
+       <IndicationProduct languageCode="mt">Gwardarobbi</IndicationProduct>
+       <IndicationProduct languageCode="mt">Ċestuni</IndicationProduct>
+       <IndicationProduct languageCode="mt">Sideboards</IndicationProduct>
+       <IndicationProduct languageCode="mt">Armarji</IndicationProduct>
+       <IndicationProduct languageCode="mt">Kabinetti (kartolerija -) (għamara)</IndicationProduct>
+       <IndicationProduct languageCode="nl">Garderobes</IndicationProduct>
+       <IndicationProduct languageCode="nl">Dientafels</IndicationProduct>
+       <IndicationProduct languageCode="nl">Kisten</IndicationProduct>
+       <IndicationProduct languageCode="nl">Kasten</IndicationProduct>
+       <IndicationProduct languageCode="nl">Kasten voor kantoorbenodigdheden</IndicationProduct>
+       <IndicationProduct languageCode="pl">Szafki (materiały biurowe) [meble]</IndicationProduct>
+       <IndicationProduct languageCode="pl">Kufry</IndicationProduct>
+       <IndicationProduct languageCode="pl">Kredensy</IndicationProduct>
+       <IndicationProduct languageCode="pl">Kredensy</IndicationProduct>
+       <IndicationProduct languageCode="pl">Szafy na ubrania</IndicationProduct>
+       <IndicationProduct languageCode="pt">Armários</IndicationProduct>
+       <IndicationProduct languageCode="pt">Arcas</IndicationProduct>
+       <IndicationProduct languageCode="pt">Armários para artigos de papelaria (mobiliário)</IndicationProduct>
+       <IndicationProduct languageCode="pt">Guarda-fatos</IndicationProduct>
+       <IndicationProduct languageCode="pt">Bufetes</IndicationProduct>
+       <IndicationProduct languageCode="ro">Dulapuri de birou</IndicationProduct>
+       <IndicationProduct languageCode="ro">Garderoburi</IndicationProduct>
+       <IndicationProduct languageCode="ro">Bufeturi</IndicationProduct>
+       <IndicationProduct languageCode="ro">Scrinuri</IndicationProduct>
+       <IndicationProduct languageCode="ro">Bufete</IndicationProduct>
+       <IndicationProduct languageCode="sk">Skrine (Kancelárske potreby -) [nábytok]</IndicationProduct>
+       <IndicationProduct languageCode="sk">Príborníky</IndicationProduct>
+       <IndicationProduct languageCode="sk">Skrine</IndicationProduct>
+       <IndicationProduct languageCode="sk">Truhlice</IndicationProduct>
+       <IndicationProduct languageCode="sk">Skrinky</IndicationProduct>
+       <IndicationProduct languageCode="sl">Skrinje</IndicationProduct>
+       <IndicationProduct languageCode="sl">Kredence</IndicationProduct>
+       <IndicationProduct languageCode="sl">Kredence</IndicationProduct>
+       <IndicationProduct languageCode="sl">Omarice za pisalne potrebščine [pohištvo]</IndicationProduct>
+       <IndicationProduct languageCode="sl">Garderobne omare</IndicationProduct>
+       <IndicationProduct languageCode="sv">Kistor</IndicationProduct>
+       <IndicationProduct languageCode="sv">Skåp (kontorsmaterial) (möbler)</IndicationProduct>
+       <IndicationProduct languageCode="sv">Garderober</IndicationProduct>
+       <IndicationProduct languageCode="sv">Skåp</IndicationProduct>
+       <IndicationProduct languageCode="sv">Sideboard</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>06.04</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/019</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-29</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/235</PublicationIdentifier>
+        <PublicationSequenceNumber>339330</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2009-11-20</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325887</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>299302</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>5098</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003574120</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>339330</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-11-20</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

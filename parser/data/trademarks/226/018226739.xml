@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:07</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226739</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226739</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>NOBEET</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хранителни добавки; Хранителни добавки; Витамини и минерални добавки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Potravinové doplňky; Potravinové doplňky; Vitaminové a minerální doplňky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Diæt- og kosttilskud; Diæt- og kosttilskud; Vitamin- og mineraltilskud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Nahrungsergänzungsmittel für diätetische Zwecke; Nahrungsergänzungsmittel für diätetische Zwecke; Vitamin- und Mineralstoffzusätze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συμπληρώματα διατροφής· Συμπληρώματα διατροφής· Συμπληρώματα βιταμινών και μεταλλικών στοιχείων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Food supplements; Food supplements; Vitamin and mineral supplements.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Complementos dietéticos; Complementos dietéticos; Suplementos vitamínicos y minerales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toidulisandid; Toidulisandid; Vitamiini- ja mineraallisandid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ravintolisäaineet; Ravintolisäaineet; Vitamiini- ja kivennäislisäaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Compléments alimentaires; Compléments alimentaires; Compléments vitaminés et minéraux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dodaci prehrani; Dodaci prehrani; Vitaminski i mineralni dodaci hrani.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Diétás ételkiegészítők; Diétás ételkiegészítők; Vitamin és ásványi anyag kiegészítők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">integratori alimentari; integratori dietetici; integratori vitaminici e minerali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Maisto papildai; Maisto papildai; Vitamininiai ir mineraliniai papildai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Pārtikas piedevas; Pārtikas piedevas; Vitamīni un minerālvielas kā uztura bagātinātāji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Supplimenti tal-ikel; Supplimenti tal-ikel; Supplimenti tal-vitamini u tal-minerali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Voedingssupplementen; Voedingssupplementen; Vitamine- en mineralensupplementen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Suplementy żywnościowe; Suplementy żywnościowe; Dodatki witaminowe i mineralne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Suplementos dietéticos; Suplementos dietéticos; Suplementos vitamínicos e minerais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suplimente alimentare; Suplimente alimentare; Suplimente vitaminice şi minerale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Potravinové doplnky; Potravinové doplnky; Vitamíny a minerálne doplnky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Prehranski dodatki; Prehranski dodatki; Vitaminski in mineralni dodatki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kosttillskott; Kosttillskott; Vitamin- och mineraltillskott.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>32</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Енергийни и изотонични напитки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Izotonické a energetické nápoje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Energidrikke og isotoniske drikke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Isotonische Energiegetränke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ισοτονικά και εργογόνα ποτά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Isotonic and energy drinks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bebidas isotónicas y energéticas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Isotoonilised ja energiajoogid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Isotoniset ja energiapitoiset juomat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Boissons isotoniques et énergisantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Izotonična i energetska pića.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Izotóniás és energiaitalok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">bevande isotoniche e energetiche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Izotoniniai ir energiniai gėrimai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Izotoniskie un aktivizējošie dzērieni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Bauturi isotonice u enerġetiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Isotonische en energiedrankjes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Napoje izotoniczne i energetyczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bebidas isotónicas e energéticas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">băuturi isotonice şi energizante.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Izotonické a energetické nápoje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Energetske pijače.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Isoton- och energidrycker.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>215887</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

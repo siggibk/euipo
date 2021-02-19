@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-24T09:25:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225904</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225904</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-01</RegistrationDate>
+<ApplicationLanguageCode>fi</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Gutly</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хранителни добавки и диетични препарати.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Potravní doplňky a dietetické přípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kosttilskud og diætetiske præparater.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Diätetische Präparate und Nahrungsergänzungsmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συμπληρώματα διατροφής και διαιτητικά παρασκευάσματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Dietary supplements and dietetic preparations.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Suplementos y preparaciones dietéticas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toidulisandid ja farmatseutilised dieetained.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lisäravinteet ja dieettivalmisteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Compléments alimentaires et préparations diététiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dodaci prehrani i dijetetski pripravci.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Táplálékkiegészítők és diétás készítmények.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Integratori alimentari e preparati dietetici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Maisto papildai ir dietiniai produktai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Uztura bagātinātāji un diētiskie preparāti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Supplimenti tad-dieta u preparazzjonijiet dijetetiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diëtische supplementen en diëtische preparaten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Suplementy diety i preparaty dietetyczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Suplementos e preparações dietéticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suplimente alimentare si preparate dietetice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Výživové doplnky a dietetické prípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Prehranska dopolnila in dietetske snovi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Dietiska tillskott och preparat.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Обработени зърнени храни, нишестета и стоки от тях, смеси за тестени изделия и кваси; Хляб; Сладкиши, кексове, торти и бисквити; Зърнени и енергийни десертни блокчета.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zpracované obilí, škrob a produkty z nich vyrobené, pečicí přípravky a droždí; Chléb; Moučníky, zákusky, dorty a sušenky; Cereální tyčinky a energetické tyčinky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Forarbejdet korn, stivelse og varer fremstillet deraf, bagepræparater og gær; Brød; Konditorivarer, kager, tærter, kiks og småkager; Myslibarer og energibarer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Verarbeitetes Getreide und Stärken für Nahrungsmittel sowie Waren hieraus, Backzubereitungen und Hefe; Brot; Gebäck, Kuchen, Torten und Kekse; Müsliriegel und Energieriegel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Επεξεργασμένα δημητριακά, άμυλα και προϊόντα που κατασκευάζονται από αυτά, ψημένα παρασκευάσματα και μαγιά· Άρτος· Γλύκισματα, κέικ, τάρτες και μπισκότα· Μπάρες δημητριακών και μπάρες ενέργειας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Processed grains, starches, and goods made thereof, baking preparations and yeasts; Bread; Pastries, cakes, tarts and biscuits (cookies); Cereal bars and energy bars.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Granos preparados, almidones y productos fabricados con los mismos, productos para panadería y levaduras; Pan; Pastas, pasteles, tartas y galletas; Barritas de cereales y barritas energéticas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Töödeldud teraviljad, tärklis ning nendest valmistatud kaubad, küpsetuspulbrid ja pärm; Leib, sai; Kondiitritooted, koogid, tordid ja biskviidid (küpsised); Teraviljabatoonid, energiabatoonid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Jalostetut viljat, tärkkelykset ja niistä tehdyt tuotteet, leivontavalmisteet ja hiivat; Leipä; Leivonnaiset, kakut, piirakat ja keksit; Vilja- ja energiapatukat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Grains transformés, amidons et dérivés, préparations pour boulangerie et levures; Pain; Pâtisseries, gâteaux, tartes et biscuits; Barres de céréales et barres énergétiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Prerađene žitarice, škrobovi i njihovi proizvodi, pripravci za pečenje i kvasci; Kruh; Slastice, torte, pite i keksi; Pločice od žitarica i energetske pločice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Feldolgozott gabonák, keményítő és az ezekből készült áruk, pékáruk és élesztők; Kenyér; Sütemények, cukrászsütemények, torták és kekszek (aprósütemények); Müzliszeletek, energiaszeletek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cereali lavorati, amidi e prodotti da essi derivati, preparati da forno e lieviti; Pane; Pasticcini, torte, crostate e biscotti; Barrette ai cereali e barrette energetiche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Apdoroti grūdai, krakmolas ir jų gaminiai, preparatai kepimo reikmėms ir mielės; Duona; Miltiniai konditerijos gaminiai, kepiniai, tortai ir sausainiai; Javainių ir energiniai batonėliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apstrādāti graudi, ciete un no tiem ražoti produkti, piedevas cepšanai un raugs; Maize; Konditorejas izstrādājumi, kūkas, tortes un cepumi; Graudu batoniņi un enerģijas batoniņi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Qamħ proċessat, lamtu, u prodotti magħmula minnhom, preparazzjonijiet għall-ħami u ħmira; Ħobż; Pasti, kejkijiet, torti u gallettini (cookies); Bars taċ-ċereali u bars li jagħtuk l-enerġija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bewerkte granen, zetmeel en producten hiervan, preparaten voor het bakken en gist; Brood; Banketbakkerswaren, cakes, taarten en biscuits (koekjes); Graan- en energierepen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Ziarna przetworzone, skrobia i wyroby z tych towarów, preparaty do pieczenia i drożdze; Chleb; Wyroby cukiernicze, ciasta, tarty i ciasteczka; Batony zbożowe i energetyczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Grãos processados, amidos, e produtos feitos a partir dos mesmos, preparações de cozedura e leveduras; Pão; Pastelaria, bolos, tartes e biscoitos (bolachas); Barras de cereais e barras energéticas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Semințe procesate, amidon și produsele acestora, preparate coapte și drojdie; Pâine; Produse de patiserie, prăjituri, tarte și biscuiți (prăjiturele); Batoane de cereale și batoane energizante.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Spracované semená, škroby a produkty z nich vyrobené, prípravky na pečenie a droždia; Chlieb; Jemné pečivo, koláče, torty, sušienky; Cereálne tyčinky a energetické tyčinky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Predelano zrnje, škrobi, in proizvodi narejeni iz naštetega, sredstva za peko in kvasila; Kruh; Fino pecivo, torte, kolači in piškoti; Žitne ploščice in energijske ploščice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Bearbetat korn, stärkelse samt varor framställda av dessa, preparat för bakning samt jäst; Bröd; Bakverk, kakor, tårtor och kex (småkakor); Spannmålsbars och energibars.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/077</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1116534</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

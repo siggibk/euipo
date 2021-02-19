@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-15T09:20:10</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229837</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229837</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-09-11</RegistrationDate>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>BALMAIN BBOLD</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Обувки [с изключение на ортопедични обувки]; Mаратонки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Obuv (kromě ortopedické obuvi); Tenisky, plátěnky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Fodtøj [dog ikke ortopædisk fodtøj]; Gummisko [fodtøj].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schuhwaren [ausgenommen orthopädische Schuhwaren]; Turnschuhe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υποδήματα [εκτός των ορθοπαιδικών υποδημάτων]· Αθλητικά υποδήματα για διάφορους τύπους άθλησης και φυσικής δραστηριότητας, ενίοτε και με μοδάτο στιλ για την πόλη.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Footwear [excluding orthopedic footwear]; Sneakers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Calzados [a excepción de los calzados ortopédicos]; Zapatillas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Jalatsid [v.a ortopeedilised jalatsid]; Tossud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Jalkineet [paitsi ortopediset]; Kumitossut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Chaussures (à l'exception des chaussures orthopédiques); baskets.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Obuća [osim ortopedske obuće]; Tenisice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Lábbelik [kivéve ortopéd lábbelik]; Sportcsizmák, sportbakancsok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Calzature [tranne le calzature ortopediche]; Sneaker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Avalynė [išskyrus ortopedinę avalynę]; Sportbačiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apavi (izņemot ortopēdiskos); Sporta kurpes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xedd is-saqajn [minbarra xedd is-saqajn ortopediku]; Żraben tal-isports jew għall-użu każwali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Schoeisel [met uitzondering van orthopedisch schoeisel]; Gymschoenen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Obuwie [z wyjątkiem obuwia ortopedycznego]; Tenisówki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Calçado [com exceção do calçado ortopédico]; Sapatilhas [calçado].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Încălţăminte [cu excepţia articolelor de încălţăminte ortopedice]; Sneakers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Obuv s výnimkou ortopedickej obuvi; Tenisky (obuv).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Obutev [razen ortopedske obutve]; Superge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Fotbeklädnader [inte ortopediska fotbeklädnader]; Sportskor.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>FR</PriorityCountryCode>
+<PriorityNumber>19 4594569</PriorityNumber>
+<PriorityDate>2019-10-29</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/103</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-03</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/176</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>19180</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>12823</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

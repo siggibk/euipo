@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:08</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229230</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229230</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>BAHIWOM</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Кабели за USB устройства; Калъфи за смартфони; Слушалки; Периферни устройства, пригодени за използване с компютри; Кабели за предаване на данни; USB хъбове; Коаксиални кабели; Високодетайлни мултимедийни кабели за интерфейс; Етернет кабели; Адаптери за кабели; Компютърни кабели; Слушалки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">USB kabely; Pouzdra na chytré telefony (smartphony); Sluchátka; Periferní zařízení počítačů; Kabely na přenos dat; USB huby; Koaxiální kabely; Kabely pro multimediální rozhraní s vysokým rozlišením; Ethernetové kabely; Adaptéry na kabely; Počítačové kabely; Sluchátka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">USB-kabler; Etuier til smartphones; Hovedtelefoner; Perifere enheder til computere; Kabler til datatransmission; USB-hubs; Koaksialkabler; Kabler til brug med High-Definition Multimedia Interface; Ethernet-kabler; Kabeladaptere; Computerkabler; Hovedtelefoner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">USB-Kabel; Schalen für Smartphones; Kopfhörer; An Computer angepasste Peripheriegeräte; Kabel für die Datenübertragung; USB-Hubs; Koaxialkabel; Hochauflösende Multimedia-Schnittstellenkabel; Ethernetkabel; Kabeladapter; Computerkabel; Kopfhörer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καλώδια καθολικού σειριακού αγωγού (USB)· Θήκες για έξυπνα τηλέφωνα· Κάσκες ακουστικών· Περιφερειακός εξοπλισμός προσαρμοσμένος για χρήση σε ηλεκτρονικούς υπολογιστές· Καλώδια μετάδοσης δεδομένων· Κόμβοι USB· Καλώδια ομοαξονικά· Καλώδια διεπαφών πολυμέσων υψηλής ευκρίνειας· Καλώδια ethernet· Προσαρμογείς καλωδίων· Καλώδια ηλεκτρονικών υπολογιστών· Ακουστικά κεφαλής με μικρόφωνο.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">USB cables; Cases for smartphones; Headphones; Computer peripheral devices; Data cables; USB hubs; Coaxial cables; High definition multimedia interface cables; Ethernet cables; Cable adapters; Computer cables; Headsets.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cables USB; Estuches para teléfonos inteligentes; Auriculares; Dispositivos periféricos utilizados con ordenadores; Cables para la transmisión de datos; Hubs USB; Cables coaxiales; Cables de interfaz multimedia de alta definición; Cables Ethernet; Adaptadores de cable; Cables para ordenadores; Cascos con micrófono.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">USB-kaablid; Nutitelefonide ümbrised; Kõrvaklapid; Arvutite välisseadmed; Andmeedastuskaablid; USB-jaoturid; Koaksiaalkaablid; Kõrglahutusega multimeediumliideste kaablid; Ethernetijuhtmed; Kaabliadapterid; Arvutijuhtmed; Mikrofoniga kõrvaklapid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">USB-kaapelit; Älypuhelinten kuoret; Kuulokkeet; Tietokoneiden oheislaitteet; Tiedonsiirtokaapelit; USB-keskittimet; Koaksiaalikaapelit; Teräväpiirtomultimedialiittymien kaapelit; Ethernet-kaapelit; Kaapelinsovittimet; Tietokonekaapeloinnit; Kuulokkeet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Câbles USB; Étuis pour smartphones; Casques à écouteurs; Périphériques adaptés pour utilisation avec des ordinateurs; Câbles de transmission de données; Concentrateurs USB; Câbles coaxiaux; Câbles d'interfaces multimédias haute définition; Câbles Ethernet; Adaptateurs de câbles; Câbles pour ordinateurs; Casques d'écoute.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">USB kablovi; Etuiji za pametne telefone; Slušalice; Periferni uređaji prilagođeni za uporabu s računalima; Kablovi za prijenos podataka; Koncentrator USB; Koaksijalni kablovi; Kabeli za multimedijska sučelja visoke rezolucije; Ethernet kablovi; Adapteri za kabele; Računalni kablovi; Slušalice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">USB kábelek; Tokok okostelefonhoz; Fejhallgatók; Számítógéphez kialakított perifériák; Adatátviteli kábelek; USB-hubok; Koaxiális kábelek; Nagyfelbontású multimédiás interfész kábelek; UTP hálózati kábelek; Kábeladapterek; Számítógép kábelek; Fejhallgatók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cavi USB; Custodie per smartphones; Cuffie per la musica; Periferiche concepite per essere utilizzate con i computer; Cavi per trasmissione di dati; Concentratori USB; Cavi coassiali; Cavi di interfaccia multimediali ad alta definizione; Cavi Ethernet; Adattatori per cavi; Cavi per elaboratori elettronici; Cuffie per la musica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">USB kabeliai; Išmaniųjų telefonų dėklai; Radijo ausinės; Kompiuterių išoriniai įrenginiai; Duomenų perdavimo kabeliai; USB šakotuvai; Bendraašiai kabeliai; Raiškiosios daugialypės terpės sietuvų kabeliai; Eterneto kabeliai; Kabelių adapteriai; Kompiuterių kabeliai; Ausinės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Universālo seriālo kopņu (USB) kabeļi; Viedtālruņu maciņi; Austiņas; Datoru perifērijas ierīces; Datu pārraides kabeļi; USB centrmezgli; Koaksiālie kabeļi; Augstas izšķirtspējas multivides saskarnes kabeļi; Ethernet kabeļi; Kabeļu adapteri; Datoru kabeļi; Radioaustiņas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kejbil tal-USB; Kaxxi għall-ismartphones; Kuffji; Periferali addattati għall-użu mal-kompjuters; Linji għat-trasmissjoni ta' data; USB hubs; Kejbils koassjali; Kejbils tal-konnessjoni multimedjali ta' definizzjoni għolja; Kejbils tal-eternet; Adapters tal-kejbils; Kejbils tal-kompjuter; Kuffji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">USB kabels; Etuis voor smartphones; Hoofdtelefoons; Computerrandapparatuur; Datatransmissiekabels; USB-hubs; Coaxkabels; High-definition multimedia-interfacekabels; Ethernetkabels; Kabeladapters; Computerkabels; Hoofdtelefoons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kable USB; Etui na smartfony; Słuchawki [zakładane na głowę]; Sprzęt peryferyjny do komputerów; Kable do transmisji danych; Huby USB; Kable koncentryczne; Kable interfejsowe do multimediów o wysokiej rozdzielczości; Kable wykorzystywane w sieci Ethernet; Przejściówki do kabli; Okablowanie do komputerów; Słuchawki [zakładane na głowę].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cabos USB; Capas para smartphones; Auriculares; Periféricos adaptados para uso com computadores; Cabos para a transmissão de dados; Hubs USB; Cabos coaxiais; Cabos de interfaces multimédia de alta-definição; Cabos Ethernet; Adaptadores para cabos; Cabos de computador; Auriculares.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cabluri USB; Carcase pentru telefoane inteligente; Căști audio; Periferice adaptate pentru a fi folosite la calculatoare; Cabluri pentru transmisia de date; USB hub-uri; Cabluri coaxiale; Cabluri pentru interfețe multimedia de înaltă definiție; Cabluri Ethernet; Adaptoare pentru cabluri; Cabluri pentru calculatoare; Căști.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">USB káble; Puzdrá na smartfóny; Slúchadlá; Periférne zariadenia počítačov; Káble na prenos údajov; USB huby; Koaxiálne káble; Hi-fi multimediálne prepojovacie káble; Ethernet káble; Adaptéry na káble; Počítačové káble; Slúchadlá s mikrofónom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">USB kabli; Etuiji za pametne telefone; Slušalke; Zunanje enote, prilagojene za uporabo z računalniki; Kabli za prenos podatkov; USB zvezdišča; Koaksialni kabli; Kabli za multimedijske vmesnike z visoko ločljivostjo; Ethernet kabli; Adapterji za kable; Računalniški kabli; Slušalke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">USB-kablar; Skal för smartphones; On-ear hörlurar; Kringutrustning anpassade för användning med datorer; Kablar för dataöverföring; USB-hubbar; Koaxialkablar; Kablar för multimediegränssnitt med hög upplösning; Ethernetkablar; Kabeladaptrar; Kablar till datorer; Headsets.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1081939</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15066</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

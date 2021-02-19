@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-15T09:20:13</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229280</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229280</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-09-11</RegistrationDate>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>FIRSTLEAP</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Набиране на кадри; Набиране на кадри; Преквалификация на персонал; Консултантски услуги в областта на човешките ресурси; Консултации в областта на човешките ресурси; Административна дейност, по-специално управление на ведомости и човешки ресурси; Консултация относно професионална кариера; Агенции за временна заетост; Фирмено асистиране и оказване на съдействие на персонала относно постъпване на работа при работодатели в чужбина.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nábor zaměstnanců; Služby spojené s náborem personálu; Převádění personálu; Poradenství v oblasti řízení lidských zdrojů; Poradenství týkající se personálu; Zajišťování administrativních služeb, zejména mzdových a personálních administrativních služeb; Poradenství v oblasti profesní kariéry; Agentury pro zprostředkování dočasného zaměstnání; Obchodní asistence a vedení personálu ve vztahu k nástupu do zaměstnání u zaměstnavatelů v zahraničí.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Personalerekruttering; Personaleansættelser; Omplacering af personale; Rådgivning vedrørende personaleledelse; Rådgivning vedrørende personaleanliggender; Administration, navnlig løn- og personaleadministration; Erhvervsvejledning; Bureauer for midlertidig beskæftigelse; Forretningsmæssig assistance og vejledning af personale vedrørende tiltrædelse af stillinger hos arbejdsgivere i udlandet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Personalanwerbung; Beschäftigung von Personal; Wiedereingliederung von Personal; Beratung in Fragen des Personalwesens; Beratung in Zusammenhang mit Personalfragen; Durchführung der Verwaltungsaufgaben, insbesondere Lohn- und Personalverwaltung; Karriereberatung; Vermittlung von Zeitarbeitern; Geschäftliche Unterstützung und Begleitung von Personal in Bezug auf den Dienstantritt bei Arbeitgebern im Ausland.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Πρόσληψη προσωπικού· Απασχόληση προσωπικού· Ανακατάταξη προσωπικού· Συμβουλευτική για θέματα διοίκησης προσωπικού· Παροχή συμβουλών σχετικά με θέματα προσωπικού· Παροχή διοικητικών εργασιών, ειδικότερα διαχείρισης μισθοδοσίας και διοίκησης προσωπικού· Παροχή συμβουλών σε θέματα σταδιοδρομίας· Παροχή εργαζομένων για προσωρινή απασχόληση· Επιχειρηματική υποστήριξη και καθοδήγηση προσωπικού σε σχέση με την ανάληψη καθηκόντων σε εργοδότες στο εξωτερικό.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Personnel recruitment; Employment of personnel; Outplacement of personnel; Personnel management consulting; Personnel consultancy; Administration, in particular salary and personnel administration; Careers counselling; Temporary personnel services; Business assistance and supervision of personnel regarding recruitment by employers abroad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Selección de personal; Contratación de personal; Outplacement (asesoría, apoyo y capacitación a trabajadores despedidos) de personal; Consultoría en gestión de personal; Asesoramiento en materia de personal; Trabajos administrativos, especialmente la administración de nóminas y recursos humanos; Orientación profesional; Servicios de trabajo temporal; Asistencia y orientación empresarial de personal en materia de contratación en empleadores en el extranjero.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Tööjõu värbamine; Tööjõu värbamine; Vallandatud personalile uue töökoha leidmine; Personalijuhtimisalane nõustamine; Personalinõustamisteenused; Administratiivteenused, eriti palga ja personali alased administratiivteenused; Karjäärinõustamine; Ajutise tööhõive agentuurid; Töötajate äriline abistamine ja juhendamine välismaal töötama asumisel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Henkilöstörekrytointi; Henkilöstön palkkaaminen; Henkilöstön uudelleensijoittaminen; Henkilöstöhallintakonsultointi; Henkilöstöasioihin liittyvä neuvonta; Hallinnon, nimittäin palkka- ja henkilöstöhallinnon järjestäminen; Uraneuvonta; Tilapäistyövoiman työnvälitystoimistot; Henkilöstön liiketoiminnallinen avustaminen ja ohjaus tilanteissa, joissa työntekijä aloittaa työt ulkomailla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Recrutement de personnel; Services de recrutement de personnel; reclassement de personnel; Consultation pour les questions de personnel; Conseils en matière de personnel; Réalisation de tâches administratives, à savoir gestion des salaires et du personnel; Consultation en matière d'orientation professionelle; Agences de travail temporaire; Assistance et accompagnement professionnels de personnel dans son recrutement par des employeurs à l’étranger.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Selekcija osoblja; Razmjena osoblja; Iznajmljivanje osoblja; Savjetovanje o osoblju; Konzultacije u vezi osoblja; Administracija, posebice administracija u svezi s plaćom i osobljem; Savjetovanje u svezi s karijerom; Agencije za privremeno zapošljavanje; Poslovna pomoć i smjernice za osoblje u vezi sa zapošljavanjem kod poslodavaca u inozemstvu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Munkaerő-toborzás; Munkaerő-toborzás; Személyzet kihelyezése; Konzultáció személyzeti kérdésekben; Személyzeti konzultáció; Adminisztrációs, konkrétan bérezési és személyzeti adminisztrációval kapcsolatos teendők; Karrier-tanácsadás; Munkaerő-kölcsönzési szolgáltatások; Üzleti segítségnyújtás és személyzet támogatása külföldi munkáltatóknál történő szolgálatba lépés terén.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Reclutamento di personale; Fornitura di personale esterno; Ristrutturazione del personale; Consulenza in materia di gestione del personale; Consulenza in materia di gestione del personale; Servizi d'amministrazione, ovvero amministrazione di stipendi e personale; Consulenza in materia d'orientamento professionale; Cessione di forza lavoro a tempo determinato; Assistenza aziendale e guida di personale in merito all'impiego presso datori di lavoro all'estero.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Personalo komplektavimas; Personalo įdarbinimas; Pagalba atleistiesiems iš darbo susirasti kitą darbą; Personalo vadybos konsultacijos; Personalo konsultacijos; Administravimo, ypač atlygio ir darbuotojų administravimo paslaugos; Valgyklų paslaugos; Laikino įdarbinimo agentūros; Pagalbos ir patarimų teikimas įmonėms dėl darbuotojų įdarbinimo pas darbdavius ​​užsienyje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Personāla atlase; Personāla vervēšana; Personāla profesionālā pārorientācija; Konsultāciju sniegšana personālvadībā; Personāla konsultēšana; Administrācijas darbi, proti, algu un personāla administrēšana; Konsultācijas karjeras attīstībā; Pagaidu darbā iekārtošanas biroju pakalpojumi; Uzņēmējdarbības palīdzības un norāžu sniegšana darbiniekiem saistībā ar nodarbinātību pie darba devējiem ārvalstīs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ir-reklutaġġ ta' personàl; Servizzi ta' reklutaġġ ta' ħaddiema; Konsulenza għas-sejba ta' xogħol alternattiv għall-personal; Konsulenza dwar il-ġestjoni tal-personàl; Konsulenza dwar il-personàl; Il-ġestjoni ta' l-amministrazzjoni, speċjalment il-ġestjoni tas-salarju u tal-personàl; Pariri dwar karrieri; Aġenziji għall-impjieg temporanju; Assistenza tan-negozju u superviżjoni tal-persunal fir-rigward tar-reklutaġġ minn min iħaddem barra l-pajjiż.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Personeelswerving; detacheren van personeel; herplaatsing van personeel; advisering inzake personeelsbeheer; advisering inzake personeelszaken; het verzorgen van administratie, met name salaris- en personeelsadministratie; loopbaanbegeleiding; diensten van uitzendbureaus; zakelijk assisteren en begeleiden van personeel inzake indiensttreding bij werkgevers in het buitenland.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Rekrutacja personelu; Usługi dotyczące rekrutacji kadry pracowniczej; Zwolnienia monitorowane pracowników; Doradztwo w zakresie zarządzania personelem; Usługi konsultingowe związane z personelem; Prowadzenie administracji, w szczególności administracji płac i personelu; Doradztwo zawodowe; Usługi w zakresie pracowników tymczasowych; Zapewnianie pracownikom wsparcia handlowego i wskazówek dotyczących zatrudnienia u pracodawców za granicą.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Recrutamento de pessoal; Emprego de pessoal; Reclassificação de pessoal; Consultadoria de gestão de pessoal; Consultoria em matéria de pessoal; Administração, incluindo administração de salários e de pessoal; Orientação profissional; Agências de emprego de trabalho temporal; Assistência e acompanhamento profissional de pessoal em matéria de vagas de emprego em empregadores no estrangeiro.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Recrutare de personal; Angajare de personal; Reorientarea profesională a personalului; Consultanţă în gestiune de personal; Consultanţă privind resursele umane; Sarcini administrative, in special administrarea statelor de plata si resurse umane; Consiliere în domeniul carierei; Servicii de plasare temporară a forţei de muncă; Asistență profesională și îndrumarea personalului la angajarea la angajatorii din străinătate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nábor zamestnancov; Sprostredkovateľne práce; Presun zamestnancov do inej pracovnej pozície; Personálne poradenstvo; Konzultovanie týkajúce sa perzonálu; Poskytovanie administratívnych služieb, hlavne mzdová a personálna administratíva; Poradenstvo pre voľbu povolania; Agentúry sezónneho zamestnania; Obchodná asistencia a vedenie personálu v súvislosti s náborom, ktorý uskutočňujú zamestnávatelia zo zahraničia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zaposlovanje osebja; Kadrovanje; Postavitev osebja; Svetovanje pri kadrovanju; Personalno svetovanje; Urejanje administracije, zlasti v zvezi z dohodki in kadrovskimi zadevami; Poklicno svetovanje; Začasne kadrovske storitve; Poslovna pomoč in usmerjanje osebja pri zaposlovanju pri delodajalcih v tujini.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Personalrekrytering; Anställning av personal; Omplacering av personal; Konsultationer avseende personaladministration; Rådgivning avseende personalfrågor; Administration, nämligen lön- och personaladministration; Yrkesrådgivning; Tillfällig uthyrning av personal; Affärsmässig assistans och handledning av personal avseende påbörjande av anställning hos arbetsgivare i utlandet.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/103</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-03</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/176</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082043</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>63435</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

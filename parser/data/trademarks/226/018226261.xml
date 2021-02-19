@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:27</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226261</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226261</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-01</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Colorwork</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162305181</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226261/000162305181.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>15.01.13</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>16</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Платна за рисуване на картини; Картини; Акварели; Табла за водни бои; Акварелни чинийки за художници; Илюстрирани карти за стена; Чертожни дъски; Ваденки; Модели на бродерии [образци, мостри]; Тушовки; Палети за художници; Канцеларски принадлежности; Чертожни материали; Чертожни комплекти; Чертожна хартия; Хартия за рисуване; Олеографи; Кутии за бои [училищни пособия]; Инструменти за чертане на прави ъгли; Тетрадки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Malířská plátna; Obrazy; Akvarelové malby; Podklady pod papír na malování akvarelů; Kalíšky na vodové barvy; Ilustrované mapy na zeď; Rýsovací prkna; Obtisky; Vzory na vyšívání; Rýsovací pera; Malířské palety; Papírnické zboží; Potřeby pro rýsování a kreslení; Soupravy na rýsování; Papír na kreslení (rýsování); Umělecký papír; Olejotisky; Krabičky s barvami [školní potřeby]; Pomůcky k rýsování s pravým úhlem (úhelníky, úhelnice, příložníky, trojúhelníky); Zápisníky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Malerlærred; Malerier; Vandfarvemalerier; Brætter til vandfarver; Farvebeholdere til brug for kunstmalere; Illustrerede vægkort; Tegnebrætter; Overføringsbilleder; Broderimønstre; Tegnepenne; Paletter til malere; Papirhandlervarer [skriveredskaber og papirvarer]; Tegnematerialer; Tegneetuier; Tegnepapir; Kunsttrykpapir; Olietryk; Maleæsker til skolebrug; Tegnevinkler; Notesbøger.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Malerleinwand; Gemälde; Aquarelle [Gemälde]; Spannrahmen für Wasserfarbzeichnungen; Farbennäpfe für Künstler; Illustrierte Wandkarten; Reißbretter; Abziehbilder; Stickmuster; Reißfedern; Malerpaletten; Papier- und Schreibwaren; Zeichenbedarfsartikel; Zeichenetuis; Zeichenpapier; Kunstdruckpapier; Öldrucke; Malkästen zur Verwendung in Schulen; Zeichenwinkel; Notizbücher.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καμβάς ζωγραφικής· Ζωγραφιές· Υδατογραφίες· Χαρτί υδατογραφίας· Παλέτες ζωγραφικής· Χάρτες τοίχου· Τράπεζες σχεδίασης· Χαλκομανίες που εμφανίζονται με τριβή· Κεντήματος (Σχέδια -)· Γραφίδες σχεδίασης· Αναδευτήρες χρωμάτων· Είδη χαρτοπωλείου· Σχεδιασμού υλικά· Σετ σχεδίου· Χαρτί σχεδίου· Χαρτί για καλλιτεχνική χρήση· Ελαιογραφίες· Ζωγραφικής (κουτιά -) [σχολικό υλικό]· Γνώμονες σχεδίασης· Σημειωματάρια.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Canvas for painting; Paintings; Watercolor paintings; Watercolor boards; Watercolor saucers (Artists' -); Wall maps; Drawing boards; Decalcomanias; Embroidery designs [patterns]; Drawing pens; Palettes for painters; Stationery; Drawing materials; Drawing sets; Drawing paper; Art paper; Oleographs; Paint boxes [articles for use in school]; Set squares for drawing; Note books.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Lienzos para pintar; Pinturas (papelería); Acuarelas; Cartón para acuarela; Salseras de acuarelas para artistas; Mapas murales ilustrados; Tableros de dibujo; Calcomanías; Patrones de bordado; Tiralíneas; Paletas de pintor; Artículos de papelería; Material de dibujo; Estuches de dibujo; Papel de dibujo; Papel para grabados; Oleografías; Cajas de pinturas para uso escolar; Escuadras de dibujo; Libretas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Maalilõuendid; Maalid; Akvarellmaalid; Vesivärviplaadid; Kunstnike akvarellikausid, vesivärvikausid; Illustreeritud seinakaardid; Joonestustahvlid; Dekalkomaantrükised, siirdepildid, ülekantavad pildid; Tikandite mustrilehed; Joonsuled; Kunstnike paletid; Kirjutustarbed, kirjatarbed; Joonestustarbed; Sirklikarbid; Joonistuspaber; Kunstitrükipaber, kriidipaber; Õlitrükipildid, oleograafiad; Värvikarbid [koolitarbed]; Nurklauad joonestamiseks; Märkmikud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kangas öljyvärimaalaukseen; Maalaukset; Vesivärimaalaukset; Vesivärikartongit; Vesivärikupit kuvataiteilijoille; Kuvitetut seinäkartat; Piirustuslaudat; Hangattavat siirtokuvat; Koruompelumallit; Piirustuskynät; Paletit taidemaalareille; Paperikauppatavarat; Piirustusvälineet; Piirustussarjat; Piirustuspaperi; Taidepaperit; Öljypainokuvat; Vesivärirasiat [koulutarvikkeina]; Suorakulmaimet piirtämiseen; Muistikirjat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Toiles pour la peinture; Peintures [tableaux]; Aquarelles; Cartons pour l'aquarelle; Godets d'aquarelle pour artistes; Cartes murales illustrées; Planches à dessin; Décalcomanies; Modèles de broderie; Tire-lignes; Palettes pour peintres; Articles de papeterie; Fournitures pour le dessin; Trousses à dessin; Papier à dessin; Papier d'art; Oléographies; Boîtes de peinture [matériel scolaire]; Équerres à dessin; Carnets.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Platno za slike; Slike [umjetničke]; Akvareli; Tablica za akvarel papir; Zdjelice za boje; Ilustrirane zidne karte; Crtaće daske; Preslikači; Modeli za vezenje; Flomasteri za crtanje; Palete za slikare; Papirnati pribor; Materijali za crtanje; Pribor za crtanje [set]; Papir za crtanje; Umjetnički papir; Oleografija; Kutije za slikarske boje [školski pribor]; Kutnici za crtanje; Blokovi [karneti].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Festővásznak; Festmények; Vízfestmények, akvarellek; Kartonok vízfestéshez; Festékkeverő csészék művészek részére; Illusztrált fali térképek; Rajztáblák; Kaparós matricák; Hímzőminták; Tuskihúzók; Paletták festőknek; Papír-írószer áruk; Írószerek; Rajzkészletek; Rajzpapír; Művészpapír; Színes olajnyomatok; Festékkészletek [iskolai használatra]; Derékszögű vonalzók rajzoláshoz; Noteszok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tele per pittura; Dipinti; Acquerelli; Tavole per acquerelli; Piattini per acquarelli di artisti; Carte murali illustrate; Tavole da disegno; Decalcomanie; Modelli di ricamo; Tiralinee; Tavolozze per pittori; Articoli di cartoleria; Forniture per il disegno; Astucci per disegno; Carta da disegno; Carta per applicazioni artistiche; Oleografie; Scatole per la pittura per uso scolastico; Squadre da disegno; Taccuini.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Tapomoji drobė; Tapybos kūriniai; Akvarelės; Akvarelės lentos; Dailininkų akvarelinių dažų ruošimo lėkštelės; Iliustruoti sieniniai žemėlapiai; Braižymo lentos; Dekalkomanijos; Siuvinėjamų piešinių pavyzdžiai; Braižikliai; Paletės; Raštinės prekės; Braižymo, piešimo reikmenys; Braižiklinės; Piešimo popierius; Dekoratyvinis popierius; Oleografijos; Paint boxes for use in schools; Braižymo kampainiai; Užrašų knygutės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Trafaretu plāksnes; Gleznas; Akvareļi; Akvareļu gleznošanas pamatnes; Paletes akvareļkrāsu jaukšanai; Ilustrētas sienas kartes; Rasēšanas dēļi; Novelkamās bildītes (dekalkomānija); Izšūšanas raksti (paraugi); Velces; Paletes gleznotājiem; Kancelejas piederumi; Zīmēšanas piederumi; Zīmēšanas piederumu komplekti; Zīmēšanas un rasēšanas papīrs; Mākslinieku papīrs; Oleogrāfijas; Krāsu kastes (piederumi izmantošanai skolā); Rasēšanas stūreņi; Piezīmju grāmatiņas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kanvas għat-tpinġija; Pitturi; Akkwarelli; Bords tal-akkwarelli; Plattini tal-akkwarelli (tal-artisti); Mapep illustrati ta' mal-ħajt; Tavlozzi tat-tpinġija; Karti għar-riproduzzjoni litografika; Disinni tar-rakkmu; Tiralinji; Paletti tal-pittur; Kartolerija; Materjal tat-tpinġija; Settijiet tat-tpinġija; Karta tat-tpinġija; Karta għall-arti; Oleografi; Kaxxi tal-kuluri [oġġetti għal użu fl-iskejjel]; Skwerers għat-tpinġija; Takkwini.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Schilderslinnen; Schilderijen; Aquarellen; Borden voor aquarellen; Waterverfkommetjes; Geïllustreerde wandkaarten; Tekenplanken; Overdrukplaatjes; Borduurpatronen; Tekenpennen; Paletten voor schilders; Kantoorbehoeften; Tekenbenodigdheden; Tekenetuis; Tekenpapier; Kunstdrukpapier; Oleografieën; Verfdozen voor gebruik op school; Tekendriehoeken; Notitieboekjes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Płótna malarskie; Obrazy; Akwarele; Tablice na papier do akwareli; Miseczki na farby wodne dla artystów; Ilustrowane mapy ścienne; Deski kreślarskie [rysownice]; Suche kalkomanie; Wzory do haftowania; Piórka do rysowania [grafiony]; Palety dla malarzy; Materiały piśmienne; Materiały do rysowania; Zestawy rysunkowe [komplety kreślarskie]; Papier rysunkowy; Papier ilustracyjny; Oleodruki; Pudełka z farbami [artykuły szkolne]; Kątowniki kreślarskie; Notatniki [notesy].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Telas para pintura; Obras pintadas; Aguarelas [pinturas]; Cartões para aquarela; Godés para aguarelas; Mapas ilustrados de parede; Pranchetas para desenho; Decalques [decalcomanias]; Modelos de bordados [padrões]; Canetas para desenho; Paletas para pintores; Artigos de papelaria; Materiais para desenho; Estojos para desenho; Papel de desenho; Papel couché; Oleografias; Caixas de pintura para uso escolar; Esquadros para desenho; Blocos de notas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Plăcute pentru șabloane; Picturi; Acuarele; Planșe pentru acuarele; Suporturi pentru amestecat acuarele; Hărți de perete ilustrate; Planșe pentru desen; Decalcomanii; Modele de broderie; Tocuri pentru desene sau schițe; Palete pentru pictori; Papetărie (Articole de -); Desen (Furnituri pentru -); Truse de desen; Hârtie pentru desen; Hârtie cu strat cretat; Oleografii; Pictură (cutii pentru -) [rechizite școlare]; Echere pentru desen; Carnete de notițe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Maliarske plátna; Obrazy [maľby]; Vodové farby (akvarely); Tabule na papier na vodné farby; Misky na vodové farby pre umelcov; Ilustrované nástenné mapy; Rysovacie dosky; Obtlačky; Výšivkové vzory; Rysovacie perá; Palety pre maliarov; Papiernický tovar; Rysovacie potreby; Rysovacie súpravy; Papier na rysovanie a kreslenie; Umelecký papier; Olejotlače; Škatule s farbami (školské pomôcky); Uholníky na rysovanie; Poznámkové zošity.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Slikarsko platno; Slike (umetniške); Akvareli; Plošče z vodnimi barvami; Palete za vodne barve za umetnike; Ilustrirani stenski zemljevidi; Risalne deske; Odtisi za otiranje; Vzorci za vezenje; Risalna peresa; Slikarske palete; Pisarniške potrebščine; Risalne potrebščine; Risalni pribori; Risalni papir; Umetniški papir; Oljnati tisk; Škatle za barvice [šolske potrebščine]; Ravnila za risanje; Zvezki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Canvas för målning; Målningar; Akvarellmålningar; Vattenfärgsbräden; Koppar för vattenfärger (konstnärsmaterial); Illustrerade väggkartor; Ritbräden; Gnuggbilder; Broderimönster; Ritpennor; Paletter för målare; Pappersvaror (skriv- och kontorsmateriel); Ritmaterial; Ritbestick; Ritpapper; Konstpapper; Oljetryck; Färglådor [skolmaterial]; Vinkelhakar för ritning; Anteckningsböcker.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>24</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Декоративни тъкани за стена, имитиращи гоблен; Разчертан плат за бродерия; Дамаска; Брокат; Тъкани за тапициране; Тъкани; Канава за гоблени или за бродерия; Щамповани одеяла от текстил; Носни кърпи от текстил; Копринени тъкани с щамповани шарки; Тъкани [на топове]; Ръчно изработени текстилни пана за стена; Покривки за легла.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Textilní čalouny; Tkaniny na vyšívání s předkresleným vzorem; Damašek; Brokáty; Čalounické látky; Textilní materiály; Kanava na vyšívání nebo pro nástěnné čalouny; Offsetové textilní potahy; Látkové kapesníky; Hedvábné látky pro tištěné vzory; Látky (metrový textil); Ručně vyrobené textilní závěsy na stěnu; Prošívané postelové přehozy a přikrývky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Vægdraperier af tekstil; Påtegnet stof til broderi; Damask; Brokade; Møbelstoffer; Tekstilmateriale; Kanvas til gobelin og broderi; Filtunderlag til trykkeribrug; Lommetørklæder af tekstilmateriale; Silkestoffer til trykmønstre; Tekstiler [metervarer]; Håndlavede vægdraperier af tekstilmateriale; Sengetæpper.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Wandbekleidungen aus textilem Material; Webstoffe mit vorgezeichneten Stickmustern; Damast; Brokate; Möbelstoffe; Stoffe; Kanevas für Teppiche und Stickereien; Drucktücher aus textilem Material; Textiltaschentücher; Seidenstoffe für Druckschablonen; Textilstoffe als textile Stückwaren; Handgearbeitete Wandbehänge aus textilem Material; Tagesdecken für Betten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ταπετσαρίες από υφαντουργικές ύλες, κουρτίνες από υφαντουργικές ή πλαστικές ύλες· Υφάσματα με ζωγραφισμένα σχέδια για κέντημα· Δαμασκηνά υφάσματα· Υφάσματα χρυσοειδή [μπροκάρ]· Επιπλώσεων υφάσματα· Υφάσματα· Καμβάς για ταπετσαρίες ή κεντήματα· Περιβλήματα κυλίνδρου πιεστηρίου υφασμάτινα· Μαντήλια τσέπης [υφασμάτινα]· Έντυπα (Μεταξωτά υφάσματα για πατρόν -)· Είδη υφαντουργίας τυποποιημένων διαστάσεων· Χειροποίητες επενδύσεις τοίχων από ύφασμα· Καλύμματα κρεβατιού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Wall hangings of textile; Tapestry [wall hangings], of textile; Traced cloth for embroidery; Traced cloths for embroidery; Damask; Brocade; Upholstery fabrics; Textile material; Canvas for tapestry or embroidery; Printers' blankets of textile; Handkerchiefs of textile; Silk fabrics for printing patterns; Tapestries [wall hangings], of textile; Fabrics being textile piece goods; Handcrafted textile wall hangings; Coverlets.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Tapizados murales de materias textiles; Telas con motivos impresos para bordar; Damasco [tejido]; Brocados; Telas para tapizar muebles; Materias textiles; Cañamazo para tapicería o bordado; Mantillas de imprenta de materias textiles; Pañuelos de bolsillo de materias textiles; Tejidos de seda para patrones de imprenta; Tejidos [productos en pieza]; Tapices murales textiles hechos a mano; Colchas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Dekoratiivsed riputatavad seinatekstiilid; Kalkeeritud, ettejoonistatud tikkeriie, tikkimisriie (džuutriie, kanvaa); Damast; Brokaat; Mööbliriie; Tekstiilmaterjal; Tikke- või gobeläänkanvaa; Trükisilindri tekstiilist katmikud; Riidest taskurätid; Siidriie mustrite trükkimiseks; Tekstiilid [tükikaubad]; Käsitsi valmistatud seinatekstiilid; Voodikatted.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Seinäverhoilut [seinävaatteet], tekstiiliä; Kirjontaan käytettävät esipainetut kankaat; Damasti; Brokadit; Verhoilukankaat; Kankaat; Kirjailukankaat; Painokankaat; Nenäliinat (Tekstiili -); Silkkikankaat kuviopainantaan; Kankaat metritavarana; Käsin tehdyt kankaiset seinäverhoilut; Vuodevaatteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Tentures murales en matières textiles; Tissus recouverts de motifs dessinés pour la broderie; Damas [étoffe]; Brocarts; Étoffe pour meubles; Matières textiles; Canevas pour la tapisserie ou la broderie; Blanchets pour l'imprimerie en matières textiles; Mouchoirs de poche en matières textiles; Tissus de soie pour patrons d'imprimerie; Étoffes à la pièce; Tentures murales en matières textiles faites à la main; Couvre-lits.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Zidne tapete, tekstilne; Tkanina s ucrtanim motivima za vezenje; Damast [tkanina]; Brokat; Materijali za tkaninu za namještaj; Tkanine; Platno za tapiseriju ili vezenje; Filtar-tkanine za tiskarstvo, tekstilne; Rupčići od tekstila; Svilena tkanina za tiskanje uzoraka; Tkanina [roba u komadima]; Ručno izrađene tekstilne zidne zavjese; Popluni s paperjem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Textil falidíszek; Előrajzolt anyagok [hímzéshez]; Damaszt [szövet]; Brokátok; Bútorszövetek, kárpitok; Szövetek; Vászon, kanavász falikárpithoz vagy hímzéshez; Nyomdai alátétek szövetanyagból; Zsebkendők textilanyagokból; Selyemszövetek nyomdai sablonokhoz; Szövetek [méteráruk]; Kézműves textil falikárpitok, falidíszek; Ágyterítők, ágytakarók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Parati murali in materie tessili; Tessuti ricoperti di motivi disegnati per ricamo; Damasco [stoffa]; Broccati; Tessuti per ammobiliamento; Stoffe [tessuti]; Canovacci per la tappezzeria o per il ricamo; Panni di stampa in materie tessili; Fazzoletti di tela in materie tessili; Tessuti di seta per modelli di tipografia; Tessuti [merci in pezzi]; Parati murali artigianali in materie tessili; Trapunte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Tekstiliniai gobelenai (sienų apmušalai); Siuvinėjimo žymėtieji audiniai; Damastas; Brokatas; Baldų gobelenai; Medžiagos (tekstilė); Siuvinėjimo drobė; Ofsetinis tekstilinis audinys; Tekstilinės nosinės; Šilkinis audinys (piešiniams spausdinti); Medžiagos [audinių rietimai]; Rankų darbo tekstiliniai sienų papuošimai; Lovatiesės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Sienu drapērijas no tekstilmateriāliem; Apzīmēts audums izšūšanai; Damasts; Brokāts; Tapsēšanas audumi; Tekstilmateriāli; Kanva gobelēniem un izšuvumiem; Audekls apdrukai; Auduma kabatlakatiņi; Zīda audums apdrukas šabloniem; Audumi (gabalpreces); Ar rokām darinātas auduma sienu drapērijas; Gultas pārklāji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Affarijiet tessili li jiddendlu mal-ħajt; Ċraret immarkati għax-xogħol tar-rakkmu; Damask; Drapp imbrukkat; Drapp tat-tapizzerija; Drappijiet; Kanvas għar-rakkmu; Drapp tar-rombli tal-istamperija; Mkatar tat-tessut; Tessut tas-satin għal disinni tal-istampar; Biċċiet tat-tessuti; Affarijiet tat-tessuti li jiddendlu mal-ħajt magħmulin bl-idejn; Kutri kkuttunati [friex].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Wandkleden van textiel; Stoffen met patroontekeningen voor borduurwerk; Damast [stof]; Brokaatweefsels; Meubelstoffen; Textielmaterialen; Canvas voor tapijt- of borduurwerk; Persdoeken van textiel, voor de drukkerij; Zakdoeken van textiel; Weefsels van zijde voor drukpatronen; Weefsels [stukgoederen]; Wandbekleding van textiel, met de hand vervaardigd; Bedspreien.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Obicia ścienne z materiałów tekstylnych; Tkaniny pokryte motywem rysunkowym do haftowania; Adamaszek; Brokaty; Materiały do tapicerki; Tkaniny; Płótna do haftu; Obciągi offsetowe z materiałów tekstylnych; Chusteczki do nosa z materiałów tekstylnych; Tkaniny jedwabne do szablonów drukarskich; Tkaniny [bele]; Dekoracyjne tkaniny ścienne z materiałów tekstylnych robione ręcznie; Narzuty na łóżka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Tapeçarias murais em matérias têxteis; Tecidos ornamentados para bordados; Damasco [tecido]; Brocados; Tecidos para revestimento; Matérias têxteis; Telas para tapeçaria ou bordados; Mantas de imprensa em matérias têxteis; Lenços de bolso em matérias têxteis; Tecidos em seda para moldes de imprensa; Tecidos [produtos à peça]; Tapeçarias murais em matérias têxteis manufaturadas; Cobertas para cama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Tapet din materiale textile; Țesături acoperite de motive desenate pentru broderie; Damasc [țesături]; Brocarturi; Materiale pentru capitonare; Materiale textile; Canava pentru tapiserie sau broderie; Folii montaj din material textil pentru mașini de imprimat; Batiste din materiale textile; Imprimat (Țesături din mătase pentru șabloane de -); Materiale textile [produse]; Carpete lucrate manual din materiale textile pentru pereți; Cuverturi matlasate (lenjerie de pat).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Textilné nástenné dekorácie; Textílie na vyšívanie s predkresleným vzorom; Damask (tkaniny); Brokáty; Čalúnnické textílie; Textilné materiály; Kanava (riedka tkanina) na tapisérie alebo na vyšívanie; Textílie do tlačiarní na textil; Textilné vreckovky; Hodvábne tkaniny na tlačové vzory; Textilné kusové výrobky; Ručne vyrobené textilné nástenné dekorácie; Posteľné pokrývky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Stenske tapete iz tekstila; Potiskane tkanine za vezenje; Damast; Brokat; Tkanine za tapetništvo; Tkanine; Platno za tapiserije in vezenje; Odeje iz blaga za tiskarstvo; Robčki iz blaga; Svilene tkanine za tiskanje vzorcev; Tkanine (metrsko blago); Ročno izdelani tekstilni stenski zastori; Posteljna pregrinjala.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Väggdekorationer av textil; Förritade tyger för broderi; Damast; Brokad; Möbeltyger; Textilmaterial; Stramalj för tapisseri eller broderi; Tryckdukar av textil; Näsdukar av textil; Silkscreen för tryckning; Tyger [metervaror]; Handgjorda väggdekorationer av textil; Sängöverkast.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/077</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080327</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>71845</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

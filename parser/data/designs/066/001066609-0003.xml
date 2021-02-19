@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-11-06T10:02:14</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001066609-0003</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-19</ReceivingOfficeDate>
+<DesignIdentifier>001066609-0003</DesignIdentifier>
+<ApplicationNumber>001066609</ApplicationNumber>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-19</ApplicationDate>
+<RegistrationDate>2008-12-19</RegistrationDate>
+<PublicationDate>2009-01-20</PublicationDate>
+<ApplicationReference>HE/12-53449-08</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2018-12-19</ExpiryDate>
+<EffectiveDate>2008-12-19</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2019-11-01</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061607144</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066609_0003/001066609_0003_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061607145</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066609_0003/001066609_0003_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061607146</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066609_0003/001066609_0003_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061607148</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066609_0003/001066609_0003_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061607149</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066609_0003/001066609_0003_5.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Лампи за улично осветление</IndicationProduct>
+       <IndicationProduct languageCode="cs">Luminaires pour l' éclairage extérieur</IndicationProduct>
+       <IndicationProduct languageCode="da">Lamper til udendørsbelysning</IndicationProduct>
+       <IndicationProduct languageCode="de">Lampen zur Außenbeleuchtung</IndicationProduct>
+       <IndicationProduct languageCode="el">Φωτιστικά για εξωτερικό φωτισμό</IndicationProduct>
+       <IndicationProduct languageCode="en">Lighting fixtures for outdoor lighting</IndicationProduct>
+       <IndicationProduct languageCode="es">Luces para alumbrado exterior</IndicationProduct>
+       <IndicationProduct languageCode="et">Välisvalgustid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Ulkovalolamput</IndicationProduct>
+       <IndicationProduct languageCode="fr">Luminaires pour l'éclairage extérieur</IndicationProduct>
+       <IndicationProduct languageCode="hu">Világítótestek kültéri világításhoz</IndicationProduct>
+       <IndicationProduct languageCode="it">Illuminazione per esterni</IndicationProduct>
+       <IndicationProduct languageCode="lt">Išorinio apšvietimo lempos</IndicationProduct>
+       <IndicationProduct languageCode="lv">Ārtelpu apgaismošanas armatūra</IndicationProduct>
+       <IndicationProduct languageCode="mt">Tagħmir tad-dawl għal barra</IndicationProduct>
+       <IndicationProduct languageCode="nl">Lampen voor buitenverlichting</IndicationProduct>
+       <IndicationProduct languageCode="pl">Lampy do oświetlenia zewnętrznego</IndicationProduct>
+       <IndicationProduct languageCode="pt">Candeeiros de iluminação exterior</IndicationProduct>
+       <IndicationProduct languageCode="ro">Corpuri de iluminat pentru exterior</IndicationProduct>
+       <IndicationProduct languageCode="sk">Osvetľovacie telesá na vonkajšie osvetlenie</IndicationProduct>
+       <IndicationProduct languageCode="sl">Luči za zunanjo razsvetljavo</IndicationProduct>
+       <IndicationProduct languageCode="sv">Lampor för utomhusbelysning</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>26.05</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/011</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-20</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/091</PublicationIdentifier>
+        <PublicationSequenceNumber>252101</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2009-05-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/101</PublicationIdentifier>
+        <PublicationSequenceNumber>257165</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2009-05-29</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/126</PublicationIdentifier>
+        <PublicationSequenceNumber>1016480</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2013-07-08</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/240</PublicationIdentifier>
+        <PublicationSequenceNumber>1117349</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2013-12-18</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2016/176</PublicationIdentifier>
+        <PublicationSequenceNumber>1846027</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2016-09-16</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2019/211</PublicationIdentifier>
+        <PublicationSequenceNumber>101489658</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2019-11-06</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>153952</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>11091</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003119637</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>257165</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-05-29</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003109398</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>252101</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-05-27</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>007618295</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1117349</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-12-18</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>011097158</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1846027</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2016-09-16</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006969962</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1016480</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-07-08</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

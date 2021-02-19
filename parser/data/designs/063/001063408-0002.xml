@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-11-06T16:31:19</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063408-0002</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063408-0002</DesignIdentifier>
+<ApplicationNumber>001063408</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2011-03-10</PublicationDate>
+<ApplicationReference>5/3/D2771.EU</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>true</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2018-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2019-11-01</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000062488433</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063408_0002/001063408_0002_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062488434</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063408_0002/001063408_0002_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062488436</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063408_0002/001063408_0002_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062488437</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063408_0002/001063408_0002_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062488439</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063408_0002/001063408_0002_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062488440</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063408_0002/001063408_0002_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062488441</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063408_0002/001063408_0002_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Рибарско оборудване</IndicationProduct>
+       <IndicationProduct languageCode="cs">Rybářské vybavení</IndicationProduct>
+       <IndicationProduct languageCode="da">Fiskeudstyr</IndicationProduct>
+       <IndicationProduct languageCode="de">Fischereiartikel</IndicationProduct>
+       <IndicationProduct languageCode="el">Είδη ψαρέματος</IndicationProduct>
+       <IndicationProduct languageCode="en">Fishing equipment</IndicationProduct>
+       <IndicationProduct languageCode="es">Aparejos de pescar</IndicationProduct>
+       <IndicationProduct languageCode="et">Kalapüügivarustus</IndicationProduct>
+       <IndicationProduct languageCode="fi">Kalastuslaitteet</IndicationProduct>
+       <IndicationProduct languageCode="fr">Articles de pêche</IndicationProduct>
+       <IndicationProduct languageCode="hu">Horgászfelszerelés</IndicationProduct>
+       <IndicationProduct languageCode="it">Articoli per la pesca</IndicationProduct>
+       <IndicationProduct languageCode="lt">Žūklės reikmenys</IndicationProduct>
+       <IndicationProduct languageCode="lv">Makšķerēšanas aprīkojums</IndicationProduct>
+       <IndicationProduct languageCode="mt">Tagħmir tas-sajd</IndicationProduct>
+       <IndicationProduct languageCode="nl">Visgerei</IndicationProduct>
+       <IndicationProduct languageCode="pl">Przybory wędkarskie</IndicationProduct>
+       <IndicationProduct languageCode="pt">Equipamento de pesca</IndicationProduct>
+       <IndicationProduct languageCode="ro">Echipament de pescuit</IndicationProduct>
+       <IndicationProduct languageCode="sk">Rybárske vybavenie</IndicationProduct>
+       <IndicationProduct languageCode="sl">Ribiški pribor</IndicationProduct>
+       <IndicationProduct languageCode="sv">Fiskedon</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>22.05</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/038</PublicationIdentifier>
+        <PublicationSection>A.2</PublicationSection>
+        <PublicationDate>2009-03-02</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2011/057</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2011-03-10</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/001</PublicationIdentifier>
+        <PublicationSequenceNumber>1122087</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2014-01-03</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2016/047</PublicationIdentifier>
+        <PublicationSequenceNumber>1701591</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2016-03-09</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/200</PublicationIdentifier>
+        <PublicationSequenceNumber>100726604</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2018-10-22</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2019/211</PublicationIdentifier>
+        <PublicationSequenceNumber>101489646</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2019-11-06</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>10687</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>010379042</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1701591</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2016-03-09</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006984565</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1122087</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-03</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012505322</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100726604</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-10-22</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

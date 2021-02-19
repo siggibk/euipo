@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-29T09:52:43</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224682</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224682</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SecureCorpus®</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Защитно облекло за медицински цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Ochranné oděvy pro lékařské účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beskyttelsesbeklædning til medicinske formål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schutzbekleidung für medizinische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Προστατευτικά ενδύματα για ιατρική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Protective clothing for medical purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Ropa protectora para fines médicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiinis kasutatavad kaitserõivad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Suojavaatteet lääketieteellisiin tarkoituksiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vêtements de protection à usage médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Zaštitna odjeća za medicinske namjene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Védőruházat orvosi célokra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Abbigliamento protettivo per uso medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Apsauginiai drabužiai medicininėms reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Aizsargtērpi medicīniskām vajadzībām.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ħwejjeġ protettivi għall-użu mediku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Beschermende kledingstukken voor medische doeleinden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odzież ochronna do celów medycznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vestuário de proteção para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Îmbrăcăminte de protecție de uz medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Ochranné odevy na lekárske účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zaščitna oblačila za medicinske namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Skyddskläder för medicinska ändamål.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/141</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>413995</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

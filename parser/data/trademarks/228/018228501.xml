@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:10:15</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228501</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228501</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>sv</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>WebbEss</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162456008</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/228/018228501/000162456008.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.11.01</CategoryCode>
+          <CategoryCode>26.11.12</CategoryCode>
+          <CategoryCode>29.01.02</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Проектиране на компютърен уебсайт; Консултантски услуги по дизайн на уебсайтове; Създаване на уебстраници за трети лица; Създаване и разработка на уебсайтове за трети лица; Проектиране, създаване и програмиране на уебстраници; Създаване и поддържане на уеб страници за трети лица; Създаване на уебсайтове.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Navrhování počítačových webových stránek; Poradenství v oblasti navrhování webových stránek; Vytváření webových stránek pro třetí osoby; Tvorba a navrhování webových stránek pro třetí osoby; Navrhování, tvorba a programování webových stránek; Vytváření a údržba webových stránek pro jiné osoby; Vývoj webových stránek (služby).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Computerwebsitedesign; Rådgivning om design af websteder; Udarbejdelse af websider for andre; Udarbejdelse og design af websider for andre; Design, opsætning og programmering af websider; Udvikling og vedligeholdelse af hjemmesider for andre; Udvikling af websteder.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Konzeption von Computer-Websites; Beratung zur Gestaltung von Webseiten; Erstellung von Webseiten für Dritte; Gestaltung und Konzeption von Webseiten für Dritte; Entwurf, Erstellung und Programmierung von Webseiten; Gestaltung und Unterhalt von Websites für Dritte; Entwicklung von Webseiten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σχεδιασμός ιστοθέσεων μέσω ηλεκτρονικού υπολογιστή· Συμβουλές σε θέματα σχεδιαμού σελίδων· Δημιουργία ιστοσελίδων για λογαριασμό άλλων· Δημιουργία και σχεδιασμός ιστοσελίδων για λογαριασμό τρίτων· Σχεδιασμός, δημιουργία και προγραμματισμός ιστοσελίδων· Δημιουργία και συντήρηση ιστοθέσεων για τρίτους· Υπηρεσίες ανάπτυξης ιστοθέσεων (web site).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Computer website design; Web site design consultancy; Creating web pages for others; Creating and designing web pages for others; Design, creation and programming of web pages; Creating and maintaining web sites for others; Website development services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Diseños de páginas web informáticas; Consultoría sobre diseño de sitios web; Creación de páginas web para terceros; Creación y diseño de páginas web para terceros; Diseño, creación y programación de páginas web; Creación y mantenimiento de sitios web para terceros; Servicios de desarrollo de sitios web.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Arvutiveebisaitide kujundamine; Veebisaitide projekteerimise konsultatsioonid; Veebilehtede koostamine teenusena; Veebisaitide loomine ja kujundamine, teistele isikutele; Veebilehtede projekteerimine, loomine ja programmeerimine; Veebisaitide loomise ja haldamise teenus; Veebisaidi arendusteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">WWW-sivustojen suunnittelu; Verkkosivujen suunnittelua koskevat konsultointipalvelut; Verkkosivujen laatiminen muille; WWW-sivustojen laadinta ja suunnittelu kolmansille osapuolille; Verkkosivujen suunnittelu, luominen ja ohjelmointi; Verkkosivustojen luominen ja ylläpito muille; Verkkosivujen kehityspalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Conception de sites Web informatiques; Conseils en conception de sites web; Création de pages Web pour le compte de tiers; Création et conception de sites Web pour le compte de tiers; Conception, création et programmation de pages Web; Création et entretien de sites web pour des tiers; Services de développement de sites Web.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Računalni dizajn Web stranica; Savjetovanje u svezi s dizajnom web stranica; Kreiranje internetskih stranica za druge; Izrada i dizajn Web stranica za druge; Dizajniranje, izrada i programiranje internetskih stranica; Izrada i održavanje Web stranica za druge; Kreiranje internetskih stranica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Weboldal tervezés; Honlaptervezési tanácsadás; Weboldalak készítése mások megbízásából; Weboldalak készítése és tervezése; Weboldalak tervezése, létrehozása és programozása; Weboldal készítési és karbantartási szolgáltatás; Weboldal fejlesztő szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Progettazione di siti web informatici; Consulenza per la progettazione di siti web; Creazione di pagine web per terzi; Creazione e progettazione di pagine web per terzi; Progettazione, creazione e programmazione di pagine web; Creazione e manutenzione di siti web per i terzi; Creazione di siti Web.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kompiuterių svetainių dizainas; Visuotinio kompiuterių tinklo svetainių projektavimo konsultacijos; Tinklalapių kūrimas kitiems; Tinklalapių kūrimas ir projektavimas kitiems; Tinklalapių projektavimas, kūrimas ir programavimas; Visuotinio kompiuterių tinklo svetainių kūrimas ir palaikymas kitiems; Interneto svetainių plėtojimo paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Datoru tīmekļa vietņu dizains; Konsultēšana tīmekļa vietņu dizaina jomā; Tīmekļa vietņu izveide citiem; Tīmekļa vietņu izveide un dizains citiem; Tīmekļa lapu projektēšana, izstrāde un programmēšana; Tīmekļa vietņu izveidošana un uzturēšana trešajām personām; Tīmekļa vietņu izstrādes pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Disinn ta' websajts tal-kompjuter; Konsultazzjoni dwar disinn ta' websajt; Ħolqien ta' paġni fuq l-internet għal ħaddieħor; Ħolqien u disinn ta' paġni ta' siti elettroniċi għal oħrajn; Disinn, ħolqien u pprogrammar ta' paġni tal-web; Il-ħolqien u l-manutenzjoni ta' websajts għal terzi persuni; Servizzi ta' żvilupp ta' websajts.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Website-ontwerp; Advisering met betrekking tot het ontwerpen van websites; Creëren van websites voor derden; Ontwikkelen en ontwerpen van websites voor anderen; Ontwerp, creatie en programmering van webpagina's; Ontwerpen en onderhouden van websites [voor derden]; Ontwikkeling van websites.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Projektowanie komputerowych stron internetowych; Doradztwo w zakresie projektowania stron internetowych; Tworzenie stron internetowych dla innych; Tworzenie i projektowanie stron internetowych dla osób trzecich; Projektowanie, tworzenie i programowanie stron internetowych; Tworzenie i utrzymywanie stron internetowych dla osób trzecich; Usługi w zakresie tworzenia witryn internetowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Design de websites informáticos; Consultoria em conceção de websites; Criação de sítios web para outros; Criação e design de sítios web para terceiros; Conceção, criação e programação de páginas Web; Criação e manutenção de web sites para terceiros; Serviços de desenvolvimento de websites.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Design de site-uri web; Consultanță în materie de design web; Creare de pagini web pentru alte persoane; Crearea și proiectarea de pagini web pentru terți; Proiectare, creare și programare de pagini web; Crearea și întreținerea siturilor web pentru terți; Servicii de dezvoltare de pagini web.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Navrhovanie počítačových webových stránok; Poradenstvo pri tvorbe webových stránok; Tvorba webových stránok pre tretie osoby; Vytváranie a navrhovanie webových stránok pre tretie osoby; Návrh, vytváranie a programovanie webových stránok; Tvorba a udržiavanie webových stránok (pre tretie osoby); Tvorba webstránok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oblikovanje spletnih strani; Svetovanje v zvezi z oblikovanjem spletnih strani; Izdelava spletnih strani za druge; Izdelava in oblikovanje spletnih strani za druge; Oblikovanje, izdelava in programiranje spletnih strani; Izdelava in vzdrževanje spletnih strani za druge; Storitve razvoja spletnih strani.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Webbdesign; Konsultationer avseende webbdesign; Utformning av webbsidor åt andra; Utformning och design av webbsidor åt andra; Design, skapande och programmering av webbsidor; Utveckling och underhåll av webbplatser för andra; Utveckling av webbplatser.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1081953</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>96707</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

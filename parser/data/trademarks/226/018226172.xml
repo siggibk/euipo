@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:34:34</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226172</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226172</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>RECUERDA BY abc PREMIUM AIRFRESH AMBIENTADOR</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162315984</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226172/000162315984.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.07</CategoryCode>
+          <CategoryCode>26.04.22</CategoryCode>
+          <CategoryCode>26.04.98</CategoryCode>
+          <CategoryCode>26.04.99</CategoryCode>
+          <CategoryCode>26.11.01</CategoryCode>
+          <CategoryCode>26.11.12</CategoryCode>
+          <CategoryCode>27.01.25</CategoryCode>
+          <CategoryCode>29.01.02</CategoryCode>
+          <CategoryCode>29.01.08</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Дезодоранти за автомобили.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Deodoranty do automobilů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Luftopfriskere til biler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Deodorants für Autos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αποσμητικά αυτοκινήτου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Car deodorants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Ambientadores [desodorantes] para coches.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Autodeodorandid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Deodorantit autoihin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Désodorisants pour voitures.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Osvježivači prostora za automobile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Autós szagtalanítók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Deodoranti per automobile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Automobilių dezodorantai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dezodoranti automobiļiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Deodoranti għal karozzi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Luchtverfrissers voor auto's.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Dezodoranty do samochodów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Desodorizantes para automóveis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Deodorante pentru automobile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Osviežovače vzduchu do áut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Dezodoranti za avtomobile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Luftfräschare för bilar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/078</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080390</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>40345</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

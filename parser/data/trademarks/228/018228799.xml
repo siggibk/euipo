@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-22T12:10:02</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228799</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228799</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="6">Application under examination</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-04-24</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SMART WAY</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Софтуер за комуникация; Софтуер; Мобилни приложения.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Počítačový komunikační software; Počítačový software; Mobilní aplikace.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kommunikationssoftware; Software; Mobilapplikationer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kommunikationssoftware; Software; Mobile Apps.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λογισμικό επικοινωνίας· Λογισμικό· Εφαρμογές κινητών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Communication software; Software; Mobile apps.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Software informático de comunicaciones; Software; Aplicaciones de móviles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Sidetarkvara; Arvutitarkvara; Mobiilirakendused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Viestintään tarkoitetut ohjelmistot; Ohjelmistot; Mobiilisovellukset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Logiciels de communication; Logiciel; Applications logicielles pour téléphones mobiles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Komunikacijski računalni program; Softver; Mobilne aplikacije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kommunikációs szoftverek; Szoftverek; Mobil alkalmazások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Software per le comunicazioni; Software; Applicazioni per cellulari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Ryšių programinė įranga; Programinė įranga; Mobiliųjų įrenginių taikomoji programinė įranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Komunikāciju programmatūra; Programmatūra; Mobilas lietotnes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Softwer tal-komunikazzjoni; Softwer; Applikazzjoni tat-tagħmir ċellulari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Communicatiesoftware; Software; Mobiele applicaties.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oprogramowanie komunikacyjne; Oprogramowanie; Mobilne aplikacje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Software para comunicações; Software; Aplicações móveis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Software de comunicații; Software; Aplicatii mobile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Komunikačný softvér; Softvér; Mobilné aplikácie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Komunikacijska programska oprema; Programska oprema; Mobilna aplikacija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Programvara för kommunikation; Mjukvaror; Mobilappar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Онлайн реклами; Изготвяне и поставяне на реклами за трети лица; Рекламиране и рекламни услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Reklama online; Příprava a umísťování reklam pro jiné subjekty; Propagace.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Online annoncer og reklamer; Udarbejdelse og indrykning af annoncer for andre; Reklamevirksomhed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Online-Werbung; Erstellung und Platzierung von Werbeanzeigen für Dritte; Werbung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διαφημίσεις επί γραμμής (on line)· Δημιουργία και τοποθέτηση διαφημίσεων για λογαριασμό άλλων· Διαφήμιση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Online advertisements; Preparing and placing advertisements for others; Advertising.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Publicidad en línea (online); Preparación y colocación de anuncios publicitarios por cuenta de terceros; Publicidad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Onlain-reklaam; Reklaamide valmistamis- ja paigutamisteenused kolmandatele isikutele; Reklaam.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Online-mainokset; Mainosten laatiminen ja sijoittaminen muiden lukuun; Mainonta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Publicité en ligne; Préparation et placement d'annonces publicitaires pour le compte de tiers; Publicité.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Online reklame; Pripremanje i postavljanje reklama za druge; Oglašavanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Online reklámozás; Reklámok készítése és elhelyezése mások számára; Hirdetési- és reklámszolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Annunci pubblicitari on line; Preparazione e collocazione di pubblicità per conto terzi; Pubblicità.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Skelbimai internetu; Reklaminių skelbimų rengimas ir talpinimas kitiems; Reklama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Reklāma tiešsaistē; Reklāmu sagatavošana un izvietošana citu labā; Reklāma.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Reklamar onlajn; It-tħejjija u t-tqegħid ta' reklamar għal oħrajn; Reklamar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Onlinereclame; Het opstellen en plaatsen van advertenties voor derden; Publiciteit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Reklamy online; Przygotowywanie i umieszczanie reklam na rzecz osób trzecich; Reklama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Anúncios publicitários online; Preparação e afixação de anúncios para terceiros; Publicidade.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Publicitate online; Pregătire și plasare de anunțuri publicitare pentru terți; Publicitate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">On line reklama; Príprava a umiestňovanie reklamy pre klientov; Reklama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Spletni oglasi; Priprava in postavitev oglasov za druge; Oglaševanje in oglaševalske storitve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Onlineannonsering; Framtagning och placering av annonser åt andra; Reklam.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>39</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Транспорт на стоки; Информационни услуги в областта на транспорта; Организиране на доставката на стоки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Přeprava zboží; Informace o dopravě; Zprostředkování přepravy zboží.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Transport af varer; Stillen information til rådighed om transport; Arrangering af varetransport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Warentransporte; Auskünfte über Transportangelegenheiten; Warenauslieferungsorganisation.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μεταφορά εμπορευμάτων· Πληροφόρηση για μεταφορές· Οργάνωση μεταφοράς προϊόντων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Transportation of goods; Providing transportation information; Arranging transportation of goods.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Transporte de artículos; Información sobre transporte; Organización del transporte de mercancías.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kauba transport; Transporditeave, transpordiinfo; Kaupade transpordi korraldamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tavarakuljetus; Kuljetusneuvonta; Tavarakuljetusten järjestäminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Transport de marchandises; Informations en matière de transport; Organisation du transport de marchandises.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Prijevoz robe; Upute [obavijesti] o prijevozu; Organiziranje prijevoza robe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Áruk szállítása; Információ szállítással kapcsolatban; Áruszállítás megszervezése.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Trasporto di merci; Informazioni in materia di trasporto; Organizzazione della consegna di merci.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Prekių transportavimas; Informacija apie vežimą; Prekių gabenimo organizavimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Preču pārvadāšana; Informācijas sniegšana par pārvadājumiem; Preču piegādes organizēšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Trasport ta' oġġetti; Informazzjoni dwar it-trasport; L-arranġament għat-trasportazzjoni ta' oġġetti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Goederentransport; Verschaffen van informatie op het gebied van transport; Goederenvervoer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Transport towarów; Informacja o transporcie; Organizowanie transportu towarów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Transporte de mercadorias; Informações sobre transporte; Organização do transporte de produtos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Transport de bunuri; Informații în domeniul transportului; Organizarea livrării de marfă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Preprava tovaru; Informácie o možnostiach dopravy; Zabezpečovanie prepravy tovarov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Transport blaga; Informacije o transportu; Organiziranje prevoza blaga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Varutransporter; Transportinformation; Anordnande av varutransporter.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Отдаване под наем на компютърен софтуер; Отдаване под наем на приложен софтуер; Софтуер като услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pronájem počítačového softwaru; Pronájem aplikačního softwaru; Software jako služba [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Udlejning af computerprogrammer; Udlejning softwareapplikationer; Software as a service [saas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Vermietung von Computer-Software; Vermietung von Anwendungssoftware; Software as a Service [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χρηματοδοτική μίσθωση λογισμικού ηλεκτρονικών υπολογιστών· Εκμίσθωση λογισμικού εφαρμογών· Λογισμικό σαν υπηρεσία.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Rental of computer software; Rental of application software; Software as a service [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Alquiler de software; Alquiler de software de aplicaciones; Software como servicio [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Arvutitarkvara üürimine, laenutus; Rakendustarkvara rentimine; Pilveteenused [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ohjelmistojen (Tietokone -) vuokraus; Sovellusohjelmistojen vuokraus; Verkkosovelluspalvelut [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Location de logiciels informatiques; Location de logiciels d'application; Logiciel-service [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Iznajmljivanje informatičkih progama; Iznajmljivanje aplikacijskog softvera; Softver kao usluga [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Számítógépes szoftver bérlése, kölcsönzése; Alkalmazási szoftverek bérbeadása, kölcsönzése; Szoftver mint szolgáltatás [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Locazione di software informatici; Noleggio di software applicativi; Servizi di software [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kompiuterių programų nuoma; Taikomosios programinės įrangos nuoma; Programinė įranga kaip paslauga [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Datoru programmatūras iznomāšana; Lietojumprogrammatūras noma; Programmatūra kā pakalpojums (SaaS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kiri ta' softwer tal-kompjuter; Il-kiri ta' softwer ta' applikazzjoni; Softwer bħala servizz [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Verhuur van computer software; Applicatiesoftware (Verhuur van -); Ter beschikking stellen van software [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Wypożyczanie oprogramowania komputerowego; Wypożyczanie oprogramowania użytkowego; Oprogramowanie jako usługa [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aluguer de software; Aluguer de software de aplicações; Software como serviço [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Închirierea de programe informatice; Închirieri de aplicații informatice; Software ca serviciu [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Požičiavanie počítačového softvéru; Prenájom aplikačného softvéru; Poskytovanie softvéru prostredníctvom internetu (SaaS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Najem računalniške programske opreme; Najem aplikacijske programske opreme; Programska oprema kot storitev [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Uthyrning av datorprogramvara; Uthyrning av tillämpningsprogramvara; Molntjänster [SaaS].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1081915</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

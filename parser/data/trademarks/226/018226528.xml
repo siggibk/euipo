@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-24T08:47:46</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226528</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226528</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-09-22</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-24</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162318869</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226528/000162318869.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>02.01.01</CategoryCode>
+          <CategoryCode>02.01.23</CategoryCode>
+          <CategoryCode>02.09.15</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>2</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бои и разредени бои; Бои за вътрешно боядисване; Бои за изкуства и занаяти; Бои и декоративни цели; Боя за боядисване на къщи; Восъчни покрития; Лакове и политури; Лакове и политури; Антикорозионни вещества и вещества, предпазващи дървения материал от повреди.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Barvy; Vnitřní nátěry; Barvy k použití v umění a v řemeslech; Barvy pro dekorativní účely; Nátěry na domy; Voskové nátěry; Laky a fermeže; Laky a fermeže; Ochranné výrobky proti korozi a proti deteriorizaci dřeva, barviva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Maling; Indendørsmaling; Maling til brug i kunst og kunsthåndværk; Maling til dekorative formål; Husmaling; Voksbelægninger; Fernis; Lakker; Rustbeskyttelsesmidler og træimprægneringsmidler, farvestoffer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Farben; Innenfarben; Farben für Kunst und Kunsthandwerk; Farben für Dekorationszwecke; Fassadenanstrichfarbe; Wachsbeschichtungen; Lacke und Firnisse; Lacke und Firnisse; Rostschutzmittel und Holzkonservierungsmittel, Färbemittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χρώματα και υδατοχρώματα· Χρώμα για εσωτερικούς χώρους· Χρώματα για καλλιτεχνία και χειροτεχνία· Χρώματα για διακοσμητική χρήση· Βαφές κατοικιών· Επιστρώσεις από κερί· Λάκες και βερνίκια· Λάκες και βερνίκια· Μέσα προφυλάξεως κατά της σκωρίας και μέσα συντηρήσεως ξύλου, χρωστικές ουσίες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Paints; interior paint; paints for arts and crafts; paints for decorative purposes; house paints; wax coatings; varnishes; lacquers; preservatives against rust and against deterioration of wood and colorants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Pinturas y pinturas al agua; Pintura para interiores; Pinturas para artes y manualidades; Pinturas para fines decorativos; Pintura para casas; Recubrimientos de cera; Barniz; Lacas; Preservativos contra la herrumbre y el deterioro de la madera materias tintóreas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Värvid; Sisevärvid; Kunsti- ja käsitöövärvid; Dekoratiivsed värvid; Majavärv; Vahapinded; Lakid ja värnitsad; Lakid ja värnitsad; Roostetõrjevahendid ja puidukonservandid, värvained.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Maalit ja väripinnoitteet; Sisämaalit; Taide- ja käsityövärit; Maalit koristelutarkoituksiin; Talomaali; Vahapinnoitteet; Lakat ja vernissat; Lakat ja vernissat; Ruosteenesto- ja puunsuojavalmisteet, väriaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Peintures et enduits; Peinture d'intérieur; Peintures pour arts et artisanat; Peintures à des fins décoratives; Peinture pour bâtiment; Revêtements en cire; Vernis; Laques; Préservatifs contre la rouille et contre la détérioration du bois, matières tinctoriales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Boje i sredstva za pranje; Unutarnja boja; Boje za umjetnost i obrte; Boje za dekorativne potrebe; Boja za fasadu; Premazi od voska; Lakovi i lazure; Lakovi i lazure; Zaštite od hrđe te od propadanja i truljenja drva, tvari za bojanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Festékek és lemosók; Beltéri festék; Iparművészeti, kézműves festékek; Festékek díszítési célokra; Épületfesték; Viaszbevonatok; Lakkok és politúrok; Lakkok és politúrok; Rozsdagátló és fakonzerváló szerek színezőanyagok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pitture e tinte; Pitture per interni; Pitture per le arti e l'artigianato; Vernici per scopi decorativi; Pittura per la casa; Rivestimenti in cera; Lacche e vernici; Lacche e vernici; Prodotti preservanti dalla ruggine e dal deterioramento del legno, materie tintorie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dažai; Vidaus dažai; Dailės ir amatų dažai; Dažai dekoratyviniams tikslams; Namų dažymo dažai; Vaško dangos; Lakai ir politūros; Lakai ir politūros; Medžiagos, apsaugančios nuo rūdžių ir medžio gedimo, dažymo medžiagos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Krāsas un krāsas uz ūdens bāzes; Iekšdarbu krāsas; Krāsas mākslinieciskiem darbiem un rokdarbiem; Augi dekoratīviem mērķiem; Fasādes krāsas; Vaska pārklājumi; Lakas un pernicas; Lakas un pernicas; Konservanti pret koroziju un koksnes sairšanu, krāsvielas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Żebgħat; Żebgħa għal ġewwa; Żebgħa għall-arti u l-artiġġjanat; Żebgħa għal skopijiet ta' tiżjin; Żebgħa tad-dar; Kisi tax-xemgħa; Lakers u verniċi; Lakers u verniċi; Preservanti kontra s-sadid u kontra d-deterjorament ta' l-injam materjali ta' żebgħa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Verven; Verven voor binnen; Verven voor kunst en nijverheid; Verven voor decoratieve doeleinden; Verf voor huizen; Coatings van was; Lakken en vernissen; Lakken en vernissen; Roestwerende middelen en houtconserveringsmiddelen, kleurstoffen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Farby i farby mocno rozcieńczone; Farby wewnętrzne; Farby do użytku w sztuce i rzemiośle; Farby do celów dekoracyjnych; Farby do domu; Powłoki woskowe; Lakiery i pokosty; Lakiery i pokosty; Środki zabezpieczające przed rdzą i przed psuciem się drewna, materiały barwiące.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Tintas e soluções para pintar; Tintas para interiores; Tintas para artes e ofícios; Tintas para fins de decoração; Tinta para pintura de casas; Revestimentos de cera; Lacas e vernizes; Lacas e vernizes; Preservativos contra a ferrugem e a deterioração da madeira, matérias tintoriais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Vopsele şi lapte de var; Vopsea pentru interior; Vopsele pentru arte manuale; Vopsele pentru uz decorativ; Vopsea de uz casnic; Straturi de acoperire din ceară; Lacuri; Lacuri; Substanţe de protecţie împotriva ruginii şi împotriva deteriorării lemnului, materiale colorante.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Farby a roztoky na bielenie; Interiérové náterové farby; Farby na umelecké a remeselné použitie; Farby na dekoratívne účely; Náterové domové farby; Voskové nátery; Laky a fermeže; Laky a fermeže; Konzervačné prísady proti korózii a proti skazeniu dreva, maliarske materiály.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Barve in vodni premazi; Barve za notranje prostore; Barve za umetno obrt; Barve za dekorativne namene; Hišne barve; Voščeni premazi; Laki in firneži; Laki in firneži; Sredstva za zaščito proti rji in sredstva za konzerviranje lesa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Färger och renande medel; Inomhusfärger; Målarfärger för konst och hantverk; Målarfärg för prydnadsändamål; Husfärg; Vaxbeläggningar; Lacker och fernissor; Lacker; Rostskyddsmedel och skyddsmedel mot angrepp på trä, färgämnen.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>16</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Четки за рисуване; Ванички и палитри за бои; Валяци за боядисване; Материали за художници; Книги; Списания [периодични]; Периодични издания; Канцеларски принадлежности; Учебни материали [с изключение на апарати].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Štětce; Vany pro malíře; Malířské válečky; Materiál pro umělce; Knihy; Časopisy [periodika]; Periodika; Papírenské zboží; Učební pomůcky [s výjimkou zařízení].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Malerpensler; Malerbakker; Maleruller; Artikler til brug for kunstnere; Bøger; Magasiner [tidsskrifter]; Tidsskrifter; Papirhandlervarer (skriveredskaber og papirvarer); Undervisningsmateriale [undtagen apparater].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Pinsel; Farbwannen; Farbrollen; Künstlerbedarfsartikel; Bücher; Zeitschriften [Magazine]; Zeitschriften; Schreibwaren; Lehr- und Unterrichtsmittel [ausgenommen Apparate].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Πινέλα ζωγραφικής· Δίσκοι χρωμάτων· Ρολά βαψίματος· Υλικά για καλλιτέχνες· Βιβλία· Περιοδικές εκδόσεις· Περιοδικά· Είδη χαρτοπωλείου· Υλικό διδασκαλίας και εκπαίδευσης (εκτός συσκευών).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Paint brushes; paint trays; paint rollers; artists' materials; books; magazines; periodicals; stationery; instructional and teaching material.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Pinceles; Bandejas para pintura; Rodillos de pintura; Material para artistas; Libros; Revistas [publicaciones periódicas]; Publicaciones periódicas; Artículos de papelería; Material didáctico, excepto aparatos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Pintslid; Värvialused; Värvirullid; Kunstnikutarbed; Raamatud; Ajakirjad; Perioodika, perioodiliselt ilmuvad trükised; Kirjatarbed; Õppematerjalid, v.a seadmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Siveltimet; Paletit; Maalitelat; Taiteilijantarvikkeet; Kirjat; Aikakauslehdet; Aikakausjulkaisut; Paperitavarat (kirjoitus- ja toimistotarvikkeet); Neuvonta- ja opetusmateriaali [paitsi laitteet].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Pinceaux; Bacs à peinture; Rouleaux à peindre; Matériel pour les artistes; Livres; Revues [périodiques]; Périodiques; Papeterie; Matériel didactique autre qu'appareils.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kistovi; Plitice za boje; Valjci za boju; Materijali za umjetnike; Knjige; Periodični časopisi; Časopisi [periodike]; Pribor za pisanje; Materijal za obuku (osim uređaja).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ecsetek; Festéktálcák; Festőhengerek; Anyagok művészek részére; Könyvek; Magazinok, revük [időszaki lapok]; Folyóiratok; Papíripari cikkek; Tanítási és oktatási anyagok [kivéve készülékek, berendezések].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pennelli; Vaschette per la vernice; Pennelli a rullo; Materiale per artisti; Libri; Riviste [periodici]; Periodici [riviste]; Cartoleria; Materiale per l'insegnamento esclusi gli apparecchi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Teptukai; Dažų padėklai; Dažymo voleliai; Dailininkų reikmenys; Knygos; Žurnalai [periodiniai leidiniai]; Periodiniai leidiniai; Raštinės reikmenys; Mokymo medžiaga [išskyrus aparatūrą].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Otas; Krāsu paletes; Krāsas rullīši; Materiāli māksliniekiem; Grāmatas; Žurnāli [periodiskie izdevumi]; Periodiskie izdevumi; Rakstāmlietas; Mācību un uzskates līdzekļi (izņemot aparatūru).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Pniezel taż-żebgħa; Trejs taż-żebgħa; Rombli taż-żebgħa; Materjali ta' l-artisti; Kotba; Magazins [perjodiċi]; Perjodiċi; Kartoleriji; Materjal istruttiv u għat-tagħlim (minbarra apparat).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Penselen; Verfbakjes; Verfrollers; Materiaal voor kunstenaars; Boeken; Tijdschriften; Week- of maandbladen; Schrijfbehoeften; Leermiddelen en onderwijsmateriaal (uitgezonderd toestellen).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Pędzle malarskie; Kuwety malarskie; Wałki malarskie; Materiały przeznaczone dla artystów; Książki; Czasopisma [periodyki]; Periodyki [czasopisma]; Materiały biurowe; Materiały szkoleniowe i instruktażowe (z wyjątkiem aparatów).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Pincéis; Bandejas de pintura; Rolos para a pintura; Material para artistas; Livros; Revistas [periódicas]; Periódicos; Papelaria; Material de instrução e de ensino (exceto aparelhos).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Pensule; Tăvi (ţe) pentru pictat şi zugrăvit; Role pentru vopsit; Materiale pentru artişti; Cărţi; Reviste [publicaţii periodice]; Periodice; Papetărie; Material didactic (cu excepţia aparatelor).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Maliarske štetce; Maliarske palety; Valčeky na maľovanie; Potreby pre umelcov; Knihy; Časopisy (periodiká); Periodiká; Papiernický tovar a písacie potreby; Vyučovacie pomôcky okrem prístrojov a zariadení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Čopiči; Pladnji za barve; Pleskarski valjarji; Potrebščine za umetnike; Knjige; Revije [periodične]; Periodični tisk; Pisarniški material; Material za učenje ali poučevanje (razen aparatov).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Målarpenslar; Målarpaletter; Färgrollrar; Konstnärsmaterial; Böcker; Magasin [periodiska]; Tidskrifter; Pappersvaror (skriv- och kontorsmaterial); Undervisningsmaterial [inte apparater].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/110</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/183</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>507296</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10618</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

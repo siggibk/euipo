@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-21T09:10:12</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224211</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224211</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-09-18</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-21</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>PROWEAVE</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>24</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Тъкан текстил за използване като горни части за обувки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Tkané textilie pro použití jako svršky obuvi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Vævede tekstiler til overlæder til fodtøj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Webstoffe als Obermaterial für Schuhwaren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υφασμένα υφάσματα για χρήση ως πανωδέρματα υποδημάτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Woven textiles for use as footwear uppers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Materias textiles tejidas para su uso como palas de calzado.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kootud tekstiilmaterjalid jalatsipealsetena kasutamiseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kudotut tekstiilit käytettäväksi jalkineiden päällisinä.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Tissus pour empeignes de chaussures.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Tkani tekstil koji se koristi kao gornjište obuće.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szőtt textilek lábbelik felsőrészeként történő fehasználásra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tessuti tessili da utilizzare come tomaie per calzature.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Audiniai, naudojami kaip avalynės batviršiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Austi tekstilizstrādājumi izmantošanai kā apavu virspuse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Drappijiet tessili minsuġa għall-użu bħala parti taż-żarbun li tinsab 'il fuq mill-pett.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Geweven stoffen voor gebruik als bovenleer van schoeisel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Tkaniny do użytku jako cholewki do obuwia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Matérias têxteis tecidas para uso como gáspeas de calçado.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Textile țesute destinate utilizării ca părți superioare ale pantofilor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Tkané textílie na použitie ako zvršky obuvi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Tkane tkanine za zgornje dele obutve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Vävda textiler för användning som överdelar för fotbeklädnader.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/109</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/180</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>220266</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10661</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

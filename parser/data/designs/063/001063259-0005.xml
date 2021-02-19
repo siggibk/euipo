@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:45</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063259-0005</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063259-0005</DesignIdentifier>
+<ApplicationNumber>001063259</ApplicationNumber>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-02-04</PublicationDate>
+<ApplicationReference>-G/GIR-011-EGM</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061755495</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063259_0005/001063259_0005_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755496</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063259_0005/001063259_0005_2.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Брезенти</IndicationProduct>
+       <IndicationProduct languageCode="bg">Kалъфи</IndicationProduct>
+       <IndicationProduct languageCode="cs">Nepromokavá plachtovina</IndicationProduct>
+       <IndicationProduct languageCode="cs">Pouzdra, obaly</IndicationProduct>
+       <IndicationProduct languageCode="da">Presenninger</IndicationProduct>
+       <IndicationProduct languageCode="da">Overtræk</IndicationProduct>
+       <IndicationProduct languageCode="de">Planen</IndicationProduct>
+       <IndicationProduct languageCode="de">Abdeckungen</IndicationProduct>
+       <IndicationProduct languageCode="el">Καλύμματα</IndicationProduct>
+       <IndicationProduct languageCode="el">Καλύμματα</IndicationProduct>
+       <IndicationProduct languageCode="en">Covers</IndicationProduct>
+       <IndicationProduct languageCode="en">Tarpaulins</IndicationProduct>
+       <IndicationProduct languageCode="es">Encerados</IndicationProduct>
+       <IndicationProduct languageCode="es">cubiertas</IndicationProduct>
+       <IndicationProduct languageCode="et">Katted</IndicationProduct>
+       <IndicationProduct languageCode="et">Presendid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Suojukset</IndicationProduct>
+       <IndicationProduct languageCode="fi">Suojapeitteet</IndicationProduct>
+       <IndicationProduct languageCode="fr">Bâches</IndicationProduct>
+       <IndicationProduct languageCode="fr">Couvertures</IndicationProduct>
+       <IndicationProduct languageCode="hu">Borítók, tokok</IndicationProduct>
+       <IndicationProduct languageCode="hu">Vitorlavászon, vízhatlan (juta)vászon</IndicationProduct>
+       <IndicationProduct languageCode="it">Tele cerate</IndicationProduct>
+       <IndicationProduct languageCode="it">Fodere</IndicationProduct>
+       <IndicationProduct languageCode="lt">Dangteliai</IndicationProduct>
+       <IndicationProduct languageCode="lt">Brezentas</IndicationProduct>
+       <IndicationProduct languageCode="lv">Brezents</IndicationProduct>
+       <IndicationProduct languageCode="lv">Pārsegi</IndicationProduct>
+       <IndicationProduct languageCode="mt">Għotjien</IndicationProduct>
+       <IndicationProduct languageCode="mt">Tarpolini</IndicationProduct>
+       <IndicationProduct languageCode="nl">Beschermende omhulsels</IndicationProduct>
+       <IndicationProduct languageCode="nl">Dekzeilen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Płótna nieprzemakalne</IndicationProduct>
+       <IndicationProduct languageCode="pl">Pokrowce</IndicationProduct>
+       <IndicationProduct languageCode="pt">Coberturas de protecção</IndicationProduct>
+       <IndicationProduct languageCode="pt">Encerados</IndicationProduct>
+       <IndicationProduct languageCode="ro">Foi de cort</IndicationProduct>
+       <IndicationProduct languageCode="ro">Capace</IndicationProduct>
+       <IndicationProduct languageCode="sk">Kryty</IndicationProduct>
+       <IndicationProduct languageCode="sk">Celtoviny</IndicationProduct>
+       <IndicationProduct languageCode="sl">Ovitki, ščitniki</IndicationProduct>
+       <IndicationProduct languageCode="sl">Nepremočljiva tkanina, jadrovina</IndicationProduct>
+       <IndicationProduct languageCode="sv">Presenningar</IndicationProduct>
+       <IndicationProduct languageCode="sv">Fodral</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>05.06</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/023</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-02-04</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325767</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2011/276</PublicationIdentifier>
+        <PublicationSequenceNumber>684166</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2011-12-02</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2012/094</PublicationIdentifier>
+        <PublicationSequenceNumber>772320</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2012-05-18</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/236</PublicationIdentifier>
+        <PublicationSequenceNumber>1111929</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2013-12-12</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>11094</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>005357466</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>684166</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2011-12-02</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>005818921</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>772320</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2012-05-19</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>007610938</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1111929</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-12-12</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

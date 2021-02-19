@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:36</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226157</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226157</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-01</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Story Rugs</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>27</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Килими, черги и изтривалки; Килими, черги и изтривалки; Линолеум за подови покрития.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Koberce, předložky, rohožky; Koberce; Linoleum na pokrývání podlah.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tæpper og måtter; Tæpper; Linoleum til belægning af gulve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Teppiche, Vorleger und Matten; Vorleger; Linoleum als Fußbodenbelag.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Τάπητες, ψάθες και χαλάκια· Τάπητες, ψάθες και χαλάκια· Λινοτάπητες επίστρωσης ήδη υπαρχόντων δαπέδων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Carpets, rugs and mats; Carpets; Linoleum for use on floors.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Alfombras, alfombrillas y tapetes; Alfombras; Linóleo para suelos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Vaibad ja matid; Vaibad; Linoleum põrandate katmiseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Matot; Matot; Linoleumi valmiiden lattioiden päällystämiseen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Tapis, paillassons et nattes; Tapis; Linoléum pour le revêtement de sols.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Tepisi, sagovi i otirači; Tepisi, sagovi i otirači; Linoleum za prekrivanje podova.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szőnyegek, pokrócok, lábtörlők; Szőnyegek, pokrócok, lábtörlők; Linóleum kész padlók burkolására.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tappeti, zerbini e stuoie; Tappetini; Linoleum per pavimenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kilimai, kilimėliai, patiesalai; Kilimai; Linoleumas grindims dengti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Paklāji, grīdsegas un mašas; Paklāji; Linolejs grīdas segumu pārklāšanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Twapet; Twapet; Linolju għall-kisi ta' pavimenti eżistenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Tapijten. vloerkleden en matten; Tapijten; Linoleum voor vloeren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Dywany, chodniki i maty; Dywany, chodniki i maty; Linoleum do pokrywania podłóg.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Tapetes, carpetes e esteiras; Carpetes; Linóleo para pavimentos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Covoare, carpete și preșuri; Covoare, carpete și preșuri; Linoleum destinat utilizării la acoperirea podelelor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Koberce, koberčeky a rohožky; Koberce; Linoleum na pokrývanie hotových podláh.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Preproge, tekači in predpražniki; Preproge, tekači in predpražniki; Linolej za prekrivanje obstoječih tal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Mattor, heltäckningsmattor och dörrmattor; Heltäckningsmattor; Linoleum för användning på golv.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>US</PriorityCountryCode>
+<PriorityNumber>88853919</PriorityNumber>
+<PriorityDate>2020-03-31</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/077</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

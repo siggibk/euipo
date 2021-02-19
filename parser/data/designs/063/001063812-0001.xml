@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-08-17T11:36:50</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063812-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063812-0001</DesignIdentifier>
+<ApplicationNumber>001063812</ApplicationNumber>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-02-12</PublicationDate>
+<ApplicationReference>ALD08-082(1-5)MEY</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061801965</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063812_0001/001063812_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061801966</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063812_0001/001063812_0001_2.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Долни рамки за маса</IndicationProduct>
+       <IndicationProduct languageCode="cs">Spodní rámy stolu</IndicationProduct>
+       <IndicationProduct languageCode="da">Bordunderstel</IndicationProduct>
+       <IndicationProduct languageCode="de">Tischuntergestelle</IndicationProduct>
+       <IndicationProduct languageCode="el">Υποπλαίσια τραπεζιού</IndicationProduct>
+       <IndicationProduct languageCode="en">Table underframes</IndicationProduct>
+       <IndicationProduct languageCode="es">Marcos inferiores para mesas</IndicationProduct>
+       <IndicationProduct languageCode="et">Laua aluskonstruktsioonid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Pöydän rungon alusta</IndicationProduct>
+       <IndicationProduct languageCode="fr">Sous-structures de tables</IndicationProduct>
+       <IndicationProduct languageCode="hu">Asztalkeretek</IndicationProduct>
+       <IndicationProduct languageCode="it">Telai inferiori di tavoli</IndicationProduct>
+       <IndicationProduct languageCode="lt">Stalo rėmai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Galdu apakšrāmji</IndicationProduct>
+       <IndicationProduct languageCode="mt">Oqsfa interjuri għall-imwejjed</IndicationProduct>
+       <IndicationProduct languageCode="nl">Frames voor tafels</IndicationProduct>
+       <IndicationProduct languageCode="pl">Ramy spodnie stołów</IndicationProduct>
+       <IndicationProduct languageCode="pt">Armações inferiores para mesas</IndicationProduct>
+       <IndicationProduct languageCode="ro">Rame inferioare pentru masă</IndicationProduct>
+       <IndicationProduct languageCode="sk">Stolové rámy spodné</IndicationProduct>
+       <IndicationProduct languageCode="sl">Mizno podogrodje</IndicationProduct>
+       <IndicationProduct languageCode="sv">Bordsunderreden</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>06.06</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PriorityDetails>
+       <Priority>
+        <PriorityCountryCode>CH</PriorityCountryCode>
+        <PriorityNumber>135491</PriorityNumber>
+        <PriorityDate>2008-09-19</PriorityDate>
+        <PriorityStatusCode>Claimed</PriorityStatusCode>
+       </Priority>
+      </PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/029</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-02-12</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/126</PublicationIdentifier>
+        <PublicationSequenceNumber>273513</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2009-07-03</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1326109</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2012/125</PublicationIdentifier>
+        <PublicationSequenceNumber>798099</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2012-07-03</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>355742</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>10513</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003219783</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>273513</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-07-17</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>005931674</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>798099</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2012-07-03</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

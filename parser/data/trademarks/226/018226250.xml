@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-13T15:44:41</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226250</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226250</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>realme</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162303346</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226250/000162303346.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>7</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Миялни машини за порцелан; Мелнички за кафе, с изключение на ръчни; Преси за плодове, електрически, за домакински нужди; Машини за миене [перални]; Центрофуги за перални; Прахоуловители; Прахоуловители; Прахосмукачки; Устройства за изтегляне на завеси, електрически; Роботизирано почистване на под.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Myčky nádobí; Mlýnky na kávu, jiné než na ruční pohon; Lisy na ovoce (elektrické), pro domácnost; Pračky (na prádlo); Ždímačky (na prádlo); Zařízení na odsávání prachu pro čisticí účely; Zařízení na odstraňování prachu pro čisticí účely; Vysavače; Elektricky ovládaná zařízení na manipulaci se záclonami a závěsy; Robotické čističe podlah.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Opvaskemaskiner; Kaffekværne, undtagen manuelle; Frugtpressere, elektriske, til husholdningsbrug; Vaskemaskiner [tøjvask]; Vridemaskiner til vasketøj; Støvudsugningsinstallationer til rengøringsformål; Støvfjerningsinstallationer til rengøringsformål; Støvsugere; Elektrisk styrede trækkeindretninger til gardiner; Robotgulvvaskere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Spülmaschinen für Steingut; Nicht handbetriebene Kaffeemühlen; Fruchtpressen für den Haushalt [elektrisch]; Wäschewaschmaschinen; Wringmaschinen für Wäsche; Staubsauganlagen für Reinigungszwecke; Entstaubungsanlagen für Reinigungszwecke; Staubsauger; Vorhangantriebe [elektrisch]; Bodenreinigungsroboter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Πλυντήρια για πήλινα σκεύη· Καφέ (Μύλοι για -) όχι χειροκίνητοι· Φρούτα (αποχυμωτές -ων) ηλεκτρικοί οικιακής χρήσης· Πλυντήρια [πλυντήρια ρούχων]· Λευκά είδη (μηχανές στιψήματος -ών -ών)· Απορρόφηση σκόνης (Εγκαταστάσεις για -) για καθαρισμό· Απορρόφηση σκόνης (Εγκαταστάσεις για -) για καθαρισμό· Μηχανές καθαρισμού με αναρρόφηση [ηλεκτρικές σκούπες]· Παραπετάσματα [κουρτίνες] (μηχανισμοί ηλεκτρικοί για -)· Ρομποτικές συσκευές καθαρισμού δαπέδων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Dishwashers; coffee grinders, other than hand-operated; fruit presses, electric, for household purposes; washing machines [laundry]; wringing machines for laundry; dust exhausting installations for cleaning purposes; dust removing installations for cleaning purposes; vacuum cleaners; curtain drawing devices, electrically operated; robotic floor cleaners.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Máquinas de lavar para vajillas; Molinillos de café que no sean accionados manualmente; Exprimidores de fruta eléctricos para uso doméstico; Lavadoras; Máquinas para escurrir ropa; Instalaciones de aspiración de polvo para limpiar; Instalaciones de desempolvado para limpiar; Aspiradoras; Dispositivos eléctricos para correr cortinas; Limpiadores robóticos de suelos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Nõudepesumasinad; Kohviveskid, v.a käsitsi käitatavad; Olmelised elektrimahlapressid; Pesumasinad; Pesukalandrid; Tolmu imemise seadmed puhastuseks; Tolmu eemaldamise seadmestik puhastuseks; Tolmuimejad; Elektrilised kardinaliigutusseadmed; Põrandapuhastusrobotid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Astianpesukoneet; Kahvimyllyt, muut kuin käsikäyttöiset; Hedelmäpuristimet (sähkökäyttöiset), keittiökäyttöön; Pyykinpesukoneet; Mankelointikoneet pyykille; Pölynimulaitteet puhdistustarkoituksiin; Pölynimulaitteet puhdistustarkoituksiin; Pölynimurit; Verhonvetimet, sähkökäyttöiset; Lattianpuhdistusrobotit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Machines à laver la vaisselle; Moulins à café autres qu'à main; Presse-fruits électriques à usage ménager; Lave-linge; Essoreuses destinées à la blanchisserie; Installations pour l'aspiration de poussières pour le nettoyage; Installations de dépoussiérage pour le nettoyage; Aspirateurs; Dispositifs électriques à manœuvrer les rideaux; Nettoyeurs de sols robotisés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Perilice za posuđe; Uređaji za mljevenje kave, osim ručnih; Električne preše za voće za uporabu u kućanstvu; Perilice za rublje; Žmikanje (strojevi za žmikanje rublja); Prašina (postrojenja za usisavanje prašine za potrebe čišćenja); Prašina (postrojenja za usisavanje prašine za potrebe čišćenja); Usisavači prašine; Električni pogoni za zastore; Robotizirani uređaji za čišćenje podova.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Mosogatógépek cserépedényekhez; Kávédarálók, nem kézzel működtetett; Elektromos gyümölcsprések háztartási használatra; Mosógépek; Ruhacsavaró, ruhafacsaró gépek mosáshoz; Porelszívó készülékek tisztítási célra; Porelszívó készülékek tisztítási célra; Porszívók; Elektromos függönyhúzó készülékek; Padlótisztító robotok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Macchine per il lavaggio di stoviglie di terracotta; Macinini da caffè non manuali; Spremifrutta elettrici per uso domestico; Lavabiancheria; Macchine per strizzare la biancheria; Impianti per l'aspirazione di polveri per la pulizia; Impianti di depolverizzazione per la pulizia; Aspirapolvere; Dispositivi elettrici per manovrare le tende; Macchine per la pulizia di pavimenti robotiche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Indaplovės; Kavamalės (išskyrus rankines); Buitiniai elektriniai vaisių presai; Drabužių skalbimo mašinos; Skalbinių gręžimo mašinos; Dulkių siurbimo įrenginiai (valymo reikmėms); Dulkių šalinimo įrenginiai (valymo reikmėms); Dulkių siurbliai; Užuolaidų traukymo elektriniai įtaisai; Robotizuotos grindų valymo priemonės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Trauku mazgājamās mašīnas; Kafijas dzirnaviņas, izņemot ar roku darbināmās; Elektriskas augļu spiedes mājsaimniecības nolūkiem; Mazgāšanas mašīnas; Veļas izgriežamās mašīnas; Putekļu savākšanas iekārtas tīrīšanas nolūkiem; Putekļu savākšanas iekārtas tīrīšanas nolūkiem; Putekļu sūcēji; Elektriskās ierīces aizkaru bīdīšanai; Grīdas tīrīšanas roboti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Magni tal-ħasil għall-affarijiet li tiekol fihom jew isservi l-ikel bihom; Magni li jitħnu l-kafè, minbarra dawk li jinħadmu bl-idejn; Preses tal-frott elettriċi għal użu domestiku; Magni għall-ħasil tal-ħwejjeġ; Magni li jagħsru għal lôndri; Installazzjonijiet għal skopijiet ta' tindif li jassorbu t-trab; Installazzjonijiet għal skopijiet ta' tindif li jassorbu t-trab; Vacuum cleaners; Tagħmir għall-ftuħ/għeluq tal-purtieri, li jaħdmu bl-elettriku; Sistemi robotiċi għat-tindif tal-paviment.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Wasmachines voor aardewerk; Koffiemolens, anders dan handbediend; Fruitpersen, elektrisch, voor huishoudelijk gebruik; Wasmachines voor kleding; Wringmachines voor wasgoed; Stofafzuiginstallaties voor reinigingsdoeleinden; Stofverwijderingsinstallaties voor reinigingsdoeleinden; Stofzuigers; Elektrische inrichtingen voor het openen en sluiten van gordijnen; Vloerreinigingsrobots.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia do mycia naczyń stołowych; Młynki do kawy, inne niż obsługiwane ręcznie; Elektryczne wyciskacze do owoców do celów gospodarstwa domowego; Pralki do prania ubrań; Maszyny do wyżymania prania; Instalacje odsysające pył do czyszczenia; Instalacje odsysające pył do czyszczenia; Odkurzacze; Przyrządy do zasuwania zasłon, sterowane elektrycznie; Automatyczne urządzenia do czyszczenia podłóg.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máquinas para lavagem de loiça de barro; Moinhos de café, não sendo manuais; Espremedores de fruta elétricos, de uso doméstico; Máquinas de lavar roupa; Máquinas para torcer a roupa; Instalações de aspiração de poeiras para limpeza; Instalações de remoção de poeiras para limpeza; Aspiradores; Dispositivos elétricos para puxar cortinados; Robôs para limpeza de pavimentos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Vesela (Maşini pentru spălat -); Cafea (râşniţe de -, cu excepţia celor manuale); Prese de fructe electrice, de uz casnic; Maşini de spălat rufe; Rufe (Maşini de stors -); Praf (aspiratoare de - pentru curăţare); Praf (aspiratoare de - pentru curăţare); Aspiratoare; Perdele (Dispozitive electrice de manevrat -); Maşini robotice de curăţat pardoseli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Umývačky riadu; Kávové mlynčeky okrem ručných; Lisy na ovocie (Elektrické -) pre domácnosť; Práčky; Žmýkačky na bielizeň; Zariadenia na odsávanie prachu (upratovacie stroje); Odprašovacie zariadenia (čistiace stroje); Vysávače; Elektrické zariadenia na sťahovanie a vyťahovanie roliet; Robotické stroje na čistenie podláh.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pralni stroji za lončeno posodo; Mlinčki za kavo, razen na ročni pogon; Električne stiskalnice za sadje, za domačo uporabo; Pralni stroji; Stroji za ožemanje perila; Naprave za sesanje prahu, za čistilne namene; Naprave za sesanje prahu, za čistilne namene; Vakuumski sesalci; Električne naprave za vlečenje zaves; Robotske naprave za čiščenje tal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Diskmaskiner för porslin; Kaffekvarnar, inte handdrivna; Elektriska fruktpressar för hushållsändamål; Tvättmaskiner för kläder; Vridmaskiner för tvätt; Dammutsugningsinstallationer för rengöringsändamål; Dammborttagningsinstallationer för rengöringsändamål; Dammsugare; Halningsanordningar för gardiner, förhängen, draperier eller ridåer, elektriskt drivna; Robotgolvrengörare.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/204</PublicationIdentifier>
+        <PublicationSection>C.1.3</PublicationSection>
+        <PublicationDate>2020-10-26</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/217</PublicationIdentifier>
+        <PublicationSection>C.1.3</PublicationSection>
+        <PublicationDate>2020-11-13</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>947294</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15295</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018683139</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15295</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-10-26</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018797863</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10577</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-11-13</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

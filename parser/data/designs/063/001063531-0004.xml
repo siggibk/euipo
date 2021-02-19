@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:41:00</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063531-0004</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063531-0004</DesignIdentifier>
+<ApplicationNumber>001063531</ApplicationNumber>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-02-12</PublicationDate>
+<ApplicationReference>DEU08714</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061820499</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063531_0004/001063531_0004_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061820503</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063531_0004/001063531_0004_2.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Кукли</IndicationProduct>
+       <IndicationProduct languageCode="bg">Скулптури</IndicationProduct>
+       <IndicationProduct languageCode="cs">Panenky</IndicationProduct>
+       <IndicationProduct languageCode="cs">Sochy</IndicationProduct>
+       <IndicationProduct languageCode="da">Skulpturer</IndicationProduct>
+       <IndicationProduct languageCode="da">Dukker</IndicationProduct>
+       <IndicationProduct languageCode="de">Skulpturen</IndicationProduct>
+       <IndicationProduct languageCode="de">Puppen</IndicationProduct>
+       <IndicationProduct languageCode="el">Γλυπτά</IndicationProduct>
+       <IndicationProduct languageCode="el">Κούκλες</IndicationProduct>
+       <IndicationProduct languageCode="en">Dolls</IndicationProduct>
+       <IndicationProduct languageCode="en">Sculptures</IndicationProduct>
+       <IndicationProduct languageCode="es">Esculturas</IndicationProduct>
+       <IndicationProduct languageCode="es">Muñecos</IndicationProduct>
+       <IndicationProduct languageCode="et">Skulptuurid</IndicationProduct>
+       <IndicationProduct languageCode="et">Nukud</IndicationProduct>
+       <IndicationProduct languageCode="fi">Nuket</IndicationProduct>
+       <IndicationProduct languageCode="fi">Veistokset</IndicationProduct>
+       <IndicationProduct languageCode="fr">Sculptures</IndicationProduct>
+       <IndicationProduct languageCode="fr">Poupées</IndicationProduct>
+       <IndicationProduct languageCode="hu">Szobrok</IndicationProduct>
+       <IndicationProduct languageCode="hu">Babák [játék]</IndicationProduct>
+       <IndicationProduct languageCode="it">Sculture</IndicationProduct>
+       <IndicationProduct languageCode="it">Bambole</IndicationProduct>
+       <IndicationProduct languageCode="lt">Skulptūros</IndicationProduct>
+       <IndicationProduct languageCode="lt">Lėlės</IndicationProduct>
+       <IndicationProduct languageCode="lv">Lelles</IndicationProduct>
+       <IndicationProduct languageCode="lv">Skulpturen</IndicationProduct>
+       <IndicationProduct languageCode="mt">Skulturi</IndicationProduct>
+       <IndicationProduct languageCode="mt">Pupi</IndicationProduct>
+       <IndicationProduct languageCode="nl">Poppen</IndicationProduct>
+       <IndicationProduct languageCode="nl">Beeldhouwwerken</IndicationProduct>
+       <IndicationProduct languageCode="pl">Rzeźby</IndicationProduct>
+       <IndicationProduct languageCode="pl">Lalki</IndicationProduct>
+       <IndicationProduct languageCode="pt">Bonecas</IndicationProduct>
+       <IndicationProduct languageCode="pt">Esculturas</IndicationProduct>
+       <IndicationProduct languageCode="ro">Sculpturi</IndicationProduct>
+       <IndicationProduct languageCode="ro">Păpuşi</IndicationProduct>
+       <IndicationProduct languageCode="sk">Sochy</IndicationProduct>
+       <IndicationProduct languageCode="sk">Bábiky</IndicationProduct>
+       <IndicationProduct languageCode="sl">Skulpture</IndicationProduct>
+       <IndicationProduct languageCode="sl">Lutke</IndicationProduct>
+       <IndicationProduct languageCode="sv">Skulpturer</IndicationProduct>
+       <IndicationProduct languageCode="sv">Dockor</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>21.01</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/029</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-02-12</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1326120</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>15324</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

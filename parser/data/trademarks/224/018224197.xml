@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-29T09:52:43</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224197</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224197</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>REACELL</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Зарядни устройства; Галванични елементи; Електрически батерии с възможност за презареждане; Периферни устройства, пригодени за използване с компютри; Видеокамери; Електрически кабели; Светодиоди [LED]; Калъфи за смартфони; Очила; Защитни устройства за лично ползване за защита при злополуки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nabíječky elektrických baterií; Elektrické baterie; Nabíjecí elektrické akumulátory; Periferní zařízení počítačů; Videokamery; Elektrické vodiče; Elektroluminiscenční diody [LED]; Kryty na chytré telefony (smartphony); Brýle; Osobní ochranné prostředky k prevenci nehod.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Opladere til elektriske akkumulatorer; Batterier, elektriske; Genopladelige elektriske batterier; Perifere enheder til computere; Camcordere; Elektrisk tråd; Lysemitterende dioder [LED]; Covers til smartphones; Briller; Beskyttelsesindretninger til personlig brug mod ulykker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Ladegeräte für elektrische Akkumulatoren; Elektrische Batterien; Wiederaufladbare elektrische Batterien; An Computer angepasste Peripheriegeräte; Videokameras; Elektrodrähte; Leuchtdioden [LEDs]; Hüllen für Smartphones; Brillen; Unfallschutzvorrichtungen für den persönlichen Gebrauch.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φορτιστές μπαταριών· Ηλεκτρικές μπαταρίες· Επαναφορτιζόμενοι ηλεκτρικοί συσσωρευτές· Περιφερειακός εξοπλισμός προσαρμοσμένος για χρήση σε ηλεκτρονικούς υπολογιστές· Κάμερες βίντεο· Καλώδια ηλεκτρικά· Δίοδοι εκπομπής φωτός· Καλύμματα για έξυπνα τηλέφωνα· Διόπτρες· Ατυχημάτων (Μηχανισμοί ατομικής προστασίας κατά των -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">chargers for electric accumulators; batteries, electric; rechargeable electric batteries; computer peripheral devices; camcorders; wires, electric; light-emitting diodes [LED]; covers for smartphones; eyeglasses; protection devices for personal use against accidents.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cargadores para acumuladores eléctricos; Pilas eléctricas; Baterías eléctricas recargables; Dispositivos periféricos utilizados con ordenadores; Cámaras de vídeo; Hilos eléctricos; Diodos electroluminiscentes [LED]; Carcasas para teléfonos inteligentes; Gafas [óptica]; Dispositivos de protección personal contra accidentes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Akulaadurid; Elektripatareid; Laaditavad elektriakud; Arvutite välisseadmed; Taasestavad videokaamerad; Elektrijuhtmed; Valgust kiirgavad dioodid [LED]; Nutitelefonide katted; Prillid [optika]; Individuaalkaitsevahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Latauslaitteet sähköparistoille; Sähköparistot; Ladattavat sähköakut; Tietokoneiden oheislaitteet; Videokamerat; Johtimet (Sähkö -); Valodiodit [ledit]; Älypuhelinten suojukset; Silmälasit; Suojalaitteet onnettomuuksien varalta, henkilökohtaiset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Appareils pour la recharge des accumulateurs électriques; Piles électriques; Piles électriques rechargeables; Périphériques adaptés pour utilisation avec des ordinateurs; Caméras vidéo; Fils électriques; Diodes électroluminescentes [DEL]; Coques pour smartphones; Lunettes [optique]; Dispositifs de protection personnelle contre les accidents.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Akumulatori (punjači električnih akumulatora); Električne baterije; Punjive električne baterije; Periferni uređaji prilagođeni za uporabu s računalima; Videokamere; Električni kablovi; Svjetleće diode [LED]; Navlake za pametne telefone; Naočale; Nesreće na radu (uređaji za osobnu zaštitu na radu).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Akkumulátor- és elemtöltők; Elektromos elemek, akkumulátorok; Újratölthető elektromos akkumulátorok; Számítógéphez kialakított perifériák; Videokamerák; Elektromos kábelek; Fénykibocsátó diódák [LED]; Tokok okostelefonokhoz; Szemüvegek; Védőeszközök személyek balesetvédelmére.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Apparecchi per ricaricare gli accumulatori elettrici; Batterie elettriche; Batterie elettriche ricaricabili; Periferiche concepite per essere utilizzate con i computer; Videocamere; Fili elettrici; Diodi ad emissione luminosa [LED]; Copertine per smartphone; Occhiali [ottica]; Dispositivi di protezione personale contro gli infortuni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Elektros akumuliatorių įkrovimo įtaisai; Elektrinės baterijos; Įkraunamos elektrinės baterijos; Kompiuterių išoriniai įrenginiai; Videokameros; Elektros laidai; Šviesos diodai [LED]; Išmaniųjų telefonų dangteliai; Akiniai; Asmeninės apsaugos priemonės nuo nelaimingų atsitikimų.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Elektrisko akumulatoru uzlādes ierīces; Elektrisko akumulatoru baterijas; Elektriskas uzlādējamās baterijas; Datoru perifērijas ierīces; Videokameras; Elektrības vadi; Gaismas diodes (LED); Viedtālruņu vāciņi; Brilles; Ierīces individuālai aizsardzībai pret nelaimes gadījumiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Karikaturi għal batteriji elettriċi; Batteriji tal-elettriku; Batteriji elettriċi li jistgħu jkunu ċċarġjati; Periferali addattati għall-użu mal-kompjuters; Kamera tal-vidjos; Linji elettriċi; Dajowds li jarmu d-dawl [LED]; Kavers għal smartfowns; Nuċċalijiet; Tagħmir ta' protezzjoni għall-użu personali kontra l-inċidenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Acculaders; Elektrische batterijen; Oplaadbare elektrische batterijen; Computerrandapparatuur; Camcorders; Elektrische draden; LED's; Hoezen voor smartphones; Brillen [optiek]; Inrichtingen voor de bescherming van personen tegen ongevallen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Ładowarki do baterii; Baterie elektryczne; Ładowalne baterie elektryczne; Sprzęt peryferyjny do komputerów; Kamery wideo; Kable elektryczne; Diody świecące [LED]; Pokrowce na smartfony; Okulary; Urządzenia do ochrony osobistej przed wypadkami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aparelhos para recarga de acumuladores elétricos; Baterias elétricas; Baterias elétricas recarregáveis; Periféricos adaptados para uso com computadores; Câmaras de vídeo; Fios elétricos; Díodos eletroluminiscentes [LED]; Coberturas para smartphones; Óculos [ótica]; Dispositivos de proteção pessoal contra os acidentes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Alimentatoare pentru acumulatoare; Baterii galvanice; Baterii electrice reîncărcabile; Periferice adaptate pentru a fi folosite la calculatoare; Camere video portabile; Cabluri electrice; Diode electroluminescente [LED]; Huse pentru telefoane inteligente; Ochelari; Dispozitive de protecție, de uz personal, împotriva accidentelor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nabíjacie agregáty elektrických batérií; Elektrické batérie (články); Dobíjateľné elektrické batérie; Periférne zariadenia počítačov; Videokamery; Elektrické drôty; Elektroluminiscenčné diódy (LED diódy); Kryty na smartfóny; Okuliare; Osobné ochranné prostriedky proti nehodám.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Električni polnilniki za baterije; Električne baterije; Električne baterije za ponovno polnjenje; Zunanje enote, prilagojene za uporabo z računalniki; Video kamere (kamkorderji); Električni kabli; Svetleče diode [LED]; Ohišja za pametne telefone; Očala; Zaščitne naprave proti poškodbam, za osebno uporabo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Laddare för elektriska batterier; Batterier, elektriska; Uppladdningsbara elektriska batterier; Kringutrustning anpassade för användning med datorer; Camcorders; Elektrisk tråd; Lysdioder [LED]; Fodral för smartphones; Glasögon; Skyddsanordningar mot olyckor för personligt bruk.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/141</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079119</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>39103</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

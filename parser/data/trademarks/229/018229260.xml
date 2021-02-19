@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-10T08:16:15</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229260</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229260</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-09-08</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-10</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Pateacd</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Облекло; Жилетки за костюми; Жакети, сака, якета, куртки; Спортни клинове; Спортни анцузи; Спортни панталони; Спортно облекло; Якета за мотоциклетисти; Облекло за велосипедисти; Плувни шапки; Бански костюми; Обувки; Дълги чорапи; Ръкавици [облекло]; Каскети, кепета, шапки; Кожени яки; Ластици за чорапи.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Oděvy; Vesty; Saka [oděvy]; Sportovní legíny; Oděvy pro sport; Sportovní kalhoty; Sportovní oblečení; Motocyklové bundy; Oděvy pro cyklisty; Koupací čepice; Plavky; Boty; Punčochy; Rukavice [oděvy]; Čepice; Boa [kožešinové límce]; Šle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beklædningsgenstande; Veste; Trøjer; Tights til sportsbrug; Træningsdragter; Sportsbenklæder; Sportsbeklædning; Motorcykeljakker; Tøj til cyklister; Badehætter; Badedragter; Sko; Strømper; Handsker [beklædning]; Huer; Boaer [pelskraver]; Seler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bekleidungsstücke; Wämser; Jacken; Enganliegende Sporthosen; Sportkleidung; Sporthosen; Sportbekleidung; Motorradjacken; Radfahrerbekleidung; Bademützen; Badekleidung; Schuhe [Halbschuhe]; Strümpfe; Handschuhe [Bekleidung]; Mützen; Boas [Bekleidung]; Hosenträger.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ενδύματα· Γιλέκα· Σακκάκια· Αθλητικά κολάν· Αθλητικές εξωτερικές στολές· Αθλητικά παντελόνια· Αθλητικά ενδύματα· Μπουφάν για μοτοσυκλετιστές· Ποδηλατιστών ένδυση· Κολυμβητικά σκουφάκια· Μαγιό· Υποδήματα· Κάλτσες μακριές γυναικείες· Γάντια· Μπαρέτες[καλύματα κεφαλής]· Γιακάδες γούνινοι [μποά]· Ζαρτιέρες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Clothing; Vests; Jackets [clothing]; Athletic tights; Training suits; Sports pants; Sportswear; Motorcycle jackets; Clothing for cycling; Swimming caps; Swimwear; Shoes; Stockings; Gloves [clothing]; Caps; Boas [necklets]; Suspenders.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Prendas de vestir; Chalecos; Chaquetas; Mallas deportivas; Chándales; Pantalones de deporte; Ropa de deporte; Chaquetas de motociclismo; Ropa para ciclistas; Gorros de baño; Trajes de baño [bañadores]; Zapatos; Medias; Guantes [prendas de vestir]; Gorros; Boas [bufandas]; Tirantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Rõivad; Vestid; Jakid, tuulepluusid; Spordiretuusid; Spordirõivad; Spordipüksid; Spordiriietus; Mootorratturijakid; Mootorratturirõivad, jalgratturirõivad; Supelmütsid; Ujumistrikood, supelkostüümid; Kingad; Sukad; Kindad (rõivad); Nokkmütsid; Boad [karuskraed]; Kinnitusklambrid rõivastele, traksid, suka- ja sokihoidjad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vaatteet; Alusnutut; Pikkutakit; Juoksuhousut; Kuntosalivaatteet; Urheiluhousut; Urheiluasut; Moottoripyörätakit; Pyöräilyvaatteet; Uimalakit; Uima-asusteet; Jalkineet; Polvisukat; Käsineet; Lakit [päähineet]; Puuhkat [kaulurit]; Housunkannattimet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vêtements; Gilets; Vestes; Collants d'athlétisme; Survêtements; Pantalons et shorts de sport; Vêtements de sport; Blousons de moto; Habillement pour cyclistes; Bonnets de bain; Costumes de bain [maillots de bain]; Souliers; Bas; Gants [habillement]; Casquettes; Boas [tours de cou]; Bretelles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Odjeća; Prsluci; Jakne [odjeća]; Atletske tajice; Trenirke; Sportske hlače; Odjeća za sport; Motociklističke jakne; Odjeća za bicikliste; Kape za plivanje; Kupaći kostimi; Obuća; Čarape; Rukavice; Ženske kape; Boe [odjeća]; Podvezice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ruházati cikkek; Mellények; Dzsekik; Futónadrágok; Tornaruhák; Sportnadrágok; Sportruházat; Dzsekik motorkerékpárosoknak; Kerékpáros ruházat; Úszósapkák; Fürdőruhák, úszódresszek; Lábbelik; Harisnyák; Kesztyűk [ruházat]; Sapkák; Boák [nyakbavalók]; Harisnyatartók, harisnyakötők, zoknitartók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Abbigliamento; Panciotti; Giacche; Tight per l'atletica; Articoli d'abbigliamento per lo sport; Pantaloni sportivi; Abbigliamento sportivo; Giacche da motociclismo; Abbigliamento per ciclisti; Cuffie da bagno; Costumi da bagno; Scarpe; Calze; Guanti [abbigliamento]; Berrette [cuffie]; Boa [pelliccia da collo]; Bretelle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Drabužiai, apranga; Liemenės; Švarkai, striukės; Sportinės timpės; Sporto ir sporto salės apranga; Sportinės kelnės; Sportinė apranga; Motociklininkų švarkai; Dviratininkų drabužiai; Maudymosi kepuraitės; Maudymosi kostiumai; Avalynė; Kojinės; Pirštinės [drabužiai]; Kepurės; Boa [moteriški šalikai]; Petnešos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apģērbi; Vestes; Žaketes; Sporta triko bikses; Sporta kostīmi; Sporta bikses; Sporta apģērbi; Motociklistu jakas; Riteņbraucēju apģērbi; Peldcepures; Peldkostīmi; Kurpes; Garās zeķes; Cimdi; Cepures [galvassegas]; Boa [uzliekamas apkakles]; Bikšturi, zeķturi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ilbies; Sdieri; Ġkieket [lbies]; Tajts tal-atletika; Lbies għall-ġinnasju; Qliezet sportivi; Ħwejjeġ sportivi; Ġkieket għas-sewqan tal-muturi; Ħwejjeġ għaċ-ċiklisti; Kapep tal-għawm; Malji tal-għawm; Xedd is-saqajn; Kalzetti twal li jaslu sal-koxxa; Ingwanti; Brieret [xedd tar-ras]; Pelliċċji twal [għal madwar l-għonq]; Takkalji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kleding; Vesten; Jasjes; Hardloopleggings; Atletiekkleding; Sportbroeken; Sportkleding; Motorrijjasjes; Wielrijderskleding; Badmutsen; Badpakken; Schoenen; Kousen; Handschoenen [kleding]; Mutsen; Boa's [halsbont]; Bretels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odzież; Kamizelki; Kurtki [odzież]; Rajstopy sportowe; Odzież gimnastyczna; Spodnie sportowe; Odzież sportowa; Kurtki motocyklowe; Odzież dla rowerzystów; Czepki kąpielowe; Kostiumy kąpielowe; Obuwie; Pończochy; Rękawiczki [odzież]; Czapki [nakrycia głowy]; Boa na szyję; Podwiązki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vestuário; Coletes; Casacos [vestuário]; Leggings para desporto; Fatos de treino; Calças de desporto; Vestuário de desporto; Blusões de motociclismo; Vestuário para ciclista; Toucas de natação; Fatos de banho; Sapatos; Collants ou coulãs; Luvas [vestuário]; Bonés [artigos de chapelaria]; Boás [golas]; Suportes para vestuário [suspensórios].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Articole de îmbrăcăminte; Veste; Jachete [îmbrăcăminte]; Colanţi pentru atletism; Treninguri (pentru sport); Pantaloni de sport; Articole de îmbrăcăminte pentru sport; Jachete de motociclism; Îmbrăcăminte pentru ciclişti; Căşti de înot; Costume de baie întregi; Articole de încălţăminte; Ciorapi; Mănuşi [articole de îmbrăcăminte]; Şepci [articole de îmbrăcăminte]; Boa [eşarfe din pene]; Bretele de susţinere pentru ciorapi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Odevy, oblečenie; Vesty; Saká; Športové pančuchové nohavice; Športové uniformy; Športové nohavice; Športové oblečenie; Bundy pre motocyklistov; Cyklistické oblečenie; Kúpacie čiapky; Plavky; Topánky; Pančuchy; Rukavice; Čiapky; Boa (ozdoba z peria alebo kožušiny na ovinutie okolo krku); Ramienka na dámsku bielizeň.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oblačila; Telovniki; Jakne (oblačila); Pajkice za šport; Oblačila za telovadbo; Športne hlače; Športna oblačila; Jakne za motoriste; Oblačila za kolesarje; Plavalne kape; Kopalke; Obutev; Dolge nogavice; Rokavice; Kape [pokrivala]; Boe [za okrog vratu]; Podvezice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kläder; Västar; Jackor; Träningstights; Träningsdräkter; Idrottsbyxor; Kläder för sport; Motorcykeljackor; Cyklistkläder; Badmössor; Baddräkter; Fotbeklädnader; Strumpor; Handskar; Mössor [huvudbonader]; Boor [kragar]; Hängslen för kläder.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>28</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Спортни топки; Тенис ракети; Стационарни велосипеди за упражнения; Уреди за бодибилдинг [за упражнения]; Гимнастически уреди; Дъмбели; Рингове за стискане с цел заздравяване на ръцете; Уреди за упражнения за трениране на тялото; Басейни (Плувни -) [артикули за игра]; Ръкавици за батъри [аксесоари за игри]; Протектори за пищяли [спортни артикули]; Подплънки (Предпазни -) части от спортни облекла; Протектори за кръст за употреба в атлетиката; Рибарско оборудване.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Sportovní míče; Tenisové rakety; Stacionární kola na cvičení; Posilovací přístroje pro formování postavy (cvičební); Posilovače prsních svalů (expandéry); Činky; Kroužky na posilování stisku ruky; Přístroje na fyzický trénink (cvičení); Bazény ke hře; Pálkařské rukavice [vybavení pro hry]; Chrániče holení [sportovní potřeby]; Ochranné vycpávky [jako součást sportovní výstroje]; Bederní chrániče pro použití v atletice; Rybářské náčiní.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Sportsbolde; Tennisketsjere; Faststående motionscykler; Apparater til bodybuilding [træning]; Ekspandere [muskelstrækkere]; Håndvægte; Ringe til træning af håndgrebsstyrke; Apparater til kropstræning [motion]; Bassiner [legetøjsartikler]; Slåhandsker til cricket; Skinnebensbeskyttere [sportsartikler]; Beskyttende polstringsmaterialer [sportsdragter]; Taljebeskyttere til sportsbrug; Fiskegrej.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Sportball; Tennisschläger; Fahrrad-Heimtrainer; Bodybuilding-Geräte [für Übungszwecke]; Expander; Kurzhanteln; Handübungsringe; Körpertrainingsgeräte [für Übungszwecke]; Schwimmbecken [Spielwaren]; Schlägerhandschuhe [Spielzubehör]; Schienbeinschutz [Sportartikel]; Schutzpolster [Sportausrüstungen]; Taillenschutz für Sportler; Angelgeräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αθλητικές μπάλες· Ρακέτες αντισφαίρισης· Γυμναστικής ποδήλατα σταθερά· Εξοπλισμός άσκησης και ανάπτυξης των μυών με βάρη (body building)· Ανάπτυξης-όργανα· Αλτήρες· Κρίκοι ενδυνάμωσης λαβής· Συσκευές σωματικής προπόνησης (σωματικής άσκησης)· Πισίνες [είδη αθλοπαιδιών]· Αθλητικά γάντια (- μποξ) [εξαρτήματα παιχνιδιού]· Περικνήμια [αθλητικά είδη]· Προστασίας (παρεμβύσματα) [μέρη αθλητικών ένδυσης]· Προστατευτικά μέσης για αθλητική χρήση· Είδη ψαρέματος.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Balls for sports; Tennis rackets; Stationary exercise bicycles; Body-building apparatus [exercise]; Chest expanders [exercisers]; Dumbbells; Hand grip strengthener rings; Body training apparatus [exercise]; Play swimming pools; Batting gloves; Shin guards [sports articles]; Protective paddings [parts of sports suits]; Waist protectors for athletic use; Fishing tackle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Pelotas de deporte; Raquetas de tenis; Bicicletas estáticas de ejercicio; Aparatos de culturismo [ejercicio físico]; Extensores para pectorales; Mancuernas [pesas de gimnasia]; Anillos fortalecedores de manos; Aparatos de entrenamiento corporal [ejercicio físico]; Piscinas [artículos de juego]; Guantes de bateador [accesorios para juegos]; Espinilleras [artículos de deporte]; Protectores acolchados [partes de ropa de deporte]; Protectores de cadera para uso deportivo; Aparejos de pesca.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Spordipallid; Tennisereketid; Statsionaarsed jalgrattavalmendid; Atleetvõimlemisseadmed [harjutusseadmed]; Ekspandrid, tõmmitsad; Hantlid, käsikud; Käehaarde tugevdusrõngad; Kehalise treeningu seadmed [harjutusseadmed]; Ujumisbasseinid [mängutarbed]; Kriketikindad [sportmänguvahendid]; Säärekaitsmed [sporditarbed]; Kaitsepadjad [spordiriietuse osad]; Spordis kasutatavad vöökaitsmed; Kalastustarbed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Pallot (urheiluvälineet); Tennismailat; Kuntopyörät; Kehonrakennuslaitteet (kuntoiluun); Voimaharjoitusvälineet [venytyslaitteet]; Käsipainot; Käsiotteen vahvistusrenkaat; Kuntosalilaitteet (kuntoiluun); Uima-altaat [leikkivälineinä]; Lyömäkäsineet [pallopeleihin]; Säärisuojukset [urheiluun]; Suojapehmusteet [urheiluasujen osina]; Vyötärösuojukset urheilukäyttöön; Kalastusvälineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Ballons de sport; Raquettes de tennis; Bicyclettes fixes d'entraînement; Appareils de culturisme [exercice physique]; Extenseurs [exerciseurs]; Haltères courts; Anneaux pour muscler les mains; Appareils de musculation corporelle [exercice physique]; Piscines [articles de jeu]; Gants pour batteurs [accessoires de jeux]; Protège-tibias [articles de sport]; Rembourrages de protection [parties d'habillement de sport]; Protections de poignets à des fins sportives; Attirail de pêche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Lopte za sport; Teniski reketi; Bicikli za treniranje na mjestu; Naprave za oblikovanje tijela - body-building [vježbe]; Ekspanderi za prsa; Bučice za vježbanje; Koluti za jačanje stiska šake; Naprave za tjelovježbu; Bazeni za igranje; Rukavice za udaranje palicom; Štitnici za cjevanice [sportski artikli]; Zaštitne ispune za sportsku odjeću [jastučići]; Sportski štitnici za struk; Ribička oprema.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sportlabdák; Teniszütők; Álló edzőkerékpárok, szobabiciklik; Testépítő berendezések [edzéshez]; Mellkas expanderek [edzőeszközök]; Súlyzók; Marokerősítő gyűrűk; Testedző eszközök; Úszómedencék [játékcikkek]; Baseball kesztyűk ütőjátékosoknak [játékfelszerelések]; Sípcsontvédők [sportcikkek]; Védőpárnázatok, védőtömések [sportruházat részei]; Derékvédők sportoláshoz; Horgászfelszerelések.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Palle per lo sport; Racchette da tennis; Biciclette fisse per allenamento; Apparecchi per body-building (esercizio fisico); Estensori [attrezzi ginnici]; Manubri da palestra; Anelli per rafforzare la presa; Apparecchi per allenare il corpo [esercizio fisico]; Bacini [piscine, articoli per il gioco o per lo sport]; Guanti per battitori [accessori per giochi]; Parastinchi [articoli per lo sport]; Imbottiture di protezione [parti dell'abbigliamento sportivo]; Tutori di protezione del girovita per uso atletico; Arnesi da pesca.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Sportiniai kamuoliai; Teniso raketės; Stacionariniai dviratiniai treniruokliai; Kultūrizmo aparatai [mankštos reikmėms]; Krūtinės treniravimo espanderiai; Svarmenys; Plaštakos stiprinimo žiedai; Kūno treniravimo prietaisai [mankštos reikmėms]; Plaukiojimo baseinai [žaidimams]; Padavimo pirštinės [sportinių žaidimų reikmenys]; Blauzdų apsaugos [sporto reikmenys]; Apsauginės pagalvėlės [sportinių kostiumų dalys]; Juosmens apsaugai sporto reikmėms; Žvejybos reikmenys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Sporta bumbas; Tenisa raketes; Velotrenažieri; Kultūrisma trenažieri (vingrošanas rīki); Krūšukurvja espanderi [vingrošana]; Hanteles; Roku tvēriena stiprināšanas riņķi; Ķermeņa trenažieri (vingrošanas rīki); Peldbaseini [rotaļu piederumi]; Sporta cimdi [sporta aksesuāri]; Sporta piederumi, proti, stilbsargi; Aizsargpolsteri [sporta apģērbu sastāvdaļa]; Vidukļa protektori izmantošanai atlētikā; Makšķerēšanas piederumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Blalen tal-isports; Rakketti tat-tenis; Rota wieqfa tal-eżerċizzju; Apparat għat-tkabbir tal-ġisem (eżerċizzju); Wessiegħa tas-sider [apparat għall-eżerċizzji fiżiċi]; Diski tqal imwaħħlin fit-truf ta' ħadida wżati fil-ġinnasju; Ċrieket li jsaħħu l-qabda tal-idejn; Apparat għall-eżerċizzju tal-ġisem; Pixxini [oġġetti tal-logħob]; Ingwanti tal-battituri [aċċessorji għal-logħob]; Kuxxinetti għall-protezzjoni tal-qasba tas-sieq (oġġetti tal-isports); Kuttunar protettiv [partijiet minn ilbies sportiv]; Protetturi tal-qadd għall-użu atletiku; Tagħmir tas-sajd.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Sportballen; Tennisrackets; Hometrainers [fietsen]; Toestellen voor lichaamsontwikkeling [oefening]; Trekveren voor spieroefeningen; Korte halters; Ringen voor het versterken van de handgreep; Oefentoestellen voor lichaamstraining; Zwembaden [speel- of sportartikelen]'; Handschoenen voor slagmannen [spelaccessoires]; Scheenbeschermers [sportartikelen]; Beschermende vullingen [delen van sportkleding]; Taillebeschermers voor sportief gebruik; Materiaal voor de hengelsport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Piłki sportowe; Rakiety tenisowe; Stacjonarne rowery treningowe; Urządzenia do kulturystyki [ćwiczenia]; Ekspandery [ćwiczenia]; Hantle; Krążki do wzmacniania uchwytu; Urządzenia do ćwiczeń fizycznych [ćwiczenia]; Baseny kąpielowe [zabawki]; Rękawice dla pałkarzy [akcesoria do gier]; Nagolenniki [artykuły sportowe]; Ochraniacze [części strojów sportowych]; Ochraniacze talii do użytku sportowego; Sprzęt wędkarski.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bolas de desporto; Raquetes de ténis; Bicicletas de ginástica [estáticas]; Aparelhos para exercícios de culturismo; Extensores (exercitadores) peitorais; Halteres; Anéis para fortalecer a força de preensão das mãos; Aparelhos para exercícios físicos de treino muscular; Piscinas [brinquedos]; Luvas para batedores [acessórios de jogos]; Caneleiras [artigos desportivos]; Almofadas de proteção [partes de vestuário de desporto]; Protetores de cintura para atletismo; Equipamento de pesca.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Mingi de sport; Rachete de tenis; Biciclete statice de antrenament; Aparate pentru culturism [exerciţii fizice]; Extensoare; Haltere; Inele de exercițiu pentru întărirea mâinii; Aparate pentru antrenamente [exerciţii fizice]; Bazine de înot [articole de joacă sau de sport]; Mănuşi de protecţie pentru jocuri cu crosă sau bâtă [accesorii de joc]; Apărători de tibie [articole de sport]; Căptuşeli de protecţie [piese vestimentare de sport]; Protectoare talie pentru atletism; Accesorii de pescuit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lopty na použitie pri športe; Tenisové rakety; Stacionárne tréningové bicykle; Posilňovacie zariadenia a stroje na kulturistické cvičenia; Cvičebné náradie na posilňovanie hrudníka; Činky; Kruhy na posilňovanie stisku rúk; Zariadenia a stroje na precvičovanie tela; Detské nafukovacie bazény; Kriketové rukavice; Chrániče na píšťaly (športový tovar); Ochranné vypchávky (časti športových úborov); Športové chrániče pásu; Rybárske náradie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Žoge za šport; Loparji za tenis; Stacionarna kolesa za vadbo; Naprave za body-building [telovadba]; Ekspanderji [za raztegovanje prsnih mišic]; Ročke (telovadno orodje); Obroči za krepitev prstov in zapestja; Naprave za telesno vadbo [telovadba]; Plavalni bazeni [za igranje]; Rokavice udarjanje s palicami [pripomočki za igre]; Golenski ščitniki [izdelki za šport]; Zaščitne blazinice [del športne opreme]; Ščitniki za pas za uporabo v športu; Ribiška oprema.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Sportbollar; Tennisracketar; Stationära motionscyklar; Bodybuildingapparater [träning]; Muskelstärkare; Hantlar; Ringar för stärkande av handgrepp; Apparater för kroppsträning [träning]; Bassänger (sim- -) [lekartiklar]; Slagspelshandskar; Benskydd [sportartiklar]; Madrasseringar (skydds- -) [delar av idrottskläder]; Midjeskydd för idrottsutövning; Fiskeredskap.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/101</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/173</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082008</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>32203</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-06T09:19:18</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224438</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224438</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-11-05</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-11-06</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>DEYARD</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162207285</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224438/000162207285.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.07.21</CategoryCode>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.05</CategoryCode>
+          <CategoryCode>26.04.18</CategoryCode>
+          <CategoryCode>26.04.24</CategoryCode>
+          <CategoryCode>27.05.21</CategoryCode>
+          <CategoryCode>27.99.04</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Термометри за медицински цели; Маски за медицински персонал; Ръкавици за медицински цели; Маски за лице за медицинска употреба; Медицински апарати и инструменти; Инфрачервени термометри за медицински цели; Ръкавици за масажиране; Надуваеми подложки за медицински цели; Предпазители за пръсти за медицински цели; Медицински престилки; Сепаратори за кислород за медицински приложения; Колани за медицински цели; Стерилни чаршафи [хирургия].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Teploměry pro lékařské účely; Roušky pro lékařský personál; Rukavice pro lékařské účely; Roušky k lékařskému použití; Lékařské přístroje a nástroje; Infračervené teploměry pro lékařské účely; Masážní rukavice; Nafukovací podušky pro lékařské účely; Chrániče prstů k lékařským účelům; Lékařské pláště; Koncentrátory kyslíku pro léčebná použití; Pásy pro lékařské účely; Chirurgická sterilní prostěradla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Termometre til medicinsk brug; Masker til brug for medicinsk personel; Handsker til medicinske formål; Ansigtsmasker til medicinske formål; Medicinske apparater og instrumenter; Infrarøde termometre til medicinske formål; Handsker til massage; Lufthynder til medicinsk brug; Fingerskånere til medicinsk brug; Medicinske operationskitler; Iltkoncentratorer til medicinske formål; Bælter til medicinske formål; Sterile lagner, kirurgiske.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Thermometer für medizinische Zwecke; Masken für medizinisches Personal; Handschuhe für medizinische Zwecke; Gesichtsmasken für medizinische Zwecke; Medizinische Apparate und Instrumente; Infrarotthermometer für medizinische Zwecke; Massagehandschuhe; Luftkissen für medizinische Zwecke; Fingerlinge für medizinische Zwecke; Medizinische Kittel; Sauerstoffkonzentratoren für medizinische Anwendungen; Gürtel für medizinische Zwecke; Sterile Tücher für Operationen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Θερμόμετρα ιατρικά· Μάσκες για το ιατρικό προσωπικό· Γάντια ιατρικής χρήσης· Μάσκες προσώπου για ιατρική χρήση· Ιατρικά (Συσκευές και όργανα -)· Θερμόμετρα υπερύθρων για ιατρική χρήση· Γάντια για μαλάξεις· Αέρα (Μαξιλάρια -) για ιατρική χρήση· Δακτυλήθρες για ιατρική χρήση· Ιατρικές ρόμπες· Συγκεντρωτές οξυγόνου για ιατρικές εφαρμογές· Ζώνες ιατρικές· Αποστειρωμένα σεντόνια, χειρουργικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Thermometers for medical purposes; Medical masks; Medical gloves; Face masks for medical use; Medical apparatus and instruments; Infrared thermometers for medical purposes; Gloves for massage; Air cushions for medical purposes; Finger guards for medical purposes; Medical gowns; Oxygen concentrators for medical use; Belts for medical purposes; sterile sheets, surgical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Termómetros para uso médico; Mascarillas para personal médico; Guantes para uso médico; Máscaras faciales para uso médico; Aparatos e instrumentos médicos; Termómetros de infrarrojos para uso médico; Guantes para masajes; Cojines de aire para uso médico; Dediles para uso médico; Batas médicas; Concentradores de oxígeno para aplicaciones médicas; Cinturones médicos; Campos quirúrgicos [sábanas estériles].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiinilised termomeetrid; Maskid meditsiinipersonalile; Meditsiinilised kindad; Meditsiinilised näomaskid; Meditsiiniseadmed ja -riistad; Meditsiinilised infrapunatermomeetrid; Massaažikindad; Meditsiinilised õhkpadjad; Meditsiinilised sõrmekaitsmed; Meditsiinilised kitlid; Hapniku kontsentraatorid meditsiinilisteks rakendusteks; Ravivööd, meditsiinilised vööd; Kirurgias kasutatavad steriilsed linad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kuumemittarit lääketieteellisiin tarkoituksiin; Suojanaamarit lääkintähenkilökuntaa varten; Käsineet lääketieteelliseen käyttöön; Kasvonaamarit lääketieteelliseen käyttöön; Lääketieteelliset laitteet ja välineet; Infrapunakuumemittarit lääketieteellisiin tarkoituksiin; Hierontakäsineet; Ilmatyynyt lääketieteellisiin tarkoituksiin; Sormustimet lääketieteellisiin tarkoituksiin; Leikkaussalivaatteet; Hapenrikastuslaitteet lääkinnällisiin sovelluksiin; Vyöt lääketieteellisiin tarkoituksiin; Steriloidut lakanat [kirurgiset].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Thermomètres à usage médical; Masques utilisés par le personnel médical; Gants à usage médical; Masques pour le visage à usage médical; Appareils et instruments médicaux; Thermomètres à infrarouges à usage médical; Gants pour massages; Coussins à air à usage médical; Doigtiers à usage médical; Blouses à usage médical; Concentrateurs d'oxygène pour applications médicales; Ceintures médicales; Champs opératoires [draps stériles].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Toplomjeri za medicinske potrebe; Maske za medicinsko osoblje; Rukavice za medicinsku uporabu; Maske za lice za medicinsku uporabu; Medicinski uređaji i instrumenti; Infracrveni termometri za medicinske potrebe; Masažu (Rukavice za -); Zračni jastuci za medicinske potrebe; Zaštitne navlake za prste za medicinske svrhe; Medicinske kute; Koncentratori kisika za medicinske primjene; Pojasevi za medicinske svrhe; Sterilne plahte, kirurške.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Hőmérők gyógyászati célokra; Maszkok egészségügyi személyzet általi használatra; Kesztyűk gyógyászati használatra; Arcmaszkok gyógyászati használatra; Gyógyászati készülékek és eszközök; Infravörös hőmérők gyógyászati célokra; Masszírozó kesztyűk; Levegővel töltött párnák gyógyászati célokra; Ujjvédők gyógyászati használatra; Orvosi köpenyek; Oxigénkoncentrátorok orvosi alkalmazásokhoz; Övek gyógyászati célra; Steril sebészeti lepedők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Termometri per uso medico; Maschere utilizzate dal personale medico; Guanti per uso medico; Maschere per il viso per uso medico; Apparecchi e strumenti medici; Termometri a raggi infrarossi per uso medico; Guanti per massaggi; Cuscini ad aria per uso medico; Ditali per uso medico; Camici medici; Concentratori di ossigeno per applicazioni mediche; Cinture per uso medico; Lenzuola sterili per uso nel campo operatorio.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Medicininiai termometrai; Kaukės medicinos personalui; Pirštinės (medicinos reikmėms); Veido kaukės medicinos reikmėms; Medicinos aparatai ir instrumentai; Medicininiai infraraudonųjų spindulių termometrai; Masažo pirštinės; Pripučiamos pagalvėlės (medicinos reikmėms); Apsauginiai antpirščiai (medicinos reikmėms); Medicininiai chalatai; Deguonies koncentratoriai medicinos reikmėms; Diržai (medicinos reikmėms); Steriliosios paklodės [chirurgija].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medicīniskie termometri; Medicīnas personālam paredzētās maskas; Cimdi medicīniskiem nolūkiem; Sejas maskas medicīniskām vajadzībām; Medicīniskā aparatūra un instrumenti; Infrasarkano staru termometri izmantošanai medicīnā; Masāžas cimdi; Piepūšamie spilveni medicīniskiem nolūkiem; Gumijas pirkstiņi medicīniskiem nolūkiem; Medicīniskais apģērbs; Skābekļa koncentratori medicīniskiem nolūkiem; Jostas medicīniskiem nolūkiem; Sterili palagi ķirurģiskiem nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Termometri għal skopijiet mediċi; Maskri għal personal mediku; Ingwanti għal skopijiet mediċi; Maskri tal-wiċċ għall-użu mediku; Apparat u strumenti mediċi; Termometri infraħomor għal skopijiet mediċi; Ingwanti għall-massaġġi; Kuxxini tal-arja għal skopijiet mediċi; Għata tal-plastik għas-swaba' għal skopijiet mediċi; Ġagagi mediċi; Tagħmir għaż-żieda fil-konċentrazzjoni tal-ossiġnu għall-użu mediku; Ċinturini għall-skopijiet mediċi; Lożor sterilizzati (kirurġiċi).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Thermometers voor medisch gebruik; Maskers te gebruiken door medisch personeel; Handschoenen voor medisch gebruik; Gezichtsmaskers voor medisch gebruik; Medische apparaten en instrumenten; Infraroodthermometers voor medische doeleinden; Massagehandschoenen; Luchtkussens voor medisch gebruik; Vingerbeschermers voor medisch gebruik; Schorten (Medische -); Zuurstofconcentratoren voor medisch gebruik; Gordels voor medisch gebruik; Operatielakens, steriel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Termometry do celów medycznych; Maski stosowane przez personel medyczny; Rękawice do celów medycznych; Maski na twarz do użytku medycznego; Urządzenia i instrumenty medyczne; Termometry na podczerwień do celów medycznych; Rękawice do masażu; Dmuchane poduszki do celów medycznych; Ochraniacze na palce do celów medycznych; Kitle; Koncentratory tlenu do zastosowań medycznych; Pasy do celów medycznych; Prześcieradła sterylne chirurgiczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Termómetros para uso médico; Máscaras para pessoal médico; Luvas para uso médico; Máscaras faciais para uso médico; Aparelhos e instrumentos médicos; Termómetros de infravermelhos para uso médico; Luvas para massagem; Almofadas de ar para uso médico; Dedeiras para uso médico; Batas médicas; Concentradores de oxigénio para aplicações médicas; Cintas medicinais; Lençóis esterilizados para cirurgia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Termometre de uz medical; Măști utilizate de personalul medical; Mănuși de uz medical; Măști medicale; Aparate și instrumente medicale; Termometre cu infraroșu de uz medical; Mănuși pentru masaj; Perne cu aer pentru uz medical; Apărători de degete pentru uz medical; Halate medicale; Aparate pentru concentrarea oxigenului, de uz medical; Centuri medicale; Câmpuri operatorii sterile, chirurgicale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lekárske teplomery; Rúška (pre nemocničný personál); Rukavice na lekárske použitie; Masky na tvár na lekárske účely; Lekárske prístroje a nástroje; Infračervené lekárske teplomery; Masážne rukavice; Nafukovacie podušky na lekárske použitie; Náprstky (chrániče na prsty) na lekárske použitie; Lekárske nemocničné plášte; Kyslíkové koncentrátory na lekárske účely; Popruhy na lekárske použitie; Chirurgické, sterilné plachty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Termometri za medicinske namene; Maske za medicinsko osebje; Rokavice za medicinske namene; Obrazne maske za medicinsko uporabo; Medicinski aparati in instrumenti; Infrardeči termometri za medicinske namene; Rokavice za masažo; Zračne blazine za medicinske namene; Ščitniki za prste za medicinske namene; Medicinske halje; Koncentratorji kisika za medicinsko uporabo; Pasovi za medicinske namene; Kirurške sterilizirane rjuhe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Termometrar för medicinska ändamål; Munskydd för medicinsk personal; Handskar för medicinska ändamål; Ansiktsmasker för medicinskt bruk; Medicinska apparater och instrument; Infraröda termometrar för medicinska ändamål; Handskar för massage; Luftdynor för medicinska ändamål; Fingerskydd för medicinska ändamål; Läkarrockar; Syrekoncentratorer för medicinska tillämpningar; Gördlar för medicinska ändamål; Sterila lakan (kirurgiska).</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/142</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-07-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/212</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-11-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>32203</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-19T02:24:38</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226171</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226171</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-05-19</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>VEGA VELLA RESISTIRE</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>33</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Вино; Алкохолни напитки (с изключение на бира).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Víno; Alkoholické nápoje s výjimkou piva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Vin; Alkoholholdige drikke, undtagen øl.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Weine; Alkoholische Getränke, ausgenommen Bier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κρασί· Αλκοολούχα ποτά (εκτός μπύρας).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Wine; Alcoholic beverages (except beer).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Vinos; Bebidas alcohólicas, excepto cervezas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Vein; Alkoholjoogid, v.a õlu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Viinit; Alkoholijuomat (paitsi oluet).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vin; Boissons alcoolisées à l'exception des bières.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Vino; Alkoholna pića (osim piva).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Borok; Alkoholos italok (sörök kivételével).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Vino; Bevande alcoliche (eccetto le birre).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vynas; Svaigieji gėrimai [išskyrus alų].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Vīni; Alkoholiskie dzērieni (izņemot alu).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Inbid; Xarbiet alkoħoliċi (minbarra birra).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Wijn; Alcoholische dranken (uitgezonderd bier).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Wino; Napoje alkoholowe (z wyjątkiem piwa).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vinho; Bebidas alcoólicas (excluindo cerveja).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Vin; Băuturi alcoolice (cu excepţia berii).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Víno; Alkoholické nápoje okrem piva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Vino; Alkoholne pijače (razen piva).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Viner; Alkoholhaltiga drycker, inte öl.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/075</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>19013</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003121812</OppositionIdentifier>
+<OppositionDate>2020-05-19</OppositionDate>
+<ProceedingLanguageCode>es</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>ES</EarlierMarkCountryCode>
+<ApplicationNumber>M4061258</ApplicationNumber>
+<ApplicationDate>2020-03-25</ApplicationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>RESISTIRÉ</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>11428</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>1014</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

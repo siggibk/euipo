@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-18T14:29:16</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229818</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229818</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-13</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-18</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>HDS Sincere</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>14</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Гривни [бижутерия]; Огърлици [бижутерия]; Бижутерия; Медальони с капаче [бижутерия]; Верижки [бижутерия]; Бижута с изкуствени скъпоценни камъни; Пръстени [бижутерия]; Обици; Перли [бижутерия].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Náramky [šperky]; Náhrdelníky [šperky]; Šperky; Medailónky [šperky]; Řetízky [šperky]; Skleněná bižutérie (imitace drahokamů); Prsteny [šperky]; Náušnice; Perly [šperky].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Armbånd [smykker]; Halskæder [smykker]; Juvelerarbejder; Medaljoner [smykker]; Kæder [smykker]; Similismykker; Ringe [smykker]; Øreringe; Perler [smykker].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Armbänder [Schmuck]; Halsketten [Schmuck]; Juwelierwaren, Schmuckwaren; Medaillons [Schmuck]; Ketten [Schmuckwaren]; Strass [Edelsteinimitation]; Ringe [Schmuck]; Ohrringe; Perlen [Schmuck].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Βραχιόλια [κοσμήματα]· Περιδέραια [κοσμήματα]· Κοσμήματα· Μενταγιόν [κοσμήματα]· Αλυσίδες [κοσμήματα]· Στρας κοσμηματοποιίας· Δακτυλίδια [κοσμήματα]· Σκουλαρίκια· Μαργαριτάρια [κοσμήματα].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">bracelets [jewelry]; necklaces [jewelry]; jewelry; lockets [jewelry]; chains [jewelry]; paste jewelry [costume jewelry]; rings [jewelry]; earrings; pearls [jewelry].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Pulseras [joyería]; Collares [joyería]; Joyería; Medallones [joyería]; Cadenas [joyería]; Estrás; Anillos [joyería]; Pendientes; Perlas [joyería].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Käevõrud [juveeltooted]; Kaelakeed; Juveeltooted; Medaljonid [juveeltooted]; Ketid [juveeltooted]; Strassist juveeltooted; Sõrmused [juveeltooted]; Kõrvarõngad; Pärlid [juveeltooted].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Rannerenkaat [korut]; Kaulakorut [korut]; Korut; Medaljongit [koruina]; Ketjut [korut]; Strassikorut; Sormukset [korut]; Korvarenkaat; Helmet [koruina].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Bracelets [bijouterie]; Colliers [bijouterie]; Articles de bijouterie-joaillerie; Médaillons [bijouterie]; Chaînes [bijouterie]; Strass; Bagues [bijouterie]; Boucles d'oreilles; Perles [bijouterie].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Narukvice [nakit]; Ogrlice [nakit]; Nakit; Medaljoni [nakit]; Lančići [nakit]; Nakit od bižuterije; Prstenje [nakit]; Naušnice; Biseri [nakit].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Karkötők [ékszerek]; Nyakláncok [ékszerek]; Ékszerek; Medálok [ékszerek]; Láncok [ékszerek]; Strassz [drágakő utánzat]; Gyűrűk [ékszerek]; Fülbevalók; Gyöngyök [ékszerek].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Braccialetti [gioielleria]; Collane [gioielleria]; Oreficeria; Medaglioni [gioielleria]; Catene [gioielleria]; Strass; Anelli [gioielleria]; Orecchini; Perle [gioielleria].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Apyrankės [juvelyriniai dirbiniai]; Karoliai [juvelyriniai dirbiniai]; Juvelyriniai dirbiniai; Medalionai [juvelyriniai dirbiniai]; Grandinėlės [juvelyriniai dirbiniai]; Strazai; Žiedai [juvelyriniai dirbiniai]; Auskarai; Perlų juvelyriniai dirbiniai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Rokassprādzes (juvelierizstrādājumi); Kaklarotas (juvelierizstrādājumi); Juvelierizstrādājumi; Medaljoni (juvelierizstrādājumi); Ķēdītes (juvelierizstrādājumi); Strasi (stikla juvelierizstrādājumi); Gredzeni (juvelierizstrādājumi); Auskari; Pērles (juvelierizstrādājumi).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Brazzuletti [ġojjellerija]; Kullani [ġojjellerija]; Ġojjelli; Lokits [ġojjellerija]; Ktajjen [ġojjellerija]; Ġojjellerija falza; Ċrieket [ġojjellerija]; Imsielet tal-widnejn; Perli [ġojjellerija].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Armbanden [juwelierswaren]; Halskettingen [juwelierswaren]; Juwelen; Medaillons [juwelierswaren]; Kettingen [juwelierswaren]; Stras; Ringen [juwelierswaren]; Oorbellen; Parels [juwelierswaren].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Bransoletki [biżuteria]; Naszyjniki [biżuteria]; Biżuteria i wyroby jubilerskie; Medaliony [biżuteria]; Łańcuszki [biżuteria]; Biżuteria ze szkła sztrasowego; Pierścionki [biżuteria]; Kolczyki; Perły [biżuteria].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Pulseiras [joalharia]; Colares [joalharia]; Jóias; Medalhões [joalharia]; Correntes [joalharia]; Strass [bijuteria]; Anéis [joalharia]; Brincos para orelhas; Pérolas [joalharia].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Brățări [bijuterii]; Coliere [bijuterii]; Bijuterii; Medalioane [bijuterii]; Lanțuri [bijuterii]; Ștrasuri; Inele [bijuterii]; Cercei; Perle [bijuterii].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Náramky (klenotnícke výrobky); Náhrdelníky (klenotnícke výrobky); Šperky; Medailóny (klenotnícke výrobky); Retiazky (klenotnícke výrobky); Štras (brúsené olovnaté sklo); Prstene (klenotnícke výrobky); Náušnice; Korálky (klenotnícke výrobky).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zapestnice [nakit]; Ogrlice [nakit]; Nakit; Medaljoni [nakit]; Verižice [nakit]; Bižuterija; Prstani [nakit]; Uhani; Biseri [nakit].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Armband [smycken]; Halsband [smycken]; Juvelerarvaror; Medaljonger [smycken]; Kedjor [smycken]; Oäkta smycken; Ringar [smycken]; Örhängen; Pärlor [smycken].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/083</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/155</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082631</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>38810</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

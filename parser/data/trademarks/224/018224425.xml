@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-20T08:59:08</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224425</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224425</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-08-19</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-20</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>TAACFATTO</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Измервателни инструменти за температурата.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nástroje pro měření teploty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Instrumenter til temperaturmåling.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Temperaturmessinstrumente.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Όργανα μέτρησης της θερμοκρασίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Temperature measurement instruments.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Medidores de temperatura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Temperatuurimõõteriistad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lämpömittarit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Indicateurs de température.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Instrumenti za mjerenje temperature.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Hőmérsékletmérő műszerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Strumenti per la misurazione della temperatura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Temperatūros matavimo prietaisai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Temperatūras mērīšanas instrumenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Strumenti għall-kejl tat-temperatura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Temperatuurmeetinstrumenten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Temperówki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Instrumentos de medição da temperatura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Instrumente de măsurat temperatura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Prístroje na meranie teploty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Instrumenti za merjenje temperature.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Temperaturmätningsinstrument.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Монитори, сензори и температурни индикатори за медицинска употреба.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Monitory, senzory a indikátory teploty pro lékařské použití.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Monitorer, sensorer og indikatorer vedrørende temperatur til medicinsk brug.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Monitor, Sensoren und Temperaturanzeiger für medizinische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μηνύτορες, αισθητήρες και ενδείκτες θερμοκρασίας για ιατρική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Temperature monitors and sensors and thermometers for medical purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Monitores, sensores e indicadores de la temperatura para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Temperatuurimonitorid, -andurid ja -näidikud meditsiiniliseks kasutamiseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lämpötilan tarkkailulaitteet, lämpötila-anturit ja lämpötilan ilmaisimet lääkinnälliseen käyttöön.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Moniteurs, capteurs et indicateurs de température à usage médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Zasloni, senzori i indikatori temperature za medicinske potrebe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Monitorok, érzékelők és hőmérséklet-jelzők gyógyászati használatra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Monitor, sensori ed indicatori della temperatura per uso medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Monitoriai, jutikliai ir temperatūros indikatoriai medicinos reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Temperatūras pārraudzības iekārtas, sensori un indikatori, lietošanai medicīnā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Moniters, sensuri u indikaturi tat-temperatura għal skopijiet mediċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Monitors, sensoren en temperatuurmeters voor medisch gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Monitory, czujniki i przyrządy do pomiaru temperatury do celów medycznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Monitores, sensores e indicadores de temperatura para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Montoare, senzori și indicatoare de temperatură de uz medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Monitory, senzory a indikátory teploty na lekárske účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Monitorji, senzorji in temperaturni indikatorji za medicinsko uporabo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Temperaturmonitorer, -sensorer och -givare för icke-medicinska ändamål.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/088</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/158</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-20</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11106</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

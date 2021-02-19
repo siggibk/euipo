@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-06-08T23:02:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226256</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226256</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="1">Application under examination</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-04-16</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>REEL LOADER</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>7</ClassNumber>
+   <GoodsServicesDescription languageCode="en">Automatic electronic parts mounting machines for automatically mounting electronic parts such as IC chips on printed circuit boards; automatic electronic parts insertion machines for putting electronic parts in printed circuit boards; printed circuit board screen printers; dispensing machines for printed circuit boards; adhesive curing equipment for printed boards (part of machine); soldering machines for printed boards; semiconductor manufacturing machines; electronic parts feeders for semiconductor manufacturing apparatus; automated mounting devices for use in feeders for electronic components; automated conveyors for use in feeders for electronic components; metalworking machine tools; metalworking machines; turning centers (part of machine); turning centers (machines); lathes [machine tool]; machining centers; plasma surface treatment apparatus for semiconductor substrates; plasma cleaning apparatus for semiconductor substrates; surface adhesion improving treatment machines using plasma for semiconductor substrates, metal, glass, rubber, synthetic resin, semiconductor electronic parts, eyeglass lenses, optical instrument parts, automobile parts, cutting tools and solar cells; hydrophilic nature improving treatment machines using plasma for semiconductor substrates, metal, glass, rubber, synthetic resin, semiconductor electronic parts, eyeglass lenses, optical instrument parts, automobile parts, cutting tools and solar cells; plasma cleaning machines for semiconductor substrates, metal, glass, rubber, synthetic resin, semiconductor electronic parts, eyeglass lenses, optical instrument parts, automobile parts, cutting tools and solar cells; oxide film removing machines using plasma for semiconductor substrates, metal, semiconductor electronic parts and metallic automobile parts; plasma etching machines for semiconductor materials; residue removing machines using plasma for use in semiconductor substrate manufacturing process; metallic surface hardening treatment machines using plasma for improving abrasion resistance of cutting tools; surface finishing treatment machines using plasma for easier forming of prosthesis coating over the ceramic material surfaces of junctions of artificial bones or joints during their manufacturing process; automated small parts assembly equipment; automated assembly machinery for fuel cells, solar cells and other secondary batteries; automated assembly instruments for metallic parts, automobile parts, electric parts and other mechanical parts; electronic circuit card assembly equipment; electronic circuit assembly equipment; automated assembly equipment for medical instruments; industrial robots; automated moving and handling installations for storing and retrieving goods; AC motors and DC motors not including those for land vehicles but including parts for any AC motors and DC motors; parts and accessories of industrial robots or automated moving and handling installations for storing and retrieving goods; robot parts and accessories for assembly, welding, processing or transfer; inspection robots for electric/electronic parts manufacturing process.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>JP</PriorityCountryCode>
+<PriorityNumber>2019-138692</PriorityNumber>
+<PriorityDate>2019-10-30</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>720411</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15595</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017730931</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>14137</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-06-08</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

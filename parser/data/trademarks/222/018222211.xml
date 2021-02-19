@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-03T06:33:04</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222211</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222211</ApplicationNumber>
+<ApplicationDate>2020-07-27</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="1">Application published</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-03</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SOPHIA SAFFRON</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Шафран [подправка за ястия].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Šafrán [koření].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Safran [krydderi].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Safran [Gewürz].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σαφράν [καρύκευματα].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Saffron [seasoning].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Azafrán [productos para sazonar].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Safran [maitseaine].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sahramimauste.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Safran [assaisonnement].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Šafran [začin].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sáfrány [ételízesítő].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Zafferano [condimenti].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Šafranas [prieskonis].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Safrāns (garšviela).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Żagħfran [taħwir].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Saffraan [kruiden].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Szafran [przyprawa].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Açafrão [tempero].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Șofran [mirodenii].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Šafran (korenie).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Žafran [začimba].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Saffran [krydda].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/168</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-09-03</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>970357</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>36326</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

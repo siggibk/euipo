@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:10:20</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229005</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229005</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ALIGEN</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Галванични елементи; Зарядни устройства; Галванични елементи; Превключватели, електрически; Силови регулатори; Адаптори за енергия; Електрически конектори; Материали за електропроводи [проводници, кабели]; Електрически адаптери; Електрически фасунги; Зарядни устройства; Портативни медиа плейъри; Електродинамични апарати за дистанционно управление на сигнали.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Galvanické články; Nabíječky baterií; Galvanické baterie; Elektrické vypínače a spínače; Elektrické regulátory; Adaptéry elektrického proudu; Elektrické konektory; Materiály pro elektrická vedení [vodiče, kabely]; Elektrické adaptéry; Zásuvky elektrického proudu; Nabíječky elektrických baterií; Přenosné multimediální přehrávače; Elektrodynamická zařízení pro dálkové řízení signalizace.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Galvaniske celler; Opladere til batterier; Galvaniske batterier; Afbrydere, elektriske; Strømregulatorer; Elektrisk strømadaptere; Elektriske stikforbindelser; Materiel til elektriske hovedledninger [tråd, kabler]; Elektriske adaptere; Elektriske stikdåser; Opladere til elektriske akkumulatorer; Bærbare medieafspillere; Elektrodynamiske apparater til fjernkontrol af signaler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Galvanische Elemente; Ladegeräte für Batterien; Galvanische Zellen; Schalter [Stromunterbrecher]; Leistungsregler; Stromadapter; Stromverbindungselemente; Material für elektrische Leitungen [Drahte, Kabel]; Elektrische Adapter; Elektrische Anschlussdosen; Ladegeräte für elektrische Akkumulatoren; Tragbare Abspielgeräte; Elektrodynamische Signalfernsteuergeräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ηλεκτρικές μπαταρίες· Φορτιστές μπαταριών· Ηλεκτρικές μπαταρίες· Διακόπτες ηλεκτρικοί· Όργανα ελέγχου ισχύος· Μετασχηματιστές ηλεκτρικής ισχύος· Ηλεκτρικοί σύνδεσμοι· Υλικά για δίκτυα ηλεκτρισμού [σύρματα, καλώδια]· Ηλεκτρικοί προσαρμογείς· Ηλεκτρικές πρίζες· Φορτιστές μπαταριών· Φορητές συσκευές αναπαραγωγής μέσων· Ηλεκτροδυναμικές συσκευές για χειρισμό από απόσταση σημάτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Galvanic cells; battery chargers; galvanic batteries; power switches; power controllers; power adapters; power connectors; materials for electricity mains [wires, cables]; electrical adapters; electric sockets; chargers for electric accumulators; portable media players; electro-dynamic apparatus for the remote control of signals.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Celdas galvánicas; Cargadores de pilas y baterías; Pilas galvánicas; Interruptores; Controladores eléctricos; Adaptadores de corriente; Conectores de alimentación [eléctricos]; Material para conducciones eléctricas [hilos, cables]; Adaptadores eléctricos; Enchufes eléctricos; Cargadores para acumuladores eléctricos; Reproductores multimedia portátiles; Aparatos electrodinámicos para el control remoto de señales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Galvaanilised patareid; Akulaadurid, patareilaadurid; Galvaanilised patareid; Elektrilülitid; Võimsuse kontrollerid; Elektritoiteadapterid; Elektripistikud, pistikuühendused; Elektriliinimaterjalid [juhtmed, kaablid]; Elektriadapterid; Elektripistikupesad; Akulaadurid; Kaasaskantavad meediapleierid; Elektrodünaamilised signaalide kaugjuhtimise seadmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sähköparistot; Latauslaitteet sähköparistoille; Sähköparistot; Katkaisijat (Sähkö -); Virransäätimet; Verkkomuuntajat; Teholiittimet; Sähköjakeluverkkokaapelit; Sähkösovittimet; Pistorasiat; Latauslaitteet sähköparistoille; Kannettavat mediasoittimet; Kauko-ohjaukseen käytettävät sähködynaamiset merkinantolaitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Éléments galvaniques; Chargeurs de piles et batteries; Piles galvaniques; Interrupteurs; Dispositifs de contrôle de l'alimentation; Adaptateurs de courant; Connecteurs d'alimentation; Matériel pour conduites d'électricité [fils, câbles]; Adaptateurs électriques; Prises électriques; Appareils pour la recharge des accumulateurs électriques; Baladeurs multimédias; Appareils électrodynamiques pour la commande à distance des signaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Električne baterije; Akumulatori (punjači električnih akumulatora); Električne baterije; Električne sklopke; Vozne sklopke; Strujni adapteri; Konektori za struju; Materijali za električne mreže [žice, kablovi]; Električni adapteri; Električne utičnice; Akumulatori (punjači električnih akumulatora); Prijenosni multimedijski čitači; Elektrodinamički uređaji za daljinsko upravljanje signalima.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Elektromos elemek, akkumulátorok; Akkumulátor- és elemtöltők; Elektromos elemek, akkumulátorok; Kapcsolók, elektromos; Teljesítményvezérlők; Elektromos hálózati adapterek; Elektromos csatlakozók [konnektorok]; Anyagok elektromos hálózatokhoz, fővezetékekhez [huzalok, kábelek]; Elektromos átalakítók; Elektromos aljzatok; Akkumulátor- és elemtöltők; Hordozható médialejátszók; Elektrodinamikai készülékek jelzések, jelzőlámpák távirányítására.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Celle galvaniche; Caricabatterie; Pile galvaniche; Interrutori elettrici; Dispositivi di comando per l'elettricità; Adattatori per alimentazioni elettriche; Connettori di alimentazione; Materiale per condotte per l'elettricità [fili, cavi]; Adattatori elettrici; Prese elettriche; Apparecchi per ricaricare gli accumulatori elettrici; Lettori multimediali portatili; Apparecchi elettrodinamici per il telecomando dei segnali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Galvaniniai elementai; Baterijų įkrovimo įtaisai; Galvaninės baterijos; Elektros jungikliai; Galios valdikliai; Elektros galios adapteriai; Elektros jungtukai; Elektros linijų medžiagos [laidai, kabeliai]; Elektriniai adapteriai; Elektros lizdai; Elektros akumuliatorių įkrovimo įtaisai; Nešiojamieji laikmenų leistuvai; Elektrodinaminiai signalų nuotolinio valdymo aparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Galvaniskie elementi; Akumulatoru uzlādes ierīces; Galvaniskie elementi; Elektriskie slēdži; Strāvas kontrolleri; Strāvas adapteri; Elektriski savienotājelementi; Elektrotīklu materiāli (vadi, kabeļi); Elektriskie adapteri; Elektriskas kontaktligzdas; Elektrisko akumulatoru uzlādes ierīces; Portatīvie atskaņotāji; Elektrodinamiskās ierīces signālu tālvadībai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Batteriji tal-elettriku; Karikaturi għal batteriji elettriċi; Batteriji tal-elettriku; Swiċċijiet elettriċi; Kontrolluri tal-elettriku; Adapters tal-enerġija; Konnetturi tal-elettriku; Materjali għall-mejns tal-elettriku (linji); Adapters elettriċi; Sokits tal-elettriku; Karikaturi għal batteriji elettriċi; Plejers li jinġarru tal-midja; Tagħmir elettro-dinamiku għall-kontroll mill-bogħod ta' sinjali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Galvanische elementen; Batterij-laders; Galvanische batterijen; Elektrische schakelaars; Krachtregelaars; Stroom adapters; Stroomconnectoren; Materiaal voor elektrische leidingen [draden, kabels]; Elektrische adapters; Stekkerbussen; Acculaders; Draagbare mediaspelers; Elektrodynamische apparatuur voor de bediening op afstand van signalen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Baterie elektryczne; Ładowarki do baterii; Baterie elektryczne; Przełączniki elektryczne; Sterowniki elektryczne; Zasilacze sieciowe; Wtyki przewodów zasilających; Materiały na przewody instalacji elektrycznych [kable]; Adaptory elektryczne; Gniazdka elektryczne; Ładowarki do baterii; Przenośne odtwarzacze multimedialne; Urządzenia elektrodynamiczne do zdalnego sterowania sygnałami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Células galvânicos; Carregadores de baterias; Pilhas galvânicas; Interruptores elétricos; Controladores elétricos; Adaptadores de corrente; Conectores elétricos; Materiais para condução elétrica [fios, cabos]; Adaptadores elétricos; Tomadas elétricas; Aparelhos para recarga de acumuladores elétricos; Leitores multimédia portáteis; Aparelhos eletrodinâmicos para o controlo remoto de sinalização.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Baterii galvanice; Alimentatoare pentru acumulatoare; Baterii galvanice; Întrerupătoare; Dispozitive de control de alimentare; Adaptoare de curent; Conectoare de alimentare; Materiale pentru rețeaua de electricitate [fire, cabluri]; Adaptoare electrice; Prize electrice; Alimentatoare pentru acumulatoare; Player portabil multimedia; Aparate electrodinamice pentru comanda de la distanță a semnalelor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Galvanické články; Nabíjačky batérií; Galvanické články; Vypínače; Regulátory elektrického výkonu; Elektrické adaptéry; Sieťové konektory; Materiály na elektrické vedenie (drôty, káble); Elektrické adaptéry; Elektrické zásuvky; Nabíjacie agregáty elektrických batérií; Prenosné multimediálne prehrávače; Elektrodynamické zariadenia na diaľkové ovládanie návestidiel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Električne baterije; Električni polnilniki za baterije; Električne baterije; Stikala, električna; Električni regulatorji; Adapterji za električno omrežje; Električni konektorji; Materiali za električno napeljavo [žice, kabli]; Električni adapterji; Električne vtičnice; Električni polnilniki za baterije; Prenosni multimedijski predvajalniki; Elektrodinamični aparati za daljinsko upravljanje signalov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Galvaniska celler; Batteriladdare; Galvaniska batterier; Elektriska strömbrytare; Strömkontroller; Nätadaptrar; Strömkontakter; Material för elektriska huvudledningar [tråd, kablar]; Elektriska adaptrar; Eluttag; Laddare för elektriska batterier; Bärbara mediaspelare; Elektrodynamiska apparater för fjärrstyrning av signaler.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1081910</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15039</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017950422</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15039</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-05-27</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

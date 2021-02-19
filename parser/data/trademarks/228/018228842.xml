@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:04</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228842</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228842</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Galtlap</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Точково осветление за закрити помещения; Таванно осветление; Лампи за бюро; Електрически осветителни фиксирани съоръжения; Аплици [фиксирано електрическо осветление]; Електрически лампи; Лампи за подове; Абажури за лампи; Високо интензивни газоразрядни осветителни тела; Светодиодни [LED] лампи; Крушки за осветление тип LED; Осветителни апарати; Осветителни тела; Светлини за монтиране на стени.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zdůrazňovací světla pro interiéry; Stropní svítidla; Lampy na pracovní stoly; Doplňky elektrického osvětlení; Nástěnné svítilny (elektrická osvětlovací zařízení); Elektrické světelné zdroje (žárovky, zářivky); Stojanová svítidla; Stínidla pro svítidla; Vysoce intenzivní výbojková svítidla; Lampy LED; LED žárovky; Přístroje na osvětlení; Elektrická svítidla; Nástěnná světla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Effektlys til indendørs brug; Loftsbelysning; Skrivebordslamper; Armaturer til elektrisk belysning; Lampetter [elektriske belysningsarmaturer]; Lamper, elektriske; Standerlamper; Lampeskærme; Lyslegemer med høj intensitet; LED-lamper; LED-pærer til belysning; Belysningsapparater; Belysningslegemer; Væglamper.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Akzentleuchten zur Verwendung in Innenräumen; Deckenlampen; Schreibtischleuchten; Elektrische Beleuchtungsvorrichtungen; Wandleuchten [elektrische Beleuchtungskörper]; Elektrische Lampen; Stehlampen; Lampenschirme; Entladungslampen mit hoher Intensität; LED-Lampen; LED-Glühlampen; Beleuchtungsgeräte; Leuchten; Wandleuchten für Beleuchtungszwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φώτα τονισμού για εσωτερική χρήση· Οροφής φωτισμοί· Λάμπες γραφείου· Ηλεκτρικά εξαρτήματα φωτισμού· Απλίκες τοίχου [Ηλεκτρικά σταθερά εξαρτήματα φωτισμού]· Ηλεκτρικές λυχνίες· Φωτιστικά δαπέδου· Αμπαζούρ· Φωτιστικά εκκένωσης υψηλής έντασης· Λυχνίες φωτοδιόδων (LED)· Λυχνίες λαμπτήρων LED· Μονάδες φωτισμού· Φωτιστικά· Λαμπτήρες τοίχου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Accent lights for indoor use; Ceiling light fittings; Ceiling lights; Desk lamps; Electric lighting fixtures; Sconces [electric light fixtures]; Electric lamps; Floor lamps; Lamp shades; HID [high-intensity discharge] luminaires; LED lamps; LED light bulbs; Lighting fixtures; Luminaries; Wall lamps.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Luces decorativas para su uso en interiores; Plafones [lámparas]; Lámparas de escritorio; Accesorios de alumbrado eléctrico; Apliques [accesorios de iluminación]; Lámparas eléctricas; Lámparas de suelo; Pantallas de lámparas; Lámparas de descarga de alta intensidad; Lámparas LED; Bombillas de iluminación LED; Aparatos de iluminación; Luminarias; Lámparas de pared.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Siseruumides kasutatavad kohtvalgustid; Laevalgustid; Kirjutuslaualambid; Elektrivalgustite tarvikud, elektrivalgustusseadmete tarvikud; Seinalühtrid (elektrivalgustusseadmed); Elektrilambid; Tänavalaternad; Lambivarjud; Kõrge intensiivsusega lahenduslambid; Valgusdioodlambid, LED-lambid; LED-lambipirnid; Valgustusaparaadid; Valgustid; Seinavalgustid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Korostusvalot sisäkäyttöön; Kattovalaisimet; Työpöytälamput; Sähkövalaistuslaitteistot; Lampetit (sähkövalaistuslaitteet); Sähkölamput; Lattialamput; Lampunvarjostimet; Tehokkaat purkausvalaisimet; LED-lamput; LED-valolamput; Valaisinlaitteet; Valaisimet; Seinälamput.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Lumières d’ambiance pout l’intérieur; Plafonniers; Lampes de bureau; Appareils d'éclairage électriques; Appliques [accessoires d'éclairage électrique]; Lampes électriques; Lampadaires; Abat-jour; Luminaires à décharge à haute intensité; Ampoules DEL; Ampoules LED; Appareils d'éclairage; Luminaires; Appareils d'éclairage fixés au mur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ukrasna rasvjeta za unutarnje prostore; Stropna svjetla; Lampe za pisaći stol; Oprema za električnu rasvjetu; Zidne svjetiljke [električna rasvjetna tijela]; Električne svjetiljke; Podne svjetiljke; Sjenila za svjetiljke; Visokoučinske lampe s izbojem; Svjetiljke LED; LED žarulje za svjetiljke; Rasvjetni uređaji; Rasvjetna tijela; Zidna rasvjeta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kiemelő megvilágításra használt lámpák beltéri használatra; Mennyezetvilágítások, mennyezeti lámpák; Íróasztali lámpák; Elektromos világítótestek; Elektromos fali világítótestek; Elektromos lámpák; Lámpaoszlopok [utcai]; Lámpaernyők; Nagy intenzitású kisülési lámpatestek, lámpák; LED-lámpák; LED-izzók; Világítókészülékek; Világítótestek, lámpatestek; Fali világítás.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Luci architettoniche per interni; Plafoniere; Lampade da scrivania; Accessori per illuminazione elettrica; Portalampada [impianti elettrici d'illuminazione]; Lampade elettriche; Lampade da pavimento; Paralumi; Illuminazioni a scarica ad alta intensità; Lampade a LED; Lampadine LED; Apparecchi per illuminazione; Sistemi di illuminazione; Lampade da parete.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Reguliuojami interjero šviestuvai; Pakabinamieji šviestuvai; Stalinės lempos; Elektrinė apšvietimo įranga; Sieniniai elektrinio apšvietimo įtaisai; Elektros lempos; Toršerai; Lempų gaubtai; Aukštos įtampos išlydžio šviesuliai; Šviesolaidžio (LED) lempos; Šviesos diodų lemputės; Apšvietimo aparatai; Apšvietimo įtaisai; Sieniniai šviestuvai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dekoratīvais apgaismojums iekštelpām; Griestu lampas; Rakstāmgalda lampas; Elektriskā apgaismojuma piederumi; Pie sienas stiprināma elektriskā apgaismojuma piederumi; Elektriskās lampas un spuldzes; Ielu apgaismošanas lampas; Lampu abažūri; Augstas intensitātes izlādes lampas; LED lampas; Gaismas diožu spuldzes (LED); Apgaismes ķermeņi; Gaismekļi; Sienas gaismekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Dwal ta' aċċent għall-użu ġewwa; Dwal tas-soqfa; Lampi tal-iskrivaniji; Partijiet fissi tad-dawl elettriku; Brazzi (fittjaturi għad-dwal elettriċi); Sistemi għad-dawl elettriku; Lanterni bis-sieq; Paralumi; Luminarji ta' intensità għolja; Lampi LED; Bozoz tad-dawl tal-LED; Apparat għat-tidwil; Mezzi li jdawlu; Dwal tal-ħajt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Accentueerlampen voor gebruik binnenshuis; Plafondlampen; Bureaulampen; Elektrische verlichtingsarmaturen; Blakers [elektrische verlichtingsarmaturen]; Elektrische lampen; Staande lampen; Lampenkappen; Ontladingslampen met hoge intensiteit; Led-lampen; LED-lichtpeertjes; Verlichtingsapparaten; Verlichtingsarmatuur; Wandverlichting.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Światła akcentowe do użytku wewnętrznego; Światła sufitowe; Lampki biurkowe; Elementy oświetleniowej instalacji elektrycznej; Kinkiety [osprzęt oświetlenia elektrycznego]; Lampy elektryczne; Lampy podłogowe; Abażury do lamp; Lampy wyładowcze dużej intensywności; Lampy LED; Żarówki oświetleniowe LED; Urządzenia oświetleniowe; Oprawy oświetleniowe; Oświetlenie ścienne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Iluminação de realce para uso interior; Candeeiros de teto; Candeeiros de secretária; Acessórios elétricos de iluminação; Arandelas [acessórios de iluminação elétrica]; Lâmpadas elétricas; Candeeiros de pé; Abat-jour; Luminárias de descarga de alta intensidade; Lâmpadas LED; Lâmpadas de iluminação LED; Aparelhos de iluminação; Luminárias; Lâmpadas de murais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Lumini de accentuare pentru interior; Plafoniere; Lămpi de birou; Accesorii electrice de iluminat; Aplice [corpuri electrice de iluminat]; Lămpi electrice; Lampi de podea; Abajururi; Lămpi de descărcare cu intensitate înaltă; Lămpi cu LED; Becuri cu LED; Aparate de iluminat; Corpuri de iluminat; Aplice de perete.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Náladové interiérové svetlá; Stropné svetlá; Lampy na písacie stoly; Príslušenstvo k elektrickému osvetleniu; Nástenné svietniky [príslušenstvo k elektrickým svetlám]; Elektrické lampy; Pouličné lampy, kandelábre; Tienidlá na lampy; Vysokointenzívne výbojkové svetlá; LED lampy; LED žiarovky; Osvetľovacie prístroje; Svietidlo; Svetlá na priedeloch.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Svetila za poudarjanje za notranjo uporabo; Stropne luči; Svetilke za pisalno mizo; Oprema za električno razsvetljavo; Stenski svečnik (napeljave za električno razsvetljavo); Električne svetilke; Cestne svetilke; Senčniki za svetilke; Visokointenzivnostna svetila na razelektrenje; LED svetilke; LED žarnice; Aparati za razsvetljavo; Svetila; Stenske svetilke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Punktbelysning för inomhusbruk; Innertaksbelysningar; Skrivbordslampor; Armaturer för elektriskt ljus; Lampetter [elektrisk belysningsarmatur]; Elektriska lampor; Golvlampor; Lampskärmar; Urladdningslampor med hög intensitet; LED-lampor; LED-glödlampor; Apparater för belysning; Belysningar; Lampor för väggprydnad.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15066</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

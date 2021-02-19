@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-14T16:03:36</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229608</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229608</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>PurpleCube</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162502671</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229608/000162502671.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.05.94</CategoryCode>
+          <CategoryCode>25.07.03</CategoryCode>
+          <CategoryCode>26.15.09</CategoryCode>
+          <CategoryCode>29.01.03</CategoryCode>
+          <CategoryCode>29.01.05</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Софтуер като услуги; Софтуер като услуга [Saas] за данни и търговски анализ; Платформи за анализ на данни като софтуер като услуга [SaaS]; Софтуер като услуга [SaaS], включващ софтуер за данни и търговски анализ; Софтуер като услуга [SaaS], включващ софтуер за увеличаване на инвестициите; Консултантски услуги в областта на софтуер като услуга [SaaS]; Софтуер като услуга [SaaS], включващ софтуерни платформи за данни и търговски анализи; Платформи за изкуствен интелект под формата на софтуер като услуга [SaaS]; Софтуер като услуга [SaaS] със софтуер за машинно изучаване, дълбоко изучаване и дълбоки невронни мрежи; Услуги за компютърно програмиране на данни и търговски анализ, и отчитане в областта на телекомуникации, търговия на дребно, банкиране, инвестиции, финанси, автомобилостроене, петрол, газ, здравеопазване и правителство; Управление на данни, Стратегия за данни, управление на данните, Научни данни, Софтуер за архитектура на данни като услуга [Saas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Software jako služba [SaaS]; Software jako služba [SaaS] pro datovou a komerční analytiku; Platformy pro datovou analýzu jako software jako služba [SaaS]; Software jako služba [SaaS] zaměřený na software pro datovou a komerční analytiku; Software jako služba [SaaS] zaměřený na software pro maximalizaci investic; Konzultační služby v oboru software jako služba (SAAS); Software jako služba [SaaS] zaměřený na softwarové platformy pro datovou a komerční analytiku; Platformy pro umělou inteligenci ve formě softwaru jako služby [SaaS]; Služby softwaru jako služby [SaaS] zaměřené na software pro strojové učení, hluboké učení a hluboké neuronové sítě; Počítačové programovací služby pro datovou a komerční analytiku a vykazování v oboru telekomunikací, maloobchodu, bankovních investic, financí, automobilismu, ropy, plynu, zdravotnictví a vlád; Řízení databází, Datové strategie, správa dat, Věda údajů, Software jako služba [Saas] pro datovou architekturu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Software as a service [saas]; Software som en tjenesteydelse (SaaS) til data- og forretningsmæssig analyse; Software som tjenesteydelse (SaaS) til platforme til dataanalyse; Software som en tjeneste (SaaS) med software til data- og forretningsanalyse; Software som en tjeneste (SaaS) med software til maksimering af investeringer; Rådgivning inden for software som en tjeneste (SaaS); Software som en tjenesteydelse (SaaS) med softwareplatforme til data- og forretningsmæssig analyse; Platforme til kunstig intelligens som software as a service [SaaS]; Software as a service [SaaS] med software til maskinlæring, dybdelæring og dybe neurale netværk; Computerprogrammeringstjenester til data- og forretningsmæssig analyse og rapportering inden for telekommunikation, detailsalg, bankvirksomhed, investeringsvirksomhed, finansiel virksomhed, automobiler, olie, gas, sundhedspleje og offentlig virksomhed; Administration af data, Datastrategi, datastyring, Datavidenskab, Software som en tjeneste (SaaS) til dataarkitektur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Software as a Service [SaaS]; Software as a Service [SaaS] in Bezug auf Daten- und kommerzielle Analytik; Plattformen für die Datenanalyse als Software as a Service [SaaS]; Software as a Service [SaaS] mit Software für Daten- und kommerzielle Analysen; Software as a Service [SaaS] mit Software zur Maximierung von Investitionen; Beratung im Bereich Software as a Service [SaaS]; Software as a Service [SaaS] mit Software für Daten- und kommerzielle Analytik; Plattformen für künstliche Intelligenz als Software as a Service [SaaS]; Software as a Service [SaaS] mit Software für maschinelles Lernen, Deep Learning und tiefe neuronale Netzwerke; Computerprogrammierung in Bezug auf Daten- und kommerzielle Analysen und Berichte im Bereich Telekommunikation, Einzelhandel, Bankwesen, Investitionen, Finanzwesen, Automobilbranche, Erdöl, Erdgas, Gesundheitswesen und Staatswesen; Datenverwaltung, Datenstrategien, Daten-Governance, Datenwissenschaft, Software as a Service [SaaS] in Bezug auf Datenarchitektur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λογισμικό σαν υπηρεσία· Υπηρεσίες λογισμικού ως υπηρεσίας για ανάλυση δεδομένων και εμπορική ανάλυση· Υπηρεσίες λογισμικού ως υπηρεσίας με πλατφόρμες για ανάλυση δεδομένων· Υπηρεσίες λογισμικού ως υπηρεσίας με λογισμικό για ανάλυση δεδομένων και εμπορική ανάλυση· Υπηρεσίες λογισμικού ως υπηρεσίας με λογισμικό για μεγιστοποίηση επενδύσεων· Υπηρεσίες παροχής συμβουλών στον τομέα του λογισμικού ως υπηρεσίας· Υπηρεσίες λογισμικού ως υπηρεσίας με πλατφόρμες λογισμικού για ανάλυση δεδομένων και εμπορική ανάλυση· Πλατφόρμες τεχνητής νοημοσύνης με την μορφή λογισμικού ως υπηρεσίας [SaaS]· Λογισμικό ως υπηρεσία που περιλαμβάνει λογισμικό μηχανικής μάθησης, βαθείας μάθησης και βαθέων νευρωνικών δικτύων· Υπηρεσίες προγραμματισμού ηλεκτρονικών υπολογιστών για ανάλυση δεδομένων και εμπορική ανάλυση αναφορά στον τομέα των τηλεπικοινωνιών, λιανικών πωλήσεων, τραπεζικής, επενδύσεων, χρηματοδότησης, αυτοκινητοβιομηχανίας, πετρελαίου, φυσικού αερίου, ιατρικής περίθαλψης και κρατικών υπηρεσιών· Υπηρεσίες διαχείρισης δεδομένων, Στρατηγική, δεδομένων, διακυβέρνηση δεδομένων, Υπηρεσίες σε σχέση με την επιστήμη των δεδομένων, Παροχή λογισμικού ως υπηρεσίας για αρχιτεκτονική δεδομένων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Software as a service [SaaS]; Data and commercial analytics software as a service [Saas]; Platforms for data analysis as software as a service [SaaS]; Software as a service [SaaS] featuring software for data and commercial analysis; Software as a service [SaaS] featuring software for maximizing investments; Consulting services in the field of software as a service [SaaS]; Software as a service [SaaS] featuring software platforms for data and commercial analytics; Software as a service [SaaS] featuring computer software platforms for artificial intelligence; Software as a service [SaaS] services featuring software for machine learning, deep learning and deep neural networks; Computer programming services for data and commercial analysis and reporting in the field of telecommunications, retail, banking, investment, finance, automotive, oil, gas, healthcare and government; Data management, data strategy, data governance, data science, data architecture software as a service [Saas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Software como servicio [SaaS]; Software como servicio [SaaS] para análisis de datos y comercial; Plataformas para análisis de datos en forma de software como servicio [SaaS]; Software como servicio [SaaS] que ofrece software para análisis de datos y comercial; Software como servicio [SaaS] que ofrece software para maximizar las inversiones; Servicios de consultoría en materia de software como un servicio [SaaS]; Software como servicio [SaaS] que ofrece plataformas de software para análisis de datos y comercial; Plataformas para inteligencia artificial como software en forma de servicio [SaaS]; Software como servicio (SaaS) con software para el aprendizaje automático, aprendizaje profundo y redes neurales profundas; Servicios de programación informática para análisis de datos y comercial y elaboración de informes en el ámbito de las telecomunicaciones, la venta al por menor, los servicios bancarios, las inversiones, las finanzas, la automoción, el petróleo, el gas, la asistencia sanitaria y el gobierno; Servicios de gestión de datos, Estrategia de datos, gobernanza de datos, Ciencia de datos, Software como servicio [Saas] para arquitectura de datos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Pilveteenused [SaaS]; Andme- ja kaubandusliku analüüsi pilveteenused [SaaS]; Platvormid andmeanalüüsi jaoks pilveteenustena [SaaS]; Pilveteenused [SaaS] andme- ja kaubandusliku analüüsi tarkvaraga; Pilveteenused [SaaS] investeeringute maksimeerimise tarkvaraga; Teenustarkvara [SaaS] valdkonna konsulteerimisteenused; Pilveteenused [SaaS] andme- ja kaubandusliku analüüsi tarkvaraplatvormidega; Tehisintellektiplatvormid kui teenustarkvara [SaaS]; Masinõppe, süvaõppe ja sügavate närvivõrkude tarkvara sisaldavad teenustarkvara [SaaS] teenused; Andme- ja kaubandusliku analüüsi ning aruandluse arvutiprogrammide koostamine järgmistes valdkondades: telekommunikatsioon, jaekaubandus, pangandus, investeerimine, rahandus, sõidukid, nafta, gaas, tervishoid ja valitsus; Andmekogude haldamine, Andmestrateegia, andmehaldus, Andmeteadus, Andmearhitektuuri pilveteenused [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Verkkosovelluspalvelut [SaaS]; Data- ja kaupallisen analytiikan verkkosovelluspalvelut (SaaS); Ympäristöt data-analyysiin verkkosovelluspalveluna (SaaS); Verkkosovelluspalvelut (SaaS) ohjelmistoilla data- ja kaupalliseen analyysiin; Verkkosovelluspalvelut (SaaS) ohjelmistoilla sijoitusten maksimointiin; Konsultointipalvelut verkkosovelluspalvelujen [SaaS] alalla; Verkkosovelluspalvelut (SaaS) ohjelmistoympäristöillä data- ja kaupalliseen analytiikkaan; Tekoäly-ympäristöt sovellusvuokrauspalveluna [SaaS-palveluna]; Verkkosovelluspalvelut [SaaS] ohjelmistoilla, jotka on tarkoitettu koneoppimiseen, syväoppimiseen ja syviin neuroverkkoihin; Tietokoneohjelmointipalvelut data- ja kaupalliseen analyysiin ja raportointiin tietoliikenteen, vähittäiskaupan, pankkitoiminnan, sijoittamisen, rahoituksen, autojen, öljyn, kaasun, terveydenhoidon ja valtionhallinnon alalla; Tietojen hallintapalvelut, Datastrategiat, datan hallinnointi, Datatiede, Data-arkkitehtuuriin liittyvät verkkosovelluspalvelut (SaaS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Logiciel-service [SaaS]; Logiciels-services [SaaS] d'analyse commerciale et de données; Plates-formes d'analyse de données en tant que logiciels-services [SaaS]; Logiciels-services [SaaS] proposant des logiciels d'analyse commerciale et de données; Logiciels-services [SaaS] proposant des logiciels d'optimisation des investissements; Services d'assistance dans le domaine des services de logiciels-services (SaaS); Logiciels-services [SaaS] proposant des plates-formes logicielles d'analyse commerciale et de données; Plates-formes pour intelligence artificielle en tant que logiciel-service [SaaS]; Services de logiciel en tant que service (SaaS) proposant des logiciels pour l’apprentissage automatique, l’apprentissage profond et les réseaux d'apprentissage profond; Services de programmation informatique de compte rendu et d'analyse commerciale et de données dans le domaine des télécommunications, de la vente au détail, bancaire, des investissements, des finances, automobile, du pétrole, du gaz, des soins de santé et du gouvernement; Services de gestion de données, Stratégie des données, gouvernance des données, Science des données, Logiciels-services [SaaS] d'architecture de données.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Softver kao usluga [SaaS]; Softver kao usluga [SaaS] za podatkovnu i komercijalnu analitiku; Platforme za analizu podataka kao softver kao usluga [SaaS]; Softver kao usluga [SAAS] sa softverom za podatkovnu i komercijalnu analizu; Softver kao usluga [SAAS] sa softverom za maksimalan povrat ulaganja; Usluge savjetovanja u području softvera kao usluge (SAAS); Softver kao usluga [SAAS] sa softverskim platformama za podatkovnu i komercijalnu analitiku; Platforme za umjetnu inteligenciju kao softvera kao usluge [SaaS]; Softver kao usluge [SaaS] sa softverom za strojno učenje, dubinsko učenje i duboke neuronske mreže; Usluge računalnog programiranja za podatkovnu i komercijalnu analizu i izvješćivanje u području telekomunikacija, maloprodaje, bankarstva, ulaganja, financija, automobilske industrije, nafte, plina, zdravstvene skrbi i vlade; Upravljanje podatcima, Podatkovna strategija, upravljanje podacima, Podatkovna znanost, Softver kao usluga [SaaS] za podatkovnu arhitekturu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szoftver mint szolgáltatás [SaaS]; Adat- és kereskedelmi elemző szoftver mint szolgáltatás [Saas]; Adatelemzési platformok mint szoftver mint szolgáltatás [SaaS]; Szoftver szolgáltatásként [SaaS], adat- és kereskedelmi elemzésre szolgáló szoftverrel; Szoftver mint szolgáltatás [SaaS], szoftverrel a beruházások maximalizálására; Szoftverszolgáltatásokkal (SAAS) kapcsolatos konzultáció; Szoftver szolgáltatásként [SaaS], szoftver- és adatanalitikai platformokkal; Mesterséges intelligencia platformok szoftver mint szolgáltatásként [SaaS]; Gépi tanulásra, mély tanulásra és mély idegi hálózatokhoz való szoftvereket tartalmazó szoftver mint szolgáltatás [SaaS] szolgáltatások; Számítógépes programozási szolgáltatások adat- és kereskedelmi elemzéshez és jelentések készítéséhez a telekommunikáció, kiskereskedelem, bankügylet, befektetés, pénzügy, autóipar, olaj, gáz, egészségügy és kormányzat területén; Adatbázis-kezelés, Adatstratégia, adatkezelés, Adattudomány, Adat-architektúra szoftver szolgáltatásként [Saas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di software [SaaS]; Software come servizio [SAAS] per analisi di dati e commerciale; Piattaforme per l'analisi dei dati come software come servizio [SaaS]; Software come servizio [SaaS] con software per l'analisi di dati e commerciale; Software come servizio [SaaS] con software per massimizzare gli investimenti; Servizi di consulenza in materia di software come servizio [SaaS]; Software come servizio [SaaS] con piattaforme software per l'analisi di dati e commerciale; Piattaforme per intelligenza artificiale sotto forma di software come servizio [SaaS]; Servizi di software come servizio [SaaS] comprendenti programmi per apprendimento automatico, apprendimento profondo e reti neurali profonde; Servizi di programmazione informatica per analisi di dati e commerciale e segnalazione nel settore di telecomunicazioni, vendita al dettaglio, servizi bancari, investimento, finanza, automobili, oli, gas, salute e governo; Servizi di gestione di dati, Strategia dei dati, gestione dei dati, Scienze di dati, Software come servizio [Saas] per l'architettura dei dati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Programinė įranga kaip paslauga [SaaS]; Duomenų ir komercinės analizės programinė įranga kaip paslauga [Saas]; Duomenų analizės, kaip programinės įrangos, kaip paslaugos, platformos [SaaS]; Programinė įranga kaip paslauga [SaaS] su duomenų ir komercinės analizės programine įranga; Programinė įranga kaip paslauga [SaaS], turinti programinę įrangą investicijoms padidinti; Programinės įrangos kaip paslaugos [SaaS] konsultacijos; Programinė įranga kaip paslauga [SaaS] su duomenų ir komercinės analizės programinės įrangos platformomis; Programinė įranga kaip paslauga [SaaS] dirbtinio intelekto platformoms; Programinės įrangos kaip paslaugos [SaaS] paslaugos su kompiuterių mokymo, giliojo mokymo ir giliojo mokymosi neuroninių tinklų funkcijomis; Kompiuterių programavimo paslaugos duomenų ir komercinei analizei ir ataskaitų teikimui telekomunikacijų, mažmeninės prekybos, bankininkystės, investicijų, finansų, automobilių, naftos, dujų, sveikatos priežiūros ir vyriausybės srityse; Duomenų saugojimas, Duomenų strategija, duomenų valdymas, Duomenų dorojimas ir analizė, Duomenų architektūros programinė įranga kaip paslauga [Saas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Programmatūra kā pakalpojums [SaaS]; Datu un komerciālās analītikas programmatūra kā pakalpojums [SaaS]; Datu analīzes platformas kā programmatūra kā pakalpojums [SaaS]; Programmatūra kā pakalpojums [SaaS], kas satur programmatūru datu un komerciālai analīzei; Programmatūra kā pakalpojums [SaaS], kas satur programmatūru investīciju maksimizēšanai; Konsultāciju pakalpojumi programmatūras kā pakalpojums (SAAS) jomā; Programmatūra kā pakalpojums [SaaS], kas ietver programmatūras platformas datiem un komerciālai analītikai; Programmatūra kā pakalpojums (SaaS), kas paredzēta mākslīgā intelekta platformām; Programmatūras kā pakalpojums (SaaS), kas ietver programmatūru mašīnmācīšanai, dziļai mācīšanai un dziļiem neironu tīkliem; Datorprogrammēšanas pakalpojumi datu un komerciālai analīzei un ziņošanai telekomunikāciju, mazumtirdzniecības, banku, investīciju, finanšu, automobiļu, naftas, gāzes, veselības aprūpes un valdības jomā; Datu pārvaldīšana, Datu stratēģija, datu pārvaldība, Datu zinātne, Datu arhitektūras programmatūra kā pakalpojums [Saas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Softwer bħala servizz [SaaS]; Softwer bħala servizz (SaaS) għall-analitika relatata mad-data u kummerċjali; Pjattaformi għall-anaaliżi tad-data li jservu bħala softwer ta' servizz (SaaS); Softwer bħala servizz (SaaS) li jikkonsisti f'softwer għall-analiżi ta' data u kummerċjali; Softwer bħala servizz (SaaS) li jikkonsisti f'softwer għal massimizzar ta' investimenti; Servizzi ta' konsulenza fil-qasam tas-softwer bħala servizz [SAAS]; Softwer bħala Servizz (SaaS) li jikkonsisti fi pjattaformi tas-softwer għall-analiżi ta' data u kummerċjali; Pjattaformi għal intelliġenza artifiċjali bħala softwer bħala servizz [SaaS]; Servizzi ta' softwer bħala servizz [SaaS] li jinkludu softwer għal tagħlim bil-magni, tagħlim fil-fond, u netwerks newrali fil-fond; Servizzi ta' pprogrammar tal-kompjuter għall-analiżi u rappurtar ta' data u kummerċjali fil-qasam tat-telekomunikazzjoni, tal-bejgħ bl-imnut, tal-bankjar, tal-investiment, tal-finanzi, tal-karozzi, taż-żejt, tal-gass, tal-kura tas-saħħa u tal-gvern; Il-ġestjoni ta' database, Strateġija relatata mad-data, governanza relatata mad-data, Xjenza dwar id-dejta, Softwer bħala servizz (SaaS) relatat mal-arkitettura tad-data.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ter beschikking stellen van software [SaaS]; Software-als-een-dienst [SaaS] voor gegevens- en commerciële analyse; Platforms voor gegevensanalyse als software-als-een-dienst [SaaS]; Software-als-een-dienst [SaaS] met software voor gegevens- en commerciële analyse; Software-als-een-dienst [SaaS] met software voor het maximaliseren van investeringen; Advisering op het gebied van het ter beschikking stellen van software [SaaS]; Software-als-een-dienst [SaaS] met softwareplatforms voor gegevens- en commerciële analyse; Platforms voor artificiële intelligentie als software-als-een-dienst [SaaS]; Software-als-een-dienst [SaaS] diensten met software voor machinaal leren, diep leren en diepe neurale netwerken; Computerprogrammering voor gegevens- en commerciële analyse en rapportage op het gebied van telecommunicatie, detailhandel, bankzaken, investeringen, financiën, de auto-industrie, olie, gas, gezondheidszorg en overheid; Databeheer, Gegevensstrategieën, gegevensbeheer, Gegevenswetenschap, Software-als-een-dienst [SaaS] voor gegevensarchitectuur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oprogramowanie jako usługa [SaaS]; Oprogramowanie jako usługa (SaaS) do analityki danych i handlowej; Platformy do analizy danych jako oprogramowanie jako usługa (SaaS); Oprogramowanie jako usługa (SaaS) obejmujące oprogramowanie do analiz danych i handlowej; Oprogramowanie jako usługa (SaaS) obejmujące oprogramowanie do maksymalizacji inwestycji; Usługi doradztwa w zakresie oprogramowania jako usługi [SaaS]; Oprogramowanie jako usługa (SaaS) obejmujące platformy oprogramowania do analityki danych i handlowej; Platformy do sztucznej inteligencji jako oprogramowanie jako usługa [SaaS]; Usługi oprogramowania jako usługi [SaaS] obejmujące oprogramowanie do uczenia maszynowego, głębokiego uczenia i głębokich sieci neuronalnych; Usługi programowania komputerów w zakresie analiz danych i handlowych i raportów w zakresie telekomunikacji, handlu detalicznego, bankowości, inwestycji, finansów, samochodów, ropy, gazu, opieki zdrowotnej i rządu; Zarządzanie bazami danych, Strategia danych, zarządzanie danymi, Dane naukowe, Oprogramowanie jako usługa (SaaS) do architektury danych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Software como serviço [SaaS]; Serviços de software como serviço [SaaS] de análise de dados e comercial; Plataformas para análise de dados sob a forma de serviços de software como serviço [SaaS]; Serviços de software como serviço [SaaS] que incluem software para análise de dados e comercial; Serviços de software como serviço [SaaS] que incluem software para maximização de investimentos; Serviços de consultadoria no domínio do software como serviço [SaaS]; Serviços de software como serviço [SaaS] que incluem plataformas de software para análise de dados e comercial; Plataformas de inteligência artificial sob a forma de software como serviço [SaaS]; Serviços de software como serviço [SaaS] que incluem software para aprendizagem automática, aprendizagem profunda e redes neuronais profundas; Serviços de programação informática para análise e comunicação de dados e comercial nos domínios das telecomunicações, do comércio a retalho, dos serviços bancários, do investimento, das finanças, automóvel, do petróleo, do gás, dos cuidados de saúde e governamental; Serviços de gestão da informação, Estratégia e governação de dados, Ciência dos dados, Serviços de software como serviço [SaaS] para arquitetura de dados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Software ca serviciu [SaaS]; Software ca un serviciu [SaaS] pentru analiza datelor și comercială; Platforme pentru software ca un serviciu [SaaS] pentru analiza datelor; Software ca serviciu [SAAS] care oferă software pentru analiza datelor și comercială; Software ca serviciu [SAAS] care oferă software pentru maximizarea investițiilor; Consultanţă în domeniul software-ului ca serviciu [SAAS]; Software ca un serviciu [SAAS] care oferă platforme software pentru analiza datelor și comercială; Platforme pentru inteligență artificială sub formă de software ca serviciu [SaaS]; Servicii software ca serviciu (SAAS) care oferă software pentru învățare automată, învățare aprofundată și rețele neurale profunde; Servicii de programare informatică pentru analiza datelor și comercială și raportare în domeniile telecomunicațiilor, comerțului cu amănuntul, serviciilor bancare, investiției, finanțelor, auto, petrolului, gazului, sănătății și guvernării; Management de date, Strategie pentru date, guvernanța datelor, Știința datelor, Software ca serviciu [SAAS] pentru arhitectura datelor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poskytovanie softvéru prostredníctvom internetu (SaaS); Dátový a komerčný analytický softvér ako služba [SaaS]; Platformy na analýzu údajov v podobe softvéru ako služby [SaaS]; Softvér ako služba [SaaS] zahŕňajúca softvér na analýzu údajov a komerčné analýzy; Softvér ako služba [SaaS] zahŕňajúca softvér na maximalizáciu investícií; Konzultačné služby v oblasti softvéru ako služby [SaaS]; Softvér ako služba [SaaS] zahŕňajúca softvérové platformy na analýzu údajov a komerčné analýzy; Platformy pre umelú inteligenciu vo forme softvéru ako služby [SaaS]; Služby softvéru ako služby [SaaS] obsahujúceho softvér pre strojové učenie, hĺbkové učenie a hĺbkové umelé neurónové siete; Počítačové programovacie služby pre dátové a komerčné analýzy a výkazy v oblasti telekomunikácií, maloobchodu, bankovníctva, investícií, financií, automobilov, ropy, plynu, zdravotnej starostlivosti a štátnej správy; Riadenie databázy, Dátové stratégie, správa údajov, Dátové vedy, Softvér ako služba pre dátovú architektúru [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Programska oprema kot storitev [SaaS]; Programska oprema kot storitev (SaaS) za podatkovno in komercialno analitiko; Platforme za podatkovno analizo kot programska oprema kot storitev (SaaS); Programska oprema kot storitev (SaaS) s programsko opremo za podatkovno in komercialno analizo; Programska oprema kot storitev (SaaS) s programsko opremo za maksimiranje naložb; Svetovalne storitve na področju programske opreme kot storitve [SaaS]; Programska oprema kot storitev [SaaS] s platformami programske opreme za podatkovno in komercialno analitiko; Platforme za umetno inteligenco kot programska oprema kot storitev [SaaS]; Programska oprema kot storitev [SaaS] s programsko opremo za strojno učenje, globoko učenje in globoka nevronska omrežja; Storitve računalniškega programiranja za podatkovno in komercialno analizo ter poročanje na področju telekomunikacij, maloprodaje, bančništva, naložb, financ, avtomobilov, nafte, plina, zdravstva in vlade; Vodenje podatkovnih baz, Podatkovna strategija, podatkovno upravljanje, Znanost podatkov, Programska oprema kot storitev (SAAS) za podatkovno arhitekturo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Molntjänster [SaaS]; Programvara som en tjänst för data- och affärsanalyser; Plattformar för dataanalys som programvara som en tjänst; Programvara som en tjänst med programvara för data- och affärsanalyser; Programvara som en tjänst med programvara för maximering av investeringar; Rådgivning avseende molntjänster [SaaS]; Programvara som en tjänst [SaaS] med programvaruplattformar för data- och affärsanalyser; Plattformar för artificiell intelligens i form av programvaror som tjänst [SaaS]; Molntjänster med programvaror för maskininlärning, djupinlärning och djupa neurala nätverk [SaaS]; Datorprogrammeringstjänster för data- och affärsanalyser och rapportering inom telekommunikationsområdet, detaljhandels-, monetära tjänster, investeringar, finansiering, bil, olja, gas, hälsovård och ledning; Datahanteringstjänster, Datastrategi, datastyrning, Datavetenskap, Datakonstruktion, programvara som en tjänst.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/091</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082670</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>90319</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003128599</OppositionIdentifier>
+<OppositionDate>2020-08-17</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion
+Unfair advantage /detriment to distinctiveness or repute</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>008699291</ApplicationNumber>
+<ApplicationDate>2009-11-19</ApplicationDate>
+<RegistrationNumber>008699291</RegistrationNumber>
+<RegistrationDate>2010-05-27</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>LE CUBE</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>008699291</ApplicationNumber>
+<ApplicationDate>2009-11-19</ApplicationDate>
+<RegistrationNumber>008699291</RegistrationNumber>
+<RegistrationDate>2010-05-27</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>LE CUBE</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>FR</EarlierMarkCountryCode>
+<ApplicationNumber>4172259</ApplicationNumber>
+<ApplicationDate>2015-04-09</ApplicationDate>
+<RegistrationNumber>4172259</RegistrationNumber>
+<RegistrationDate>2017-07-21</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>LE CUBES</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>814529</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>12643</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-16T11:22:50</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225907</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225907</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-01</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Hansleep</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162304012</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/225/018225907/000162304012.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>02.01.95</CategoryCode>
+          <CategoryCode>27.05.05</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>24</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Одеяла за легла; Калъфки за възглавници; Калъфки за възглавници; Мрежи за комари; Спално бельо; Калъфи за матраци; Покривки за легла; Чаршафи [текстил]; Калъфи за юргани; Вълнени одеяла; Памучни одеяла; Калъфки за възглавници; Спално бельо.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Přikrývky a pokrývky na postel; Povlaky na polštáře; Povlaky na polštáře; Sítě proti hmyzu; Ložní prádlo a přikrývky; Potahy na matrace; Prošívané postelové přehozy a přikrývky; Prostěradla [textilie]; Povlaky na prošívané přikrývky; Vlněné přikrývky; Bavlněné přikrývky; Povlaky na dekorační polštáře; Ložní prádlo a přikrývky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Vattæpper; Pyntestykker til hovedpuder; Pudevår; Moskitonet; Sengelinned; Madrasbetræk; Sengetæpper; Lagener af tekstilmateriale; Quiltede sengetæpper; Uldtæpper; Bomuldstæpper; Pudebetræk; Sengelinned og sengetæpper.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bettdecken; Kissenbezüge; Kopfkissenbezüge; Moskitonetze; Bettwäsche und Decken; Matratzenüberzüge; Tagesdecken für Betten; Tücher [Laken]; Steppdeckenbezüge; Wolldecken; Baumwolldecken; Bezüge für Kissen; Bettwäsche und Decken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κρεβατιού κουβέρτες· Μαξιλαροθήκες· Μαξιλαροθήκες· Κουνουπιέρες· Λευκά είδη κρεβατιού και κουβέρτες· Καλύμματα στρωμάτων· Καλύμματα κρεβατιού· Σεντόνια· Παπλωματοθήκες· Μάλλινες κουβέρτες· Βαμβακερές κουβέρτες· Μαξιλαροθήκες· Λευκά είδη κρεβατιού και κουβέρτες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Bed blankets; Pillow shams; Pillowcases; Mosquito nets; Bed linen; Mattress covers; Bed covers; Bedspreads; Coverlets; Quilts; Sheets [textile]; Quilt covers; Woolen blankets; Cotton blankets; Covers for cushions; Bed linen and blankets.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Mantas de cama; Fundas decorativas para almohadones de cama; Fundas de almohada; Mosquiteros [colgaduras]; Ropa de cama; Fundas de colchón; Colchas; Sábanas; Cubiertas de edredón; Mantas de lana; Mantas de algodón; Fundas de cojín; Ropa blanca y mantas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Vooditekid (katted); Padjakatted, padjakotid; Padjapüürid, padjaümbrised; Moskiitovõrgud, sääsevõrgud; Voodipesu; Madratsikatted; Voodikatted; Linad, voodilinad [tekstiil]; Vatitekid, lapitekid; Villased tekid; Puuvillased tekid; Sohvapatjade katted; Voodilinad ja tekid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vuodehuovat; Tyynyliinat; Tyynyliinat; Sääskiverkot; Vuodevaatteet ja huovat; Patjanpäälliset; Vuodevaatteet; Lakanat [tekstiiliä]; Täkinpäälliset; Villahuovat; Puuvillahuovat; Tyynyliinat; Vuodevaatteet ja huovat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Couvertures de lit; Housses d'oreillers; Taies d'oreillers; Moustiquaires; Linge de lit; Enveloppes de matelas; Couvre-lits; Draps; Housses de couette; Couvertures en laine; Couvertures en coton; Housses pour coussins; Linge de lit et couvertures.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pokrivači za krevete; Jastučnice [navlake za jastuke]; Jastučnice [navlake za jastuke]; Mreže za komarce; Posteljina i deke; Omotači za madrace; Popluni s paperjem; Plahte; Navlake za prošivene prekrivače; Vunene deke; Pamučni prekrivači; Jastučnice [navlake za jastuke]; Posteljina i pokrivači.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ágytakarók; Párnahuzatok, vánkoshuzatok; Párnahuzatok, vánkoshuzatok; Szúnyoghálók; Ágyneműk és takarók; Matrachuzatok; Ágyterítők, ágytakarók; Lepedők; Paplanhuzatok; Gyapjútakarók; Pamuttakarók; Párnahuzatok, vánkoshuzatok; Ágyneműk és takarók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Coperte da letto; Fodere per guanciali; Federe di guanciale; Zanzariere; Biancheria da letto; Federe di materassi; Trapunte; Lenzuola; Fodere per trapunte; Coperte di lana; Coperte di cotone; Fodere per cuscini; Biancheria da letto e coperte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Lovos antklodės (vilnonės); Pagalvių užtiesalai; Pagalvių užvalkaliukai; Tinkleliai nuo moskitų; Lovos baltiniai; Čiužinių užvalkalai; Lovatiesės; Paklodės [tekstilinės]; Antklodžių užvalkalai; Megztos arba nertos vilnonės antklodės ar skaros; Medvilninės antklodės; Pagalvėlių užvalkaliukai; Lovos baltiniai ir antklodės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Gultas segas; Spilvenu pārvalki; Spilvendrānas; Moskītu tīkli; Gultas veļa; Matraču pārvalki; Gultas pārklāji; Auduma palagi; Vatētu segu pārvalki; Vilnas segas; Kokvilnas segas; Dīvānu spilvenu pārvalki; Gultas veļa un segas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kutri tas-sodda; Investi għall-imħaded; Investi għall-imħaded; Xibka tan-nemus; Bjankerija tas-sodda u gvieret; Għata għas-saqqu; Kutri kkuttunati [friex]; Lożor tas-sodda; Għata għall-kwilts; Kutri tas-sodda magħmulin mis-suf; Kutri tal-qoton; Investi għall-imħaded; Bjankerija tas-sodda u gvieret.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Dekens; Hoezen voor hoofdkussens; Kussenslopen; Klamboes; Beddengoed en dekens; Matrasbeschermers; Bedspreien; Lakens; Dekbedovertrekken; Dekens van wol; Katoenen dekens; Hoezen voor sierkussens; Beddengoed en dekens.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kapy na łóżka; Poszewki na poduszki [poszwy na poduszki]; Poszewki na poduszki [poszwy na poduszki]; Moskitiery; Bielizna pościelowa i koce; Pokrycie na materace; Narzuty na łóżka; Prześcieradła na łóżka; Poszwy na kołdry; Koce wełniane; Koce bawełniane; Poszewki na poduszki [poszwy na poduszki]; Bielizna pościelowa i koce.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cobertores de cama; Fronhas de travesseiros; Fronhas de almofada; Redes mosquiteiras; Roupa de cama e cobertores; Cobertas para colchões; Cobertas para cama; Lençóis [tecidos]; Capas para edredão; Mantas de lã; Cobertores de algodão; Capas para almofadas; Roupa de cama e cobertores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cuverturi de pat (pături); Fețe de pernă; Fețe de pernă; Plase contra țânțarilor; Huse (lenjerii) și pături pentru pat; Huse pentru saltele; Cuverturi matlasate (lenjerie de pat); Cearșafuri; Plăpumi de puf; Pături de lână; Pături de bumbac; Fețe de pernă; Lenjerie de pat și pături.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Posteľné pokrývky a prikrývky; Ozdobné obliečky na vankúše; Obliečky na vankúše; Ochranné siete proti komárom (moskytiéry); Posteľná bielizeň; Obliečky na matrace; Posteľné pokrývky; Plachty; Prešívané prikrývky; Vlnené deky; Bavlnené prikrývky; Obliečky na vankúše; Posteľná bielizeň, prikrývky a pokrývky na posteľ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Posteljne odeje; Prevleke za vzglavnike [prevleke za blazine]; Prevleke za vzglavnike [prevleke za blazine]; Mreže proti komarjem; Posteljno perilo in odeje; Prevleke za žimnice; Posteljna pregrinjala; Posteljne rjuhe; Pernata pregrinjala; Volnene odeje; Bombažne odeje; Prevleke za vzglavnike [prevleke za blazine]; Posteljnina in odeje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Sängfiltar; Överdrag för kuddar; Örngott; Myggnät; Sänglinne; Madrassöverdrag; Sängöverkast; Lakan [textil]; Överdrag för täcken; Stickade yllefiltar; Bomullsfiltar; Kuddöverdrag; Sänglinne och filtar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/077</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1140640</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>87424</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

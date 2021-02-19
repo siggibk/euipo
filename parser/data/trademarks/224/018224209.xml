@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-27T12:34:20</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224209</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224209</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-24</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>W WABI PAY</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162207350</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224209/000162207350.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>02.01.23</CategoryCode>
+          <CategoryCode>27.03.02</CategoryCode>
+          <CategoryCode>27.05.21</CategoryCode>
+          <CategoryCode>27.99.23</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>36</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Разплащателни услуги за електронен портфейл; Услуги за електронни плащания; Услуги за електронно търговско разплащане; Електронна обработка на плащания за покупка на стоки и услуги чрез глобална компютърна мрежа.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Platební služby elektronické peněženky; Elektronické platební služby; Platební služby pro elektronický obchod; Elektronické zpracování plateb za nákup výrobků a služeb prostřednictvím globální počítačové sítě.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Betalingsservice vedrørende elektroniske punge; Elektroniske betalingstjenester; Betalingsservice i forbindelse med elektronisk handel; Elektronisk behandling af betalinger for køb af varer og tjenesteydelser via et elektronisk computernetværk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Finanzdienstleistungen auf dem Gebiet des elektronischen Zahlungsverkehrs; Elektronische Zahlungsdienste; Zahlungsdienste für den elektronischen Handel; Elektronische Bearbeitung von Zahlungen für den Kauf von Waren und Dienstleistungen über ein weltweites Computernetz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες πληρωμών με ηλεκτρονικό πορτοφόλι· Υπηρεσίες ηλεκτρονικής πληρωμής· Υπηρεσίες πληρωμών ηλεκτρονικού εμπορίου· Ηλεκτρονική επεξεργασία πληρωμών για την αγορά προϊόντων και υπηρεσιών μέσω παγκόσμιου δικτύου ηλεκτρονικών υπολογιστών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">E-wallet payment services; electronic payment services; electronic commerce payment services; electronic processing of payments for the purchase of goods and services via a global computer network.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de pago de monedero electrónico; Servicios de pago electrónico; Servicios de pago para el comercio electrónico; Procesamiento de pagos electrónicos por la compra de productos y servicios a través de una red informática mundial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Elektroonilise rahakoti teenused (makseteenused); Elektroonilised makseteenused; Elektronkaubanduse makseteenused; Kaupade ja teenuste ostumaksete elektrooniline töötlemine ülemaailmse arvutivõrgu kaudu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sähköiseen lompakkoon liittyvät maksupalvelut; Elektroniset maksupalvelut; Sähköisen kaupankäynnin maksupalvelut; Sellaisten maksujen käsittely, jotka liittyvät tavaroiden ja palvelujen ostamiseen maailmanlaajuisen tietokoneverkon välityksellä.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de paiement par portefeuille électronique; Services de paiement électronique; Services de paiements pour le commerce électronique; Traitement électronique de paiements pour l'achat de produits et services par le biais d'un réseau informatique mondial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge plaćanja elektroničkim novčanikom; Usluge elektroničkog plaćanja; Usluge elektroničkog komercijalnog plaćanja; Elektronička obrada plaćanja za kupnju proizvoda i usluga putem globalne računalne mreže.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">E-pénztárca fizetési szolgáltatások; Elektronikus fizetési szolgáltatások; Elektronikus kereskedelmi fizetési szolgáltatások; Áruk és szolgáltatások globális számítógépes hálózaton keresztüli vásárlásának elektronikus feldolgozása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di pagamento di portafoglio elettronico; Servizi di pagamento elettronico; Servizi di pagamento per il commercio elettronico; Elaborazione elettronica dei pagamenti per l'acquisto di beni e servizi tramite una rete informatica globale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Elektroninės piniginės mokėjimo paslaugos; Elektroninio mokėjimo paslaugos; Elektroninės prekybos mokėjimo paslaugos; Elektroninis prekių ir paslaugų pirkimo per pasaulinį kompiuterių tinklą apdorojimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Elektroniskās tirdzniecības maksājumu pakalpojumi; Elektronisko maksājumu pakalpojumi; Elektroniskās komercijas maksājumu pakalpojumi; Maksājumu elektroniska apstrāde par precēm un pakalpojumiem, izmantojot globālo datortīklu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' ħlas e-wallet; Servizzi ta' ħlas b'mezz elettroniku; Servizzi kummerċjali ta' ħlas elettroniku; L-ipproċessar elettroniku ta' pagamenti għax-xiri ta' oġġetti u servizzi permezz ta' netwerk informatiku globali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diensten verband houdend met betalingen middels elektronische portemonnees; Diensten op het gebied van elektronische betaling; Betaaldiensten op het gebied van elektronische handel; Elektronische verwerking van betalingen voor de aankoop van goederen en diensten via een wereldwijd computernetwerk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi płatności w zakresie e-portfela; Usługi w zakresie elektronicznych płatności; Usługi płatności w handlu elektronicznym; Przetwarzanie płatności elektronicznych za zakup towarów i usług za pośrednictwem światowej sieci komputerowej.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de pagamentos de carteira eletrónica; Serviços de pagamento eletrónico; Serviços de pagamento de comércio eletrónico; Processamento eletrónico de pagamentos referentes à compra de produtos e serviços através de uma rede informática mundial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de plăți cu portofel electronic; Servicii de plată electronică; Servicii de plată prin comerţ electronic; Procesarea electronică a plăților pentru cumpărarea de produse și servicii dintr-o rețea globală de calculatoare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Platobné služby prostredníctvom elektronických peňaženiek; Elektronické platobné služby; Platobné služby v elektronickom obchode; Elektronické spracovanie platieb za nákup tovaru a služieb prostredníctvom globálnej počítačovej siete.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve plačevanja z e-denarnico; Elektronske plačilne storitve; Storitve plačevanja pri elektronskem poslovanju; Elektronska obdelava plačil za nakup izdelkov in storitev prek svetovnega računalniškega omrežja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">E-plånboksbetalningstjänster; Elektroniska betalningstjänster; Betalningstjänster avseende elektronisk handel; Elektronisk behandling av betalningar för köp av varor och tjänster via ett globalt datornätverk.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/079</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>161519</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>50991</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003126648</OppositionIdentifier>
+<OppositionDate>2020-07-24</OppositionDate>
+<ProceedingLanguageCode>es</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>018187595</ApplicationNumber>
+<ApplicationDate>2020-01-23</ApplicationDate>
+<RegistrationNumber>018187595</RegistrationNumber>
+<RegistrationDate>2020-06-03</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>WABI</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>1026903</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>36405</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-29T09:52:38</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224416</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224416</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>drooxy</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Овлажняващ лосион за тяло [козметични средства].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Hydratační tělová mléka (kosmetika).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kosmetiske, fugtighedsbevarende kropslotioner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kosmetische Feuchtigkeitslotion für den Körper.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ενυδατικές λοσιόν σώματος [καλλυντικά].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Moisturising body lotion [cosmetic].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Loción corporal hidratante [cosméticos].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Niisutavad kehaemulsioonid [kosmeetilised].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kosteuttavat vartaloemulsiot [kosmeettiset].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Lotions corporelles hydratantes [cosmétiques].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Hidratantni losioni za tijelo [kozmetički].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Hidratáló testápolók [kozmetikai].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Lozione idratante per il corpo [cosmetica].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Drėkinamasis kūno losjonas [kosmetinis].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mitrinoši kosmētiskie ķermeņa losjoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Lozjoni idratanti kosmetika għall-ġisem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Vochtinbrengende lichaamslotions [cosmetisch].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Nawilżające balsamy do ciała [kosmetyki].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Loções hidratantes para o corpo [cosméticas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Loțiuni de corp hidratante [produse cosmetice].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Hydratačné telové mlieka [kozmetika].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kozmetični vlažilni losjoni za telo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Fuktande kroppslotioner [kosmetiska].</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за онлайн търговия на дребно, свързани с козметични и разкрасителни продукти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby on-line maloobchodních prodejen v oblasti kosmetiky a kosmetických výrobků.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Online-detailhandel med kosmetiske præparater og skønhedsprodukter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Online-Einzelhandelsdienstleistungen bezüglich Kosmetika und Schönheitsprodukte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Επιγραμμικές υπηρεσίες καταστήματος λιανικής πώλησης καλλυντικών και προϊόντων ομορφιάς.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Online retail store services relating to cosmetic and beauty products.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de venta minorista en línea de productos cosméticos y de belleza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kosmeetika- ja ilutoodete jaemüügiteenused veebis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Online-muotoiset vähittäismyymäläpalvelut kosmeettisten ja kauneudenhoitotuotteiden alalla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services en ligne de vente au détail proposant des produits cosmétiques et de beauté.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge online trgovina za maloprodaju kozmetičkih proizvoda.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kozmetikai és szépségápolási termékekkel kapcsolatos online kiskereskedelmi bolti szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di vendita online al dettaglio inerenti i prodotti di cosmetica e bellezza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Internetinė mažmeninė prekyba kosmetika ir grožio produktais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mazumtirdzniecības pakalpojumi tiešsaistē saistībā ar kosmētiku un skaistumkopšanas precēm.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' ħanut tal-bejgħ bl-imnut onlajn relatati mal-prodotti kosmetiċi u tas-sbuħija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Online detailwinkeldiensten met cosmetica en schoonheidsproducten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi sklepów detalicznych online związane z produktami kosmetycznymi i pielęgnacyjnymi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de lojas de venda a retalho online relacionados com produtos cosméticos e de beleza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii prestate online de un magazin de vânzare cu amănuntul pentru produse cosmetice și de înfrumusețare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Služby on-line maloobchodných predajní v oblasti kozmetických a skrášľovacích výrobkov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve spletnih maloprodajnih trgovin s kozmetičnimi sredstvi in izdelki za lepotilno nego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Återförsäljning online avseende kosmetika och skönhetspreparat.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/141</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079073</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

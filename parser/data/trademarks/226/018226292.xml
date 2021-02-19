@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:15</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226292</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226292</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>lt</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>MATH SCIENTIFIC</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162316469</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226292/000162316469.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Козметични средства; Козметични средства за прилагане върху кожата; Функционална козметика; Органична козметика; Натурална козметика; Декоративна козметика.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kosmetické přípravky; Pleťová kosmetika; Funkční kosmetika; Organická kosmetika; Přírodní kosmetika; Dekorativní kosmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kosmetik; Kosmetiske præparater til brug på huden; Funktionelle kosmetiske præparater; Økologisk kosmetik; Naturkosmetik; Dekorativ kosmetik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kosmetika; Mittel zur Körper- und Schönheitspflege für die Haut; Funktionelle Kosmetika; Bio-Kosmetika; Natürliche Kosmetika; Dekorative Kosmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καλλυντικά· Καλλυντικά για δερματική χρήση· Λειτουργικά καλλυντικά· Οργανικά καλλυντικά· Φυσικά καλλυντικά· Διακοσμητικά καλλυντικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Cosmetics; Cosmetics for use on the skin; Functional cosmetics; Organic cosmetics; Natural cosmetics; Decorative cosmetics.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cosméticos; Cosméticos para el uso sobre la piel; Cosméticos funcionales; Cosméticos orgánicos; Cosméticos naturales; Productos cosméticos decorativos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kosmeetikavahendid; Kosmeetilised nahahoolduspreparaadid; Funktsionaalsed kosmeetikavahendid; Orgaanilised kosmeetikatooted; Looduskosmeetika; Meigivahendid, jumestusvahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kosmetiikka; Kosmeettiset tuotteet ihon hoitoon; Funktionaaliset kosmetiikkatuotteet; Luonnonmukainen kosmetiikka; Luonnonkosmetiikka; Meikit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Cosmétiques; Cosmétiques pour la peau; Cosmétiques fonctionnelles; Cosmétiques organiques; Produits cosmétiques naturels; Cosmétiques décoratifs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kozmetički proizvodi; Kozmetički proizvodi za kožu; Funkcionalna kozmetika; Organska kozmetika; Prirodna kozmetika; Dekorativna kozmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kozmetikai szerek; Bőrön használt kozmetikumok; Funkcionális kozmetikumok; Natúrkozmetikumok; Természetes kozmetikumok; Dekoratív kozmetikai termékek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cosmetici; Cosmetici per uso dermatologico; Cosmetici funzionali; Cosmetici organici; Cosmetici naturali; Prodotti cosmetici decorativi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kosmetika; Odos kosmetika; Funkcinė kosmetika; Organinė kosmetika; Natūrali kosmetika; Dekoratyvioji kosmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kosmētikas līdzekļi; Kosmētiskie līdzekļi ādas kopšanai; Funkcionāla kosmētika; Kosmētika no dabīgām izejvielām; Dabīgi kosmētikas līdzekļi; Dekoratīvā kosmētika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kożmetiċi; Kosmetiċi għall-użu fuq il-ġilda; Kożmetiċi funzjonali; Kosmetiċi organiċi; Kosmetiċi naturali; Kosmetiċi dekorattivi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Cosmetica; Cosmetische middelen voor gebruik op de huid; Functionele cosmetica; Biologische cosmetica; Natuurlijke cosmetica; Decoratieve cosmetica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kosmetyki; Kosmetyki do stosowania na skórę; Kosmetyki funkcjonalne; Kosmetyki organiczne; Kosmetyki naturalne; Kosmetyki do ozdabiania.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cosméticos; Cosméticos para aplicar na pele; Cosméticos funcionais; Cosméticos biológicos; Cosméticos naturais; Cosméticos decorativos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cosmetice; Produse cosmetice pentru piele; Cosmetice funcționale; Produse cosmetice organice; Produse cosmetice naturale; Cosmetice decorative.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kozmetické prípravky; Pleťové kozmetické prípravky; Funkčná kozmetika; Organická kozmetika; Prírodná kozmetika; Dekoratívne kozmetické prípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kozmetični izdelki; Kozmetični izdelki, ki se uporabljajo na koži; Funkcionalna kozmetična sredstva; Organska kozmetična sredstva; Naravna kozmetična sredstva; Dekorativni kozmetični izdelki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kosmetika; Kosmetika för användning på huden; Funktionell kosmetika; Ekologisk kosmetika; Naturkosmetika; Dekorativ kosmetik.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хранителни добавки; Минерални хранителни добавки; Диетични добавки за хора; Хранителни добавки за спортисти; Диетични и хранителни добавки; Витаминни препарати под формата на хранителни добавки; Антиоксидантни хранителни добавки; Протеинови хранителни добавки; Лецитинови хранителни добавки; Лечебни хранителни добавки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Potravinové doplňky; Minerální doplňky stravy; Dietní potravinové doplňky pro lidskou potřebu; Dietetické doplňky pro sportovce; Výživové doplňky; Vitaminové přípravky jako doplňky stravy; Antioxidační doplňky stravy; Proteinové potravinové doplňky; Potravinové doplňky z lecitinu; Léčivé potravinové doplňky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Diæt- og kosttilskud; Mineraltilskud; Diættilskud til mennesker; Diætetiske kosttilskud til sportsudøvere; Diætetiske og ernæringsmæssige kosttilskud; Vitaminpræparater i form af kosttilskud; Antioxidanter som kosttilskud; Protein til brug som kosttilskud; Lecitin til brug som kosttilskud; Medicinsk kosttilskud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Nahrungsergänzungsmittel für diätetische Zwecke; Nahrungsergänzungsmittel auf Basis von Mineralstoffen; Nahrungsergänzungsmittel für Menschen; Nahrungsergänzungsmittel für Sportler; Nahrungsergänzungsmittel für diätetische Zwecke; Vitaminpräparate in Form von Nahrungsergänzungsstoffen; Antioxidantien als Nahrungsergänzungsmittel; Nahrungsergänzungsmittel aus Proteinen; Nahrungsergänzungsmittel aus Lezithin; Medizinische Nahrungsergänzungsstoffe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συμπληρώματα διατροφής· Μεταλλικά στοιχεία ως συμπληρώματα διατροφής· Συμπληρώματα διατροφής για ανθρώπους· Συμπληρώματα διατροφής για αθλούμενους· Συμπληρώματα διατροφής και δίαιτας· Βιταμινούχα παρασκευάσματα με τη μορφή συμπληρωμάτων διατροφής· Αντιοξειδωτικά συμπληρώματα διατροφής· Πρωτεϊνούχα συμπληρώματα διατροφής· Συμπληρώματα διατροφής με λεκιθίνη· Φαρμακευτικά συμπληρώματα διατροφής.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Food supplements; Mineral nutritional supplements; Dietary supplements for humans; Food supplements for sportsmen; Dietary and nutritional supplements; Vitamin preparations in the nature of food supplements; Anti-oxidant food supplements; Protein dietary supplements; Lecithin dietary supplements; Medicated food supplements.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Complementos dietéticos; Complementos minerales nutricionales; Suplementos dietéticos para humanos; Complementos dietéticos para deportistas; Complementos dietéticos y nutricionales; Preparados de vitaminas como complementos alimenticios; Suplementos alimenticios antioxidantes; Complementos alimenticios a base de proteínas; Complementos alimenticios a base de lecitina; Suplementos alimenticios medicinales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toidulisandid; Mineraalsed toidulisandid; Toidulisandid inimestele; Toidulisandid sportlastele; Dieet- ja toitelisandid; Vitamiinipreparaadid toidulisanditena; Antioksüdandid toidulisanditena; Valk toidulisandina; Letsitiin toidulisandina; Ravitoimelised toidulisandid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ravintolisäaineet; Kivennäisaineet ravintolisäaineina; Lisäravinteet ihmisille; Ravintolisät urheilijoille; Dieetti- ja ravintolisäaineet; Vitamiinivalmisteet elintarvikelisinä; Antioksidanttiset ravintolisäaineet; Proteiinit lisäravinteena; Lesitiini lisäravinteena; Lääkeaineita sisältävät lisäravinteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Compléments alimentaires; Compléments minéraux nutritionnels; Compléments alimentaires propres à la consommation humaine; Compléments diététiques pour sportifs; Compléments nutritionnels et alimentaires; Produits vitaminés sous forme de compléments alimentaires; Compléments alimentaires antioxydants; Compléments alimentaires de protéine; Compléments alimentaires de lécithine; Suppléments alimentaires médicamenteux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dodaci prehrani; Mineralni prehrambeni dodaci; Dijetalni dodaci ljudskoj prehrani; Dodatci prehrani za sportaše; Dijetetski i hranjivi dodaci; Vitaminski pripravci u obliku prehrambenih dodataka; Antioksidansi kao dodaci prehrani; Proteinski prehrambeni dodaci; Lecitin kao prehrambeni dodatak; Ljekoviti dodaci hrani.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Diétás ételkiegészítők; Ásványi étrend-kiegészítők; Humán étrendkiegészítők; Étrend-kiegészítők sportolók számára; Étrend- és táplálékkiegészítők; Vitaminkészítmények ételkiegészítők formájában; Antioxidáns táplálékkiegészítők; Protein étrend-kiegészítők; Lecitin étrend-kiegészítők; Gyógyszeres táplálékkiegészítők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Integratori dietetici; Integratori minerali nutrizionali; Alimenti complementari nel regime alimentare degli esseri umani; Integratori alimentari per sportivi; Integratori alimentari dietetici; Preparati vitaminici in forma di integratori alimentari; Integratori alimentari antiossidanti; Integratori alimentari di proteine; Integratori alimentari di lecitina; Integratori alimentari medicati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Maisto papildai; Mineraliniai maisto papildai; Maisto papildai žmonėms; Maisto papildai sportininkams; Dietiniai ir maisto papildai; Vitamininiai maisto papildai; Antioksidaciniai maisto papildai; Baltymų maisto papildai; Lecitino maisto papildai; Dietinio maisto papildai; Gydomieji maisto papildai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Vielas uztura papildināšanai; Uztura bagātinātāji ar minerālvielām; Uztura bagātinātāji cilvēkam; Uztura bagātinātāji sportistiem; Diētiskās un uztura piedevas; Kā uztura bagātinātāji lietojami vitamīnu preparāti; Antioksidantu uztura bagātinātāji; Proteīna uztura bagātinātāji; Lecitīna uztura bagātinātāji; Medikamentus saturošas vielas uztura papildināšanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Supplimenti tal-ikel; Supplimenti sustanzjużi minerali; Supplimenti dijetetiċi għall-bnedmin; Supplimenti tal-ikel għall-isportivi; Supplimenti tad-dieta u tan-nutrizzjoni; Preparazzjonijiet tal-vitamini f'għamla ta' supplimenti tal-ikel; Supplimenti tal-ikel anti-ossidanti; Supplimenti tad-dieta bil-proteini; Supplimenti tad-dieta bil-leċitina; Supplimenti ta' ikel immedikat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Voedingssupplementen; Minerale voedingssupplementen; Dieetsupplementen voor mensen; Voedingssupplementen voor sporters; Diëtische supplementen en voedselsupplementen; Vitaminepreparaten in de vorm van voedingssupplementen; Voedingssupplementen in de vorm van antioxidanten; Voedingssupplementen op basis van proteïne; Voedingssupplementen op basis van lecithine; Medicinale supplementen voor voedsel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Suplementy żywnościowe; Mineralne suplementy odżywcze; Suplementy diety dla ludzi; Suplementy diety dla sportowców; Suplementy dietetyczne i odżywcze; Preparaty witaminowe w postaci suplementów diety; Przeciwutleniające suplementy diety; Suplementy diety zawierające białko; Suplementy diety zawierające lecytynę; Lecznicze dodatki do żywności.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Suplementos dietéticos; Suplementos minerais nutritivos; Suplementos alimentares para consumo humano; Suplementos dietéticos para desportistas; Suplementos dietéticos e nutricionais; Preparações vitamínicas sob a forma de suplementos alimentares; Suplementos alimentares antioxidantes; Suplementos dietéticos de proteína; Suplementos dietéticos de lecitina; Suplementos alimentares medicinais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suplimente alimentare; Suplimente nutritive minerale; Suplimente dietetice pentru consumul uman; Suplimente alimentare pentru sportivi; Suplimente dietetice și nutritive; Preparate pe bază de vitamine sub formă de suplimente alimentare; Suplimente alimentare antioxidante; Suplimente alimentare proteice; Suplimente alimentare pe bază de lecitină; Suplimente alimentare medicinale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Potravinové doplnky; Minerálne výživné doplnky; Diétne potravinové doplnky pre ľudí; Potravinové doplnky pre športovcov; Výživové doplnky; Vitamínové prípravky v podobe potravinových doplnkov; Antioxidačné potravinové doplnky; Proteínové výživové doplnky; Lecitínové výživové doplnky; Liečivé výživové doplnky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Prehranski dodatki; Mineralni prehranski dodatki; Prehranski dodatki za ljudi; Prehranska dopolnila za športnike; Prehranski in hranilni dodatki; Vitaminski pripravki v obliki prehranskih dopolnil; Antioksidanti kot prehranski dodatki; Proteini kot prehranski dodatki; Lecitin kot prehranski dodatek; Prehranski dodatki z zdravilnimi učinkovinami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kosttillskott; Mineraliska kosttillskott; Kosttillskott för personer; Kosttillskott för idrottsmän; Diet- och näringstillskott; Vitaminpreparat i form av livsmedelstillskott; Antioxidanter (kosttillskott); Kosttillskott av protein; Kosttillskott av lektin; Medicinska födoämnestillskott.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

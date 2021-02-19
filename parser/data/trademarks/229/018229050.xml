@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-12T14:44:36</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229050</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229050</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-10-02</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162459565</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229050/000162459565.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.21</CategoryCode>
+          <CategoryCode>27.99.02</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>29</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Готови салати; Млечни продукти; Десерти, приготвени от млечни продукти; Готвени ястия от месо, риба или зеленчуци.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Hotové saláty (zeleninové, ovocné); Mléčné výrobky; Dezerty z mléčných výrobků; Hotová jídla na bázi masa, ryb nebo zeleniny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tilberedte salater; Fødevarerpræparater bestående hovedsageligt af mælk; Desserter fremstillet af mælkeprodukter; Færdigretter på basis af kød, fisk og grøntsager.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Zubereitete Salate; Milchprodukte; Desserts aus Milchprodukten; Fertiggerichte auf Fleisch-, Fisch- oder Gemüsebasis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Έτοιμες σαλάτες· Γαλακτοκομικά (- προϊόντα)· Επιδόρπια παρασκευασμένα από γαλακτοκομικά προϊόντα· Έτοιμα φαγητά με βάση κρέας, ψάρι ή λαχανικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Prepared salads; Milk products; Desserts made from milk products; Dishes based on meat, fish or vegetables.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Ensaladas preparadas; Productos lácteos; Postres de productos lácteos; Platos preparados a base de carne, pescado o verduras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Valmissalatid; Piimatooted; Piimatoodetest valmistatud magustoidud; Liha, kala või köögiviljade baasil valmistatud toidud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Valmiit salaatit; Maitotuotteet; Maitotuotteista tehdyt jälkiruoat; Valmiit liha, kala ja kasvisateriat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Salades préparées; Produits laitiers; Desserts à base de produits laitiers; Plats préparés à base de viande, de poisson ou de légumes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Gotove salate; Mliječni proizvodi; Deserti od mliječnih proizvoda; Gotova jela od mesa, ribe ili povrća.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kész saláták; Tejtermékek; Tejtermékekből készült desszertek; Hús-, hal- vagy zöldség alapú készételek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Insalate pronte; Prodotti lattieri; Dessert a base di latticini; Piatti pronti a base di carne, pesce o verdure.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Paruoštos salotos; Pieno produktai; Pieno produktų desertai; Patiekalai iš mėsos, žuvies ir daržovių.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Gatavi salāti; Piena produkti; Deserti, kas pagatavoti no piena produktiem; Ēdieni no gaļas, zivīm vai dārzeņiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Insalati lesti; Prodotti tal-ħalib; Deżerti magħmulin minn prodotti tal-ħalib; Platti ppreparati bbażati fuq laħam, ħut jew ħxejjex.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bereide salades; zuivelproducten; desserts gemaakt van zuivelproducten; kant-en-klare maaltijden op basis van vlees, vis of groenten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Sałatki gotowe; Mleczne produkty; Desery wykonane z produktów mlecznych; Dania gotowe na bazie mięsa, ryb lub warzyw.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Saladas preparadas; Produtos lácteos; Sobremesas elaboradas a partir de produtos lácteos; Pratos preparados à base de carne, peixe ou legumes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Salate preparate; Lactate (Produse -); Deserturi preparate din produse lactate; Feluri de mâncare preparate pe bază de carne, de peşte sau de legume.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Hotové šaláty; Mliečne výrobky; Zákusky z mliečnych výrobkov; Hotové jedlá na báze mäsa, rýb alebo zeleniny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pripravljene solate; Mlečni proizvodi; Sladice iz mlečnih izdelkov; Pripravljene jedi na osnovi mesa, rib ali zelenjave.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Färdiga sallader; Mjölkprodukter; Efterrätter tillverkade av mjölkprodukter; Färdiglagade kött-, fisk- och grönsaksrätter.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бързи храни и солени снаксове на базата на зърна; Бързи храни и солени снаксове на базата на царевица, бързи храни и солени снаксове на базата на ориз; Бързи храни и солени снаксове на базата на брашно; Сандвичи; Приготвени ястия на зърнена основа; Приготвени ястия на базата на царевица; Готови ястия на основата на ориз; Приготвени ястия на базата на брашно; Готови ястия на основата на тестени варива; Смес за сладкиши; Сладоледи за консумация; Сладоледени продукти на базата на млечни продукти; Сладоледови продукти на основата на соя; Десерти; Готови ястия, състоящи се главно от зърнени храни, готови ястия, състоящи се главно от царевица; Готови ястия, съдържащи [предимно] ориз; Готови ястия, състоящи се основно от брашно; Готови ястия съдържащи основно макаронени изделия.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Hotová jídla a pikantní svačinky na základě obilovin; Hotová jídla a pikantní svačinky na základě kukuřice, hotová jídla a pikantní svačinky na základě rýže; Hotová jídla a pikantní svačinky na základě mouky; Sendviče; Hotová jídla na základě obilovin; Hotová jídla na základě kukuřice; Hotová jídla na bázi rýže; Hotová jídla na základě mouky; Hotová jídla na bázi těstovin; Cukrářské výrobky; Zmrzlina; Výrobky z ledu na základě mléčných výrobků; Výrobky ze zmrzliny na bázi sóji; Dezerty; Hotová jídla převážně složená z obilovin, hotová jídla na základě kukuřice; Hotová jídla obsahující převážně rýži; Hotová jídla sestávající se převážně z mouky; Hotová jídla obsahující převážně těstoviny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Færdigretter og krydrede snacks fremstillet på basis af korn; Færdigretter og krydrede snacks fremstillet på basis af majs, færdigretter og krydrede snacks på basis af ris; Færdigretter og krydrede snacks fremstillet på basis af mel; Sandwiches; Tilberedte måltider på basis af korn; Tilberedte måltider på basis af majs; Færdigretter fremstillet på basis af ris; Tilberedte måltider på basis af mel; Pastabaserede færdigretter; Konditorkager; Spiseis; Konsumisprodukter på basis af mejeriprodukter; Sojabaserede iscremeprodukter; Desserter; Færdigretter hovedsageligt indeholdende korn, færdigretter hovedsageligt bestående af majs; Færdigretter hovedsageligt indeholdende ris; Færdigretter hovedsageligt bestående af mel; Færdigretter indeholdende [hovedsageligt] pasta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Fertigspeisen und pikante Snacks auf Getreidebasis; Fertigspeisen und pikante Snacks auf Maisbasis, Fertigspeisen und pikante Snacks auf Reisbasis; Fertigspeisen und pikante Snacks auf Basis von Mehl; Sandwiches; Fertiggerichte auf Getreidebasis; Fertiggerichte auf Maisbasis; Fertiggerichte auf Reisbasis; Fertiggerichte auf Basis von Mehl; Zubereitete Mahlzeiten aus Teigwaren; Feine Backwaren; Speiseeis; Speiseeisprodukte auf Basis von Milchprodukten; Eiscremeerzeugnisse auf Sojabasis; Desserts; Fertiggerichte überwiegend aus Getreide, Fertiggerichte überwiegend aus Mais; Vorwiegend aus Reis bestehende Fertiggerichte; Fertiggerichte, vorwiegend aus Mehl; Fertiggerichte, die vorwiegend Teigwaren enthalten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Έτοιμα προϊόντα διατροφής και αλμυρά σνακ με βάση τα δημητριακά· Έτοιμα προϊόντα διατροφής και αλμυρά σνακ με βάση το καλαμπόκι, έτοιμα προϊόντα διατροφής και αλμυρά σνακ με βάση το ρύζι· Έτοιμα προϊόντα διατροφής και αλμυρά σνακ με βάση το αλεύρι· Σάντουιτς· Παρασκευασμένα γεύματα με βάση τα δημητριακά· Παρασκευασμένα γεύματα με βάση το καλαμπόκι· Έτοιμα γεύματα με βάση το ρύζι· Παρασκευασμένα γεύματα με βάση το αλεύρι· Έτοιμα γεύματα με βάση τα ζυμαρικά· Γλυκά· Παγωτά και κρέμα παγωτό· Προϊόντα παγωτού με βάση ορό γάλακτος· Προϊόντα παγωτού με βάση τη σόγια· Επιδόρπια· Έτοιμα γεύματα αποτελούμενα κυρίως από δημητριακά, έτοιμα γεύματα αποτελούμενα κυρίως από καλαμπόκι· Έτοιμα γεύματα που περιέχουν (κυρίως) ρύζι· Έτοιμα γεύματα αποτελούμενα κυρίως από αλεύρι· Έτοιμα γεύματα που περιέχουν ως κύριο συστατικό τα ζυμαρικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Convenience food and cereal-based savoury snacks; Convenience food and corn-based savoury snacks, convenience food and rice-based savoury snacks; Convenience food and flour-based savoury snacks; Sandwiches; Cereal-based prepared meals; Corn-based prepared meals; Rice-based prepared meals; Flour-based prepared meals; Pasta-based prepared meals; Pastries; Edible ices; Dairy-based ice cream products; Soya based ice cream products; Desserts; Prepared meals consisting primarily of cereal, prepared meals consisting primarily of corn; Prepared meals containing [principally] rice; prepared meals consisting principally of flour; Prepared meals containing [principally] pasta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Comidas preparadas y aperitivos salados a base de cereales; Comidas preparadas y aperitivos salados a base de maíz, comidas preparadas y aperitivos salados a base de arroz; Comidas preparadas y aperitivos salados a base de harina; Sándwiches; Comidas preparadas a base de cereales; Comidas preparadas a base de maíz; Comidas preparadas a base de arroz; Comidas preparadas a base de harina; Comidas preparadas a base de pastas; Productos de pastelería; Helados; Productos de consumo a base de lácteos; Productos de helado con una base de soja; Postres; Comidas precocinadas compuestas principalmente de cereales, comidas precocinadas compuestas principalmente de maíz; Platos preparados que contienen [principalmente] arroz; Comidas preparadas a base principalmente de harina; Comidas preparadas que contienen principalmente pasta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Teraviljapõhised valmistoidud ja soolased suupisted; Maisipõhised valmistoidud ja soolased suupisted, riisist valmistatud valmistoidud ja soolased suupisted; Jahust valmistoidud ja soolased suupisted; Võileivad; Teraviljapõhised valmistoidud; Maisipõhised valmistoidud; Riisipõhised valmistoidud; Jahust valmistoidud; Makarontoodete põhised valmistoidud; Kondiitritooted; Jäätised; Piimajäätisetooted; Sojast valmistatud jäätisetooted; Magustoidud; Peamiselt teraviljapõhised valmistoidud, peamiselt maisipõhised valmistoidud; Peamiselt riisist tehtud valmistoidud; Peamiselt jahust koosnevad valmisroad; Peamiselt makarontoodetest tehtud valmistoidud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Viljapohjaiset einekset ja suolaiset välipalat; Maissipohjaiset einekset ja suolaiset välipalat, riisipohjaiset einekset ja suolaiset välipalat; Jauhopohjaiset einekset ja suolaiset välipalat; Voileivät; Viljapohjaiset valmisateriat; Maissipohjaiset valmisateriat; Riisipohjaiset valmisateriat; Jauhopohjaiset valmisateriat; Pastapohjaiset valmisateriat; Voitaikina; Jäätelöt; Maitopohjaiset jäätelötuotteet; Soijapohjaiset jäätelötuotteet; Jälkiruoat; Pääosin viljasta koostuvat valmisateriat, pääosin maissista koostuvat valmisateriat; Riisiä [pääosin] sisältävät valmisateriat; Pääasiassa jauhoista valmistetut valmisateriat; Pääosin pastaa sisältävät valmisateriat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Plats cuisinés et en-cas salés à base de céréales; Plats cuisinés et en-cas salés à base de maïs, plats cuisinés et en-cas salés à base de riz; Plats cuisinés et en-cas salés à base de farine; Sandwiches; Plats préparés à base de céréales; Plats préparés à base de maïs; Repas préparés à base de riz; Plats préparés à base de farine; Repas préparés à base de pâtes alimentaires; Pâtisserie; Glaces alimentaires; Produits de crème glacée à base de produits laitiers; Produits de crème glacée à base de soja; Desserts; Plats cuisinés composés principalement de céréales, plats cuisinés composés principalement de maïs; Plats préparés composés principalement de riz; Plats préparés essentiellement à base de farine; Plats préparés principalement à base de pâtes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Gotova hrana i slane grickalice na bazi žitarica; Gotova hrana i slane grickalice na bazi kukuruza, gotova hrana i slane grickalice na bazi riže; Gotova hrana i slane grickalice na bazi brašna; Sendviči; Pripremljeni obroci na bazi žitarica; Pripremljeni obroci na bazi kukuruza; Gotova jela s rižom; Pripremljeni obroci na bazi brašna; Gotova jela s tjesteninom; Tijesto za kolače; Sladoledi i mliječni sladoledi; Potrošački proizvodi na bazi mlijeka; Sladoledi na bazi soje; Deserti; Gotova jela koja se uglavnom sastoje od žitarica, gotova jela koja se uglavnom sastoje od kukuruza; Gotovi obroci koji sadrže [uglavnom] rižu; Gotova jela koja se prvenstveno sastoje od brašna; Gotovi obroci koji sadrže [uglavnom] tjesteninu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gabona alapú gyorsételek és fűszeres snackek; Kukorica alapú gyorsételek és fűszeres rágcsálnivalók, rizs alapú gyorsételek és fűszeres rágcsálnivalók; Liszt alapú gyorsételek és fűszeres rágcsálnivalók; Szendvicsek; Gabona alapú készételek; Kukorica alapú készételek; Rizsalapú előkészített ételek; Liszt alapú készételek; Tésztaalapú előkészített ételek; Süteménytészta; Fagylaltok és jégkrémek; Tejszín alapú fagylalttermékek; Szója alapú fagylaltok; Desszertek; Főként gabonából álló készételek, főként kukoricából álló készételek; Főként rizst tartalmazó készételek; Főként lisztet tartalmazó készételek; Főként tésztát tartalmazó készételek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Alimenti d'ampio consumo e spuntini salati a base di cereali; Alimenti d'ampio consumo e spuntini salati a base di granturco, alimenti d'ampio consumo e spuntini salati a base di riso; Alimenti d'ampio consumo e spuntini salati a base di farine alimentari; Sandwiches; Piatti pronti a base di cereali; Piatti pronti a base di granturco; Pasti preparati a base di riso; Piatti pronti a base di farine alimentari; Pasti preparati a base di pasta; Pasticcini; Gelati commestibili; Gelati a base di latte; Gelati a base di soia; Dessert; Piatti pronti composti principalmente da cereali, piatti pronti composti principalmente da granturco; Piatti pronti costituiti principalmente da riso; Piatti pronti principalmente a base di farina; Piatti pronti principalmente a base di pasta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Paruošti maisto produktai ir pikantiški užkandžiai iš grūdų; Paruoštas maistas ir pikantiški užkandžiai iš kukurūzų, paruošti maisto produktai ir pikantiški užkandžiai iš ryžių; Paruoštas maistas ir pikantiški užkandžiai iš miltų; Sumuštiniai; Paruošti patiekalai iš grūdų; Paruošti patiekalai iš kukurūzų; Paruošti patiekalai ryžių pagrindu; Paruošti patiekalai iš miltų; Paruošti patiekalai makaronų pagrindu; Miltiniai konditerijos gaminiai; Valgomieji ledai; Vartotojų produktai pieno produktų pagrindu; Ledų gaminiai iš sojų; Desertai; Paruošti valgiai, daugiausia sudaryti iš grūdų, paruošti valgiai, daugiausia sudaryti iš kukurūzų; Paruošti valgiai ryžių pagrindu; Paruošti valgiai, daugiausiai iš miltų; Paruošti valgiai makaronų pagrindu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ēdieni un sāļas uzkodas no graudaugiem; Ēdieni un pikantas uzkodas, kuru pamatā ir kukurūza, ēdieni un pikantas uzkodas, kuru pamatā ir rīsi; Ēdieni un pikantas uzkodas, kuru pamatā ir milti; Sviestmaizes; Gatavas graudaugu maltītes; Gatavi ēdieni uz kukurūzas bāzes; No rīsiem pagatavoti ēdieni; Gatavi ēdieni uz miltu bāzes; No makaroniem pagatavoti ēdieni; Maizes izstrādājumi; Saldēti deserti; Piena saldējuma produkti; No sojas gatavoti saldējuma produkti; Deserta ēdieni; Gatavi ēdieni, kas galvenokārt sastāv no graudaugiem, gatavi ēdieni, kas galvenokārt sastāv no kukurūzas; Gatavi ēdieni, kas galvenokārt satur rīsus; Gatavās maltītes, kas galvenokārt sastāv no miltiem; Gatavi ēdieni, kas galvenokārt satur makaronus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ikel lest u snekks melħin fuq bażi ta' ċereali; Ikel lest u snekks melħin fuq bażi ta' qamħirrun, ikel lest u snekks melħin fuq bażi ta' ross; Ikel lest u snekks melħin fuq bażi ta' dqiq; Sandwiċis; Ikliet ippreparati fuq bażi ta' ċereali; Ikliet ippreparati fuq bażi ta' qamħirrun; Ikliet lesti bbażati fuq ir-ross; Ikliet ippreparati fuq bażi ta' dqiq; Ikliet lesti bbażati fuq l-għaġin; Għaġina tal-kejk; Silġ li jittiekel; Prodotti ta' ġelati fuq bażi ta' prodotti tal-ħalib; Prodotti tal-ġelat ibbażati fuq is-sojja; Deżerti; Ikliet lesti li jikkonsistu primarjament minn ċereali, ikliet ippreparati li jikkonsistu primarjament minn qamħirrun; Ikliet ippreparati li fihom [prinċipalment] ross; Ikliet lesti li jikkonsistu prinċipalment mid-dqiq; Ikliet imħejjija li fihom [prinċipalment] għaġin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Gemaksvoedsel en hartige snacks op basis van granen; gemaksvoedsel en hartige snacks op basis van maïs, gemaksvoedsel en hartige snacks op basis van rijst; gemaksvoedsel en hartige snacks op basis van meel; belegde broodjes; bereide maaltijden op basis van granen; bereide maaltijden op basis van maïs; bereide maaltijden op basis van rijst; bereide maaltijden op basis van meel; bereide maaltijden op basis van pasta; banketbakkerswaren; consumptie-ijs; consumptieijsproducten op basis van zuivel; consumptieijsproducten op basis van soja; desserts; kant-enklare maaltijden voornamelijk bestaande uit granen, kant-en-klare maaltijden voornamelijk bestaande uit maïs; kant-en-klare maaltijden voornamelijk bestaande uit rijst; kant-en-klare maaltijden voornamelijk bestaande uit meel; kant-en-klare maaltijden voornamelijk bestaande uit pasta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Żywność preparowana i pikantne przekąski na bazie zbóż; Żywność preparowana i pikantne przekąski na bazie kukurydzy, żywność preparowana i pikantne przekąski na bazie ryżu; Żywność preparowana i pikantne przekąski na bazie mąki; Kanapki; Gotowe posiłki na bazie zbóż; Gotowe posiłki na bazie kukurydzy; Gotowe potrawy na bazie ryżu; Gotowe posiłki na bazie mąki; Potrawy gotowe na bazie makaronu; Ciastka; Lody; Lody spożywcze na bazie produktów mlecznych; Produkty lodowe na bazie soi; Desery; Gotowe posiłki składające się głównie ze zbóż, gotowe posiłki składające się głównie z kukurydzy; Gotowe potrawy zawierające [głównie] ryż; Gotowe posiłki składające się głównie z mąki; Gotowe potrawy zawierające [głównie] makaron.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Alimentos de conveniência e aperitivos salgados à base de cereais; Alimentos de conveniência e aperitivos salgados à base de milho, alimentos de conveniência e aperitivos salgados à base de arroz; Alimentos de conveniência e aperitivos salgados à base de farinha; Sanduiches; Refeições preparadas à base de cereais; Refeições preparadas à base de milho; Refeições preparadas à base de arroz; Refeições preparadas à base de farinha; Refeições preparadas à base de massas; Produtos de pastelaria; Gelados alimentares; Produtos de gelados comestíveis à base de lacticínios; Gelados à base de soja; Sobremesas; Refeições preparadas constituídas principalmente por cereais, refeições preparadas constituídas principalmente por milho; Refeições preparadas contendo principalmente arroz; Refeições preparadas constituídas principalmente por farinha; Refeições preparadas contendo principalmente massa alimentar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Alimente semipreparate și snack-uri sărate pe bază de cereale; Alimente semipreparate și gustări sărate pe bază de porumb, alimente semipreparate și gustări sărate pe bază de orez; Alimente semipreparate și gustări sărate pe bază de făină; Sandvișuri; Produse alimentare preparate pe bază de cereale; Produse alimentare preparate pe bază de porumb; Mâncăruri preparate pe bază de orez; Produse alimentare preparate pe bază de făină; Mâncăruri preparate pe bază de paste; Torturi; Înghețată; Produse din înghețată pe bază de lactate; Produse de înghețată pe bază de soia; Deserturi; Produse alimentare preparate care conțin în principal cereale, produse alimentare preparate care conțin în principal porumb; Mâncăruri preparate care conțin [în principal] orez; Alimente preparate care conţin în principal făină; Mâncăruri preparate în special pe bază de paste.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Hotové jedlá a pochutiny na báze obilia; Hotové jedlá a pochutiny na báze kukurice, hotových jedál a ryžových pochutín; Hotové jedlá a pochutiny na báze múky; Sendviče; Hotové jedlá na báze obilnín; Hotové jedlá na báze kukurice; Hotové jedlá z ryže; Hotové jedlá na báze múky; Cestovinové hotové jedlá; Jemné pečivárske výrobky; Zmrzliny; Konzumné produkty na báze mlieka; Zmrzlinové výrobky na báze sóji; Dezerty; Hotové jedlá zložené predovšetkým z obilnín, hotové jedlá zložené predovšetkým z kukurice; Hotové jedlá obsahujúce [predovšetkým] ryžu; Hotové jedlá obsahujúce predovšetkým múku; Hotové jedlá obsahujúce [predovšetkým] cestoviny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pripravljena hrana in začinjeni prigrizki na osnovi žita; Pripravljena hrana in začinjeni prigrizki na osnovi koruze, pripravljena hrana in začinjeni prigrizki na osnovi riža; Pripravljena hrana in začinjeni prigrizki na osnovi moke; Sendviči; Pripravljene jedi na osnovi žita; Pripravljene jedi na osnovi koruze; Jedi na osnovi riža, pripravljene na uživanje; Pripravljene jedi na osnovi moke; Pripravljeni obroki na osnovi testenin; Testo za torte; Sladoled in mlečni sladoled; Sladoledi na osnovi mleka; Sladoledni proizvodi za osnovi soje; Deserti; Pripravljeni obroki, sestavljeni predvsem iz žit, pripravljeni obroki, sestavljeni predvsem iz koruze; Pripravljene jedi, ki vsebujejo pretežno riž; Pripravljene jedi, sestavljene predvsem moke; Gotove jedi, pretežno iz testenin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Snabbmat och spannmålsbaserade kryddade snacks; Snabbmat och majsbaserade kryddade snacks, snabbmat och risbaserade kryddad snacks; Snabbmat och mjölbaserade kryddade snacks; Smörgåsar; Tillagade måltider baserade på spannmål; Tillagade måltider baserade på majs; Risbaserade tillagade måltider; Tillagade måltider baserade på mjöl; Pastabaserade tillagade måltider; Bakverk; Glassvaror; Glassprodukter baserade på mejerivaror; Sojabaserade glassprodukter; Efterrätter; Färdiglagade måltider i huvudsak bestående av spannmål, färdiglagade måltider i huvudsak bestående av majs; Tillagade måltider bestående huvudsakligen av ris; Tillagade måltider, huvudsakligen bestående av mjöl; Tillagade måltider bestående i huvudsak av pasta.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>43</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Приготвяне на ястия; Предоставяне на хранителни стоки по договаряне; Консултиране относно храненето; Услуги в областта на приготвянето на храни, включително събиране на нови рецепти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Příprava jídel; Smluvní gastronomické služby; Poradenství týkající se potravin; Služby v oblasti přípravy pokrmů, včetně sestavování nových receptů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tilberedning af måltider; Tjenesteydelser vedrørende mad på kontrakt; Rådgivning vedrørende næringsmidler; Tjenesteydelser inden for tilberedning af mad, inklusive udarbejdelse af nye opskrifte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Zubereitung von Mahlzeiten; Vertraglich geregelte Versorgung mit Nahrungsmitteln; Beratung in Bezug auf Nahrungsmittel; Dienstleistungen im Bereich der Zubereitung von Speisen einschließlich Zusammenstellung von neuen Rezepten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παρασκευή γευμάτων· Υπηρεσίες παροχής διατροφής με σύμβαση· Παροχή συμβουλών σε θέματα τροφίμων· Υπηρεσίες στον τομέα της παρασκευής τροφίμων, συμπεριλαμβανομένης της σύνθεσης νέων συνταγών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Preparation of meals; Contract food services; Food consultation; Food preparation, including the compilation of new recipes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Preparación de comidas; Servicios de comida por contrato; Asesoramiento en materia de alimentación; Servicios en el ámbito de la preparación de alimentos, incluyendo la elaboración de nuevas recetas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Einete valmistamine; Lepingulised toitlustusteenused; Toiduga seotud nõustamine; Teenused toitude valmistamise valdkonnas, sh uute retseptide koostamise.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Aterioiden valmistus; Sopimusruokailupalvelut; Ravintoon liittyvä neuvonta; Ravinnon valmistamiseen liittyvät palvelut, mukaan lukien uusien reseptien koostamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Préparation de repas; Service de restauration (alimentation); Conseils en matière d'alimentation; Services dans le domaine de la préparation d'aliments, y compris la composition de nouvelles recette.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Priprema obroka; Usluge pripreme hrane po ugovoru; Savjetovanje u vezi s hranom; Usluge u području pripreme hrane, uključujući prikupljanje novih recepat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ételkészítés; Ételkészítés megrendelésre; Táplálkozási tanácsadás; Szolgáltatások ételek készítése terén, azon belül új receptek összeállítás.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Preparazione di alimenti; Servizi alimentari a contratto; Consulenza in materia di alimenti; Servizi nel settore della preparazione d'alimenti, compresa creazione di ricett.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Valgio ruošimas; Maisto parūpinimas pagal sutartis; Konsultacijos apie maistą; Paslaugos maisto ruošimo srityje, įskaitant naujų receptūrų kūrimą.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ēdienu gatavošanas pakalpojumi; Pārtikas nodrošināšana uz līguma pamata; Ieteikumu sniegšana saistībā ar pārtiku; Pakalpojumi saistībā ar ēdienu pagatavošanu, tostarp jaunu recepšu sagatavošana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Il-preparazzjoni ta' ikliet; Servizzi ta' ikel b'kuntratt; Parir relatat man-nutriment; Servizzi fil-qasam tat-tħejjija ta' ikel, inkluża l-kumpilazzjoni ta' riċetti ġodda.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Het bereiden van maaltijden; bereiden van maaltijden op contract basis; advisering inzake voedsel; diensten op het gebied van de bereiding van voedsel, waaronder het samenstellen van nieuwe recepturen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Przygotowywanie posiłków; Kontraktowe usługi w zakresie żywności; Doradztwo w zakresie pożywienia; Usługi w zakresie przygotowywania żywności, w tym układanie nowych przepisów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Preparação de refeições; Serviços de fornecimento de alimentação por contrato; Aconselhamento em matéria de alimentos; Serviços no âmbito da preparação de alimentos, incluindo composição de novas receitas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Preparare de mâncăruri; Servicii contractuale de alimentație; Consiliere privind alimentatia; Servicii în domeniul preparării alimentelor, inclusiv alcătuirea de reţete noi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Príprava jedál; Stravovacie služby na základe zmluvy; Poradenstvo súvisiace s potravinami; Služby v oblasti prípravy jedál vrátane služieb pri zostavovaní nových receptúr.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Priprava obrokov; Storitve hrane po dogovoru; Svetovanje glede prehrane; Storitve na področju priprave hrane, vključno s sestavljanjem novih receptov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Beredning av måltider; Kontraktbaserad matutskänkningsverksamhet; Konsulttjänster avseende livsmedel; Tjänster inom området tillagning av matvaror, däribland sammanställning av nya recep.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/133</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-07-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>884868</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>43640</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003132009</OppositionIdentifier>
+<OppositionDate>2020-10-02</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>006887848</ApplicationNumber>
+<ApplicationDate>2008-05-05</ApplicationDate>
+<RegistrationNumber>006887848</RegistrationNumber>
+<RegistrationDate>2009-01-29</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>B</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>DE</EarlierMarkCountryCode>
+<ApplicationNumber>3020180161827</ApplicationNumber>
+<ApplicationDate>2018-06-26</ApplicationDate>
+<RegistrationNumber>302018016182</RegistrationNumber>
+<RegistrationDate>2018-11-23</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>B</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>94</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10128</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

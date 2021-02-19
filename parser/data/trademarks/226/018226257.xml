@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-31T07:57:37</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226257</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226257</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="6">Application under examination</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-04-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>idealcam</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162303712</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226257/000162303712.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Навигационни инструменти; Радарни апарати; Апарати за глобално позициониращи системи [GPS]; Видеокамери; Видеомагнетофони; Автоматични индикатори за ниско налягане в автомобилни гуми; Видеоекрани; Аларми; Галванични елементи; Брави, електрически; Детектори; Таблетен компютър; Бебефони; Радио; DVD плейъри; Алармени системи.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Navigační přístroje; Radary; Navigační zařízení Globálního polohového systému (GPS); Videokamery; Videorekordéry; Automatické indikátory nízkého tlaku v pneumatikách vozidel; Obrazovky; Alarmy; Elektrické baterie; Elektrické zámky; Detektory; Tablety (počítače); Chůvičky; Rádia; DVD přehrávače; Poplašné systémy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Navigationsinstrumenter; Radarapparater; Global Positioning System [GPS] apparater; Camcordere; Videobåndoptagere; Automatiske indikatorer til angivelse af lavt tryk i dæk til køretøjer; Videoskærme; Alarmapparater; Batterier, elektriske; Låse, elektriske; Detektorer; Tablet-computere; Babyalarmer; Radioapparater; DVD afspillere; Alarmsystemer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Navigationsinstrumente; Radargeräte; GPS-Geräte; Videokameras; Videorecorder; Automatische Druckverlustanzeiger für Fahrzeugreifen; Videobildschirme; Alarmgeräte; Elektrische Batterien; Elektrische Schlösser; Detektoren; Tablet-Computer; Babyüberwachungsgeräte; Radios; DVD-Spieler, DVD-Player; Alarmsysteme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ναυσιπλοία (όργανα -ας)· Ραντάρ· Συσκευές παγκόσμιου συστήματος προσδιορισμού θέσης [GPS]· Κάμερες βίντεο· Μαγνητοσκόπια· Μηχανισμοί αυτόματης ένδειξης απώλειας στην πίεση των ελαστικών· Οθόνες βίντεο· Συναγερμού (Όργανα -)· Ηλεκτρικές μπαταρίες· Κλειδαριές ηλεκτρικές· Ανιχνευτές· Φορητοί υπολογιστές (Tablet)· Μέσα παρακολούθησης βρεφών· Συσκευές ραδιοφωνικές· Συσκευές αναπαραγωγής ψηφιακών βιντεοδίσκων· Συστήματα συναγερμού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Navigational instruments; Radar apparatus; Global Positioning System [GPS] apparatus; Camcorders; Video recorders; Automatic indicators of low pressure in vehicle tires; Video screens; Alarms; Batteries, electric; Locks, electric; Detectors; Tablet computers; Baby monitors; Radios; DVD players; Alarm systems.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Instrumentos de navegación; Radares; Aparatos para sistemas mundiales de determinación de la posición [GPS]; Cámaras de vídeo; Grabadoras de vídeo; Indicadores automáticos de pérdida de presión de los neumáticos; Pantallas de vídeo; Instrumentos de alarma; Pilas eléctricas; Cerraduras eléctricas; Detectores; Tabletas electrónicas; Dispositivos de audio y vídeo para la vigilancia de bebés; Aparatos de radio; Lectores de DVD; Sistemas de alarma.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Navigatsiooniriistad; Radarid, raadiolokaatorid; Globaalse positsioneerimise seadmed, GPS-seadmed; Taasestavad videokaamerad; Videomagnetofonid; Sõidukite rehvirõhu automaatindikaatorid; Videoekraanid; Häireseadmed, alarmid, alarmiseadmed; Elektripatareid; Elektrilukud; Detektorid; Tahvelarvutid; Beebimonitorid; Raadiod; DVD-mängijad; Häiresüsteemid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Navigointikojeet; Tutkalaitteet; GPS-laitteet; Videokamerat; Videonauhurit; Ajoneuvojen rengaspaineen ilmaisimet, automaattiset; Videokuvaruudut; Hälyttimet; Sähköparistot; Lukot (Sähkö -); Ilmaisimet; Tablettitietokoneet; Vauvamonitorit; Radiot; DVD-soittimet; Hälytysjärjestelmät.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Instruments pour la navigation; Radars; Appareils pour GPS [systèmes de repérage universel]; Caméras vidéo; Magnétoscopes; Avertisseurs automatiques de perte de pression dans les pneumatiques; Écrans vidéo; Instruments d'alarme; Piles électriques; Serrures électriques; Détecteurs; Tablettes électroniques; Dispositifs audio et vidéo pour la surveillance de bébés; Appareils de radio; Lecteurs DVD; Instruments d'alarme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Navigacijski instrumenti; Radarski aparati; Uređaji za globalno pozicioniranje [GPS]; Videokamere; Magnetoskopi; Automatski dojavljivači gubitka tlaka u zračnicama; Videoekrani; Alarmi; Električne baterije; Električne brave; Detektori; Tablet računalo; Monitori za bebe; Radioaparati; DVD plejeri; Alarmni sustavi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Navigációs eszközök; Radarkészülékek; GPS készülékek; Videokamerák; Videomagnók, képmagnók; Gumiabroncsokban levő nyomás csökkenését automatikusan jelző készülékek; Videoképernyők; Riasztók; Elektromos elemek, akkumulátorok; Elektromos zárak; Detektorok; Táblagépek; Bébiőrök; Rádiókészülékek; DVD-lejátszók; Riasztórendszerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Strumenti per la navigazione; Apparecchi radar; Apparecchi GPS [Sistema di Posizionamento Globale]; Videocamere; Magnetoscopi; Avvisatori automatici di caduta di pressione nei pneumatici; Videoschermi; Strumenti d'allarme; Batterie elettriche; Serrature elettriche; Rivelatori; Tablet; Dispositivi audio e video per la sorveglianza dei neonati; Apparecchi radio; Lettori dvd; Sistemi d'allarme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Navigacijos prietaisai; Radarai [radiolokatoriai]; Globalinės padėties nustatymo sistemos [GPS] aparatai; Videokameros; Vaizdo magnetofonai; Automobilių padangų automatiniai mažo slėgio indikatoriai; Vaizdo ekranai; Aliarmo įrenginiai; Elektrinės baterijos; Elektrinės spynos; Detektoriai; Planšetiniai kompiuteriai; Prietaisai kūdikiams stebėti; Radijo aparatai; DVD grotuvai; Aliarmo sistemos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Navigācijas instrumenti; Radara ierīces; Globālās pozicionēšanas sistēmas (GPS) iekārtas; Videokameras; Videomagnetofoni; Transportlīdzekļu riepu spiediena zuduma automātiskie indikatori; Videoekrāni; Trauksmes signālierīces; Elektrisko akumulatoru baterijas; Elektriskās slēdzenes; Detektori; Planšetdatori; Elektroniskas ierīces zīdaiņu uzraudzībai; Radioaparāti; Ciparvideodisku (DVD) atskaņotāji; Signalizācijas sistēmas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Strumenti għan-navigazzjoni; Apparat tar-radar; Apparat ta' Sistema ta' Pożizzjonar Globali [GPS]; Kamera tal-vidjos; Reġistraturi tal-vidjo; Vetturi (Indikaturi awtomatiċi ta' pressjoni baxxa f'tajers ta' -); Skrins tal-vidjo; Allarmi; Batteriji tal-elettriku; Serraturi elettriċi; Ditekters; Kompjuter f'forma ta' tablets; Moniters tat-trabi; Radjijiet; Plejers (DVD); Sistemi ta' allarm.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Navigatie-instrumenten; Radars; GPS-systemen; Camcorders; Videorecorders; Automatische waarschuwingsinrichtingen voor het aangeven van drukverlies in autobanden; Videoschermen; Alarmtoestellen; Elektrische batterijen; Elektrische sloten; Detectors; Elektronische tablets; Babyfoons; Radio's; Dvd-spelers; Alarmsystemen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Przyrządy nawigacyjne; Radary; Urządzenia systemu GPS; Kamery wideo; Magnetowidy; Automatyczne sygnalizatory niskiego ciśnienia w oponach pojazdów; Ekrany wideo; Alarmy; Baterie elektryczne; Zamki elektryczne; Wykrywacze [detektory]; Tablety; Urządzenia do monitorowania niemowląt; Radia [odbiorniki radiowe]; Odtwarzacze płyt DVD; Systemy alarmowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Instrumentos de navegação; Radares; Dispositivos para sistemas GPS; Câmaras de vídeo; Gravadores de vídeo; Indicadores automáticos de perda de pressão nos pneus; Ecrãs de vídeo; Alarmes; Baterias elétricas; Fechaduras elétricas; Detetores; Computadores em forma de tablet; Dispositivos para vigilância de bebés; Aparelhos de rádio; Leitores de dvd; Sistemas de alarme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Instrumente de navigație; Radare; Aparate de sistem de poziționare globală [GPS]; Camere video portabile; Magnetoscoape; Avertizoare automate de pierdere a presiunii in instalațiile pneumatice; Ecrane video; Alarmă (Dispozitive de -); Baterii galvanice; Încuietori electrice; Detectoare; Tablete; Dispozitive de monitorizare a bebelușilor; Radiouri; DVD playere; Sisteme de alarmă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Navigačné nástroje; Radary; Zariadenia globálneho polohového systému (GPS); Videokamery; Videorekordéry; Automatické hlásiče nízkeho tlaku v automobilových pneumatikách; Video displeje; Alarmy; Elektrické batérie (články); Elektrické zámky; Detektory; Tablety (prenosné počítače); Audiovizuálne prístroje na monitorovanie bábätiek; Rádiá; DVD prehrávače; Poplašné systémy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Navigacijski instrumenti; Radarji; GPS aparati [Sistemi za globalno pozicioniranje]; Video kamere (kamkorderji); Videorekorderji; Avtomatični kazalniki nizkega pritiska v pnevmatikah; Video zasloni; Alarmi; Električne baterije; Ključavnice, električne; Detektorji; Tablični računalnik; Otroške varuške; Radii; DVD predvajalniki; Alarmni sistemi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Navigationsinstrument; Radarapparater; Satellitnavigationssystemapparater [GPS]; Camcorders; Videoinspelare; Automatiska indikatorer för lågt tryck i fordonsdäck; Videoskärmar; Alarm; Batterier, elektriska; Elektriska lås; Detektorer; Portföljdator; Övervakningsapparater för spädbarn; Radioapparater; DVD spelare; Larmsystem.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080301</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>71845</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-29T08:55:52</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226506</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226506</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-10-27</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-10-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>St. Jerome</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>18</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Кожа и имитация на кожа; Необработени кожи; Куфари и пътни чанти; Чадъри и слънчобрани; Бастуни; Седларски принадлежности; Камшици, бичове; Хамути.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kůže a imitace kůže; Zvířecí kůže, usně; Kufry a cestovní tašky; Deštníky a slunečníky; Hole; Sedlářské výrobky; Biče; Postroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Læder og læderimitationer; Skind, huder; Kufferter og rejsetasker; Paraplyer og parasoller; Spadserestokke; Sadelmagervarer; Piske; Seletøj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Leder und Lederimitationen; Häute und Felle; Reise- und Handkoffer; Regenschirme und Sonnenschirme; Spazierstöcke; Sattlerwaren; Peitschen; Pferdegeschirre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Δέρμα και απομιμήσεις δέρματος· Δέρματα ζώων· Κιβώτια [μπαούλα] και βαλίτσες ταξιδίου· Ομπρέλες και ομπρέλες ηλίου· Ράβδοι περιπάτου· Είδη σελλοποιίας· Μαστίγια· Ζώνες ασφαλείας για ανάρτηση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Leather and imitations of leather; Animal skins, hides; Trunks and suitcases; Umbrellas and parasols; Walking sticks; Saddlery; Whips; Harnesses.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cuero e imitaciones de cuero; Pieles de animales; Baúles y maletas; Paraguas y sombrillas; Bastones; Artículos de guarnicionería; Fustas; Arneses.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Nahk ja kunstnahk; Loomanahad; Reisikohvrid; Päikese- ja vihmavarjud; Jalutuskepid; Sadulsepatooted; Piitsad, nuudid; Rakmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Nahat ja nahan jäljitelmät; Eläinten nahat, vuodat; Matka-arkut ja -laukut; Sateenvarjot ja päivänvarjot; Kävelykepit; Satulavarusteet; Piiskat; Valjaat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Cuir et imitations cuir; Peaux d'animaux; Malles et valises; Parapluies et parasols; Cannes; Articles de sellerie; Fouets; Harnais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Koža i umjetna koža; Životinjske kože; Kovčezi i putne torbe; Kišobrani i suncobrani; Štapovi za hodanje; Sedlarski proizvodi; Bičevi; Hamovi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Bőrök és műbőrök; Állatbőrök és irhák; Utazótáskák és bőröndök; Esernyők és napernyők; Sétapálcák; Lószerszámok; Korbácsok, ostorok; Hámok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pelle e finta pelle; Pelli di animali; Bauli e valigie; Ombrelli e ombrelloni; Bastoni da passeggio; Articoli da selleria; Fruste; Finimenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Oda ir dirbtinė oda; Gyvūnų odos, kailiai; Lagaminai, kelioniniai krepšiai; Skėčiai nuo lietaus ir saulės; Lazdos (kriukiai); Pakinktai; Botagai; Reikmenys gyvūnams rišti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Āda un ādas imitācijas; Dzīvnieku ādas; Ceļasomas un čemodāni; Lietussargi un saulessargi; Spieķi; Zirglietas; Pātagas; Iejūgi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ġilda u imitazzjoni tal-ġilda; Ġlud ta' l-annimali, ġlud ħoxnin; Bagolli [bagalji]; Umbrelel u parasoli; Bsaten; Oġġetti magħmulin minn sarraġ; Frosti; Arneż.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Leder en kunstleder; Dierenhuiden; Reiskoffers en koffers; Paraplu’s en parasols; Wandelstokken; Zadelmakerswaren; Zwepen; Tuigen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Skóra i imitacja skóry; Skóry zwierzęce, skóry surowe; Kufry i walizki; Parasole i parasolki; Laski, kijki marszowe i trekkingowe; Wyroby rymarskie; Baty, bicze; Uprzęże.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Couro e imitação de couro; Peles de animais; Malas e maletas de viagem; Guarda-chuvas e guarda-sóis; Bengalas; Artigos de selaria; Chicotes; Arneses.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Piele sau imitație de piele; Piei de animale; Cufere și geamantane; Umbrele și parasolare; Bastoane; Șelărie (Articole de -); Bice; Harnașamente.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Koža a imitácie kože; Kožušiny, surové kože; Cestovné kufre; Dáždniky a slnečníky; Vychádzkové palice; Sedlárske výrobky; Biče; Postroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Usnje in imitacije usnja; Živalske kože; Veliki potovalni kovčki in potovalne torbe; Dežniki in sončniki; Sprehajalne palice; Sedlarske potrebščine; Biči; Vprege.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Läder och läderimitationer; Djurhudar och pälsskinn; Koffertar och resväskor; Paraplyer och parasoller; Promenadkäppar; Sadelmakerivaror; Piskor; Seldon.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Облекло; Украшения за глава, шапки; Обувки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Oděvy; Pokrývky hlavy; Obuv.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beklædningsgenstande; Hovedbeklædning; Fodtøj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bekleidungsstücke; Kopfbedeckungen; Schuhwaren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ενδύματα· Είδη πιλοποιίας· Υποδήματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Clothing; Headgear; Footwear.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Prendas de vestir; Artículos de sombrerería; Calzado.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Rõivad; Peakatted; Jalatsid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vaatteet; Päähineet; Jalkineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vêtements; Chapellerie; Chaussures.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Odjeća; Pokrivala za glavu; Obuća.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ruházati cikkek; Kalapáruk; Lábbelik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Abbigliamento; Cappelleria; Calzature.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Drabužiai, apranga; Galvos apdangalai; Apavas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apģērbi; Galvassegas; Apavi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ilbies; Xedd ir-ras; Xedd is-saqajn.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kleding; Hoofddeksels; Schoeisel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odzież; Nakrycia głowy; Obuwie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vestuário; Chapelaria; Calçado.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Articole de îmbrăcăminte; Articole pentru acoperirea capului; Articole de încălțăminte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Odevy; Pokrývky hlavy; Obuv.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oblačila; Pokrivala; Obutev.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kläder; Huvudbonader; Fotbeklädnader.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>40</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Обработка на материали от кожа и текстил.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Opracování kožených výrobků a textilií.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Forarbejdning og behandling af lædervarer og tekstiler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Materialbearbeitung von Lederwaren und Textilien.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Επεξεργασία δερμάτινων ειδών και υφασμάτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Treatment of materials of leatherware and textiles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Tratamiento de materiales de productos de cuero y textiles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Nahakaupade ja tekstiilide materjalitöötlus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Nahkatavaroiden ja tekstiilien materiaalinkäsittely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Traitement de matériaux, à savoir de maroquinerie et de textiles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Obrada materijala kožnih proizvoda i tekstila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Bőráruk és textilek anyagmegmunkálása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Lavorazione di pelletteria e materie tessili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Odos ir tekstilės gaminių gamybos medžiagų apdirbimas ir apdorojimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ādas izstrādājmu un tekstila materiālu apstrāde.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ipproċessar materjali ta' prodotti tal-ġilda u tessuti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Materiaalbehandeling van lederwaren en textiel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Obróbka materiałów w zakresie wyrobów skórzanych i tekstyliów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Processamento de material de artigos de couro e têxteis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Tratament de produse din piele și materiale textile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Spracovanie materiálu kožených výrobkov a textílií.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Materialna obdelava usnjenih izdelkov in tekstila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Materialbearbetning av lädervaror och textilier.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Научни и технологични услуги; Технологични изследвания; Научни услуги и дизайн свързан с тях; Технологични услуги и дизайн свързани с тях; Промишлени аналитични и изследователски услуги; Проектиране и разработване на компютърен хардуер; Проектиране и разработване на компютърен софтуер.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vědecké a technologické služby; Technologický výzkum; Vědecké služby a s nimi spojený design; Technologické služby a s nimi spojený design; Průmyslové analýzy a výzkum; Navrhování a vývoj počítačového hardwaru; Design a vývoj softwaru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Videnskabelige og teknologiske tjenesteydelser; Teknologisk forskning; Videnskabelige tjenesteydelser og design relateret hertil; Teknologiske tjenesteydelser og design relateret hertil; Industriel analyse og forskning; Design og udvikling af computerhardware; Softwaredesign og -udvikling.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Wissenschaftliche und technologische Dienstleistungen; Technologische Forschung; Wissenschaftliche Dienstleistungen und das darauf bezogene Design; Technologische Dienstleistungen und darauf bezogenes Design; Industrielle Analyse- und For-schungsdienstleistungen; Entwurf und Entwicklung von Computerhardware; Computersoftwareentwurf und -entwicklung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Επιστημονικές και τεχνολογικές υπηρεσίες· Τεχνολογική έρευνα· Επιστημονικές υπηρεσίες και σχετικός σχεδιασμός· Τεχνολογικές υπηρεσίες και σχετικός σχεδιασμός· Υπηρεσίες βιομηχανικής ανάλυσης και έρευνας· Σχεδιασμός και ανάπτυξη υλικού ηλεκτρονικών υπολογιστών· Σχεδιασμός και ανάπτυξη λογισμικού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Science and technology services; Technological research; Scientific services and design relating thereto; Technological services and design relating thereto; Industrial analysis and research; Design and development of computer hardware; Software design and development.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios científicos y tecnológicos; Investigación tecnológica; Servicios científicos y diseño relacionado con los mismos; Servicios tecnológicos y diseño relacionado con los mismos; Servicios de investigación y análisis industrial; Desarrollo y diseño de hardware; Diseño y desarrollo de software informático.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Teadus- ja tehnoloogiateenused; Tehnoloogilised uurimused; Teaduslikud teenused ja nende disain; Tehnoloogilised teenused ja nende disain; Tööstuslikud analüüsi- ja uurimisteenused; Arvutiriistvara projekteerimine ja arendamine; Tarkvara projekteerimine ja arendamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tieteelliset ja teknologiset palvelut; Teknologiaan liittyvä tutkimus; Tieteelliset palvelut ja siihen liittyvä suunnittelu; Tekniset palvelut ja siihen liittyvä suunnittelu; Teollisuuden analyysi- ja tutkimuspalvelut; Tietokoneiden suunnittelu ja kehittäminen; Tietokoneohjelmistojen suunnittelu ja kehittäminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services scientifiques et technologiques; Recherches technologiques; Services scientifiques et de conception s'y rapportant; Services techniques et de conception s'y rapportant; Analyse et recherches industrielles; Conception et développement de matériel informatique; Conception et développement de logiciels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge znanosti i tehnologije; Tehnološko istraživanje; Znanstvene usluge i projektiranje s njima u svezi; Tehnološke usluge i projektiranje s njima u svezi; Usluge industrijske analize i istraživanja; Projektiranje i razvoj računalnih hardvera; Dizajn i razvoj softvera.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Tudományos és technológiai szolgáltatások; Technológiai kutatás; Tudományos szolgáltatások és a hozzájuk kapcsolódó tervezés; Technológiai szolgáltatások és a hozzájuk kapcsolódó tervezés; Ipari elemzési és kutatási szolgáltatások; Számítógépes hardverek tervezése és fejlesztése; Szoftverek tervezése és fejlesztése.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di scienza e tecnologia; Studi tecnologici; Servizi scientifici e progettazione relativa agli stessi; Servizi tecnologici e progettazione relativa agli stessi; Servizi d'analisi e ricerca industriale; Elaborazione e sviluppo di hardware; Elaborazione e sviluppo di software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mokslo ir technologijų paslaugos; Technologiniai tyrimai; Mokslinės paslaugos ir su tuo susijęs projektavimas; Technologinės paslaugos ir su tuo susijęs projektavimas; Pramoninės analizės ir tyrimų paslaugos; Kompiuterių aparatinės įrangos projektavimas ir tobulinimas; Kompiuterių programinės įrangos projektavimas ir plėtojimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Zinātniskie un tehnoloģiskie pakalpojumi; Tehnoloģiskā izpēte; Zinātniskie pakalpojumi un ar tiem saistītā projektēšana; Tehnoloģiskie pakalpojumi un ar tiem saistītā projektēšana; Rūpnieciskās analīzes un pētījumu pakalpojumi; Datoraparatūras dizains un izstrāde; Programmatūras projektēšana un izstrāde.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi xjentifiċi u teknoloġiċi; Riċerka teknoloġika; Servizzi xjentifiċi u disinn relatat magħhom; Servizzi teknoloġiċi u disinn relatat magħhom; Servizzi ta' analiżi u riċerki industrijali; Disinn u żvilupp ta' ħardwer tal-kompjuter; Disinn u żvilupp ta' softwer tal-kompjuter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Wetenschappelijke en technologische diensten; Technologisch onderzoek; Wetenschappelijke diensten en ontwerp met betrekking tot genoemde diensten; Technologische diensten en technologisch ontwerp; Industriële analyse- en onderzoeksdiensten; Computerhardware (Ontwerp en ontwikkeling van -); Ontwerp en ontwikkeling van software voor computers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi naukowe i technologiczne; Badania technologiczne; Usługi naukowe i projektowanie w tym zakresie; Usługi technologiczne i projektowanie w tym zakresie; Przemysłowe usługi analityczne i badawcze; Projektowanie i rozwój sprzętu komputerowego; Projektowanie i opracowywanie oprogramowania komputerowego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de ciência e tecnologia; Investigação tecnológica; Serviços científicos e de design relacionados com os mesmos; Serviços tecnológicos e de design relacionados com os mesmos; Serviços de análise e investigação industrial; Conceção e desenvolvimento de hardware informático; Design e desenvolvimento de software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii în domeniul științei și tehnologiei; Cercetare tehnologică; Servicii științifice și design privind acest domeniu; Servicii tehnologice și design privind acest domeniu; Servicii industriale de analiza si cercetare; Proiectare și dezvoltare de hardware de calculator; Design și dezvoltare de software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vedecké a technologické služby; Technologický výskum; Vedecké služby a s nimi súvisiace dizajnérske služby; Technologické služby a s nimi súvisiace dizajnérske služby; Priemyselná analýza a výskumné služby; Navrhovanie a vývoj počítačového hardvéru; Navrhovanie a vývoj softvéru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Znanstvene in tehnološke storitve; Tehnološke raziskave; Znanstvene storitve in oblikovanje v zvezi s tem; Tehnološke storitve in oblikovanje v zvezi s tem; Industrijske analize in raziskave; Oblikovanje in razvoj računalniške strojne opreme; Oblikovanje in razvoj programske opreme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Vetenskapliga och tekniska tjänster; Teknologisk forskning; Vetenskapliga tjänster och design relaterad därtill; Tekniska tjänster och design relaterad därtill; Industriella analys- och forskningstjänster; Design och utveckling av datorhårdvaror; Utformning och utveckling av datormjukvara.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/134</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-07-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/207</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-10-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>2994</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

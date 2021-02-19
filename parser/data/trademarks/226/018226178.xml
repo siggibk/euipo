@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-16T11:52:53</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226178</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226178</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>sk</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-06-02</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>PGF finance</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162316503</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226178/000162316503.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>20.05.07</CategoryCode>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.09</CategoryCode>
+          <CategoryCode>27.05.15</CategoryCode>
+          <CategoryCode>27.99.06</CategoryCode>
+          <CategoryCode>27.99.07</CategoryCode>
+          <CategoryCode>27.99.16</CategoryCode>
+          <CategoryCode>29.01.96</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>36</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Финансови и парични услуги и банкиране; Застрахователни услуги; Услуги, свързани с недвижими имоти; Обезпечаване на предплатени карти и жетони.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Finanční a peněžní služby a bankovní služby; Uzavírání pojištění; Služby nemovitostní (realitní služby); Poskytování předplacených karet a kuponů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Finansiel og valutarisk virksomhed og bankvirksomhed; Forsikringsvirksomhed; Virksomhed i forbindelse med fast ejendom; Tilvejebringelse af forudbetalte kort og værdikuponer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Finanz-, Geld- und Bankgeschäfte; Versicherungsdienstleistungen; Immobiliendienstleistungen; Ausgabe von Wert- und Gutscheinkarten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Οικονομικές/Χρηματοπιστωτικές και νομισματικές υπηρεσίες και τραπεζικές υπηρεσίες· Υπηρεσίες ασφάλισης· Κτηματομεσιτικές υπηρεσίες· Παροχή προ-πληρωμένων καρτών και μαρκών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Financial and monetary services, and banking; Insurance underwriting; Real estate services; Provision of prepaid cards and tokens.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios financieros, monetarios y bancarios; Suscripción de seguros; Servicios inmobiliarios; Provisión de tarjetas y vales prepago.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Finants-, rahandusteenused, pangandus; Kindlustusteenused; Kinnisvarateenused; Väärtpaberite ja ettemaksuga kaartide teenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Rahatalouteen ja raha-asioihin liittyvät palvelut ja pankkitoiminta; Vakuutuspalvelut; Kiinteistöpalvelut; Ennalta maksettujen korttien ja arvoseteleiden tarjoaminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services financiers et monétaires, services bancaires; Souscription d'assurances; Services de biens immobiliers; Fourniture de cartes prépayées et de bons de valeur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Financijske i novčarske usluge, i bankarstvo; Osiguravateljske usluge; Usluge agencija za nekretnine; Pružanje prepaid kartica i tokena.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Pénzügyi szolgáltatások, bankügyletek; Biztosítási szolgáltatások; Ingatlannal kapcsolatos szolgáltatások; Előre fizetett kártyák és értékbónok kibocsátása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi finanziari e monetari, e attività bancaria; Servizi assicurativi; Servizi immobiliari; Fornitura di carte prepagate e buoni d'acquisto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Finansinės ir piniginės paslaugos bei banko operacijos; Draudimo paslaugos; Nekilnojamojo turto paslaugos; Išankstinio apmokėjimo kortelių ir žetonų parūpinimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Finanšu pakalpojumi, darījumi ar naudu un banku pakalpojumi; Apdrošināšanas risku parakstīšana; Pakalpojumi nekustamā īpašuma jomā; Nodrošināšana ar priekšapmaksas kartēm un kuponiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi finanzjarji u monetarji, u servizzi tal-banek; Servizzi ta' assigurazzjoni; Servizzi ta' beni immobbli; Il-provvista ta' kards u tokens mħallsa minn qabel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Financiële zaken, monetaire diensten en bankzaken; Verzekeringen; Diensten op het gebied van onroerend goed; Ter beschikking stellen van prepaid kaarten en waardebonnen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi finansowe, pieniężne i bankowe; Usługi ubezpieczeniowe; Usługi w zakresie nieruchomości; Wydawanie kart przedpłaconych i bonów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços financeiros, monetários, bancários; Serviços de seguros; Serviços imobiliários; Fornecimento de cartões de pré-pago e títulos de valor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii financiare, monetare și bancare; Servicii de asigurare; Servicii imobiliare; Furnizarea de cartele preplătite și jetoane de valoare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Finančníctvo, peňažníctvo, bankovníctvo; Poisťovníctvo; Realitné služby; Vydávanie predplatných kariet a poukážok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Finančne in denarne storitve in bančništvo; Zavarovalniške storitve; Storitve poslovanja z nepremičninami; Nudenje predplačanih kartic in žetonov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Finansiella och monetära tjänster och bankrörelse; Försäkringstjänster; Tjänster avseende fast egendom; Upplåtande av förbetalda kort och kuponger.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Информационно-технологични услуги; Научни и технологични услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby v oblasti informačních technologií; Vědecké a technologické služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">IT tjenesteydelser; Videnskabelige og teknologiske tjenesteydelser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">IT-Dienstleistungen; Wissenschaftliche und technologische Dienstleistungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες τεχνολογιών της πληροφορικής· Επιστημονικές και τεχνολογικές υπηρεσίες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">IT services; Science and technology services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de tecnologías de la información; Servicios científicos y tecnológicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">IT-teenused; Teadus- ja tehnoloogiateenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">IT-palvelut; Tieteelliset ja teknologiset palvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services des technologies de l'information; Services scientifiques et technologiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge informacijske tehnologije; Usluge znanosti i tehnologije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Információtechnológiai [IT] szolgáltatások; Tudományos és technológiai szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi informatici; Servizi di scienza e tecnologia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Informacinių technologijų paslaugos; Mokslo ir technologijų paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Informācijas tehnoloģiju pakalpojumi; Zinātniskie un tehnoloģiskie pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi tal-IT; Servizzi xjentifiċi u teknoloġiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">IT-diensten; Wetenschappelijke en technologische diensten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi w zakresie technologii informacyjnych; Usługi naukowe i technologiczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de TI (tecnologias de informação); Serviços de ciência e tecnologia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii IT; Servicii în domeniul științei și tehnologiei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Informačné technológie; Vedecké a technologické služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve informacijske tehnologije; Znanstvene in tehnološke storitve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">IT-tjänster; Vetenskapliga och tekniska tjänster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/079</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080426</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003122879</OppositionIdentifier>
+<OppositionDate>2020-06-02</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>PL</EarlierMarkCountryCode>
+<ApplicationNumber>Z.189544</ApplicationNumber>
+<ApplicationDate>1998-07-14</ApplicationDate>
+<RegistrationNumber>R.131919</RegistrationNumber>
+<RegistrationDate>2001-08-16</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>PGF</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>PL</EarlierMarkCountryCode>
+<ApplicationNumber>Z.204660</ApplicationNumber>
+<ApplicationDate>1999-07-12</ApplicationDate>
+<RegistrationNumber>R.141986</RegistrationNumber>
+<RegistrationDate>2003-01-22</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>PGF</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>197908</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>27870</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+<Opposition>
+<OppositionIdentifier>003126978</OppositionIdentifier>
+<OppositionDate>2020-07-28</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>002309649</ApplicationNumber>
+<ApplicationDate>2001-07-20</ApplicationDate>
+<RegistrationNumber>002309649</RegistrationNumber>
+<RegistrationDate>2004-01-14</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>PKF</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>WO</EarlierMarkCountryCode>
+<DesignatedCountryDetails>
+           <DesignatedCountryCode>EM</DesignatedCountryCode>
+          </DesignatedCountryDetails>
+<ApplicationNumber>1313909</ApplicationNumber>
+<ApplicationDate>2016-06-06</ApplicationDate>
+<RegistrationNumber>1313909</RegistrationNumber>
+<RegistrationDate>2016-06-06</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>PKF</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>GB</EarlierMarkCountryCode>
+<ApplicationNumber>UK00003115217</ApplicationNumber>
+<ApplicationDate>2015-06-26</ApplicationDate>
+<RegistrationNumber>UK00003115217</RegistrationNumber>
+<RegistrationDate>2015-12-11</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>PKF</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>120634</Identifier>
+</OpponentKey>
+<OpponentKey>
+<Identifier>487553</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10144</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

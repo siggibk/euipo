@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:45</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063002-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063002-0001</DesignIdentifier>
+<ApplicationNumber>001063002</ApplicationNumber>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-09-02</PublicationDate>
+<ApplicationReference>247790</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>true</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061755550</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063002_0001/001063002_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755553</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063002_0001/001063002_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755554</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063002_0001/001063002_0001_3.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Чанти</IndicationProduct>
+       <IndicationProduct languageCode="cs">Tašky</IndicationProduct>
+       <IndicationProduct languageCode="da">Tasker</IndicationProduct>
+       <IndicationProduct languageCode="de">Taschen</IndicationProduct>
+       <IndicationProduct languageCode="el">Τσάντες</IndicationProduct>
+       <IndicationProduct languageCode="en">Bags</IndicationProduct>
+       <IndicationProduct languageCode="es">Bolsas</IndicationProduct>
+       <IndicationProduct languageCode="et">Kotid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Laukut</IndicationProduct>
+       <IndicationProduct languageCode="fr">Sacs</IndicationProduct>
+       <IndicationProduct languageCode="hu">Erszények, táskák</IndicationProduct>
+       <IndicationProduct languageCode="it">Borse</IndicationProduct>
+       <IndicationProduct languageCode="lt">Krepšiai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Somas</IndicationProduct>
+       <IndicationProduct languageCode="mt">Boroż</IndicationProduct>
+       <IndicationProduct languageCode="nl">Tassen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Torby</IndicationProduct>
+       <IndicationProduct languageCode="pt">Sacos</IndicationProduct>
+       <IndicationProduct languageCode="ro">Genţi</IndicationProduct>
+       <IndicationProduct languageCode="sk">Peňaženky, mešteky na peniaze</IndicationProduct>
+       <IndicationProduct languageCode="sl">Torbe</IndicationProduct>
+       <IndicationProduct languageCode="sv">Väskor</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>03.01</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/008</PublicationIdentifier>
+        <PublicationSection>A.2</PublicationSection>
+        <PublicationDate>2009-01-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/174</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-09-02</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325801</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2012/109</PublicationIdentifier>
+        <PublicationSequenceNumber>782695</PublicationSequenceNumber>
+        <PublicationSection>B.9.2</PublicationSection>
+        <PublicationDate>2012-06-11</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>6708</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>55664</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>005866508</RecordIdentifier>
+<BasicRecordKind>Appointment Replacement and Deletion of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>782695</PublicationSequenceNumber>
+           <PublicationSection>B.9.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2012-06-11</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:45</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063077-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063077-0001</DesignIdentifier>
+<ApplicationNumber>001063077</ApplicationNumber>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-01-16</PublicationDate>
+<ApplicationReference>IX6079/oami</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061755705</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063077_0001/001063077_0001_1.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.01</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Опаковки</IndicationProduct>
+       <IndicationProduct languageCode="cs">Balíky</IndicationProduct>
+       <IndicationProduct languageCode="da">Emballager</IndicationProduct>
+       <IndicationProduct languageCode="de">Verpackungen</IndicationProduct>
+       <IndicationProduct languageCode="el">Συσκευασίες</IndicationProduct>
+       <IndicationProduct languageCode="en">Packaging</IndicationProduct>
+       <IndicationProduct languageCode="es">Envases</IndicationProduct>
+       <IndicationProduct languageCode="et">Pakend</IndicationProduct>
+       <IndicationProduct languageCode="fi">Pakkaukset</IndicationProduct>
+       <IndicationProduct languageCode="fr">Emballages</IndicationProduct>
+       <IndicationProduct languageCode="hu">Csomagolás (göngyöleg)</IndicationProduct>
+       <IndicationProduct languageCode="it">Imballaggi</IndicationProduct>
+       <IndicationProduct languageCode="lt">Pakuotės</IndicationProduct>
+       <IndicationProduct languageCode="lv">Iesaiņojumi</IndicationProduct>
+       <IndicationProduct languageCode="mt">Ippakkjar</IndicationProduct>
+       <IndicationProduct languageCode="nl">Verpakkingen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Opakowania</IndicationProduct>
+       <IndicationProduct languageCode="pt">Embalagens</IndicationProduct>
+       <IndicationProduct languageCode="ro">Ambalaje</IndicationProduct>
+       <IndicationProduct languageCode="sk">Obaly</IndicationProduct>
+       <IndicationProduct languageCode="sl">Embalaža</IndicationProduct>
+       <IndicationProduct languageCode="sv">Förpackningar</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>09.03</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/009</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-16</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325765</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>355647</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>10675</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

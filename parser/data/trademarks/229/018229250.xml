@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T08:41:15</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229250</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229250</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>MAGIC LEMON</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162457686</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229250/000162457686.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>05.07.12</CategoryCode>
+          <CategoryCode>05.07.23</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>29</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Лимонов сок за кулинарни цели; Лимонена отвара; Лимонена отвара.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Citrónová šťáva pro kulinářské použití; Citronový tvaroh; Citronový tvaroh.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Citronsaft til brug som næringsmiddel; Smørepålæg med citronsmag; Smørepålæg med citronsmag.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Zitronensaft für Speisezwecke; Zitronenquark; Zitronenquark.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χυμός λεμονιού για μαγειρική χρήση· Πήγμα λεμονιού· Πήγμα λεμονιού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Lemon juice for culinary purposes; Lemon curd; Lemon curd.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Zumo de limón para uso culinario; Cuajada de limón; Cuajada de limón.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Sidrunimahl kulinaarseks kasutuseks; Sidrunivõided; Sidrunivõided.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sitruunamehu ruoanlaittoon; Sitruunahyytelö; Sitruunahyytelö.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Jus de citron à usage culinaire; Crème au citron; Crème au citron.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Limunov sok za kulinarske potrebe; Skuta od limuna; Skuta od limuna.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Citromlé étkezési használatra; Citromkrém; Citromkrém.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Succo di limone per uso culinario; crema da spalmare al limone; lemon curd (crema a base di limone).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Citrinų sultys (kulinarijos reikmėms); Citrininis kremas; Citrininis kremas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Citronu sula kulinārijas vajadzībām; Citronu krēms; Citronu krēms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Meraq tal-lumi għal skopijiet kulinari; Baqta tal-lumi; Baqta tal-lumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Citroensap voor culinaire doeleinden; Citroenpasta; Citroenpasta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Sok cytrynowy do celów kulinarnych; Krem cytrynowy; Krem cytrynowy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Sumo de limão para fins culinários; Coalhada de limão; Coalhada de limão.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suc de lămâie de uz culinar; Zeamă de lămâie; Zeamă de lămâie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Citrónová šťava na prípravu jedál; Citrónový krém; Citrónový krém.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Limonin sok za kulinarične namene; Limonina skuta; Limonina skuta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Citronsaft för matlagningsändamål; Citronkräm; Citronkräm.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Сосове на основата на лимон; Подправки на основата на лимон; Смеси на основата на лимон за подправки; Подправки от лимон.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Omáčky na bázi citronu; Chuťové přísady na bázi citronu; Směsi na bázi citronu pro chuťové přísady; Citrónové příchutě.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Citronsaucer; Krydderier fremstillet på basis af citron; Blandinger på basis af citron til brug som krydderi; Smagsstoffer fremstillet af citroner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Zitronensoßen; Würzmittel auf Zitronenbasis; Mischungen auf Zitronenbasis für Würzmittel; Zitronenaromen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σάλτσες με βάση το λεμόνι· Καρυκεύματα με βάση το λεμόνι· Μίγματα με βάση το λεμόνι για καρυκεύματα· Αρτυματικές ύλες από λεμόνι.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Lemon based sauces; lemon based condiments; lemon based seasoning mixes; flavourings of lemons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Salsas a base de limón; Condimentos a base de limón; Mezclas a base de limón para condimentos; Aromatizantes de limones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Sidrunipõhised kastmed; Sidrunipõhised maitseained; Maitseainete sidrunipõhised segud; Sidrunimaitseained.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sitruunapohjaiset kastikkeet; Sitruunapohjaiset aromiaineet; Sitruunapohjaiset sekoitukset aromiaineita varten; Sitruunasta valmistetut makuaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Sauces à base de citron; Condiments à base de citron; Mélanges à base de citron pour condiments; Arômes de citron.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Umaci na bazi limuna; Začini na bazi limuna; Mješavine na bazi limuna za začine; Arome limuna.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Citromos szószok; Citromos ízesítők; Citromos keverékek ízesítőkhöz; Citromos ízesítők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Salse a base di limone; condimenti a base di limone; miscele a base di limone per condimenti; aromi al limone.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Citrinų padažai; Pagardai iš citrinų; Pagardai skirti citrinų pagrindu; Aromatinės medžiagos iš citrinų.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mērces uz citronu bāzes; Garšvielas uz citronu bāzes; Maisījumi uz citronu bāzes garšvielām; Aromatizētāji no citroniem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Zalza magħmula mil-lumi; Kondimenti magħmula mil-lumi; Taħlit ibbażat fuq il-lumi għall-kondimenti; Essenzi tal-lumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Sausen op basis van citroen; Specerijen op basis van citroen; Mengsels op basis van citroen voor dressings; Smaakstoffen vervaardigd uit citroen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Sosy cytrynowe; Sosy cytrynowe do przyprawiania; Mieszanki cytrynowe do przyprawiania; Aromaty cytrynowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Molhos à base de limão; Condimentos à base de limão; Misturas à base de limão para condimentos; Aromatizantes de limões.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Sosuri pe bază de lămâie; Condimente pe bază de lămâie; Amestecuri pe bază de lămâie pentru condimente; Arome de lămâie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Citrónové omáčky; Citrónové chuťové prísady; Citrónové zmesi na chuťové prísady; Príchute z citrónov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Omake na osnovi limone; Začimbe na osnovi limone; Mešanice na osnovi limone za začimbe; Limonine arome.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Citronbaserade såser; Citronbaserade smakämnen; Mixer baserade på citron som smakämnen; Smaktillsatser av citron.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>32</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Сок от лимон за употреба при приготвянето на напитки; Препарати за приготвяне на напитки; Лимонов сок с вода.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Citronová šťáva na přípravu nápojů; Přípravky pro výrobu nápojů; Citronová šťáva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Citronsaft til brug ved fremstilling af drikke; Præparater til fremstilling af drikke; Drikke af pressede citroner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Zitronensaft zur Verwendung bei der Zubereitung von Getränken; Präparate für die Zubereitung von Getränken; Zitronensäfte mit Fruchtfleischanteilen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χυμός λεμονιού για χρήση στην παρασκευή ροφημάτων· Παρασκευάσματα ποτοποιίας· Συμπυκνωμένος χυμός λεμονιού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Lemon juice for use in the preparation of beverages; Preparations for making beverages; Lemon squash.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Zumo de limón para su uso en la preparación de bebidas; Preparados para la elaboración de bebidas; Refrescos de extractos de limón.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Sidrunimahl jookide valmistamiseks; Joogivalmistuspreparaadid; Sidrunijook.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sitruunamehu juomien valmistukseen; Juomien valmistusaineet; Puserrettu sitruunamehu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Jus de citron pour la préparation de boissons; Préparations pour faire des boissons; Sirop de citron.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Limunov sok za pripremu napitaka; Pripravci za pripremu pića; Napitak od limunova soka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Italok készítéséhez használt citromlé; Készítmények italokhoz; Citromlé.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Succo di limone per la produzione di bevande; preparati per fare bevande; spremute di limone.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Citrinų sultys gėrimams ruošti; Gėrimų gaminimo preparatai; Citrinų gaivieji gėrimai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Citronu sula, ko izmanto dzērienu pagatavošanā; Sastāvdaļas dzērienu pagatavošanai; Citronu dzēriens.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Meraq tal-lumi għall-użu fil-preparazzjoni ta' xarbiet; Preparazzjonijiet biex isiru x-xarbiet; Skwoxx tal-lumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Citroensap voor de bereiding van dranken; Preparaten voor het bereiden van dranken; Citroenkwast.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Sok z cytryny do sporządzania napojów; Preparaty do produkcji napojów; Napój z soku cytrynowego z cukrem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Sumo de limão para uso na preparação de bebidas; Preparações para fazer bebidas; Sumos de concentrados de limão.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suc de lămâie folosit la prepararea băuturilor; Băuturi [preparate pentru fabricarea -lor]; Citronadă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Citrónová šťava na prípravu nápojov; Prípravky na výrobu nápojov; Citrónový nápoj s cukrom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Limonin sok za uporabo pri pripravi pijač; Preparati za izdelavo pijač; Pijača iz limonovega sirupa, razredčenega z (gazirano) vodo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Citronsaft för användning vid framställning av drycker; Preparat för tillverkning av drycker; Citrondryck.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>823868</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>35495</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

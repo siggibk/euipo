@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-28T18:18:48</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224917</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224917</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-30</RegistrationDate>
+<ApplicationLanguageCode>pl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-03</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ENBIO</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за продажба на едро на фармацевтични, ветеринарни и санитарни препарати и медицински консумативи; Търговия на дребно и едро с фармацевтични, ветеринарни, санитарни и медицински препарати; Търговия на дребно и едро с фармацевтични, ветеринарни, санитарни и медицински препарати.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Velkoobchodní služby zaměřené na farmaceutické, veterinářské a hygienické přípravky a lékařské potřeby; Služby pro maloobchod nebo velkoobchod s farmaceutickými, veterinárními a sanitárními přípravky a zdravotnickým materiálem; Služby pro maloobchod nebo velkoobchod s farmaceutickými, veterinárními a sanitárními přípravky a zdravotnickým materiálem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Engroshandel med farmaceutiske, veterinærmedicinske og sanitære præparater samt medicinske artikler; Detailhandel med farmaceutiske, veterinære og sanitære præparater samt medicinske artikler; Detail- eller engroshandel med farmaceutiske, veterinære og hygiejniske præparater og medicinske artikler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Großhandelsdienstleistungen in Bezug auf pharmazeutische, medizinische und veterinärmedizinische Artikel sowie Hygienepräparate; Einzelhandelsdienstleistungen in Bezug auf pharmazeutische, medizinische und veterinärmedizinische Artikel sowie Hygienepräparate; Einzelhandels- oder Großhandelsdienstleistungen für pharmazeutische, veterinärmedizinische Artikel, Hygienepräparate sowie medizinische Artikel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες χονδρικής πώλησης φαρμακευτικών και κτηνιατρικών παρασκευασμάτων, παρασκευασμάτων υγιεινής και ιατρικών ειδών· Υπηρεσίες λιανικής ή χονδρικής για προμήθειες φαρμακευτικών, κτηνιατικών, ιατρικών και ειδών υγιεινής· Υπηρεσίες λιανικής ή χονδρικής για προμήθειες φαρμακευτικών, κτηνιατικών, ιατρικών και ειδών υγιεινής.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Wholesale services for pharmaceutical, veterinary and sanitary preparations and medical supplies; Retail services for pharmaceutical, veterinary and sanitary preparations and medical supplies; Retail or wholesale services for pharmaceutical, veterinary and sanitary preparations and medical supplies.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de venta mayorista de preparaciones farmacéuticas, veterinarias y sanitarias, así como suministros médicos; Servicios de venta minorista de preparaciones farmacéuticas, veterinarias y sanitarias, así como de suministros médicos; Venta minorista o mayorista de preparaciones farmacéuticas, veterinarias y sanitarias, así como de suministros médicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Farmaatsia-, veterinaar- ja sanitaarpreparaatide ning meditsiiniliste materjalide hulgimüügiteenused; Farmaatsia- ja veterinaariapreparaatide ning hügieeni- ja meditsiinitarvete jae- ja hulgimüük; Farmaatsia- ja veterinaariapreparaatide ning hügieeni- ja meditsiinitarvete jae- ja hulgimüük.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Farmaseuttisten, eläinlääketieteellisten ja hygieniavalmisteiden sekä lääkintätarvikkeiden tukkumyyntipalvelut; Farmaseuttisten ja eläinlääkinnällisten valmisteiden, saniteettivalmisteiden sekä lääkintätarvikkeiden vähittäiskauppapalvelut; Farmaseuttisten ja eläinlääkinnällisten valmisteiden, saniteettivalmisteiden sekä lääkintätarvikkeiden vähittäiskauppa- tai tukkukauppapalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de vente en gros de préparations pharmaceutiques, vétérinaires et hygiéniques ainsi que de fournitures médicales; Services de vente au détail de préparations pharmaceutiques, vétérinaires et hygiéniques ainsi que de fournitures médicales; Services de vente au détail ou en gros de préparations pharmaceutiques, vétérinaires et hygiéniques ainsi que de fournitures médicales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge veleprodaje farmaceutskih, veterinarskih i medicinskih pripravka i potrepština; Usluge maloprodaje ili veleprodaje za farmaceutske, veterinarske i sanitarne pripravke i za medicinske potrepštine; Usluge maloprodaje ili veleprodaje za farmaceutske, veterinarske i sanitarne pripravke i za medicinske potrepštine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyógyszerészeti, állatgyógyászati és egészségügyi készítményekhez és gyógyászati eszközökhöz kapcsolódó nagykereskedelmi szolgáltatások; Gyógyszerészeti, állatgyógyászati és higiéniai készítmények valamint gyógyászati eszközök kis- és nagykereskedelme; Gyógyszerészeti, állatgyógyászati és higiéniai készítmények valamint gyógyászati eszközök kis- és nagykereskedelme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi all'ingroso per preparazioni farmaceutiche, veterinarie e sanitarie e forniture mediche; Servizi di vendita al dettaglio di preparati farmaceutici, veterinari e sanitari e di forniture mediche; Servizi di vendita al dettaglio o all'ingrosso di preparati farmaceutici, veterinari e sanitari e di forniture mediche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Didmeninė prekyba farmacijos, veterinarijos ir higienos preparatais bei medicinos reikmenimis; Mažmeninė ar didmeninė prekyba farmacijos, veterinarijos ir higienos preparatais bei medicinos reikmenimis; Mažmeninė ar didmeninė prekyba farmacijos, veterinarijos ir higienos preparatais bei medicinos reikmenimis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Farmaceitisko, veterināro un higiēnas preparātu un medicīnas piederumu vairumtirdzniecības pakalpojumi; Farmaceitisko, veterināro un higiēnas preparātu, un medicīnas piederumu mazumtirdzniecība; Farmaceitisko, veterināro un higiēnas preparātu un medicīnisko preču mazumtirdzniecība un vairumtirdzniecība.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' bejgħ bl-ingrossa għal preparazzjonijiet farmaċewtiċi, veterinarji u sanitarji u provvisti mediċi; Servizzi kemm bl-imnut jew bl-ingrossa għall-forniment ta' oġġetti farmaċewtiċi, veterinarji, medikali u preparazzjonijiet sanitarji; Servizzi kemm bl-imnut jew bl-ingrossa għall-forniment ta' oġġetti farmaċewtiċi, veterinarji, medikali u preparazzjonijiet sanitarji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Groothandelsdiensten voor farmaceutische, diergeneeskundige en hygiënische preparaten en medische benodigdheden; Detailhandels- of groothandelsdiensten in farmaceutische, veterinaire en hygiënische preparaten en medische hulpmiddelen; Detailhandels- of groothandelsdiensten in farmaceutische, veterinaire en hygiënische preparaten en medische hulpmiddelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi handlu hurtowego w zakresie preparatów farmaceutycznych, weterynaryjnych i sanitarnych oraz materiałów medycznych; Usługi handlu detalicznego w zakresie preparatów farmaceutycznych, weterynaryjnych i sanitarnych oraz materiałów medycznych; Sprzedaż detaliczna lub hurtowa środków farmaceutycznych, weterynaryjnych i sanitarnych oraz zaopatrzenia medycznego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços grossistas referentes a preparações farmacêuticas, veterinárias e higiénicas e provisões médicas; Serviços de venda a retalho de preparações farmacêuticas, veterinárias e higiénicas e provisões médicas; Serviços de venda a retalho ou a grosso de preparações farmacêuticas, veterinárias e higiénicas e provisões médicas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de vânzare angro pentru preparate farmaceutice, veterinare și sanitare și produse medicale; Servicii de vânzare cu amănuntul sau en-gros pentru preparate farmaceutice, veterinare și sanitare și produse medicale; Servicii de vânzare cu amănuntul sau en-gros pentru preparate farmaceutice, veterinare și sanitare și produse medicale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Veľkoobchodné služby v oblasti farmaceutických, zverolekárskych a hygienických prípravkov a lekárskych potrieb; Maloobchodné alebo veľkoobchodné služby s farmaceutickými, zverolekárskymi a zdravotníckymi prípravkami a s lekárskymi potrebami; Maloobchodné alebo veľkoobchodné služby s farmaceutickými, zverolekárskymi a zdravotníckymi prípravkami a s lekárskymi potrebami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Veleprodajne storitve za farmacevtske, veterinarske in sanitarne pripravke ter medicinsko opremo; Maloprodajne ali veleprodajne storitve za farmacevtske, veterinarske in sanitarne proizvode in medicinske potrebščine; Maloprodajne ali veleprodajne storitve za farmacevtske, veterinarske in sanitarne proizvode in medicinske potrebščine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Grosshandel avseende farmaceutiska, veterinära och hygieniska preparat och medicinska förnödenheter; Återförsäljning avseende farmaceutiska, veterinära och sanitära preparat och medicinska varor; Återförsäljning eller detaljhandelstjänster för farmaceutiska, veterinära och sanitära preparat och medicinska varor.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги свързани с проучване и разработване на нови продукти; Проектиране и разработване на методи за тестване и анализ; Научни изследвания и анализи; Лабораторни услуги; Технически изследвания; Провеждане на химични изследвания и анализи; Биологично изследване и анализи; Услуги за промишлени анализи и изследвания; Анализ и изпитване на материали; Експертиза на становище свързано с технологии.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby v oblasti výzkumu a vývoje; Navrhování a vývoj testovacích a analytických metod; Vědecký výzkum a analýza; Laboratorní služby; Technický výzkum; Služby v oblasti chemického výzkumu a analýz; Biologický výzkum a analýza; Analytické a výzkumné služby v průmyslu; Testování a analýza materiálů; Odborné posudky vztahující se k technologiím.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Forsknings- og udviklingsvirksomhed; Design og udvikling af afprøvnings- og analysemetoder; Videnskabelig forskning og analyse; Laboratorieundersøgelser; Teknologisk forskning; Kemiske undersøgelser og analyser; Biologisk forskning og analyse; Industriel analyse og forskning; Afprøvning og analyse af materialer; Ekspertvurdering i forbindelse med teknologi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Forschungs- und Entwicklungsdienste; Entwurf und Entwicklung von Prüf- und Analyseverfahren; Wissenschaftliche Forschung und Analysen; Labordienste; Forschung auf dem Gebiet der Technik; Chemische Forschung und Analyse; Biologische Forschung und Analyse; Industrielle Analyse- und Forschungsdienstleistungen; Materialprüfung und -analyse; Erstellung von Sachverständigengutachten bezüglich Technologie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες έρευνας και ανάπτυξης· Σχεδιασμός και ανάπτυξη μεθόδων δοκιμής και ανάλυσης· Επιστημονική έρευνα και ανάλυση· Εργαστηριακές υπηρεσίες· Τεχνικές έρευνες· Υπηρεσίες χημικής έρευνας και ανάλυσης· Βιολογική έρευνα και ανάλυση· Υπηρεσίες βιομηχανικής ανάλυσης και έρευνας· Δοκιμή και ανάλυση υλικών· Εμπειρογνωμοσύνες σε σχέση με την τεχνολογία.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Research and development services; Design and development of testing and analysis methods; Scientific research and analysis; Laboratory services; Technical research; Chemical research and analysis services; Biological research and analysis; Industrial analysis and research services; Materials testing and analysing; Expert opinion relating to technology.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de investigación y desarrollo; Diseño y desarrollo de métodos de prueba y análisis; Análisis e investigaciones científicos; Servicios de laboratorio; Investigación tecnológica; Servicios de investigación y análisis químicos; Investigación y análisis biológicos; Servicios de análisis e investigación industriales; Ensayos y análisis de materiales; Opinión de expertos relacionada con la tecnología.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Teadus- ja arendustegevusteenused; Katse- ja analüüsimeetodite väljatöötamine ja arendamine; Teadusuuringud ja -analüüs; Laboriteenused; Tehnilised uuringud; Keemiliste uuringute ja analüüsi teenused; Bioloogilised uuringud ja analüüsid; Tööstusanalüüside ja -uuringute teenused; Materjalide teimimine ja analüüs; Tehnoloogiaalased ekspertarvamused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tutkimus- ja kehittämispalvelut; Testaus- ja analyysimenetelmien suunnittelu ja kehittäminen; Tieteellinen tutkimus ja analyysi; Laboratoriopalvelut; Tekninen tutkimus; Kemialliset tutkimus- ja analyysipalvelut; Biologinen tutkimus ja analyysi; Teolliset analyysi- ja tutkimuspalvelut; Materiaalien testaus ja analysointi; Teknologiaan liittyvät asiantuntijalausunnot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de recherche et développement de nouveaux produits pour les tiers; Conception et développement de méthodes d'analyse et d'essai; Analyses et recherches scientifiques; Services de laboratoire; Recherches technologiques; Services de recherche et d'analyses chimiques; Recherche et analyse biologiques; Services d'analyses et de recherches industrielles; Tests et analyses de matériaux; Conseils en matière de technologie de l'information.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge istraživanja i razvoja; Dizajn i razvoj metoda za ispitivanje i analizu; Znanstveno istraživanje i analiza; Laboratorijske usluge; Tehnička istraživanja; Usluge kemijskog istraživanja i analize; Biološko istraživanje i analiza; Usluge industrijskih analiza i istraživanja; Testiranje i analiza materijala; Stručno mišljenje u svezi s tehnologijom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kutatás és fejlesztés [szolgáltatások]; Vizsgálati és elemzési módszerek tervezése és fejlesztése; Tudományos kutatás és elemzés; Laboratóriumi szolgáltatások; Műszaki kutatás; Vegyészeti kutatási és elemzési szolgáltatások; Biológiai kutatás és elemzés; Ipari elemző és kutató szolgáltatások; Anyagvizsgálat és elemzés; Technológiával kapcsolatos szakvélemények készítése.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di ricerca e sviluppo; Progettazione e sviluppo di metodi di testing e analisi; Ricerche e analisi scientifiche; Servizi di laboratorio; Ricerche tecnologiche; Ricerche e analisi chimiche; Ricerche e analisi biologiche; Servizi di analisi e ricerche industriali; Collaudi ed analisi di materiali; Opinioni di esperti in materia di tecnologia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Tyrimų ir plėtros paslaugos; Bandymų ir tyrimų metodų kūrimas ir tobulinimas; Moksliniai tyrimai ir analizė; Laboratorijų paslaugos; Techniniai tyrimai; Cheminių tyrimų ir analizės paslaugos; Biologiniai tyrimai ir analizė; Pramoninės analizės ir tyrimų paslaugos; Medžiagų bandymai ir analizė; Specialistų patarimai technologijų klausimais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Pētniecības un izstrādes pakalpojumi; Pārbaudes un analīžu metožu projektēšana un izstrāde; Zinātniskās izpēte un analīze; Laboratorijas pakalpojumi; Tehnisko pētījumu veikšana; Ķīmisko pētījumu un analīžu pakalpojumi; Bioloģiskā izpēte un analīze; Rūpnieciskās analīzes un izpētes pakalpojumi; Materiālu testēšana un analīze; Ekspertu atzinumi saistībā ar tehnoloģiju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' riċerka u żvilupp; Disinn u żvilupp ta' metodi tal-ittestjar u tal-analiżi; Riċerka u analiżi xjentifika; Servizzi tal-laboratorju; Riċerka teknika; Servizzi ta' riċerka u analiżi kimika; Riċerka u analiżi bijoloġiċi; Analiżi industrijali u servizzi ta' riċerka; Testijiet u analizzar ta' materjali; Opinjoni esperta relatata mat-teknoloġija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Onderzoek- en ontwikkelingsdiensten; Ontwerp en ontwikkeling van test- en analysemethoden; Wetenschappelijk onderzoek en wetenschappelijke analyse; Laboratoriumdiensten; Technisch onderzoek; Chemisch onderzoek en analyse; Biologisch onderzoek en biologische analyse; Industriële analyse en onderzoek; Testen en analyseren van materialen; Meningen van deskundigen met betrekking tot technologie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi badawczo-rozwojowe; Projektowanie i opracowywanie metod do testów i analiz; Badania i analizy naukowe; Usługi laboratoryjne; Badania techniczne; Usługi w zakresie analiz i badań chemicznych; Usługi badań i analiz biologicznych; Przemysłowe analizy i usługi badawcze; Testowanie i analiza materiałów; Ekspertyzy w zakresie technologii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de investigação e desenvolvimento; Conceção e desenvolvimento de métodos de ensaio e análise; Pesquisas e análises científicas; Serviços laboratoriais; Pesquisas tecnológicas; Serviços de investigação e análise química; Investigação e análise biológicas; Serviços de análises e pesquisas industriais; Ensaio e análise de materiais; Emissão de pareceres relacionados com tecnologia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de cercetare și dezvoltare; Proiectare și dezvoltare de metode de testare și analiză; Cercetare și analiză științifică; Servicii de laborator; Cercetare tehnică; Servicii de cercetare și analiză chimică; Cercetare și analiză biologică; Servicii de analiză și cercetare industrială; Testare și analiză de materiale; Aviz de specialitate în domeniul tehnologiei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Služby v oblasti výskumu a vývoja; Navrhovanie a vývoj testovacích a analytických metód; Vedecký výskum a analýza; Laboratórne služby; Technický výskum; Chemický výskum a chemické analýzy; Biologický výskum a analýza; Priemyselné analýzy a priemyselný výskum; Testovanie a analýzy materiálov; Technologické expertízy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Raziskovalne in razvojne storitve; Oblikovanje in razvoj preizkusnih in analitičnih metod; Znanstvene raziskave in analize; Laboratorijske storitve; Tehnične raziskave; Kemične raziskave in analize; Biološke raziskave in analize; Industrijske analize in raziskave; Testiranje in analiziranje materialov; Strokovno mnenje v zvezi s tehnologijo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Forsknings- och utvecklingstjänster; Design och utveckling av provnings- och analysmetoder; Vetenskaplig forskning och analys; Laboratorietjänster; Teknisk forskning; Kemisk forskning och analys; Biologisk forskning och analys; Industriella analyser och forskningstjänster; Provning och analys av material; Expertutlåtande avseende teknik.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/075</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/144</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-31</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>629950</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>27691</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

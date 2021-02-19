@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-19T10:59:03</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228506</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228506</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-15</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-19</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Dweyka</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162456863</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/228/018228506/000162456863.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.03.01</CategoryCode>
+          <CategoryCode>26.03.06</CategoryCode>
+          <CategoryCode>26.03.07</CategoryCode>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.05</CategoryCode>
+          <CategoryCode>26.04.11</CategoryCode>
+          <CategoryCode>26.04.22</CategoryCode>
+          <CategoryCode>26.04.24</CategoryCode>
+          <CategoryCode>29.01.98</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>8</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Дамги за жигосване; Инструменти за гравиране [ръчни инструменти]; Шприцове, ръчно действащи, за избутване на маджун; Ножици за стригане на животни [ръчни инструменти]; Ръчно задвижвани пособия; Инструменти за отваряне на корпуси на ръчни часовници; Остри инструменти за пробиване на стъкла при спешни случаи; Свредла; Ръчни инструменти за строителство, ремонт и поддръжка; Ръчни инструменти за ремонт на превозни средства; Градинарски инструменти [ръчни инструменти]; Приспособление за формоване на тръби [за ръчна употреба]; Ръчно задвижвани режещи инструменти; Шприцове [ръчни инструменти]; Диаманти за рязане на стъкло.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vypalovací želízka (značkovače); Rydla [ruční nástroje]; Ruční pistole na vytlačování tmelu; Strojky na stříhání zvířat [ruční nástroje]; Ruční nástroje; Otvírače pouzder hodinek; Rozbíječe skla; Ruční vrtačky na ruční pohon; Ruční nástroje pro výrobu, opravy a údržbu; Ruční nástroje na opravu vozidel; Ruční zahradnické náčiní; Zařízení na ohýbání trubek (ruční nástroje); Ručně manipulované nástroje na řezání a stříhání; Pistole [ruční nářadí]; Nástroje na řezání skla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Brændejern; Gravstikker [håndværktøj]; Pistoler, der virker ved håndkraft, til udsprøjtning af kit; Hårklipperedskaber til dyr [håndværktøj]; Håndbetjente redskaber; Redskaber til åbning af urkasser; Vindueshammere; Hånddrevne håndbor; Håndredskaber til bygning, reparation og vedligeholdelse; Håndværktøjer til reparation af køretøjer; Haveredskaber, hånddrevne; Rørbøjningsredskaber [håndbetjent værktøj]; Håndbetjent skæreværktøj; Tryksprøjter [håndværktøj]; Glasskærere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Brenneisen [Geräte zum Anbringen von Brandzeichen]; Meißel [handbetätigte Werkzeuge]; Handbetätigte Pistolen zum Spritzen von Spachtelmassen; Tierschergeräte; Handbetätigte Arbeitsgeräte; Gehäuseöffner für Armbanduhren; Werkzeuge zum Einschlagen von Scheiben; Manuell betätigte Handbohrer; Handwerkzeuge für Bau-, Reparatur und Instandhaltungsarbeiten; Handbetätigte Werkzeuge für die Fahrzeugreparatur; Handbetätigte Gartenwerkzeuge; Rohrkrümmgeräte [handbetätigte Werkzeuge]; Handbetätigte Schneidwerkzeuge; Pistolen [Handwerkzeuge]; Glasschneider.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σιδηρά όργανα για ανεξίτηλη σήμανση· Γλυφίδες· Πιστολέτα χειροκίνητα για εξώθηση στόκου· Κούρεμα ζώων (Εργαλέια χειρός για -)· Εργαλεία χειρός· Διατάξεις ανοίγματος θηκών ρολογιών χειρός· Αιχμηρά εργαλεία για τη διάτρηση παραθύρων· Δράπανα· Εργαλεία χειρός για την κατασκευή, επισκευή και συντήρηση· Εργαλεία χειρός για την επισκευή οχημάτων· Εργαλεία κηπουρικής, χειροκίνητα· Μηχανές κάμψης σωλήνων [χειροκίνητα εργαλεία]· Χειροκίνητα εργαλεία κοπής· Πιστολάκια [εργαλεία]· Κόπτες γυαλιού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Branding irons; Graving tools [hand tools]; Guns, hand-operated, for the extrusion of mastics; Hair clippers for animals [hand instruments]; Hand implements, hand-operated; Watch case openers; Window punches; Manual drills; Hand tools for construction, repair and maintenance; Hand-operated tools for repair of vehicles; Hand-operated tools for gardening; Hand-operated tools for bending pipes; Hand-operated cutting tools; Guns [hand tools]; Glass cutters.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Hierros para marcar a fuego; Buriles [herramientas de mano]; Pistolas accionadas manualmente para extrudir masillas; Esquiladoras [instrumentos de mano]; Instrumentos de mano accionados manualmente; Abridores de carcasas de reloj; Punzones para romper ventanas; Taladradoras de mano accionadas manualmente; Herramientas manuales para la construcción, reparación y mantenimiento; Herramientas manuales para la reparación de vehículos; Herramientas de jardinería accionadas manualmente; Aparatos para doblar tubos [herramientas de mano]; Herramientas de corte de accionamiento manual; Pistolas [herramientas de mano]; Cortadores de vidrio.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kõrvetusrauad; Graveerimisvahendid, graveervahendid [käsi-tööriistad]; Mastiksipüstolid [käsi-tööriistad]; Loomapügamismasinad [käsi-tööriistad]; Käsitsi käitatavad instrumendid, tööriistad; Käekellakorpuse avamisvahendid; Aknapurustid; Käsitrellid [käsi-tööriistad]; Käsi-tööriistad ehitamiseks, parandamiseks ja hoolduseks; Käsi-tööriistad sõidukite remontimiseks; Käsitsi käitatavad aiatööriistad; Torupainutusseadmed [käsi-tööriistad]; Käsikäitatavad lõikeriistad; Püstolid [käsi-tööriistad]; Klaasilõikurid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Polttoraudat; Kaiverrustyökalut [käsikäyttöiset]; Kitinpursotusruiskut, käsikäyttöiset; Karvaleikkurit eläimiä varten [käsikäyttöiset]; Käsikäyttöiset työkalut; Kellon kuoren avausvälineet; Välineet ikkunan rikkomiseen; Porat; Käsityökalut rakentamista, korjausta ja huoltamista varten; Käsityökalut ajoneuvojen korjaukseen; Puutarhatyökalut [käsikäyttöiset]; Putkentaivutusvälineet [käsityökalut]; Käsikäyttöiset leikkuutyökalut; Ruiskut [käsityökaluina]; Lasileikkurit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Fers à marquer au feu; Burins; Pistolets actionnés manuellement pour l'extrusion de mastics; Tondeuses pour la coupe du poil des animaux; Instruments à main actionnés manuellement; Dispositifs pour l’ouverture de boîtiers de montres; Poinçons à fenêtre; Perceuses à main actionnées manuellement; Outils à main pour la construction, la réparation et l'entretien; Outils à main pour la réparation de véhicules; Outils à main pour le jardinage actionnés manuellement; Appareils à cintrer les tubes [instruments actionnés manuellement]; Outils de coupe actionnés manuellement; Pistolets [outils]; Diamants de vitrier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Željezni pribor za obilježavanje pomoću vatre; Alat za graviranje [ručni]; Ručni pištolji za izvlačenje kita [ekstruderi]; Dlaka [sprave za šišanje životinjske dlake]; Ručni alati i ručne sprave; Otvarači za kućišta satova; Bušilice za prozorsko staklo; Svrdla za zemlju; Ručni alati za izgradnju, popravak i održavanje; Ručni alati za popravke vozila; Vrtlarski alat [ručno pokretan]; Naprave za savijanje cijevi [ručno pokretani alat]; Ručno pokretani alat za rezanje; Pištolji [ručni alati]; Alat za rezanje stakla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Billogok, égetővasak; Vésőszerszámok, gravírozó eszközök [kéziszerszámok]; Kézzel működtetett pisztolyok masztix extrudálására; Állatnyíró eszközök [kéziszerszámok]; Kézi szerszámok; Óratok nyitók; Ablaktörő szerszámok; Fúrók; Kéziszerszámok építéshez, javításhoz és karbantartáshoz; Kézi működtetésű szerszámok járműjavításhoz; Kézzel működtetett kerti szerszámok; Csőhajlító eszközök [kéziszerszámok]; Kézzel működtetett vágóeszközök; Pisztolyok [kéziszerszámok]; Üvegvágók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Ferri per marcare a fuoco; Bulini; Pistole azionate a mano per l'estrusione di mastici; Tosatrici per i peli degli animali; Utensili manuali; Dispositivi per apertura di casse di orologi; Punzoni per rompere il vetro; Trapani a manovella, azionati manualmente; Utensili azionati manualmente per la costruzione, la riparazione e la manutenzione; Utensili manuali per la riparazione di veicoli; Utensili per il giardinaggio azionati manualmente; Apparecchi per curvare i tubi [utensili azionati manualmente]; Utensili da taglio azionati manualmente; Pistole [utensili]; Tagliavetro (utensili).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Ženklinimo įtaisai; Graviravimo įrankiai; Mastikos rankiniai švirkštai [ekstruzija]; Gyvulių kirpimo įrankiai; Rankiniai prietaisai; Rankinių laikrodžių dėklų atidarytuvai; Langų pramuštuvai; Rankiniai gręžtuvai; Statybos, taisymo ir priežiūros rankiniai įrankiai; Rankiniai įrankiai transporto priemonių remontui; Sodo inventorius [įrankiai]; Vamzdžių lenkimo aparatai [rankiniai įrankiai]; Rankinio valdymo pjovimo įrankiai; Švirkštai [įrankiai]; Stiklo rėžtukai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dzelzs rīki marķējuma iededzināšanai; Gravēšanas instrumenti (rokas darbarīki); Rokas pistoles mastikas uzklāšanai; Ierīces dzīvnieku cirpšanai (rokas darbarīki); Ar roku darbināmas ierīces; Rokas pulksteņu ietvaru atvērēji; Logu punktsiši; Rokas darbarīki mazu caurumu urbšanai; Celtniecības, remonta un tehniskās apkopes rokas darbarīki; Ar roku darbināmi instrumenti transportlīdzekļu remontam; Ar roku darbināmi dārza darbarīki; Cauruļu liekšanas aparāti [rokas darbarīki]; Ar rokām darbināmi griešanas rīki; Pistoles (rokas darbarīki); Stikla griezēji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ħadid għall-immarkar bil-kiwi; Għodda tal-inċiżjoni (għodda tal-idejn); Pistoli, li jaħdmu bl-idejn, għall-estrużjoni ta' gomma wżata fl-għamil tal-verniċ; Għodda li jaqtgħu x-xagħar tal-annimali [strumenti tal-idejn]; Implimenti li jitħaddmu bl-idejn; Fettieħa ta' kaxxetti tal-arloġġi tal-idejn; Puntelli tat-twieqi; Trapani manwali; Għodda tal-idejn għall-kostruzzjoni, tiswija u manteniment; Għodda tal-idejn imħaddmin b'mod mekkaniku għat-tiswija tal-vetturi; Għodod tal-ġnien, li jaħdmu bl-idejn; Apparat li jgħawweġ il-pajpijiet (għodda mħaddma bl-idejn); Għodda li taqta' (imħaddma bl-idejn); Pistoli [għodda tal-idejn]; Għodod għall-qtugħ tal-ħġieġ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Brandmerkijzers; Graveerbeitels; Kitpistolen, met de hand te bedienen; Tondeuses voor de dierenvacht; Handbediende gereedschappen; Horlogekastopeners; Priemen om glas te doorboren; Handboren, met de hand te bedienen; Handgereedschappen voor bouw, herstel en onderhoud; Handwerktuigen voor de reparatie van voertuigen; Tuingereedschappen, handbediend; Apparaten voor het buigen van pijpen [handgereedschappen]; Snijgereedschappen, met de hand te bedienen; Pistolen [handgereedschappen]; Glassnijders.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Stemple do wypalania; Narzędzia rytownicze [narzędzia ręczne]; Pistolety ręczne do wytłaczania masy uszczelniającej; Urządzenia do strzyżenia zwierząt [ręczne przyrządy]; Narzędzia ręczne; Przybory do otwierania koperty zegarka; Przebijaki do szyb; Świdry; Narzędzia ręczne budowlane, do naprawy i konserwacji; Narzędzia ręczne do naprawy pojazdów; Narzędzia ogrodnicze o napędzie ręcznym; Giętarki do rur [narzędzia obsługiwane ręcznie]; Narzędzia skrawające [ręcznie obsługiwane]; Pistolety [narzędzia ręczne]; Diamenty szklarskie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Ferros para marcar a fogo; Ferramentas de gravura [ferramentas manuais]; Pistolas acionadas manualmente para a extrusão de mastiques; Máquinas para o corte do pelo dos animais; Utensílios acionados manualmente; Dispositivos de abertura de caixas para relógios; Punções quebra-vidros; Berbequins manuais, acionados manualmente; Ferramentas manuais para a construção, reparação e manutenção; Ferramentas acionadas manualmente para reparação de veículos; Ferramentas manuais de jardinagem; Aparelhos para dobrar tubos [ferramentas acionadas manualmente]; Ferramentas de corte acionadas manualmente; Pistolas [ferramentas]; Cortadores de vidro.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Ciocane marcatoare; Unelte de gravare [unelte manuale]; Extrudarea masticurilor (Pistoale manuale pentru -); Tuns (mașini de - pentru animale); Instrumente acționate manual; Instrumente de desfăcut carcase de ceasuri de mână; Dispozitiv de spart geamuri; Sfredele; Unelte manuale pentru construcție, reparație și întreținere; Unelte, acționate manual, pentru repararea vehiculelor; Grădinărit (Unelte manuale de -); Dispozitive de curbat țevi [unelte acționate manual]; Unelte de tăiat acționate manual; Pistoale [unelte manuale]; Diamant de tăiat sticlă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vypaľovacie želiezka (značkovače); Rydlá (ručné nástroje); Ručné pištole na vytláčanie tmelu; Nožnice na strihanie zvieracej srsti (ručné nástroje); Ručné nástroje; Otvárače puzdier na hodinky; Rozbíjač okien; Ručné vŕtačky; Ručné nástroje na stavebné práce, opravy a údržbu; Ručné nástroje na opravu vozidiel; Záhradné náradie na ručný pohon; Ručne ovládané nástroje na ohýbanie rúr; Ručne ovládané rezacie nástroje; Upchávačky (ručné nástroje); Rezače skla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Železa za vžiganje znamenj; Ročna orodja za graviranje; Ročne pištole za nanašanje kita; Ročne naprave za striženje živalske dlake; Ročna orodja; Odpirala za ohišja ročnih ur; Točkala za razbijanje okenskih stekel; Ročni vrtalni stroji; Ročno orodje za gradnjo, popravila in vzdrževanje; Ročna orodja za popravilo vozil; Ročna vrtna orodja; Naprave za upogibanje cevi [ročna orodja]; Rezalna orodja na ročni pogon; Pištole [ročno orodje]; Rezalniki za steklo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Brännjärn (för märkning); Graversticklar [handverktyg]; Pistoler, handdrivna, för strängsprutning av mastix; Hårklippningsmaskiner för djur [handredskap]; Handdrivna redskap; Boettöppnare för klockor; Glaskrossare; Handdrivna borrar; Handverktyg för konstruktion, reparation och underhåll; Handverktyg för fordonsreparation; Trädgårdsredskap (handdrivna); Rörbockningsredskap [handdrivna verktyg]; Handdrivna skärverktyg; Pistoler [handverktyg]; Glasskärare.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/086</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-08</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/156</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-18</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15345</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

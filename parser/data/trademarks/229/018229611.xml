@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-03T09:03:10</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229611</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229611</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-09-01</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-03</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>YOYO</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162503366</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229611/000162503366.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.25</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>34</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Тютюн за дъвчене; Емфие; Кесии за тютюн; Кутии за емфие, не от благороден метал.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Žvýkací tabák; Šňupací tabák; Pouzdra na tabák; Dózy na šňupací tabák.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Skråtobak; Snustobak; Tobakspunge; Snustobaksdåser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kautabak; Schnupftabak; Tabakbeutel; Schnupftabakdosen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καπνός για μάσημα· Ταμπάκος· Σακουλάκια καπνού· Ταμπακοθήκες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">chewing tobacco; snuff; tobacco pouches; snuff boxes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Tabaco de mascar; Rapé [tabaco en polvo]; Petacas para tabaco; Tabaqueras [cajas para rapé].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Närimistubakas; Nuusktubakas, ninatubakas; Tubakakotid; Nuusktubakatoosid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Purutupakka; Nuuska; Tupakkakukkarot; Nuuskarasiat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Tabac à chiquer; Tabac à priser; Blagues à tabac; Tabatières.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Duhan za žvakanje; Burmut; Torbice za duhan; Burmutice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Bagó; Tubák; Dohányzacskók; Tubákos szelencék.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tabacco da masticare; Tabacco da naso; Borse per tabacco; Tabacchiere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kramtomasis tabakas; Uostomasis tabakas; Tabakinės; Uostomojo tabako tabakinės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Košļājamā tabaka; Šņaucamā tabaka; Tabakmaki; Šņaucamās tabakas tabakdoze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tabakk għall-magħad; Tabakk tal-imnieħer; Kaxxetti tat-tabakk; Kaxxetti tat-tabakk tal-imnieħer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Pruimtabak; Snuiftabak; Tabakszakken; Snuifdozen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Tytoń do żucia; Tabaka; Woreczki na tytoń; Tabakierki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Tabaco de mascar; Rapé; Bolsas para tabaco; Caixas de rapé [Tabaqueiras].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Mestecat (Tutun de -); Tutun de prizat; Punguţe de tutun; Tabachere pentru tutun de prizat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Žuvací tabak; Šnupavý tabak; Vrecúška na tabak; Tabatierky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Tobak za žvečenje; Njuhanec (tobak za njuhanje); Mošnjički za tobak; Tobačnice za njuhanec.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tuggtobak; Snus; Tobakspungar; Snusdosor.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/097</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-25</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/167</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-02</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082678</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>48767</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017999288</RecordIdentifier>
+<BasicRecordKind>Representative - Change of name and professional address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>48767</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-06-12</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T08:41:16</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229018</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229018</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>1 ONE POOL</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162455658</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229018/000162455658.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.07</CategoryCode>
+          <CategoryCode>26.04.17</CategoryCode>
+          <CategoryCode>26.04.22</CategoryCode>
+          <CategoryCode>27.05.05</CategoryCode>
+          <CategoryCode>29.01.01</CategoryCode>
+          <CategoryCode>29.01.06</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Предоставяне на онлайн развлечения от рода на игрови турнири; Организиране на спортни състезания и спортни дейности.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Poskytování on-line zábavy ve formě herních turnajů; Organizování sportovních soutěží a sportovních událostí.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tilvejebringelse af online-underholdning i form af spilturneringer; Organisering af sportsarrangementer og -konkurrencer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Zurverfügungstellen von Onlineunterhaltung in Form von Turnierspielen; Organisation von Sportveranstaltungen und sportlichen Wettbewerben.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παροχή επιγραμμικής ψυχαγωγίας με τη μορφή πρωταθλημάτων παιχνιδιών· Οργάνωση αθλητικών εκδηλώσεων και αθλητικών αγώνων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Providing online entertainment in the nature of game tournaments; Organising of sporting activities and of sporting competitions.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios recreativos en línea en forma de torneos de juegos; organización de eventos deportivos y competiciones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meelelahutuse pakkumine veebis mänguturniiride kujul; Sporditegevuse ja -võistluste korraldamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Peliturnausten muodossa olevan online-viihteen tarjoaminen; Urheilutoiminnan tai -kilpailujen järjestäminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Mise à disposition de divertissement en ligne sous forme de tournois de jeux; Organisation d'activités et de compétitions sportives.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pružanje online zabave u obliku turnira; Organizacija sportskih aktivnosti i sportskih natjecanja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Online szórakoztatási szolgáltatások biztosítása bajnokságok formájában; Sporttevékenységek és sportversenyek szervezése.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Fornitura di servizi d'intrattenimento online sotto forma di tornei di gioco; Organizzazione di manifestazioni sportive e di competizioni sportive.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Žaidimų turnyrų pobūdžio pramogų teikimas internetu; Sporto renginių ir sporto varžybų rengimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Tiešsaistes izklaides nodrošināšana spēļu turnīru veidā; Sporta sacensību un sporta pasākumu rīkošana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Provvista ta' divertiment onlajn fl-għamla ta' turnewijiet tal-logħob; L-organizzazzjoni ta' attivitajiet sportivi u kompetizzjonijiet sportivi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Online entertainment in de vorm van speltoernooien; Organisatie van sportactiviteiten en van sportwedstrijden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Udostępnianie rozrywki online w postaci turniejów gier; Organizowanie zajęć sportowych i zawodów sportowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de entretenimento online na área dos campeonatos de jogos; Organização de atividades desportivas e de competições desportivas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Furnizare de divertisment online sub formă de turnee de jocuri; Organizare de activități sportive și competiții sportive.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poskytovanie on-line zábavy v podobe herných turnajov; Organizovanie športových podujatí a súťaží.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Nudenje spletnega razvedrila v obliki igralnih turnirjev; Organiziranje športnih aktivnosti in tekmovanj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tillhandahållande av direktansluten underhållning i form av spelturneringar; Organisering av sportevenemang och av idrottstävlingar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>35169</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

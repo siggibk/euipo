@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-11-05T17:30:25</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063937-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-29</ReceivingOfficeDate>
+<DesignIdentifier>001063937-0001</DesignIdentifier>
+<ApplicationNumber>001063937</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ApplicationDate>2008-12-29</ApplicationDate>
+<RegistrationDate>2008-12-29</RegistrationDate>
+<PublicationDate>2009-02-02</PublicationDate>
+<ApplicationReference>ALD08-080CAM</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2018-12-29</ExpiryDate>
+<EffectiveDate>2008-12-29</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2019-11-01</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061961176</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063937_0001/001063937_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061961181</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063937_0001/001063937_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061961186</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063937_0001/001063937_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061961194</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063937_0001/001063937_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061961198</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063937_0001/001063937_0001_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061961202</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063937_0001/001063937_0001_6.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">USB конектори</IndicationProduct>
+       <IndicationProduct languageCode="cs">USB konektory</IndicationProduct>
+       <IndicationProduct languageCode="da">Usb-konnektorer</IndicationProduct>
+       <IndicationProduct languageCode="de">USB-Stecker</IndicationProduct>
+       <IndicationProduct languageCode="el">Σύνδεσμοι USB (γενικός σειριακός δίαυλος )</IndicationProduct>
+       <IndicationProduct languageCode="en">USB connectors</IndicationProduct>
+       <IndicationProduct languageCode="es">conectores USB</IndicationProduct>
+       <IndicationProduct languageCode="et">USB-konnektorid</IndicationProduct>
+       <IndicationProduct languageCode="fi">USB-liittimet</IndicationProduct>
+       <IndicationProduct languageCode="fr">connecteurs USB</IndicationProduct>
+       <IndicationProduct languageCode="hu">USB csatlakozók</IndicationProduct>
+       <IndicationProduct languageCode="it">connettori USB</IndicationProduct>
+       <IndicationProduct languageCode="lt">USB jungtys</IndicationProduct>
+       <IndicationProduct languageCode="lv">USB savienotāji</IndicationProduct>
+       <IndicationProduct languageCode="mt">Konnetturi USB</IndicationProduct>
+       <IndicationProduct languageCode="nl">USB-connectors</IndicationProduct>
+       <IndicationProduct languageCode="pl">Łącza USB</IndicationProduct>
+       <IndicationProduct languageCode="pt">Conectores USB</IndicationProduct>
+       <IndicationProduct languageCode="ro">Conectori USB</IndicationProduct>
+       <IndicationProduct languageCode="sk">Konektory USB</IndicationProduct>
+       <IndicationProduct languageCode="sl">USB konektorji</IndicationProduct>
+       <IndicationProduct languageCode="sv">USB-anslutningar</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>14.02</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/021</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-02-02</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/126</PublicationIdentifier>
+        <PublicationSequenceNumber>273501</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2009-07-03</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2012/125</PublicationIdentifier>
+        <PublicationSequenceNumber>797637</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2012-07-03</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/241</PublicationIdentifier>
+        <PublicationSequenceNumber>1119523</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2013-12-19</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2015/027</PublicationIdentifier>
+        <PublicationSequenceNumber>1414603</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2015-02-10</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2016/070</PublicationIdentifier>
+        <PublicationSequenceNumber>1715612</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2016-04-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2019/210</PublicationIdentifier>
+        <PublicationSequenceNumber>101481542</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2019-11-05</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>10513</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>010419972</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1715612</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2016-03-17</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>008980504</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1414603</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2015-02-11</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>005931674</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>797637</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2012-07-03</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003219783</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>273501</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-07-17</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006992030</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1119523</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-12-19</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

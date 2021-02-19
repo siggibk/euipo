@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:05</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224414</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224414</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>MYOPERF</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162203793</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224414/000162203793.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.05.94</CategoryCode>
+          <CategoryCode>29.01.02</CategoryCode>
+          <CategoryCode>29.01.06</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Диетични и хранителни добавки; Хранителни добавки за медицински цели; Хранителни и подхранващи добавки за употреба от човека, предназначени за подобряване на работата на мускулите; Диетични вещества за медицински цели; Диетични вещества на базата на натурални продукти за медицинска употреба; Диетични храни за лечебни цели; Диетични храни на базата на растения за медицинска употреба.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Výživové doplňky; Doplňky výživy a potravinové doplňky pro léčebné účely; Výživové doplňky nebo potravní doplňky pro lidskou spotřebu určené pro zlepšování svalového výkonu; Dietetické látky pro léčebné účely; Dietetické přípravky na bázi přírodních výrobků pro léčebné účely; Dietetické potraviny pro léčebné účely; Dietetické nápoje na bázi rostlin pro léčebné účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Diætetiske og ernæringsmæssige kosttilskud; Ernærings- og kosttilskud til medicinske formål; Ernærings- eller kosttilskud til mennesker til forbedring af muskulær ydeevne; Diætetiske substanser tilpasset medicinsk brug; Kosttilskud på basis af naturlige produkter til medicinsk brug; Diætetiske næringsmidler tilpasset medicinske formål; Diætetiske fødevarer på basis af planter til medicinsk brug.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Nahrungsergänzungsmittel für diätetische Zwecke; Ernährungs- und Nahrungsmittelergänzungsstoffe für medizinische Zwecke; Nahrungsergänzungsmittel für diätetische Zwecke für Menschen zur Verbesserung der Muskelleistung; Diätische Substanzen für medizinische Zwecke; Diätetische Erzeugnisse auf der Basis von natürlichen Erzeugnissen, für medizinische Zwecke; Diätnahrungsmittel für medizinische Zwecke; Diätetische Lebensmittel auf Pflanzenbasis für medizinische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συμπληρώματα διατροφής και δίαιτας· Θρεπτικά συμπληρώματα και συμπληρώματα διατροφής για ιατρική χρήση· Συμπληρώματα θρεπτικά και διατροφής προς χρήση από ανθρώπους με στόχο τη βελτίωση της αποδοτικότητας των μυών· Διαιτητικές ουσίες προσαρμοσμένες για ιατρικές χρήσεις· Διαιτητικές ουσίες με βάση φυσικά προϊόντα για ιατρική χρήση· Τροφές διαιτητικές για ιατρική χρήση· Διαιτητικά τρόφιμα με βάση φυτικά συστατικά για ιατρική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Dietary and nutritional supplements; Nutritional and food supplements for medical purposes; Nutritional and dietary supplements for performance enhancement in humans; Dietetic substances adapted for medical use; Dietetic substances based on natural products for medical purposes; Dietetic foods adapted for medical use; Plant-based dietetic foods for medical purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Complementos dietéticos y nutricionales; Suplementos nutritivos y alimenticios con una finalidad médica; Complementos nutricionales y dietéticos para uso humano para mejorar el rendimiento muscular; Sustancias dietéticas para uso médico; Sustancias dietéticas a base de productos naturales para uso médico; Alimentos dietéticos para uso médico; Alimentos dietéticos a base de plantas para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Dieet- ja toitelisandid; Meditsiinis kasutatavad toite- ja toidulisandid; Toitainelisandid või toidulisandid, mis on ette nähtud lihaste võimekuse parandamiseks; Meditsiinilised dieetained; Naturaalsetel toodetel põhinevad dieetained meditsiiniliseks kasutuseks; Meditsiinilised dieettoidud; Taimepõhised dieettoiduained meditsiiniliseks kasutuseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Dieetti- ja ravintolisäaineet; Ravitsevat ja ravintolisät lääketieteellisiin tarkoituksiin; Lihassuoritusten parantamiseen tarkoitetut lisäravinteet ja ravintolisät ihmisille; Dieettivalmisteet lääkinnälliseen käyttöön; Luontaistuotepohjaiset dieettiaineet lääkinnälliseen käyttöön; Dieettiravintoaineet lääkinnälliseen käyttöön; Kasvipohjaiset dieettielintarvikkeet lääkinnälliseen käyttöön.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Compléments nutritionnels et alimentaires; compléments nutritionnels et alimentaires à usage médical; compléments nutritionnels et alimentaires à usage humain destinés à améliorer les performances musculaires; substances diététiques à usage médical; substances diététiques à base de produits naturels à usage médical; aliments diététiques à usage médical; aliments diététiques à base de plantes à usage médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dijetetski i hranjivi dodaci; Nutritivni dodaci i dodaci prehrani za medicinsku uporabu; Hranjivi i prehrambeni dodaci za humanu upotrebu namijenjeni poboljšanju snage mišića; Dijetne tvari za medicinske potrebe; Dijetne tvari na bazi prirodnih proizvoda za medicinske potrebe; Dijetetska hrana prilagođena za medicinske potrebe; Dijetna hrana na bazi biljaka za medicinske potrebe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Étrend- és táplálékkiegészítők; Tápláló és élelmiszer-kiegészítők orvosi célokra; Tápanyag- és étrend-kiegészítők humán gyógyászati célra, az izmok teljesítményének javítására; Diétás anyagok gyógyászati használatra; Természetes anyagokból készült diétás termékek gyógyászati használatra; Diétás ételek gyógyászati célokra; Növényi alapú diétás ételek gyógyászati alkalmazásra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Integratori alimentari dietetici; Integratori nutrizionali ed alimentari per uso medico; Complementi nutrizionali e alimentari per gli esseri umani, destinati a migliorare le prestazioni muscolari; Sostanze dietetiche per uso medico; Sostanze dietetiche a base di prodotti naturali per uso medico; Alimenti dietetici per uso medico; Alimenti dietetici a base di piante per uso medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dietiniai ir maisto papildai; Mitybos ir maisto papildai medicinos reikmėms; Žmonėms skirti maisto ir maisto papildai, skirti pagerinti raumenų veiklą; Dietinės medžiagos (medicinos reikmėms); Dietinės medžiagos, pagamintos iš natūralių produktų medicinos tikslams; Dietinis maistas (medicinos reikmėms); Dietinis maistas iš augalų medicinos reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Diētiskās un uztura piedevas; Uztura bagātinātāji un pārtikas piedevas lietošanai medicīnā; Uztura un pārtikas piedevas cilvēkiem, kas paredzētas, lai uzlabotu muskuļu darbību; Diētiskas vielas medicīniskiem nolūkiem; Diētiskas vielas uz dabīgo izstrādājumu bāzes medicīniskai izmantošanai; Diētiskie produkti medicīniskiem nolūkiem; Diētiski pārtikas produkti uz augu bāzes lietošanai medicīnā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Supplimenti tad-dieta u tan-nutrizzjoni; Supplimenti sustanzjużi u ta' l-ikel għal skopijiet mediċi; Supplimenti nutrizzjonali jew tad-dieta għall-bnedmin biex itejbu l-prestazzjoni tal-muskoli; Sustanzi djetetiċi addattati għall-użu mediku; Sustanzi dijetetiċi bbażati fuq prodotti naturali għal użu mediku; Ikel djetetiku addattat għal skopijiet mediċi; Ikel dijetetiku bbażat fuq pjanti għal użu mediku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diëtische supplementen en voedselsupplementen; Voedende en voedingssupplementen voor medische doeleinden; Voedseladditieven en voedingssupplementen voor mensen, voor het verbeteren van de spierprestaties; Diëtische substanties voor medisch gebruik; Diëtische substanties op basis van natuurlijke producten voor medisch gebruik; Dieetvoedingsmiddelen voor medisch gebruik; Dieetvoeding op basis van planten, voor medisch gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Suplementy dietetyczne i odżywcze; Dodatki odżywcze i spożywcze do celów medycznych; Suplementy odżywcze i suplementy diety dla ludzi, przeznaczone do poprawy wydajności mięśni; Dietetyczne substancje przystosowane do celów medycznych; Substancje dietetyczne na bazie produktów naturalnych do celów medycznych; Dietetyczna żywność przystosowana do celów medycznych; Żywność dietetyczna na bazie roślin do celów medycznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Suplementos dietéticos e nutricionais; Suplementos nutricionais e alimentares para uso medicinal; Suplementos nutricionais e alimentares para uso humano destinados a melhorar os desempenhos musculares; Substâncias dietéticas para uso medicinal; Substâncias dietéticas à base de produtos naturais para uso medicinal; Alimentos dietéticos para uso medicinal; Alimentos dietéticos à base de plantas para uso medicinal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suplimente dietetice şi nutritive; Suplimente nutritionale si alimentare de uz medical; Suplimente nutritive și suplimente alimentare de uz uman destinate îmbunătățirii performanțelor musculare; Dietetice (substanţe - de uz medical); Substanțe dietetice pe bază de produse naturale de uz medical; Alimente dietetice de uz medical; Alimente dietetice pe bază de plante de uz medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Výživové doplnky; Výživové a potravinové doplnky na lekárske účely; Výživové a potravinové doplnky pre ľudí určené na zlepšenie svalového výkonu; Diétne látky na lekárske použitie; Dietetické látky z prírodných produktov na lekárske účely; Dietetické potraviny upravené na lekárske účely; Dietetické potraviny na báze rastlín na lekárske účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Prehranski in hranilni dodatki; Hranljivi in prehrambeni nadomestki za medicinske namene; Hranilna in prehranska dopolnila za ljudi za namene izboljšanja mišične zmogljivosti; Dietetične snovi za medicinsko uporabo; Dietetske snovi na osnovi prehranskih izdelkov za medicinsko uporabo; Dietetična hrana, prilagojena za medicinske namene; Dietetska hrana na osnovi rastlin za medicinske namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Diet- och näringstillskott; Närings- och kosttillskott för medicinska ändamål; Näringstillskott eller kosttillskott för medicinskt bruk för förbättring av muskelprestanda; Dietiska ämnen för medicinska ändamål; Dietämnen baserade på naturliga produkter för medicinskt bruk; Dietiska födoämnespreparat anpassade för medicinska ändamål; Dietlivsmedel baserade på växter för medicinskt bruk.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>988685</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>75796</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

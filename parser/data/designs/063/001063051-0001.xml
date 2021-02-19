@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-11-05T11:31:27</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063051-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063051-0001</DesignIdentifier>
+<ApplicationNumber>001063051</ApplicationNumber>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-01-15</PublicationDate>
+<ApplicationReference>AB/NI/ED/GA/D0250UE</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<VerbalElementText>RTL</VerbalElementText>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2018-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2019-11-01</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061755689</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063051_0001/001063051_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755690</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063051_0001/001063051_0001_2.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Панели за стени</IndicationProduct>
+       <IndicationProduct languageCode="cs">Stěnové desky</IndicationProduct>
+       <IndicationProduct languageCode="da">Vægpaneler</IndicationProduct>
+       <IndicationProduct languageCode="de">Wandplatten</IndicationProduct>
+       <IndicationProduct languageCode="el">Φατνώματα τοίχου</IndicationProduct>
+       <IndicationProduct languageCode="en">Wall panels</IndicationProduct>
+       <IndicationProduct languageCode="es">Paneles murales</IndicationProduct>
+       <IndicationProduct languageCode="et">Seinatahvlid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Seinäpaneelit</IndicationProduct>
+       <IndicationProduct languageCode="fr">Panneaux muraux</IndicationProduct>
+       <IndicationProduct languageCode="hu">Falpanelek, faltáblák</IndicationProduct>
+       <IndicationProduct languageCode="it">Pannelli murali</IndicationProduct>
+       <IndicationProduct languageCode="lt">sienų apkalai Sieninia paneliai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Sienu paneļi</IndicationProduct>
+       <IndicationProduct languageCode="mt">Pannelli tal-ħajt</IndicationProduct>
+       <IndicationProduct languageCode="nl">Wandpanelen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Płyty ścienne</IndicationProduct>
+       <IndicationProduct languageCode="pt">Painéis para paredes</IndicationProduct>
+       <IndicationProduct languageCode="ro">Panouri de perete</IndicationProduct>
+       <IndicationProduct languageCode="sk">Stenové panely</IndicationProduct>
+       <IndicationProduct languageCode="sl">Stenski paneli</IndicationProduct>
+       <IndicationProduct languageCode="sv">Väggpaneler</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>25.01</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/008</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2012/177</PublicationIdentifier>
+        <PublicationSequenceNumber>851393</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2012-09-14</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/001</PublicationIdentifier>
+        <PublicationSequenceNumber>1126971</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2014-01-03</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2015/036</PublicationIdentifier>
+        <PublicationSequenceNumber>1430705</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2015-02-23</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2019/210</PublicationIdentifier>
+        <PublicationSequenceNumber>101482479</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2019-11-05</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>355639</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>14265</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006178978</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>851393</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2012-09-14</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>009016415</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1430705</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2015-02-23</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006985448</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1126971</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-03</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

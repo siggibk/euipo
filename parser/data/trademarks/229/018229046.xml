@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-10T08:16:38</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229046</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229046</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-09-08</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-10</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>seven star sport</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>12</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Велосипеди; Тротинетки [превозни средства]; Електрически велосипеди; Електрически триколки; Мотопеди; Въздушни превозни средства; Безпилотни летателни апарати с камери; Детски спортни колички; Сгъваеми покриви за коли; Кораби.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Jízdní kola; Koloběžky [dopravní prostředky]; Elektrická jízdní kola; Elektrické trojkolky; Mopedy; Vzdušné dopravní prostředky; Drony s kamerou; Dětské kočárky (sportovní a skládací); Skládací střechy na vozidla; Čluny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Cykler; Løbehjul [køretøjer]; Elektriske cykler; Elektriske trehjulede cykler; Knallerter [køretøjer]; Befordringsmidler til brug i luften; Kameradroner; Klapvogne; Sammenfoldelige kalecher til køretøjer; Både.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Fahrräder; Tretroller [Fahrzeuge]; E-Bikes; Elektrische Dreiräder; Mopeds; Flugapparate; Kameradrohnen; Sportkinderwagen und Buggys; Faltbare Fahrzeugverdecke; Boote.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Δίκυκλα· Πατίνια (οχήματα)· Ηλεκτρικά ποδήλατα· Ηλεκτρικά τρίκυκλα· Μοτοποδήλατα· Εναέρια οχήματα· Τηλεκατευθυνόμενα αεροσκάφη (drone) με κάμερα· Καροτσάκια με σκέπαστρο για βρέφη, ποδήλατα, δίκυκλα και τρίκυκλα· Πτυσσόμενες κουκούλες για οχήματα· Πλοία.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Bicycles; push scooters [vehicles]; electric bicycles; Electric tricycles; Mopeds; air vehicles; camera drones; Pushchairs; Folding hoods for vehicles; Boats.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Ciclos; Patinetes [vehículos]; Bicicletas eléctricas; Triciclos eléctricos; Ciclomotores; Vehículos aéreos; Drones con cámara; Sillas de paseo; Capotas plegables para vehículos; Barcos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Jalgrattad; Tõukerattad (sõidukid); Elektrilised jalgrattad; Kolmerattalised elektrijalgrattad; Mopeedid; Õhusõidukid; Kaameradroonid; Lapsekärud; Sõidukite kokkupandavad katused; Paadid, laevad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Polkupyörät; Potkulaudat (kulkuneuvot); Sähkökäyttöiset polkupyörät; Sähkötoimiset kolmipyörät; Mopedit; Lentokoneet; Kameralennokit; Lastenvaunut; Ajoneuvojen kuomut; Laivat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Bicyclettes; Trottinettes [véhicules]; Bicyclettes électriques; Tricycles électriques; Vélomoteurs; Véhicules aériens; Drones caméras; Poussettes; Capotes pliantes pour véhicules; Bateaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Bicikli; Romobili (vozila); Električni bicikli; Električni tricikli; Mopedi; Zrakoplovi; Bespilotne letjelice za kamere; Dječja kolica; Sklopivi krovovi za vozila; Brodovi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kerékpárok; Lábbal hajtható rollerek [járművek]; Elektromos kerékpárok; Elektromos triciklik; Mopedek; Légi járművek; Kamerás drónok; Babakocsik; Összecsukható, lenyitható tetők járművekhez; Hajók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Biciclette; Monopattini [veicoli]; Biciclette elettriche; Tricicli elettrici; Ciclomotori; Veicoli aerei; Droni con macchina fotografica; Carrozzine; Cappotte pieghevoli per veicoli; Battelli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dviračiai; Paspirtukai [transporto priemonės]; Elektriniai dviračiai; Elektriniai triračiai; Mopedai; Oro transporto priemonės; Radijo bangomis valdomi skraidymo aparatai su fotoaparatais; Vaikiškos sulankstomosios kėdutės su rateliais; Sudedamieji transporto priemonių stogai; Valtys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Velosipēdi; Stumjami skūteri (transportlīdzekļi); Elektriskie velosipēdi; Elektriski trīsriteņi; Mopēdi; Gaisa transportlīdzekļi; Dronu kameras; Bērnu ratiņi; Transportlīdzekļu saliekamie nolaižamie jumti; Laivas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Roti (biċikletti); Skuters li jimxu b'imbottatura[vetturi]; Biċikletti elettriċi; Triċikletti elettriċi; Roti b'mutur b'forza inqas minn 50cc; Vetturi tal-arja; Drones bil-kameras; Puxċers; Ħuds li jintwew għall-vetturi; Dgħajjes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Rijwielen; Steppen [voertuigen]; Elektrische fietsen; Elektrische driewielers; Rijwielen met motor; Luchtvaartuigen; Drones voorzien van een camera; Kinderwagens; Vouwkappen voor voertuigen; Boten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Rowery; Hulajnogi (pojazdy); Rowery elektryczne; Elektryczne rowery trójkołowe; Motorowery; Pojazdy lotnicze; Drony wyposażone w kamerę; Wózki dziecięce; Składane dachy do pojazdów; Łodzie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bicicletas; Trotinetes/patinetes [veículos]; Bicicletas elétricas; Triciclos elétricos; Ciclomotores; Veículos aéreos; Drones com câmaras; Carrinhos de criança; Capotas de dobrar para veículos; Barcos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Biciclete; Trotinete electrice [vehicule]; Biciclete electrice; Triciclete electrice; Mopeduri; Aparate de zbor; Drone cu cameră; Cărucioare pentru copii; Capote pliabile pentru vehicule; Nave.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Bicykle; Kolobežky; Elektrické bicykle; Elektrické trojkolky; Mopedy; Letecké dopravné prostriedky; Drony s kamerou; Detské kombinované kočíky; Skladacie strechy na vozidlá; Lode, člny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kolesa; Skiroji [vozila]; Električna kolesa; Električni tricikli; Mopedi; Zračna vozila; Brezpilotna letala s kamero; Otroški vozički; Zložljive strehe za vozila; Čolni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Cyklar; Sparkcyklar [fordon]; Elektriska cyklar; Elektriska trehjulingar; Mopeder; Flygplan; Kameradrönare; Barnvagnar; Hopfällbara suffletter för fordon och farkoster; Båtar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/101</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/173</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>964299</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>32203</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

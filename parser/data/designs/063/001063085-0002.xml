@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2018-11-27T08:37:24</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063085-0002</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063085-0002</DesignIdentifier>
+<ApplicationNumber>001063085</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2010-01-21</PublicationDate>
+<ApplicationReference>DM331ED</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>true</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-11-23</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061756125</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063085_0002/001063085_0002_1.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Графичен потребителски интерфейс</IndicationProduct>
+       <IndicationProduct languageCode="cs">Grafická uživatelská rozhraní</IndicationProduct>
+       <IndicationProduct languageCode="da">Grafiske brugergrænseflader</IndicationProduct>
+       <IndicationProduct languageCode="de">Grafische Benutzeroberflächen</IndicationProduct>
+       <IndicationProduct languageCode="el">Διασυνδέσεις γραφικών χρήστη</IndicationProduct>
+       <IndicationProduct languageCode="en">Graphical user interfaces</IndicationProduct>
+       <IndicationProduct languageCode="es">Interfaces gráficos de usuario</IndicationProduct>
+       <IndicationProduct languageCode="et">Graafilised kasutajaliidesed</IndicationProduct>
+       <IndicationProduct languageCode="fi">Graafiset käyttöliittymät</IndicationProduct>
+       <IndicationProduct languageCode="fr">Interfaces utilisateurs graphiques</IndicationProduct>
+       <IndicationProduct languageCode="hu">Grafikus felhasználói interfészek</IndicationProduct>
+       <IndicationProduct languageCode="it">Interfacce grafiche per l'utente</IndicationProduct>
+       <IndicationProduct languageCode="lt">Grafinės naudotojų sąsajos</IndicationProduct>
+       <IndicationProduct languageCode="lv">Lietotāju grafiskie interfeisi</IndicationProduct>
+       <IndicationProduct languageCode="mt">Interfejs grafiku tal-utent</IndicationProduct>
+       <IndicationProduct languageCode="nl">Grafische gebruikersinterfaces</IndicationProduct>
+       <IndicationProduct languageCode="pl">Graficzne interfejsy użytkownika</IndicationProduct>
+       <IndicationProduct languageCode="pt">Interfaces de utilizador gráficos</IndicationProduct>
+       <IndicationProduct languageCode="ro">Interfeţe grafice pentru utilizatori</IndicationProduct>
+       <IndicationProduct languageCode="sk">Grafické užívateľské rozhrania</IndicationProduct>
+       <IndicationProduct languageCode="sl">Grafični uporabniški vmesniki</IndicationProduct>
+       <IndicationProduct languageCode="sv">Grafiska användargränssnitt</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>14.04</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/008</PublicationIdentifier>
+        <PublicationSection>A.2</PublicationSection>
+        <PublicationDate>2009-01-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2010/014</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2010-01-21</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/227</PublicationIdentifier>
+        <PublicationSequenceNumber>1102143</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2013-11-28</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/225</PublicationIdentifier>
+        <PublicationSequenceNumber>100777206</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2018-11-27</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>261541</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>10139</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006985000</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1102143</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-11-29</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012442239</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100777206</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-11-27</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:58</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063580-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063580-0001</DesignIdentifier>
+<ApplicationNumber>001063580</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-03-10</PublicationDate>
+<ApplicationReference>OB/AC/HE/M136232(SC094727)</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000062858420</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063580_0001/001063580_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062858423</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063580_0001/001063580_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062858424</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063580_0001/001063580_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062858427</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063580_0001/001063580_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062858428</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063580_0001/001063580_0001_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062858429</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063580_0001/001063580_0001_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062858430</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063580_0001/001063580_0001_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Щандове</IndicationProduct>
+       <IndicationProduct languageCode="cs">Displeje</IndicationProduct>
+       <IndicationProduct languageCode="da">Display</IndicationProduct>
+       <IndicationProduct languageCode="de">Displays</IndicationProduct>
+       <IndicationProduct languageCode="el">Μέσα οπτικής παρουσίασης</IndicationProduct>
+       <IndicationProduct languageCode="en">Displays</IndicationProduct>
+       <IndicationProduct languageCode="es">Pantallas</IndicationProduct>
+       <IndicationProduct languageCode="et">Kuvarid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Näytöt</IndicationProduct>
+       <IndicationProduct languageCode="fr">Affichages</IndicationProduct>
+       <IndicationProduct languageCode="hu">Képernyők, kijelzők</IndicationProduct>
+       <IndicationProduct languageCode="it">Visualizzatori</IndicationProduct>
+       <IndicationProduct languageCode="lt">Prekių išdėstymai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Ekrānpultis</IndicationProduct>
+       <IndicationProduct languageCode="mt">Wirjiet</IndicationProduct>
+       <IndicationProduct languageCode="nl">Weergavetoestellen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Wyświetlacze</IndicationProduct>
+       <IndicationProduct languageCode="pt">Ecrãs</IndicationProduct>
+       <IndicationProduct languageCode="ro">Unităţi de prezentare</IndicationProduct>
+       <IndicationProduct languageCode="sk">Displays</IndicationProduct>
+       <IndicationProduct languageCode="sl">Zasloni</IndicationProduct>
+       <IndicationProduct languageCode="sv">Displays</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>14.02</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/044</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-03-10</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1326113</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>272832</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>10696</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

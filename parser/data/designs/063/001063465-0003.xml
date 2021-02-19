@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:47</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063465-0003</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063465-0003</DesignIdentifier>
+<ApplicationNumber>001063465</ApplicationNumber>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-01-26</PublicationDate>
+<ApplicationReference>Z/LA07/Broekhof of EU NR</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061873520</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063465_0003/001063465_0003_1.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.25</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Кувертюри</IndicationProduct>
+       <IndicationProduct languageCode="bg">Опаковки за растения</IndicationProduct>
+       <IndicationProduct languageCode="bg">Опаковки за цветя</IndicationProduct>
+       <IndicationProduct languageCode="cs">Obaly na rostliny</IndicationProduct>
+       <IndicationProduct languageCode="cs">Obal na kytky</IndicationProduct>
+       <IndicationProduct languageCode="cs">Obaly</IndicationProduct>
+       <IndicationProduct languageCode="da">Betræk</IndicationProduct>
+       <IndicationProduct languageCode="da">Emballage til planter</IndicationProduct>
+       <IndicationProduct languageCode="da">Emballage til blomster</IndicationProduct>
+       <IndicationProduct languageCode="de">Schutzhüllen</IndicationProduct>
+       <IndicationProduct languageCode="de">Verpackungen für Blumen</IndicationProduct>
+       <IndicationProduct languageCode="de">Pflanzenverpackungen</IndicationProduct>
+       <IndicationProduct languageCode="el">Συσκευασίες για άνθη</IndicationProduct>
+       <IndicationProduct languageCode="el">Συσκευασία φυτών</IndicationProduct>
+       <IndicationProduct languageCode="el">Καλύμματα</IndicationProduct>
+       <IndicationProduct languageCode="en">Packaging for plants</IndicationProduct>
+       <IndicationProduct languageCode="en">Covers</IndicationProduct>
+       <IndicationProduct languageCode="en">Packaging for flowers</IndicationProduct>
+       <IndicationProduct languageCode="es">Embalajes para flores</IndicationProduct>
+       <IndicationProduct languageCode="es">Embalaje de plantas</IndicationProduct>
+       <IndicationProduct languageCode="es">Fundas</IndicationProduct>
+       <IndicationProduct languageCode="et">Lillede pakendid</IndicationProduct>
+       <IndicationProduct languageCode="et">Katted</IndicationProduct>
+       <IndicationProduct languageCode="et">Taimepakendid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Pakkaukset kukkia varten</IndicationProduct>
+       <IndicationProduct languageCode="fi">Kasvipakkaukset</IndicationProduct>
+       <IndicationProduct languageCode="fi">Päälliset</IndicationProduct>
+       <IndicationProduct languageCode="fr">Emballages pour fleurs</IndicationProduct>
+       <IndicationProduct languageCode="fr">Emballages pour plantes</IndicationProduct>
+       <IndicationProduct languageCode="fr">Housses</IndicationProduct>
+       <IndicationProduct languageCode="hu">Csomagolóanyagok növények számára</IndicationProduct>
+       <IndicationProduct languageCode="hu">Csomagolások virágok részére</IndicationProduct>
+       <IndicationProduct languageCode="hu">Borítók, tokok</IndicationProduct>
+       <IndicationProduct languageCode="it">Imballaggi per piante</IndicationProduct>
+       <IndicationProduct languageCode="it">Imballaggi per fiori</IndicationProduct>
+       <IndicationProduct languageCode="it">Federe</IndicationProduct>
+       <IndicationProduct languageCode="lt">Gėlių pakuotės</IndicationProduct>
+       <IndicationProduct languageCode="lt">Dangteliai</IndicationProduct>
+       <IndicationProduct languageCode="lt">Pakuočių augalams</IndicationProduct>
+       <IndicationProduct languageCode="lv">Pārsegi</IndicationProduct>
+       <IndicationProduct languageCode="lv">Augu iesaiņojums</IndicationProduct>
+       <IndicationProduct languageCode="lv">Ziedu iesaiņojums</IndicationProduct>
+       <IndicationProduct languageCode="mt">Ippakkjar għal fjuri</IndicationProduct>
+       <IndicationProduct languageCode="mt">Għata</IndicationProduct>
+       <IndicationProduct languageCode="mt">Ippakkjar għal pjanti</IndicationProduct>
+       <IndicationProduct languageCode="nl">Bloemenverpakkingen</IndicationProduct>
+       <IndicationProduct languageCode="nl">Plantenverpakkingen</IndicationProduct>
+       <IndicationProduct languageCode="nl">Hoezen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Opakowania na kwiaty</IndicationProduct>
+       <IndicationProduct languageCode="pl">Opakowania na rośliny</IndicationProduct>
+       <IndicationProduct languageCode="pl">Pokrowce</IndicationProduct>
+       <IndicationProduct languageCode="pt">Embalagens para flores</IndicationProduct>
+       <IndicationProduct languageCode="pt">Coberturas</IndicationProduct>
+       <IndicationProduct languageCode="pt">Embalagens para plantas</IndicationProduct>
+       <IndicationProduct languageCode="ro">Ambalaje pentru plante</IndicationProduct>
+       <IndicationProduct languageCode="ro">Huse</IndicationProduct>
+       <IndicationProduct languageCode="ro">Ambalaje pentru flori</IndicationProduct>
+       <IndicationProduct languageCode="sk">Obaly na rastliny</IndicationProduct>
+       <IndicationProduct languageCode="sk">Balenie na kvety</IndicationProduct>
+       <IndicationProduct languageCode="sk">Kryty</IndicationProduct>
+       <IndicationProduct languageCode="sl">Ovitki, ščitniki</IndicationProduct>
+       <IndicationProduct languageCode="sl">Embalaža za rastline</IndicationProduct>
+       <IndicationProduct languageCode="sl">Embalaže za rože</IndicationProduct>
+       <IndicationProduct languageCode="sv">Emballage för växter</IndicationProduct>
+       <IndicationProduct languageCode="sv">Förpackningar för blommor</IndicationProduct>
+       <IndicationProduct languageCode="sv">Överdrag</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>09.03</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/016</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-26</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325797</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>167102</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>11165</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

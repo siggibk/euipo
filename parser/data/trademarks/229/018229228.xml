@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:08</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229228</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229228</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>3CAM</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>36</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Управление на капитали; Управление на основни фондове; Управление на инвестиции; Управление на фондове; Инвестиране на взаимни фондове; Управление на фондове за частни клиенти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Správa kapitálu; Management kapitálových fondů; Investiční management; Služby v oblasti řízení fondů; Investice podílových fondů; Správa fondů pro soukromé klienty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kapitalstyring; Administration af kapitalfonde; Forvaltning af investeringer; Kapitalforvaltning; Investering i investeringsforeninger; Formueforvaltning for privatkunder.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kapitalmanagement; Verwaltung von Kapitalfonds; Verwaltung von Kapitalanlagen; Fondsverwaltung; Investmentgeschäfte bezüglich Fonds; Fondsmanagement für Privatkunden; Verwaltung von Fonds.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διαχείριση κεφαλαίων· Διαχείριση κεφαλαίων [κονδυλίων]· Διαχείριση επενδύσεων· Διαχείριση κεφαλαίου· Επενδύσεις σε αμοιβαία κεφάλαια· Διαχείριση κεφαλαίων για ιδιώτες πελάτες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Capital management; Capital fund management; Investment management; Fund management; Mutual fund investment; Fund management for private clients.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Gestión de capitales; Gestión de fondo de capital; Gestión de inversiones; Gestión de fondos; Inversión de fondos de inversión; Gestión de fondos de clientes particulares.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kapitalihaldus; Põhifondi haldus; Investeeringute haldamine; Fondihaldus; Avatud investeerimisfondi investeerimine; Eraklientide fondihaldus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Pääomanhoito; Pääomarahastojen hallinta; Sijoitusten hallinta; Rahastoyhtiöt; Sijoitusrahastoihin liittyvä sijoittaminen; Omaisuudenhoito yksityisasiakkaille.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Gestion de capitaux; Gestion de fonds de capitaux; Gestion d'investissements; Gestion de fonds; Investissements sous forme de fonds communs de placement; Gestion de fonds pour des clients privés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Upravljanje kapitalom; Upravljanje kapitalnim fondom; Upravljanje ulaganjem; Upravljanje fondovima; Ulaganje u uzajamni fond; Upravljanje fondovima privatnih klijenata.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Tőkemenedzsment; Tőkealap kezelés; Befektetés menedzsment; Tőkekezelés; Közös pénzalapokkal kapcsolatos befektetési szolgáltatások; Tőkekezelés lakossági ügyfelek számára.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Gestione del capitale; Gestione di fondi di capitali; Gestione di investimenti; Gestione di fondi; Investimenti in fondi comuni d'investimento; Gestione dei fondi per conto di clienti privati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kapitalo valdymo paslaugos; Pagrindinių lėšų valdymas; Investicijų valdymas; Kapitalo valdymas; Savitarpio fondų investavimas; Privačių klientų fondų valdymas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kapitāla vadības pakalpojumi; Kapitāla fondu pārvaldība; Ieguldījumu pārvaldība; Fondu vadīšana; Ieguldījumi savstarpējos fondos; Privāto klientu fondu pārvalde.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' ġestjoni ta' kapital; Ġestjoni ta' fondi kapitali; Il-ġestjoni ta' investimenti; Ġestjoni ta' fondi; Investiment f'fond komuni; Ġestjoni ta' fondi għall-klijenti privati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kapitaalbeheer; Beheer van kapitaalfondsen; Beheer van investeringen; Fondsenbeheer; Investeringen met betrekking tot vorming van fondsen; Fondsenbeheer voor particulieren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Zarządzanie kapitałem; Zarządzenie funduszem kapitałowym; Zarządzanie inwestycjami; Zarządzanie funduszem; Inwestowanie funduszy wzajemnych; Zarządzanie funduszami dla klientów prywatnych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Administração de capital; Gestão de fundos de capital; Gestão de investimentos; Gestão de fundos; Investimento de fundos mútuos; Gestão de fundos para clientes privados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Administrare de capital; Gestiunea fondurilor de capital; Gestiunea investițiilor; Gestiunea fondurilor; Investiții de fonduri mutuale; Gestionarea fondurilor pentru clienți particulari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Riadenie kapitálu; Riadenie kapitálových fondov; Investičný manažment; Služby riadenia fondov; Investície podielových fondov; Riadenie finančných prostriedkov pre súkromných klientov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve upravljanja kapitala; Upravljanje kapitalskega sklada; Upravljanje investicij; Upravljanje skladov; Investicije v vzajemni sklad; Upravljanje skladov za zasebne stranke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kapitalförvaltning; Förvaltning av kapitalfonder; Förvaltning av investeringar; Fondförvaltning; Aktiefondsinvestering; Fondförvaltning för privata kunder.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

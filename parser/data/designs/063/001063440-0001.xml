@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:55</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063440-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063440-0001</DesignIdentifier>
+<ApplicationNumber>001063440</ApplicationNumber>
+<ApplicationLanguageCode>fi</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-02-10</PublicationDate>
+<ApplicationReference>MASTERMARK</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061781808</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063440_0001/001063440_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061781809</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063440_0001/001063440_0001_2.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Игри на открито</IndicationProduct>
+       <IndicationProduct languageCode="cs">Hry venku</IndicationProduct>
+       <IndicationProduct languageCode="da">Udendørs spil</IndicationProduct>
+       <IndicationProduct languageCode="de">Außenspiele</IndicationProduct>
+       <IndicationProduct languageCode="el">Υπαίθρια παιχνίδια</IndicationProduct>
+       <IndicationProduct languageCode="en">Outdoor games</IndicationProduct>
+       <IndicationProduct languageCode="es">Juegos de exterior</IndicationProduct>
+       <IndicationProduct languageCode="et">Väljas mängitavad mängud</IndicationProduct>
+       <IndicationProduct languageCode="fi">Ulkopelit</IndicationProduct>
+       <IndicationProduct languageCode="fr">Jeux de plein air</IndicationProduct>
+       <IndicationProduct languageCode="hu">Szabadtéri játékok</IndicationProduct>
+       <IndicationProduct languageCode="it">Giochi all'aperto</IndicationProduct>
+       <IndicationProduct languageCode="lt">Lauko žaidimai</IndicationProduct>
+       <IndicationProduct languageCode="lv">brīvdabas spēles</IndicationProduct>
+       <IndicationProduct languageCode="mt">Logħob li jsir barra</IndicationProduct>
+       <IndicationProduct languageCode="nl">Openluchtspellen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Gry na świeżym powietrzu</IndicationProduct>
+       <IndicationProduct languageCode="pt">Jogos ao ar livre</IndicationProduct>
+       <IndicationProduct languageCode="ro">jocuri în aer liber</IndicationProduct>
+       <IndicationProduct languageCode="sk">Hry vonku</IndicationProduct>
+       <IndicationProduct languageCode="sl">Igre na prostem</IndicationProduct>
+       <IndicationProduct languageCode="sv">Utomhusspel</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>21.03</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/027</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-02-10</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1326022</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>23860</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>25113</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-08-17T11:36:50</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063689-0002</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063689-0002</DesignIdentifier>
+<ApplicationNumber>001063689</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-04-02</PublicationDate>
+<ApplicationReference>EM5564RBbib</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-12-17</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061901859</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063689_0002/001063689_0002_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061901860</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063689_0002/001063689_0002_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061901863</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063689_0002/001063689_0002_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061901864</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063689_0002/001063689_0002_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061901866</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063689_0002/001063689_0002_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061901867</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063689_0002/001063689_0002_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061901869</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063689_0002/001063689_0002_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Комбинирани лампи за задни фарове на автомобили</IndicationProduct>
+       <IndicationProduct languageCode="cs">Zadní kombinovaný světlomet automobilu</IndicationProduct>
+       <IndicationProduct languageCode="da">Kombinationsbaglygte til automobil</IndicationProduct>
+       <IndicationProduct languageCode="de">Heck-Kombileuchte für Kraftfahrzeuge</IndicationProduct>
+       <IndicationProduct languageCode="el">Οπίσθιος πολλαπλός φανός για αυτοκίνητο</IndicationProduct>
+       <IndicationProduct languageCode="en">Rear combination lamp for an automobile</IndicationProduct>
+       <IndicationProduct languageCode="es">Combinación de faros traseros para automóviles</IndicationProduct>
+       <IndicationProduct languageCode="et">Auto kombineeritud tagatuli</IndicationProduct>
+       <IndicationProduct languageCode="fi">Autojen takavalojen lamppuyhdistelmä</IndicationProduct>
+       <IndicationProduct languageCode="fr">Combinaison arrière de phares pour automobiles</IndicationProduct>
+       <IndicationProduct languageCode="hu">Hátsó kombinált lámpa személygépkocsihoz</IndicationProduct>
+       <IndicationProduct languageCode="it">Combinazione di fari posteriori per un'automobile</IndicationProduct>
+       <IndicationProduct languageCode="lt">Galinė įkombinuota automobilio lempa</IndicationProduct>
+       <IndicationProduct languageCode="lv">Sāna kombinējošās gaismas automašīnai</IndicationProduct>
+       <IndicationProduct languageCode="mt">Rear combination lamp għal karozza</IndicationProduct>
+       <IndicationProduct languageCode="nl">Achterlicht-unit voor motorvoertuigen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Tylne reflektory główne i kierunkowskazy (w jednej obudowie) do samochodów</IndicationProduct>
+       <IndicationProduct languageCode="pt">Conjunto de faróis traseiros para automóveis</IndicationProduct>
+       <IndicationProduct languageCode="ro">Blocuri optice spate pentru automobile</IndicationProduct>
+       <IndicationProduct languageCode="sk">Zadné svetlo na automobil</IndicationProduct>
+       <IndicationProduct languageCode="sl">Zadnja kombinirana luč za avtomobile</IndicationProduct>
+       <IndicationProduct languageCode="sv">Kombinationsstrålkastare (bak) till bil</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>26.06</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PriorityDetails>
+       <Priority>
+        <PriorityCountryCode>JP</PriorityCountryCode>
+        <PriorityNumber>2008-022413</PriorityNumber>
+        <PriorityDate>2008-09-01</PriorityDate>
+        <PriorityStatusCode>Claimed</PriorityStatusCode>
+       </Priority>
+      </PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/061</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-04-02</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/002</PublicationIdentifier>
+        <PublicationSequenceNumber>1129227</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2014-01-07</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/133</PublicationIdentifier>
+        <PublicationSequenceNumber>1269136</PublicationSequenceNumber>
+        <PublicationSection>B.2.2</PublicationSection>
+        <PublicationDate>2014-07-21</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/137</PublicationIdentifier>
+        <PublicationSequenceNumber>1276484</PublicationSequenceNumber>
+        <PublicationSection>B.2.2</PublicationSection>
+        <PublicationDate>2014-07-25</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2015/044</PublicationIdentifier>
+        <PublicationSequenceNumber>1442835</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2015-03-05</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/241</PublicationIdentifier>
+        <PublicationSequenceNumber>100814898</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2018-12-19</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>6961</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>10111</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>008314951</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1269136</PublicationSequenceNumber>
+           <PublicationSection>B.2.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-07-21</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>008330130</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1276484</PublicationSequenceNumber>
+           <PublicationSection>B.2.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-07-25</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>009055538</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1442835</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2015-03-05</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012443862</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100814898</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-12-19</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006995355</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1129227</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-07</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

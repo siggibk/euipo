@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-14T15:03:37</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229246</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229246</ApplicationNumber>
+<ApplicationDate>2020-07-23</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="1">Application published</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-14</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>AGFINEST</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162457384</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229246/000162457384.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.01.05</CategoryCode>
+          <CategoryCode>27.05.22</CategoryCode>
+          <CategoryCode>27.99.01</CategoryCode>
+          <CategoryCode>27.99.07</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Кабели за USB устройства; Високодетайлни мултимедийни кабели за интерфейс; Компютърни кабели; Аудио кабел; Видеокабели; USB адаптори; Адаптори за енергия; USB зарядни устройства; Периферни устройства, пригодени за използване с компютри; Кабелни конектори.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">USB kabely; Kabely pro multimediální rozhraní s vysokým rozlišením; Počítačové kabely; Audio kabely; Video kabely; USB adaptéry; Adaptéry elektrického proudu; USB nabíječky; Periferní zařízení počítačů; Kabelové konektory.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">USB-kabler; Kabler til brug med High-Definition Multimedia Interface; Computerkabler; Lydkabler; Videokabler; USB-adaptere; Elektrisk strømadaptere; USB-opladere; Perifere enheder til computere; Konnektorer til kabler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">USB-Kabel; Hochauflösende Multimedia-Schnittstellenkabel; Computerkabel; Audiokabel; Videokabel; USB-Adapter; Stromadapter; USB-Ladegeräte; An Computer angepasste Peripheriegeräte; Kabelstecker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καλώδια καθολικού σειριακού αγωγού (USB)· Καλώδια διεπαφών πολυμέσων υψηλής ευκρίνειας· Καλώδια ηλεκτρονικών υπολογιστών· Καλώδια ήχου· Καλώδια βίντεο· Προσαρμογείς USB (ενιαίος σειριακός δίαυλος)· Μετασχηματιστές ηλεκτρικής ισχύος· Φορτιστές καθολικού σειριακού αγωγού (USB)· Περιφερειακός εξοπλισμός προσαρμοσμένος για χρήση σε ηλεκτρονικούς υπολογιστές· Σύνδεσμοι καλωδίων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">usb cables; high definition multimedia interface cables; computer cables; audio cables; video cables; usb adapters; power adapters; usb chargers; computer peripheral devices; cable connectors.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cables USB; Cables de interfaz multimedia de alta definición; Cables para ordenadores; Cables de audio; Cables de vídeo; Adaptadores de USB; Adaptadores de corriente; Cargadores por USB; Dispositivos periféricos utilizados con ordenadores; Conectores de cables.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">USB-kaablid; Kõrglahutusega multimeediumliideste kaablid; Arvutijuhtmed; Helijuhtmed; Videokaablid; USB-adapterid; Elektritoiteadapterid; USB-laadurid; Arvutite välisseadmed; Kaabliklemmid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">USB-kaapelit; Teräväpiirtomultimedialiittymien kaapelit; Tietokonekaapeloinnit; Audiokaapelit; Videokaapelit; USB-sovittimet; Verkkomuuntajat; USB-laturit; Tietokoneiden oheislaitteet; Kaapeliliittimet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Câbles USB; Câbles d'interfaces multimédias haute définition; Câbles pour ordinateurs; Câble audio; Câbles vidéo; Adaptateurs USB; Adaptateurs de courant; Chargeurs USB; Périphériques adaptés pour utilisation avec des ordinateurs; Connecteurs de câbles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">USB kablovi; Kabeli za multimedijska sučelja visoke rezolucije; Računalni kablovi; Audio kablovi; Videokabel; USB adapteri; Strujni adapteri; USB punjači; Periferni uređaji prilagođeni za uporabu s računalima; Konektori za kablove.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">USB kábelek; Nagyfelbontású multimédiás interfész kábelek; Számítógép kábelek; Audio kábelek; Videokábelek; USB adapterek; Elektromos hálózati adapterek; USB-töltők; Számítógéphez kialakított perifériák; Kábelcsatlakozók, kábelösszekötők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cavi USB; Cavi di interfaccia multimediali ad alta definizione; Cavi per elaboratori elettronici; Cavi audio; Cavi video; Adattatori USB; Adattatori per alimentazioni elettriche; Caricatori USB; Periferiche concepite per essere utilizzate con i computer; Connettori per cavi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">USB kabeliai; Raiškiosios daugialypės terpės sietuvų kabeliai; Kompiuterių kabeliai; Garso kabeliai; Vaizdo kabeliai; USB adapteriai; Elektros galios adapteriai; USB įkrovikliai; Kompiuterių išoriniai įrenginiai; Kabelių jungtys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Universālo seriālo kopņu (USB) kabeļi; Augstas izšķirtspējas multivides saskarnes kabeļi; Datoru kabeļi; Audio kabeļi; Video kabeļi; USB adapteri; Strāvas adapteri; USB uzlādes ierīces; Datoru perifērijas ierīces; Kabeļu savienotājelementi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kejbil tal-USB; Kejbils tal-konnessjoni multimedjali ta' definizzjoni għolja; Kejbils tal-kompjuter; Linji tal-awdjo; Kejbils tal-vidjo; Adatturi ta' l-USB; Adapters tal-enerġija; Ċarġers tal-USB; Periferali addattati għall-użu mal-kompjuters; Konnetturi għall-kejbils.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">USB kabels; High-definition multimedia-interfacekabels; Computerkabels; Audiokabels; Videokabels; USB-adapters; Stroom adapters; Usb-laders; Computerrandapparatuur; Kabelconnectors.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kable USB; Kable interfejsowe do multimediów o wysokiej rozdzielczości; Okablowanie do komputerów; Kable audio; Kable wideo; Adaptery USB; Zasilacze sieciowe; Ładowarki USB; Sprzęt peryferyjny do komputerów; Złącza do kabli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cabos USB; Cabos de interfaces multimédia de alta-definição; Cabos de computador; Cabos de áudio; Cabos de vídeo; Adaptadores USB; Adaptadores de corrente; Carregadores USB; Periféricos adaptados para uso com computadores; Conetores de cabos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cabluri USB; Cabluri pentru interfețe multimedia de înaltă definiție; Cabluri pentru calculatoare; Cabluri audio; Cabluri video; Adaptoare USB; Adaptoare de curent; Încărcătoare USB; Periferice adaptate pentru a fi folosite la calculatoare; Conectori de cabluri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">USB káble; Hi-fi multimediálne prepojovacie káble; Počítačové káble; Audio káble; Videokáble; USB adaptéry; Elektrické adaptéry; USB nabíjačky; Periférne zariadenia počítačov; Káblové konektory.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">USB kabli; Kabli za multimedijske vmesnike z visoko ločljivostjo; Računalniški kabli; Avdio kabel; Video kabli; Adapterji USB; Adapterji za električno omrežje; USB polnilci; Zunanje enote, prilagojene za uporabo z računalniki; Kabelski konektorji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">USB-kablar; Kablar för multimediegränssnitt med hög upplösning; Kablar till datorer; Audiokablar; Videokablar; USB-adaptrar; Nätadaptrar; USB-laddare; Kringutrustning anpassade för användning med datorer; Kabelanslutningar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/174</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-09-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15066</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

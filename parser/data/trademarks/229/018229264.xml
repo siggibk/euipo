@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-28T12:49:12</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229264</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229264</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-25</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>KOSBACH</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Козметични средства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kosmetické přípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kosmetik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kosmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καλλυντικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">cosmetics.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cosméticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kosmeetikavahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kosmetiikka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Cosmétiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kozmetički proizvodi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kozmetikai szerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cosmetici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kosmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kosmētiskie līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kożmetiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Cosmetica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kosmetyki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cosméticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cosmetice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kozmetické prípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kozmetični izdelki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kosmetika.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Инжектори за медицински цели; Игли за медицински цели; Медицински апарати и инструменти; Маски (предпазни -) за медицински цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Injektory k lékařským účelům; Jehly pro lékařské účely; Lékařské přístroje a nástroje; Ochranné masky pro lékařské účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Sprøjter til medicinske formål; Nåle til medicinske formål; Medicinske apparater og instrumenter; (beskyttende) masker til medicinske formål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Spritzen für medizinische Zwecke; Nadeln für medizinische Zwecke; Medizinische Apparate und Instrumente; (Schutz-)Masken für medizinische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σύριγγες για ιατρική χρήση· Βελόνες για ιατρική χρήση· Ιατρικά (Συσκευές και όργανα -)· (προστατευτικές) μάσκες για ιατρική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">syringes for medical use; needles for medical use; medical apparatus and instruments; protective masks for medical use.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Jeringas para uso médico; Agujas para uso médico; Aparatos e instrumentos médicos; Mascarillas para uso médico (mascarillas protectoras).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiinilised süstlad; Meditsiinilised nõelad; Meditsiiniseadmed ja -riistad; Meditsiinilised maskid (kaitse-).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ruiskut lääkintäkäyttöön; Neulat lääketieteellisiin tarkoituksiin; Lääketieteelliset laitteet ja välineet; (suoja)naamarit lääkintäkäyttöön.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Seringues médicales; Aiguilles à usage médical; Appareils et instruments médicaux; Masques (de protection) à usage médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Medicinske injekcije; Igle za medicinske namjene; Medicinski uređaji i instrumenti; Zaštitne maske za medicinsku upotrebu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fecskendők gyógyászati használatra; Tűk orvosi használatra; Gyógyászati készülékek és eszközök; (védő)maszkok gyógyászati használatra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Siringhe per uso medico; Aghi per uso medico; Apparecchi e strumenti medici; Maschere (protettive) per uso medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Inžektoriai (medicinos reikmėms); Adatos (medicinos reikmėms); Medicinos aparatai ir instrumentai; Kaukės (apsauginės) medicinos reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Injekcijas ierīces medicīniskiem nolūkiem; Medicīniskiem mērķiem paredzētās adatas; Medicīniskā aparatūra un instrumenti; Maskas (aizsargmaskas) izmantošanai medicīnā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Injettaturi għal skopijiet mediċi; Labar għal skopijiet mediċi; Apparat u strumenti mediċi; Maskri (protettivi) għall-użu mediku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Injectiespuiten voor medisch gebruik; Naalden voor medisch gebruik; Medische apparaten en instrumenten; maskers (beschermende-) voor medisch gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Strzykawki do celów medycznych; Igły do celów medycznych; Urządzenia i instrumenty medyczne; Maski ochronne do celów medycznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Seringas para uso médico; Agulhas para uso médico; Aparelhos e instrumentos médicos; Máscaras (de proteção) de uso medicinal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dispozitive injectoare de uz medical; Ace de uz medical; Aparate şi instrumente medicale; Măşti (de protecţie) de uz medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Injekčné striekačky na lekárske použitie; Ihly na lekárske použitie; Lekárske prístroje a nástroje; Ochranné masky na lekárske použitie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Brizgalke za uporabo v medicini; Igle za medicinske namene; Medicinski aparati in instrumenti; Maske (zaščitne) za medicinsko uporabo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Sprutor för medicinska ändamål; Nålar för medicinska ändamål; Medicinska apparater och instrument; (skydds-)masker för medicinskt bruk.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за търговия на дребно и търговия на едро във връзка със средства за грижа за тялото и красотата; Услуги за търговия на дребно и едро, свързани с медицински принадлежности.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby maloobchodu a velkoobchodu s ohledem na kosmetiku; Velkoobchodní a maloobchodní služby vztahující se k lékařským potřebám.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Detailhandel og engroshandel med kosmetiske præparater; Detail- og engroshandel med medicinske artikler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Dienstleistungen des Einzelhandels und des Großhandels in Bezug auf Mittel zur Körper- und Schönheitspflege; Großhandels- und Einzelhandelsdienstleistungen in Bezug auf medizinisches Bedarfsmaterial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες λιανικής πώλησης και χονδρικής πώλησης σε σχέση με καλλυντικά· Υπηρεσίες χονδρικής και λιανικής πώλησης σε σχέση με ιατρικές προμήθειες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">wholesale and retail services relating to cosmetics; wholesale and retail services relating to medical supplies.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios del comercio mayorista y minorista en relación con productos para el cuidado del cuerpo y tratamientos de belleza; Servicios de venta al por menor y al por mayor de material médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Jae- ja hulgikaubandusteenused seoses järgmiste kaupadega: keha- ja iluhooldusvahendid; Meditsiiniseadmete jae- ja hulgimüük.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vähittäiskaupan ja tukkukaupan palvelut seuraavilla aloilla: kosmeettiset tuotteet; Tukku- ja vähittäismyyntipalvelut, jotka liittyvät lääkintätarvikkeisiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de commerce de détail et de commerce en gros en relation avec les produits de soins corporels et esthétiques; Services de commerce de détail ou de gros de fournitures médicales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Maloprodajne i veleprodajne usluge povezane s kozmetikom; Veleprodajne i maloprodajne usluge u vezi s medicinskim proizvodima.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kiskereskedelmi és nagykereskedelmi szolgáltatások a következőkre vonatkozóan: test- és szépségápolási szerek; Orvosi ellátáshoz kapcsolódó nagy- és kiskereskedelmi szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di vendita al dettaglio e all'ingrosso di prodotti per l'igiene personale e per prodotti di bellezza; Servizi di vendita all'ingrosso e vendita al dettaglio in relazione a forniture mediche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mažmeninės ir didmeninės prekybos paslaugos kūno ir grožio priežiūros priemonėmis; Didmeninės ir mažmeninės prekybos paslaugos, susijusios su medicinos reikmenimis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mazumtirdzniecības un vairumtirdzniecības pakalpojumi saistībā ar ķermeņa un skaistumkopšanas līdzekļiem; Vairumtirdzniecības un mazumtirdzniecības pakalpojumi saistībā ar medicīnas piederumiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' negozju bl-imnut u bl-ingorssa relatati ma' prodotti għall-kura tal-ġisem u tas-sbuħija; Servizzi tal-bejgħ bl-imnut u bl-ingrossa relatati ma' provvisti mediċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diensten van de detailhandel en groothandel met betrekking tot cosmetische middelen; Detail- en groothandel in medische benodigdheden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi handlu detalicznego i handlu hurtowego w związku ze środkami do pielęgnacji ciała i urody; Usługi handlu hurtowego i detalicznego w zakresie artykułów medycznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de comércio retalhista e grossista relacionado com cosméticos; Serviços de venda por grosso e a retalho de artigos médicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de comerţ cu amănuntul şi de comerţ cu ridicata cu produse pentru îngrijirea corpului şi a frumuseţii; Servicii de vânzare cu ridicata și amănuntul referitoare la articole medicale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Služby maloobchodu a veľkoobchodu vo vzťahu k prípravkom starostlivosti o telo a o krásu; Maloobchodné a veľkoobchodné služby so zameraním na lekárske potreby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve trgovine na drobno in trgovine na debelo v zvezi s sredstvi za telesno in lepotno nego; Storitve veleprodaje in maloprodaje v zvezi z medicinsko opremo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tjänster inom detaljhandel och grossisthandel avseende medel för kropps- och skönhetsvård; Grossist- och detaljförsäljning av sjukvårdsmateriel.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/091</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/163</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>58999</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

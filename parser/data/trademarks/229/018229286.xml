@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T09:10:16</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229286</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229286</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Shu Feng Jie Du</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Лекарствени средства; Фармацевтични лекарствени средства; Фармацевтични препарати и натурални средства за лечение; Антивирусни средства; Антивирусни лекарства за лекуване на грип.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Lék; Léčiva; Farmaceutické přípravky a přírodní léčiva; Antivirové přípravky; Antivirotika k léčbě chřipky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Lægemidler; Farmaceutiske lægemidler; Farmaceutiske præparater og naturlægemidler; Antivirale midler; Antivirale lægemidler til behandling af influenza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Arzneimittel; Pharmazeutische Arzneimittel; Arzneimittel und natürliche Heilmittel; Antivirale Mittel; Antivirale Arzneimittel zur Behandlung von Grippe; Antivirale Arzneimittel zur Behandlung von Influenza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φάρμακα· Φάρμακα· Φαρμακευτικά προϊόντα και φυσικές θεραπείες· Αντιγριπικοί παράγοντες· Αντιικά φάρμακα για τη θεραπεία της γρίπης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Medicine; Pharmaceutical drugs; Pharmaceuticals and natural remedies; Anti-viral agents; Antiviral drugs for treating influenza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Medicamentos; Fármacos; Remedios naturales y farmacéuticos; Agentes antivirales; Fármacos antivirales contra la gripe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ravimid; Ravimid; Farmatseutilised ja looduslikud ravimid; Viiruste vastased ained; Viirusevastased gripiravimid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lääkkeet; Farmaseuttiset rohdokset; Lääkkeet ja luonnonlääkkeet; Viruksia torjuvat aineet; Viruslääkkeet influenssan hoitoon.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Médicaments; Médicaments; Produits pharmaceutiques et remèdes naturels; Agents antiviraux; Médicaments antiviraux pour le traitement de la grippe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Lijekovi; Lijekovi; Farmaceutski proizvodi i prirodna ljekovita sredstva; Antivirusna sredstva; Antivirusni lijekovi za liječenje gripe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyógyszerek; Gyógyszerek; Gyógyszerek és természetes gyógykészítmények; Vírusellenes szerek; Influenza kezelésére szolgáló vírusellenes szerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Medicine; Farmaci; Medicamenti farmaceutici e naturali; Agenti antivirali; Farmaci antivirali per il trattamento dell'influenza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vaistai; Farmaciniai vaistai; Farmaciniai ir natūralūs vaistiniai preparatai; Priešvirusiniai preparatai; Antivirusiniai vaistai nuo gripo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medikamenti; Zāļu līdzekļi; Farmaceitiskie un dabiskie ārstniecības līdzekļi; Pretvīrusu līdzekļi; Pretvīrusu zāles gripas ārstēšanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Mediċini; Mediċini farmaċewtiċi; Farmaċewtiċi u rimedji naturali; Aġenti antivirali; Mediċini antivirali għall-kura tal-influwenza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Medicijnen; Geneesmiddelen; Farmaceutische en natuurlijke geneesmiddelen; Antivirale preparaten; Antivirale geneesmiddelen voor het behandelen van griep.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Lekarstwa; Lekarstwa; Farmaceutyki i naturalne środki lecznicze; Środki przeciwwirusowe; Leki przeciwwirusowe do leczenia grypy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Medicamentos; Medicamentos farmacêuticos; Produtos farmacêuticos e remédios naturais; Agentes antivirais; Medicamentos antivirais para o tratamento da gripe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Medicamente; Medicamente; Remedii naturale și farmaceutice; Antivirale; Medicamente antivirale pentru tratarea gripei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lieky; Liečivá; Farmaceutické a prírodné liečivá; Antivírusové činidlá; Antivírusové lieky na liečbu chrípky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zdravila; Zdravila; Farmacevtski proizvodi in naravna zdravila; Protivirusna sredstva; Protivirusna zdravila za zdravljenje gripe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Mediciner; Farmaceutiska läkemedel; Läkemedel och naturläkemedel; Preparat mot virus; Antivirala läkemedel för behandling av influensa.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Публикуване на резултатите от клинични опити за фармацевтични препарати.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Publikování výsledků klinických zkoušek týkajících se farmaceutických přípravků.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Udgivelse af resultaterne af kliniske forsøg vedrørende farmaceutiske præparater.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Veröffentlichung von Ergebnissen klinischer Studien zu Arzneimittelpräparaten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Δημοσίευση των αποτελεσμάτων κλινικών δοκιμών για φαρμακευτικά σκευάσματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Publication of the results of clinical trials for pharmaceutical preparations.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Publicación de resultados de ensayos clínicos realizados con preparaciones farmacéuticas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ravimipreparaatide kliiniliste katsete tulemuste avaldamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Farmaseuttisten valmisteiden kliinisten kokeiden tulosten julkaiseminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Publication de résultats d'essais cliniques de préparations pharmaceutiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Objava rezultata kliničkih ispitivanja za farmaceutske pripravke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyógyszerészeti készítmények klinikai kísérletei során kapott eredményeinek megjelentetése.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pubblicazione dei risultati degli studi clinici per preparazioni farmaceutiche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Farmacijos preparatų klinikinių tyrimų rezultatų publikavimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Farmaceitisko līdzekļu klīnisko pētījumu rezultātu publicēšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Pubblikazzjoni tar-riżultati ta' testijiet kliniċi għal preparazzjonijiet farmaċewtiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Publicatie van resultaten van klinische proeven voor farmaceutische preparaten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Publikowanie wyników prób klinicznych dotyczących preparatów farmaceutycznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Publicação de resultados de ensaios clínicos para preparações farmacêuticas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Publicare de rezultate ale studiilor clinice pentru preparate farmaceutice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vydávanie výsledkov klinických testov farmaceutických prípravkov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Objavljanje rezultatov kliničnih preizkušanj za farmacevtske pripravke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Publicering av resultaten från kliniska prövningar av farmaceutiska preparat.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>44</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Приготвяне и раздаване на лекарства; Раздаване на фармацевтични средства; Приготвяне на рецепти в аптеки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Příprava a výdej léků; Výdej farmaceutických přípravků; Příprava lékařských předpisů v lékárnách.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Udarbejdelse og dosering af medikamenter; Dosering af medikamenter; Udfærdigelse af recepter på apoteker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Zubereitung und Ausgabe von Medikamenten; Zubereitung und Verabreichung von Medikamenten; Zubereitung von Medikamenten nach Rezept in Apotheken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παρασκευή και διανομή φαρμάκων· Διανομή φαρμακευτικών προϊόντων· Παρασκευή συνταγών σε φαρμακεία.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Preparation and dispensing of medications; Dispensing of pharmaceuticals; Preparation of prescriptions in pharmacies.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Preparación y administración de medicamentos; Dispensación de medicamentos; Preparación de recetas médicas en farmacias.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ravimite valmistamine ja jaotamine; Ravimite valmistamine ja jaotamine; Retseptiravimite ettevalmistamine apteekides.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lääkitysten valmistelu ja jakelu; Farmaseuttisten aineiden annostelu; Potilaskohtaisten lääkesekoitusten valmistus apteekeissa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Préparation et délivrance de médicaments; Services de délivrance de produits pharmaceutiques; Préparation de prescriptions en pharmacie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pripremanje i izdavanje lijekova; Izdavanje lijekova; Priprema recepata u ljekarnama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyógyszerek készítése és adagolása; Gyógyszerészeti készítmények adagolása; Receptek elkészítése gyógyszertárakban.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Preparazione e distribuzione di medicinali; Distribuzione di prodotti farmaceutici; Preparazione di prescrizioni in farmacie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vaistų paruošimas ir išdavimas; Vaistų išdavimas; Receptų paruošimas vaistinėse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Zāļu pagatavošana un izsniegšana; Farmaceitisko preparātu izsniegšana; Receptūru sagatavošana aptiekās.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preparazzjoni u tqassim ta' medikazzjonijiet; Tqassim ta' prodotti farmaċewtiċi; Preparazzjoni ta' preskrizzjonijiet fi spiżeriji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bereiding en afgifte van medicijnen; Afgifte van farmaceutische producten; Voorbereiden van voorschriften in de apotheek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Przygotowywanie i wydawanie lekarstw; Wydawanie środków farmaceutycznych; Sporządzanie receptur w aptekach.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Preparação e distribuição de medicamentos; Distribuição de produtos farmacêuticos; Preparação de receitas em farmácias.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Preparare și dozare de medicamente; Eliberare de produse farmaceutice, pe bază de prescripție medicală; Preparare de rețete în farmacii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Príprava a výdaj liekov; Výdaj farmaceutických prípravkov; Príprava receptúr na predpis v lekárňach.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Priprava in odmerjanje zdravil; Odmerjanje farmacevtskih proizvodov; Priprava receptov v lekarnah.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Framställning och utlämning av läkemedel; Utlämning av läkemedel; Förberedelse av recept på apotek.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082047</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>95940</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

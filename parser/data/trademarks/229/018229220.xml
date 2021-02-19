@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-20T08:29:32</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229220</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229220</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-19</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-20</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>X-Ray X-Raypad</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162455263</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229220/000162455263.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>01.13.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Излъчващи светлина диодни екрани; Кабели за USB устройства; Панели с тънкослоен транзисторен течнокристален дисплей [TFT-LCD]; Стойки, пригодени за лаптопи; Слушалки; Слушалки; Компютърни клавиатури; Компютърни мишки; Безжични компютърни мишки; Капаци за компютърни клавиатури; Капаци за таблетни компютри; Монитори с плосък екран; Етикети за радиочестотни идентификатори [RFID]; Мишка (компютърна периферия); Подложки за мишки; Устройства за прожектиране на виртуални клавиатури; Хедсетове за игри във виртуална реалност; LCD монитори; Подложкиза ръце при работа с компютър; Сканиращи мишки; Слушалки за слагане в уши; Слушалки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">LED displeje; USB kabely; Panely s displeji z tenkovrstvých tranzistorů a tekutých krystalů (TFT-LCD); Stojany upravené pro laptopy; Sluchátka; Sluchátka; Počítačové klávesnice; Počítačové myši; Bezdrátové počítačové myši; Kryty na počítačové klávesnice; Kryty pro tablety [počítače]; Ploché obrazovky; Štítky pro radiofrekvenční identifikaci (RFID); Myši [počítačová periferní zařízení]; Podložky pod myš; Přístoje na projekci virtuálních klávesnic; Sluchátka pro hry virtuální reality; LCD monitory; Opěrky zápěstí pro práci s počítačem; Myš jako skener; Pecky do uší; Sluchátka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Lysemitterende diodedisplays; USB-kabler; Paneler med LCD-skærme med tyndfilmtransistorer [TFT-LCD]; Stativer tilpasset bærbare computere; Høretelefoner; Hovedtelefoner; Tastaturer til computere; Computermus; Trådløse computermus; Covers til computertastaturer; Covers til tablet computere; Fladskærme; Mærker til radiofrekvensidentifikation [RFID]; Mus [perifere enheder til computere]; Musemåtter; Apparater til projicering af virtuelle tastaturer; Headsets til virtual reality-spil; LCD-monitorer; Håndledsstøtter til brug med computere; Musescannere; Øresnegle; Hovedtelefoner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">LED-Anzeigen; USB-Kabel; Flüssigkristallanzeigen mit Dünnschichttransistoren [TFT-LCDs]; Angepasste Laptop-Ständer; Kopfhörer; Kopfhörer; Computertastaturen; Computermaus; Drahtlose Computermäuse; Abdeckungen für Computertastaturen; Hüllen für Tablet-Computer; Flachbildschirme; Funkfrequenzidentifikations-Tags [RFID-Tags]; Mäuse [Computerzubehör]; Mauspads [Mausmatten]; Geräte für die Projektion von virtuellen Tastaturen; Headsets für Virtual-Reality-Spiele; LCD-Bildschirme; Handgelenkauflagen zur Verwendung mit Computern; Maus-Scanner; Ohrhörer; Kopfhörer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Οθόνες διόδου εκπομπής φωτός (LED)· Καλώδια καθολικού σειριακού αγωγού (USB)· Οθόνες με στρώματα λεπτοϋμενωδών κρυσταλλολυχνιών και υγρών κρυστάλλων [TFT-LCD]· Βάσεις προσαρμοσμένες για φορητούς ηλεκτρονικούς υπολογιστές· Ακουστικά· Κάσκες ακουστικών· Πληκτρολόγια ηλεκτρονικού υπολογιστή· Ποντίκια ηλεκτρονικών υπολογιστών· Ασύρματα ποντίκια ηλεκτρονικών υπολογιστών· Καλύμματα για πληκτρολόγια ηλεκτρονικών υπολογιστών· Καλύμματα φορητών υπολογιστών-τύπου ταμπλέτας· Επίπεδες οθόνες· Ετικέτες ραδιοσυχνικής αναγνώρισης [RFID]· Ποντίκια [εξοπλισμός πληροφορικής]· Προστατευτικές βάσεις για ποντίκια (ηλεκτρονικών υπολογιστών)· Διατάξεις προβολής εικονικού πληκτρολογίου· Κεφαλόφωνα παιχνιδιών εικονικής πραγματικότητας· Οθόνες υγρών κρυστάλλων [LCD]· Καρπών στηρίγματα για χρήση με ηλεκτρονικούς υπολογιστές· Ποντίκια-σαρωτές· Ακουστικά· Ακουστικά κεφαλής με μικρόφωνο.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Light emitting diode (LED) displays; USB cables; Thin Film Transistor-Liquid Crystal Display (TFT-LCD) panels; stands adapted for laptops; Earphones; Headphones; computer keyboards; Computer mouse; Wireless computer mice; Covers for computer keyboards; covers for tablet computers; Flat panel displays; Radio frequency identification (RFID) tags; mouse [computer peripheral]; mouse pads; headphones; devices for the projection of virtual keyboards; Headsets for virtual reality games; Liquid crystal display (LCD) monitors; wrist rests for use with computers; Mouse scanners; Earbuds; Headsets.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Pantallas de diodos luminiscentes (led); Cables USB; Paneles de cristal líquido y transistores de película fina [TFT-LCD]; Soportes para ordenadores portátiles; Auriculares intraurales; Auriculares; Teclados de ordenador; Ratones de ordenador; Ratones de ordenador inalámbricos; Fundas para teclados de ordenador; Carcasas para tabletas electrónicas; Pantallas planas; Etiquetas de identificación por radiofrecuencias; Ratones [periféricos informáticos]; Alfombrillas de ratón; Dispositivos para la proyección de teclados virtuales; Cascos auriculares para juegos de realidad virtual; Monitores de cristal líquido [LCD]; Reposamuñecas para utilizar con ordenadores; Ratones escáner; Auriculares de botón; Cascos con micrófono.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Valgust kiirgavad dioodkuvarid; USB-kaablid; Kelmetransistor-vedelkristallkuvari paneelid (TFT-LCD); Kohandatud sülearvutialused; Kõrvaklapid; Kõrvaklapid; Arvutite klaviatuurid, klahvistikud; Arvutihiired; Juhtmeta arvutihiired; Arvutiklaviatuuride katted; Tahvelarvutite ümbrised; Lamekuvarid; Raadiosagedustuvastuse [RFID] märgised; Hiired [arvuti välisseadmed]; Hiirematid; Virtuaalsete klaviatuuride projitseerimise seadmed; Virtuaalreaalsusmängude peakomplektid; LCD-monitorid; Randmetoed arvutikasutajatele; Hiirskannerid; Kõrvatropid; Mikrofoniga kõrvaklapid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Valodiodinäytöt; USB-kaapelit; TFT-/nestekidenäyttöruudut; Kannettaville tietokoneille soveltuvat telineet; Kuulokkeet; Kuulokkeet; Tietokoneen näppäimistöt; Tietokonehiiret; Langattomat tietokoneiden hiiret; Tietokoneen näppäimistösuojukset; Tablettitietokoneiden suojakotelot; Litteät näyttöruudut; Radiotaajuustunnistuksella (RFID) toimivat tunnistusmerkit; Hiiri [tietokoneen oheislaite]; Hiirimatot; Laitteet virtuaalinäppäimistöjen heijastamiseen; Kuulokemikrofonit virtuaalitodellisuuspeleihin; Nestekidenäytöt; Rannetuet käytettäviksi tietokoneiden kanssa; Hiiriskannerit; Korvanappikuulokkeet; Kuulokkeet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Écrans à diodes électroluminescentes; Câbles USB; TFT-LCD [transistors en couches minces pour écrans à cristaux liquides]; Supports adaptés pour ordinateurs portables; Casques d'écoute; Casques à écouteurs; Claviers d'ordinateur; Souris d'ordinateur; Souris sans fil pour ordinateurs; Housses pour claviers d’ordinateurs; Coques pour tablettes électroniques; Écrans d'affichage plats; Étiquettes d'identification par radiofréquence [étiquettes IRF]; Souris [périphérique d'ordinateur]; Tapis de souris; Dispositifs pour la projection des claviers virtuels; Casques pour jeux de réalité virtuelle; Moniteurs à cristaux liquides [moniteurs LCD]; Repose-poignets à utiliser avec un ordinateur; Souris scanners; Écouteurs-boutons; Casques d'écoute.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">LED zasloni [zasloni sa svjetlećim diodama]; USB kablovi; Zasloni s tekućim kristalima i tankoslojnim tranzistorima [TFT-LCD]; Stalci prilagođeni za prijenosna računala; Slušalice; Slušalice; Tipkovnice računala; Računalni miševi; Bežični računalni miševi; Pokrovi za računalne tipkovnice; Futrole za tablet računala; Ravni zasloni; Oznake za prepoznavanje radijskih frekvencija [RFID]; Miš [računalna oprema]; Podloge za miša; Aparati za projiciranje virtualnih tipkovnica; Kacige za igre virtualne stvarnosti; LCD monitori; Podlošci za šaku za rad s računalima; Miš sa skenerom; Slušalice; Slušalice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fénykibocsátó diódás kijelzők; USB kábelek; TFT-LCD [vékonyfilm-tranzisztoros folyadékkristályos kijelzőjű] panelek; Laptopokhoz kialakított állványok; Fejhallgatók; Fejhallgatók; Számítógép billentyűzetek; Számítógépes egerek; Vezeték nélküli számítógépes egerek; Tokok számítógépek billentyűzetéhez; Táblagép tokok; Síkpaneles kijelzők; Rádiófrekvenciás azonosító [RFID] címkék; Egér [számítógép-periféria]; Egérpadok; Eszközök virtuális billentyűzetek kivetítéséhez; Headsetek virtuális valóság játékokhoz; LCD-monitorok; Csuklótámaszok számítógépekhez; Szkenneres egerek; Fülhallgatók; Fejhallgatók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Visualizzatori a diodi ad emissione luminosa; Cavi USB; Pannelli di visualizzazione a cristalli liquidi con transistor a pellicola sottile [TFT-LCD]; Supporti adattati per computer portatili; Auricolari; Cuffie per la musica; Tastiere del computer; Mouse per computer; Mouse senza fili; Fodere per tastiere di computer; Covers per tablet; Schermi piatti; Cartellini d'identificazione a radiofrequenza [RFID]; Mouse [informatica]; Tappetini per mouse; Dispositivi per la proiezione di tastiere virtuali; Cuffie per giochi di realtà virtuale; Monitor a cristalli liquidi; Poggiapolsi per tastiera per l'uso del computer; Mouse scanner; Auricolari; Cuffie per la musica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Šviesos diodų ekranai; USB kabeliai; Plėvelinių tranzistorių skystųjų kristalų vaizduoklių (TFT LCD) skydeliai; Stovai skreitiniams kompiuteriams; Ausinės; Radijo ausinės; Kompiuterių klaviatūros; Kompiuterių pelės; Belaidės kompiuterių pelės; Kompiuterių klaviatūrų dangteliai; Planšetinių kompiuterių dangteliai; Plokščiaekraniai vaizduokliai; Radijo dažnių atpažinties (RFID) žymenos; Pelės [kompiuterio išoriniai įtaisai]; Pelės padėkliukai; Virtualios klaviatūros projekciniai prietaisai; Virtualiosios realybės žaidimų ausinės; Skystųjų kristalų monitoriai; Riešų atramos darbui su kompiuteriais; Skenuojančios pelės; Ausinės; Ausinės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Gaismas diožu displeji; Universālo seriālo kopņu (USB) kabeļi; Plānkārtiņu tranzistora šķidro kristālu displeja [TFT-LCD] paneļi; Statīvi, kas pielāgoti klēpjdatoriem; Ieaušu austiņas; Austiņas; Datoru tastatūras; Datorpele; Bezvadu datorpeles; Pārsegi datoru tastatūrām; Planšetdatoru vāciņi un apvalki; Plakanie ekrāni; Radiofrekvences identifikācijas [RFID] tagi; Peles (datoru perifērijas ierīces); Peļu (datoru perifērijas ierīču) paliktņi; Virtuālo tastatūru projicēšanas ierīces; Austiņu komplekti virtuālās realitātes spēlēm; Šķidro kristālu monitori; Plaukstas locītavu balsti datorlietotājiem; Datorpeļu skeneri; Ieauši (austiņas); Radioaustiņas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Displej tad-dajowds li jagħtu d-dwal; Kejbil tal-USB; Pannelli ta' tranżisters forma ta' film irqiq b'displej bi kristalli likwidi (TFT-LCD); Stends adattati għall-kompjuters portabbli; Kuffji; Kuffji; Tastieri tal-kompjuters; Maws tal-kompjuter; Maws tal-kompjuter mingħajr fili; Kavers għal tastieri tal-kompjuter; Għata għall-kompjuters tablets; Skrins tad-displej b'pannell ċatt; Tikketti għall-identifikazzjoni tal-frekwenza tar-radju (RFID); Maws [periferal tal-kompjuter]; Mattijiet għall-maws; Tagħmir għal-projezzjoni ta' tastieri virtwali; Settijiet li jintlibsu mar-ras għal-logħob tar-realtà virtwali; Moniters LCD; Serħ il-polz għal użu ma' kompjuters; Skeners tal-maws; Earbuds; Kuffji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">LED-schermen; USB kabels; Lcd-panelen met folietransistors [tft-lcd]; Standaards, aangepast voor laptops; Oortelefoons; Hoofdtelefoons; Toetsenborden voor computers; Computermuis; Computermuizen (Draadloze -); Hoezen voor computertoetsenborden; Hoesjes voor tabletcomputers; Flatscreens; Radiofrequentie-identificatielabels [rfid]; Computermuizen; Muismatten; Apparaten voor de projectie van virtuele toetsenborden; Headsets voor virtual reality spellen; Lcd-monitoren; Polssteunen voor gebruik met computers; Muisscanners; Oortjes; Hoofdtelefoons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Wyświetlacze z diodami elektroluminescencyjnymi; Kable USB; Panele wyświetlaczy ciekłokrystalicznych z tranzystorem cienkowarstwowym [TFT-LCD]; Stojaki przystosowane do laptopów; Słuchawki [douszne]; Słuchawki [zakładane na głowę]; Klawiatury komputerowe; Myszki komputerowe; Bezprzewodowe myszy do komputerów; Osłony na klawiatury komputerowe; Pokrowce do tabletów; Płaskie wyświetlacze; Znaczniki RFID [wykorzystujące technologię identyfikacji radiowej]; Myszy [sprzęt do przetwarzania danych]; Podkładki pod myszy komputerowe; Urządzenia do projekcji wirtualnych klawiatur; Słuchawki do gier z wirtualną rzeczywistością; Monitory ciekłokrystaliczne [LCD]; Podpórki pod nadgarstki do użytku z komputerem; Skanery myszy; Słuchawki douszne; Słuchawki [zakładane na głowę].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Ecrãs de díodos emissores de luz; Cabos USB; Painéis TFT-LCD [ecrãs de cristais líquidos de transístores de película fina]; Suportes adaptados para computadores portáteis (laptops); Auriculares; Auriculares; Teclados de computador; Ratos para computador; Ratos de computador sem fios; Capas para teclados de computadores; Capas para computadores tablet; Ecrãs planos; Etiquetas de identificação por radiofrequência [RFID]; Ratos [periféricos informáticos]; Tapetes de rato; Dispositivos para projeção de teclados virtuais; Auscultadores para jogos de realidade virtual; Monitores com ecrãs de cristais líquidos; Apoios de pulsos para utilização com computador; Ratos digitalizadores; Auriculares; Auriculares.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Ecrane cu diode emițătoare de lumină; Cabluri USB; Panouri TFT-LCD [tranzistor cu peliculă subțire-ecran cu cristale lichide]; Suporturi adaptate pentru laptopuri; Căști auriculare; Căști audio; Tastaturi de calculator; Mouse-uri pentru computer; Mouse-uri de calculator fără fir; Huse pentru tastaturi de calculator; Huse pentru tablete; Monitoare cu ecran plat; Marcaje pentru identificarea frecvenței radio [RFID]; Mouse [periferice de calculator]; Suporturi de mouse; Dispozitive pentru proiectarea de tastaturi virtuale; Căști pentru jocuri de realitate virtuală; Monitoare LCD; Suporturi pentru încheietura mâinii, folosite de utilizatorii de calculatoare; Mouse-uri scaner; Minicăști de urechi; Căști.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">LED displeje; USB káble; TFT-LCD displeje; Stojany prispôsobené pre laptopy; Slúchadlá; Slúchadlá; Počítačové klávesnice; Počítačové myši; Bezdrôtové počítačové myši; Kryty pre počítačové klávesnice; Obaly na elektronické tablety; Displeje s plochou obrazovkou; Rádiofrekvenčné identifikačné štítky [RFID]; Myši (periférne zariadenia počítačov); Podložky pod myš; Prístroje na projekciu virtuálnych klávesníc; Náhlavná súprava na hry s virtuálnou realitou; LCD monitory; Opierky zápästia na prácu s počítačom; Myš s funkciou skenovania; Slúchadlá do uší; Slúchadlá s mikrofónom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Prikazovalniki LED diod; USB kabli; Tankoplastni tranzistorji z zaslonom s tekočimi kristali; Stojala, prilagojena za prenosne računalnike; Slušalke; Slušalke; Računalniške tipkovnice; Računalniške miške; Brezžične računalniške miške; Ovitki za računalniške tipkovnice; Ovitki za tablične računalnike; Ploski prikazovalni zasloni; Radiofrekvenčne identifikacijske [RFID] oznake; Miška [računalniška periferna enota]; Podloge za miško; Naprave za projiciranje navideznih tipkovnic; Slušalke za igre z navidezno resničnostjo; LCD zasloni; Počivala za zapestje, ki se uporabljajo z računalniki; Miške za skeniranje; Slušalke za v uho; Slušalke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">LED-displayer; USB-kablar; Paneler med LCD-displayer med tunnfilmstransistorer [TFT/LCD]; Ställ anpassade för bärbara datorer; Hörlurar; On-ear hörlurar; Tangentbord för datorer; Datormusar; Trådlösa datormöss; Överdrag för tangentbord till datorer; Fodral till surfplattor; Platt bildskärm; Taggar för radiofrekvensidentifiering [RFID-taggar]; Möss [datorutrustning]; Musmattor; Anordningar för projicering av virtuella tangentbord; Headsets för spel i virtual reality; LCD-bildskärmar; Handledsstöd för användning vid datorer; Skannermus; Öronsnäckor; Headsets.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/088</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/158</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-20</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15066</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

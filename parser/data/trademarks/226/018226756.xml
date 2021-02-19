@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-16T10:13:21</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226756</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226756</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>fi</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="1">Application published</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-10-16</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>HYGPEN</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Предпазни, А именно ръчни помощни средства за използване и работа с електронни и механични устройства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Ochranná vybavení, Jmenovitě příruční pomůcky pro používání a provozování elektronických a mechanických zařízení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beskyttelsesudstyr, Nemlig håndholdte hjælpemidler til brug og betjening af elektroniske og mekaniske anordninger.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schutz-, Nämlich Hilfsmittel im Taschenformat zur Benutzung und Bedienung elektronischer und mechanischer Geräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Προστατευτικός εξοπλισμός, Συγκεκριμένα βοηθήματα χειρός για χρήση και λειτουργία ηλεκτρονικών και μηχανικών διατάξεων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Protective equipment, namely handheld aids for using and operating electronic and mechanic devices.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Equipamientos de protección, En concreto, accesorios de mano para utilizar y operar dispositivos electrónicos y mecánicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kaitse-, Nimelt käsiabivahendid elektroonika- ja mehaanikaseadmete kasutamiseks ja käitamiseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Suojavälineet, nimittäin käsikäyttöiset apuvälineet sähköisten, elektronisten ja mekaanisten laitteiden käyttämiseen ja ohjaamiseen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Équipements de protection, À savoir équipements portables pour l'utilisation et le fonctionnement de dispositifs électroniques et mécaniques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Za zaštitu, I to ručna pomagala za uporabu i upravljanje elektroničkim i mehaničkim uređajima.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Védő-, Nevezetesen kézi segédeszközök elektronikus és mechanikus eszközök használatához és üzemeltetéséhez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Di protezione, Vale a dire ausili portatili per l'utilizzo e il funzionamento di dispositivi elettronici e meccanici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Apsauginiai, Būtent rankinės pagalbinės priemonės elektroniniams ir mechaniniams prietaisams naudoti ir valdyti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Aizsardzības, Proti, rokas palīglīdzekļi elektronisko un mehānisko ierīču izmantošanai un darbināšanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tal-protezzjoni, Jiġifieri għajnuniet li jinżammu fl-idejn għall-użu u t-tħaddim ta' strumenti elettroniċi u mekkaniċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Beschermende, Te weten in de hand te houden hulpmiddelen voor gebruik en besturing van elektronische en mechanische toestellen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Ochronne, Mianowicie podręczne urządzenia pomocnicze do użytku i obsługi urządzeń elektronicznych i mechanicznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Equipamentos de proteção, Especificamente auxiliares manuais para utilização e operação de dispositivos eletrónicos e mecânicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Echipamente de protecţie, Și anume unități ajutătoare de mână pentru folosirea și funcționarea dispozitivelor electronice și mecanice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Ochranné, Menovite ručné pomôcky na používanie a obsluhovanie elektronických a mechanických zariadení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zaščitna, In sicer ročni aparati za uporabo in upravljanje električnih in mehanskih aparatov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Skydds-, Nämligen handhållna hjälpmedel för användning och drift av elektroniska och mekaniska anordningar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/198</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-10-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>12422</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

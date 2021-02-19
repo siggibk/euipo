@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2018-08-29T08:13:48</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063739-0002</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-26</ReceivingOfficeDate>
+<DesignIdentifier>001063739-0002</DesignIdentifier>
+<ApplicationNumber>001063739</ApplicationNumber>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ApplicationDate>2008-12-26</ApplicationDate>
+<RegistrationDate>2008-12-26</RegistrationDate>
+<PublicationDate>2009-03-03</PublicationDate>
+<ApplicationReference/>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-26</ExpiryDate>
+<EffectiveDate>2008-12-26</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-08-27</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061755409</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063739_0002/001063739_0002_1.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.25</CategoryCode>
+     <CategoryCode>29.01.07</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061755410</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063739_0002/001063739_0002_2.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.25</CategoryCode>
+     <CategoryCode>29.01.07</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061755411</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063739_0002/001063739_0002_3.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.25</CategoryCode>
+     <CategoryCode>29.01.07</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061755412</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063739_0002/001063739_0002_4.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.25</CategoryCode>
+     <CategoryCode>29.01.07</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061755413</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063739_0002/001063739_0002_5.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.25</CategoryCode>
+     <CategoryCode>29.01.07</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061755414</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063739_0002/001063739_0002_6.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.25</CategoryCode>
+     <CategoryCode>29.01.07</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Кутии за храна</IndicationProduct>
+       <IndicationProduct languageCode="cs">Krabičky na jídlo</IndicationProduct>
+       <IndicationProduct languageCode="da">Kasser til fødevarer</IndicationProduct>
+       <IndicationProduct languageCode="de">Nahrungsmittelbehälter</IndicationProduct>
+       <IndicationProduct languageCode="el">Κουτιά τροφίμων</IndicationProduct>
+       <IndicationProduct languageCode="en">Food boxes</IndicationProduct>
+       <IndicationProduct languageCode="es">Cajas de alimentos</IndicationProduct>
+       <IndicationProduct languageCode="et">Toidukarbid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Ruokarasiat</IndicationProduct>
+       <IndicationProduct languageCode="fr">Boites à nourriture</IndicationProduct>
+       <IndicationProduct languageCode="hu">Ételdobozok</IndicationProduct>
+       <IndicationProduct languageCode="it">Scatole per alimenti</IndicationProduct>
+       <IndicationProduct languageCode="lt">Maisto dėžutės</IndicationProduct>
+       <IndicationProduct languageCode="lv">Pārtikas kārbas</IndicationProduct>
+       <IndicationProduct languageCode="mt">Kaxex ta' l-ikel</IndicationProduct>
+       <IndicationProduct languageCode="nl">Voedselblikken</IndicationProduct>
+       <IndicationProduct languageCode="pl">Pojemniki na żywność</IndicationProduct>
+       <IndicationProduct languageCode="pt">Caixas para alimentos</IndicationProduct>
+       <IndicationProduct languageCode="ro">Cutii pentru alimente</IndicationProduct>
+       <IndicationProduct languageCode="sk">Škatule na potraviny</IndicationProduct>
+       <IndicationProduct languageCode="sl">Škatle za hrano</IndicationProduct>
+       <IndicationProduct languageCode="sv">Matlådor</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>09.03</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/039</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-03-03</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/118</PublicationIdentifier>
+        <PublicationSequenceNumber>1006984</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2013-06-26</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/163</PublicationIdentifier>
+        <PublicationSequenceNumber>100642245</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2018-08-29</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006988350</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1006984</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-06-26</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012442906</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100642245</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-08-29</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

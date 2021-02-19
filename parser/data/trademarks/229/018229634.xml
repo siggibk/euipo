@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-05T13:24:11</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229634</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229634</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="8">Registration cancellation pending</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-10-14</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>LOW FROST</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162506970</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229634/000162506970.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+          <CategoryCode>29.01.02</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>29</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Месо, риба, птици и дивеч; Месни екстракти; Готови храни, замразени и охладени и предястия, които съдържат основно месо, птиче месо и дивеч; Готови храни, от месни продукти, свинско и пилешко; Консервирани замразени, сушени и сготвени плодове и зеленчуци; Желета, мармалади, компоти; Яйца; Мляко; Млечни продукти; Хранителни масла и мазнини; Консерви и риба и капсули, Храна на основата на риба и мекотели, Крокети, Рибно филе, Ястия, приготвени на рибна основа, Замразени рибни и морски продукти, Охладени храни, състоящи се предимно от риба, Охладени ястия, направени от риба.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Maso, ryby, drůběž a zvěřina; Masové výtažky; Hotová, zmražená a chlazená jídla a svačinky, zejména na bázi masa, drůbeže a zvěřiny; Hotové potraviny na bázi masových, drůbežích výrobků a zvěřiny; Konzervované, zmrazené, sušené a vařené ovoce a zelenina; Želé, džemy, kompoty; Vejce; Mléko; Mléčné výrobky; Jedlé oleje a tuky; Konzervované ryby a plody moře, Potraviny na bázi ryb a mořských plodů, Krokety, Rybí filé, Hotová jídla na bázi ryb, Mražené ryby a mořské plody, Chlazené potraviny obsahující převážně ryby, Chlazená jídla vyrobená z ryb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kød, fisk, fjerkræ og vildt; Kødekstrakter; Tilberedte, frosne og afkølede retter samt aperitiffer, der hovedsageligt består af kød, fjerkræ og vildt; Næringsmidler tilberedte med produkter af kød, svinekød og fjerkræ; Konserverede, frosne, tørrede og tilberedte frugter og grøntsager; Geléer, syltetøj, frugtsauce (kompot); Æg; Mælk; Fødevarerpræparater bestående hovedsageligt af mælk; Spiselige olier og fedtstoffer; Konserveret fisk og skaldyr, Fødevarer med fisk og skaldyr, Kroketter, Fiskefiletter, Færdigretter på basis af fisk, Dybfrosne fisk og skaldyr, Afkølede fødevarer hovedsageligt bestående af fisk, Afkølede retter lavet af fisk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Fleisch, Fisch, Geflügel und Wild; Fleischextrakte; Fertiggerichte, tiefgekühlt und gekühlt, und Snacks, die hauptsächlich aus Fleisch, Geflügel und Wild bestehen; Fertiggerichte mit Rindfleisch, Schweinefleisch und Geflügel; Konserviertes, tiefgefrorenes, getrocknetes und gekochtes Obst und Gemüse; Gallerten (Gelees), Konfitüren, Kompott; Eier; Milch; Milchprodukte; Speiseöle und -fette; Fischkonserven und Meeresfrüchte in Konserven, Lebensmittel auf der Basis von Fisch und Meeresfrüchten, Kroketten, Fischfilets, Fertige Gerichte auf der Basis von Fisch, Fisch und Meeresfrüchte, tiefgekühlt, Vorwiegend aus Fisch bestehende, gekühlte Lebensmittel, Gekühlte Fischgerichte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κρέατα, ψάρια, πουλερικά και κυνήγι· Εκχυλίσματα κρέατος· Φαγητά παρασκευασμένα, κατεψυγμένα και διατηρημένα με ψύξη και ορεκτικά εδέσματα που περιέχουν κυρίως κρέας, κρέατα πουλερικών και κρέατα κυνηγιού· Τρόφιμα παρασκευασμένα με προϊόντα χοιρινού κρέατος και κρέατος πουλερικών· Φρούτα και λαχανικά διατηρημένα, κατεψυγμένα, αποξηραμένα και μαγειρεμένα· Ζελέ, μαρμελάδες, κομπόστες· Αβγά· Γάλα· Γαλακτοκομικά (- προϊόντα)· Έλαια και λίπη βρώσιμα· Κονσέρβες ψαριών και θαλασσινών, Τρόφιμα με βάση ψάρια και θαλασσινά, Κροκέττες, Ψαριού φιλέτα, Έτοιμα γεύματα με βάση το ψάρι, Κατεψυγμένα ψάρια και θαλασσινά, Ψυγμένα τρόφιμα αποτελούμενα κυρίως από ψάρι, Ψυγμένα γεύματα από ψάρι.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Meat, fish, poultry and game; Meat extracts; Prepared, frozen and chilled meals and snacks consisting predominantly of meat, poultry and game; Prepared foodstuffs containing meat, pork and poultry; Preserved frozen, dried and cooked fruits and vegetables; Jellies, jams, compotes; Eggs; Milk; Milk products; Edible oils and fats; Fish and shellfish preserves, fish and seafood based foodstuffs, Croquettes, Fish fillets, Prepared fish-based dishes, Frozen fish and seafood, Chilled foods consisting predominately of fish, Chilled meals made from fish.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Carne, pescado, aves y caza; extractos de carne; comidas preparadas, congeladas y refrigeradas y aperitivos que consistan principalmente carne, aves y caza; alimentos preparados con productos de carne, cerdo y ave; frutas y legumbres en conserva, congeladas, secas y cocidas; jaleas, mermeladas, compotas; Huevos; Leche; Productos lácteos; aceites y grasas comestibles; conservas de pescado y marisco, alimentos a base de pescado y marisco, croquetas, filetes de pescado, platos preparados a base de pescado, pescados y mariscos congelados, alimentos refrigerados predominantemente de pescado, platos refrigerados hechos con pescado.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Liha, kala, ulukiliha ja linnuliha; Lihaekstraktid; Lihast, linnu- ja ulukilihast valmistatud valmistoidud, sügavkülmutatud ja külmutatud toidud ja suupisted; Lihast, sea- ja linnulihast tooted; Puu- ja köögiviljad (konservitud, kuivatatud, kuumtöödeldud); Tarretised (želeed), keedised, kompott; Munad; Piim; Piimatooted; Toiduõlid ja toidurasvad; Kala- ja koorikloomakonservid, Kala ja mereandidel põhinevad toiduained, Kroketid, Kalafilee, Kalapõhised valmisroad, Külmutatud kala ja koorikloomad, Peamiselt kalast koosnevad jahutatud toidud, Jahutatud kalatoidud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Liha, kala, siipikarja ja riista; Lihauutteet; Valmisateriat, pakastetut ja jäädytetyt ateriat ja alkupalat, jotka koostuvat pääosin lihasta, siipikarjasta ja riistasta; Lihasta, sianlihasta ja siipikarjasta valmistetut elintarvikkeet; Säilötyt, pakastetut, kuivatut ja umpioidut hedelmät ja vihannekset; Hyytelöt, hillot, hedelmähillokkeet; Munat; Maito; Maitotuotteet; Ravintoöljyt ja -rasvat; Säilykekala ja säilötyt merenelävät, Kaloista ja merenelävistä valmistetut elintarvikkeet, Kroketit, Kalafileet, Valmiit kalapohjaiset ateriat, Kala- ja äyriäispakasteet, Pääosin kalaa sisältävät jäähdytetyt elintarvikkeet, Kalasta valmistetut jäähdytetyt ateriat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Viande, poisson, volaille, gibier; Extraits de viande; Plats préparés, congelés et réfrigérés et apéritifs contenant principalement de la viande, de la volaille et du gibier; Aliments préparés avec des produits à base de viande, de porc et de volaille; Fruits et légumes conservés, surgelés, séchés et cuits; Gelées, confitures, compotes; Oeufs; Lait; Produits laitiers; Huiles et graisses comestibles; Conserves de poissons et fruits de mer, Aliments à base de poisson et de fruits de mer, Croquettes alimentaires, Filets de poissons, Plats préparés à base de poisson, Poissons et fruits de mer congelés, Aliments réfrigérés principalement à base de poisson, Plats réfrigérés à base de poisson.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Meso, riba, perad i divljač; Mesni ekstrakti; Gotova, zamrznuta i duboko zamrznuta jela te grickalice koja se uglavnom sastoje od mesa, mesa peradi i divljači; Prehrambeni proizvodi pripremljeni s proizvodima od mesa, svinjetine i mesa peradi; Konzervirano, zamrznuto, sušeno i kuhano voće i povrće; Želei, pekmezi, kompoti; Jaja; Mlijeko; Mliječni proizvodi; Jestiva ulja i masti; Konzervirana riba i morski plodovi, Prehrambeni proizvodi na bazi ribe i morskih plodova, Kroketi, Riblji fileti, Gotova jela na bazi ribe, Zamrznuta riba i morski plodovi, Rashlađena hrana koja se sastoji pretežno od ribe, Rashlađena jela od ribe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Hús, hal-, baromfi- és vadhús; Húskivonatok; Félkész, fagyasztott és mélyhűtött ételek, amelyek többnyire húsból, baromfiból és vadhúsból állnak; Hús, sertés és baromfi termékekből készített élelmiszerek; Konzervált, fagyasztott, szárított és főtt gyümölcsök és zöldségek; Zselék, dzsemek, kompótok; Tojások; Tej; Tejtermékek; Étkezési olajok és zsírok; Konzerv halak és tenger gyümölcsei, Hal- és tenger gyümölcsei alapú élelmiszerek, Krokett, Halfilé, Halalapú készételek, Fagyasztott halak és tenger gyümölcsei, Főként halat tartalmazó hűtött ételek, Halból készült hűtött ételek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cane, pesce, pollame e selvaggina; Estratti di carne; Piatti pronti, congelati e refrigerati, nonché aperitivi consistenti in carne, pollame e selvaggina; Alimenti preparati con prodotti di carne, maiale e pollame; Frutta e ortaggi conservati, surgelati, essiccati e cotti; Gelatine, marmellate, composte; Uova; Latte; Prodotti lattieri; Olii e grassi commestibili; Conserve di pesce e molluschi, Alimenti a base di pesce d frutti di mare, Crocchette alimentari, Filetti di pesce, Piatti pronti a base di pesce, Pesce e frutti di mare surgelati, Cibi freddi principalmente a base di pesce, Pasti freddi a base di pesce.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mėsa, žuvis, paukštiena ir žvėriena; Mėsos ekstraktai; Paruošti, šaldyti ir užšaldyti patiekalai ir užkandžiai, pagaminti iš mėsos, paukštienos ir žvėrienos; Iš mėsos, kiaulienos ir paukštienos pagaminti patiekalai; Konservuoti, džiovinti ir termiškai apdoroti vaisiai bei daržovės; Drebučiai (želė), uogienės, kompotai; Kiaušiniai; Pienas; Pieno produktai; Maistiniai aliejai ir riebalai; Žuvies ir jūros gėrybių konservai, Maisto produktai su žuvimi ir jūrų gėrybėmis, Kroketai, Žuvų filė, Paruošti žuvies patiekalai, Šaldyta žuvis ir jūros gėrybės, Atšaldytas maistas [žuvies pagrindu], Atšaldyti žuvies valgiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Gaļa, zivis, mājputni un medījumi; Gaļas ekstrakti; Gatavie ēdieni, saldētie un atdzesētie ēdieni un uzkodas, kuru sastāva pamatā ir gaļa, putnu un medījumu gaļa; Gatavā pārtika ar gaļas, cūkgaļas un putnu gaļas produktiem; Konservēti, saldēti, žāvēti un vārīti augļi un dārzeņi; Galerti (želejas), ievārījumi, kompoti; Olas; Piens; Piena produkti; Pārtikas eļļas un tauki; Zivju un jūras molusku konservi, Zivju un jūras velšu pārtikas produkti, Kroketes, Zivju filejas, Pagatavotas zivju maltītes, Saldētas zivis un jūras mīkstmieši, Atdzesēti ēdieni, kas pamatā sastāv no zivīm, Atdzesēti ēdieni, kas pagatavoti no zivīm.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Laħam, ħut, laħam tat-tjur; Estratti tal-laħam; Ikel lest, iffriżat u tal-friġġ u aperitivi li fihom b'mod ewlieni laħam, tjur u laħam tal-kaċċa; Ikel magħmul bi prodotti ta' laħam, majjal u tjur; Frott u ħxejjex ippreservat friżat, imqadded u msajjar; Ġelatina (ġèli), ġamm, zlazi tal-frott; Bajd; Ħalib; Prodotti tal-ħalib; Żjut u xaħmijiet li jittieklu; Ħut u frott tal-baħar ippreservat, Oġġetti tal-ikel ibbażati fuq ħut u frott il-baħar, Kroketts, Fletti tal-ħut, Ikliet ippreparati li jkunu ibbażati fuq il-ħut, Ħut u frott tal-baħar tal-friża, Prodotti tal-ikel imkessħin li fihom prinċipalment il-ħut, Ikliet imkessħa magħmulin mill-ħut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Vlees, vis, gevogelte en wild; Vleesextracten; Bereide, bevroren en gekoelde gerechten en snacks, hoofdzakelijk bestaande uit vlees, gevogelte en wild; Met vlees, varkensvlees en gevogelte bereide voedingsmiddelen; Geconserveerde, bevroren, gedroogde en gekookte vruchten en groenten; Geleien, jams, compote; Eieren; Melk; Melkproducten; Eetbare oliën en vetten; Vis- en schelpdierconserven, Voedingsmiddelen op basis van vis en zeevruchten, Kroketten, Visfilets, Kant-en-klare gerechten op basis van vis, Ingevroren vis en schelp- en schaaldieren, Gekoelde voedingsmiddelen, voornamelijk bestaande uit vis, Maaltijden (Gekoelde -) bereid uit vis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Mięso, ryby, drób i dziczyzna; Ekstrakty mięsne; Dania gotowe, mrożone i schłodzone oraz przystawki głównie składające się z mięsa, drobiu i dziczyzny; Żywność sporządzona z wyrobów mięsnych, wieprzowych i drobiowych; Konserwowane, mrożone, suszone i gotowane owoce i warzywa; Galarety (żele), konfitury, kompot; Jaja; Mleko; Mleczne produkty; Oleje i tłuszcze jadalne; Konserwy rybne i owoce morza, Żywność na bazie ryb i owoców morza, Krokiety, Filety rybne, Przygotowane potrawy na bazie ryb, Ryby i owoce morza mrożone, Żywność chłodzona składająca się głównie z ryb, Posiłki chłodzone przygotowane z ryb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Carne, peixe, aves e caça; Extractos de carne; Refeições preparadas, congeladas e refrigeradas e aperitivos que consistam principalmente de carne, aves e caça; Alimentos preparados com produtos de carne, porco e aves; Frutas e legumes em conserva, congelados, secos e cozidos; Geleias, doces, compotas; Ovos; Leite; Produtos lácteos; Óleos e gorduras comestíveis; Conservas de peixes e mariscos, Produtos alimentares à base de peixe e marisco, Croquetes, Filetes de peixe, Pratos a base de peixe confeccionados, Peixes e mariscos congelados, Alimentos refrigerados constituídos essencialmente por peixe, Refeições refrigeradas de peixe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Carne, peşte, păsări şi vânat; Extracte din carne; Mâncăruri preparate, congelate şi refrigerate şi aperitive care constau în principal din carne, carne de pasăre şi vânat; Alimente preparate cu produse din carne, carne de porc şi carne de pasăre; Fructe şi legume congelate, uscate şi fierte, în conservă; Jeleuri, dulceturi, siropuri de fructe; Ouă; Lapte; Lactate (Produse -); Uleiuri şi grăsimi comestibile; Conserve de peşte şi fructe de mare, Produse alimentare pe bază de peşte şi fructe de mare, Crochete alimentare, File de peşte, Mâncăruri pregătite pe bază de peşte, Peşte şi fructe de mare congelate, Alimente refrigerate constând în principal din peşte, Alimente refrigerate din peşte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Mäso, ryba, hydina a zverina; Mäsové výťažky; Hotové, mrazené a chladené jedlá a predjedlá zložené predovšetkým z mäsa, hydiny a zveriny; Potraviny pripravené z mäsa, bravčového mäsa a hydiny; Konzervované mrazené, sušené a varené ovocie a zelenina; Rôsoly (želé), džemy, kopmóty; Vajcia; Mlieko; Mliečne výrobky; Jedlé oleje a tuky; Konzervy z rýb a morských plodov, Potraviny z rýb a morských plodov, Krokety, Rybie plátky (filé), Hotové jedlá z rýb, Mrazené ryby a morské plody, Chladené potraviny obsahujúce hlavne ryby, Chladené jedlá z rýb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Meso, ribe, perutnina in divjačina; Mesni ekstrakti; Gotove, zamrznjene in hlajene jedi ter prigrizki pretežno iz mesa, perutnine in divjačine; Hrana, pripravljena iz mesa, svinjine in perutnine; Konzervirano, zamrznjeno, posušeno in kuhano sadje in zelenjava; Želeji (želeji), marmelade, kompoti; Jajca; Mleko; Mlečni proizvodi; Jedilno olje in maščoba; Konzervirane ribe in morski sadeži, Živila na osnovi rib in morskih sadežev, Kroketi, Ribji fileti, Pripravljene jedi na ribji osnovi, Zmrznjene ribe in školjke, Ohlajena živila, sestavljena predvsem iz rib, Ohlajene jedi iz rib.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kött, fisk, fjäderfä och vilt; Köttextrakt; Tillagade, frysta och kylda måltider, och aperifer som består i huvudsak av kött, fjäderfä och vilt; Tillagade livsmedel av kött, fläskkött och fågel; Konserverade, frusna, torkade och tillagade frukter och grönsaker; Geléer (geléer), sylter, kompotter; Ägg; Mjölk; Mjölkprodukter; Ätliga oljor och fetter; Fisk- och skaldjurskonserver, Livsmedel av fisk, skaldjur och blötdjur, Kroketter, Fiskfiléer, Tillagade fiskbaserade rätter, Fryst fisk och frysta skaldjur, Kylda livsmedel bestående i huvudsak av fisk, Kylda måltider tillagade av fisk.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Кафе; Чай; Какао; Захар; Ориз; Тапиока; Саго; Заместители на кафе; Брашно и суровини приготвени от зърнени растения,хляб,тестени кори и сладкарски изделия,сладоледи; Мед, захарен петмез; Мая; Бакпулвер; Сол; Горчица; Оцет; Сосове [подправки за ястия]; Подправки; Лед; Ароматични добавки за храни, Снаксови храни на зърнена основа, Нишестени храни; Сандвичи, Сандвичи от месо, сандвичи със свинско месо, Сандвичи с риба, Сандвичи, съдържащи пиле.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Káva; Čaj; Kakao; Cukr; Rýže; Tapioka; Ságo; Náhražky kávy; Mouka a složky vyrobené z obilnin, chléb, pečiva a cukrovinky, zmrzliny/polevy; Med, melasa; Droždí; Kypřící prášek do pečiva; Sůl; Hořčice; Ocet; Omáčky [dochucovadla]; Koření; Led pro osvěžení; Aromatické přípravky pro potravinářské účely, Svačinové občerstvení na bázi cereálií, Moučná jídla; Sendviče, Masové sendviče, Sendviče s vepřovým masem, Sendviče s rybím masem, Sendviče obsahující kuřecí maso.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kaffe; Te; Kakao; Sukker; Ris; Tapioka; Sago; Kaffeerstatning; Mel og næringsmidler af korn, brød, konditori- og konfekturevarer, spiseis; Honning, sirup; Gær; Bagepulver; Salt; Sennep; Eddike; Kryddersaucer; Krydderier; Råis; Aromatiske stoffer til næringsmidler, Kornbaserede snacks, Retter tilberedt på basis af mel; Smørrebrød, Sandwich med kød, Sandwiches med svinekød, Sandwicher indeholdende fisk, Smørrebrød med kylling.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kaffee; Tee; Kakao; Zucker; Reis; Tapioca; Sago; Kaffee-Ersatz; Mehle und Getreidepräparate, Brot, feine Backwaren und Konditorwaren, Speiseeis; Honig, Melassesirup; Hefe; Backpulver; Salz; Senf; Essig; Soßen [Würzen]; Gewürze; Kühleis; Würzzubereitungen für Nahrungsmittel, Getreidesnacks, Mehlspeisen; Belegte Brote, Sandwiches mit Rindfleisch, Sandwiches mit Schweinefleisch, Sandwiches mit Fisch, Sandwiches, belegt mit Hühnerfleisch.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καφές· Τσάι· Κακάο· Ζάχαρη· Ρύζι· Ταπιόκα· Σαγού· Υποκατάστατα καφέ· Άλευρα και παρασκευάσματα από δημητριακά, άρτος, γλυκά και ζαχαρώδη, παγωτά· Μέλι, σιρόπι μελάσας· Μαγιά· Ζυμωτική σκόνη· Αλάτι· Μουστάρδα· Ξύδι· Σάλτσες [καρυκεύματα]· Μπαχαρικά· Πάγος· Αρωματικά (Παρασκευάσματα -) για διατροφή, Μικρογεύματα (σνακ) με βάση τα δημητριακά, Τρόφιμα με βάση το αλεύρι· Σάντουιτς, Σάντουιτς με κρέας, Σάντουιτς με χοιρινό κρέας, Σάντουιτς με ψάρι, Σάντουιτς που περιέχουν κοτόπουλο.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Coffee; Tea; Cocoa; Sugar; Rice; Tapioca; Sago; Artificial coffee; Flour and preparations made from cereals, bread, pastry and confectionery, edible ices; Honey, treacles; Yeast; Baking powder; Salt; Mustard; Vinegar; Sauces [condiments]; Spices; Ice; Aromatic preparations for food, Cereal-based snack food, Farinaceous foods; Sandwiches, Meat sandwiches, Pork sandwiches, Sandwiches containing fish, Sandwiches containing chicken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Café; Té; Cacao; Azúcar; Arroz; Tapioca; Sagú; Sucedáneos del café; harinas y preparaciones hechas de cereales, pan, pastelería y confitería, helados comestibles; miel, jarabe de melaza; Levadura; Polvos para esponjar; Sal; Mostaza; Vinagre; Salsas [condimentos]; especias; hielo; preparaciones aromáticas para uso alimenticio, refrigerios a base de cereales, alimentos a base de harina; Bocadillos, bocadillos de carne, bocadillos de carne de cerdo, bocadillos de pescado, bocadillos de pollo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kohv; Tee; Kakao; Suhkur; Riis; Tapiokk, maniokitärklis; Saago, saagotangud; Kohvi aseained; Jahu ja teraviljast valmistatud tooted, leib-sai, kondiitritooted, maiustused ja võõbad; Mesi, suhkrusiirupid; Pärm; Küpsetuspulber; Sool; Sinep; Äädikas; Maitsekastmed; Vürtsid; Jää; Toiduaroomi- ja -lõhnaained, Teraviljast valmistatud suupisted, Jahutoidud; Võileivad, Lihavõileivad, Võileivad sealihaga, Kalavõileivad, Kanalihaga võileivad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kahvi; Tee; Kaakao; Sokeri; Riisi; Tapioka; Saagosuurimot; Kahvinkorvike; Jauhot ja vilja-valmisteet, leipä, leivonnaiset, makeiset, jäätelöt; Hunaja, siirapit; Hiiva; Leivinjauhe; Suola; Sinappi; Etikka; Kastikkeet (Mauste -); Mausteet; Jää; Aromaattiset valmisteet ruoanlaittoon, Viljapohjainen pikaruoka, Ruoat, jauhopohjaiset; Kerrosvoileivät, Lihavoileivät, Sianlihavoileivät, Kalaa sisältävät voileivät, Kanaa sisältävät voileivät.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Café; Thé; Cacao; Sucre; Riz; Tapioca; Sagou; Succédanés du café; Farines et préparations faites de céréales, pain, pâtisserie et confiserie, glaces comestibles; Miel, sirop de mélasse; Levure; Poudre à lever; Sel; Moutarde; Vinaigres; Sauces [condiments]; Épices; Glace à rafraîchir; Préparations aromatiques à usage alimentaire, En-cas à base de céréales, Mets à base de farine; Sandwichs, Sandwiches à la viande, Sandwiches à la viande de porc, Sandwiches au poisson, Sandwichs au poulet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kava; Čaj; Kakao; Šećer; Riža; Tapioka; Sago [škrob iz jezgre palme sago]; Nadomjesci kave; Brašno i proizvodi od žita, kruh, slastice i slatkiši, sladoled; Med, melasa; Pjenica [kvasac]; Prašak za dizanje; Sol; Senf; Ocat; Umaci (začinski); Začini; Led; Aromatični pripravci za prehranu, Grickalice na bazi žitarica, Jela od brašna; Sendviči, Sendviči s mesom, Sendviči od svinjetine, Riblji sendviči, Sendviči s piletinom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kávé; Tea; Kakaó; Cukor; Rizs; Tápióka; Szágó; Pótkávé; Liszt és gabonafélékből készült készítmények, kenyér, süteménytészták és cukrászsütemények, fagylaltok; Méz, melasz; Élesztő; Sütőpor; Só; Mustár; Ecet; Szószok [ízesítőszerek, fűszeres mártások]; Fűszerek; Jég; Fűszeres készítmények ételekhez, Snack ételek (Gabona alapú -), Liszttartalmú ételek; Szendvicsek, Húsos szendvicsek, Sertéshúsos szendvicsek, Halat tartalmazó szendvicsek, Csirkés szendvicsek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Caffè; Tè; Cacao; Zucchero; Riso; Tapioca; Sago; Succedanei del caffè; Farine e preparati fatti di cereali, pane, pasticceria e confetteria, gelati; Miele, sciroppo di melassa; Lievito; Lievito in polvere; Sale; Senape; Aceto; Salse salate; Spezie; Ghiaccio; Composti aromatici per uso alimentare, Snack a base di cereali, Alimenti a base di farina; Sandwich, Panini imbottiti di carne, Panini con carne di maiale, Panini imbottiti contenenti pesce, Panini contenenti pollo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kava; Arbata; Kakava; Cukrus; Ryžiai; Tapijoka; Sago kruopos; Kavos pakaitalai; Miltai ir maisto produktai iš grūdinių kultūrų, duona, pyragai ir konditerijos gaminiai, glaistyti gaminiai; Medus, sirupai; Mielės; Kepimo milteliai; Druska; Garstyčios; Actas; Padažai [uždarai]; Prieskoniai; Ledas; Aromatiniai preparatai (maistui), Javiniai užkandžiai, Miltiniai maisto produktai; Sumuštiniai, Sumuštiniai su mėsa, Sumuštiniai su kiauliena, Sumuštiniai su žuvimi, Sumuštiniai su vištiena.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kafija; Tēja; Kakao; Cukurs; Rīsi; Tapioka; Sāgo; Kafijas aizstājēji; No labības graudiem pagatavotas miltu un labības sagataves, maize, konditoreja un saldējumi; Medus, sīrups; Raugs; Cepamais pulveris; Sāls; Sinepes; Etiķis; Mērces [garšvielu mērces]; Garšvielas; Pārtikas ledus; Pārtikas aromatizētāji, Uzkodas uz graudaugu bāzes, Miltu ēdieni; Sendviči, Sviestmaizes ar gaļu, Sviestmaizes ar cūkgaļu, Zivju sviestmaizes, Sviestmaizes, kas satur vistas gaļu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kafè; Tè; Kawkaw; Zokkor; Ross; Tapjoka; Sagu; Kafè artifiċjali; Dqiq u preparazzjonijiet magħmula miċ-ċereali, ħobż, għaġina u ħelu, ġelati; Għasel, għasel iswed; Ħmira; Trab tal-ħami; Melħ; Mustarda; Ħall; Zlazi [kondimenti]; Ħwawar; Silġ; Preparazzjonijiet aromatiċi għall-ikel, Ikel ħafif magħmul miċ-ċereali, Ikel dqiqi; Sandwiċċ, Ħobż bil-laħam, Sandwiċis tal-majjal, Sandwiċis li fihom il-ħut, Sandwiċis li fihom it-tiġieġ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Koffie; Thee; Cacao; Suiker; Rijst; Tapioca; Sago; Koffiesurrogaten; Meel en graanpreparaten, brood, banketbakkers- en suikerbakkerswaren, consumptie-ijs; Honing, melassestropen; Gist; Bakpoeder; Zout; Mosterd; Azijn; Kruidensausen; Specerijen; Ijs; Aromatische preparaten voor voedingsdoeleinden, Versnaperingen op basis van granen, Gerechten op basis van meel; Belegde broodjes, Belegde broodjes met vlees, Sandwiches met varkensvlees, Belegde broodjes met vis, Belegde broodjes met kip.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kawa; Herbata; Kakao; Cukier; Ryż; Tapioka; Sago; Kawa nienaturalna; Mąka i produkty zbożowe, chleb, wyroby cukiernicze i słodycze, lody; Miód, melasa; Drożdże; Proszek do pieczenia; Sól; Musztarda; Ocet; Sosy [przyprawy]; Przyprawy; Lód; Aromaty (Preparaty -) do żywności, Przekąski na bazie zbóż, Potrawy na bazie mąki; Kanapki, Kanapki mięsne, Kanapki z mięsem wieprzowym, Kanapki z rybą, Kanapki z kurczakiem,.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Café; Chá; Cacau; Açúcar; Arroz; Tapioca; Sagú; Sucedâneos do café; Farinhas e preparações feitas de cereais, pão, pastelaria e confeitaria, gelados comestíveis; Mel, melaços; Levedura; Fermento em pó; Sal; Mostarda; Vinagres; Molhos [condimentos]; Especiarias; Gelo para refrescar; Preparações aromáticas para a alimentação, Snacks à base de cereais, Alimentos à base de farinha [farináceos]; Sanduíches, Sanduíches de carne, Sanduíches de carne de porco, Sanduíches com peixe, Sanduíches com frango.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cafea; Ceai; Cacao; Zahăr; Orez; Tapioca; Sago; Înlocuitori de cafea; Făină şi preparate din cereale, pâine, cocă şi produse de cofetărie, sorbete; Miere, melase; Drojdie; Praf de copt; Sare; Muştar; Oţet; Sosuri [condimente]; Mirodenii; Gheaţă; Aromatice (preparate - de uz alimentar), Gustări pe bază de cereale, Mâncăruri pe bază de făină; Sandvisuri, Sandvişuri cu carne, Sandvişuri cu carne de porc, Sandvişuri cu peşte, Sandvişuri care conţin pui.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Káva; Čaj; Kakao; Cukor; Ryža; Tapioka; Ságo; Kávové náhradky; Mlieka a zložky vyrobené z obilnín, chlieb, jemné pečivo a cukrovinky, zmrzliny; Med, melasa; Droždie; Práškové droždie; Soľ; Horčica; Ocot; Omáčky (chuťové prísady); Korenie; Ľad; Aromatické prípravky do potravín, Obilninové chuťovky, Múčne jedlá; Sendviče, Mäsové sendviče, Sendviče s bravčovým mäsom, Sendviče s rybami, Sendviče obsahujúce kuracie mäso.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kava; Čaj; Kakav; Sladkor; Riž; Tapioka; Sago (škrobna moka iz stržena sagove palme); Kavni nadomestki; Moka in preparati, pripravljeni iz žitaric, kruh, pecivo in slaščice, sladoledi; Med, melasa; Kvas; Pecilni praški; Sol; Gorčica; Kis; Omake [začimbe]; Začimbe; Led; Aromatični pripravki za prehrano, Prigrizki iz žitaric, Močnate jedi; Sendviči, Mesni sendviči, Sendviči iz svinjine, Ribji sendviči, Sendviči s piščancem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kaffe; Te; Kakao; Socker; Ris; Tapioka; Sagogryn; Kaffeersättning; Mjöl och näringspreparat tillverkade av spannmål, bröd, konditorivaror och godsaker, glass; Honung, sirap; Jäst; Bakpulver; Salt; Senap; Vinäger; Såser [smaktillsatser]; Kryddor; Is; Aromatiska preparat för födoämnen, Sädesbaserade tilltugg, Mjölbaserade maträtter; Smörgåsar, Smörgåsar med kött, Mackor med griskött, Smörgåsar innehållande fisk, smörgåsar innehållande kyckling.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/198</PublicationIdentifier>
+        <PublicationSection>C.9.1</PublicationSection>
+        <PublicationDate>2020-10-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/200</PublicationIdentifier>
+        <PublicationSection>C.9.1</PublicationSection>
+        <PublicationDate>2020-10-20</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>560312</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10005</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>000046683</RecordIdentifier>
+<BasicRecordKind>Cancellation - Cancellation based on invalidity</BasicRecordKind>
+<ClaimantDetails>
+<ClaimantKey>
+<Identifier>5158</Identifier>
+</ClaimantKey>
+</ClaimantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10818</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Adversarial proceedings</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-10-14</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018641962</RecordIdentifier>
+<BasicRecordKind>Revocation and declaration of invalidity - Application for revocation or for a declaration of invalidity</BasicRecordKind>
+<RecordCurrentStatusCode>Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-10-16</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018643612</RecordIdentifier>
+<BasicRecordKind>Revocation and declaration of invalidity - Application for revocation or for a declaration of invalidity</BasicRecordKind>
+<RecordCurrentStatusCode>Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-10-20</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

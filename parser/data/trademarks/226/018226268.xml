@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-18T14:29:12</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226268</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226268</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-01</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>starcatch</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Медицински апарати и инструменти; Инструменти за медицинска диагностика; Монитори за сърдечна дейност; Измервателни уреди за сърдечната дейност; Електронни апарати за мониторинг за медицинска употреба; Апарати за мониторинг на сърдечния пулс.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Lékařské přístroje a nástroje; Nástroje pro lékařskou diagnostiku; Monitory srdeční frekvence; Zařízení pro měření srdečního tepu; Elektronické monitorovací přístroje pro lékařské účely; Přístroje pro monitorování srdeční frekvence.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Medicinske apparater og instrumenter; Værktøjer til medicinsk diagnosticering; Hjertesignalmonitorer; Apparater til måling af hjerteslag; Elektriske overvågningsinstrumenter til medicinsk brug; Apparater til måling af hjerterytme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Medizinische Apparate und Instrumente; Geräte für medizinische Diagnosen; Herzschlagüberwachungsgeräte; Geräte zur Messung der Herzfrequenz; Elektronische Überwachungsinstrumente für medizinische Zwecke; Herzfrequenzmonitore.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ιατρικά (Συσκευές και όργανα -)· Εργαλεία ιατρικής διάγνωσης· Συσκευές παρακολούθησης καρδιακών παλμών· Συσκευές μέτρησης καρδιακών χτύπων· Ηλεκτρονικά όργανα παρακολούθησης για ιατρική χρήση· Συσκευές παρακολούθησης καρδιακών παλμών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Medical apparatus and instruments; Medical diagnostic instruments; Heart rate monitors; Heartbeat measuring apparatus; Electronic monitoring instruments for medical use; Heart rate monitoring apparatus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aparatos e instrumentos médicos; Herramientas para el diagnóstico médico; Monitores de ritmo cardiaco; Aparatos de medida del ritmo cardiaco; Aparatos de monitorización electrónicos para uso médico; Aparatos de monitorizacion de la frecuencia cardíaca.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiiniseadmed ja -riistad; Meditsiinilised diagnostikavahendid; Südamesignaali jälgimisseadmed; Südamelöökide sageduse mõõteseadmed; Meditsiinilised elektroonilised seireseadmed; Südamelöökide jälgimise seadmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lääketieteelliset laitteet ja välineet; Työkalut lääketieteelliseen diagnostiikkaan; Sydänäänen seurantalaitteet; Sydämensykkeen mittauslaitteet; Elektroniset seurantavälineet lääketieteelliseen käyttöön; Sykemonitorit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Appareils et instruments médicaux; Outils pour diagnostic médical; Moniteurs de signaux cardiaques; Appareils de mesure du rythme cardiaque; Instruments électroniques de surveillance à usage médical; Moniteurs cardiaques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Medicinski uređaji i instrumenti; Alati za medicinsku dijagnostiku; Monitori za praćenje otkucaja srca; Uređaji za mjerenje otkucaja srca; Elektronički nadzorni instrumenti za medicinsku uporabu; Uređaji za praćenje otkucaja srca.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyógyászati készülékek és eszközök; Orvosi diagnosztikai eszközök; Szívritmus-felügyelők; Szívverés-mérő berendezések; Elektronikus megfigyelő berendezések orvosi használatra; Szívritmusmérő.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Apparecchi e strumenti medici; Utensili medico-diagnostici; Cardiofrequenzimetri; Apparecchi di misurazione del battito cardiaco; Apparecchi di monitoraggio elettronici per uso medico; Apparecchi di monitoraggio della frequenza cardiaca.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Medicinos aparatai ir instrumentai; Medicinos diagnostikos įrankiai; Širdies plakimo signalų monitoriai; Širdies ritmo matavimo aparatai; Elektroniniai stebėjimo prietaisai medicinos reikmėms; Širdies ritmo stebėjimo aparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medicīniskā aparatūra un instrumenti; Instrumenti medicīniskai diagnostikai; Sirdsdarbības monitori; Pulsa mērīšanas aparāti; Elektroniskas uzraudzības ierīces medicīniskām vajadzībām; Sirds ritma kontroles aparāti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Apparat u strumenti mediċi; Għodda għad-dijanjosi medika; Moniter li josserva s-sinjali tal-qalb; Apparat li jkejjel it-tħabbit tal-qalb; Strumenti elettroniċi għall-monitoraġġ għal użu mediku; Apparat ta' monitoraġġ tar-rata tat-taħbit tal-qalb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Medische apparaten en instrumenten; Medische diagnostische instrumenten; Hartritmemonitors; Hartslagmeetapparatuur; Elektronische bewakingsapparatuur voor medisch gebruik; Hartritmemonitors.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia i instrumenty medyczne; Narzędzia do diagnostyki medycznej; Monitory pracy serca; Urządzenia do pomiaru uderzeń serca; Elektroniczna aparatura monitorująca do użytku medycznego; Urządzenia do monitorowania tętna.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aparelhos e instrumentos médicos; Ferramentas de diagnóstico médico; Monitores de sinal cardíaco; Aparelhos para medição da pulsação (batimentos cardíacos); Aparelhos eletrónicos de monitorização para uso médico; Aparelhos de monitorização cardíaca.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aparate și instrumente medicale; Instrumente pentru diagnosticare medicală; Aparate pentru monitorizarea activității cardiace; Aparate pentru măsurarea pulsului; Aparate de monitorizare electronice pentru uz medical; Aparate de monitorizare a ritmului cardiac.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lekárske prístroje a nástroje; Nástroje na lekársku diagnostiku; Monitory na sledovanie srdcového signálu; Zariadenia na meranie tepu srdca; Elektronické monitorovacie zariadenia na lekárske účely; Prístroje na sledovanie tepovej frekvencie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Medicinski aparati in instrumenti; Orodje za medicinsko diagnostiko; Monitorji za spremljanje srčnega utripa; Aparati za merjenje srčnega utripa; Elektronski instrumenti za spremljanje za medicinsko uporabo; Merilniki srčnega utripa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Medicinska apparater och instrument; Instrument för medicinsk diagnostik; Anordningar för övervakning av hjärtfrekvens; Apparater för mätning av hjärtslag; Elektroniska övervakningsapparater för medicinsk användning; Apparater för övervakning av hjärtfrekvens.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/077</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1059018</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>34250</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018830383</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>34250</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Registered</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-11-18</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

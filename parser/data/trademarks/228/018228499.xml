@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:13</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228499</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228499</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>JQ London</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Етерични масла и ароматни екстракти; Восък за шивашки конци и oбущарски восък; Почистващи и ароматизиращи препарати; Препарати за грижа за тоалета на животни; Козметични тоалетни принадлежности.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vonné oleje a aromatické výtažky; Krejčovský vosk a ševcovská smůla; Čistící prostředky a vonné přípravky; Kosmetické přípravky pro péči o zvířata; Toaletní přípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Æteriske olier og aromatiske udtræk; Skrædder- og skomagervoks; Rengørings- og duftpræparater; Plejemidler til dyr; Toiletartikler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Ätherische Öle und aromatische Extrakte; Schneider- und Schusterwachs; Reinigungs- und Duftpräparate; Tierpflegemittel; Körperpflegemittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αιθέρια έλαια και αρωματικά εκχυλίσματα· Κερί ραπτικής και υποδηματοποιίας· Καθαριστικά και αρωματικά παρασκευάσματα· Παρασκευάσματα για την περιποίηση ζώων· Καλλυντικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Essential oils and aromatic extracts; Tailors' and cobblers' wax; Cleaning and fragrancing preparations; Animal grooming preparations; Toiletries.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aceites esenciales y extractos aromáticos; Cera para zapateros y sastres; Preparaciones para limpiar y aromatizar; Productos para el cuidado y limpieza de animales; Artículos de tocador.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Eeterlikud õlid ja aroomiekstraktid; Rätsepa- ja kingsepavaha; Puhastus- ja lõhnastusained; Tooted loomade karvastiku hoolduseks; Tualett-tarbed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Eteeriset öljyt ja aromaattiset uutteet; Räätälin- ja suutarinvaha; Puhdistus- ja raikastusvalmisteet; Siistimisvalmisteet eläimille; Kosmeettiset ja peseytymisvalmisteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Huiles essentielles et extraits aromatiques; Cire pour tailleurs et pour cordonniers; Préparations nettoyantes et parfumantes; Préparations pour le toilettage d'animaux; Produits de toilettes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Esencijalna ulja i aromatični ekstrakti; Vosak za krojače i postolare; Pripravci za čišćenje i osvježivanje prostora; Pripravci za njegu životinja; Toaletni proizvodi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Olajesszenciák és aromakivonatok; Szabó- és cipészviaszok; Tisztító és illatosító készítmények; Állatápolási készítmények; Testápolási cikkek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Olii essenziali ed estratti aromatici; Pece per sarti e calzolai; Preparati per pulire e profumare; Prodotti per la toilette degli animali; Toiletteria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Eteriniai aliejai ir aromatiniai ekstraktai; Siuvėjų ir siūlų vaškas; Valymo ir kvėpinimo preparatai; Gyvūnų higieninės ir grožio priežiūros preparatai; Tualeto reikmenys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ēteriskās eļļas un aromātiskie ekstrakti; Vaska krītiņi drēbniekiem un kurpnieku piķis; Tīrīšanas un aromatizēšanas līdzekļi; Kopšanas līdzekļi dzīvniekiem; Personiskās tualetes līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Żjut essenzjali u estratti aromatiċi; Xama' għall-ħajjata u ġħall-iskrapan; Preparazzjonijiet għat-tindif u għal riħa tfuħ; Preparazzjonijiet għat-tindif ta' l-annimali; Preparazzjonijiet tat-twaletta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Essentiële oliën en aromatische extracten; Kleermakerswas en schoenmakerswas; Reinigingsproducten en geurproducten; Producten voor cosmetische dierenverzorging; Preparaten voor de toiletverzorging.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Olejki esencjonalne i ekstrakty aromatyczne; Wosk krawiecki i szewski; Preparaty do czyszczenia i odświeżania; Preparaty do pielęgnacji zwierząt; Środki toaletowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Óleos essenciais e extratos aromáticos; Cera para alfaiates e sapateiros; Produtos para limpar e perfumar; Produtos para tratamento (limpeza, etc.) de animais; Produtos de toilette.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Uleiuri esențiale și extracte aromatice; Ceară de croitorie, ceară pentru cizmărie; Preparate pentru curățare și odorizante; Preparate pentru îngrijirea animalelor; Produse pentru toaletă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Éterické oleje a aromatické výťažky; Krajčírsky a obuvnícky vosk; Čistiace a vonné prípravky; Toaletné prípravky pre zvieratá; Kozmetické výrobky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Eterična olja in aromatični ekstrakti; Krojaški in čevljarski vosek; Preparati za čiščenje in odišavljanje; Pripravki za nego živali; Toaletna sredstva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Eteriska oljor och aromatiska extrakt; Skrädderi- och skomakerivax; Rengöringsmedel och välluktande preparat; Preparat för pälsvård; Toalettartiklar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>21</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Изделия за грижа за облекла и обувки; Статуи, статуетки, плакети и произведения на изкуството, изработени от материали като порцелан, глина или стъкло, включени в този клас; Домакински изделия за почистване, четки и материали за изработване на четки; Козметични и тоалетни принадлежности; Сервизи и прибори за маса, кухненска посуда и съдини; Необработено или полуобработено стъкло, което не е предназначено за самостоятелна употреба.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Výrobky pro péči o oděvy a obuv; Sochy, figurky, plakety a medaile a umělecké předměty vyrobené z materiálů jako porcelán, terakota nebo sklo, zahrnuté v této třídě; Domácí náčiní k úklidu, kartáče a materiály na výrobu kartáčů; Kosmetické a toaletní potřeby; Nádobí, kuchyňské náčiní a nádoby; Nezpracované a polozpracované sklo bez určitého účelu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Artikler til pleje af beklædningsgenstande og fodtøj; Statuer, statuetter, plaketter og kunstværker fremstillet af materialer såsom porcelæn, terra-cotta eller glas, indeholdt i klassen; Redskaber til rengøring i hjemmet, børster og børstenbindermateriale; Redskaber til kosmetisk brug og toiletredskaber; Bordservice, køkkengrej og beholdere; Uforarbejdet og halvforarbejdet glas uden anvendelsesmæssige specifikationer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Haushaltsgegenstände für die Pflege von Bekleidung und Schuhwaren; Statuen, Figuren, Schilder und Kunstwerke aus Materialien wie Porzellan, Keramik, Steingut und Glas, soweit in dieser Klasse enthalten; Haushaltsreinigungsgegenstände, Bürsten und Bürstenmachermaterialien; Kosmetik- und Toiletteutensilien; Geschirr, Kochgeschirr und Behälter; Unverarbeitete und teilweise verarbeitete Glaswaren, nicht für einen bestimmten Verwendungszweck angepasst.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Είδη περιποίησης ενδυμάτων και υποδημάτων· Αγάλματα, αγαλματίδια, κορνίζες και έργα τέχνης, από υλικά όπως πορσελάνη, τερακότα ή γυαλί, που περιλαμβάνονται στην κλάση· Οικιακά σύνεργα καθαρισμού, βούρτσες και υλικά ψηκτροποιίας· Σύνεργα καλλωπισμού και ατομικής περιποίησης· Επιτραπέζια σκεύη, μαγειρικά σκεύη και δοχεία· Ακατέργαστο και ημικατεργασμένο γυαλί μη προοριζόμενα για συγκεκριμένη χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Articles for the care of clothing and footwear; Statues, figurines, plaques and works of art, made of materials such as porcelain, terra-cotta or glass, included in the class; Household utensils for cleaning, brushes and brush-making materials; Cosmetic and toilet utensils; Tableware, cookware and containers; Unworked and semi-worked glass, not specified for use.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Artículos para el cuidado de prendas de vestir y calzado; Estatuas, estatuillas, placas y objetos de arte, fabricados de materiales como porcelana, terracota o vidrio, incluidos en esta clase; Utensilios domésticos de limpieza, cepillos y materiales para fabricar cepillos; Utensilios de cosméticos y de tocador; Vajillas, baterías de cocina y recipientes; Vidrio semiprocesado y en bruto, sin un uso específico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Rõivaste ja jalatsite hooldustooted; Antud klassi kuuluvad kujud, kujukesed, tahvlid ja plaadid, mis on valmistatud materjalidest, nagu portselan, terrakota või klaas; Puhastusvahendid majatarvetena, harjad ja harjamaterjalid; Kosmeetika- ja tualett-tarvikud; Lauanõud, toiduvalmistusnõud ja mahutid; Töötlemata ja pooltöödeldud klaas, otstarve täpsustamata.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tarvikkeet vaatteiden ja jalkineiden hoitoon; Patsaat, pienoisveistokset, muistolaatat ja taideteokset luokkaan sisältyvistä materiaaleista kuten posliini, keramiikka tai lasi; Kodinpuhdistusvälineet, harjat ja harjanvalmistusaineet; Kosmetiikka- ja toilettitarvikkeet; Pöytäastiat, keittoastiat ja säiliöt; Työstämätön ja puolivalmisteinen lasi, käyttötarkoitusta ei määritelty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Articles pour l’entretien de vêtements et de chaussures; Statues, figurines, plaques et œuvres d'art, faites de matériaux comme la porcelaine, la terre cuite ou le verre, compris dans la classe; Ustensiles de nettoyage, brosses et matériaux pour la brosserie; Ustensiles cosmétiques et de toilette; Vaisselle, ustensiles de cuisine et récipients pour la cuisine ou le ménage; Verre brut et mi-ouvré, à usage non spécifié.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Artikli za održavanje odjeće i obuće; Kipovi, figurice, ploče i umjetnička djela, od materijala kao što su porculan, terakota ili staklo, obuhvačeni ovim razredom; Kućanski pribor za čišćenje, četke i materijali za izradu četki; Kozmetički i toaletni pribor; Pribor za jelo, kuhinjski pribor i spremnici; Neobrađeno ili poluobrađeno staklo, bez određene uporabe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Árucikkek ruhák és lábbelik ápolásához; Szobrok, kisplasztikák, dísztáblák és művészeti alkotások porcelánból, terrakottából vagy üvegből, amelyek ebbe az osztályba tartoznak; Háztartási tisztítóeszközök, kefék és kefekészítő anyagok; Kozmetikai és piperecikkek; Asztalneműk, főzőedények és tárolók; Feldolgozatlan és félig feldolgozott üveg, nem meghatározott célra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Articoli per la cura di capi di abbigliamento e calzature; Statue, statuette, targhe e opere d'arte, fatte in porcellana, terracotta o vetro, incluse in questa classe; Utensili per le pulizie domestiche, spazzole e materiali per la fabbricazione di spazzole; Utensili per uso cosmetico e per la toilette; Vasellame, pentole e recipienti; Vetreria non lavorata e semi-lavorata, non per usi specificati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Drabužių ir avalynės prižiūros reikmenys; Porceliano, keramikos ar stiklo statulos, figūrėlės, lentelės ir meno dirbiniai, priskirti prie šios klasės; Namų apyvokos valymo reikmenys, šepečiai ir šepečių darymo medžiagos; Kosmetiniai ir tualetiniai reikmenys; Valgomieji reikmenys, virtuvės reikmenys ir buitinės talpyklos; Neapdirbtas ir iš dalies apdirbtas stiklas (nenurodytos paskirties).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Preces apģērbu un apavu kopšanai; Porcelāna, terakotas vai stikla statujas, statuetes, plaketes un mākslas darbi, kas ietverti šajā klasē; Mājsaimniecības piederumi tīrīšanai, birstes un birstu izgatavošanas materiāli; Kosmētikas un tualetes piederumi; Galda un virtuves piederumi, tilpnes un trauki; Neapstrādāta un daļēji apstrādāta keramika un stikls, kas nav paredzēti konkrētam lietojumam.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Artikli għall-kura ta' ħwejjeġ u ta' xedd is-saqajn; Statwi, figurini, plakki u xogħolijiet tal-arti, magħmula minn materjali bħall-porċellana, t-terrakotta jew il-ħġieġ, inklużi fil-klassi; Utensili domestiċi għat-tindif, xkupilji u materjali biex tagħmel l-ixkupilji u l-pniezel; Għodod kosmetiċi u tat-twaletta; Oġġetti għal fuq il-mejda, oġġetti li ssajjar bihom u kontenituri; Ħġieġ mhux maħdum jew nofsu maħdum, mhux speċifikat għall-użu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Artikelen voor het verzorgen van kleding en schoeisel; Beelden, beeldjes, plaquettes en kunstwerken van materialen zoals porselein, terracotta of glas, begrepen in deze klasse; Huishoudelijk schoonmaakgerei, borstels en materialen voor de borstelfabricage; Cosmetisch gerei en toiletgerei; Vaatwerk, kookgerei en houders voor de keuken of de huishouding; Onbewerkt en halfbewerkt glas, niet gespecificeerd voor gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Artykuły do pielęgnacji odzieży i obuwia; Statuetki, figurki, tabliczki i dzieła sztuki wykonane z takich materiałów, jak porcelana, terakota lub szkło, zawarte w tej klasie; Przybory do użytku domowego do czyszczenia, szczotki i materiały do wytwarzania szczotek; Przybory kosmetyczne i toaletowe; Zastawa stołowa, przybory kuchenne i pojemniki; Szkło nieprzetworzone i półprzetworzone, będące półproduktem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Artigos para a conservação de vestuário e calçado; Estátuas, estatuetas, placas e obras de arte, feitos de materiais tais como porcelana, terracota ou vidro, incluídos na classe; Utensílios domésticos para a limpeza, escovas e materiais para o fabrico de escovas; Utensílios cosméticos e de toilette; Utensílios de mesa, cozinha e recipientes; Vidro não trabalhado e semitrabalhado, sem uso específico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Material pentru îngrijirea articolelor de îmbrăcăminte și încălțăminte; Statui, figurine, plăci și obiecte de artă din materiale ca porțelan, teracotă sau sticlă, incluse în această clasă; Ustensile de uz menajer pentru curățat, perii și materiale pentru perii; Ustensile cosmetice și de toaletă; Veselă, articole de bucătărie și recipiente; Sticlă neprelucrată sau semiprelucrată, cu utilizare nespecificată.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Výrobky pre starostlivosť o odevy a obuv; Sochy, figúrky, plakety a umelecké diela z materiálov ako sú porcelán,terakota alebo sklo, patriace do tejto triedy; Domáce alebo kuchynské potreby na čistenie, kefy a materiály na výrobu kief; Kozmetické a toaletné potreby; Stolovacie potreby, kuchynský riad a nádoby; Nespracované alebo polospracované sklo, bez určenia účelu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Izdelki za nego oblačil in obutve; Kipi, figurice, okrasne ploščice in umetniška dela iz materialov, kot so porcelan, glina ali steklo, vključenih v ta razred; Gospodinjski pripomočki za čiščenje, krtače in materiali za ščetkarstvo; Kozmetični in toaletni pripomočki; Namizna posoda, posoda za kuhanje in shranjevalna posoda; Neobdelano in polobdelano steklo, katerega uporaba ni opredeljena.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Artiklar för vård av kläder och fotbeklädnader; Statyer, figuriner, plaketter och konstföremål, gjorda av material som porslin, terrakotta eller glas, ingående i klassen; Hushållsredskap för rengöringsändamål, borstar och borstmakerimaterial; Kosmetiska redskap och toalettredskap; Bordsserviser, köksredskap och behållare; Obearbetat och delvis bearbetat glas, inte specificerade efter användningsområde.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

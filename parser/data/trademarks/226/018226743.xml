@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-24T23:07:42</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226743</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226743</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="7">Appeal pending</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-22</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Die Bank für Ihr Zuhause.</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>36</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Застрахователни услуги; Финансови сделки; Парични сделки; Бизнес свързан с недвижими имоти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Uzavírání pojištění; Služby finanční; Peněžní záležitosti; Služby v oblasti nemovitostí.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Forsikringsvirksomhed; Finansiel virksomhed; Valutarisk virksomhed; Ejendomshandelvirksomhed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Versicherungswesen; Finanzwesen; Geldgeschäfte; Immobilienwesen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες ασφάλισης· Οικονομικές υπηρεσίες· Νομισματικές υποθέσεις· Κτηματομεσιτικές υποθέσεις.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Insurance underwriting; Finance services; Monetary affairs; Real estate affairs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Suscripción de seguros; Servicios financieros; Servicios de negocios monetarios; Servicios de asuntos inmobiliarios.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kindlustusteenused; Finantsteenused; Finantstehingud; Kinnisvarateenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vakuutuspalvelut; Rahoituspalvelut; Raha-asiat; Kiinteistöasiat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Souscription d'assurances; Services financiers; Affaires monétaires; Affaires immobilières.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Osiguravateljske usluge; Financijske usluge; Monetarni poslovi; Vođenje poslova u vezi s nekretninama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Biztosítási szolgáltatások; Pénzügyi szolgáltatások; Pénzügyek, pénzügyi szolgáltatások; Ingatlanügyletek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi assicurativi; Affari finanziari; Affari monetari; Servizi relativi ad affari immobiliari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Draudimo paslaugos; Finansinės paslaugos; Piniginių reikalų paslaugos; Nekilnojamojo turto operacijos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apdrošināšanas risku parakstīšana; Finanšu pakalpojumi; Darījumi ar naudu; Darījumi ar nekustamo īpašumu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' assigurazzjoni; Servizzi f'finanzi; Affarijiet monetarji; Servizzi dwar kwistjonijiet tal-proprjeta immobbli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Verzekeringen; Financiële diensten; Monetaire zaken; Onroerend-goed zaken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi ubezpieczeniowe; Usługi finansowe; Sprawy monetarne; Usługi związane z majątkiem nieruchomym.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de seguros; Serviços financeiros; Negócios monetários; Serviços relacionados com a gestão imobiliária.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de asigurare; Servicii financiare; Servicii de afaceri monetare; Afaceri imobiliare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poisťovníctvo; Služby v oblasti finančníctva; Menové záležitosti; Záležitosti v oblasti nehnuteľností.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zavarovalniške storitve; Finančne storitve; Denarni posli; Nepremičninski posli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Försäkringstjänster; Finansiella tjänster; Tjänster rörande monetära frågor; Fastighetsaffärer.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080393</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>13109</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+<AppealDetails>
+<Appeal>
+<AppealIdentifier>R1866/2020-4</AppealIdentifier>
+<AppealDate>2020-09-21</AppealDate>
+<AppealProceedingLanguageCode>de</AppealProceedingLanguageCode>
+<CaseReferenceDetails>
+       <CaseReference caseReferenceKind="Trade Mark">018226743</CaseReference>
+      </CaseReferenceDetails>
+<AppellantDetails>
+<AppellantKey>
+<Identifier>1080393</Identifier>
+</AppellantKey>
+</AppellantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>13109</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Appeal>
+</AppealDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

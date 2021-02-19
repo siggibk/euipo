@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-20T10:11:01</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226273</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226273</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>fi</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>AFT ANATOMIC FUNCTIONAL TRAINING</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162308045</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226273/000162308045.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.05.99</CategoryCode>
+          <CategoryCode>26.11.02</CategoryCode>
+          <CategoryCode>26.11.05</CategoryCode>
+          <CategoryCode>26.11.08</CategoryCode>
+          <CategoryCode>27.99.01</CategoryCode>
+          <CategoryCode>27.99.06</CategoryCode>
+          <CategoryCode>27.99.20</CategoryCode>
+          <CategoryCode>29.01.03</CategoryCode>
+          <CategoryCode>29.01.08</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Оборудване за физиотерапия; Оборудване за физиотерапия; Оборудване за физиотерапия и рехабилитация; Апарати за масаж; Масажни апарати за лична употреба; Ролки от пяна за масаж.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Fyzioterapeutické přístroje; Fyzioterapeutické přístroje; Zařízení pro fyzioterapii a rehabilitaci; Masážní přístroje; Masážní přístroje a nástroje k osobnímu použití; Pěnové masážní válečky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Udstyr til fysisk terapi; Udstyr til fysisk terapi; Udstyr til fysioterapi og rehabilitering; Massageapparater; Massageapparater til personlig brug; Skummmassageruller.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Geräte für physikalische Therapie; Geräte für physikalische Therapie; Physiotherapie- und Rehabilitationsgeräte; Massagegeräte; Massagegeräte für den persönlichen Gebrauch; Schaumstoffrollen für Massagezwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εξοπλισμός φυσικοθεραπείας· Εξοπλισμός φυσικοθεραπείας· Εξοπλισμός φυσιοθεραπείας και αποκατάστασης· Συσκευές μασαζ· Συσκευές μασάζ για προσωπική χρήση· Ρολά από αφρώδες υλικό για χειρομαλάξεις.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Physical therapy equipment; Physical therapy equipment; Physiotherapy and rehabilitation equipment; Massage apparatus; Massaging apparatus for personal use; Foam massage rollers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Equipos de terapia física; Equipos de terapia física; Equipos de fisioterapia y rehabilitación; Aparatos de masaje; Aparatos de masaje de uso personal; Rodillos de espuma para masajes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Füsioteraapiaseadmed; Füsioteraapiaseadmed; Füsioteraapia- ja rehabilitatsiooniseadmed; Massaažiaparaadid; Massaažiseadmed isiklikuks tarbeks; Vahtmassaažirullikud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Fysioterapiassa käytettävät välineet; Laitteet fysioterapiahoitoon; Fysioterapia- ja kuntoutusvälineet; Hierontalaitteet; Hierontalaitteet henkilökohtaiseen käyttöön; Vaahtomuovirullat hierontaan.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Équipement de thérapie physique; Équipement de thérapie physique; Appareils pour la physiothérapie et la réeducation à usage médical; Appareils de massage; Appareils de massage à usage personnel; Rouleaux de massage en mousse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Oprema za fizikalnu terapiju; Oprema za fizikalnu terapiju; Oprema za fizioterapiju i rehabilitaciju; Uređaji za masažu; Uređaji za masažu za osobnu uporabu; Pjenasti masažni valjci.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fizikoterápiás készülékek; Fizikoterápiás készülékek; Fizioterápiás és rehabilitációs berendezések; Masszázsberendezések; Masszázskészülékek személyes használatra; Masszírozó hengerek habszivacsból.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Attrezzatura per terapie fisiche; Attrezzatura per terapie fisiche; Attrezzatura per la fisioterapia e la riabilitazione; Apparecchi per il massaggio; Apparecchi per massaggi per uso personale; Rulli per massaggio in espanso.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Fizioterapijos įranga; Fizioterapijos įranga; Fizioterapijos ir reabilitacijos įranga; Masažavimo aparatai; Masažuokliai asmeninėms reikmėms; Masažiniai putplasčio velenėliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Fizikālās terapijas iekārtas; Fizikālās terapijas iekārtas; Fizioterapijas un rehabilitācijas iekārtas; Masāžas aparāti; Masāžas aparāti individuālai lietošanai; Putuplasta masāžas rullīši.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħmir għat-terapija fiżika; Tagħmir għat-terapija fiżika; Tagħmir tal-fiżjoterapija u r-rijabilitazzjoni; Apparat għall-massaġġi; Tagħmir tal-massaġġi għall-użu personali; Rombli tal-fowm għall-massaġġi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Apparaten voor lichamelijke behandeling; Apparaten voor lichamelijke behandeling; Fysiotherapeutische toestellen en toestellen voor revalidatie; Massageapparaten; Massageapparaten voor persoonlijk gebruik; Massagerollen van schuim.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia i przyrządy do fizjoterapii; Urządzenia i przyrządy do fizjoterapii; Urządzenia i przyrządy do fizjoterapii i rehabilitacji; Urządzenia do masażu; Urządzenia masujące do użytku osobistego; Wałki piankowe do masażu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Equipamento de fisioterapia; Equipamento de fisioterapia; Equipamento para fisioterapia e reabilitação; Aparelhos de massagem; Aparelhos de massagem para uso pessoal; Rolos de espuma para massagens.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Echipament pentru exerciţii fizice; Echipament pentru exerciţii fizice; Echipament de fizioterapie şi de recuperare; Aparate de masaj; Aparate de masaj de uz personal; Role de spumă pentru masaj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Fyzioterapeutické zariadenia; Fyzioterapeutické zariadenia; Fyzioterapeutické a rehabilitačné zariadenia; Masážne prístroje; Masážne zariadenia na osobné účely; Masážne penové valčeky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Naprave za fizikalno terapijo; Naprave za fizikalno terapijo; Fizioterapevtska in rehabilitacijska oprema; Masažne naprave; Masažni aparati za osebno uporabo; Masažni valjčki iz pene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Utrustning för fysioterapi; Utrustning för fysioterapi; Utrustning för fysioterapi och rehabilitering; Massageapparater; Massageapparater för personligt bruk; Skummassagerullar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>28</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Спортни артикули и оборудване; Гимнастически уреди; Апарати за упражнения за тонус на тялото; Ръчно задвижвано оборудване за упражнения; Калъфи, пригодени за спортно оборудване.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Sportovní potřeby a vybavení; Posilovače prsních svalů (expandéry); Přístroje na tonifikaci svalů (cvičební); Ručně ovládaná zařízení ke cvičení; Pouzdra na potřeby pro sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Sportsartikler og -udstyr; Ekspandere [muskelstrækkere]; Apparater til kropstoning [træning]; Manuelt træningsudstyr; Tasker beregnet til sportsartikler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Sportartikel und -ausrüstungen; Expander; Body-Toner [Trainingsgeräte]; Manuell betätigte Fitnessgeräte; Taschen speziell für Sportartikel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Είδη και εξοπλισμός άθλησης· Ανάπτυξης-όργανα· Εξοπλισμός τόνωσης του σώματος (σωματικής άσκησης)· Χειροκίνητος εξοπλισμός άσκησης· Θήκες προσαρμοσμένες για είδη αθλητισμού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Sporting articles and equipment; Chest expanders [exercisers]; Body toner apparatus [exercise]; Manually operated exercise equipment; cases adapted for sporting articles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Equipamientos y artículos deportivos; Extensores para pectorales; Aparatos tonificadores del cuerpo [ejercicio físico]; Equipos manuales de ejercicios físicos; Estuches adaptados para artículos de deporte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Sporditarbed ja -riistad; Ekspandrid, tõmmitsad; Seadmed keha toonuse tõstmiseks [treeningseadmed]; Käsitsi käitatav treeningvarustus; Sporditarvete tarbeks kohandatud kohvrid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Urheiluvälineet ja -varusteet; Voimaharjoitusvälineet [venytyslaitteet]; Kehon kiinteytyslaitteet (kuntoiluun); Käsikäyttöiset kuntoiluvälineet; Urheilutavaroille tarkoitetut laukut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Articles et équipement de sport; Extenseurs [exerciseurs]; Appareils d'exercice pour la tonification du corps; Équipements d'exercice physique à commande manuelle; Étuis conçus pour les articles de sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Sportski artikli i oprema; Ekspanderi za prsa; Naprave za toniranje mišića [za tjelovježbu]; Oprema za vježbanje s ručnim pogonom; Navlake za sportske proizvode.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sportcikkek és felszerelések; Mellkas expanderek [edzőeszközök]; Testformáló eszközök [edzéshez]; Kézi működtetésű edzőfelszerelések; Sportcikkekhez adaptált dobozok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Articoli e attrezzature sportive; Estensori [attrezzi ginnici]; Apparecchi per tonificare il corpo [esercizio fisico]; Attrezzi per esercizi fisici azionati manualmente; Custodie per articoli sportivi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Sporto reikmenys ir įranga; Krūtinės treniravimo espanderiai; Kūno stangrinimo įranga [mankštos reikmėms]; Rankiniu būdu valdoma treniruočių įranga; Sporto reikmenims pritaikyti dėklai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Sporta preces un sporta inventārs; Krūšukurvja espanderi [vingrošana]; Ķermeņa tonizēšanas ierīces [vingrošanas]; Ar roku darbināmi trenažieri; Sporta izstrādājumiem pielāgotie ietvari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Artikli u tagħmir sportivi; Wessiegħa tas-sider [apparat għall-eżerċizzji fiżiċi]; Apparat biex jissaħħaħ il-ġisem (eżerċizzju); Tagħmir għall-eżerċizzju mħaddem bl-idejn; Kaxxetti adattati għall-oġġetti sportivi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Sportartikelen en -uitrustingen; Trekveren voor spieroefeningen; Toestellen voor lichaamsversterking [oefening]; Handbediende fitnessapparatuur; Speciale koffers voor sportartikelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Artykuły i sprzęt sportowy; Ekspandery [ćwiczenia]; Urządzenia do wzmacniania ciała [ćwiczenia]; Sprzęt do ćwiczeń fizycznych obsługiwany ręcznie; Futerały przystosowane do noszenia artykułów sportowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Artigos e equipamento de desporto; Extensores (exercitadores) peitorais; Aparelhos para tonificação muscular [exercício]; Equipamentos de exercício operados manualmente; Estojos adaptados a artigos de desporto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Articole şi echipament de sport; Extensoare; Aparate pentru tonifierea corpului [exerciţii fizice]; Echipament de exerciţii acţionat manual; Huse adaptate pentru articole sportive.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Športové potreby a športový výstroj; Cvičebné náradie na posilňovanie hrudníka; Zariadenia a stroje zamerané na formovanie postavy [cvičenie]; Manuálne ovládané športové zariadenia na cvičenie; Tvarované puzdrá na športové náčinie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Športne potrebščine in oprema; Ekspanderji [za raztegovanje prsnih mišic]; Naprave za toniranje telesa [telovadba]; Ročno upravljana oprema za vadbo; Etuiji, prirejeni za izdelke za šport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Sportartiklar och sportutrustning; Muskelstärkare; Apparater för kroppstoning [träning]; Manuellt driven träningsutrustning; Fodral anpassade för sportartiklar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Обучение; Развлекателни услуги и развлечения, спортни и културни дейности; Инструкции за упражнения; Часове за упражнения; Консултативни услуги за упражнения [фитнес]; Инструкции за групово упражнение; Провеждане на часове по физическа подготовка; Обучение посредством практически упражнения; Предоставяне на инструктаж и оборудване в областта на физическите упражнения; Предоставяне на информация във връзка с физически упражнения посредством онлайн уебсайт; Трениране; Треньорски услуги за спортни дейности; Треньорски услуги; Организиране на уебинари; Провеждане на практически семинари [обучение]; Образователни курсове; Провеждане на курсове, семинар и обучения.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vzdělávání; Zábavní, sportovní a kulturní aktivity; Instruktáž ke cvičení; Hodiny cvičení; Poradenské služby ohledně cvičení (fitness); Školení o skupinovém cvičení; Vedení hodin v oblasti cvičení; Poskytování výuky týkající se cvičení; Poskytování instruktáží a vybavení v oblasti tělesného cvičení; Poskytování informací vztahujících se k tělesnému cvičení prostřednictvím on-line webové stránky; Koučování; Trenérské služby v oblasti sportovních aktivit; Služby osobních trenérů; Organizování webinářů; Vedení workshopů (školení); Workshopy ke školicím účelům; Vedení kurzů, seminářů a workshopů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Undervisningsvirksomhed; Underholdningsvirksomhed, sportsarrangementer og kulturelle arrangementer; Træningsinstruktion; Træningshold; Rådgivning vedrørende motion [fitness]; Instruktion i holdtræning; Afholdelse af træningshold; Undervisning vedrørende træning; Tilvejebringelse af undersivning og udstyr til fysisk træning; Formidling af information vedrørende fysiske øvelser via et online websted; Coaching; Trænervirksomhed i forbindelse med sportsaktiviteter; Personlig træning; Organisering af webinarer; Afholdelse af workshops [undervisning]; Workshopper med undervisningsformål; Afholdelse af kurser, seminarer og workshopper.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Ausbildung; Unterhaltung, sportliche und kulturelle Aktivitäten; Trainingsausbildung; Sportschulung; Fitness-Beratung; Durchführung von Gruppentraining; Erteilung von Unterricht in körperlicher Bewegung; Ausbildung im Fitness-Bereich; Schulung und Vermietung von Ausrüstungen in Bezug auf körperliches Training; Zurverfügungstellen von Informationen zu körperlichen Übungen über eine Online-Website; Coaching; Betreuungsdienstleistungen für sportliche Aktivitäten; Dienstleistungen eines Personal Trainers; Veranstaltung von Web-Seminaren; Durchführung von Workshops [Schulung]; Durchführung von Workshops für Schulungszwecke; Durchführung von Kursen, Seminaren und Workshops.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Επιμόρφωση (επαγγελματική κατάρτιση)· Διασκέδαση, αθλητικές και πολιτιστικές δραστηριότητες· Οδηγίες για ασκήσεις· Μαθήματα σωματικής άσκησης· Υπηρεσίες παροχής συμβουλών σε σχέση με θέματα άσκησης (διατήρησης καλής φυσικής κατάστασης)· Διδασκαλία ομαδικών ασκήσεων γυμναστικής· Διεξαγωγή μαθημάτων σωματικής άσκησης· Παροχή διδασκαλίας σε θέματα γυμναστικής· Παροχή μαθημάτων και εξοπλισμού σωματικής άσκησης· Παροχή πληροφοριών σε σχέση με τη σωματική άσκηση μέσω ιστοθέσης· Προπόνηση· Υπηρεσίες προγύμνασης για αθλητικές δραστηριότητες· Υπηρεσίες προσωπικού εκπαιδευτή· Διοργάνωση διαδικτυακών σεμιναρίων· Διεξαγωγή εργαστηρίων [κατάρτιση]· Εργαστήρια επιμόρφωσης (επαγγελματικής κατάρτισης)· Διεξαγωγή μαθημάτων, σεμιναρίων και εργαστηρίων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Providing of training; Entertainment, sporting and cultural activities; Exercise instruction; Exercise classes; Exercise [fitness] advisory services; Instruction in group exercise; Conducting classes in exercise; Provision of instruction relating to exercise; Providing instruction and equipment in the field of physical exercise; Provision of information relating to physical exercises via an online web site; Coaching; Coaching services for sporting activities; Personal trainer services; Organisation of Webinars; Conducting workshops [training]; Workshops for training purposes; Conducting courses, seminars and workshops.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Formación; Servicios de entretenimiento y esparcimiento, actividades deportivas y culturales; Instrucción en materia de ejercicios físicos; Clases de ejercicio físico; Servicios de asesoramiento sobre ejercicio [físico]; Enseñanza sobre ejercicios en grupo; Celebración de clases en materia de educación física; Prestación de instrucción relativa al ejercicio; Suministro de instrucción y equipos en materia de ejercicio físico; Suministro de información sobre ejercicios físicos en sitios web en línea; Servicios de entrenamiento; Servicios de entrenamiento para actividades deportivas; Servicios de entrenador personal; Organización de seminarios en línea; Dirección de talleres [formación]; Talleres de formación; Dirección de cursos, seminarios y talleres.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Väljaõpe; Meelelahutus, spordi- ja kultuuritegevus; Treeningu juhendamine; Treeningtunnid, harjutustunnid; Kehalise liikumise, treeningu [kehalise vormisoleku] alased nõustamisteenused; Rühmatreeningute juhendamine; Treeningtundide läbiviimine; Treeningualase juhenduse, õpetuse pakkumine; Juhendamise ja varustuse pakkumine füüsilise treeningu alal; Füüsiliste harjutustega seotud teabe pakkumine veebilehekülje kaudu; Juhendamine, treenimine; Sporditegevuse juhendamise teenused; Personaaltreenerite teenused; Veebiseminaride korraldamine; Õpikodade läbiviimine [väljaõpe]; Õpikodade korraldamine koolituseesmärkidel; Kursuste, seminaride ja töötubade juhendamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Koulutuksen järjestäminen; Ajanviete, urheilu- ja kulttuuritoiminnat; Kuntoilunohjaus; Kuntoharjoittelutunnit; Kuntoilua koskevat neuvontapalvelut; Ryhmäharjoitteluun liittyvä opastus; Kuntoilukurssien pitäminen; Kuntoharjoitteluun liittyvien ohjeiden tarjoaminen; Neuvonnan ja välineiden tarjoaminen kuntoharjoittelua varten; Fyysisiin harjoituksiin liittyvien tietojen tarjoaminen online-muotoisen verkkosivuston välityksellä; Valmennuspalvelut; Valmennuspalvelut urheilua varten; Henkilökohtaisen valmentajan palvelut; Verkkoseminaarien järjestäminen; Koulutustyöpajojen pitäminen; Koulutustyöpajat; Kurssien, seminaarien ja työpajojen pitäminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Formation; Activités de divertissement, sportives et culturelles; Services d'enseignement en matière d'exercice physique; Cours d'exercice physique; Services de conseil concernant les exercices physiques [fitness]; Services de formation relatifs à l'activité physique en groupe; Organisation de cours en rapport avec l'exercice physique; Services de formation en rapport à l'exercice physique; Services d'enseignement et de mise à disposition d'équipement dans le domaine de l'exercice physique; Mise à disposition d'informations en matière d'exercice physique par le biais d'un site Web en ligne; Formation; Services d'entraîneurs pour activités sportives; Services d'entraîneurs personnels; Organisation de webinaires; Organisation et suivi d'ateliers de formation; Ateliers à des fins de formation; Organisation de cours, de séminaires et d'ateliers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Stručno osposobljavanje; Zabavne, sportske i kulturne aktivnosti; Podučavanje tjelovježbi; Satovi tjelovježbe; Savjetodavne usluge u svezi s tjelesnim aktivnostima [fitness]; Poduka o grupnim vježbama; Vođenje predavanja o tjelovježbi; Pružanje poduke u svezi s tjelovježbom; Pružanje uputa i opreme za tjelovježbu; Pružanje informacija o tjelovježbi putem internetske stranice; Treniranje; Trenerske usluge za sportske aktivnosti; Usluge osobnog trenera; Organizacija webinara; Vođenje radionica [osposobljavanje]; Radionice u svrhu usavršavanja; Vođenje tečajeva, seminara i radionica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szakmai képzés; Szórakoztatási, sport és kulturális tevékenységek; Testedzéssel kapcsolatos oktatás; Testedző órák; Edzési [fitnesz] tanácsadási szolgáltatások; Csoportos edzés oktatása; Tornaórák tartása; Testmozgással kapcsolatos oktatás biztosítása; Edzési utasítások és felszerelés biztosítása; Tornával kapcsolatos online tájékoztatás weboldalon keresztül; Coaching; Sporttevékenységekkel kapcsolatos edzői szolgáltatások; Személyi edzői szolgáltatások; Webináriumok szervezése; Műhelyek lebonyolítása [képzés]; Képzési célú műhelyek; Tanfolyamok, szemináriumok és műhelyek lebonyolítása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Formazione; Servizi di intrattenimento e divertimento, attività sportive e culturali; Istruzione in materia di esercizio fisico; Corsi di esercizio fisico; Consulenza in materia di attività fisica; Formazione in esercizi di gruppo; Conduzione di lezioni in materia di educazione fisica; Fornitura d'istruzione in materia d'esercizio fisico; Fornitura di istruzione e apparecchiature per esercizio fisico; Fornitura di informazioni inerenti gli esercizi fisici tramite siti web online; Assistenza professionale (coaching); Servizi di allenamento per attività sportive; Servizi di allenatore personale; Organizzazione di seminari web; Conduzione di workshop [formazione]; Workshop di formazione; Conduzione di corsi, seminari e workshop.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mokymas; Pramoginė, sportinė ir kultūrinė veikla; Mankštos mokymas; Fizinių pratimų kursai; Konsultacijos mankštos [fizinio pasirengimo] klausimais; Grupinės mankštos mokymas; Mankštos pratimų mokymas; Mokymas, susijęs su fiziniais pratimais; Apmokymų ir įrangos parūpinimas fizinių pratimų srityje; Informacijos apie fizinio lavinimo pratimus teikimas internetinėje svetainėje; Treniravimas; Sporto treniruočių paslaugos; Asmeninio trenerio paslaugos; Internetinių seminarų organizavimas; Praktinių seminarų vedimas [mokymas]; Praktiniai seminarai mokymo reikmėms; Kursų, seminarų ir praktinių seminarų vedimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apmācība; Izklaides, sporta un kultūras pasākumi; Vingrošanas instruktāžas pakalpojumi; Vingrošanas nodarbību pakalpojumi; Vingrošanas (fitnesa) konsultāciju pakalpojumi; Grupu nodarbību instruktāža; Vingrinājumu nodarbību vadīšana; Apmācība vingrojumu jomā; Instrukciju un aprīkojuma nodrošināšana fizisko treniņu jomā; Informācijas nodrošināšana saistībā ar fiziskiem vingrojumiem, izmantojot tiešsaistes tīmekļa vietni; Apmācības; Treneru pakalpojumi sporta aktivitātēm; Personisko treneru pakalpojumi; Tīmekļsemināru organizēšana; Darbsemināru vadīšana [apmācība]; Praktiskie darbsemināri; Kursu, semināru un darbsemināru vadīšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Provvediment ta' taħriġ; Attivitajiet ta' divertiment, sports u kultura; Struzzjoni dwar l-eżerċizzju; Lezzjonijiet tal-eżerċizzji; Servizzi ta' konsulenza dwar l-eżerċizzju [fitness]; Istruzzjoni ta' eżerċizzju fi gruppi; Tmexxija ta' lezzjonijiet dwar l-eżerċizzju; Provvista ta' struzzjoni relatata mal-eżerċizzju; Provvista ta' struzzjoni u tagħmir fil-qasam ta' eżerċizzji fiżiċi; Provvista ta' informazzjoni relatata mal-eżerċizzji fiżiċi permezz ta' websajt onlajn; Taħriġ/ikkowċjar; Servizzi ta' kkowċjar għal attivitajiet sportivi; Servizzi ta' trejner personali; Organizzazzjoni ta' Webinars; Tmexxija ta' werkxops [taħriġ]; Werkxops għal skopijiet ta' taħriġ; It-tmexxija ta' korsijiet, seminars u werkxops.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Opleiding; Ontspanning, sportieve en culturele aktiviteiten; Oefeninstructie; Lessen in lichamelijke oefening; Advisering met betrekking tot de lichamelijke conditie; Instructie in groepsfitness; Het uitvoeren van fitnesslessen; Opleiding met betrekking tot lichaamsbeweging (Ter beschikking stellen van -); Verschaffing van instructie en apparatuur op het gebied van lichamelijke oefening; Informatieverstrekking met betrekking tot fysieke oefeningen via een online website; Coaching (training); Coaching voor sportieve activiteiten; Personal trainer (Diensten van een -); Organisatie van webinars; Workshops (opleiding) het houden van -; Workshops voor opleidingsdoeleinden; Het houden van cursussen, seminars en workshops.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kształcenie; Usługi rozrywkowe, zajęcia sportowe i kulturalne; Instruktaż w zakresie ćwiczeń fizycznych; Zajęcia w zakresie ćwiczeń fizycznych; Usługi doradcze w zakresie ćwiczeń fizycznych [fitness]; Szkolenie w zakresie ćwiczeń grupowych; Prowadzenie zajęć w zakresie ćwiczeń fizycznych; Zapewnianie instruktażu związanego z ćwiczeniami; Zapewnianie instruktażu i sprzętu w dziedzinie ćwiczeń fizycznych; Udzielanie informacji związanych z ćwiczeniami fizycznymi za pośrednictwem strony internetowej online; Trenowanie; Usługi trenerskie w zakresie zajęć sportowych; Usługi trenerów osobistych; Organizacja webinariów; Prowadzenie warsztatów [szkolenia]; Warsztaty w celach szkoleniowych; Prowadzenie kursów, seminariów i warsztatów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Formação; Atividades de diversão, desportivas e culturais; Instrução em exercício físico; Aulas de exercício físico; Serviços de assessoria relacionados com exercício [manutenção da forma física]; Instrução relativa a exercícios em grupo; Direção de aulas de exercício físico; Fornecimento de instrução no domínio do exercício físico; Fornecimento de instrução e equipamento no domínio do exercício físico; Disponibilização de informação sobre exercício físico através de um site online; Acompanhamento técnico; Serviços de treino para atividades desportivas; Serviços de treinadores pessoais; Organização de webinars (seminários online); Direção de cursos [formação]; Workshops de formação; Direção de cursos, seminários e workshops.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Instruire; Activităţi de divertisment, sportive şi culturale; Instruire în domeniul antrenamentelor; Cursuri de exerciţii fizice; Servicii de consiliere pentru menţinerea condiţiei fizice (fitness); Cursuri de exerciţii în grup; Organizare de cursuri de educaţie fizică; Servicii de educaţie în materie de activităţi fizice; Furnizarea de echipamente şi de cursuri de pregătire în domeniul exerciţiilor fizice; Furnizare de informaţii despre exerciţii fizice pe un site web online; Asistenţă profesională individualizată [coaching]; Servicii de antrenament pentru activităţi sportive; Servicii ale unui antrenor personal; Organizare de webinare; Coordonare de ateliere de pregătire profesională; Ateliere de formare; Coordonare de cursuri, seminarii şi ateliere de lucru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zabezpečovanie výcvikov, kurzov a školení; Zábavná, športová a kultúrna činnosť; Inštruktáž k cvičeniu; Hodiny cvičenia; Poradenské služby zamerané na udržovanie telesnej kondície a cvičenia; Inštruktáž zameraná na skupinové cvičenia; Vedenie hodín cvičenia; Poskytovanie inštruktáže v oblasti cvičenia; Poskytovanie inštruktáže a vybavenia v oblasti telesného cvičenia; Poskytovanie informácií v oblasti telesného cvičenia prostredníctvom on-line webových stránok; Trénovanie; Trénerské služby v oblasti športových činností; Služby osobných trénerov; Organizovanie webových seminárov; Vedenie workshopov [ďalšie vzdelávanie]; Usporadúvanie tvorivých dielní za účelom vyučovania; Vedenie kurzov, seminárov a workshopov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pouk; Razvedrilo, športne in kulturne dejavnosti; Poučevanje telesne vadbe; Ure telovadbe; Svetovalne storitve v zvezi s telesno vadbo; Poučevanje na področju skupinske vadbe; Izvajanje predavanj o vadbi; Nudenje poučevanja v zvezi z vadbo; Nudenje inštrukcij in opreme na področju telesne vadbe; Nudenje informacij v zvezi s telesno vadbo preko spletne strani; Trenerstvo; Storitve trenerjev za športne dejavnosti; Storitve osebnega trenerja; Organiziranje spletnih seminarjev; Vodenje delavnic [usposabljanje]; Delavnice za namene usposabljanja; Vodenje tečajev, seminarjev in delavnic.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Anordnande av handledning/instruktion; Underhållning, sport- och kulturaktiviteter; Motionsinstruktion; Träningskurser; Träningsrådgivningstjänster [fitness]; Instruktioner i gruppträning; Arrangerande av motionskurser; Arrangerande och hållande av instruktion avseende motion; Upplåtande av instruktioner och utrustning avseende fysisk träning; Tillhandahållande av information avseende fysiska övningar via en online-webbplats; Handledning och instruktion, nämligen idrottscoaching; Tränartjänster för sportaktiviteter; Personliga tränartjänster; Anordnande av webbseminarier; Genomförande av workshopar; Workshopar för utbildningsändamål; Genomförande av kurser, seminarier och workshopar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>44</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Физиотерапия.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Fyzioterapie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Fysioterapi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Physiotherapeutische Behandlungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φυσιοθεραπεία.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Physical therapy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Fisioterapia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Füsioteraapia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Fysioterapia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Physiothérapie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Fizioterapija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fizioterápia, fizikoterápia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Fisioterapia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Fizioterapija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Fizikālās terapijas pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Fiżjoterapija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Fysiotherapie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Fizjoterapia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Fisioterapia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Fizioterapie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Fyzioterapia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Fizioterapija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Sjukgymnastik.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/199</PublicationIdentifier>
+        <PublicationSection>C.1.3</PublicationSection>
+        <PublicationDate>2020-10-19</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080361</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10612</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018636004</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10612</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-10-20</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

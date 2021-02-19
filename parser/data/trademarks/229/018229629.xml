@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T16:40:02</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229629</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229629</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="3">Application withdrawn</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>WEARONE</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="de">Aufgezeichnete Daten; bespielte Medien; Software; Brillen, Sonnenbrillen und Kontaktlinsen; Korrigierende Brillen und Kontaktlinsen; Sonnenbrillen; Sicherungs-, Sicherheits-, Schutz- und Signalgeräte sowie -ausrüstung; Alarm- und Warnausrüstung; Signalapparate; Schutz- und Sicherheitsausrüstung; Kopfschutz; Augenschutz; Tauchausrüstung; Arbeitsschutzbekleidung zum Schutz vor Unfällen oder Verletzungen; Bekleidung zum Schutz gegen Chemikalien; Bekleidung zum Schutz vor Verletzungen; Brillen für Schutzzwecke; Gesichtsmasken zum Schutz vor Unfällen oder Verletzungen; Gesichtsschutzschilde zum Schutz vor Unfällen, Strahlen und Feuer; Gesichtsschutzschirme für Schutzhelme; Handschuhe zum Schutz vor Unfällen; Handschuhe zum Schutz vor Verletzungen; Kopfbedeckungen zum Schutz vor Verletzungen; Kopfbedeckungen zum Schutz vor Unfällen; Schuhwaren zum Schutz vor Unfällen; Schutzanzüge [gegen Unfall oder Verletzungen]; Schutzhandschuhe gegen Röntgenstrahlen für gewerbliche Zwecke; Schutzmasken; Schutzschuhe [gegen Unfall oder Verletzungen]; Schutzstiefel; Schutzvisiere; Sicherheitsbekleidung zum Schutz vor Unfällen oder Verletzungen; Sicherheitshandschuhe zum Schutz vor Unfällen oder Verletzungen; Sicherheitsschuhwaren zum Schutz vor Unfällen oder Verletzungen; Wegwerfbare Handschuhe für den Laborgebrauch; Umweltschutzmasken für den Atemschutz; Atemschutzgeräte mit Luftfilter; Filter für Atemschutzmasken, nicht medizinische; Mundschutz; Mundschutz zur Verwendung beim Sport; Gesichtsschutzschilde; Gesichtsschutzschirme für Arbeiter; Gesichtsschutzschilde, nicht für medizinische Zwecke.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="de">Gehörschutzgeräte; Hilfen zur Nahrungsaufnahme und Schnuller; Medizinische und veterinärmedizinische Apparate und Instrumente; Chirurgische und Wundversorgungsausrüstung; Chirurgische Naht- und Wundverschlussmaterialien und -produkte; Masken und Ausrüstung für die künstliche Beatmung; Hörgeräte; Bekleidung, Kopfbedeckungen und Schuhwaren sowie Schienen und Stützen für medizinische Zwecke; Bekleidung, Kopfbedeckungen und Schuhwaren für medizinisches Personal und Patienten; Gesichtsmasken für chirurgische Zwecke zum Schutz vor Giftstoffen; Gesichtsmasken für medizinische Zwecke zum Schutz vor Bakterien; Hygienemasken zum Schutz vor Staub für medizinische Zwecke; Ohrstöpsel für den Schutz vor Lärm; Schutzbekleidung für chirurgische Zwecke; Schutzbekleidung für medizinische Zwecke; Schutzhandschuhe für medizinische Zwecke; Schutzmasken für medizinisches Personal; Schutzvisiere für medizinische Zwecke; Handschuhe für medizinische Zwecke; Handschuhe für medizinische Untersuchungen; Medizinische Handschuhe; Schürzen für Chirurgen; Medizinische Kittel; Kittel für chirurgische Zwecke; Einweghandschuhe für chirurgische Zwecke.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="de">Kopfbedeckungen; Bekleidungsstücke; Schuhwaren; Teile von Bekleidungsstücken, Schuhwaren und Kopfbedeckungen; Überziehhosen zum Schutz darunterliegender Bekleidung; Handschuhe; Schürzen; Schürzen aus Papier; Kittel; Kittel zu Arbeitszwecken; Kittel für Krankenhauszwecke; Gesichtsmasken, nicht für medizinische oder Schutzzwecke.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1028797</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10957</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

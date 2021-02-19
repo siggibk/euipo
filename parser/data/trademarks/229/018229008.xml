@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-08T07:36:59</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229008</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229008</ApplicationNumber>
+<ApplicationDate>2020-08-04</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="1">Application published</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-08</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>thomas cementy</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162455347</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229008/000162455347.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.05.94</CategoryCode>
+          <CategoryCode>27.05.22</CategoryCode>
+          <CategoryCode>27.99.08</CategoryCode>
+          <CategoryCode>27.99.20</CategoryCode>
+          <CategoryCode>29.01.03</CategoryCode>
+          <CategoryCode>29.01.96</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>19</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Неметални строителни материали; Тръби (Твърди, неогъваеми -), неметални; Бетон; Бетонни строителни елементи; Кофраж, неметален, за бетон; Неметални паметници; Скелета, изработени от неметални материали; Неметални строителни рамки; Неметални преносими конструкции; Перила [части от стълбища], неметални; Стълбища, неметални; Прегради, неметални; Неметални преградни стени; Битум [асфалт]; Катран, битум и асфалт.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Stavební materiály, ne kovové; Neohebné trubky pro stavebnictví, ne kovové; Beton; Betonové stavební prvky; Bednění pro beton, ne kovové; Pomníky, ne kovové; Lešení, ne kovová; Konstrukce pro stavebnictví, ne kovové; Přenosné stavby, ne kovové; Schodnice [části schodišť], ne kovové; Schodiště, ne kovová; Příčky, ne kovové; Nekovové stěny; Asfalt; Smola, dehet, bitumen a asfalt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Materialer til konstruktionsbrug, ikke af metal; Stive rør, ikke af metal, til bygningsbrug; Beton; Bygningselementer af beton; Forskalling, ikke af metal, til beton; Monumenter, ikke af metal; Stilladser af ikke-metalliske materialer; Bjælkekonstruktioner, ikke af metal, til bygninger; Transportable bygninger, ikke af metal; Trappevanger [ikke af metal]; Trapper, ikke af metal; Skillevægge, ikke af metal; Vægge (Ikke metalliske -); Asfalt; Beg, tjære, bitumen og asfalt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Baumaterialien, nicht aus Metall; Rohre für Bauzwecke, nicht aus Metall; Beton; Betonbauteile; Betonverschalungselemente, nicht aus Metall; Denkmäler, nicht aus Metall; Gerüste, nicht aus Metall; Gerüste [Tragkonstruktionen für Bauten], nicht aus Metall; Transportable Bauten, nicht aus Metall; Treppenwangen, nicht aus Metall; Treppen, nicht aus Metall; Trennwände, nicht aus Metall; Wände, nicht aus Metall; Asphalt; Asphalt, Pech und Bitumen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μη μεταλλικά υλικά οικοδομών· Σωλήνες άκαμπτοι μη μεταλλικοί [οικοδομή]· Σκυρόδεμα· Σκυρόδεμα (Οικοδομικά στοιχεία από -)· Σκυροδέματος (Τύποι μη μεταλλικοί για το χύσιμο του -)· Μνημεία μη μεταλλικά· Μη μεταλλικά ικριώματα· Κατασκευών πλαίσια μη μεταλλικά· Λυόμενες μη μεταλλικές κατασκευές· Ανάβαθρα [μέρη κλιμάκων] μη μεταλλικά· Κλίμακες μη μεταλλικές· Χωρίσματα, μη μεταλλικά· Μη μεταλλικοί τοίχοι· Άσφαλτος· Πίσσα, κατράμι, ορυκτή άσφαλτος και άσφαλτος.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Building materials, not of metal; Rigid pipes, not of metal, for building; Concrete; Concrete building elements; Shuttering, not of metal, for concrete; Monuments, not of metal; Scaffolding, non-metallic; Framework, not of metal, for building; Buildings, transportable, not of metal; Stringers [parts of staircases], not of metal; Staircases, not of metal; Partitions, not of metal; Walls (Non-metallic -); Asphalt; Pitch, tar, bitumen and asphalt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Materiales de construcción no metálicos; Tubos rígidos no metálicos para la construcción; Hormigón; Elementos de construcción de hormigón; Encofrados no metálicos para hormigón; Monumentos no metálicos; Andamios no metálicos; Entramados no metálicos para la construcción; Construcciones transportables no metálicas; Zancas de escalera no metálicas; Escaleras no metálicas; Tabiques no metálicos; Paredes no metálicas; Asfalto; Brea, alquitrán, bitumen y asfalto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ehitusmaterjalid, v.a metallist; Jäigad ehitustorud, v.a metallist; Betoon; Betoonist ehituselemendid; Betoonimisraketised, v.a metallist; Monumendid, ausambad, v.a metallist; Tellingud, v.a metallist; Ehitussõrestikud, v.a metallist; Teisaldatavad ehitised, ehitustarindid, rajatised, v.a metallist; Trepi kandetalad, v.a metallist; Trepid, v.a metallist; Vaheseinad, lahtrid, jaotised, v.a metallist; Seinad (v.a metallist); Asfalt; Pigi, tõrv, bituumen ja asfalt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Rakennustarvikkeet, ei-metalliset; Ei-metalliset jäykät putket rakennustarkoituksiin; Betoni; Betoniset rakennuselementit; Betonilaudoitukset, ei-metalliset; Muistomerkit, ei-metalliset; Rakennustelineet, ei-metalliset; Rakennusrungot, ei-metalliset; Ei-metalliset, siirrettävät rakennukset; Reisipalkit portaisiin, ei-metalliset; Portaat, ei-metalliset; Väliseinät, ei-metalliset; Ei-metalliset seinät; Bitumi; Piki, terva, bitumi ja asfaltti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Matériaux de construction non métalliques; Tuyaux rigides non métalliques pour la construction; Béton; Éléments de construction en béton; Coffrages pour le béton non métalliques; Monuments non métalliques; Échafaudages non métalliques; Charpentes non métalliques pour la construction; Constructions transportables non métalliques; Limons [parties d'escaliers] non métalliques; Escaliers non métalliques; Cloisons non métalliques; Murs non métalliques; Asphalte; Poix, goudron, bitume et asphalte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Materijali za gradnju, nemetalni; Nemetalne krute cijevi za gradnju; Beton; Građevinski elementi od betona; Oplate za beton, nemetalne; Nemetalni spomenici; Skela od nemetalnih materijala; Građevinski okviri (Nemetalni -); Nemetalne prijenosne zgrade; Stubišna spirala, nemetalna; Nemetalne stepenice; Pregrade, nemetalne; Zidovi (Nemetalni -); Asfalt; Katran, bitumen i asfalt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Nem fém építőanyagok; Merevcsövek, nem fémből [építés]; Beton; Építőelemek betonból; Zsaluzat betonhoz, nem fémből; Emlékművek, nem fémből; Állványzat; Szerkezetek, vázak épületekhez, nem fémből; Mobil épületek, nem fémből; Lépcsőpofák [lépcsőházak részei], nem fémből; Lépcsők, nem fémből; Dúcok, támfák, nem fémből; Nem fém falak; Aszfalt; Aszfalt, szurok és bitumen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Materiali da costruzione non metallici; Tubi rigidi non metallici per la costruzione; Calcestruzzo; Elementi da costruzione in calcestruzzo; Casseformi per il calcestruzzo non metalliche; Monumenti non metallici; Impalcature in materiali non metallici; Ossature, non di metallo, per l'edilizia; Costruzioni mobili non metalliche; Montanti [parti di scale] non metallici; Scale non metalliche [costruzione]; Tramezzi non metallici; Pareti (Non metalliche -); Asfalto; Pece, catrame, bitume ed asfalto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Ne metalinės statybinės medžiagos; Ne metaliniai statybiniai standieji vamzdžiai; Betonas; Betono statybiniai gaminiai; Ne metaliniai klojiniai (betonavimo darbams); Ne metaliniai monumentai; Ne metaliniai pastoliai; Ne metaliniai statybiniai karkasai; Kilnojamieji ne metaliniai pastatai; Ne metaliniai laiptų sekcijų karkasai; Ne metaliniai kilnojamieji keleivių laiptai; Ne metalinės pertvaros; Ne metalinės sienos; Asfaltas; Dervos, degutas, bitumai ir asfaltas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Nemetāla būvmateriāli; Nemetāliskas cietas caurules būvniecībai; Betons; Betona būvniecības elementi; Nemetāliski veidņi betonam; Pieminekļi (izņemot metāla); Nemetāliskas sastatnes; Nemetāliskas būvju nesošās konstrukcijas; Pārvietojamas nemetāliskas būves; Nemetāliski kāpņu laidi; Nemetāliskas kāpnes; Nemetāliskas starpsienas; Nemetāla sienas; Asfalts; Piķis, darva, bitumens un asfalts.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Materjali għall-bini (mhux tal-metall); Pajpijiet (riġidi) mhux tal-metall [bini]; Konkrit; Elementi tal-bini, tal-konkrit; Strutturi temporanji mhux tal-metall użati biex iżommu il-konkrit sakemm jagħqad; Monumenti, mhux tal-metall; Twaqqif ta' pontijiet tal-bennejja magħmul minn materjal mhux tal-metall; Qafas, mhux tal-metall, għall-bini; Bini, trasportabbli, mhux tal-metall; Stringers [partijiet minn turġien], mhux tal-metall; Taraġ, mhux tal-metall; Taqsimiet mhux tal-metall; Ħitan mhux metalliċi; Asfalt; Żift, qatran, bitumin u asfalt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bouwmaterialen, niet van metaal; Niet-buigzame buizen, niet van metaal voor de bouw; Beton; Bouwelementen van beton; Betonbekistingen, niet van metaal; Monumenten, niet van metaal; Steigers, niet van metaal; Frames niet van metaal, voor de bouw; Verplaatsbare constructies, niet van metaal; Trapbomen, niet van metaal; Trappen, niet van metaal; Schotten, niet van metaal; Wanden, niet van metaal; Asfalt; Pek, teer [bouwmateriaal], bitumen en asfalt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Materiały budowlane niemetalowe; Rury (sztywne -), niemetalowe [budownictwo]; Beton; Betonowe elementy budowlane; Szalunki niemetalowe do betonu; Pomniki niemetalowe; Rusztowania niemetalowe; Konstrukcyjne elementy niemetalowe dla budownictwa; Budynki niemetalowe przenośne; Belki policzkowe/wangi [części schodów] niemetalowe; Schody niemetalowe; Ścianki działowe niemetalowe; Ściany (Niemetalowe -); Asfalt; Asfalt, smoła i bitumy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Materiais de construção não metálicos; Tubos rígidos, não metálicos, para construção; Betão; Elementos de construção em betão; Cofragens para betão, não metálicas; Monumentos, não metálicos; Andaimes não metálicos; Estrutura, não metálica, para edifícios; Construções transportáveis não metálicas; Longarinas para escadas [partes de escadas] não metálicas; Escadas não metálicas; Divisórias [tabiques] não metálicas; Paredes não metálicas; Asfalto; Pez, alcatrão, betume e asfalto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Materiale de construcții nemetalice; Tuburi rigide nemetalice [construcții]; Beton; Beton (Elemente de construcție din -); Cofraje pentru beton, nemetalice; Monumente nemetalice; Schele; Șarpante nemetalice; Construcții transportabile, nemetalice; Vanguri nemetalice [parți de scări]; Scări nemetalice; Pereți despărțitori nemetalici; Pereți (nemetalici); Asfalt; Smoală, gudron, bitum și asfalt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Konštrukčné materiály (nekovové); Nekovové neohybné rúry pre stavebníctvo; Betón; Dielce, výrobky alebo prefabrikáty z betónu; Debnenie pre stavebníctvo (nekovové); Pomníky (nekovové); Lešenia (nekovové); Stavebné konštrukcie (nekovové); Prenosné stavby (nekovové); Nekovové schodiskové stupne (časti schodísk); Schodiská (nekovové); Priečky (nekovové); Steny (Nekovové -); Asfalt; Smola, decht, bitúmeny, asfalt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Nekovinski gradbeni materiali; Nekovinske toge cevi [gradbeništvo]; Beton; Betonski gradbeni elementi; Opaži za beton, ne iz kovine; Spomeniki, ne iz kovine; Zidarski odri; Nekovinska stavbna ogrodja; Prenosne nekovinske zgradbe; Stranice [za stopnišča], ne iz kovine; Stopnišča, ne iz kovine; Nekovinske pregradne stene; Stene (nekovinske); Asfalt; Smola, katran, bitumen in asfalt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Byggnadsmaterial, inte av metall; Styva rör för byggnation, inte av metall; Betong; Byggnadselement av betong; Formsättningar för betong, inte av metall; Monument, inte av metall; Byggnadsställningar tillverkade av icke-metalliska material; Byggstommar, inte av metall; Flyttbara byggnader, inte av metall; Vangar [delar av trappor], inte av metall; Trappor, inte av metall; Skiljeväggar, inte av metall; Icke-metalliska väggar; Asfalt; Beck, tjära, bitumen och asfalt.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>37</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Ремонт на бетон; Уплътняване на бетон; Построяване на конструкции за гражданско строителство чрез оформяне на бетон; Построяване на конструкции за гражданско строителство чрез полагане на бетон; Услуги, свързани с бетонпомпи; Отдаване под наем на машини за смесване на бетон; Построяване на конструкции за гражданско строителство чрез изливане на бетон; Предоставяне под наем на машини за изпомпване на бетон; Напрягане на бетон; Разбиване на бетон; Ремонт на сгради; Бетонолеене; Строеж на сгради; Монтиране на скелета.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Opravy betonu; Těsnění betonu; Konstrukce inženýrských staveb formováním betonu; Konstrukce inženýrských staveb pokládáním betonu; Čerpání betonu; Pronájem zařízení na míchání betonu; Konstrukce inženýrských staveb litím betonu; Pronájem strojů na čerpání betonu; Předpínání betonu; Drcení betonu; Opravy budov, staveb; Betonování; Stavebnictví; Montáž lešení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Reparation af beton; Forsegling af beton; Opførelse af bygningsingeniørarbejder ved formning af beton; Opførelse af bygningsingeniørarbejder ved lægning af beton; Pumpning af beton; Udlejning af apparater til betonblanding; Opførelse af bygningsingeniørarbejder ved støbning af beton; Udlejning af betonpumpemaskiner; Belastning af beton; Betonknusning; Bygningsreparationer; Betonstøbning; Tjenesteydelser vedrørende byggeri; Opstilling af bygningsstilladser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Betonreparaturen; Betonversiegelung; Errichtung von Tiefbauten mittels Betonverschalungen; Errichtung von Tiefbauten durch Verlegen von Beton; Pumpen von Beton; Vermietung von Betonmischern; Errichtung von Tiefbauten durch Gießen von Beton; Vermietung von Betonpumpmaschinen; Spannen von Beton; Zerkleinern von Beton; Gebäudereparaturen; Betonierung; Bauwesen; Gerüstbau.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Επισκευή σκυροδέματος· Στεγανοποίηση σκυροδέματος· Κατασκευή δομών πολιτικού μηχανικού με διαμόρφωση σκυροδέματος· Κατασκευή δομών έργων πολιτικού μηχανικού με τοποθέτηση σκυροδέματος· Άντληση σκυροδέματος· Μηχανημάτων ανάμιξης σκυροδέματος (Εκμίσθωση -)· Κατασκευή δομών έργων πολιτικού μηχανικού με έγχυση σκυροδέματος· Εκμίσθωση μηχανών άντλησης σκυροδέματος· Καταπόνηση σκυροδέματος· Θραύση σκυροδέματος· Επισκευές κατασκευών και οικοδομών· Σκυρόδεση· Οικοδομικές εργασίες· Σκαλωσιών (Συναρμολόγηση -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Concrete repairs; Concrete sealing; Construction of civil engineering structures by forming concrete; Construction of civil engineering structures by laying concrete; Concrete pumping; Rental of concrete-mixing apparatus; Construction of civil engineering structures by pouring concrete; Rental of concrete pumping machines; Stressing of concrete; Concrete crushing; Building repair; Concreting; Construction services; Scaffolding.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Reparación de pavimentos de hormigón; Sellado de hormigón; Construcción de estructuras de ingeniería civil mediante la formación de hormigón; Construcción de estructuras de ingeniería civil mediante la colocación de hormigón; Servicios de bombeo de hormigón; Alquiler de hormigoneras; Construcción de estructuras de ingeniería civil mediante el vertido de hormigón; Alquiler de máquinas de bombeo de hormigón; Pretensado de hormigón; Triturado de hormigón; Reparaciones de edificios; Hormigonado; Servicios de construcción; Montaje de andamios.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Betooni parandamine; Betooni tihendamine; Tsiviilehitustarindite ehitamine betooni valamise teel; Tsiviilehitustarindite ehitamine betooni valamise teel; Betooni pumpamine; Betoonisegamisseadmete rentimine; Tsiviilehitustarindite ehitamine betooni valamise teel; Betoonipumpamismasinate rentimine; Betooni pingestamine; Betooni purustamine; Hoonete remont; Betoonitööd; Ehitus; Tellingute ehitamine ja paigaldus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Betonin korjaus; Betonin tiivistäminen; Tie- ja vesiteknisten rakenteiden rakentaminen valamalla betonia; Tie- ja vesiteknisten rakenteiden rakentaminen levittämällä betonia; Betonipumppaus; Betonimyllyjen vuokraus; Tie- ja vesiteknisten rakenteiden rakentaminen betonoimalla; Betonin pumppauskoneiden vuokraus; Betonin jännittäminen; Betonin murskaaminen; Rakennuksiin liittyvä korjaus; Betonivalu; Rakentamispalvelut; Rakennustelineiden pystytys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Réparation de béton; Étanchéisation de béton; Construction de structures de génie civil par le coffrage du béton; Construction de structures de génie civil par la pose de béton; Pompage de béton; Location d'appareils pour le mélange du béton; Construction de structures de génie civil par le coulage de béton; Location de pompes à béton; Mise sous précontrainte du béton; Broyage du béton; Réparation de bâtiments; Bétonnage; Construction; Montage d'échafaudages.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Popravci betona; Brtvljenje betona; Izgradnja građevinskih konstrukcija oblikovanjem betona; Izgradnja građevinskih konstrukcija polaganjem betona; Crpljenje betona; Iznajmljivanje miješalica za beton; Izgradnja građevinskih konstrukcija lijevanjem betona; Iznajmljivanje crpki za beton; Naprezanje betona; Drobljenje betona; Popravci zgrada; Betoniranje; Usluge gradnje; Podizanje skela.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Betonjavítási munkák; Betontömítés; Mélyépítési szerkezetek építése betonformázás által; Mélyépítési szerkezetek építése betonrétegezés által; Betonszivattyúzás; Betonkeverő berendezések bérbeadása; Mélyépítési szerkezetek építése betonöntés által; Betonszivattyúzó gépek bérbeadása; Betonfeszítés; Betonzúzás; Épület javítás; Betonozás; Építőipari szolgáltatások; Állványozás.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Riparazione di calcestruzzo; Sigillatura con calcestruzzo; Costruzione di strutture d'ingegneria civile mediante formatura di calcestruzzo; Costruzione di strutture d'ingegneria civile mediante posa di calcestruzzo; Pompaggio di calcestruzzo; Noleggio di apparecchi per miscelazione del calcestruzzo; Costruzione di strutture d'ingegneria civile mediante colata di calcestruzzo; Noleggio di macchine per il pompaggio di calcestruzzo; Compressione di calcestruzzo; Frantumazione di calcestruzzo; Lavori di riparazione di edifici; Lavori in calcestruzzo; Servizi di edilizia e di costruzione; Montaggio di impalcature.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Betono remontas; Betono sandarinimas; Civilinės inžinerijos statinių statyba formuojant betoną; Civilinės inžinerijos statinių statyba liejant betoną; Betono padavimas siurbliais; Betono maišyklių nuoma; Civilinės inžinerijos statinių statyba pilant betoną; Betono pumpavimo mašinų nuoma; Betono slėgimas; Betono laužymas; Pastatų remontas; Betonavimas; Statybos paslaugos; Pastolių rinkimas (statybinių).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Betona remonts; Betona blīvēšana; Civilceltniecības konstrukciju būve, veidņojot betonu; Civilceltniecības konstrukciju būve, ieklājot betonu; Betona sūknēšana; Betona maisīšanas iekārtu noma; Civilceltniecības konstrukciju būve, lejot betonu; Betona sūknēšanas iekārtu noma; Betona spriegošana; Betona drupināšana; Ēku remontdarbi; Betonēšana; Būvniecības pakalpojumi; Sastatņu uzstādīšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tiswija ta' konkrit; Issiġillar bil-konkrit; Kostruzzjoni ta' strutturi tal-inġinerija ċivili bl-iffurmar tal-konkrit; Bini ta' strutturi ta' inġinerija ċivili bit-tqegħid tal-konkrit; Ippumpjar tal-konkrit; Kiri ta' apparat għat-taħlit tal-konkrit; Kostruzzjoni ta' strutturi tal-inġinerija ċivili bit-tferriegħ tal-konkrit; Kiri ta' magni li jippompjaw il-konkrit; Kompressar għat-tisħiħ tal-konkrit; Tfarrik ta' konkrit; Tiswija ta' bini; Xogħol tal-konkrit; Kostruzzjoni; Twaqqif tal-pontijiet tal-bennejja ma' xi bini.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Reparatie van beton; Afdichten van beton; Bouw van civieltechnische constructies door het vormen van beton; Bouw van civieltechnische constructies door het leggen van beton; Pompen van beton; Betonmenginstallaties (Verhuur van -); Bouw van civieltechnische constructies door het storten van beton; Verhuur van betonpompmachines; Het spannen van beton; Vermalen van beton; Reparaties op het gebied van gebouwen; Betonneren; Bouw; Steigerbouw.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Naprawy betonu; Uszczelnianie betonu; Budowa konstrukcji inżynierii wodno-lądowej poprzez formowanie betonu; Budowa konstrukcji inżynierii wodno-lądowej poprzez kładzenie betonu; Pompowanie betonu; Wynajem betoniarek; Budowa konstrukcji inżynierii wodno-lądowej poprzez wylewanie betonu; Wynajem maszyn do pompowania betonu; Sprężanie betonu; Kruszenie betonu; Naprawa budynków; Betonowanie; Usługi budowlane; Montaż rusztowań.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Reparações de betão; Isolamento de betão; Construção de estruturas de engenharia civil por moldagem de betão; Construção de estruturas de engenharia civil por colocação de betão; Bombagem de betão; Aluguer de betoneiras; Construção de estruturas de engenharia civil por derramamento de betão; Aluguer de máquinas de bombear betão; Compressão de betão; Trituração de betão; Reparação de edifícios; Betonagem; Construção; Montagem de andaimes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Repararea betonului; Etanșarea betonului; Construcția de structuri de inginerie civilă prin fasonarea betonului; Construcția de structuri de inginerie civilă prin așezarea betonului; Pomparea betonului; Închirieri de betoniere; Construcția de structuri de inginerie civilă prin turnarea betonului; Închirieri de pompe de beton; Presarea betonului; Concasarea betonului; Reparații clădiri; Turnarea betonului; Servicii de construcții; Montări de schele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Opravy betónu; Tesnenie betónu; Konštrukcia inžinierskych stavebných štruktúr formovaním betónu; Konštrukcia inžinierskych štruktúr kladením betónu; Betónovanie čerpadlami; Prenájom miešačiek betónu; Konštrukcia inžinierskych štruktúr liatím betónu; Prenájom strojov na pumpovanie betónu; Predpínanie betónu; Drvenie betónu; Opravy budov; Betónovanie; Stavebníctvo; Montovanie lešení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Popravila betona; Zatesnjevanje betona; Gradnja konstrukcij nizkih gradenj z oblikovanjem betona; Gradnja konstrukcij nizke gradnje s pomočjo polaganja betona; Črpanje betona; Najem mešalnikov za beton; Gradnja konstrukcij nizkih gradenj z ulivanjem betona; Izposoja strojev za črpanje betona; Prednapenjanje betona; Drobljenje betona; Popravila zgradb in stavb; Betoniranje; Stavbeništvo; Gradnja zidarskih odrov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Reparation av betong; Tätning av betong; Byggnation av väg- och vattenanläggningar genom formning av betong; Byggnation av väg- och vattenanläggningar genom läggning av betong; Utpumpning och tilljämning av betong vid uppförande och anläggande av byggnationer; Uthyrning av betongblandare; Byggnation av väg- och vattenkonstruktioner genom hällning av betong; Uthyrning av maskiner för betongpumpning; Uppspänning av betong; Betongkrossning; Byggnadsreparation; Betongarbeten (reparation/underhåll); Byggnationstjänster; Uppförande av byggnadsställningar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>39</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Транспортни услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Dopravní služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Transporttjenesteydelser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Transportservice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μεταφορικές υπηρεσίες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Transport services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de transportes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Veoteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kuljetuspalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de transport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Prijevozne usluge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szállítási szolgáltatások nyújtása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di trasporto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vežimo paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Transportēšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' trasport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Transportdiensten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi transportowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de transporte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de transport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Prepravné služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Prevozniške storitve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Transporttjänster.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>40</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Формоване на бетон.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Tvarování betonu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Støbning af beton.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Formgießen von Beton.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καλούπωμα σκυροδέματος.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Moulding of concrete.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Moldeo de hormigón.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Betooni vormimine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Betonin valaminen muottiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de moulage du béton.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Oblikovanje betona.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Betonöntés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Modellatura del calcestruzzo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Betono liejimas (formoje).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Betona liešana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Iffurmar tal-konkrit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Gieten van beton.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Formowanie betonu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Moldagem de betão.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Modelarea betonului.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Formovanie betónu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oblikovanje betona.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Gjutning av betong.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за проектиране на сгради; Строително проектиране; Промишлени изпитания; Качествен контрол.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby v oblasti stavebního designu; Projektování ve výstavbě; Průmyslové testování; Řízení jakosti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tjenesteydelser inden for byggedesign; Udarbejdelse af byggeplaner; Industriel testning; Kvalitetskontrol.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bauplanung; Konstruktionsplanung; Technische Prüfung; Qualitätsprüfung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες σχεδιασμού κτιρίων· Σύσταση σχεδίων κατασκευών· Βιομηχανικές δοκιμές· Έλεγχος ποιότητας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Building design services; Construction drafting; Industrial testing; Quality control.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de diseño de edificios; Elaboración de planos para la construcción; Ensayos industriales; Control de calidad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ehitusprojekteerimine; Ehitusprojekteerimine, tarindustööd; Tööstuslik katsetamine; Kvaliteedikontroll.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Rakennusten suunnittelupalvelut; Rakennuspiirustus; Teollinen testaus; Laadunvalvonta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de conception de bâtiments [architecture]; Établissement de plans pour la construction; Tests industriels; Contrôle de qualité.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge dizajna zgrada; Planovi (izrada građevinskih planova); Industrijsko testiranje; Kontrola kvalitete.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Létesítménytervezői szolgáltatások; Építési tervkészítés; Ipari tesztelés; Minőségellenőrzés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di progettazione edilizia; Progettazione per la costruzione; Analisi industriali; Controllo di qualità.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Pastatų projektavimo paslaugos; Statybų projektavimas; Pramoniniai bandymai; Kokybės tikrinimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ēku projektēšanas pakalpojumi; Būvniecības projektu izstrāde; Rūpnieciskā testēšana; Kvalitātes kontrole.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' disinn tal-bini; Disinn ta' bini; Ittestjar industrijali; Kontroll tal-kwalità.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ontwerp van gebouwen; Bouwplanning; Industriële testen; Kwaliteitscontrole.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi w zakresie projektowania budynków; Projektowanie budowlane; Testowanie przemysłowe; Kontrola jakości.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de conceção de edifícios; Elaboração de planos para construção; Testes industriais; Controlo de qualidade.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de proiectare a clădirilor; Planuri (realizarea de -) [construcții]; Teste industriale; Controlul calității.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Služby v oblasti dizajnovania budov; Vypracovanie stavebných výkresov; Priemyselné testovanie; Kontroly kvality.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve oblikovanja na področju gradbeništva; Načrtovanje konstrukcij; Industrijsko testiranje; Kontrola kvalitete.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Formgivning av byggnader; Konstruktionsritning; Industriell provning; Kvalitetskontroll.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/171</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-09-08</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1071070</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>43498</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

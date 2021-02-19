@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-25T07:36:51</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224440</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224440</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>LIVE YOUR WHITE CLAW HARD SELTZER WAVE</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162207428</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224440/000162207428.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>01.15.24</CategoryCode>
+          <CategoryCode>24.03.07</CategoryCode>
+          <CategoryCode>27.03.15</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Неонови надписи; Цифрови знаци.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Neonové reklamy; Digitální panely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Neonskilte; Digitale skilte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Neonröhren für die Werbung; Digital Signage.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φωσφορίζουσες (λυχνίες -) διαφημιστικές [νέον]· Ψηφιακά σήματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Neon signs; digital signs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Letreros de neón; Letreros digitales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Neoonmärgid, neoontähised; Digitaalsildid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Neon-kyltit; Digitaaliset opasteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Néons d'enseignes publicitaires; Enseignes numériques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Svjetleće cijevi za reklame; Digitalni znakovi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Neon világítások; Digitális jelek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tubi luminosi per la pubblicità; Insegne digitali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Neoniniai ženklai; Skaitmeniniai ženklai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Neona izkārtnes; Digitālās zīmes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Sinjali tan-neon; Sinjali diġitali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Neonlicht borden; Digitale borden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Neony reklamowe; Znaki cyfrowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Tubos luminosos para a publicidade [neons]; Sinalizações digitais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Firme de neon; Indicatoare digitale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Neónové reklamy; Digitálne tabule.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Neonski znaki; Digitalne oznake.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Neonskyltar; Digitala skyltar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>16</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хартиени емблеми; Хартиени знамена.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Papírové znaky; Papírové bannery.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Papiremblemer; Papirbannere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Papierschilder; Papierbanner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εμβλήματα από χαρτί· Πανό από χαρτί.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Paper signs; paper banners.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Emblemas de papel; Banderolas de papel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Paberembleemid; Paberist ribareklaamid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Paperiopasteet; Paperiviirit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Emblèmes en papier; Bannières en papier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Papirnati znakovi; Papirnate zastavice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Papír címerképek, emblémák; Papír feliratok, zászlók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Emblemi di carta; Striscioni di carta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Popierinės emblemos; Popierinės reklamjuostės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Papīra emblēmas; Papīra izkārtnes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Emblemi tal-karti; Banners tal-karti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Papieren emblemen; Vaandels van papier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Emblematy papierowe; Transparenty z papieru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Emblemas de papel; Estandartes de papel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Embleme din hârtie; Bannere din hârtie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Papierové emblémy; Papierové stolové vlajky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Papirnati emblemi; Papirnati transparenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Pappersskyltar; Pappersfanor.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/184</PublicationIdentifier>
+        <PublicationSection>C.3.6</PublicationSection>
+        <PublicationDate>2020-09-25</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1068009</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>12079</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

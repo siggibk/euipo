@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-11-05T11:32:12</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063648-0005</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-26</ReceivingOfficeDate>
+<DesignIdentifier>001063648-0005</DesignIdentifier>
+<ApplicationNumber>001063648</ApplicationNumber>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-26</ApplicationDate>
+<RegistrationDate>2008-12-26</RegistrationDate>
+<PublicationDate>2009-03-19</PublicationDate>
+<ApplicationReference>MIC8.6/2004OF/IR</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2018-12-26</ExpiryDate>
+<EffectiveDate>2008-12-26</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2019-11-01</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061772202</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063648_0005/001063648_0005_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061772204</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063648_0005/001063648_0005_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061772206</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063648_0005/001063648_0005_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061772208</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063648_0005/001063648_0005_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061772210</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063648_0005/001063648_0005_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061772212</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063648_0005/001063648_0005_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061772214</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063648_0005/001063648_0005_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Играчки</IndicationProduct>
+       <IndicationProduct languageCode="cs">Hračky</IndicationProduct>
+       <IndicationProduct languageCode="da">Legetøj</IndicationProduct>
+       <IndicationProduct languageCode="de">Spielzeug</IndicationProduct>
+       <IndicationProduct languageCode="el">Παιδικά παιχνίδια</IndicationProduct>
+       <IndicationProduct languageCode="en">Toys</IndicationProduct>
+       <IndicationProduct languageCode="es">Juguetes</IndicationProduct>
+       <IndicationProduct languageCode="et">Mänguasjad</IndicationProduct>
+       <IndicationProduct languageCode="fi">Lelut</IndicationProduct>
+       <IndicationProduct languageCode="fr">Jouets</IndicationProduct>
+       <IndicationProduct languageCode="hu">Játékszerek</IndicationProduct>
+       <IndicationProduct languageCode="it">Giocattoli</IndicationProduct>
+       <IndicationProduct languageCode="lt">Žaislai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Rotaļlietas</IndicationProduct>
+       <IndicationProduct languageCode="mt">Ġugarelli</IndicationProduct>
+       <IndicationProduct languageCode="nl">Speelgoed</IndicationProduct>
+       <IndicationProduct languageCode="pl">Zabawki</IndicationProduct>
+       <IndicationProduct languageCode="pt">Brinquedos</IndicationProduct>
+       <IndicationProduct languageCode="ro">Jucării</IndicationProduct>
+       <IndicationProduct languageCode="sk">Hračky</IndicationProduct>
+       <IndicationProduct languageCode="sl">Igrače</IndicationProduct>
+       <IndicationProduct languageCode="sv">Leksaker</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>21.01</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/051</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-03-19</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/001</PublicationIdentifier>
+        <PublicationSequenceNumber>1122613</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2014-01-03</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2016/239</PublicationIdentifier>
+        <PublicationSequenceNumber>1895736</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2016-12-16</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2016/242</PublicationIdentifier>
+        <PublicationSequenceNumber>1898516</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2016-12-21</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2019/210</PublicationIdentifier>
+        <PublicationSequenceNumber>101482058</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2019-11-05</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>212585</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>10005</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>011431340</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1895736</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2016-12-19</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>011440599</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1898516</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2016-12-22</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006987998</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1122613</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-03</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

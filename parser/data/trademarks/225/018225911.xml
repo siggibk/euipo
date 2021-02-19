@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:36</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225911</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225911</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-01</RegistrationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>NEXT MEX FOOD</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162304054</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/225/018225911/000162304054.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>01.03.02</CategoryCode>
+          <CategoryCode>01.03.15</CategoryCode>
+          <CategoryCode>05.11.19</CategoryCode>
+          <CategoryCode>07.05.02</CategoryCode>
+          <CategoryCode>09.03.13</CategoryCode>
+          <CategoryCode>09.07.17</CategoryCode>
+          <CategoryCode>26.04.01</CategoryCode>
+          <CategoryCode>26.04.04</CategoryCode>
+          <CategoryCode>26.04.06</CategoryCode>
+          <CategoryCode>26.04.07</CategoryCode>
+          <CategoryCode>26.04.22</CategoryCode>
+          <CategoryCode>26.04.24</CategoryCode>
+          <CategoryCode>26.04.98</CategoryCode>
+          <CategoryCode>26.04.99</CategoryCode>
+          <CategoryCode>26.11.01</CategoryCode>
+          <CategoryCode>26.11.12</CategoryCode>
+          <CategoryCode>29.01.06</CategoryCode>
+          <CategoryCode>29.01.98</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>29</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Люти чушки със сирене [Chile con queso]; Замразени ястия, състоящи се предимно от пилешко месо; Замразени ястия, състоящи се предимно от месo; Готови сготвени ястия, състоящи се предимно от пилешко месо; Ястие от чили с месо.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Chile con queso [sýrová omáčka s chilli papričkami]; Mražená jídla obsahující převážně kuřecí maso; Mražená jídla obsahující převážně maso; Hotová vařená jídla obsahující převážně kuřecí maso; Chili con carne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Chili med ost; Frosne retter bestående hovedsagelig af kylling; Frosne retter, hovedsageligt bestående af kød; Tilberedte færdigretter bestående hovedsagelig af kylling; Chili con carne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Chile con queso; Vorwiegend aus Hähnchen bestehende Tiefkühlgerichte; Vorwiegend aus Fleisch bestehende Tiefkühlgerichte; Vorwiegend aus Hähnchen bestehende vorgekochte Gerichte; Chili con Carne [Fleisch-Chili-Gericht].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Τσίλι με τυρί· Κατεψυγμένα γεύματα που περιέχουν κυρίως κοτόπουλο· Κατεψυγμένα γεύματα αποτελούμενα κυρίως από κρέας· Έτοιμα μαγειρεμένα γεύματα που περιέχουν κυρίως κοτόπουλο· Τσίλι με κρέας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Chile con queso; Frozen meals consisting primarily of chicken; Frozen meals consisting primarily of meat; Ready cooked meals consisting primarily of chicken; Chili con carne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Chile con queso; Comidas congeladas compuestas principalmente de carne de pollo; Comidas congeladas principalmente a base de carne; Comidas precocinadas compuestas principalmente de pollo; Chile con carne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Tšilli juustuga; Peamiselt kanalihast koosnevad külmutatud toidud; Peamiselt liha sisaldavad külmutatud toidud; Peamiselt kanalihast koosnevad kuumtöödeldud valmistoidud; Chilli con carne [Mehhiko oa-hakklihatoit].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Juustochilit; Pakasteateriat, jotka sisältävät pääasiassa kanaa; Pääasiassa lihasta koostuvat pakasteateriat; Valmisateriat, jotka sisältävät pääasiassa kanaa; Chili con carne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Chile con queso [hors-d'œuvre composé de fromage fondu et de piment]; Plats congelés principalement à base de poulet; Plats congelés principalement à base de viande; Plats cuisinés préparés principalement à base de poulet; Chili con carne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Umak od čilija sa sirom; Smrznuti obroci koji se uglavnom sastoje od piletine; Zamrznuta jela koja se sastoje pretežno od mesa; Gotovi kuhani obroci koji se uglavnom sastoje od piletine; Čili s mesom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sajtos chili; Elsősorban csirkéből álló fagyasztott ételek; Elsősorban húst tartalmazó fagyasztott ételek; Elsősorban csirkéből álló készre főzött ételek; Chili con carne (chilis bab).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Chile con queso [salsa piccante a base di formaggio e peperoncino]; Pasti surgelati principalmente a base di carne di pollo; Piatti surgelati principalmente a base di carne; Piatti pronti cotti principalmente a base di carne di pollo; Chili con carne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Aitriosios paprikos su sūriu; Šaldyti valgiai vištienos pagrindu; Šaldyti patiekalai mėsos pagrindu; Paruošti virti ir kepti patiekalai vištienos pagrindu; Mėsos ir aitriųjų paprikų troškinys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kausētais siers ar čili pipariem [chile con queso]; Saldēti ēdieni, kas sastāv galvenokārt no vistas gaļas; Saldētas maltītes, kas galvenokārt sastāv no gaļas; Gatavi ēdieni, kas galvenokārt sastāv no vistas gaļas; Gaļas sautējums ar čili pipariem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ċilì bil-ġobon; Ikliet iffriżati magħmula l-aktar mit-tiġieġ; Ikliet iffriżati li jikkonsistu prinċipalment mil-laħam; Ikliet imsajra lesti magħmula l-aktar mit-tiġieġ; Bżar aħmar bil-kapuljat (Stuffat ta' -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Chili con queso; Bevroren maaltijden hoofdzakelijk bestaande uit kip; Diepvriesmaaltijden voornamelijk bestaande uit vlees; Geprepareerde maaltijden voornamelijk bestaande uit kip; Chili con carne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Chili con queso; Mrożone posiłki składające się głównie z kurczaka; Mrożone posiłki składające się głównie z mięsa; Ugotowane posiłki składające się głównie z kurczaka; Chili con carne (chili z mięsem).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Chile com queijo; Refeições congeladas constituídas principalmente por frango; Refeições congeladas constituídas principalmente por carne; Refeições pré-confecionadas constituídas principalmente por frango; Chili com carne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Sos de brânză Velveeta amestecat cu ardei iuți chili; Mâncăruri congelate care conțin în principal carne de pui; Mâncăruri congelate constând în principal din carne; Mâncăruri gătite care conțin în principal carne de pui; Chili con carne (tocană de ardei iute și carne).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Syrová omáčka s čili papričkami [chile con queso]; Mrazené jedlá obsahujúce predovšetkým kura; Mrazené jedlá obsahujúce prevažne mäso; Hotové varené jedlá obsahujúce predovšetkým kura; Chili con carne (mexické pikantné jedlo).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Čili s sirom; Zamrznjene jedi, sestavljene predvsem iz piščančjega mesa; Zamrznjeni obroki, sestavljeni predvsem iz mesa; Pripravljene kuhane jedi, sestavljene predvsem iz piščančjega mesa; Chili con carne (Čili z mesom).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Chili med ost; Frysta måltider i huvudsak bestående av kyckling; Frysta måltider i huvudsak bestående av kött; Färdiglagade måltider i huvudsak bestående av kyckling; Chili con carne.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Снаксове, приготвени от царевица; Леки закуски, приготвени от жито; Леки закуски, приготвени от царевица; Леки закуски, приготвени от несмляно жито; Леки закуски (снаксове) с вкус на тортиля; Зърнени закуски, овкусени със сирене; Готови пикантни храни от царевично брашно, приготвени чрез пресоване.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pochutiny vyrobené z kukuřice; Pochutiny vyrobené z pšenice; Pochutiny připravené z kukuřice; Pochutiny vyrobené z neloupané pšenice; Tortila (chuťovky); Cereální jednohubky se sýrovou příchutí; Hotové slané pochutiny z extrudované kukuřičné mouky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Snackvarer fremstillet af majs; Snackvarer fremstillet af hvede; Majssnacks; Snacks fremstillet af fuldkornshvede; Tortillasnacks; Snackvarer af korn med ostesmag; Spiseklare krydrede snackvarer fremstillet af majsmel formet ved ekstrudering.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Imbissgerichte auf Maisbasis; Snackgerichte aus Weizen; Aus Mais zubereitete Snacks; Snacks aus Weizenvollkorn; Tortilla-Snacks; Imbissgerichte aus Zerealien mit Käsegeschmack; Verzehrfertige pikante Snacks aus extrudiertem Maismehl.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μικρογεύματα (σνακ) παρασκευασμένα από καλαμπόκι· Μικρογεύματα (σνακ) από σιτάλευρο· Μικρογεύματα από αραβόσιτο· Μικρογεύματα (σνακ) από σιτάρι ολικής αλέσεως· Μικρογεύματα (σνακ) τορτίγιας· Μικρογεύματα (σνακ) δημητριακών με γεύση τυριού· Έτοιμα για κατανάλωση αλμυρά μικρογεύματα από αραβοσιτάλευρο διαμορφωμένα με εξώθηση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Snack foods made from corn; Snack foods made from wheat; Snack foods prepared from maize; Snack foods made of whole wheat; Tortilla snacks; Cereal snack foods flavoured with cheese; Ready to eat savory snack foods made from maize meal formed by extrusion.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aperitivos a base de maíz; Aperitivos a base de trigo; Aperitivos preparados a base de maíz; Aperitivos hechos de trigo integral; Aperitivos de tortilla de harina; Aperitivos de cereales con sabor a queso; Alimentos de aperitivos salados listos para comer hechos de alimentos de maíz formados mediante extrusión.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Maisist valmistatud suupisted; Nisust valmistatud suupisted; Maisist suupisted; Täisnisust suupisted; Tortilla-suupisted; Juustumaitselised teraviljasuupisted; Maisijahust pressitud vürtsikad või soolased valmissuupisted.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Maissista valmistetut välipalat; Vehnäpohjaiset välipalaruoat; Maissista tehdyt välipalat; Täysjyvävehnästä tehdyt välipalat; Tortillavälipalat; Juustonmakuiset viljapohjaiset välipalat; Pursottamalla tehdyt valmiit suolaiset välipalat, jotka on valmistettu maissista.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">En-cas à base de maïs; En-cas à base de blé; En-cas à base de maïs; En-cas à base de blé complet; En-cas à base de galette tortilla; En-cas de céréales aromatisés au fromage; En-cas salés, prêts à consommer, à base de farine de maïs et confectionnés par extrusion.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Grickalice od kukuruza; Grickalice od pšenice; Grickalice pripremljene od kukuruza; Grickalice od cjelovitog zrna pšenice; Tortilla grickalice; Grickalice od žitarica s okusom sira; Gotove slane grickalice od kukuruzne krupice dobivene ekstruzijom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kukoricából készült rágcsálnivalók; Búzából készült rágcsálnivalók; Kukoricából készült snack termékek; Teljes kiőrlésű búzából készült snack termékek; Tortilla rágcsálnivalók; Gabonából készült sajttal ízesített rágcsálnivalók; Kukoricalisztből extrudálással készült, azonnal fogyasztható sós snack termékek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Snack a base di mais; Snack a base di frumento; Spuntini a base di mais; Snack a base di frumento integrale; Snack a base di tortillas; Snack a base di cereali aromatizzati al formaggio; Snack salati pronti a base di farina di mais e formati tramite estrusione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kukurūzų užkandžiai; Užkandžiai iš kviečių; Užkandžiai iš kukurūzų; Užkandžiai iš viso grūdo kviečių; Tortilijos užkandžiai; Javų užkandžiai, paskaninti sūriu; Presavimo būdu suformuoti sūrūs kukurūzų miltų užkandžiai, paruošti vartoti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">No kukurūzas gatavotas uzkodas; Kviešu uzkodas; No kukurūzas pagatavoti uzkodu izstrādājumi; No kviešu pilngraudiem pagatavotas uzkodas; Tortiljas uzkodas; Graudaugu uzkodas ar siera garšu; Ēšanai gatavas sāļās uzkodas no kukurūzas, kas iegūtas ekstrūzijas veidā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ikel ħafif ibbażat fuq il-qamħirrun; Ikel ħafif ibbażat fuq il-qamħ; Prodotti tal-ikel ħafif ippreparati mill-qamħirrum; Prodotti tal-ikel ħafif magħmula mill-qamħ sħiħ; Ikel ħafif tat-tortillas; Ikel ħafif taċ-ċereali bit-togħma tal-ġobon; Ikel ħafif lest għall-ikel magħmul mill-qamħirrum mitħun iffurmat permezz tal-estrużjoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Versnaperingen op basis van maïs; Versnaperingen op basis van tarwe; Snacks bereid uit maïs; Snacks van volkoren tarwe; Tortillasnacks; Granen (Snacks met kaassmaak op basis van -); Hartige snacks (Kant-en-klare -) gemaakt van maïsmeel gevormd door extrusie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Przekąski z kukurydzy; Przekąski wykonane z pszenicy; Przekąski wykonane z kukurydzy; Przekąski wykonane z mąki razowej; Przekąski na bazie tortilli; Przekąski zbożowe o smaku sera; Gotowe do spożycia solone przekąski z mąki kukurydzianej formowane przez wyciskanie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aperitivos feitos de milho; Aperitivos feitos de trigo; Aperitivos preparados a partir do milho; Aperitivos feitos de trigo integral; Aperitivos de tortilha mexicana; Aperitivos de cereais com sabor a queijo; Aperitivos salgados feitos de farinha de milho moldados por extrusão.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Gustări din porumb; Gustări pe bază de grâu; Gustări rapide preparate din porumb; Gustări rapide preparate din grâu integral; Gustări din tortilla; Gustări alimentare cu cereale cu gust de brânză; Gustări sărate gata de mâncat, preparate din griș de porumb format prin extruziune.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Chuťovky vyrobené z kukurice; Chuťovky vyrobené z pšenice; Chuťovky pripravené z kukurice; Chuťovky vyrobené z nelúpanej pšenice; Tortilla - chuťovky; Cereálne chuťovky so syrovou príchuťou; Hotové slané chuťovky vyrobené z extrudovanej kukuričnej múky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Prigrizki iz koruze; Prigrizki iz pšenice; Prigrizki, pripravljeni iz koruze; Polnozrnati prigrizki; Tortilla prigrizki; Prigrizki iz žitaric, začinjeni s sirom; Pripravljeni slani prigrizki iz koruzne moke, ki so oblikovani z vbrizgavanjem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Snackprodukter på bas av majs; Snacks framställd av vete; Snacks tillagade av majs; Snacks framställda av fullkornsvete; Tortillasnacks; Spannmålssnackmat smaksatt med ost; Saltkryddade snacks färdiga för förtäring gjorda på spritsat majsmjöl.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/077</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080317</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

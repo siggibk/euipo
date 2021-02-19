@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:09</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224159</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224159</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-08</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>HOMETASTES</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162190013</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224159/000162190013.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>29</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Зехтин за хранителни цели; Студено пресован зехтин екстра качество; Зехтин; Маслини, консервирани; Маслини [обработени]; Хранителни масла и мазнини.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Olivový olej potravinářský; Extra panenský olivový olej; Olivový olej; Konzervované olivy; Olivy [zpracované]; Jedlé oleje a tuky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Olivenolie til brug som næringsmiddel; Ekstra jomfruolivenolie til brug som næringsmiddel; Olivenolie; Oliven, konserverede; Tilberedte oliven; Spiselige olier og fedtstoffer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Olivenöl für Speisezwecke; Extranatives Olivenöl für Speisezwecke; Olivenöl; Konservierte Oliven; Zubereitete Oliven; Speiseöle und -fette.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ελιά (έλαια -άς) εδώδιμο· Εξαιρετικό παρθένο ελαιόλαδο· Ελαιόλαδο· Ελιές κονσερβοποιημένες· Ελιές, [επεξεργασμένες]· Έλαια και λίπη βρώσιμα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Olive oil for food; Extra virgin olive oil for food; Olive oils; Olives, preserved; Preserved olives; Olives, [prepared]; Processed olives; Extra-virgin olive oil; Olive oil; Edible oils and fats.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aceite de oliva para uso alimenticio; Aceite de oliva virgen extra para uso alimenticio; Aceite de oliva; Aceitunas en conserva; Aceitunas preparadas; Aceites y grasas comestibles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Oliiviõli toiduks; Esimese külmpressi oliiviõli; Oliiviõli; Oliivikonservid, konservitud oliivid; Oliivid [töödeldud]; Toiduõlid ja toidurasvad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Oliiviöljy ruoanlaittoon; Kylmäpuristettu (extra) neitsytoliiviöljy; Oliiviöljy; Oliivit, säilötyt; Käsitellyt oliivit; Ravintoöljyt ja -rasvat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Huile d'olive à usage alimentaire; Huile d'olive extra vierge à usage alimentaire; Huile d'olive; Olives conservées; Olives préparées; Huiles et graisses comestibles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Maslinovo ulje za prehranu; Ekstra djevičansko maslinovo ulje; Maslinovo ulje; Konzervirane masline; Masline [pripremljene]; Jestiva ulja i masti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Olívaolaj, étkezési; Extra szűz olívaolaj; Olívaolaj; Olajbogyó, tartósított; Olajbogyók [feldolgozott]; Étkezési olajok és zsírok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Olio di oliva ad uso alimentare; Olio extravergine di oliva per uso alimentare; Olio di oliva; Olive conservate; Olive [pronte]; Olii e grassi commestibili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Alyvų aliejus (maistui); Aukščiausios kokybės pirmo spaudimo alyvuogių aliejus; Alyvuogių aliejus; Konservuotos alyvos; Paruoštos alyvuogės; Valgomieji aliejai ir riebalai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Olīveļļa pārtikai; Pirmā spieduma olīveļļa; Olīveļļa; Konservētas olīvas; Olīves, pagatavotas; Pārtikas eļlas un tauki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Żejt taż-żebbuġa għall-ikel; Żejt ekstra verġni taż-żebbuġa; Żejt taż-żebbuġa; Żebbuġ ippreservat; Żebbuġ [preparat]; Żjut u xaħmijiet li jittieklu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Olijfolie voor voedingsdoeleinden; Extra virgin olijfolie; Olijfolie; Olijven, geconserveerd; Olijven [bereide]; Eetbare oliën en vetten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Olej z oliwek jadalny; Oliwa z oliwek z pierwszego tłoczenia; Oliwa z oliwek; Oliwki konserwowane; Oliwki [przetworzone]; Oleje i tłuszcze jadalne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Azeite comestível; Azeite extra virgem para alimentação; Azeite; Azeitonas em conserva; Azeitonas [preparadas]; Óleos e gorduras alimentares.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Măsline (Ulei de -) comestibil; Ulei de măsline extravirgin; Ulei de măsline; Măsline conservate; Măsline [pregătite]; Uleiuri și grăsimi comestibile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Potravinársky olivový olej; Extra panenský olivový olej; Olivový olej; Konzervované olivy; Spracované olivy; Jedlé oleje a tuky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Jedilno olivno olje; Ekstra deviško olivno olje; Olivno olje; Konzervirane olive; Pripravljene olive; Jedilno olje in maščoba.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Olivolja (livsmedel); Extra fin jungfruolja [olivolja]; Olivolja; Konserverade oliver; Tillredda oliver; Ätliga oljor och fetter.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Оцет; Сол, подправки, ароматизатори и подправки (сосове).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Ocet; Soli, chuťové přísady, ochucovadla a koření.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Eddike; Salte, krydderier, smagsstoffer og smagspræparater.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Essig; Speisesalz, Würzmittel, Gewürze, Aromastoffe für Getränke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ξύδι· Αλάτι, μπαχαρικά, αρτύματα και καρυκεύματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Vinegar; Salts, seasonings, flavourings and condiments.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Vinagres; Sales, aliños, aderezos y condimentos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Äädikas; Soolad, lõhna- ja maitseained, vürtsid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Etikka; Suolat, mausteet ja makuaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vinaigres; Sels, assaisonnements, arômes et condiments.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ocat; Soli, začini, arome i začinski umaci.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ecet; Só, fűszerek és ízesítőszerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Aceto; Sale, spezie, aromi e condimenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Actas; Druska, prieskoniai, aromatinės medžiagos ir pagardai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Etiķis; Sāls, garšvielas, aromatizētāji un garšvielu mērces.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ħall; Imluħa, ħwawar u kondimenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Azijn; Zouten, kruiderijen, aromaten en kruiden [specerijen].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Ocet; Sól, przyprawy i dodatki smakowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vinagres; Sais, temperos, aromas e condimentos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Oțet; Sare, mirodenii, arome și condimente.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Ocot; Soľ, koreniny, príchute a korenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kis; Soli, začimbe, arome, začimbni dodatki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Vinäger; Salter, kryddor, smakämnen och smaktillsatser.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>257393</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>47542</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-29T09:52:43</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224690</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224690</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SWINILAYA</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>14</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бижутерия; Ръчни часовници; Кюлчета от благородни метали; Сплави от благородни метали; Сребро, необработено; Кутии за излагане на бижута; Перли [бижутерия]; Полускъпоценни камъни; Скъпоценни камъни; Шпинел [скъпоценни камъни].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Šperky; Hodinky; Ingoty z drahých kovů; Slitiny drahých kovů; Stříbro, surové nebo jako polotovar; Šperkovnice (kazety na šperky); Perly [šperky]; Polodrahokamy; Drahokamy; Spinely [drahokamy].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Juvelerarbejder; Ure [armbåndsure]; Barrer [stænger] af ædle metaller; Legeringer af ædle metaller; Sølv, uforarbejdet eller hamret; Smykkeæsker [skrin]; Perler [smykker]; Halvædelstene; Ædelstene; Spinel [ædelsten].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Juwelierwaren, Schmuckwaren; Taschen-/Armbanduhren; Barren aus Edelmetall; Legierungen aus Edelmetall; Unbearbeitetes oder getriebenes Silber; Schmuckkästen; Perlen [Schmuck]; Halbedelsteine; Edelsteine; Spinelle [Edelsteine].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κοσμήματα· Ρολόγια τοίχου ή επιτραπέζια, κοσμήματα· Ράβδοι από πολύτιμα μέταλλα· Κράματα πολύτιμων μετάλλων· Άργυρος ακατέργαστος ή τριμμένος· Κουτιά [ειδικής συσκευασίας] για μεμονωμένα κοσμήματα· Μαργαριτάρια [κοσμήματα]· Πέτρες ημιπολύτιμες· Λίθοι κοσμηματοποιίας· Σπινέλλιοι [πολύτιμες πέτρες].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Jewelry; Jewellery; Watches; Ingots of precious metals; Alloys of precious metal; Silver, unwrought or beaten; Jewellery cases [caskets]; Jewelry cases [caskets]; Pearls [jewellery]; Semi-precious stones; Precious stones; Spinel [precious stones].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Joyería; Relojes de uso personal; Lingotes de metales preciosos; Aleaciones de metales preciosos; Plata en bruto o batida; Estuches para joyas; Perlas [joyería]; Piedras semipreciosas; Piedras preciosas; Espinelas [piedras preciosas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Juveeltooted; Käe-, taskukellad; Väärismetallivalandid; Väärismetallisulamid; Töötlemata või lehthõbe; Ehtekarbid; Pärlid [juveeltooted]; Poolvääriskivid; Vääriskivid; Spinell [vääriskivi].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Korut; Kellot; Harkot (Jalometalli -); Jalometalliseokset; Hopea, käsittelemätön tai taottu; Korulippaat; Helmet [koruina]; Puolijalokivet; Korukivet; Spinelli [jalokivinä].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Articles de bijouterie-joaillerie; Montres; Lingots de métaux précieux; Alliages de métaux précieux; Argent brut ou battu; Écrins; Perles [bijouterie]; Pierres fines; Pierres précieuses; Spinelles [pierres précieuses].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Nakit; Satovi, zidni; Poluge [ingoti] od plemenitih metala; Legure plemenitih metala; Srebro, sirovo ili tučeno; Kutije za nakit; Biseri [nakit]; Poludrago kamenje; Kamenje za nakit; Spinel [drago kamenje].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ékszerek; Órák; Nemesfém rudak; Nemesfém ötvözetek; Ezüst, megmunkálatlan vagy vert; Ékszertartók [ládikák]; Gyöngyök [ékszerek]; Féldrágakövek; Ékkövek; Spinellek [drágakövek].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Oreficeria; Orologi [da polso e da tasca]; Lingotti di metalli preziosi; Leghe di metalli preziosi; Argento, grezzo o battuto; Cofanetti per gioielli; Perle [gioielleria]; Pietre fini [semipreziosi]; Pietre preziose; Spinelle [pietre preziose].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Juvelyriniai dirbiniai; Laikrodžiai [kišeniniai, rankiniai]; Liejiniai (brangiųjų metalų); Lydiniai (tauriųjų metalų); Sidabras (neapdirbtas ar kalstytas); Brangenybių dėklai; Perlų juvelyriniai dirbiniai; Pusbrangiai akmenys; Brangakmeniai; Špineliai [brangakmeniai].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Juvelierizstrādājumi; Rokas un kabatas pulksteņi; Dārgmetālu stieņi; Dārgmetālu sakausējumi; Neapstrādāts vai kalts sudrabs; Dārglietu lādītes [šķirstiņi]; Pērles (juvelierizstrādājumi); Pusdārgakmeņi; Dārgakmeņi; Špinelis (dārgakmeņi).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ġojjelli; Arloġġi ta' l-id; Ingotti tal-metall prezzjuż; Ligi ta' metall prezzjuż; Fidda mhux maħduma jew maħduma f'folji rqaq; Kontenituri tal-ġojjelli [kaxxetti]; Perli [ġojjellerija]; Ħaġar semi-prezzjuż; Ħaġar għall-ġojjelli; Spinell [ħaġar prezzjuż].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Juwelen; Horloges; Baren van edele metalen; Legeringen van edele metalen; Zilver, ruw of geslagen; Juwelendoosjes; Parels [juwelierswaren]; Halfedelstenen; Edelstenen; Spinellen [edelstenen].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Biżuteria i wyroby jubilerskie; Zegarki; Sztabki metali szlachetnych; Stopy metali szlachetnych; Srebro, nieprzetworzone lub kute; Kasetki na biżuterię; Perły [biżuteria]; Kamienie półszlachetne; Kamienie jubilerskie; Spinel [kamienie szlachetne].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Jóias; Relógios de pulso; Lingotes de metais preciosos; Ligas de metais preciosos; Prata em bruto ou batida; Cofres para joias; Pérolas [joalharia]; Pedras semi-preciosas; Pedras preciosas; Espinelas [pedras preciosas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Bijuterii; Brățară (Ceasuri cu -); Lingouri de metale prețioase; Aliaje din metale prețioase; Argint brut sau bătut; Cutii pentru bijuterii; Perle [bijuterii]; Pietre semiprețioase; Pietre prețioase; Spinel [pietre prețioase].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Šperky; Hodinky; Ingoty z drahých kovov; Zliatiny drahých kovov; Striebro (surovina alebo polotovar); Kazety na šperky; Korálky (klenotnícke výrobky); Polodrahokamy; Drahé kamene; Spinely (drahé kamene).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Nakit; Ročne ure; Ingoti žlahtnih kovin; Zlitine iz plemenitih kovin; Srebro, neobdelano ali tolčeno; Skrinjice za nakit; Biseri [nakit]; Poldragi kamni; Kamni za nakit; Spinel [drag kamen].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Juvelerarvaror; Ur; Tackor av ädelmetaller; Legeringar ädelmetall; Obearbetat eller bearbetat silver; Smyckesaskar; Pärlor [smycken]; Halvädelstenar; Smyckesstenar; Spineller [ädelstenar].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/141</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079103</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>26721</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

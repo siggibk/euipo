@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-19T10:59:07</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229020</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229020</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-15</RegistrationDate>
+<ApplicationLanguageCode>el</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-19</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>fixOflex</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162455873</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229020/000162455873.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>02.09.04</CategoryCode>
+          <CategoryCode>26.07.04</CategoryCode>
+          <CategoryCode>27.01.25</CategoryCode>
+          <CategoryCode>27.03.02</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Уреди и апарати за научни изследвания и лаборатории, уреди, апарати и симулатори за обучение; Оптични устройства, увеличителни уреди и коригиращи устройства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vědecké výzkumné a laboratorní přístroje, přístroje pro vyučování a simulátory; Optické přístroje, zvětšovače a korektory.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Videnskabelige forsknings og laboratorie apparater, undervisningsapparater og simulatorer; Optiske indretninger, forstørrere og korrektorer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Apparate für wissenschaftliche Forschung und Labor, Unterrichtsapparate und Simulatoren; Optische Geräte und Ausrüstung, Verstärkungsgeräte und Korrektoren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συσκευές επιστημονικής έρευνας και εργαστηρίων, συσκευές εκπαίδευσης και εξομοιωτές· Οπτικές συσκευές, ενισχυτές και διορθωτές.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Scientific research and laboratory apparatus, educational apparatus and simulators; Optical devices, enhancers and correctors.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aparatos para la investigación científica y de laboratorio, aparatos educativos y simuladores; Aparatos ópticos de aumento y correctores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Teaduslikud uuringu- ja laboriseadmed, õppeseadmed ning -simulaatorid; Optikaseadmed, optilised võimendid ja korrektorid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tieteelliset tutkimus- ja laboratoriolaitteet, opetuslaitteet ja simulaattorit; Optiset laitteet, vahvistimet ja korjaimet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Appareils de recherche scientifique et de laboratoire, appareils et simulateurs didactiques; Dispositifs, amplificateurs et correcteurs optiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Uređaji za znanstveno istraživanje i laboratorije, obrazovni uređaji i simulatori; Optički uređaji, pojačala i korektori.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Berendezések tudományos kutatáshoz és laboratóriumi használatra, oktatási berendezések és szimulátorok; Optikai eszközök, teljesítménynövelők és javítók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Strumenti, indicatori e regolatori per misurare, rilevare e monitorare; Dispositivi ottici, miglioratori e correttori di immagini.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mokslinių tyrimų ir laboratoriniai aparatai, mokymo prietaisai ir imituokliai; Optiniai prietaisai, stiprintuvai ir korektoriai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Zinātniskās pētniecības un laboratoriju aparāti, mācību aparāti un simulatori; Optiskās ierīces, palielināmās ierīces un korekcijas ierīces.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Apparat għar-riċerka xjentifika u fil-laboratorju, apparat edukattiv u simulaturi; Tagħmir ottiku, biex itejjeb u jikkoreġi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Apparaten voor wetenschappelijk onderzoek en laboratoria, onderwijsapparaten en simulatoren; Optische apparaten, versterkers en correctoren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia do badań naukowych i laboratoryjne, urządzenia dydaktyczne i symulatory; Urządzenia optyczne, wzmacniacze i korektory.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aparelhos de pesquisa científica e de laboratório, aparelhos educacionais e simuladores; Dispositivos óticos, aumentadores e corretores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aparate pentru cercetare științifică și de laborator, aparate și simulatoare educaționale; Dispozitive optice, amplificatori și dispozitive de corecție.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vedeckovýskumné a laboratórne prístroje, vzdelávacie prístroje a simulátory; Optické zariadenia, zväčšovacie prístroje a sklá, optické korektory.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Znanstveno-raziskovalni in laboratorijski aparati, učni aparati in simulatorji; Optične naprave, ojačevalci in korektorji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Utrustning för vetenskaplig forskning och laboratorier, undervisningsapparater och simulatorer; Optiska anordningar, förstärkare och korrektorer.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Протези и изкуствени импланти; Очни импланти от изкуствени материали.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Protetické výrobky a umělé implantáty; Oční implantáty vyrobené z umělých materiálů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Proteser og kunstige implantater; Øjenimplantater fremstillet af kunstige materialer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Prothesen und künstliche Implantate; Augenimplantate aus künstlichen Materialien.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Προσθετικά μέλη και τεχνητά εμφυτεύματα· Οφθαλμικά εμφυτεύματα από τεχνητά υλικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Prosthetics and artificial implants; Ocular implants made from artificial materials.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Prótesis e implantes artificiales; Implantes oculares de materiales artificiales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Proteesid ja tehisimplantaadid; Tehismaterjalidest silmaimplantaadid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Proteesit ja keinotekoiset implantit; Keinomateriaaleista tehdyt silmäistutteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Prothèses et implants artificiels; Implants oculaires en matériaux artificiels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Protetika i umjetni implantati; Očni implantati od umjetnih materijala.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Protézisek és mesterséges implantátumok; Mesterséges anyagból készített szemészeti implantátumok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Protesi ed impianti artificiali; Impianti oculari in materiali artificiali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Protezai ir dirbtiniai implantai; Akies implantai, pagaminti iš dirbtinių medžiagų.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Protēzes un mākslīgie implanti; Acu implantāti no mākslīgiem materiāliem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Prostetiċi u impjanti artifiċjali; Impjanti okulari magħmula minn materjali artifiċjali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Prothesen en kunstmatige implantaten; Oogimplantaten van kunstmaterialen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Protezy i sztuczne implanty; Implanty oczne wykonane z materiałów sztucznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Próteses e implantes artificiais; Implantes oculares feitos de materiais artificiais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Protetică și implanturi artificiale; Implanturi oculare fabricate din materiale artificiale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Protézy a umelé implantáty; Očné implantáty z umelých materiálov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Proteze in umetni vsadki; Očesni vsadki iz umetnih materialov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Proteser och konstgjorda implantat; Ögonimplantat gjorda av konstgjorda material.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>44</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги в областта на оптиката.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Oční optiky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Optikervirksomhed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Dienstleistungen eines Optikers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες οπτικών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Opticians' services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios ópticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Optikuteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Optikkopalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services d'opticiens.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Optičarske usluge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Optikusok szolgáltatásai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di ottici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Optikų paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Optiķu pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' persuni li jipprattikaw l-kura tal-għajnejn.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diensten van opticiens.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi optyczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de oculista.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii prestate de opticieni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Služby optikov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve optikov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Optikertjänster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/085</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-07</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/156</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-18</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>993508</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>95934</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

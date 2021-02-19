@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-30T14:58:26</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224704</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224704</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-01</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>W WABI</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162206918</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224704/000162206918.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>02.01.23</CategoryCode>
+          <CategoryCode>27.03.02</CategoryCode>
+          <CategoryCode>27.05.21</CategoryCode>
+          <CategoryCode>27.99.23</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Софтуерни приложения с възможност за изтегляне, за стоки за търговия на едро и търговия на дребно; Софтуерни приложения с възможност за изтегляне, за електронна обработка на плащания; Компютърни софтуерни платформи, записани или с възможност за изтегляне.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Softwarové aplikace s možností stažení pro velkoobchodní a maloobchodní prodej výrobků; Softwarové aplikace s možností stažení pro elektronické zpracování plateb; Platformy počítačového softwaru, nahrané nebo ke stažení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Downloadable softwareapplikationer til engros- og detailsalg af varer; Downloadable softwareapplikationer til elektronisk behandling af betalinger; Computersoftwareplatforme, optagne eller downloadable.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Herunterladbare Softwareanwendungen für den Groß- und Einzelhandel mit Waren; Herunterladbare Softwareanwendungen für die elektronische Zahlungsverarbeitung; Gespeicherte oder herunterladbare Software-Plattformen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Τηλεφορτώσιμες εφαρμογές λογισμικού για χονδρική και λιανική πώληση ειδών· Τηλεφορτώσιμες εφαρμογές λογισμικού για ηλεκτρονική επεξεργασία πληρωμών· Εγγεγραμμένες ή τηλεφορτώσιμες πλατφόρμες λογισμικού ηλεκτρονικών υπολογιστών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Downloadable software applications for the wholesale and retail of goods; downloadable software applications for electronic processing of payments; computer software platforms (recorded or downloadable).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aplicaciones de software descargables para la venta mayorista y minorista de productos; Aplicaciones de software descargables para el procesamiento electrónico de pagos; Plataformas de software, grabado o descargable.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kaupade jae- ja hulgimüügi allalaaditavad arvutitarkvararakendused; Maksete elektroonilise töötlemise allalaaditavad arvutitarkvararakendused; Salvestatud või allalaaditavad arvutitarkvaraplatvormid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ladattavat ohjelmistosovellukset tavaroiden tukkumyyntiin ja vähittäismyyntiin; Ladattavat ohjelmistosovellukset maksujen elektroniseen käsittelyyn; Tallennetut tai ladattavat tietokoneohjelmistoalustat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Applications logicielles téléchargeables pour la vente en gros et au détail de produits; Applications logicielles téléchargeables pour le traitement électronique de paiements; Plateformes informatiques sous forme de logiciels enregistrés ou téléchargeables.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Softverske aplikacije koje se mogu preuzeti za veleprodaju i maloprodaju proizvoda; Softverske aplikacije koje se mogu preuzeti za elektroničku obradu plaćanja; Računalne softverske platforme, snimljene ili koje se može preuzimati s interneta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Letölthető szoftveralkalmazások áruk nagy- és kiskereskedelmére; Letölthető szoftveralkalmazások fizetések elektronikus feldolgozására; Számítógépes szoftverplatformok, rögzített vagy letölthető formában.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Applicazioni software scaricabili per la vendita all'ingrosso e al dettaglio di prodotti; Applicazioni software scaricabili per l'elaborazione elettronica di pagamenti; Piattaforme software per computer, registrabili o scaricabili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Atsisiunčiamos programinės įrangos programos didmeninei ir mažmeninei prekybai; Atsisiunčiamos programinės įrangos programos elektroniniam mokėjimų apdorojimui; Kompiuterių programinės įrangos platformos (įrašytos ar parsisiunčiamosios).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Lejupielādējamas programmatūras lietojumprogrammas preču vairumtirdzniecībai un mazumtirdzniecībai; Lejupielādējamas programmatūras lietojumprogrammas maksājumu elektroniskai apstrādei; Ierakstītas vai lejupielādējamas datorprogrammatūras platformas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Applikazzjonijiet ta' softwer li jistgħu jitniżżlu għall-bejgħ bl-ingrossa u l-bejgħ bl-imnut ta' oġġetti; Applikazzjonijiet ta' softwer li jistgħu jitniżżlu għall-ipproċessar elettroniku ta' pagamenti; Pjattaforma ta' softwer tal-kompjuter, li tirrekordja jew titniżżel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Downloadbare softwareapplicaties voor de detail- en groothandel in goederen; Downloadbare softwareapplicaties voor het elektronisch verwerken van betalingen; Computersoftwareplatforms, geregistreerd of downloadbaar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Aplikacje do pobrania do handlu hurtowego i detalicznego towarami; Aplikacje do pobrania do elektronicznego przetwarzania płatności; Platformy oprogramowania komputerowego, nagrane lub do pobrania.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aplicações de software descarregáveis para venda por grosso e a retalho de produtos; Aplicações de software descarregáveis para processamento eletrónico de pagamentos; Aplicações informáticas gravadas ou descarregáveis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aplicații software descărcabile pentru vânzarea cu ridicata și cu amănuntul de produse; Aplicații software descărcabile pentru prelucrarea electronică a plăților; Platforme de software de calculator înregistrat sau descărcabil.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Softvérové aplikácie s možnosťou stiahnutia na veľkoobchodný a maloobchodný predaj tovaru; Softvérové aplikácie s možnosťou stiahnutia na elektronické spracovanie platieb; Platformy počítačového softvéru, nahrané alebo na stiahnutie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Prenosljive aplikacije programske opreme za veleprodajo in maloprodajo izdelkov; Prenosljive aplikacije programske opreme za elektronsko obdelavo plačil; Platforme računalniške programske opreme, posnete ali naložljive.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Nedladdningsbara programvaruapplikationer för grosshandel och detaljhandel med varor; Nedladdningsbara programvaruapplikationer för elektronisk behandling av betalningar; Datorprogramplattformar, lagrade eller nedladdningsbara.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Онлайн услуги за търговия на дребно и на едро, предоставяни чрез глобална компютърна мрежа, свързани с храни, напитки и стоки за лична хигиена и домакинска хигиена; Компютъризирани онлайн услуги за поръчка на дребно и на едро на стоки, свързани с храни, напитки и потребителски стоки; Организация и представяне на статии от други; Бизнес посредничество за покупка и продажба на стоки; Предоставяне на онлайн база данни с възможност за търсене, свързани с продукти на трети страни за промоционални услуги; Бизнес посреднически услуги за продажба и покупка на стоки; Компютъризирани онлайн поръчки; Програми за лоялност за потребители; Съставяне на индекси на информация за търговски цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">On-line maloobchodní a velkoobchodní služby poskytované prostřednictvím globální počítačové sítě týkající se potravin, nápojů a výrobků pro osobní hygienu a hygienu v domácnosti; Počítačové on-line objednací služby pro maloobchodní a velkoobchodní prodej výrobků týkající se potravin, nápojů a spotřebních výrobků; Organizování a prezentace výrobků druhých; Obchodní zprostředkovatelské služby s koupí a prodejem výrobků; Poskytování on-line databáze s možností hledání týkající výrobků třetích stran pro propagační služby; Obchodní zprostředkovatelské služby v oboru prodeje a nákupu výrobků; Počítačové on-line objednávky; Spotřebitelské věrnostní programy; Sestavování informačních rejstříků k obchodním účelům.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Onlinedetail- og engrossalg via et globalt computernetværk af fødevarer, drikke og varer til personlig hygiejne og husholdningshygiejne; Computerbaseret onlinebestilling til detail- og engrossalg af varer inden for fødevarer, drikke og forbrugervarer; Organisering og præsentation af tredjeparters artikler; Erhvervsmæssig formidling ved køb og salg af produkter; Formidling af en onlinedatabase med søgefunktion for tredjepartsprodukter til salgsfremme; Forretningsmæssig mæglervirksomhed vedrørende salg og køb af varer; Computerstyret onlinebestilling; Forbrugerloyalitetsprogrammer; Kompilering af indekser med information til erhvervsformål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Online-Einzel- und -Großhandelsdienstleistungen über ein weltweites Computernetz in Bezug auf Nahrungsmittel, Getränke und Waren für die persönliche Hygiene und Haushaltshygiene; Computergestützte Online-Bestelldienste für den Einzel- und Großhandel mit Waren in Bezug auf Nahrungsmittel, Getränke und Konsumgüter; Organisation und Präsentation von Artikeln für Dritte; Geschäftsvermittlung für Kauf und Verkauf von Waren; Bereitstellung einer durchsuchbaren Online-Datenbank in Bezug auf Produkte Dritter für Werbezwecke; Vermittlungsdienste in Geschäftsangelegenheiten für den Verkauf und Kauf von Waren; Computergestützte Online-Bestelldienste; Kundentreueprogramme; Zusammenstellung von Informationsverzeichnissen für kommerzielle Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες επιγραμμικής λιανικής και χονδρικής πώλησης παρεχόμενες μέσω παγκόσμιου δικτύου ηλεκτρονικών υπολογιστών σε σχέση με τρόφιμα, ποτά και είδη ατομικής υγιεινής και οικιακής υγιεινής· Υπηρεσίες επιγραμμικής παραγγελίας με τη βοήθεια ηλεκτρονικού υπολογιστή για τη λιανική και χονδρική πώληση ειδών σε σχέση με τρόφιμα, ποτά και είδη ευρείας κατανάλωσης· Οργάνωση και παρουσίαση ειδών τρίτων· Επιχειρηματική διαμεσολάβηση με αγορά και πώληση προϊόντων· Παροχή επιγραμμικής βάσης δεδομένων με δυνατότητα αναζήτησης προϊόντων τρίτων για υπηρεσίες προώθησης· Υπηρεσίες επιχειρηματικής διαμεσολάβησης για την αγορά και πώληση ειδών· Υπηρεσίες παραγγελιών επί γραμμής μέσω ηλεκτρονικού υπολογιστή· Προγράμματα πελατειακής πίστης· Δημιουργία ευρετηρίων πληροφοριών για εμπορική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Online retail and wholesale services provided through a global computer network relating to food, beverages and goods for personal hygiene and household hygiene; computerized online ordering services for the retail and wholesale of goods relating to food, beverages and consumer goods; organization and presentation of articles from others; intermediary business services for sale and purchase of products; providing a searchable online database relating to third-party products for promotional services; business intermediary services for sale and purchase of goods; online computer orders; consumer loyalty program; compiling indexes of information for commercial purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de venta minorista y mayorista en línea prestados a través de una red informática mundial de alimentos, bebidas y productos de higiene personal e higiene doméstica; Servicios informatizados de pedidos en línea para la venta mayorista y minorista de alimentos, bebidas y productos de consumo; Organización y presentación de artículos de terceros; Intermediarios de negocios en la compra y la venta de productos; Facilitación de una base de datos consultable en línea relacionada con productos de terceros para fines promocionales; Servicios de intermediario de negocios para la compraventa de productos; Pedidos en línea informáticos; Programas de fidelidad de consumidores; Compilación de índices de información con fines comerciales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toidu, jookide ning isikliku ja majapidamishügieeniga seotud sidusad jae- ja hulgimüügiteenised, mida pakutakse ülemaailmse arvutivõrgu kaudu; Toidu, jookide ja tarbekaupade jae- ja hulgimüügiga seotud arvutistatud sidustellimisteenused; Kolmandate isikute kaupade korrastamine ja esitlemine; Ärivahendus koos toodete ostmise ja müümisega; Kolmandate isikute müügiedendustoodetega seotud otsivõimalustega veebiandmebaasi pakkumine; Kaupade müügi ja ostu ärivahendusteeenused; Arvutipõhine sidustellimine; Püsikliendiprogrammid; Äriteaberegistrite koostamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Maailmanlaajuisen tietokoneverkon kautta tarjottavat online-vähittäis- ja -tukkumyyntipalvelut, jotka liittyvät ruokaan, juomiin sekä henkilökohtaiseen hygieniaan ja kotitalouden hygieniaan tarkoitettuihin tavaroihin; Tietokoneistetut online-tilauspalvelut ruokaan, juomaan ja kulutustavaroihin liittyvien tavaroiden vähittäis- ja tukkumyyntiä varten; Muiden tahojen tuotteiden järjestäminen ja esittely; Tuotteiden ostoon ja myyntiin liittyvä kaupallinen välitys; Kolmansien osapuolten tuotteita sisältävän online-hakutietokannan tarjoaminen myynninedistämispalveluja varten; Liiketoiminnan välityspalvelut tavaroiden myymistä ja ostamista varten; Tietokoneistettu online-periaatteella suoritettava tilaus; Kanta-asiakasohjelmat; Tietoluettelojen kokoaminen kaupallisiin tarkoituksiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services d'un magasin de vente au détail et en gros en ligne, par le biais d'un réseau informatique mondial, d'aliments, de boissons et de produits pour l'hygiène personnelle et l'hygiène ménagère; Services de commande en ligne informatisée pour la vente au détail et en gros de produits en lien avec des aliments, boissons et produits de consommation; Organisation et présentation d'articles de tiers; Intermédiaires commerciaux pour l'achat et la vente de produits; Fourniture d'une base de données explorable en ligne relative à des produits de tiers pour des services promotionnels; Services d'intermédiaires commerciaux pour la vente et l'achat de produits; Commande en ligne par ordinateur; Programmes de fidélisation de la clientèle; Compilation de répertoires d'informations à usage commercial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge mrežne maloprodaje i veleprodaje pružene putem globalne računalne mreže u vezi s hranom, pićima i proizvodima za osobnu higijenu te kućansku higijenu; Računalne usluge mrežnog naručivanja za maloprodaju i veleprodaju proizvoda povezane s hranom, pićima i potrošačkim proizvodima; Organizacija i predstavljanje predmeta drugih; Poslovno posredovanje za kupoprodaje proizvoda; Ponuda pretražive mrežne baze podataka u vezi s proizvodima trećih strana za usluge promidžbe; Usluge poslovnog posredovanja za prodaju i kupovinu proizvoda; Računalno naručivanje na mreži; Programi za vjernost kupaca; Sastavljanje indeksa informacija za komercijalne potrebe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Online kis- és nagykereskedelmi szolgáltatások globális számítógépes hálózaton keresztül ételekkel, italokkal, valamint személyes higiéniai és háztartási higiéniai termékekkel kapcsolatban; Számítógépes online rendelési szolgáltatások ételekkel, italokkal és fogyasztási cikkekkel kapcsolatos termékek kis- és nagykereskedelmére; Mások cikkeinek szervezése és bemutatása; Üzleti közvetítés termékek vásárlásával és értékesítésével; Kereshető online adatbázis biztosítása harmadik fél termékeihez promóciós célokra; Üzleti közvetítő szolgáltatások termékek értékesítéséhez és vásárlásához; Számítógépesített online rendelési szolgáltatások; Vásárlói hűségprogramok; Kereskedelmi célú információs indexek összeállítása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di vendita al dettaglio e all'ingrosso online forniti attraverso una rete informatica globale relativa a prodotti alimentari, bevande e prodotti per l'igiene personale e l'igiene della casa; Servizi di ordinazione online computerizzati per la vendita al dettaglio e all'ingrosso di prodotti alimentari, bevande e beni di consumo; Organizzazione e presentazione di prodotti di terzi; Intermediari commerciali per l'acquisto e la vendita di prodotti; Fornitura di una banca dati di ricerca online relativa a prodotti di terzi per servizi promozionali; Servizi di intermediazione commerciale per la vendita e l'acquisto di merci; Ordinazioni informatiche on line; Programmi fedeltà per clienti; Compilazione di indici d'informazioni per scopi commerciali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mažmeninės ir didmeninės prekybos internetu paslaugos, teikiamos per pasaulinį kompiuterių tinklą, susijusios su maistu, gėrimais ir asmeninės bei buitinės higienos prekėmis; Kompiuterizuotos internetinės užsakymo paslaugos mažmeninei ir didmeninei prekybai prekėmis, susijusiomis su maistu, gėrimais ir vartojimo prekėmis; Trečiųjų straipsnių organizavimas ir pristatymas; Verslo tarpininkavimas perkant ir parduodant produktus; Internetinės duomenų bazės, susijusios su trečiosiomis šalimis, reklaminių paslaugų teikimas; Tarpininkavimo paslaugos, susijusios su prekių pardavimu ir pirkimu; Kompiuterinių užsakymų per internetą paslaugos; Klientų lojalumo programos; Informacijos rodyklių komercijos reikmėms rengimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Tiešsaistes mazumtirdzniecības un vairumtirdzniecības pakalpojumi, kas tiek nodrošināti, izmantojot globālo datortīklu saistībā ar pārtiku, dzērieniem un personīgās higiēnas un mājsaimniecības higiēnas precēm; Datorizēti tiešsaistes pasūtīšanas pakalpojumi preču, kas saistītas ar pārtiku, dzērieniem un patēriņa precēm, mazumtirdzniecībai un vairumtirdzniecībai; Trešo personu rakstu organizēšana un prezentēšana; Biznesa starpniecība produktu pārdošanā un iepirkšanā; Tiešsaistes datu bāzes nodrošināšana, kas attiecas uz trešo personu produktiem reklāmas pakalpojumiem; Uzņēmējdarbības starpniecības pakalpojumi preču pirkšanai un pārdošanai; Datorizēta tiešsaistes pasūtīšana; Patērētāju lojalitātes programmas; Informācijas indeksu apkopošana komerciālos nolūkos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' bejgħ bl-imnut u ta' bejgħ bl-ingrossa onlajn ipprovduti permezz ta' netwerk informatiku globali marbuta mal-ikel, xorb u oġġetti għall-iġjene personali u għall-iġjene fid-dar; Servizzi kompjuterizzati ta' ordnijiet onlajn għall-bejgħ bl-imnut u bl-ingrossa ta' oġġetti marbuta mal-ikel, xorb u oġġetti tal-konsumatur; L-organizzazzjoni u l-preżentazzjoni ta' artikli minn partijiet terzi; Negozju intermedjarju għax-xiri u l-bejgħ ta' prodotti; Il-provvista ta' bank ta' data onlajn li wieħed jista' jfittex fiha marbuta ma' prodotti ta' partijiet terzi għal servizzi promozzjonali; Servizzi ta' intermedjarji fin-negozju għall-bejgħ u x-xiri ta' oġġetti; Ordnijiet kompjuterizzati onlajn; Programmi ta' lealtà tal-konsumaturi; Kumpilazzjoni ta' indiċijiet ta' informazzjoni għal skopijiet kummerċjali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Onlinedetail- en groothandel, aangeboden via een wereldwijd computernetwerk, op het gebied van voedsel, dranken en artikelen voor de persoonlijke hygiëne en de huishoudelijke hygiëne; Geautomatiseerde onlinebesteldiensten voor de detail- en groothandel in waren op het gebied van voedsel, dranken en consumptiegoederen; Het organiseren en presenteren van artikelen van derden; Merchandising; Het aanbieden van een doorzoekbare onlinedatabase met producten van derden voor promotionele doeleinden; Zakelijke bemiddeling bij de inkoop en verkoop van waren; Geautomatiseerde onlinebesteldiensten; Klantenbindingsacties; Het samenstellen van indexen met informatie voor commerciële doeleinden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi handlu detalicznego i handlu hurtowego online świadczone przez światową sieć komputerową w związku z żywnością, napojami i towarami do higieny osobistej i dbania o dom; Skomputeryzowane usługi zamawiania online w zakresie handlu detalicznego i hurtowego towarami w związku z żywnością, napojami i towarami konsumenckimi; Organizowanie i prezentowanie artykułów na rzecz innych osób; Pośrednictwo w zakupach i sprzedaży; Udostępnianie bazy danych online z możliwością przeszukiwania produktów innych osób do celów promocyjnych; Usługi pośrednictwa handlowego w zakresie sprzedaży i kupna towarów; Skomputeryzowane składanie zamówień online; Konsumenckie programy lojalnościowe; Kompilowanie indeksów informacyjnych w celach handlowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de venda a retalho e por grosso em linha, prestados através de uma rede informática mundial, de alimentos, bebidas e produtos para a higiene pessoal e para a limpeza da casa; Serviços de encomenda informatizada em linha para a venda a retalho e por grosso de produtos relacionados com alimentos, bebidas e produtos de consumo; Organização e apresentação de artigos de terceiros; Mediação de negócios comerciais através da compra e venda de produtos; Fornecimento de uma base de dados pesquisável em linha de produtos de terceiros para serviços promocionais; Serviços de intermediário comercial para a venda e compra de produtos; Encomendas informatizadas em linha; Programas de fidelização de consumidores; Compilação de índices de informações para fins comerciais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii online asigurate de vânzare cu amănuntul și de vânzare cu ridicata printr-o rețea informatică mondială în legătură cu alimente, băuturi și produse pentru igiena personală și igiena casei; Servicii de comenzi online pe calculator pentru comerțul cu amănuntul și cu ridicata cu produse referitoare la alimente, băuturi și produse de larg consum; Organizare și prezentare de articole de la alte persoane; Intermediere de afaceri pentru achiziţionarea şi vânzarea de produse; Furnizarea unei baze de date online cu funcție de căutare referitoare la produsele terților pentru servicii promoționale; Servicii de intermediere în afaceri pentru vânzarea și cumpărarea de produse; Comenzi online prin intermediul calculatorului; Programe de fidelitate clienţi; Compilarea de indexuri de informaţii în scopuri comerciale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">On-line maloobchodné a veľkoobchodné služby poskytované prostredníctvom počítačových sietí v oblasti jedla, nápojov a tovaru pre oblasť osobnej hygieny a hygieny v domácnosti; Počítačové on-line objednávkové služby pre maloobchodný a veľkoobchodný predaj tovaru v oblasti jedla, nápojov a spotrebného tovaru; Organizovanie a prezentácia výrobkov od klientov; Podnikateľský sprostredkovateľ pre nákup a predaj tovaru; Poskytovanie on-line prehľadávateľnej databázy produktov tretích strán pre propagačné služby; Obchodné sprostredkovateľské služby pre predaj a nákup tovaru; Počítačové on-line objednávanie; Zákaznícke vernostné programy; Zostavovanie informačných zoznamov na komerčné účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve spletne maloprodaje in veleprodaje prek svetovnega računalniškega omrežja v zvezi s hrano, pijačo in izdelki za osebno higieno in nego gospodinjstva; Računalniške spletne storitve naročanja za maloprodajo in veleprodajo izdelkov v zvezi s hrano, pijačo in potrošniškimi izdelki; Organizacija in predstavitev izdelkov drugih; Poslovno posredništvo pri nabavi in prodaji izdelkov; Nudenje iskalne spletne baze podatkov v zvezi z izdelki tretjih oseb za promocijske storitve; Storitve poslovnega posredovanja pri prodaji in nakupu izdelkov; Računalniško podprto spletno naročanje; Programi za zvestobo potrošnikov; Zbiranje indeksov informacij v komercialne namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Direktanslutna detalj- och partihandelstjänster tillhandahållna via ett globalt datornät avseende mat, drycker och varor för personlig hygien och hushållshygien; Datoriserade direktanslutna beställningstjänster för detaljhandel och grosshandel med varor avseende mat, drycker och konsumentvaror; Organisering och presentation av andras artiklar; Företagsmellanhänder för inköp och försäljning av varor; Tillhandahållande av en direktansluten sökbar databas avseende tredje partsprodukter för säljfrämjande tjänster; Företagsmellanhandstjänster för försäljning och inköp av varor; Datoriserad direktansluten beställning; Konsumentlojalitetsprogram; Sammanställning av informationsindex för kommersiella ändamål.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>36</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Разплащателни услуги за електронен портфейл; Услуги за електронни плащания; Услуги за електронно търговско разплащане; Електронна обработка на плащания за покупка на стоки и услуги чрез глобална компютърна мрежа.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Platební služby elektronické peněženky; Elektronické platební služby; Platební služby pro elektronický obchod; Elektronické zpracování plateb za nákup výrobků a služeb prostřednictvím globální počítačové sítě.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Betalingsservice vedrørende elektroniske punge; Elektroniske betalingstjenester; Betalingsservice i forbindelse med elektronisk handel; Elektronisk behandling af betalinger for køb af varer og tjenesteydelser via et elektronisk computernetværk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Finanzdienstleistungen auf dem Gebiet des elektronischen Zahlungsverkehrs; Elektronische Zahlungsdienste; Zahlungsdienste für den elektronischen Handel; Elektronische Bearbeitung von Zahlungen für den Kauf von Waren und Dienstleistungen über ein weltweites Computernetz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες πληρωμών με ηλεκτρονικό πορτοφόλι· Υπηρεσίες ηλεκτρονικής πληρωμής· Υπηρεσίες πληρωμών ηλεκτρονικού εμπορίου· Ηλεκτρονική επεξεργασία πληρωμών για την αγορά προϊόντων και υπηρεσιών μέσω παγκόσμιου δικτύου ηλεκτρονικών υπολογιστών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">E-wallet payment services; electronic payment services; electronic commerce payment services; electronic processing of payments for the purchase of goods and services via a global computer network.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de pago de monedero electrónico; Servicios de pago electrónico; Servicios de pago para el comercio electrónico; Procesamiento de pagos electrónicos por la compra de productos y servicios a través de una red informática mundial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Elektroonilise rahakoti teenused (makseteenused); Elektroonilised makseteenused; Elektronkaubanduse makseteenused; Kaupade ja teenuste ostumaksete elektrooniline töötlemine ülemaailmse arvutivõrgu kaudu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sähköiseen lompakkoon liittyvät maksupalvelut; Elektroniset maksupalvelut; Sähköisen kaupankäynnin maksupalvelut; Sellaisten maksujen käsittely, jotka liittyvät tavaroiden ja palvelujen ostamiseen maailmanlaajuisen tietokoneverkon välityksellä.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de paiement par portefeuille électronique; Services de paiement électronique; Services de paiements pour le commerce électronique; Traitement électronique de paiements pour l'achat de produits et services par le biais d'un réseau informatique mondial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge plaćanja elektroničkim novčanikom; Usluge elektroničkog plaćanja; Usluge elektroničkog komercijalnog plaćanja; Elektronička obrada plaćanja za kupnju proizvoda i usluga putem globalne računalne mreže.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">E-pénztárca fizetési szolgáltatások; Elektronikus fizetési szolgáltatások; Elektronikus kereskedelmi fizetési szolgáltatások; Áruk és szolgáltatások globális számítógépes hálózaton keresztüli vásárlásának elektronikus feldolgozása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di pagamento di portafoglio elettronico; Servizi di pagamento elettronico; Servizi di pagamento per il commercio elettronico; Elaborazione elettronica dei pagamenti per l'acquisto di beni e servizi tramite una rete informatica globale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Elektroninės piniginės mokėjimo paslaugos; Elektroninio mokėjimo paslaugos; Elektroninės prekybos mokėjimo paslaugos; Elektroninis prekių ir paslaugų pirkimo per pasaulinį kompiuterių tinklą apdorojimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Elektroniskās tirdzniecības maksājumu pakalpojumi; Elektronisko maksājumu pakalpojumi; Elektroniskās komercijas maksājumu pakalpojumi; Maksājumu elektroniska apstrāde par precēm un pakalpojumiem, izmantojot globālo datortīklu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' ħlas e-wallet; Servizzi ta' ħlas b'mezz elettroniku; Servizzi kummerċjali ta' ħlas elettroniku; L-ipproċessar elettroniku ta' pagamenti għax-xiri ta' oġġetti u servizzi permezz ta' netwerk informatiku globali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diensten verband houdend met betalingen middels elektronische portemonnees; Diensten op het gebied van elektronische betaling; Betaaldiensten op het gebied van elektronische handel; Elektronische verwerking van betalingen voor de aankoop van goederen en diensten via een wereldwijd computernetwerk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi płatności w zakresie e-portfela; Usługi w zakresie elektronicznych płatności; Usługi płatności w handlu elektronicznym; Przetwarzanie płatności elektronicznych za zakup towarów i usług za pośrednictwem światowej sieci komputerowej.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de pagamentos de carteira eletrónica; Serviços de pagamento eletrónico; Serviços de pagamento de comércio eletrónico; Processamento eletrónico de pagamentos referentes à compra de produtos e serviços através de uma rede informática mundial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de plăți cu portofel electronic; Servicii de plată electronică; Servicii de plată prin comerţ electronic; Procesarea electronică a plăților pentru cumpărarea de produse și servicii dintr-o rețea globală de calculatoare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Platobné služby prostredníctvom elektronických peňaženiek; Elektronické platobné služby; Platobné služby v elektronickom obchode; Elektronické spracovanie platieb za nákup tovaru a služieb prostredníctvom globálnej počítačovej siete.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve plačevanja z e-denarnico; Elektronske plačilne storitve; Storitve plačevanja pri elektronskem poslovanju; Elektronska obdelava plačil za nakup izdelkov in storitev prek svetovnega računalniškega omrežja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">E-plånboksbetalningstjänster; Elektroniska betalningstjänster; Betalningstjänster avseende elektronisk handel; Elektronisk behandling av betalningar för köp av varor och tjänster via ett globalt datornätverk.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Проектиране и разработване на приложен софтуер за търговия на едро и на дребно със стоки; Платформа като услуга [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Navrhování a vývoj aplikačního softwaru pro velkoobchodní a maloobchodní prodej výrobků; Platforma jako služba (PAAS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Design og udvikling af en applikationssoftware til engros- og detailsalg af varer; Platform as a Service [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Entwurf und Entwicklung einer Anwendungssoftware für den Groß- und Einzelhandel mit Waren; Platform as a Service [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σχεδιασμός και ανάπτυξη λογισμικού εφαρμογών για τη χονδρική και λιανική πώληση ειδών· Παροχή πλατφόρμας ως υπηρεσίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Design and development of an application software for the wholesale and retail of goods; platform as a service [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Diseño y desarrollo de una aplicación de software para la venta mayorista y minorista de productos; Plataforma como servicio [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kaupade jae- ja hulgimüügi rakendustarkvara projekteerimine ja arendamine; Platvorm teenusena [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tavaroiden tukkumyyntiin ja vähittäismyyntiin tarkoitettujen sovellusohjelmistojen suunnittelu ja kehittäminen; Sovellusalusta palveluna (PaaS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Conception et développement d'un logiciel d'application pour la vente en gros et au détail de produits; Plateforme informatique en tant que service [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dizajn i razvoj aplikacijskog softvera za veleprodaju i maloprodaju proizvoda; Platforma kao usluga (PaaS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Alkalmazásszoftver tervezése és fejlesztése áruk nagy- és kiskereskedelméhez; Platform-mint-szolgáltatás (PAAS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Progetto e sviluppo di un software applicativo per la vendita all'ingrosso e al dettaglio di merci; Piattaforma come servizio [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Taikomosios programinės įrangos didmeninės ir mažmeninės prekybos prekėmis projektavimas ir tobulinimas; Platforma kaip paslauga [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Preču vairumtirdzniecības un mazumtirdzniecības programmatūras dizains un izstrāde; Platforma kā pakalpojums (PAAS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Id-disinn u l-iżvilupp ta' softwer ta' applikazzjoni għall-bejgħ bl-ingrossa u bl-imnut ta' oġġetti; Pjattaforma bħala Servizz (PAAS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ontwerp en ontwikkeling van applicatiesoftware voor de detail- en groothandel in waren; Platform als een dienst (PaaS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Projektowanie i rozwój oprogramowania użytkowego w zakresie handlu hurtowego i detalicznego towarami; Platforma jako usługa [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Conceção e desenvolvimento de software aplicativo para a venda por grosso e a retalho de produtos; Plataformas como um serviço [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Crearea și dezvoltarea unui software de aplicații pentru vânzarea cu ridicata și cu amănuntul de produse; Platformă ca serviciu [PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Návrh a vývoj softvérovej aplikácie pre veľkoobchodný a maloobchodný predaj tovaru; Platforma ako služba (Paas).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oblikovanje in razvoj aplikacijske programske opreme za veleprodajo in maloprodajo izdelkov; Platforma kot storitev[PaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Formgivning och utveckling av en applikationsprogramvara för grosshandel och detaljhandel med varor; Plattform som en tjänst (PAAS).</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/104</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>161519</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>50991</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003129957</OppositionIdentifier>
+<OppositionDate>2020-09-01</OppositionDate>
+<ProceedingLanguageCode>es</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>018187595</ApplicationNumber>
+<ApplicationDate>2020-01-23</ApplicationDate>
+<RegistrationNumber>018187595</RegistrationNumber>
+<RegistrationDate>2020-06-03</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>WABI</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>1026903</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>36405</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

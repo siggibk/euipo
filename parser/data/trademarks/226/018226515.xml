@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:39</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226515</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226515</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>TEMIZ</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>1</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Полимери използвани в процеси на сепарация.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Polymery používané v separačních procesech.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Polymerer til anvendelse i separationsprocesser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Polymere für Trennverfahren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Πολυμερή για χρήση σε διεργασίες διαχωρισμού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Polymers used in separation processes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Polímeros utilizados en procesos de separación.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Eraldusprotsessides kasutatavad polümeerid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Polymeerit erotteluprosesseihin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Polymères destinés à des processus de séparation.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Polimeri koji se koriste u procesima razdvajanja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Polimerek elválasztási folyamatok során történő felhasználásra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Polimeri per processi di separazione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Polimerai, naudojami atskyrimo procesuose.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Atdalīšanas procesos izmantotie polimēri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Polimeri użati fi proċessi ta' separazzjoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Polymeren voor gebruik bij scheidingsprocessen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Polimery do użytku w procesach separacji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Polímeros usados em processos de separação.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Polimeri folosiți la procesele de separare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Polyméry pre oddeľovacie procesy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Polimeri, ki se uporabljajo v separacijskih postopkih.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Polymerer för användning vid separationsprocesser inom industrin.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080429</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

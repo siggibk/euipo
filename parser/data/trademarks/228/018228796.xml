@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-27T08:34:18</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228796</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228796</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-09-03</RegistrationDate>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Flashdry</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Фармацевтични и ветеринарни препарати; Хигиенни препарати за медицински цели; Хигиенни меки подложки; Санитарни артикули за менструация, включително дамски превръзки, обшивки за бельо, превръзки за менструация, тампони, санитарни кюлоти, лигнин за санитарни цели, които не са включени в други класове; Превръзки при инконтиненция; Пелени за изпускащи се хора; Гащи, абсорбиращи, за хора, страдащи от инконтиненция; Пелени и панталонки за бебета и малки деца,; Вложки за пелени за еднократна употреба; Диетични вещества за медицински цели; Храна за бебета; Пластири, превързочни материали.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Farmaceutické a veterinářské výrobky; Hygienické přípravky k léčebným účelům; Hygienické vložky; Hygienické výrobky pro menstruaci, jmenovitě dámské vložky, vložky do kalhotek, menstruační vložky, tampony, menstruační kalhotky, ubrousky pro hygienické účely nezařazené do jiných tříd; Vložky hygienické pro inkontinentní osoby; Inkontinenční pleny; Absorpční kalhotky pro inkontinentní pacienty; Plenky a plenkové kalhotky pro batolata a malé děti; Vložky do plen na jedno použití; Dietetické látky pro léčebné účely; Potraviny pro batolata; Náplasti, obvazový materiál.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Farmaceutiske og veterinærmedicinske præparater; Sanitære præparater til medicinske formål; Menstruationsbind; Hygiejneartikler til menstruation, inklusive hygiejnebind, trusseindlæg, menstruationsbind, tamponer, hygiejnebukser, servietter til sanitære formål, ikke indeholdt i andre klasser; Inkontinensbind; Bleer til inkontinens; Absorberende inkontinensbenklæder; Bleer og blebukser til spædbørn og små børn; Engangsindlæg til bleer; Diætetiske substanser tilpasset medicinsk brug; Mad til spædbørn; Plastre, forbindsstoffer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Pharmazeutische und veterinärmedizinische Erzeugnisse; Medizinische Hygienepräparate; Monatsbinden; Sanitärartikel für die Menstruation, einschließlich Damenbinden, Slipeinlagen, Menstruationseinlagen, Tampons, Monatshöschen, Tücher für sanitäre Zwecke, soweit sie nicht in anderen Klassen enthalten sind; Inkontinenzeinlagen; Inkontinenzwindeln; Saugfähige Inkontinenzhosen; Windeln und Windelhöschen für Babys und Kleinkinder; Wegwerfeinlagen für Windeln; Diätische Substanzen für medizinische Zwecke; Säuglingsanfangsnahrung; Pflaster.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παρασκευάσματα φαρμακευτικά και κτηνιατρικά· Παρασκευάσματα υγιεινής για ιατρικές χρήσεις· Σερβιέτες υγιεινής· Προϊόντα υγιεινής για την έμμηνο ρύση, όπου περιλαμβάνονται σερβιέτες, σερβιετάκια, επιθέματα εμμήνου ρύσης, ταμπόν, σερβιετάκια υγιεινής, μαντιλάκια υγιεινής μη περιλαμβανόμενα σε άλλες κλάσεις· Επιθέματα ακράτειας· Πάνες υγιεινής για την ακράτεια· Κυλόττες υγιεινής για την ακράτεια· Πάνες και πάνες-βρακάκια για μωρά και μικρά παιδιά· Επενδύσεις μίας χρήσης για πάνες· Διαιτητικές ουσίες προσαρμοσμένες για ιατρικές χρήσεις· Βρεφικές/Παιδικές τροφές· Λευκοπλάστης με γάζα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Pharmaceutical and veterinary preparations; Sanitary preparations for medical purposes; Menstruation bandages; Sanitary articles for menstruation, including sanitary towels, panty liners, menstruation pads, tampons, sanitary panties, tissues for sanitary purposes not included in other classes; Incontinence pads; Incontinence diapers; Pants, absorbent, for incontinents; Nappies and nappy pants for babies and infants; Disposable nappy liners; Dietetic substances adapted for medical use; Infant formula; Plasters, materials for dressings.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Productos farmacéuticos y veterinarios; Productos higiénicos y sanitarios para uso médico; Paños menstruales; Artículos higiénicos para la menstruación, incluyendo compresas, protege-slips, paños para la menstruación, tampones, bragas higiénicas, pañuelos con una finalidad higiénica que no se incluyan en otras clases; Compresas para incontinentes; Pañales higiénicos para la incontinencia; Bragas absorbentes para la incontinencia; Pañales y pañales-braga para bebés y niños pequeños; Forros desechables para pañales; Sustancias dietéticas para uso médico; Preparaciones alimenticias para bebés; Emplastos, material para apósitos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Farmaatsia- ja veterinaariapreparaadid; Meditsiinilised hügieenitarbed; Hügieenisidemed; Menstruatsiooniaegsed hügieenitooted, sh hügieenisidemed, pesukaitsmed, hügieenipadjad, tampoonid, hügieenipüksikud, hügieenirätid, mis ei kuulu teistesse klassidesse; Pidamatushaigete sidemed; Pidamatushaigete mähkmed; Pidamatushaigete imavad püksikud; Imikute ja väikelaste mähkmed ja mähkmepüksid; Ühekordselt kasutatavad mähkmevoodrid; Meditsiinilised dieetained; Imikutoit; Plaastrid, sidemematerjalid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Farmaseuttiset ja eläinlääkintävalmisteet; Terveydenhoitovalmisteet lääkinnälliseen käyttöön; Terveyssiteet; Naisten kuukautissuojatuotteet, mukaan lukien terveyssiteet, pikkuhousunsuojat, vuototyynyt, tamponit, vaippahousut, saniteettikäyttöön tarkoitetut siteet, jotka eivät sisälly muihin luokkiin; Inkontinenssityynyt; Inkontinenssivaipat; Pidätyskyvyttömille tarkoitetut vaippahousut, imukykyiset; Vaipat ja vaippahousut vauvoille ja pikkulapsille; Kertakäyttöiset vaipansuojat; Dieettivalmisteet lääkinnälliseen käyttöön; Vauvanruoat; Laastarit, sidontatarvikkeet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Produits pharmaceutiques et vétérinaires; Produits hygiéniques à usage médical; Bandes périodiques; Articles hygiéniques pour la menstruation, y compris serviettes hygiéniques, protège-slips, tampons, culottes périodiques, serviettes à usage hygiénique non compris dans d'autres classes; Couches d'incontinence; Couches hygiéniques pour personnes incontinentes; Culottes hygiéniques pour incontinents; Couches et couches-culottes pour bébés et jeunes enfants; Doublures jetables pour langes; Substances diététiques à usage médical; Préparations alimentaires pour nourrissons; Emplâtres, matériel pour pansements.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Farmaceutski i veterinarski proizvodi; Higijenski pripravci za medicinsku uporabu; Higijenski ulošci; Higijenski artikli za menstruaciju, uključujući higijenske uloške, dnevne uloške, tampone i higijenske gaćice; Ulošci za inkontinenciju; Pelene za inkontinenciju; Upijajuće gaćice za inkontinenciju; Pelene i nepromočive gaćice-pelene za bebe i malu djecu; Jednokratni ulošci za pelene; Dijetne tvari za medicinske potrebe; Hrana za bebe; Flasteri, zavojni materijali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyógyszerészeti és állatgyógyászati készítmények; Higiéniai termékek gyógyászati célokra; Menstruációs betétek; Egészségügyi cikkek menstruációhoz, többek között egészségügyi törlőkendők, tisztasági betétek, intimbetétek, tamponok, tisztasági fehérnemű, kendők egészségügyi célokra, amelyek nem tartoznak más osztályokba; Inkontinencia betétek; Inkontinencia pelenkák; Egészségügyi nedvszívó nadrágok inkontinenciában szenvedőknek; Pelenkák és pelenkanadrágok babák és kisgyermekek számára; Eldobható pelenkabetétek; Diétás anyagok gyógyászati használatra; Bébiételek; Tapaszok, kötszeranyagok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Prodotti farmaceutici e veterinari; Prodotti igienici per scopi medici; Assorbenti periodici; Articoli sanitari per mestruazioni, compresi assorbenti igienici, salvaslip, assorbenti interni, pannolini igienici, mutandine igieniche, salviette per uso igienico non comprese in altre classi; Assorbenti per l'incontinenza; Pannolini igienici per persone incontinenti; Mutande igieniche per persone incontinenti; Pannolini e pannolini a mutandina per neonati e bambini piccoli; Fodere per pannolini monouso; Sostanze dietetiche per uso medico; Prodotti alimentari per lattanti; Cerotti [medicazioni].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Farmacijos ir veterinarijos preparatai; Higienos preparatai medicinos reikmėms; Mėnesinių raiščiai; Higieniniai mėnesinių reikmenys, įskaitant higieninius rankšluosčius, įklotus, mėnesinių tamponus, tamponus, higienines kelnaites, servetėles higienos reikmėms, nepriskirtas prie kitų klasių; Šlapimo nelaikančiųjų įklotai; Nelaikančiųjų sauskelnės; Nelaikančiųjų sugeriamosios kelnaitės [sauskelnės]; Kūdikių ir mažų vaikų sauskelnės (segamos ir maunamos); Vienkartiniai vystyklų įklotai; Dietinės medžiagos (medicinos reikmėms); Kūdikių maistas; Pleistrai, tvarsliava.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Farmaceitiskie un veterinārie preparāti; Higiēnas līdzekļi medicīniskiem nolūkiem; Sieviešu higiēniskās paketes; Sanitāri izstrādājumi menstruācijām, tostarp higiēnas dvieļi, biksīšu ieliktnīši, sanitārie tamponi, higiēnas biksītes, salvetes sanitāriem nolūkiem, kas nav iekļautas citās klasēs; Paketes urīna un fēču nesaturēšanas gadījumiem; Pieaugušo autiņi inkontinences gadījumiem; Absorbējošas biksītes inkontinences gadījumiem; Autiņi un autiņbiksītes zīdaiņiem un maziem bērniem; Vienreizlietojamo autiņu ieliktnīši; Diētiskas vielas medicīniskiem nolūkiem; Maisījumi zīdaiņiem; Plāksteri, pārsienamie materiāli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preparazzjonijiet farmaċewtiċi u veterinarji; Preparazzjonijiet sanitarji għal skopijiet mediċi; Faxex tal-mestrwazzjoni; Oġġetti sanitarji għall-mestrwazzjoni, inklużi xugamani sanitarji, pentilajners, peds għall-mestrwazzjoni, tampuni, qliezet ta' taħt sanitarji, tixus għal skopijiet sanitarji mhux inklużi fi klassijiet oħra; Peds għall-inkontinenza; Ħrieqi għall-inkontinenza; Qliezet assorbenti, tal-inkontinenza; Ħrieqi u qliezet tat-trabi u tfal żgħar; Inforor għall-ħrieqi li jintremew; Sustanzi djetetiċi addattati għall-użu mediku; Ikel għat-trabi; Impjastri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Farmaceutische en diergeneeskundige producten; Hygiënische producten voor medisch gebruik; Damesverband; Hygiënische artikelen voor de menstruatie, waaronder maandverband, inlegkruisjes, tampons en menstruatiebroekjes; Incontinentieverband; Luiers voor incontinenten; Absorberende broekjes voor incontinenten; luiers en luierbroekjes voor baby's en kleine kinderen; Wegwerpinleggers voor luiers; Diëtische substanties voor medisch gebruik; Voedingsmiddelen voor zuigelingen; Pleisters, verbandmiddelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Produkty farmaceutyczne i weterynaryjne; Preparaty higieniczne do celów medycznych; Podpaski higieniczne; Artykuły higieniczne i sanitarne dla kobiet, w tym ręczniki higieniczne, wkładki higieniczne, podpaski, tampony, majtki higieniczne, chusteczki do celów higienicznych, nieujęte w innych klasach; Podpaski dla osób cierpiących na inkontynencję; Pieluchy dla osób cierpiących na inkontynencję; Majtki chłonne dla osób cierpiących na inkontynencję; Pieluchy i pieluchomajtki dla niemowląt i małych dzieci; Jednorazowe wkładki do pieluch; Dietetyczne substancje przystosowane do celów medycznych; Żywność dla niemowląt; Plastry, materiały opatrunkowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Preparações farmacêuticas e veterinárias; Produtos higiénicos para uso médico; Pensos higiénicos; Artigos higiénicos para a menstruação, incluindo toalhas higiénicas, pensinhos diários, pensos higiénicos, tampões, cuecas higiénicas, toalhetes para fins higiénicos não incluídos noutras classes; Compressas para incontinência; Fraldas higiénicas para incontinência; Cuecas absorventes para incontinência; Fraldas e fraldas-cueca para bebés e crianças pequenas; Protetores descartáveis para fraldas; Substâncias dietéticas para uso medicinal; Preparações alimentares para bebés; Emplastros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Produse farmaceutice şi veterinare; Produse igienice pentru medicină; Prosoape sanitare; Articole sanitare pentru menstruatie, inclusiv servetele sanitare, absorbante, tampoane pentru menstruatie, tampoane, lenjerie sanitara, servetele pentru scopuri sanitare care nu sunt incluse in alte clase; Tampoane pentru persoanele care suferă de incontinență; Incontinență (Scutece igienice pentru -); Chiloți absorbanți pentru incontinență; Scutece şi scutece sub formă de chilot pentru bebeluşi şi copii mici; Căptușeli de unică folosință pentru scutece; Dietetice (substanțe - de uz medical); Alimente pentru bebeluși; Plasturi, materiale pentru pansamente.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Farmaceutické, zverolekárske výrobky; Hygienické prípravky na lekárske použitie; Menštruačné vložky; Hygienické menštruačné výrobky, menovite hygienické vložky, menštruačné vložky, tampóny, hygienické nohavičky, vreckovky na hygienické účely, ktoré nie sú zaradené do iných tried; Inkontinenčné vložky; Hygienické vložky pre osoby postihnuté inkontinenciou; Absorpčné nohavičky pre osoby postihnuté inkontinenciou; Plienky a plienkové nohavičky pre bábätká a malé deti; Jednorazové vložky do plienok; Diétne látky na lekárske použitie; Potraviny pre batoľatá; Náplasti, obväzový materiál.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Farmacevtski in veterinarski proizvodi; Sanitarni pripravki za medicinske namene; Menstruacijski vložki; Sanitarni proizvodi za menstruacijo, vključno higienski vložki, ščitniki perila, menstruacijski vložki, tamponi, higienske hlačke, robčki za sanitarne namene, ki jih ne obsegajo drugi razredi; Vložki za inkontinenco; Plenice za osebe z inkontinenco; Vpojne hlačke za inkontinenco; Plenice in hlačne plenice za dojenčke in majhne otroke; Vložki za enkratno uporabo za plenice; Dietetične snovi za medicinsko uporabo; Hrana za dojenčke; Obliži, obvezilni material.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Farmaceutiska och veterinära preparat; Hygieniska preparat för medicinska ändamål; Menstruationsbindor; Sanitära artiklar för menstruation, inkluderande dambindor, trosskydd, menstruationsdynor, tamponger, sanitetstrosor, servetter för sanitära ändamål ej ingående i andra klasser; Bindor för inkontinenta; Blöjor för inkontinens; Byxblöjor för inkontinens; Blöjor och blöjbyxor för spädbarn och små barn; Engångsinlägg för blöjor; Dietiska ämnen för medicinska ändamål; Spädbarnsmat; Plåster, förbandsmaterial.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/091</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/170</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-09-07</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>830856</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>51592</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

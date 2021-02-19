@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-03T15:32:56</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229840</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229840</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="3">Application withdrawn</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-03</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>MASÍA DEL MAR</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>33</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Алкохолни напитки (с изключение на бира); Вино; Пенливо вино под закрилата на З.Н.П. Cava.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Alkoholické nápoje s výjimkou piva; Víno; Víno odpovídající chráněnému označení původu Cava.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Alkoholholdige drikke, undtagen øl; Vin; Vin omfattet af den beskyttede oprindelsesbetegnelse Cava.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Alkoholische Getränke, ausgenommen Bier; Weine; Durch die g.U. "Cava" geschützter Wein.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αλκοολούχα ποτά (εκτός μπύρας)· Κρασί· Οίνοι κατοχυρωμένοι με την ΠΟΠ "cava".</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Alcoholic beverages (except beer); Wine; Wine protected by the PDO "Cava".</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bebidas alcohólicas excepto cervezas; vinos; vino amparado en la D.O.P. Cava.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Alkoholjoogid, v.a õlu; Vein; Cava päritolunimetusega veinid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Alkoholijuomat (paitsi oluet); Viinit; Viinit, joilla on suojattu alkuperänimitys Cava.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Boissons alcoolisées à l'exception des bières; Vin; Vins protégés par l'AOP Cava.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Alkoholna pića (osim piva); Vino; Vino zaštićeno oznakom D.O.P. Cava.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Alkoholos italok (sörök kivételével); Borok; A Cava oltalom alatt álló eredet megjelöléshez tartozó bor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Bevande alcoliche (eccetto le birre); Vino; Vini protetti dalla D.O.P. Cava.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Svaigieji gėrimai [išskyrus alų]; Vynas; Vynas, atitinkantis vietos kilmės nuorodos Cava specifikacijas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Alkoholiskie dzērieni (izņemot alu); Vīni; Vīns, uz kuru attiecas aizsargātās izcelsmes apzīmējums "kava'.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xarbiet alkoħoliċi (minbarra birra); Inbid; Inbid protett mid-Deżinjazzjoni ta' Oriġini Protetta Cava.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Alcoholische dranken (uitgezonderd bier); Wijn; Wijn die valt onder de D.O.P. Cava.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Napoje alkoholowe (z wyjątkiem piwa); Wino; Wina objęte chronioną nazwą pochodzenia "Cava".</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bebidas alcoólicas (excluindo cerveja); Vinho; Vinho abrangido pela denominação de origem protegida "Cava".</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Băuturi alcoolice (cu excepţia berii); Vin; Vin protejat prin denumirea de origine protejată Cava.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Alkoholické nápoje okrem piva; Víno; Víno, na ktoré sa vzťahuje chránené označenie pôvodu. Šampanské.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Alkoholne pijače (razen piva); Vino; Vino, zaščiteno z geografsko označbo Cava.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Alkoholhaltiga drycker, inte öl; Viner; Vin skyddad av ursprungsbenämningen Cava.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Реклама; Управление на търговски сделки; Търговска администрация; Административна дейност; Услуги за внос, услуги за износ, услуги за продажба на едро и продажба на дребно в магазини и чрез световните компютърни мрежи на всякакъв вид напитки, по-специално вино; Изложения с търговска или рекламна цел.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Propagační činnost, reklama; Pomoc při řízení obchodní činnosti; Obchodní administrativa; Kancelářské práce; Dovoz, vývoz, velkoobchodní prodej a maloobchodní prodej v obchodech a prostřednictvím světových počítačových sítí zaměřený na nápoje všeho druhu, zejména vína; Pořádání výstav pro obchodní či reklamní účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Annonce- og reklamevirksomhed; Forretningsledelse; Forretningsadministration; Varetagelse af kontoropgaver; Import, eksport, engros- og detailsalg i forretninger og via globale computernetværk af alle former for drikke, særlig vin; Organisering af udstillinger med kommercielle eller reklamemæssige formål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Werbung; Geschäftsführung; Unternehmensverwaltung; Büroarbeiten; Import, Export, Groß- und Einzelhandelsdienstleistungen in Geschäften und über weltweite Datennetze in Bezug auf Getränke aller Art, insbesondere Wein; Organisation von Ausstellungen für wirtschaftliche oder Werbezwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διαφήμιση· Διοίκηση επιχειρήσεων· Διαχείριση επιχειρήσεων· Εργασίες γραφείου· Υπηρεσίες εισαγωγών, εξαγωγών, χονδρικού εμπορίου και λιανικής πώλησης πάσης φύσεως ποτών, ιδίως κρασιών, σε εμπορικά καταστήματα και μέσω ηλεκτρονικών δικτύων παγκόσμιας εμβέλειας· Εκθέσεις για εμπορικούς ή διαφημιστικούς σκοπούς.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Advertising; Business management; Business administration; Office functions; Import, export, retailing and wholesaling in shops and sale via global computer networks of all kinds of beverages, in particular wine; Organization of exhibitions for commercial or advertising purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Publicidad; gestión de negocios comerciales; administración comercial; trabajos de oficina; servicios de importación, servicios de exportación, servicios de venta al por mayor y venta al por menor en comercios y a través de redes mundiales de informática de todo tipo de bebidas, especialmente vino; organización de exposiciones con fines comerciales o de publicidad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Reklaam; Ärijuhtimine; Ärikorraldus; Kontoriteenused; Igat liiki jookide, eelkõige veini imporditeenused, eksporditeenused, hulgi- ja jaemüügiteenused poodides ja ülemaailmsete arvutivõrkude kaudu; Kaubandus- ja reklaamnäituste korraldamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Mainonta; Liikkeenjohto; Yrityshallinto; Toimistotehtävät; Tuontipalvelut, vientipalvelut, kaikenlaisten juomien, erityisesti viinien tukku- ja vähittäismyyntipalvelut liikkeissä ja maailmanlaajuisten tietoverkkojen välityksellä; Näyttelyt kaupallisiin tai mainontatarkoituksiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Publicité; Gestion des affaires commerciales; Administration commerciale; Travaux de bureau; Services d'import, services d'export, services de vente en gros et de vente au détail dans des commerces et par des réseaux informatiques mondiaux de toutes sortes de boissons, en particulier de vin; Services de foires à des fins commerciales ou publicitaires.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Oglašavanje; Vođenje komercijalnih poslova; Komercijalna administracija; Uredski poslovi; Usluge uvoza, usluge izvoza, usluge veleprodaje i maloprodaje u trgovinama i putem globalnih računalnih mreža svih vrsta pića, posebno vina; Izložbe u komercijalne i reklamne svrhe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Reklámozás; Kereskedelmi ügyletek; Kereskedelmi adminisztráció; Irodai munkák; Mindenféle ital, különösen bor importja, exportja, bolti, és a világhálón keresztüli kis- és nagykereskedelme; Kereskedelmi- vagy reklámcélú kiállítások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pubblicità; Gestione di affari commerciali; Amministrazione commerciale; Lavori di ufficio; Servizi di import-export, vendita all'ingrosso e al dettaglio, in negozi e tramite reti informatiche globali di tutti i tipi di bevande, in particolare vino; Esposizioni per scopi commerciali o pubblicitari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Reklama; Verslo vadyba; Verslo tvarkyba; Įstaigų veikla; Visų rūšių gėrimų, ypač vyno, importo, eksporto, didmeninės ir mažmeninės prekybos paslaugos parduotuvėse ir per pasaulinius kompiuterinius tinklus; Parodų rengimas (komercijos ar reklamos reikmėms).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Reklāma; Darījumu vadīšana; Uzņēmumu pārvaldīšana; Biroja darbi; Jebkādu dzērienu, īpaši vīna un vairumtirdzniecības un mazumtirdzniecības pakalpojumi veikalos un globālajos informācijas tīklos; Izstādes komerciālos vai reklāmas nolūkos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Reklamar; Il-ġestjoni ta' negozju; L-amministrazzjoni ta' negozju; Funzjonijiet ta' uffiċċju; Servizzi ta' importazzjoni, servizzi ta' esportazzjoni, servizzi ta' bejgħ bl-ingrossa u bejgħ bl-imnut fi ħwienet u permezz ta' netwerks globali tal-informatika ta' kull tip ta' xorb, speċjalment inbid; Esibizzjonijiet għal skopijiet kummerċjali jew ta' reklamar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Reclame; Beheer van commerciële zaken; Zakelijke administratie; Administratieve diensten; Import, export, verkoop in groot- en detailhandel in winkels en via internet van alle soorten dranken, met name wijn; Organisatie van tentoonstellingen voor commerciële of publicitaire doeleinden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Reklama; Zarządzanie w działalności gospodarczej; Administrowanie działalności gospodarczej; Prace biurowe; Usługi importu, usługi eksportu, usługi sprzedaży hurtowej i detalicznej prowadzonej w sklepach oraz za pośrednictwem światowych sieci informatycznych w zakresie wszelkiego rodzaju napojów, w szczególności wina; Wystawy w celach handlowych lub reklamowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Publicidade; Gestão de negócios comerciais; Administração comercial; Trabalhos de escritório; Serviços de importação, serviços de exportação, serviços de venda por grosso e venda a retalho em lojas e através de redes informáticas mundiais de todo o tipo de bebidas, em especial de vinho; Exposições para fins comerciais ou publicitários.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Publicitate; Gestiunea afacerilor comerciale; Administraţie comercială; Lucrări de birou; Servicii de import, servicii de export, servicii de vânzare cu ridicata și cu amănuntul în magazine și prin rețele informatice mondiale de toate tipurile de băuturi, în special vin; Organizare de expoziţii în scopuri comerciale sau publicitare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Reklamné služby; Obchodný manažment, obchodná správa; Obchodná administratíva; Kancelárske práce; Služby v oblasti dovozu a vývozu, maloobchodný a veľkoobchodný predaj v predajniach a prostredníctvom globálnych počítačových sietí so zameraním na všetky druhy nápojov, predovšetkým víno; Organizovanie obchodných alebo reklamných výstav.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oglasna dejavnost; Vodenje komercialnih poslov; Poslovna administracija; Pisarniški posli; Storitve uvoza, storitve izvoza, storitve veleprodaje in maloprodaje v trgovinah ali preko svetovnih računalniških omrežij izdelkov, kot so vse vrste pijač, predvsem vino; Razstave v komercialne ali oglaševalske namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Annons- och reklamverksamhet; Företagsledning; Företagsadministration; Kontorstjänster; Import, export, grossist- och detaljhandelsförsäljning i butik och via globala datanät av alla slags drycker, speciellt vin; Utställningar för kommersiella eller reklamrelaterade ändamål.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>ES</PriorityCountryCode>
+<PriorityNumber>M4064162</PriorityNumber>
+<PriorityDate>2020-04-27</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/106</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-08</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>679907</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>17546</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-04T19:17:00</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229846</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229846</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-05-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ASEPTIQA</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Етерични масла и ароматни екстракти; Восък за шивашки конци и oбущарски восък; Почистващи и ароматизиращи препарати; Препарати за грижа за тоалета на животни; Козметични тоалетни принадлежности.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vonné oleje a aromatické výtažky; Krejčovský vosk a ševcovská smůla; Čistící prostředky a vonné přípravky; Kosmetické přípravky pro péči o zvířata; Toaletní přípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Æteriske olier og aromatiske udtræk; Skrædder- og skomagervoks; Rengørings- og duftpræparater; Plejemidler til dyr; Toiletartikler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Ätherische Öle und aromatische Extrakte; Schneider- und Schusterwachs; Reinigungs- und Duftpräparate; Tierpflegemittel; Körperpflegemittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αιθέρια έλαια και αρωματικά εκχυλίσματα· Κερί ραπτικής και υποδηματοποιίας· Καθαριστικά και αρωματικά παρασκευάσματα· Παρασκευάσματα για την περιποίηση ζώων· Καλλυντικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Essential oils and aromatic extracts; Tailors' and cobblers' wax; Cleaning and fragrancing preparations; Animal grooming preparations; Toiletries.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aceites esenciales y extractos aromáticos; Cera para zapateros y sastres; Preparaciones para limpiar y aromatizar; Productos para el cuidado y limpieza de animales; Artículos de tocador.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Eeterlikud õlid ja aroomiekstraktid; Rätsepa- ja kingsepavaha; Puhastus- ja lõhnastusained; Tooted loomade karvastiku hoolduseks; Tualett-tarbed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Eteeriset öljyt ja aromaattiset uutteet; Räätälin- ja suutarinvaha; Puhdistus- ja raikastusvalmisteet; Siistimisvalmisteet eläimille; Kosmeettiset ja peseytymisvalmisteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Huiles essentielles et extraits aromatiques; Cire pour tailleurs et pour cordonniers; Préparations nettoyantes et parfumantes; Préparations pour le toilettage d'animaux; Produits de toilettes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Esencijalna ulja i aromatični ekstrakti; Vosak za krojače i postolare; Pripravci za čišćenje i osvježivanje prostora; Pripravci za njegu životinja; Toaletni proizvodi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Olajesszenciák és aromakivonatok; Szabó- és cipészviaszok; Tisztító és illatosító készítmények; Állatápolási készítmények; Testápolási cikkek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Olii essenziali ed estratti aromatici; Pece per sarti e calzolai; Preparati per pulire e profumare; Prodotti per la toilette degli animali; Toiletteria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Eteriniai aliejai ir aromatiniai ekstraktai; Siuvėjų ir siūlų vaškas; Valymo ir kvėpinimo preparatai; Gyvūnų higieninės ir grožio priežiūros preparatai; Tualeto reikmenys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ēteriskās eļļas un aromātiskie ekstrakti; Vaska krītiņi drēbniekiem un kurpnieku piķis; Tīrīšanas un aromatizēšanas līdzekļi; Kopšanas līdzekļi dzīvniekiem; Personiskās tualetes līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Żjut essenzjali u estratti aromatiċi; Xama' għall-ħajjata u ġħall-iskrapan; Preparazzjonijiet għat-tindif u għal riħa tfuħ; Preparazzjonijiet għat-tindif ta' l-annimali; Preparazzjonijiet tat-twaletta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Essentiële oliën en aromatische extracten; Kleermakerswas en schoenmakerswas; Reinigingsproducten en geurproducten; Producten voor cosmetische dierenverzorging; Preparaten voor de toiletverzorging.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Olejki esencjonalne i ekstrakty aromatyczne; Wosk krawiecki i szewski; Preparaty do czyszczenia i odświeżania; Preparaty do pielęgnacji zwierząt; Środki toaletowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Óleos essenciais e extratos aromáticos; Cera para alfaiates e sapateiros; Produtos para limpar e perfumar; Produtos para tratamento (limpeza, etc.) de animais; Produtos de toilette.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Uleiuri esențiale și extracte aromatice; Ceară de croitorie, ceară pentru cizmărie; Preparate pentru curățare și odorizante; Preparate pentru îngrijirea animalelor; Produse pentru toaletă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Éterické oleje a aromatické výťažky; Krajčírsky a obuvnícky vosk; Čistiace a vonné prípravky; Toaletné prípravky pre zvieratá; Kozmetické výrobky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Eterična olja in aromatični ekstrakti; Krojaški in čevljarski vosek; Preparati za čiščenje in odišavljanje; Pripravki za nego živali; Toaletna sredstva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Eteriska oljor och aromatiska extrakt; Skrädderi- och skomakerivax; Rengöringsmedel och välluktande preparat; Preparat för pälsvård; Toalettartiklar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хранителни добавки и диетични препарати; Стоматологични препарати и изделия и лечебни средства за почистване на зъби; Санитарни препарати и изделия; Препарати и изделия за контрол на вредителите; Медицински превръзки, превързочни материали покрития и апликатори; Фармацевтични препарати и натурални средства за лечение; Живи органи и тъкани за хирургически цели; Препарати и материали за диагностициране; Морска вода за лечебни бани; Минерална вода за медицински цели; Термална вода; Препарати за дезодориране и пречистване на въздуха; Стоматологични препарати и изделия.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Potravní doplňky a dietetické přípravky; Zubní přípravky a výrobky a léčebné zubní pasty; Hygienické přípravky a výrobky; Přípravky proti rostlinným a živočišným škůdcům; Obvazy, obvazový materiál a aplikátory léčebných přípravků; Farmaceutické přípravky a přírodní léčiva; Živé orgány a tkáně pro chirurgické účely; Diagnostické přípravky a materiály; Mořská voda pro léčebné koupele; Minerální vody pro léčebné účely; Termální voda; Přípravky na dezodoraci a čištění vzduchu; Zubní přípravky a výrobky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kosttilskud og diætetiske præparater; Tandpræparater og -artikler samt medicinske tandpastaer; Hygiejniske præparater og artikler; Præparater og artikler til skadedyrsbekæmpelse; Medicinske plaster, forbindsstoffer og applikatorer; Farmaceutiske præparater og naturlægemidler; Levende organer og væv til kirurgiske formål; Diagnostiske præparater og materialer; Havvand til medicinske bade; Mineralvand til medicinske formål; Termalvand; Luftdeodoriserings- og luftrensningspræparater; Dentale præparater og artikler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Diätetische Präparate und Nahrungsergänzungsmittel; Zahnmedizinische Präparate und Erzeugnisse sowie medizinische Zahnputzmittel; Hygienepräparate und -artikel; Schädlingsbekämpfungspräparate und -artikel; Medizinische Verbandmaterialien, Abdeckmaterialien und Applikatoren; Arzneimittel und natürliche Heilmittel; Lebende Organe und Gewebe für den chirurgischen Gebrauch; Diagnostikmittel und -materialien; Meerwasser für medizinische Bäder; Mineralwässer für medizinische Zwecke; Thermalwasser [Heilwasser]; Luftdesodorierungs- und Luftreinigungspräparate; Zahnmedizinische Präparate und Erzeugnisse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συμπληρώματα διατροφής και διαιτητικά παρασκευάσματα· Οδοντιατρικά παρασκευάσματα και είδη, και φαρμακευτικά οδοντοσκευάσματα· Παρασκευάσματα υγειονομικά και είδη αυτών· Παρασκευάσματα καταπολέμισης παρασίτων και ειδη αυτών· Ιατρικές γάζες, καλύμματα και εξαρτήματα εφαρμογής· Φαρμακευτικά προϊόντα και φυσικές θεραπείες· Ζωντανοί οργανισμοί και ιστοί για χειρουργικούς σκοπούς· Διαγνωστικά παρασκευάσματα και υλικά· Λουτροθεραπεία (Θαλασσινό ύδωρ για -)· Μεταλλικά νερά για ιατρική χρήση· Ύδατα ιαματικά· Παρασκευάσματα απόσμησης και καθαρισμού του αέρα· Παρασκευάσματα οδοντιατρικά και είδη αυτών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Dietary supplements and dietetic preparations; Dental preparations and articles, and medicated dentifrices; Sanitary preparations and articles; Pest control preparations and articles; Medical dressings, coverings and applicators; Pharmaceuticals and natural remedies; Live organs and tissues for surgical purpose; Diagnostic preparations and materials; Sea water for medicinal bathing; Mineral waters for medical purposes; Thermal water; Air deodorising and air purifying preparations; Dental preparations and articles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Suplementos y preparaciones dietéticas; Preparaciones y artículos dentales, así como dentífricos medicinales; Preparaciones sanitarias y productos de las mismas; Productos y preparaciones para el control de plagas; Apósitos, vendas y aplicadores médicos; Remedios naturales y farmacéuticos; Órganos y tejidos vivos para fines quirúrgicos; Productos y materiales de diagnóstico; Agua de mar para baños medicinales; Aguas minerales para uso médico; Aguas termales; Productos para desodorizar y purificar el aire; Productos y preparaciones dentales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toidulisandid ja farmatseutilised dieetained; Hambaravipreparaadid ja -tooted ning ravitoimega hambapuhastusained; Hügieenipreparaadid ja -tooted; Kahjuritõrjepreparaadid ja -tooted; Meditsiinilised sidemed, katted ja aplikaatorid; Farmatseutilised ja looduslikud ravimid; Elusorganid ja -koed kirurgias kasutamiseks; Diagnostikapreparaadid ja -materjalid; Merevesi ravivannideks; Meditsiinilised mineraalveed; Termaalvesi; Õhudesodoreerimis- ja -puhastuspreparaadid; Hambaravipreparaadid ja -tooted.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lisäravinteet ja dieettivalmisteet; Hammaslääkinnälliset valmisteet ja tuotteet sekä lääkeaineita sisältävät hampaidenpuhdistusaineet; Saniteettivalmisteet ja -tarvikkeet; Tuholaistorjuntavalmisteet ja -tuotteet; Lääkinnälliset sidontatarvikkeet, suojat ja asettimet; Lääkkeet ja luonnonlääkkeet; Elävät elimet ja kudokset kirurgisiin tarkoituksiin; Diagnostiset valmisteet ja aineet; Merivesi lääkekylpyjä varten; Kivennäisvesi lääkinnällisiin tarkoituksiin; Terminen vesi; Ilmanraikastus- ja -puhdistusvalmisteet; Hammasvalmisteet ja -tuotteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Compléments alimentaires et préparations diététiques; Préparations et articles dentaires, et dentifrices médicinaux; Préparation et articles d’hygiène; Préparations et articles pour la lutte contre les animaux nuisibles; Pansements, protections et applicateurs médicaux; Produits pharmaceutiques et remèdes naturels; Organes et tissus vivants à usage chirurgical; Produits et matériaux de diagnostic; Eau de mer pour bains médicinaux; Eaux minérales à usage médical; Eaux thermales; Préparations pour désodoriser et purifier l’air; Préparations et articles dentaires.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dodaci prehrani i dijetetski pripravci; Zubarski pripravci, proizvodi i medicinske paste za zube; Sanitarni pripravci i proizvodi; Pripravci i proizvodi za uklanjanje štetočina; Medicinski povoji, pokrovi i aplikatori; Farmaceutski proizvodi i prirodna ljekovita sredstva; Živi organi i tkiva za kirurške svrhe; Dijagnostički preparati i materijali; Morska voda za medicinske kupke; Mineralne vode za medicinske potrebe; Termalne vode; Preparati za osvježavanje i pročišćavanje zraka; Zubarski pripravci i proizvodi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Táplálékkiegészítők és diétás készítmények; Fogászati készítmények és árucikkek, gyógyhatású fogkrémek; Egészségügyi készítmények és cikkek; Kártevőirtó készítmények és cikkek; Gyógyászati kötszerek és applikátorok; Gyógyszerek és természetes gyógykészítmények; Élő szervezetek és szövetek sebészeti célra; Diagnosztikai készítmények és anyagok; Tengervíz gyógyfürdőhöz; Ásványvizek gyógyászati használatra; Termálvizek; Légillatosító és légfrissítő készítmények; Fogászati készítmények és cikkek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Integratori alimentari e preparati dietetici; Preparati e articoli odontoiatrici, e dentifrici medicati; Preparati e prodotti per l'igiene; Preparati ed articoli antiparassitari; Bende mediche, fasciature ed applicatori; Medicamenti farmaceutici e naturali; Organi e tessuti vivi per scopi chirurgici; Preparati e materiali per la diagnostica; Acqua di mare per bagni medicinali; Acque minerali per uso medico; Acque termali; Preparati per la deodorizzazione dell'aria e la purificazione dell'aria; Preparati ed articoli dentali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Maisto papildai ir dietiniai produktai; Dantų priežiūros preparatai ir priemonės, medicininės dantų valymo priemonės; Higienos preparatai ir gaminiai; Kenkėjų naikinimo preparatai ir priemonės; Medicininė tvarsliava, uždangalai ir kompresai; Farmaciniai ir natūralūs vaistiniai preparatai; Gyvybingi organai ir audiniai chirurgijos reikmėms; Diagnostiniai preparatai ir medžiagos; Jūros vanduo (gydomosioms vonioms); Mineralinis vanduo (medicinos reikmėms); Terminis vanduo; Oro dezodoravimo ir oro valymo preparatai; Odontologijos preparatai ir medžiagos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Uztura bagātinātāji un diētiskie preparāti; Zobārstniecības preparāti un izstrādājumi, ārstnieciskas zobu pastas un pulveri; Sanitārie līdzekļi un izstrādājumi; Preparāti un izstrādājumi kaitēkļu iznīcināšanai un aizsardzībai pret kaitēkļiem; Medicīniskie pārsēji, pārklāji un aplikatori; Farmaceitiskie un dabiskie ārstniecības līdzekļi; Ķermeņa orgāni un audi ķirurģiskiem nolūkiem; Diagnostikas preparāti un materiāli; Jūras ūdens ārstnieciskajām vannām; Minerālūdeņi medicīniskiem nolūkiem; Termālie ūdeņi; Gaisa dezodorēšanas un gaisa attīrīšanas preparāti; Zobārstniecības preparāti un izstrādājumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Supplimenti tad-dieta u preparazzjonijiet dijetetiċi; Preparazzjonijiet u oġġetti għas-snien, u dentifriċi medikati; Prodotti u preparazzjonijiet sanitarji; Preparazzjonijiet u oġġetti għall-kontrol tal-pesti; Infaxxar, oġġetti li kgħattu w applikaturi mediċi; Farmaċewtiċi u rimedji naturali; Organi ħajja u tessuti għal skop kirurġiku; Preparazzjonijiet u materjali dijanjostiċi; Ilma baħar għal banjijiet mediċinali; Ilma minerali għal skopijiet mediċi; Ilma termali; Preparazzjonijiet għad-deodorizzazzjoni tal-arja u l-purifikazzjoni tal-arja; Preparazzjonijiet u oġġetti dentali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diëtische supplementen en diëtische preparaten; Tandheelkundige preparaten en producten, en medicinale tandpasta; Hygiënische preparaten en artikelen; Preparaten en producten voor het bestrijden van ongedierte; Verbandartikelen, pleisters en medische applicators; Farmaceutische en natuurlijke geneesmiddelen; Levende organen en weefsels voor heelkundige doeleinden; Diagnostische preparaten en materialen; Zeewater voor medicinale baden; Mineraalwater voor medisch gebruik; Thermaal bronwater; Luchtverfrissings- en luchtzuiveringspreparaten; Tandheelkundige preparaten en producten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Suplementy diety i preparaty dietetyczne; Preparaty i artykuły dentystyczne oraz lecznicze środki do czyszczenia zębów; Preparaty i artykuły higieniczne; Preparaty i artykuły do tępienia szkodników; Opatrunki medyczne, materiały opatrunkowe i aplikatory; Farmaceutyki i naturalne środki lecznicze; Żywe narządy i tkanki do celów chirurgicznych; Preparaty i materiały diagnostyczne; Woda morska do kąpieli leczniczych; Wody mineralne do celów medycznych; Woda termalna; Preparaty do dezodoryzacji i oczyszczania powietrza; Preparaty i artykuły dentystyczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Suplementos e preparações dietéticos; Preparações e artigos dentários, e dentífricos medicinais; Preparações e artigos de higiene; Preparações e artigos pesticidas; Curativos, ligaduras e aplicadores médicos; Produtos farmacêuticos e remédios naturais; Órgãos e tecidos vivos para fins cirúrgicos; Preparações e materiais de diagnóstico; Água do mar para banhos medicinais; Águas minerais para uso medicinal; Águas termais; Produtos para desodorizar e purificar o ar; Preparações e artigos dentários.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suplimente alimentare si preparate dietetice; Preparate și articole dentare și produse medicinale pentru îngrijirea dinților; Preparate și articole sanitare; Produse și articole pentru distrugerea dăunătorilor; Pansamente, bandaje și plasturi medicali; Remedii naturale și farmaceutice; Organe vii și șervețele pentru uz chirurgical; Preparate și materiale de diagnostic; Apă de mare pentru băi medicinale; Ape minerale pentru uz medicinal; Ape termale; Produse pentru dezodorizarea și purificarea aerului; Preparate și articole dentare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Výživové doplnky a dietetické prípravky; Dentálne prípravky a potreby, liečivé prípravky na čistenie zubov; Hygienické prípravky a výrobky; Prípravky a pomôcky na reguláciu škodcov; Zdravotnícke obväzové materiály, obklady a aplikátory; Farmaceutické a prírodné liečivá; Živé orgány a tkanivá na chirurgické účely; Diagnostické prípravky a materiály; Morská voda do kúpeľa na lekárske použitie; Minerálne vody na lekárske použitie; Termálne vody; Prípravky na dezodoráciu a čistenie vzduchu; Dentálne prípravky a potreby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Prehranska dopolnila in dietetske snovi; Zobni pripravki in izdelki ter zobne paste z zdravilnimi učinkovinami; Sanitarni pripravki in izdelki; Izdelki in preparati za uničevanje škodljivcev; Obvezilni material, obliži in aplikatorji za oskrbo ran; Farmacevtski proizvodi in naravna zdravila; Živi organi in tkiva za kirurške namene; Diagnostični pripravki in materiali; Morska voda za zdravilne kopeli; Mineralne vode za medicinske namene; Termalna voda; Pripravki za osveževanje in čiščenje zraka; Izdelki in preparati za dentalne namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Dietiska tillskott och preparat; Dentala preparat och artiklar samt medicinska tandpulver, -krämer och -pastor; Sanitära preparat och -artiklar; Preparat och artiklar för skadedjursbekämpning; Medicinska förband, -höljen och -skydd; Läkemedel och naturläkemedel; Levande organ och vävnader för kirurgiska ändamål; Diagnostiska preparat och material; Havsvatten för medicinska bad; Mineralvatten för medicinska ändamål; Varmt mineralvatten; Preparat för deodorisering och rening av luft; Dentala preparat och -artiklar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/084</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>87586</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003122711</OppositionIdentifier>
+<OppositionDate>2020-05-29</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion
+Unfair advantage /detriment to distinctiveness or repute</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>008988792</ApplicationNumber>
+<ApplicationDate>2010-03-29</ApplicationDate>
+<RegistrationNumber>008988792</RegistrationNumber>
+<RegistrationDate>2011-01-08</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>ASEPSO</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>008988792</ApplicationNumber>
+<ApplicationDate>2010-03-29</ApplicationDate>
+<RegistrationNumber>008988792</RegistrationNumber>
+<RegistrationDate>2011-01-08</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>ASEPSO</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>336138</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>30737</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

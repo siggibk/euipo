@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-22T08:47:59</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224709</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224709</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-28</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-24</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>BIOBROWN</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162207488</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224709/000162207488.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>05.01.05</CategoryCode>
+          <CategoryCode>05.01.15</CategoryCode>
+          <CategoryCode>05.01.16</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>16</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Торби, изработени от хартия за опаковане; Опаковъчна хартия; Поздравителни картички; Пликове [канцеларски принадлежности]; Покривки за маса от хартия; Салфетки от хартия за маса; Картонени кутии; Кутии от хартия; Крафт-хартия; Опаковъчен картон; Самозалепващи се ленти за канцеларски цели; Покривки и салфетки от хартия за маса; Подложки за хранене, от хартия; Кърпи от хартия; Запълващи материали от хартия или картон.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Papírové tašky, sáčky na balení; Balicí papír; Blahopřání; Obálky [papírnické zboží]; Papírové ubrusy; Papírové stolní ubrousky; Krabice z lepenky, kartonu nebo z papíru; Papírové krabice; Papír pro ruční práce; Kartonové obaly; Samolepicí pásky pro kanceláře; Papírové stolní prádlo; Prostírání z papíru; Papírové ručníky; Vycpávkové materiály z papíru nebo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Papirposer til emballering; Emballagepapir; Lykønskningskort; Konvolutter; Bordduge af papir; Bordservietter af papir; Æsker af pap; Papirkasser; Kraftpapir; Kartonemballage; Selvklæbende tape til kontorbrug; Bordlinned af papir; Dækkeservietter af papir; Håndklæder af papir; Stopningsmaterialer af papir eller pap.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Verpackungstüten aus Papier; Verpackungspapier; Glückwunschkarten; Hüllen [Papier- und Schreibwaren]; Tischtücher aus Papier; Papierservietten; Pappschachteln; Papierbehälter; Papier für Handwerkszwecke; Kartonverpackungen; Selbstklebebänder für Schreibwaren; Tischwäsche aus Papier; Platzdeckchen [Sets] aus Papier; Papierhandtücher; Füllmaterial aus Papier oder Pappe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χάρτινες τσάντες συσκευασίας· Χαρτί περιτυλίγματος· Ευχετήριες κάρτες· Φάκελοι [είδη χαρτοπωλείου]· Χάρτινα τραπεζομάντιλα· Χαρτοπετσέτες· Χαρτόκουτα· Χάρτινα κουτιά· Χαρτί κραφτ· Υλικά συσκευασίας από χαρτόνι· Αυτοκόλλητες ταινίες για χαρτικά· Τραπεζομάντηλα [χάρτινα]· Χάρτινα υποθέματα για πιάτα (σουπλά)· Πετσέτες χεριών από χαρτί· Υλικό παραγεμίσματος από χαρτί ή χαρτόνι.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Paper bags for packaging; Packing paper; Greeting cards; Envelopes; Paper tablecloths; Table napkins of paper; Cardboard boxes; Boxes of paper; Craft paper; Cardboard cartons; Adhesive tapes for stationery purposes; Table linen of paper; Place mats of paper; Towels of paper; Stuffing of paper or cardboard; Wrapping paper.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bolsas de papel para embalar; Papel de envolver; Tarjetas de felicitación; Sobres [artículos de papelería]; Manteles de papel; Servilletas de papel; Cajas de cartón; Cajas de papel; Papel para manualidades; Embalajes de cartón; Cintas autoadhesivas para la papelería; Mantelerías de papel; Manteles individuales de papel; Toallas de papel; Materiales de relleno de papel o cartón.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Paberkotid pakkimiseks; Pakkepaber; Õnnitluskaardid; Ümbrikud [kirjatarbed]; Paberist laudlinad; Paberist lauasalvrätikud; Pappkarbid; Paberkarbid; Käsitööpaber; Papist pakendid; Kleepribad, teibid kantseleis kasutamiseks; Paberlaudlinad; Sööginõude paberist alusmatid, söögialused; Paberkäterätid; Paberist või papist täitematerjalid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Paperiset pakkauspussit; Käärepaperi; Onnittelukortit; Kirjekuoret; Paperiset pöydänpäälliset; Lautasliinat (Paperi -); Pahvilaatikot; Paperirasiat; Voimapaperi; Pahvipakkaukset; Teipit paperitavarakäyttöön; Paperipöytäliinat; Paperitabletit; Pyyhkeet (Paperi -); Pehmustusmateriaalit paperista tai pahvista.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Sacs d'emballage en papier; Papier d'emballage; Cartes de vœux; Enveloppes [papeterie]; Nappes en papier; Serviettes de table en papier; Boîtes en carton; Boîtes en papier; Papier pour travaux manuels; Emballages en carton; Rubans adhésifs pour la papeterie; Linge de table en papier; Sets de table en papier; Essuie-mains en papier; Matières de rembourrage en papier ou en carton.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Papirnate vrećice za pakiranje; Papir za ambalažu; Čestitke; Omotnice [papirnati proizvodi]; Papirnati stolnjaci; Papirnati stolni ubrusi; Kartonske kutije; Papirnate kutije; Ukrasni papir; Kartonska ambalaža; Ljepljive trake za uredske svrhe; Stolno rublje od papira; Papirnati stolni podlošci; Papirnati ručnici za ruke; Punjenje od papira ili kartona.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Papírtasakok csomagoláshoz; Csomagolópapír; Üdvözlőlapok, üdvözlőkártyák; Borítékok [papíráruk]; Papír asztalterítők; Papírszalvéták; Kartondobozok; Papírdobozok; Kraft papír; Csomagolóanyag kartonból; Öntapadós szalagok, ragasztószalagok irodai cikként való használatra; Asztalneműk papírból; Papír alátétek; Papírtörölközők; Töltőanyagok papírból vagy kartonból.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Sacchi di carta per imballaggio; Carta da imballaggio; Biglietti di auguri; Buste [cartoleria]; Tovaglie di carta; Tovaglioli di carta; Scatole di cartone; Contenitori di carta; Carta per pacchi; Imballaggi di cartone; Nastri autoadesivi per la cartoleria; Biancheria da tavola di carta; Set da tavola in carta; Asciugamani di carta; Imbottitura in carta o cartone.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Popieriniai pakavimo maišeliai; Vyniojamasis popierius; Sveikinimo atvirukai; Vokai [raštinės reikmenys]; Popierinės staltiesės; Popierinės servetėlės; Kartoninės dėžės; Popierinės dėžės; Rankdarbių popierius; Kartoninės pakuotės; Lipniosios juostos raštinės reikmėms; Popieriniai stalo apdangalai; Popieriniai paklotai; Popieriniai rankšluosčiai; Popieriaus ar kartono kamšalai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Iepakojuma maisi no papīra; Ietinamais papīrs; Apsveikuma kartītes; Aploksnes [rakstāmpiederumi]; Papīra galdauti; Galda salvetes no papīra; Kartona kastes; Kastes no papīra; Krafta papīrs; Kartona iepakojums; Adhezīvas lentes kancelejas nolūkiem; Papīra galda veļa; Galda paliktņi no papīra; Papīra dvieļi; Polsterējuma materiāli no papīra vai kartona.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Boroż tal-karti għall-ippakkjar; Karta għat-tgeżwir; Kartolini ta' xewqat sbieħ; Envelops [kartoleriji]; Tvalji tal-karti għall-mejda; Srievet tal-karti għal fuq il-mejda; Kaxex tal-kartun; Kaxxi tal-karti; Karta għax-xogħol tal-kraft; Imballaġġ tal-kartun; Tejps adeżivi minnhom infushom għall-użu fil-kartolerija; Bjankerija tal-karti, għall-mejda; Matts tal-karti; Xugamani tal-karti; Mili tal-karti jew tal-kartun.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Zakken van papier voor verpakking; Pakpapier; Wenskaarten; Enveloppen; Tafellakens van papier; Tafelservetten van papier; Dozen van karton; Dozen van papier; Kraftpapier; Verpakkingen van karton; Zelfklevende tape voor kantoorgebruik; Tafellinnen van papier; Placemats van papier; Handdoeken van papier; Opvulling van papier of karton.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Torby papierowe do pakowania; Papier do zawijania; Kartki z życzeniami; Koperty [artykuły piśmienne]; Papierowe nakrycia [obrusy] stołowe; Serwetki stołowe papierowe; Pudła kartonowe; Pudełka z papieru; Papier do celów rękodzielniczych; Opakowania kartonowe; Taśmy samoprzylepne do celów biurowych; Bielizna stołowa papierowa; Maty stołowe z papieru; Ręczniki papierowe; Wypełnienie z papieru lub kartonu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Sacos em papel para embalagens; Papel de embalagem; Cartões de boas-festas; Envelopes [papelaria]; Toalhas de mesa em papel; Guardanapos de mesa em papel; Caixas de cartão; Caixas de papel; Papel craft; Embalagens de cartão; Fitas autocolantes para papelaria; Toalhas de mesa e guardanapos [em papel]; Bases para pratos [toalhas] em papel; Toalhas em papel; Material para enchimento em papel ou em cartão.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Pungi de ambalat din hârtie; Ambalaj (Hârtie de -); Felicitări; Plicuri [papetărie]; Șervetele de masă din hârtie; Șervețele de masă din hârtie; Cutii din carton; Cutii din hârtie; Hârtie de uz artistic; Ambalaj de carton; Benzi autoadezive pentru papetărie; Lenjerie de masă din hârtie; Individualuri de masă din hârtie; Prosoape din hârtie; Umplutură de hârtie sau carton.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Tašky vyrobené z papiera na balenie; Baliaci papier; Blahoprajné pohľadnice; Obálky (papiernický tovar); Papierové obrusy; Papierové servítky; Kartónové škatule; Papierové krabice; Ozdobný (umelecký) papier; Kartónové obaly; Samolepiace pásky na kancelárske účely; Stolové prestieranie z papiera; Papierové obrúsky (prestieranie); Papierové utierky; Papierové alebo lepenkové vypchávkové materiály.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Vreče za pakiranje iz papirja; Ovojni papir; Voščilnice; Ovoji [pisalne potrebščine]; Papirnati namizni prti; Namizne serviete iz papirja; Kartonske škatle; Papirnate škatle; Kraft papir; Kartonska embalaža; Lepilni trakovi za pisarniške namene; Namizni prti iz papirja; Namizni podstavki iz papirja; Brisače iz papirja; Polnila iz papirja ali kartona.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Påsar av papper för emballering; Emballeringspapper; Gratulationskort; Kuvert; Bordsdukar av papper; Bordsservetter av papper; Askar av papp; Askar gjorda av papper; Kraftpapper; Kartongförpackningar; Självhäftande tejp för pappersvaror; Bordslinne av papper; Bordstabletter gjorda av papper; Pappershanddukar; Stoppningsmaterial av papper eller kartong.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/073</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/183</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-09-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/202</PublicationIdentifier>
+        <PublicationSection>C.2.1</PublicationSection>
+        <PublicationDate>2020-10-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079147</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>96576</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018150949</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>96576</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-07-10</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018117450</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>97069</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Decision to reject (final)</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-09-22</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018677537</RecordIdentifier>
+<BasicRecordKind>Representative - Change of name and professional address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>96576</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-10-22</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

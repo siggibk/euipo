@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-24T08:56:43</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229204</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229204</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-20</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-24</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162453680</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229204/000162453680.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>23.03.03</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Облекло, обувки, шапки и принадлежности за глава.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Oděvy, obuv, kloboučnické zboží.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beklædningsgenstande, fodtøj og hovedbeklædning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bekleidungsstücke, Schuhwaren, Kopfbedeckungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ενδύματα, υποδήματα, είδη πιλοποιίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Clothing, footwear, headgear.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Prendas de vestir, calzado, artículos de sombrerería.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Rõivad, jalatsid, peakatted.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vaatteet, jalkineet, päähineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vêtements, chaussures, chapellerie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Odjeća, obuća, pokrivala za glavu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ruházati cikkek, cipők, kalapáruk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Articoli di abbigliamento, scarpe, cappelleria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Drabužiai, apranga, avalynė, galvos apdangalai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apģērbi, apavi, galvassegas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ħwejjeġ, xedd tas-saqajn u xedd ir-ras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kledingstukken, schoeisel, hoofddeksels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odzież, obuwie, nakrycia głowy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vestuário, calçado, chapelaria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Îmbrăcăminte, încălţăminte, articole care servesc la acoperirea capului.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Odevy, obuv a pokrývky hlavy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oblačila, obutev, pokrivala.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kläder, fotbeklädnader, huvudbonader.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/089</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-13</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/159</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>231972</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>75620</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

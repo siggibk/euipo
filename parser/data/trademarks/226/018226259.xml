@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-16T10:13:20</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226259</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226259</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="1">Application published</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-10-16</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>urbanArtt</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162303997</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226259/000162303997.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>12</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Скутери [превозни средства]; Тротинетки [превозни средства].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Skútry (vozidla); Koloběžky [dopravní prostředky].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Scootere [køretøjer]; Løbehjul [køretøjer].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Scooter [Fahrzeuge]; Tretroller [Fahrzeuge].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Βέσπες [οχήματα]· Πατίνια (οχήματα).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Scooters; Push scooters [vehicles].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Scooters [vehículos]; Patinetes [vehículos].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Tõukerattad (sõidukid); Tõukerattad (sõidukid).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Skootterit [ajoneuvoina]; Potkulaudat (kulkuneuvot).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Trottinettes [véhicules]; Trottinettes [véhicules].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Skuteri [vozila]; Romobili (vozila).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Robogók [járművek]; Lábbal hajtható rollerek [járművek].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Monopattini [veicoli]; Monopattini [veicoli].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Skuteriai [transporto priemonės]; Paspirtukai [transporto priemonės].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Skrejrati; Skrejriteņi (transportlīdzekļi).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Skuters [vetturi]; Skuters li jimxu b'imbottatura[vetturi].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Scooters [vervoermiddelen]; Steppen [voertuigen].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Skutery [pojazdy]; Hulajnogi (pojazdy).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Scooters [veículos]; Trotinetes/patinetes [veículos].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Trotinete [vehicule]; Trotinete electrice [vehicule].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kolobežky; Kolobežky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Mopedi [vozila]; Skiroji [vozila].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Skotrar [fordon]; Sparkcyklar [fordon].</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Облекло; Спортно облекло.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Oděvy; Sportovní oblečení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beklædningsgenstande; Sportsbeklædning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bekleidungsstücke; Sportbekleidung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ενδύματα· Αθλητικά ενδύματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Clothing; Clothing for sports.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Prendas de vestir; Ropa de deporte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Rõivad; Spordiriietus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vaatteet; Urheiluasut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vêtements; Vêtements de sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Odjeća; Odjeća za sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ruházati cikkek; Sportruházat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Abbigliamento; Abbigliamento sportivo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Drabužiai, apranga; Sportinė apranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apģērbi; Sporta apģērbi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ilbies; Ħwejjeġ sportivi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kleding; Sportkleding.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odzież; Odzież sportowa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vestuário; Vestuário de desporto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Articole de îmbrăcăminte; Articole de îmbrăcăminte pentru sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Odevy; Športové oblečenie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oblačila; Športna oblačila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kläder; Kläder för sport.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<SeniorityDetails>
+<Seniority>
+<SeniorityCountryCode>FR</SeniorityCountryCode>
+<SeniorityApplicationNumber>3917727</SeniorityApplicationNumber>
+<SeniorityFilingDate>2012-05-03</SeniorityFilingDate>
+<SeniorityRegistrationNumber>3917727</SeniorityRegistrationNumber>
+<InternationalTradeMarkCode>EU</InternationalTradeMarkCode>
+<SeniorityPartialIndicator>false</SeniorityPartialIndicator>
+<SeniorityStatusCode>Refused</SeniorityStatusCode>
+</Seniority>
+</SeniorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/198</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-10-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080311</Identifier>
+</ApplicantKey>
+<ApplicantKey>
+<Identifier>911029</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

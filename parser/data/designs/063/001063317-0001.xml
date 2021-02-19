@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2018-12-19T08:54:12</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063317-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063317-0001</DesignIdentifier>
+<ApplicationNumber>001063317</ApplicationNumber>
+<ApplicationLanguageCode>pt</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-01-16</PublicationDate>
+<ApplicationReference>5927P</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-12-17</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061781815</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063317_0001/001063317_0001_1.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.01.03</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061781816</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063317_0001/001063317_0001_2.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.01.03</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061781817</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063317_0001/001063317_0001_3.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.01.03</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061781818</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063317_0001/001063317_0001_4.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.01.03</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061781819</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063317_0001/001063317_0001_5.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.01.03</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061781820</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063317_0001/001063317_0001_6.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.01.03</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061781821</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063317_0001/001063317_0001_7.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.01.03</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Кутии</IndicationProduct>
+       <IndicationProduct languageCode="cs">Krabice</IndicationProduct>
+       <IndicationProduct languageCode="da">Æsker</IndicationProduct>
+       <IndicationProduct languageCode="de">Kästen</IndicationProduct>
+       <IndicationProduct languageCode="el">Κουτιά</IndicationProduct>
+       <IndicationProduct languageCode="en">Boxes</IndicationProduct>
+       <IndicationProduct languageCode="es">Cajas</IndicationProduct>
+       <IndicationProduct languageCode="et">Kastid, karbid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Laatikot</IndicationProduct>
+       <IndicationProduct languageCode="fr">Boîtes</IndicationProduct>
+       <IndicationProduct languageCode="hu">Dobozok</IndicationProduct>
+       <IndicationProduct languageCode="it">Scatole</IndicationProduct>
+       <IndicationProduct languageCode="lt">Dėžutės</IndicationProduct>
+       <IndicationProduct languageCode="lv">Kastes</IndicationProduct>
+       <IndicationProduct languageCode="mt">Kaxex</IndicationProduct>
+       <IndicationProduct languageCode="nl">Dozen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Pudełka</IndicationProduct>
+       <IndicationProduct languageCode="pt">Caixas</IndicationProduct>
+       <IndicationProduct languageCode="ro">Cutii</IndicationProduct>
+       <IndicationProduct languageCode="sk">Kazety</IndicationProduct>
+       <IndicationProduct languageCode="sl">Škatle</IndicationProduct>
+       <IndicationProduct languageCode="sv">Lådor</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>09.03</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/009</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-16</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/242</PublicationIdentifier>
+        <PublicationSequenceNumber>1119930</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2013-12-20</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2016/061</PublicationIdentifier>
+        <PublicationSequenceNumber>1724740</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2016-04-01</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2016/062</PublicationIdentifier>
+        <PublicationSequenceNumber>1724895</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2016-04-04</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2016/081</PublicationIdentifier>
+        <PublicationSequenceNumber>1724816</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2016-05-02</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/241</PublicationIdentifier>
+        <PublicationSequenceNumber>100815564</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2018-12-19</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>323980</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>15346</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>010464681</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1724740</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2016-05-02</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006997328</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1119930</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-12-20</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012443818</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100815564</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-12-19</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

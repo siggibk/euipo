@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-11-05T11:31:58</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063846-0002</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063846-0002</DesignIdentifier>
+<ApplicationNumber>001063846</ApplicationNumber>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-01-29</PublicationDate>
+<ApplicationReference>EPMD-102206.6</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2018-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2019-11-01</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000062113098</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063846_0002/001063846_0002_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062113100</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063846_0002/001063846_0002_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062113102</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063846_0002/001063846_0002_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062113104</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063846_0002/001063846_0002_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062113106</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063846_0002/001063846_0002_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062113109</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063846_0002/001063846_0002_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062113111</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063846_0002/001063846_0002_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Филтри за вода (Част от -)</IndicationProduct>
+       <IndicationProduct languageCode="cs">Vodní filtry (část -)</IndicationProduct>
+       <IndicationProduct languageCode="da">Vandfiltre (del af -)</IndicationProduct>
+       <IndicationProduct languageCode="de">Wasserfilter (Teil von -)</IndicationProduct>
+       <IndicationProduct languageCode="el">Φίλτρα ύδατος (τμήματά τους -)</IndicationProduct>
+       <IndicationProduct languageCode="en">Water filters (part of -)</IndicationProduct>
+       <IndicationProduct languageCode="es">Filtros de agua (parte de -)</IndicationProduct>
+       <IndicationProduct languageCode="et">Veefiltrid (osa -)</IndicationProduct>
+       <IndicationProduct languageCode="fi">Vedensuodattimet (osa -)</IndicationProduct>
+       <IndicationProduct languageCode="fr">Machines pour filtrer l'eau (partie de -)</IndicationProduct>
+       <IndicationProduct languageCode="hu">Vízszűrők (…része)</IndicationProduct>
+       <IndicationProduct languageCode="it">Filtri dell'acqua (parte di -)</IndicationProduct>
+       <IndicationProduct languageCode="lt">Vandens filtrai (dalis - )</IndicationProduct>
+       <IndicationProduct languageCode="lv">Ūdens filtri (- daļa)</IndicationProduct>
+       <IndicationProduct languageCode="mt">Filtri ta' l-ilma (parti minn -)</IndicationProduct>
+       <IndicationProduct languageCode="nl">Waterfilters (deel van -)</IndicationProduct>
+       <IndicationProduct languageCode="pl">Filtry wodne (część - )</IndicationProduct>
+       <IndicationProduct languageCode="pt">Filtros de água (parte de -)</IndicationProduct>
+       <IndicationProduct languageCode="ro">Filtre de apă (Părţi de -)</IndicationProduct>
+       <IndicationProduct languageCode="sk">Vodné filtre (časť - )</IndicationProduct>
+       <IndicationProduct languageCode="sl">Vodni filtri (del -)</IndicationProduct>
+       <IndicationProduct languageCode="sv">Vattenfilter (del av -)</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>23.01</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/019</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-29</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2011/252</PublicationIdentifier>
+        <PublicationSequenceNumber>670433</PublicationSequenceNumber>
+        <PublicationSection>B.2.1</PublicationSection>
+        <PublicationDate>2011-11-04</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2012/130</PublicationIdentifier>
+        <PublicationSequenceNumber>810758</PublicationSequenceNumber>
+        <PublicationSection>B.2.2</PublicationSection>
+        <PublicationDate>2012-07-10</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/001</PublicationIdentifier>
+        <PublicationSequenceNumber>1127040</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2014-01-03</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2019/210</PublicationIdentifier>
+        <PublicationSequenceNumber>101484006</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2019-11-05</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>486184</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>12469</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>005298009</RecordIdentifier>
+<BasicRecordKind>Transfer of Ownership</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>670433</PublicationSequenceNumber>
+           <PublicationSection>B.2.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2011-11-04</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>005950146</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>810758</PublicationSequenceNumber>
+           <PublicationSection>B.2.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2012-07-10</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006996734</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1127040</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-03</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

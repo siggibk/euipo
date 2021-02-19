@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-28T12:49:23</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229628</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229628</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-25</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>parakey</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162506497</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229628/000162506497.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>03.07.24</CategoryCode>
+          <CategoryCode>03.07.99</CategoryCode>
+          <CategoryCode>27.05.05</CategoryCode>
+          <CategoryCode>27.05.21</CategoryCode>
+          <CategoryCode>27.99.16</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Системи за контрол на достъп (електрически); Софтуер и приложения за електрически системи за контрол на достъпа.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Elektrické systémy na kontrolu přístupu; Software a aplikace pro elektrické systémy pro kontrolu přístupu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Elektriske systemer til adgangskontrol; Software og applikationer til elektriske systemer til adgangskontrol.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Elektrische Zugangskontrollanlage; Software und Anwendung für elektrische Zugangskontrollsysteme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ηλεκτρικά συστήματα ελέγχου της πρόσβασης· Λογισμικό και εφαρμογές για ηλεκτρικά συστήματα ελέγχου πρόσβασης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Access control systems (Electric -); Software and application for electric access control systems.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Sistemas de control de acceso eléctricos; Software y aplicaciones para sistemas eléctricos de control de acceso.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Elektrilised juurdepääsu kontrollsüsteemid; Elektriliste juurdepääsu kontrollsüsteemide tarkvara ja rakendus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sähköiset kulunvalvontajärjestelmät; Ohjelmisto ja sovellus sähkötoimisiin kulunvalvontajärjestelmiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Appareils de contrôle d'accès électriques; Logiciels et applications pour systèmes électriques de contrôle d'accès.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Sustav kontrole pristupa (Električni -); Softver i aplikacija za električni sustavi za kontrolu pristupa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Elektromos beléptető rendszerek; Szoftver és alkalmazás elektromos beléptető rendszerekhez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Sistemi di controllo di accesso (Elettrici -); Software e applicazioni per sistemi elettrici di controllo accessi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Prieigos kontrolės sistemos (Elektrinės -); Programinė įranga ir taikymas elektrinėms patekimo kontrolės sistemoms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Elektriskas piekļuves kontroles sistēmas; Programmatūra un lietojumprogrammas piekļuves kontroles elektriskajām sistēmām.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Sistemi (elettriċi) għall-kontroll tal-aċċess; Softwer u applikazzjonijiet għal sistemi ta' kontroll tal-aċċess elettriċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Toegangscontrolesystemen; Software en applicaties voor elektrische toegangscontrolesystemen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Elektryczne systemy kontroli dostępu; Oprogramowanie i aplikacja do elektrycznych systemów do kontroli dostępu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Sistemas elétricos de controlo de acesso; Software e aplicações para sistemas elétricos de controlo de acessos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Sisteme de control al accesului (electrice); Software și aplicație pentru sisteme electrice de control al accesului.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Elektrické systémy na kontrolu vstupu; Softvér a aplikácie pre elektrické systémy na kontrolu prístupu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Električni sistemi za nadzor dostopa; Programska oprema in aplikacije za električne nadzorni sistemi za dostop.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Elektriska system för åtkomstkontroll; Programvara och applikation för elektriska åtkomstkontrollsystem.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за софтуер като услуга (SAAS) за електрически системи за контрол на достъпа.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby softwaru jako služby (SaaS) pro elektrické systémy pro kontrolu přístupu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Software som en tjenesteydelse (SaaS) til elektriske systemer til adgangskontrol.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Software as a Service [SaaS] für elektrische Zugangskontrollsysteme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες λογισμικού ως υπηρεσίας για ηλεκτρικά συστήματα ελέγχου πρόσβασης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Software as a Service (SaaS) services for electric access control systems.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de software como servicio (SaaS) para sistemas eléctricos de control de acceso.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Teenustarkvara (SaaS) teenused elektrilistele juurdepääsu kontrollsüsteemidele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Verkkosovelluspalvelut (SaaS) sähkötoimisia kulunvalvontajärjestelmiä varten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de logiciels-services (SaaS) pour systèmes électriques de contrôle d'accès.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge softvera kao usluge (SaaS) za električne sustave za kontrolu pristupa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szoftver mint szolgáltatás (SaaS) az elektromos beléptető rendszerekhez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di software (SaaS) per sistemi elettrici di controllo accessi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Programinės įrangos kaip paslaugos (SaaS) paslaugos, skirtos elektrinėms prieigos kontrolės sistemoms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Programmatūras kā pakalpojuma [SaaS] pakalpojumi elektriskās piekļuves kontroles sistēmām.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' softwer bħala servizz (SaaS) għal sistemi ta' kontroll tal-aċċess elettriċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Software-als-een-dienst (SaaS) voor elektrische toegangscontrolesystemen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi oprogramowania jako usługi (SaaS) do elektrycznych systemów do kontroli dostępu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de software como serviço (SaaS) para sistemas elétricos de controlo de acessos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de software ca serviciu (SAAS) pentru sisteme electrice de control al accesului.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Služby softvéru ako služby (SaaS) pre elektrické systémy na kontrolu prístupu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve programske opreme kot storitve (SaaS) za električne nadzorne sisteme za dostop.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Programvara som en tjänst (SaaS) för elektriska åtkomstkontrollsystem.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/091</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/163</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082739</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>82413</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

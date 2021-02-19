@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-03T09:03:07</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226125</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226125</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-09-01</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-03</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>hokka</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162304084</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226125/000162304084.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Мебели, по-специално мебели за употреба на открито.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nábytek, zejména venkovní nábytek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Møbler, særlig møbler til udendørs brug.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Möbel, insbesondere Möbel für den Outdoor-Bereich.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">΄Επιπλα, ειδικότερα έπιπλα για εξωτερικούς χώρους.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Furniture, in particular outdoor furniture.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Muebles, en particular muebles para exteriores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mööbel, eelkõige mööbel välitingimustesse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Huonekalut, erityisesti kalusteet ulkotiloihin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Meubles, en particulier meubles d'extérieur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Namještaj, posebno namještaj za vanjska područja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Bútorok, különösen bútorok kültéri használatra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Mobili, in particolare mobili per l'esterno.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Baldai, ypač lauko baldai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mēbeles, jo īpaši mēbeles izmantošanai ārā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Għamara, speċjalment għamara għall-qasam ta' barra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Meubelen, met name meubelen voor gebruik buitenshuis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Meble, zwłaszcza meble do użytku na zewnątrz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Móveis, em especial móveis para o exterior.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Mobilă, în special mobilă pentru exterior.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nábytok, najmä nábytok pre oblasť exteriéru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pohištvo, zlasti zunanje pohištvo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Möbler, speciellt möbler för utomhusbruk.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/097</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-25</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/167</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-02</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>12630</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

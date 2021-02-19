@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:59</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063432-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063432-0001</DesignIdentifier>
+<ApplicationNumber>001063432</ApplicationNumber>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-06-19</PublicationDate>
+<ApplicationReference/>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000064479700</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063432_0001/001063432_0001_1.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Улични чешми</IndicationProduct>
+       <IndicationProduct languageCode="cs">Pouliční fontány</IndicationProduct>
+       <IndicationProduct languageCode="da">Gadespringvand</IndicationProduct>
+       <IndicationProduct languageCode="de">Brunnen</IndicationProduct>
+       <IndicationProduct languageCode="el">Δημόσιοι κρουνοί υδροδότησης</IndicationProduct>
+       <IndicationProduct languageCode="en">Street fountains</IndicationProduct>
+       <IndicationProduct languageCode="es">Fuentes urbanas</IndicationProduct>
+       <IndicationProduct languageCode="et">Tänava joogikraanid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Katusuihkukaivot</IndicationProduct>
+       <IndicationProduct languageCode="fr">Bornes-fontaines</IndicationProduct>
+       <IndicationProduct languageCode="hu">Közkutak</IndicationProduct>
+       <IndicationProduct languageCode="it">Fontane a colonnetta</IndicationProduct>
+       <IndicationProduct languageCode="lt">Gatvių fontanai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Ielas strūklakas</IndicationProduct>
+       <IndicationProduct languageCode="mt">Funtani tat-toroq</IndicationProduct>
+       <IndicationProduct languageCode="nl">Fonteinen (straatmeubilair)</IndicationProduct>
+       <IndicationProduct languageCode="pl">Fontanny uliczne</IndicationProduct>
+       <IndicationProduct languageCode="pt">Chafarizes de rua</IndicationProduct>
+       <IndicationProduct languageCode="ro">Fântâni stradale</IndicationProduct>
+       <IndicationProduct languageCode="sk">Vonkajšie fontány</IndicationProduct>
+       <IndicationProduct languageCode="sl">Cestni vodometi</IndicationProduct>
+       <IndicationProduct languageCode="sv">Gatufontäner</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>23.01</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/117</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-06-19</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1326059</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>265501</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-03T10:05:52</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224441</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224441</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-30</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-03</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>FAGOTTINI BALOCCO</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162208024</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224441/000162208024.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.07.20</CategoryCode>
+          <CategoryCode>26.13.99</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бисквити, особено бисквити с шоколадов чипс.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Sušenky, zejména sušenky s čokoládovými kapkami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Småkager, især chokoladesmåkager.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kekse, insbesondere Kekse mit Schokoladentröpfchen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μπισκότα, ειδικότερα μπισκότα με σταγόνες σοκολάτας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Biscuits, in particular biscuits with chocolate drops.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Galletas, en particular galletas con gotas de chocolate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Küpsised, täpsemalt šokolaaditükkidega küpsised.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Keksit, erityisesti keksit, joissa on suklaahippuja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Biscuits, en particulier biscuits avec des gouttes de chocolat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Keksi, posebno keksi s komadićima čokolade.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kekszek, különösen kekszek csokoládécseppekkel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Biscotti, in particolare biscotti con gocce di cioccolato.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Sausainiai, ypač sausainiai su šokolado drožlėmis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Biskvīti, jo īpaši biskvīti ar šokolādes pilēm.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Gallettini, b'mod partikolari gallettini bil-biċċiet taċ-ċikkulata.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Koekjes, in het bijzonder koekjes met chocoladedruppels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Ciastka, w szczególności ciastka z kawałkami czekolady.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Biscoitos, em especial biscoitos com pepitas de chocolate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Biscuiți, în special biscuiți cu pepite de ciocolată.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Sušienky, predovšetkým sušienky s čokoládovými stružlinkami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Piškoti, še posebej piškoti s čokoladnimi kapljicami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kakor, speciellt chokladchipskakor.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/145</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-03</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>469750</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>14918</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

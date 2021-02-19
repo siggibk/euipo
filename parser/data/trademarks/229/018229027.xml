@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:34:32</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229027</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229027</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>NOABRANDS</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162457511</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229027/000162457511.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.07.06</CategoryCode>
+          <CategoryCode>25.07.07</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Манекени и шивашки манекени.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Figuríny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Mannequindukker og giner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schaufenster- und Schneiderpuppen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ανδρε και κούκλες για ράφτες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Mannequins and tailors' dummies.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Maniquíes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mannekeenid ja rätsepamannekeenid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Mallinuket ja sovitusnuket.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Mannequins.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Lutke za izlog i krojačke lutke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Próbababák.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Manichini e manichini per sarti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Siuvėjų manekenai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Skatlogu un drēbnieku manekeni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Mannekkini u pupi għall-ħajjata.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Etalagepoppen en paspoppen [kleermakerij].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Manekiny, manekiny krawieckie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Manequins.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Manechine şi manechini de croitorie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Figuríny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Manekenske in krojaške lutke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Skylt- och provdockor.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за импорт и експорт; Управление на търговски сделки; Търговска администрация; Продажба на дребно в търговската мрежа и чрез световната информационна мрежа на електронни консумативи.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby v oblasti dovozu a vývozu; Pomoc při řízení obchodní činnosti; Obchodní administrativa; Maloobchodní prodej v obchodech a prostřednictvím světových elektronických komunikačních sítí manekýnek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Import- og eksportvirksomhed (administrative ydelser); Forretningsledelse; Forretningsadministration; Detailsalg i forretninger og via globale elektroniske kommunikationsnet af mannequindukker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Dienstleistungen einer Im- und Exportagentur; Geschäftsführung; Unternehmensverwaltung; Einzelhandelsverkauf in Geschäften und über weltweite elektronische Kommunikationsnetze von Kleiderpuppen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες εισαγωγών και εξαγωγών· Διοίκηση επιχειρήσεων· Διαχείριση επιχειρήσεων· Υπηρεσίες λιανικής πώλησης ανδρείκελων (μανεκέν) σε εμπορικά καταστήματα και μέσω παγκόσμιων δικτύων ηλεκτρονικής επικοινωνίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Import and export services; Business management; Business administration; Retailing in shops and via global electronic communication networks of dressmakers' dummies.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de importación y exportación; Gestión de negocios comerciales; Administración comercial; Servicios de venta al detalle en comercios y a través de redes mundiales de comunicación electrónica de maniquíes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Impordi- ja eksporditeenused; Ärijuhtimine; Ärikorraldus; Mannekeenide jaemüük kauplustes ja ülemaailmse arvutivõrgu vahendusel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tuonti- ja vientipalvelut; Liikkeenjohto; Yrityshallinto; Mallinukkejen vähittäismyyntipalvelut myymälöissä ja maailmanlaajuisten elektronisten viestintäverkkojen välityksellä.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services d'importation et d'exportation; Gestion des affaires commerciales; Administration commerciale; Services de vente au détail dans les commerces et via des réseaux mondiaux de communication électronique de mannequins.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge uvoza i izvoza; Vođenje komercijalnih poslova; Komercijalna administracija; Usluge maloprodaje u trgovinama i putem globalnih mreža elektroničke komunikacije lutaka za izloge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Import és export szolgáltatások; Kereskedelmi ügyletek; Kereskedelmi adminisztráció; Próbababák bolti és az elektronikus kommunikációs világhálózatokon keresztül történő kiskereskedelme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di import-export; Gestione di affari commerciali; Amministrazione commerciale; Servizi di vendita al dettaglio in negozi e tramite reti informatiche mondiali di manichini.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Importo ir eksporto paslaugos; Verslo vadyba; Verslo tvarkyba; Mažmeninės prekybos parduotuvėse ir per pasaulinius elektroninius ryšius mašinomis paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Importa un eksporta pakalpojumi; Darījumu vadīšana; Uzņēmumu pārvaldīšana; Manekenu mazumtirdzniecība veikalos un globālajos sakaru tīklos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' importazzjoni u esportazzjoni; Il-ġestjoni ta' negozju; L-amministrazzjoni ta' negozju; Servizzi ta' bejgħ bl-imnut fil-ħwienet u permezz ta' netwerks mondjali tal-komunikazzjoni elettronika ta' manikini.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Import- en exportdiensten; Beheer van commerciële zaken; Zakelijke administratie; Detailverkoop in winkels en via wereldwijde elektronische communicatienetwerken van paspoppen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi importowo-eksportowe; Zarządzanie w działalności gospodarczej; Administrowanie działalności gospodarczej; Usługi sprzedaży detalicznej w sklepach i za pośrednictwem światowych sieci informatycznych elektronicznych w zakresie manekinów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de importação e exportação; Gestão de negócios comerciais; Administração comercial; Serviços de venda a retalho, em lojas e através de redes informáticas mundiais de comunicação electrónica, de manequins.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de import şi export; Gestiunea afacerilor comerciale; Administraţie comercială; Servicii de vânzare cu amănuntul în magazine şi prin reţelele mondiale de comunicaţie electronică de manechine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Služby v oblasti dovozu a vývozu; Obchodný manažment, obchodná správa; Obchodná administratíva; Služby maloobchodného predaja v obchodoch a prostredníctvom svetových počítačových sietí v oblasti figurín.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Uvozne in izvozne storitve; Vodenje komercialnih poslov; Poslovna administracija; Storitve prodaje izložbenih lutk na drobno v trgovinah in preko svetovnih omrežij elektronske komunikacije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Import- och exporttjänster; Företagsledning; Företagsadministration; Detaljförsäljning i affärer och via globala elektroniska kommunikationsnät av skyltdockor.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/079</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>618211</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15051</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

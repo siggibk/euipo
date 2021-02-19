@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:39</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226503</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226503</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-01</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>South Row</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>4</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Свещи.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Svíčky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kærter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kerzen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κεριά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Candles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Velas [iluminación].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Küünlad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kynttilät.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Bougies [éclairage].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Svijeće.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyertyák.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Candele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Žvakės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Sveces.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xemgħat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kaarsen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Świece.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Velas, candeias, círios [iluminação].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Lumânări.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Sviečky (na svietenie).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Sveče.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Ljus.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Осветителни апарати; Таванно осветление; Вентилатори за таван с интегрирано осветление; Декоративно осветление; Светлини за монтиране на стени; Лампи; Абажури за лампи; Нощни лампи; Лампи за бюро; Електрически лампи; Лампи за подове; Лампи за окачване на таван; Висящи лампи; Светодиодни [LED] лампи; Настолни лампи; Абажури за лампи за маси; Светодиодни фиксирани осветителни тела; Осветителни елементи; Светодиодни свещи; Фенери.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Přístroje na osvětlení; Stropní svítidla; Stropní větráky s integrovaným osvětlením; Dekorativní osvětlení; Nástěnná světla; Svítidla; Stínidla pro svítidla; Noční lampičky; Lampy na pracovní stoly; Elektrické světelné zdroje (žárovky, zářivky); Stojanová svítidla; Závěsná stropní svítidla; Závěsy na lampy; Lampy LED; Stolní lampy; Stínítka na stolní lampy; LED osvětlovací tělesa; Osvětlovací příslušenství; LED svíčky; Lucerny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Belysningsapparater; Loftsbelysning; Loftsventilatorer med lys; Dekorationsbelysning; Væglamper; Lamper; Lampeskærme; Sengelamper; Skrivebordslamper; Lamper, elektriske; Standerlamper; Pendler; Lampeophæng; LED-lamper; Bordlamper; Lampeskærme til bordlamper; LED-belysningsarmaturer; Belysningstilbehør; LED-stearinlys; Lygter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Beleuchtungsgeräte; Deckenlampen; Deckenventilatoren mit inegrierten Leuchten; Dekorationsleuchten; Wandleuchten für Beleuchtungszwecke; Beleuchtungslampen; Lampenschirme; Nachttischlampen; Schreibtischleuchten; Elektrische Lampen; Stehlampen; Deckenhängeleuchten; Lampenaufhängungen; LED-Lampen; Tischlampen; Lampenschirme für Tischlampen; LED-Beleuchtungsanlagen; Illuminationskörper; LED-Kerzen; Laternen [Beleuchtung].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μονάδες φωτισμού· Οροφής φωτισμοί· Ανεμιστήρες οροφής με ενσωματωμένα φώτα· Φωτιστικά διακοσμητικά αντικείμενα· Λαμπτήρες τοίχου· Φωτισμός (λαμπτήρες -ού)· Αμπαζούρ· Λάμπες κομοδίνου· Λάμπες γραφείου· Ηλεκτρικές λυχνίες· Φωτιστικά δαπέδου· Κρεμαστά φωτιστικά οροφής· Κρεμαστές λάμπες· Λυχνίες φωτοδιόδων (LED)· Επιτραπέζιες λάμπες· Επιτραπέζιες λάμπες (Αμπαζούρ για -)· Διατάξεις φωτισμού με φωτοδιόδους (LED)· Εξαρτήματα φωτισμού· Κεριά με φωτοδιόδους· Φανοί φορητοί.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Lighting; Ceiling lights; Ceiling fans with integrated lights; Decorative lights; Wall lights; Lamps; Lampshades; Lampstands; Bedside lamps; Desk lamps; Electric lamps; Floor lamps; Hanging ceiling lamps; Hanging lamps; LED lamps; Lighting lamps; Overhead lamps; Table lamps; Table lamp (Lampshades for -); LED lighting fixtures; Lighting fixtures; Lighting fittings; LED candles; Lanterns.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aparatos de iluminación; Plafones [lámparas]; Ventiladores de techo con luces integradas; Iluminación decorativa; Lámparas de pared; Lámparas [aparatos de iluminación]; Pantallas de lámparas; Lámparas de noche; Lámparas de escritorio; Lámparas eléctricas; Lámparas de suelo; Lámparas que cuelgan del techo; Mecanismos de suspensión para lámparas; Lámparas LED; Lámparas de mesa; Lámpara de mesa (Pantallas para -); Apliques de iluminación led; Accesorios de alumbrado; Velas de led; Faroles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Valgustusaparaadid; Laevalgustid; Sisseehitatud valgusallikaga laeventilaatorid; Dekoratiivvalgustid; Seinavalgustid; Lambid [valgustid]; Lambivarjud; Öökapilambid; Kirjutuslaualambid; Elektrilambid; Tänavalaternad; Rippuvad laelambid; Lampide rippkinnitid; Valgusdioodlambid, LED-lambid; Laualambid; Laualampide lambivarjud; LED-valgustiarmatuurid; Valgustustarvikud; LED-küünlad; Laternad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Valaisinlaitteet; Kattovalaisimet; Integroiduilla valoilla varustetut kattotuulettimet; Koristevalot; Seinälamput; Lamput; Lampunvarjostimet; Yölamput; Työpöytälamput; Sähkölamput; Lattialamput; Lamput, jotka riippuvat katoista; Ripustimet lamppuihin; LED-lamput; Pöytävalaisimet; Pöytälamppujen lampunvarjostimet; LED-valaistuslaitteistot; Valaisintarvikkeet; LED-kynttilät; Lyhdyt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Appareils d'éclairage; Plafonniers; Ventilateurs de plafond avec lumières intégrées; Luminaires décoratifs; Appareils d'éclairage fixés au mur; Lampes d'éclairage; Abat-jour; Lampes de chevet; Lampes de bureau; Lampes électriques; Lampadaires; Lampes de plafond suspendues; Suspensions pour lampes; Ampoules DEL; Lampes de table; Abat-jour pour lampes de table; Luminaires DEL; Garnitures de lampes; Bougies à DEL; Lanternes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Rasvjetni uređaji; Stropna svjetla; Stropni ventilatori s ugrađenim svjetlima; Dekorativna rasvjeta; Zidna rasvjeta; Rasvjetne svjetiljke; Sjenila za svjetiljke; Noćne lampe; Lampe za pisaći stol; Električne svjetiljke; Podne svjetiljke; Viseći stropni lusteri; Viseće svjetiljke; Svjetiljke LED; Stolne svjetiljke; Stolna svjetiljka (sjenila za-); Rasvjetna LED tijela; Oprema za rasvjetu; LED svijeće; Lanterne [fenjeri].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Világítókészülékek; Mennyezetvilágítások, mennyezeti lámpák; Mennyezeti ventilátorok beépített világítással; Dekorációs fények, világítóeszközök; Fali világítás; Lámpák; Lámpaernyők; Éjjeli lámpák; Íróasztali lámpák; Elektromos lámpák; Lámpaoszlopok [utcai]; Mennyezeti függőlámpák; Lámpa akasztók; LED-lámpák; Asztali lámpák; Asztali lámpákhoz való lámpaernyők; LED-es világítószerelvények; Szerelvények, armatúrák világításokhoz; LED gyertyák; Lámpások, világítótestek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Apparecchi per illuminazione; Plafoniere; Ventilatori da soffitto con illuminazione integrata; Luci decorative; Lampade da parete; Lampade per illuminazione; Paralumi; Lampade per comodini; Lampade da scrivania; Lampade elettriche; Lampade da pavimento; Lampade a sospensione a soffitto; Sospensioni per lampade; Lampade a LED; Lampade da tavolo; Lampade da tavolo (Paralumi per -); Impianti d'illuminazione a LED; Elementi d' illuminazione; Candele a LED; Lanterne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Apšvietimo aparatai; Pakabinamieji šviestuvai; Lubų ventiliatoriai su įmontuotais šviestuvais; Dekoratyvinės lempos; Sieniniai šviestuvai; Lempos; Lempų gaubtai; Naktinės lempos; Stalinės lempos; Elektros lempos; Toršerai; Kabančios lubų lempos; Pakabinamos lempos (šviestuvai); Šviesolaidžio (LED) lempos; Stalo šviestuvai; Stalinių lempų gaubtai; Šviesos diodų apšvietimo įranga; Apšvietimo įrenginių detalės; Žvakės su šviesos diodais (LED); Žibintai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apgaismes ķermeņi; Griestu lampas; Griestu ventilatori ar integrētām spuldzēm; Dekoratīva apgaismojuma ierīces; Sienas gaismekļi; Lampas; Lampu abažūri; Naktslampiņas; Rakstāmgalda lampas; Elektriskās lampas un spuldzes; Ielu apgaismošanas lampas; Piekaramas griestu lampas; Lampu piekaramie balsti; LED lampas; Galda lampas; Abažūri galda lampām; LED gaismekļi; Apgaismes piederumi; Gaismas diožu sveces; Laternas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Apparat għat-tidwil; Dwal tas-soqfa; Fannijiet tas-saqaf bid-dwal integrati; Dwal dekorattivi; Dwal tal-ħajt; Lampi; Paralumi; Lampi ta' ħdejn is-sodda; Lampi tal-iskrivaniji; Sistemi għad-dawl elettriku; Lanterni bis-sieq; Lampi li jiddendlu mas-saqaf; Lampi li jiddendlu; Lampi LED; Lampi ta' fuq il-mejda; Lampi ta' fuq il-mejda (Paralumi għal -); Partijiet fissi tad-dawl LED; Tagħmir fiss tad-dawl; Xemgħat tal-LED; Lanterni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Verlichtingsapparaten; Plafondlampen; Plafondventilators met geïntegreerde verlichting; Decoratieve verlichting; Wandverlichting; Lampen voor verlichting; Lampenkappen; Bedlampen; Bureaulampen; Elektrische lampen; Staande lampen; Hanglampen voor plafonds; Ophangingen voor lampen; Led-lampen; Tafellampen; (Lampenkampen voor -) tafellampen; Led-verlichtingsarmaturen; Lamparmaturen; Ledkaarsen; Stormlantaarns.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia oświetleniowe; Światła sufitowe; Wiatraki sufitowe z wbudowanymi światłami; Oświetlenie dekoracyjne; Oświetlenie ścienne; Lampy oświetleniowe; Abażury do lamp; Lampki nocne; Lampki biurkowe; Lampy elektryczne; Lampy podłogowe; Sufitowe lampy wiszące; Zawieszenia do lamp; Lampy LED; Lampy stołowe; Abażury do lamp stołowych; Oprawy oświetleniowe LED; Osprzęt oświetleniowy; Świece LED; Latarnie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aparelhos de iluminação; Candeeiros de teto; Ventoinhas de teto com luzes integradas; Luzes decorativas; Lâmpadas de murais; Lâmpadas; Abat-jour; Candeeiros de cabeceira; Candeeiros de secretária; Lâmpadas elétricas; Candeeiros de pé; Candeeiros de pendurar no teto; Lâmpadas (Dispositivos para suspensão de -); Lâmpadas LED; Candeeiros de mesa; Abajures para candeeiros de mesa; Luminárias de LED; Acessórios para iluminação; Velas LED; Lanternas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aparate de iluminat; Plafoniere; Ventilatoare de tavan cu lumini integrate; Lumini decorative; Aplice de perete; Lămpi de iluminat; Abajururi; Veioze de noptieră; Lămpi de birou; Lămpi electrice; Lampi de podea; Lămpi de plafon suspendate; Dispozitive pentru suspendarea lămpilor; Lămpi cu LED; Lămpi de masă; Abajururi pentru lămpi de masă; Corpuri de iluminat cu LED; Accesorii pentru corpuri de iluminat; Lumânări cu led-uri; Felinare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Osvetľovacie prístroje; Stropné svetlá; Stropné ventilátory s integrovaným osvetlením; Ozdobné svetlá; Svetlá na priedeloch; Lampy; Tienidlá na lampy; Nočné lampy; Lampy na písacie stoly; Elektrické lampy; Pouličné lampy, kandelábre; Závesné stropné lampy; Závesy na lampy; LED lampy; Stolové lampy; Tienidlá pre stolové lampy; LED osvetľovacie zariadenia; Príslušenstvo svietidiel; LED-sviečky; Lampáše.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Aparati za razsvetljavo; Stropne luči; Stropni ventilatorji z vgrajenimi lučmi; Dekorativne luči; Stenske svetilke; Svetilke; Senčniki za svetilke; Nočne svetilke; Svetilke za pisalno mizo; Električne svetilke; Cestne svetilke; Viseče stropne svetilke; Obešala za luči; LED svetilke; Namizne svetilke; Senčniki za namizne luči; Napeljave za LED osvetljavo; Električne instalacije za osvetljevanje; LED sveče; Lanterne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Apparater för belysning; Innertaksbelysningar; Takfläktar med inbyggda lampor; Prydnadsbelysning; Lampor för väggprydnad; Lampor; Lampskärmar; Sänglampor; Skrivbordslampor; Elektriska lampor; Golvlampor; Lampor som hänger från tak; Lampupphängningar; LED-lampor; Bordslampor; Lampskärmar för bordslampor; LED-belysningsarmaturer; Belysningselement; Levande ljus med lysdioder; Lanternor.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>14</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Орнаментни скулптури, изработени от благороден метал; Скулптури от благородни метали; Ръчни часовници; Корпуси на часовници; Настолни часовници; Големи часовници, който стоят на пода.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Ozdobné sochy vyrobené z drahého kovu; Sochy z drahých kovů; Hodiny; Krbové hodiny; Stolní hodiny; Podlahové hodiny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Pynteskulpturer af ædle metaller; Skulpturer af ædelmetal; Ure; Kaminure; Bordure; Bornholmerure.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schmuckskulpturen aus Edelmetall; Skulpturen aus Edelmetall; Uhren; Kaminuhren; Tischuhren; Fluruhren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διακοσμητικά γλυπτά από πολύτιμα μέταλλα· Γλυπτά από πολύτιμα μέταλλα· Ρολόγια τοίχου ή επιτραπέζια, κοσμήματα· Διακοσμητικά επιτραπέζια ρολόγια· Επιτραπέζια ρολόγια· Ωρολόγια δαπέδου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Ornamental sculptures made of precious metal; Sculptures made from precious metal; Sculptures made of precious metal; Sculptures of precious metal; Clocks; Mantle clocks; Wall clocks; Table clocks; Floor clocks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Esculturas ornamentales hechas de metales preciosos; Esculturas de metales preciosos; Relojes que no sean de uso personal; Relojes de repisa; Relojes de sobremesa; Relojes de pie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Väärismetallist dekoratiivskulptuurid; Väärismetallist skulptuurid; Kellad; Kaminakellad; Lauakellad; Põrandakellad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Koristeelliset jalometalliset veistokset; Jalometalliveistokset; Kellot; Manttelikello; Pöytäkellot; Lattiakellot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Sculptures décoratives en métaux précieux; Sculptures en métaux précieux; Horloges; Pendules de cheminée; Horloges de table de bureau; Horloges sur pieds.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ukrasne skulpture napravljene od plemenitog metala; Skulpture od plemenitog metala; Satovi, zidni; Samostojeći satovi; Stolni satovi; Stojeći sat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Nemesfémből készült díszszobrok; Nemesfémből készült szoborművek; Órák; Kandallóórák; Asztali órák; Padlóórák, állóórák.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Sculture ornamentali in metallo prezioso; Sculture in metallo prezioso; Orologi a pendolo; Orologi da mensola; Orologi da tavolo; Orologi a pendolo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dekoratyvinės brangiųjų metalų skulptūrėlės; Skulptūros, pagamintos iš brangiųjų metalų; Laikrodžiai [sieniniai, staliniai, bokšto]; Pastatomieji laikrodžiai; Stalo laikrodžiai; Pastatomi laikrodžiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dekoratīvas skulptūras no cēlmetāla; Skulptūras no dārgmetāla; Pulksteņi; Pulksteņi ar koka korpusu; Galda pulksteņi; Stāvpulksteņi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Skulturi ornamentali tal-metall prezzjuż; Skulturi magħmulin minn metall prezzjuż; Arloġġi ta' l-id; Arloġġi ta' fuq l-ixkaffa; Arloġġi tal-mejda; Arloġġi tal-art.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Sculpturen van edele metalen; Beeldhouwwerken van edele metalen; Klokken; Mantelklokken; Tafelklokken; Staande uurwerken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Ozdobne rzeźby wykonane z metali szlachetnych; Rzeźby z metali szlachetnych; Zegarki; Zegary w obudowie; Zegary stołowe; Zegary podłogowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Esculturas ornamentais em metais preciosos; Esculturas em metais preciosos; Relógios; Relógios de lareira; Relógios de mesa; Relógios de chão.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Sculpturi ornamentale confecționate din metale prețioase; Sculpturi din metale prețioase; Brățară (Ceasuri cu -); Ceasuri de șemineu; Ceasuri de masă; Orologii stative.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Ozdobné sochy a sošky z drahých kovov; Sochy z drahých kovov; Hodiny; Kozubové hodiny; Stolové hodinky; Stojanové hodiny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Okrasne skulpture iz žlahtnih kovin; Skulpture iz žlahtnih kovin; Ročne ure; Samostoječe ure; Namizne ure; Stoječe ure.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Prydnadsskulpturer av ädla metaller; Skulpturer av ädelmetall; Klockor; Mantelklockor; Bordsur; Golvur.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Мебели; Oгледала (посребрено стъкло); Декоративни огледала; Рамки за огледала; Огледала [мебели]; Огледала за стена; Декоративни скулптури от гипс; Декоративни статуетки от дърво; Скулптури от пластмаса; Скулптури от гипс; Скулптори от восък; Скулптори от дърво; Ниски маси; Конзолни маси; Нощни шкафчета; Нощни шкафчета и масички; Мебели за бани; Закачалки за шапки; Закачалки за дрехи [стоящи]; Табуретки за крака; Шезлонги; Рамки за картини; Табуретки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nábytek; Zrcadla; Ozdobná zrcadla; Rámy na zrcadla; Zrcadla (nábytek); Nástěnná zrcadla; Ozdobné plastiky vyrobené ze sádry; Ozdobné plastiky vyrobené ze dřeva; Sochy vyrobené z plastu; Sochy [lidské postavy] vyrobené ze sádry; Řezby z vosku; Sochy vyrobené ze dřeva; Konferenční stolky; Konzolové stolky (přístěnné stolky); Noční stolky; Noční stolky; Koupelnový nábytek; Stojany na klobouky; Věšáky [nábytek]; Stoličky; Křesla; Rámy na obrazy; Podnožky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Møbler; Spejle (forsølvet glas); Dekorative spejle; Spejlrammer; Spejle [møbler]; Vægspejle; Skulpturer af gips til udsmykning; Dekorative træskulpturer; Skulpturer af plastik; Gipsstatuer; Skærearbejde af voks; Skulpturer af træ; Kaffeborde; Konsolborde; Natborde; Natborde og sengeborde; Badeværelsesmøbler; Hattestativer; Stumtjenere; Taburetter; Lænestole; Billedrammer; Fodskamler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Möbel; Spiegel [versilbertes Glas]; Dekorative Spiegel; Spiegelrahmen; Spiegel [Möbel]; Wandspiegel; Schmuckskulpturen aus Gips; Schmuckskulpturen aus Holz; Skulpturen aus Kunststoff; Statuen aus Gips; Skulpturen aus Wachs; Skulpturen aus Holz; Couchtische; Konsolentische; Beistellschränke; Nachttische; Badezimmermöbel; Hutständer; Kleiderständer [Möbel]; Hocker; Polstersessel; Bilderrahmen; Schemel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Έπιπλα· Καθρέπτες (επαργυρωμένο γυαλί)· Διακοσμητικοί καθρέπτες· Κορνίζες καθρεπτών· Καθρέφτες [έπιπλα]· Καθρέφτες τοίχου· Διακοσμητικά ειδώλια από γύψο· Διακοσμητικά γλυπτά από ξύλο· Γλυπτά από πλαστικό· Γύψινα γλυπτά [αγάλματα]· Σκαλιστά αντικείμενα από κερί· Γλυπτά από ξύλο· Τραπέζια σαλονιού· Κονσόλες· Κομοδίνα· Κομοδίνα· Έπιπλα μπάνιου· Καλόγηροι/καπελιέρες· Κρεμάστρες παλτών (καλόγεροι)· Σκαμπό· Ξαπλώστρες [σεζ-λονγκ]· Κάδρα [πλαίσια]· Σκαμπό.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Furniture; Mirrors; Decorative mirrors; Frames for mirrors; Mirrors [furniture]; Wall mirrors; Ornamental sculptures made of plaster; Ornamental sculptures made of wood; Sculptures made from plastic; Sculptures made from plaster; Sculptures made from wax; Sculptures made from wood; Coffee tables; Console tables; Bedside lockers; Bedside tables; Bathroom furniture; Hat stands; Coat stands; Stools; Armchairs; Picture frames; Footstools.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Muebles; Espejos (vidrio argentado); Espejos decorativos; Marcos para espejos; Espejos [muebles]; Espejos de pared; Esculturas ornamentales hechas de escayola; Esculturas ornamentales hechas de madera; Esculturas de materias plásticas; Estatuas de yeso; Tallas de cera; Esculturas hechas de madera; Mesas de centro; Consolas [muebles]; Armarios de cabecera; Mesitas de noche; Mobiliario de cuarto de baño; Percheros para sombreros; Percheros [muebles]; Taburetes; Sillones; Marcos [arte y decoración]; Reposapiés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mööbel; Peeglid (hõbetatud klaas); Dekoratiivpeeglid; Peegliraamid; Peeglid [mööbel]; Seinapeeglid; Kipsist dekoratiivkujukesed; Puidust dekoratiivkujud; Plastist valmistatud skulptuurid; Kipsist kujud; Vahast nikerdised; Puidust valmistatud skulptuurid; Diivanilauad; Konsoollauad; Öökapid; Öökapid; Vannitoamööbel; Kübaravarnad; Riidevarnad; Taburetid; Tugitoolid; Pildiraamid; Jalapingid, järid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Huonekalut; Peilit (hopeoitu lasi); Sisustuspeilit; Peilien kehykset; Peilit [huonekalut]; Seinäpeilit; Koristeveistokset kipsistä; Koristeveistokset puusta; Muovista valmistetut veistokset; Kipsiveistokset; Vahaveistokset; Puusta valmistetut veistokset; Sohvapöydät; Konsolipöydät; Yöpöytälipastot; Yöpöydät; Kylpyhuonekalusteet; Hattutelineet; Vaatenaulakot; Jakkarat; Sohvat; Taulunkehykset; Jakkarat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Meubles; Miroirs (verre argenté); Miroirs décoratifs; Cadres de miroirs; Miroirs [meubles]; Miroirs muraux; Sculptures décoratives en plâtre; Sculptures décoratives en bois; Sculptures en matières plastiques; Statues en plâtre; Sculptures en cire; Sculptures en bois; Tables basses; Consoles [meubles]; Tables de nuit; Tables de nuit, tables de chevet; Mobilier de salle de bains; Porte-chapeaux; Portemanteaux [meubles]; Tabourets; Fauteuils; Cadres [encadrements]; Tabourets.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Namještaj; Ogledala (posrebreno staklo); Ukrasna zrcala; Okviri ogledala; Ogledala [namještaj]; Zidna ogledala; Ukrasne figurice od gipsa; Ukrasni kipovi od drveta; Skulpture od plastike; Skulpture od gipsa; Rezbarije od voska; Skulpture od drveta; Niski stolići; Konzolni stolovi; Noćni ormarići; Noćni ormarići; Kupaonski namještaj; Stalci za šešire; Vješalice za odjeću [namještaj]; Klupica za noge; Sofe; Okviri za slike; Stolice bez naslona.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Bútorok; Tükrök (ezüstözött üveg); Dísztükrök; Tükörkeretek; Tükrök [bútor]; Falitükrök; Díszítő szobrok gipszből; Díszítő szobrok fából; Műanyagból készült szobrok; Gipszből készült szobrok; Viaszfaragványok; Fából készült szobrok; Dohányzóasztalok; Konzolasztalok; Éjjeliszekrények; Éjjeli szekrények, ágyszekrények; Fürdőszobabútorok; Álló kalapfogasok; Fogasok [bútorok]; Zsámolyok; Kanapék; Képkeretek; Zsámolyok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Mobilia; Specchi (vetro argentato); Specchi decorativi; Cornici per specchi; Specchi [mobili]; Specchi a muro; Statuette ornamentali in gesso; Statuette ornamentali in legno; Sculture in plastica; Statue in gesso; Intagli in cera; Sculture in legno; Tavolini da salotto; Console [mobili]; Comodini con chiusura; Tavolini da notte; Mobili per il bagno; Porta-cappelli; Attaccapanni [mobili]; Sgabelli; Poltrone; Cornici [incorniciature]; Poggiapiedi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Baldai; Veidrodžiai; Dekoratyviniai veidrodžiai; Veidrodžių rėmai; Veidrodžiai [baldai]; Sieniniai veidrodžiai; Gipsinės dekoratyvinės skulptūros; Medinės dekoratyvinės skulptūros; Plastikinės skulptūros; Gipsinės statulos; Vaško drožiniai [raižiniai]; Medinės skulptūros; Kavos staliukai; Aparatūros staleliai; Užrakinamos lovų spintelės; Staliukai prie lovos; Vonios kambario baldai; Skrybėlių kabyklos; Drabužių kabyklos; Taburetės; Krėslai; Paveikslų rėmai; Kojų suoleliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mēbeles; Spoguļi; Dekoratīvi spoguļi; Rāmji spoguļiem; Spoguļi [mēbeles]; Sienas spoguļi; Dekoratīvas statuetes no ģipša; Dekoratīvas statujas no koka; Plastmasas skulptūras; Ģipša statujas; Vaska grebumi; No koka izgatavotas skulptūras; Kafijas galdiņi; Konsoles galdiņi; Naktsskapīši; Naktsskapīši un naktsgaldiņi; Vannasistabas mēbeles; Cepuru statīvi; Virsdrēbju pakaramie; Taburetes; Atzveltnes krēsli; Attēlu rāmji; Kājsoliņi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Għamara; Mirja (silvered glass); Mirja dekorattivi; Gwarniċ għall-mirja; Mirja [għamara]; Mirja tal-ħajt; Skulturi ornamentali magħmulin mill-ġibs; Skulturi ornamentali magħmulin mill-injam; Skulturi magħmula mill-plastik; Figuri tal-plastik; Tinqix tax-xama'; Skulturi magħmula mill-injam; Imwejjed tal-kafé; Mensuletti; Armarji għal ma' ġenb is-sodda; Komodini ta' mas-sodda; Għamara tal-kmamar tal-banju; Xtillieri għall-kpiepel; Stands tal-kowtijiet; Banketti; Sufani; Frejms tar-ritratti; Banketti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Meubelen; Spiegels; Decoratieve spiegels; Lijsten voor spiegels; Spiegels [meubelen]; Wandspiegels; Sierbeeldjes van gips; Siervoorwerpen van hout; Plastic figuren; Beelden van gips; Snijwerk van was; Beeldhouwwerken van hout; Salontafels; Consoletafels; Nachtkastjes; Nachtkastjes; Badkamermeubilair; Hoedenstandaards; Kapstokken [meubelen]; Zitkrukjes; Armstoelen; Lijsten [omlijstingen]; Zitkrukjes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Meble; Lustra (srebrzone szkło); Ozdobne lustra; Ramy do luster; Lustra [meble]; Lustra ścienne; Ozdobne rzeźby wykonane z gipsu; Ozdobne rzeźby wykonane z drewna; Rzeźby wykonane z tworzyw sztucznych; Figurki wykonane z gipsu; Wyroby rzeźbione z wosku; Rzeźby wykonane z drewna; Stoliki kawowe; Konsole; Szafki nocne; Stoliki nocne; Meble łazienkowe; Stojaki na kapelusze; Wieszaki stojące na płaszcze; Taborety; Kanapy; Obrazy (Ramy do -); Taborety.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Mobiliário; Espelhos (vidro prateado); Espelhos decorativos; Molduras de espelhos; Espelhos [móveis]; Espelhos de parede; Esculturas ornamentais em gesso; Esculturas ornamentais em madeira; Esculturas em matérias plásticas; Estátuas em gesso; Entalhes em cera; Esculturas de madeira; Mesas de centro; Consolas [mobiliário]; Mesas de cabeceira; Mesas de cabeceira; Mobiliário para casas de banho; Chapeleiros [bengaleiros]; Bengaleiros para casacos; Tamboretes; Poltronas [cadeirões]; Molduras; Bancos para apoio de pés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Piese de mobilier; Oglinzi (sticlă argintată); Oglinzi decorative; Rame pentru oglinzi; Oglinzi [mobilier]; Oglinzi de perete; Sculpturi ornamentale realizate din ipsos; Sculpturi ornamentale realizate din lemn; Sculpturi din plastic; Sculpturi din ipsos; Sculpturi de ceară; Sculpturi realizate din lemn; Măsuțe; Mese consolă; Noptiere; Noptiere; Mobilier de baie; Suporturi pentru pălării; Cuiere de haine [mobile]; Taburete; Șezlonguri pentru transatlantice; Cadre [rame]; Taburete.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nábytok; Zrkadlá; Ozdobné zrkadlá; Zrkadlové rámy; Zrkadlá [nábytok]; Nástenné zrkadlá; Ozdobné sochy zo sadry; Ozdobné sochy z dreva; Sochy z plastov; Sadrové sochy; Rezby z vosku; Sochy vyrobené z dreva; Konferenčné stolíky; Pultové stoly; Nočné stolíky; Nočné stolíky; Nábytok do kúpeľne; Stojany na klobúky; Stojany na vešanie kabátov; Taburetky; Kreslá; Rámy na obrazy; Taburety.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pohištvo; Ogledala (posrebreno steklo); Dekorativna ogledala; Okvirji za ogledala; Ogledala [pohištvo]; Stenska ogledala; Okrasne skulpture iz mavca; Okrasne skulpture iz lesa; Plastične skulpture; Plastični kipi; Rezbarije iz voska; Skulpture iz lesa; Klubske mizice; Stenske mize s podstavkom; Nočne omarice; Nočne omarice; Pohištvo za kopalnice; Stojala za klobuke; Garderobna stojala; Pručke; Zofe; Okvirji za slike; Stolčki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Möbler; Speglar (försilvrat glas); Prydnadsspeglar; Spegelramar; Speglar [möbler]; Väggspeglar; Prydnadsskulpturer av gips; Prydnadsskulpturer av trä; Skulpturer av plast; Statyer av gips; Skulpturer av vax; Träskulpturer; Soffbord; Konsolbord; Nattduksbord; Nattduksbord och sängbord; Möbler för badrum; Hattställ; Klädhängare (möbler); Pallar; Fåtöljer; Tavelramar; Fotpallar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>21</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Керамика; Декоративни скулптори, изработени от порцелан; Скулптури, изработени от стъкло; Керамични фигурки; Произведения на изкуството, изработени от стъкло; Произведения на изкуството, изработени от грънчарски продукти; Порцеланови орнаменти; Светилници, не от благороден метал; Вази.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Hrnčířské výrobky; Ozdobné figurky vyrobené z porcelánu; Sochy vyrobené ze skla; Figurky vyrobené z terakoty; Umělecká díla vyrobená ze skla; Umělecká díla z kameniny; Dekorační předměty z porcelánu; Svícny; Vázy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Pottemagervarer; Skulpturer [pyntegenstande] af porcelæn; Skulpturer af krystal; Statuetter af terrakotta; Pyntegenstande af glas; Kunstgenstande af lertøj; Nipsting af porcelæn; Kandelabre [lysestager]; Vaser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Töpferwaren; Porzellanstatuen; Glasfigürchen; Keramikfiguren; Ornamentglas; Keramikkunstgegenstände; Chinoiserie aus Porzellan; Leuchter; Vasen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κεραμικά· Διακοσμητικά γλυπτά από σινική πορσελάνη· Ειδώλια από γυαλί· Αγαλματίδια από τερακότα· Είδη τέχνης φτιαγμένα από γυαλί· Διακοσμητικά από φαγεντιανά· Κινέζικες πορσελάνες (είδη πορσελάνης)· Κηροπήγια [μονά κηροπήγια]· Βάζα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Pottery; Sculptures of china; Sculptures of crystal; Sculptures of earthenware; Sculptures of glass; Sculptures of porcelain; Sculptures of terracotta; Ornaments made of glass; Ornaments made of earthenware; Ornaments made of ceramics; Ornaments made of china; Ornaments made of crystal; Ornaments made of porcelain; Candle holders; Vases.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Artículos de alfarería; Esculturas ornamentales hechas de porcelana china; Estatuas de cristal; Figuritas de terracota; Objetos de arte de cristalería; Obras de arte de loza; Adornos de porcelana; Candeleros; Jarrones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Pottsepatooted; Portselanist dekoratiivskulptuurid; Klaasist valmistatud skulptuurid; Terrakotast valmistatud kujud; Klaasist kunstiesemed; Savist valmistatud kunstiteosed; Portselanornamendid; Küünlajalad; Vaasid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Keramiikka-astiat; Koristeveistokset posliinista; Veistokset lasista; Pienoispatsaat terrakottasta; Lasista valmistetut taide-esineet; Keraamiset taide-esineet; Posliinikoristeet; Kynttilänjalat; Maljakot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Poteries; Figurines en verre décoratif; Sculptures en verre; Figurines en terra-cotta; Objets d'art en verre; Objets d'art en faïence; Ornements en porcelaine; Chandeliers; Vases.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Zemljano posuđe; Kipovi od porculana; Kipovi od stakla; Figurice izrađene od terakote; Umjetnine od stakla; Glineni ukrasi; Ukrasi izrađeni od porculana; Svijećnjaci; Vaze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fazekasáruk; Szobrok [dísztárgyak] porcelánból; Szobrok üvegből; Terrakottából készült szobrocskák; Üvegből készült művészeti alkotások; Cserépből készült műtárgyak; Porcelándíszek; Gyertyatartók; Vázák.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Vasellame [di terracotta]; Sculture ornamentali in porcellana fine; Statuette di cristallo; Statue in terracotta; Oggetti d'arte in vetro; Oggetti d'arte in terracotta; Ornamenti in porcellana; Candelabri; Vasi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Keramikos dirbiniai; Porcelianinės dekoratyvinės statulėlės; Krištolinės statulėlės; Terakotos statulėlės; Meno kūriniai iš stiklo; Moliniai meno dirbiniai; Porcelianiniai kiniški dailės mažmožiai; Kandeliabrai; Vazos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Podniecības izstrādājumi; No porcelāna izgatavotas dekoratīvas skulptūras; Stikla skulptūras; Terakotas figūriņas; Mākslas darbi no stikla; Keramikas mākslas darbi; Porcelāna dekori; Kandelabri (žuburaini svečturi); Vāzes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Fuħħar; Skulturi ornamentali magħmulin mill-porċellana; Skulturi tal-kristall; Figurini tat-terrakotta; Xogħlijiet tal-arti magħmula mill-ħġieġ; Xogħlijiet tal-arti magħmula mill-fuħħar; Ornamenti magħmula mill-kina; Gandlieri; Vażuni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Pottenbakkerswaren; Sierbeeldjes vervaardigd uit porselein; Figuurtjes van kristal; Beelden van aardewerk; Kunstvoorwerpen van glas; Kunstwerken vervaardigd uit aardewerk; Chinese kunstvoorwerpen [porselein]; Kandelaars; Vazen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Wyroby garncarskie; Ozdobne rzeźby wykonane z porcelany; Rzeźby ze szkła; Figurki z terakoty; Wyroby artystyczne ze szkła; Ceramiczne dzieła sztuki; Ozdoby z porcelany; Świeczniki; Wazony.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cerâmica; Estátuas decorativas feitas de louça chinesa; Esculturas em vidro; Estatuetas feitas em terracota; Obras de arte em vidro; Obras de arte em faiança; Porcelanas chinesas; Candelabros [castiçais]; Vasos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Produse de olărie; Sculpturi ornamentale realizate din porțelan; Sculpturi din sticlă; Figurine din teracotă; Obiecte de artă din sticlă; Lucrări de artă confecționate din ceramică; Bibelouri de porțelan; Sfeșnice; Vaze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Hrnčiarsky tovar; Ozdobné sochy z porcelánu; Sošky zo skla; Figúrky z terakoty; Umelecké diela vyrobené zo skla; Umelecké diela vyrobené z keramiky (kameniny); Čínsky porcelán; Viacramenné svietniky; Vázy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Lončene posode; Okrasne skulpture iz porcelana; Kipci iz stekla; Figurice iz terakote; Umetniška dela iz stekla; Umetniška dela iz gline; Okraski iz porcelana; Svečniki; Vaze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Keramikvaror; Prydnadsfiguriner gjorda av finare porslin; Statyetter av kristall; Figuriner av terrakotta; Konstföremål av glas; Konstverk gjorda av keramik; Porslinsprydnader; Kandelabrar; Vaser.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/077</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080402</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>54475</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018132418</RecordIdentifier>
+<BasicRecordKind>Representative - Change of name and professional address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>54475</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-07-09</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

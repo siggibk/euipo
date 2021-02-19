@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-21T08:40:37</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229603</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229603</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-15</RegistrationDate>
+<ApplicationLanguageCode>pl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-19</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Karpackie PREMIUM</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162500983</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229603/000162500983.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>05.03.11</CategoryCode>
+          <CategoryCode>05.03.13</CategoryCode>
+          <CategoryCode>05.07.02</CategoryCode>
+          <CategoryCode>05.07.07</CategoryCode>
+          <CategoryCode>06.01.02</CategoryCode>
+          <CategoryCode>11.03.03</CategoryCode>
+          <CategoryCode>19.07.25</CategoryCode>
+          <CategoryCode>24.05.07</CategoryCode>
+          <CategoryCode>25.01.19</CategoryCode>
+          <CategoryCode>25.01.25</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>32</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бира.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pivo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Øl.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ζύθος.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Beer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cervezas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Õlu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Olut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Bières.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pivo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sörök.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Birre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Alus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Alus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Birer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Piwo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cerveja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Bere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Pivo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pivo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Öl.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/085</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-07</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/156</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-18</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/180</PublicationIdentifier>
+        <PublicationSection>C.2.2</PublicationSection>
+        <PublicationDate>2020-09-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>661459</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>27068</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018511363</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>27068</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-09-21</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

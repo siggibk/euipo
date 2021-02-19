@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-17T08:58:57</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229024</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229024</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="1">Application published</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>CREMA NERA REVISCENTALIS META CONCENTRATE GIORGIO ARMANI</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162457145</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229024/000162457145.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Козметични средства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kosmetické přípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kosmetik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kosmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καλλυντικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Cosmetics.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cosméticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kosmeetikavahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kosmetiikka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Cosmétiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kozmetički proizvodi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kozmetikai szerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cosmetici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kosmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kosmētikas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kożmetiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Cosmetica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kosmetyki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cosméticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cosmetice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kozmetické prípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kozmetični izdelki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kosmetika.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/155</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-08-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>168495</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>35495</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

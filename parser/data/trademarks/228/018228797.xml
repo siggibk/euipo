@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228797</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228797</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>FIBER DUST</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Лазери за медицински цели; Медицински устройства за грижа за кожата; Медицински изделия за козметична и дерматологична употреба; Хирургически, медицински, стоматологични и ветеринарни апарати и инструменти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Lasery pro lékařské účely; Lékařská zařízení pro péči o pokožku; Léčebná zařízení ke kosmetickým a dermatologickým účelům; Chirurgické, lékařské, stomatologické a veterinární přístroje a nástroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Lasere til medicinske formål; Medicinsk udstyr til hudpleje; Medicinsk udstyr til kosmetisk og dermatologisk brug; Kirurgiske, medicinske, odontologiske og veterinære apparater og instrumenter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Laser für medizinische Zwecke; Medizinsche Hautpflegegeräte; Medizinische Geräte für kosmetische und dermatologische Zwecke; Chirurgische, ärztliche, zahn- und tierärztliche Apparate und Instrumente.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λέιζερ ιατρικής χρήσης· Ιατρικές διατάξεις περιποίησης του δέρματος· Ιατρικές διατάξεις για καλλωπιστική και δερματολογική χρήση· Όργανα και εργαλεία χειρουργικά, ιατρικά, οδοντιατρικά και κτηνιατρικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Lasers for medical purposes; Skin care medical devices; Medical devices for cosmetic and dermatological use; Surgical, medical, dental and veterinary apparatus and instruments.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Láseres para uso médico; Dispositivos médicos para el cuidado de la piel; Dispositivos médicos para uso cosmético y dermatológico; Aparatos e instrumentos quirúrgicos, médicos, dentales y veterinarios.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiinilised laserid; Meditsiinilised nahahooldusvahendid; Kosmeetikas ja dermatoloogias kasutatavad meditsiiniseadmed; Kirurgiline-, meditsiiniline-, stomatoloogiline ja veterinaarne aparatuur ja instrumendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Laserit lääketieteellisiin tarkoituksiin; Ihonhoitoon tarkoitetut lääketieteelliset laitteet; Lääkintälaitteet kosmeettiseen ja dermatologiseen käyttöön; Kirurgiset, lääketieteelliset, hammaslääketieteelliset ja eläinlääketieteelliset laitteet ja välineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Lasers à usage médical; Dispositifs médicaux de soin de la peau; Dispositifs médicaux à usage cosmétique et dermatologique; Appareils et instruments chirurgicaux, médicaux, dentaires et vétérinaires.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Laseri za medicinske namjene; Medicinski uređaji za njegu kože; Medicinski uređaji za kozmetičku i dermatološku uporabu; Kirurški, liječnički, stomatološki i veterinarski instrumenti i uređaji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Lézerek orvosi célokra; Bőrápoló gyógyászati eszközök; Orvosi készülékek kozmetikai és bőrgyógyászati használatra; Sebészeti, orvosi, fogorvosi és állatorvosi berendezések és műszerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Laser per uso medico; dispositivi medici per la cura della pelle; dispositivi medici ad uso cosmetico e dermatologico; apparecchi e strumenti chirurgici, medici, dentari e veterinari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Lazeriai (medicinos reikmėms); Odos priežiūros medicininiai prietaisai; Medicinos prietaisai kosmetikos ir dermatologiniams reikmėms; Chirurginiai, medicininiai, dantų gydymo ir veterinariniai aparatai bei instrumentai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medicīniskiem nolūkiem paredzētie lāzeri; Ādas aprūpes medicīnas ierīces; Medicīniskas iekārtas lietošanai kosmētikā un dermatoloģijā; Ķirurģijas, medicīnas, zobārstniecības un veterinārijas aparāti, ierīces un instrumenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Lejżers għal skopijiet mediċi; Strumenti mediċi għall-kura tal-ġilda; Tagħmir mediku għall-użu kożmetiku u dermatoloġiku; apparat u strumenti kirurġiċi, mediċi, dentali u veterinarji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Lasers voor medisch gebruik; Medische toestellen voor de huidverzorging; Medische inrichtingen voor cosmetisch en dermatologisch gebruik; Chirurgische, medische, tandheelkundige en diergeneeskundige toestellen en instrumenten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Lasery do celów medycznych; Przyrządy medyczne do pielęgnacji skóry; Urządzenia medyczne do celów kosmetycznych i dermatologicznych; Urządzenia i przyrządy chirurgiczne, medyczne, dentystyczne i weterynaryjne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Lasers para uso médico; Dispositivos médicos para os cuidados da pele; Dispositivos médicos para uso cosmético e dermatológico; Aparelhos e instrumentos cirúrgicos, médicos, dentários e veterinários.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Lasere de uz medical; Dispozitive medicinale de îngrijire a pielii; Dispozitive medicale de uz cosmetic și dermatologic; Aparate şi instrumente chirurgicale, medicale, stomatologice şi veterinare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Laser na lekárske použitie; Lekárske zariadenia pre starostlivosť o pleť; Lekárske zariadenia na kozmetické a dermatologické účely; Chirurgické, lekárske, zubárske a zverolekárske prístroje a nástroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Laserji za medicinsko uporabo; Medicinske naprave za nego kože; Medicinske naprave za kozmetično in dermatološko uporabo; Kirurški, medicinski, zobozdravstveni in veterinarski aparati in instrumenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Lasrar för medicinska ändamål; Medicinska hudvårdsanordningar; Medicinska anordningar för kosmetisk och dermatologisk användning; Kirurgiska, medicinska, odontologiska och veterinära apparater och instrument.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>820227</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>16581</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

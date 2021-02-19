@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-08-17T11:36:50</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063572-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063572-0001</DesignIdentifier>
+<ApplicationNumber>001063572</ApplicationNumber>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-02-06</PublicationDate>
+<ApplicationReference>201/08</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000062347206</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063572_0001/001063572_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062347207</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063572_0001/001063572_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062347208</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063572_0001/001063572_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062347210</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063572_0001/001063572_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062347211</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063572_0001/001063572_0001_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062347212</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063572_0001/001063572_0001_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062347213</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063572_0001/001063572_0001_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Дистанционни устройства за играчки</IndicationProduct>
+       <IndicationProduct languageCode="cs">Dálková ovládání k hračkám</IndicationProduct>
+       <IndicationProduct languageCode="da">Fjernbetjeninger til legetøj</IndicationProduct>
+       <IndicationProduct languageCode="de">Fernsteuerungen für Spielzeug</IndicationProduct>
+       <IndicationProduct languageCode="el">Τηλεχειρισμού για παιχνίδια</IndicationProduct>
+       <IndicationProduct languageCode="en">Remote controls for toys</IndicationProduct>
+       <IndicationProduct languageCode="es">Mandos a distancia para juguetes</IndicationProduct>
+       <IndicationProduct languageCode="et">Mänguasjade kaugjuhtimispuldid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Lelujen kauko-ohjaimet</IndicationProduct>
+       <IndicationProduct languageCode="fr">Télécommandes de jouets</IndicationProduct>
+       <IndicationProduct languageCode="hu">Távirányítók játékszerekhez</IndicationProduct>
+       <IndicationProduct languageCode="it">Telecomandi per giocattoli</IndicationProduct>
+       <IndicationProduct languageCode="lt">Žaislų nuotolinio valdymo pulteliai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Rotaļļietu vadības pultis</IndicationProduct>
+       <IndicationProduct languageCode="mt">Telekomandi għall-ġugarelli</IndicationProduct>
+       <IndicationProduct languageCode="nl">Afstandsbedieningen voor speelgoed</IndicationProduct>
+       <IndicationProduct languageCode="pl">Piloty do zabawek</IndicationProduct>
+       <IndicationProduct languageCode="pt">Telecomandos para brinquedos</IndicationProduct>
+       <IndicationProduct languageCode="ro">Telecomenzi pentru jucării</IndicationProduct>
+       <IndicationProduct languageCode="sk">Ďiaľkové ovládania k hračkám</IndicationProduct>
+       <IndicationProduct languageCode="sl">Daljinski upravljalniki za igrače</IndicationProduct>
+       <IndicationProduct languageCode="sv">Fjärrkontroller för leksaker</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>21.01</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PriorityDetails>
+       <Priority>
+        <PriorityCountryCode>HK</PriorityCountryCode>
+        <PriorityNumber>0802202.8M001</PriorityNumber>
+        <PriorityDate>2008-09-09</PriorityDate>
+        <PriorityStatusCode>Claimed</PriorityStatusCode>
+       </Priority>
+      </PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/025</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-02-06</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2011/082</PublicationIdentifier>
+        <PublicationSequenceNumber>570068</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2011-04-08</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1326034</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>200570</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>14655</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>004735647</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>570068</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2011-04-08</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-15T17:20:10</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229806</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229806</ApplicationNumber>
+<ApplicationDate>2020-04-26</ApplicationDate>
+<RegistrationDate>2020-09-11</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-26</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>CLEVAST</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162491848</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229806/000162491848.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.11.02</CategoryCode>
+          <CategoryCode>26.11.08</CategoryCode>
+          <CategoryCode>27.05.25</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Апарати за охлаждане на въздух; Овлажнители [за домакински цели]; Домашни устройства за пречистване на въздуха; Обезвлажнители за домакинска употреба; Въздухопречистватели за автомобили; Електрически захранвани духалки с цел вентилиране; Климатични апарати; Промишлени сушилни; Сушилни машини за дрехи; Електрически нагреватели; Радиатори, електрически; Уреди за парно гладене; Въздушни подгреватели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zařízení na chlazení vzduchu; Zvlhčovače (k použití v domácnosti); Domácí čističe vzduchu; Odvlhčovače k domácímu použití; Čističe vzduchu pro automobily; Elektricky napájené větráky na ventilaci; Klimatizační přístroje; Průmyslové odvlhčovače; Sušičky oděvů; Elektrické ohřívače; Radiátory (Elektrické -); Napařovače oděvů; Přístroje a zařízení na ohřívání vzduchu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Luftkøleanlæg; Befugtere [til husholdningsbrug]; Luftrensere til husholdningsbrug; Affugtere til husholdningsbrug; Luftrensere til automobiler; Elektriske ventilatorer; Luftkonditioneringsapparater; Industrielle affugtere; Tørretumblere; Elektriske varmeapparater og radiatorer; Radiatorer, elektriske; Steamere til tekstiler; Luftforvarmere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Luftkühlgeräte; Luftbefeuchter [für Haushaltszwecke]; Haushaltsluftreinigungsgeräte; Entfeuchter für Haushaltszwecke; Luftreiniger für Kraftfahrzeuge; Elektroventilatoren; Klimageräte; Entfeuchtungsgeräte für gewerbliche Zwecke; Wäschetrockner; Elektrische Radiatoren; Elektrische Radiatoren; Dampfglätter; Lufterhitzer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αέρα (Μηχανισμοί για την ψύξη του -)· Υγραντήρες για οικιακή χρήση· Συσκευές καθαρισμού του αέρα για οικιακή χρήση· Αφυγραντήρες για οικιακή χρήση· Συσκευές καθαρισμού του αέρα για αυτοκίνητα· Ηλεκτρικοί ανεμιστήρες για χρήσεις αερισμού· Συσκευές κλιματισμού· Βιομηχανικές συσκευές αφύγρανσης· Στεγνωτήρια ρούχων· Ηλεκτρικές θερμάστρες· Ηλεκτρικά θερμαντικά σώματα· Ατμοκαθαριστές (υφασμάτων)· Συσκευές θέρμανσης αέρα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Air cooling apparatus; Humidifiers [for household purposes]; Air purifiers [for household purposes]; dehumidifiers for household use; Air purifiers for automobiles; electric fans; Air conditioning; industrial dehumidifiers; clothes dryers; Electric heaters; electric radiators; Fabric steamers; Air reheaters.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Dispositivos para el enfriar el aire; Humidificadores [para uso doméstico]; Purificadores de aire de uso doméstico; Deshumidificadores para uso doméstico; Depuradores de aire para automóviles; Ventiladores eléctricos para ventilar; Aparatos de aire acondicionado; Deshumidificadores industriales; Secadoras para la ropa; Calentadores eléctricos; Radiadores eléctricos; Aparatos vaporizadores para planchar tejidos; Recalentadores de aire.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Õhujahutid; Niisutid [majapidamises kasutamiseks]; Majapidamises kasutatavad õhupuhastid; Niiskuse-eemaldajad majapidamises kasutamiseks; Autode õhupuhastid; Elektriventilaatorid; Kliimaseadmed, klimaatorid; Tööstuslikud niiskuse eemaldajad; Trummelkuivatid; Elektrikütjad, elektrilised kütteseaded; Elektriradiaatorid; Riideaurutajad; Õhueelsoojendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ilmajäähdyttimet; Kostuttimet [kotitaloustarkoituksiin]; Ilmanpuhdistimet [kotitaloustarkoituksiin]; Kosteudenpoistimet kotitalouskäyttöön; Autojen ilmanpuhdistimet; Sähkötuulettimet; Ilmastointilaitteet; Teolliset kosteudenpoistajat; Vaatteiden kuivaajat; Sähkölämmittimet; Lämpöpatterit, sähkökäyttöiset; Höyrypuhdistin kankaille; Ilmanlämmityslaitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Dispositifs pour le refroidissement de l'air; Humidificateurs à usage domestique; Purificateurs d'air à usage ménager; Déshumidificateurs à usage ménager; Purificateurs d'air pour automobiles; Ventilateurs électriques; Climatiseurs; Déshumidificateurs industriels; Sèche-linge; Appareils de chauffage électriques; Radiateurs électriques; Défroisseurs de tissus à vapeur; Appareils de chauffage à air.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Uređaji za hlađenje zraka; Humidifikatori [za kućanske namjene]; Kućanski pročišćivači zraka; Odvlaživači za kućanstvo; Pročišćivači zraka za automobile; Električni ventilatori; Klimatizacijiski uređaji; Industrijski odvlaživači; Sušilice rublja; Električne grijalice; Radijatori, električni; Parna glačala za tkanine; Uređaji za zagrijavanje zraka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Léghűtő berendezések; Párásítók [háztartási célokra]; Háztartási légtisztítók; Párátlanítók háztartási használatra; Légtisztítók gépjárművekhez; Elektromos meghajtású ventilátorok szellőztetési célokra; Légkondicionálók; Ipari páramentesítők; Ruhaszárítók; Elektromos melegítők; Radiátorok, elektromos; Textilgőzölők; Léghevítő készülékek, berendezések.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Dispositivi per il raffreddamento dell'aria; Umidificatori [per uso domestico]; Depuratori dell'aria domestici; Deumidificatori per uso domestico; Depuratori d'aria per automobili; Ventilatori elettrici; Condizionatori d'aria; Deumidificatori industriali; Asciugatrici per indumenti; Apparecchi elettrici per il riscaldamento; Radiatori elettrici; Macchine a vapore per stirare tessuti; Riscaldatori d'aria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Oro vėsinimo aparatai; Drėkinimo prietaisai [namų apyvokos reikmėms]; Buitiniai oro valymo įrenginiai; Drėgmės surinkėjai namų ūkio reikmėms; Automobilių oro grynintuvai; Elektriniai ventiliatoriai vėdinimo reikmėms; Oro kondicionavimo aparatai; Pramoniniai drėgmės surinktuvai; Drabužių džiovintuvai; Elektriniai šildytuvai; Radiatoriai (Elektriniai -); Audinių garintuvai; Oro šildytuvai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Gaisa dzesēšanas iekārtas; Mitrinātāji (mājsaimniecības nolūkiem); Mājsaimniecības gaisa filtri; Sausinātāji lietošanai mājsaimniecībā; Automobiļu gaisa attīrītāji; Elektriskie ventilatori gaisa ventilācijas nolūkiem; Gaisa kondicionētāji; Rūpnieciskie gaisa sausinātāji; Apģērbu žāvējamie aparāti; Elektriskie sildītāji; Elektriskie radiatori; Tvaika apstrādes ierīces (audumiem); Gaisa sildierīces.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Apparat li jkessaħ l-arja; Umdaturi [għal skopijiet domestiċi]; Tagħmir li jnaddaf l-arja għall-użu domestiku; Apparat li jneħħi l-umdita għall-użu domestiku; Purifikaturi tal-arja għall-karozzi; Ventilaturi elettriċi; Apparat tal-ikkondizzjonar tal-arja; Apparat li jixrob l-umdita mill-arja għal skopijiet industrijali; Magni għat-tnixxif ta' ħwejjeġ maħsula; Ħiters elettriċi; Radjaturi, tal-elettriku; Apparat elettriku li jaħdem bil-fwar (għal tessuti); Apparat għat-tisħin tal-arja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Luchtkoelinrichtingen; Bevochtigers [voor huishoudelijke doeleinden]; Huishoudelijke luchtreinigers; Ontvochtigers [voor huishoudelijke doeleinden]; Luchtzuiveraars voor motorvoertuigen; Elektrische ventilatoren voor ventilatie-doeleinden; Apparaten voor klimaatregeling; Industriële ontvochtigers; Kledingdrogers; Elektrische radiators; Elektrische radiatoren; Apparaten voor het gladstrijken van stoffen; Luchtverwarmingsapparaten voor landbouwkundig gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia do chłodzenia powietrza; Nawilżacze powietrza [do celów domowych]; Domowe oczyszczacze powietrza; Osuszacze do zastosowania w gospodarstwie domowym; Oczyszczacze powietrza do samochodów; Wentylatory elektryczne; Urządzenia klimatyzacyjne; Przemysłowe odwilżacze; Suszarki do ubrań; Grzejniki elektryczne; Kaloryfery elektryczne; Prasowacze parowe; Podgrzewacze powietrza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Dispositivos para o arrefecimento do ar; Humidificadores [para fins domésticos]; Purificadores de ar de uso doméstico; Desumidificadores para uso doméstico; Purificadores do ar para automóveis; Ventoinhas elétricas para fins de ventilação; Aparelhos de ar condicionado; Desumidificadores industriais; Máquinas de secar a roupa; Aquecedores elétricos; Radiadores elétricos; Aparelhos a vapor para tecidos; Aquecedores de ar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dispozitive pentru răcirea aerului; Umidificatoare [pentru uz domestic]; Epuratoare de aer de uz casnic; Dezumidificatoare de uz casnic; Aparate de purificare a aerului pentru automobile; Ventilatoare acţionate electric folosite la ventilaţie; Aparate de climatizare; Dezumidificatoare de uz industrial; Maşini de uscat haine; Aparate de încălzire electrice; Radiatoare electrice; Aparate vaporizatoare pentru haine; Aparate de încălzire a aerului.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Prístroje na chladenie vzduchu; Zvlhčovače vzduchu pre domácnosť; Zariadenia na čistenie vzduchu do domácnosti; Odvlhčovače do domácnosti; Čističe vzduchu pre automobily; Elektrické ventilátory na vetracie účely; Klimatizačné prístroje; Priemyselné odvlhčovače; Sušičky na šaty; Elektrické ohrievače; Radiátory (Elektrické -); Parné prístroje na žehlenie textílií; Medziprehrievače vzduchu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Naprave za hlajenje zraka; Vlažilniki [za gospodinjske namene]; Gospodinjski čistilci zraka; Razvlažilci za uporabo v gospodinjstvu; Prečiščevalci zraka za avtomobile; Električni ventilatorji za prezračevanje; Klimatske naprave; Industrijski razvlažilci; Sušilniki za perilo; Električni grelniki; Električni radiatorji; Parni gladilci tkanin; Naprave za ogrevanje zraka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Luftkylningsapparater; Luftfuktare [för hushållsändamål]; Luftrenare för hushållsändamål; Avfuktningsapparat för hushållsändamål; Luftrenare för bilar; Elektriska fläktar för ventilation; Luftkonditioneringsapparater; Industriella avfuktare; Torktumlare; Element, elektriska; Elektriska element; Ånganordningar för textiler; Luftvärmare.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/104</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/175</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-14</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082607</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>32203</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

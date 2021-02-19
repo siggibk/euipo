@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-03T09:02:59</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224434</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224434</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-09-01</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-03</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>NATSHIELD</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Дезинфекциращи антибактериални гелове за кожата на основата на алкохол; Антибактериали лосиони за ръце; Антибактериални гелове; Антибактериални спрейове; Санитарни кърпички за еднократна употреба; Антибактериални кърпички; Дезинфекциращи средства за измиване на ръце; Препарати за ароматизиране за домакинска, търговска или промишлена употреба; Санитарни кърпички за еднократна употреба; Препарати за дезинфекция на ръце; Санитарни препарати за болнична употреба; Препарати за пречистване на въздуха; Средства за дезинфекция на плодове и зеленчуци.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Antibakteriální gely na dezinfekci pleti na bázi alkoholu; Antibakteriální vody na ruce; Antibakteriální gely; Antibakteriální spreje; Dezinfekční ubrousky; Antibakteriální ubrousky; Dezinfekční prostředky na mytí rukou; Univerzální deodorizační přípravky pro domácí, komerční nebo průmyslové použití; Dezinfekční ubrousky; Přípravky k dezinfekci rukou; Dezinfekční přípravky pro použití v nemocnicích; Přípravky na dezinfikování vzduchu; Dezinfekční mycí prostředky na ovoce a zeleninu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Alkoholbaserede, antibakterielle desinfektionsgeléer til huden; Antibakterielle håndlotioner; Antibakterielle geléer; Antibakterielle sprayer; Renseservietter; Antibakterielle servietter; Desinficerende håndvaskemidler; Desodoriseringspræparater til universalbrug til husholdningsbrug og til kommercielle og industrielle formål; Renseservietter; Præparater til hånddesinfektion; Desinfektionsmidler til anvendelse på hospitaler; Præparater til luftsterilisering; Vaskemidler til desinficering af frugter og grøntsager.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Antibakterielle Hautdesinfektionsgele auf Alkoholbasis; Antibakterielle Handlotionen; Antibakterielle Gele; Antibakterielle Sprays; Desinfektionstücher für medizinische Zwecke; Antibakterielle Tücher; Desinfizierende Handwaschmittel; Allzweck-desodorierende Präparate für Haushalt, Gewerbe oder Industrie; Desinfektionstücher für medizinische Zwecke; Handdesinfektionsmittel; Desinfektionspräparate für Krankenhäuser; Präparate zur Desinfektion der Luft; Desinfizierende Waschlösungen für Obst und Gemüse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αλκοολούχα αντιβακτηριακά αντισηπτικά ζελ[έ] για το δέρμα· Αντιβακτηριακές λοσιόν για τα χέρια· Αντιβακτηριακά ζελ[έ]· Αντιβακτηριακά σπρέι· Μαντιλάκια καθαρισμού· Αντιβακτηριδιακά μαντιλάκια· Απολυμαντικά σαπούνια χεριών· Παρασκευάσματα απόσμησης γενικής χρήσης για οικιακή, εμπορική ή βιομηχανική χρήση· Μαντιλάκια καθαρισμού· Παρασκευάσματα υγιεινής για τα χέρια· Απολυμαντικά παρασκευάσματα για νοσοκομειακή χρήση· Παρασκευάσματα απολύμανσης αέρα· Απολυμαντικά παρασκευάσματα για το πλύσιμο φρούτων και λαχανικών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">alcohol-based antibacterial skin sanitizer gels; antibacterial hand lotions; antibacterial gels; antibacterial sprays; sanitizing wipes; Antibacterial wipes; disinfecting handwash; All purpose deodorizing preparations for household, commercial or industrial use; disposable sanitizing wipes; hand-sanitizing preparations; sanitizing preparations for hospital use; Air sanitizing preparations; sanitizing wash for fruit and vegetables.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Geles desinfectantes antibacterianos para la piel a base de alcohol; Lociones antibacterianas para las manos; Geles antibacterianos; Espráis antibacterianos; Paños desinfectantes; Toallitas antibacterianas; Producto desinfectante para lavar las manos; Preparados desodorantes multiuso para uso doméstico, comercial o industrial; Paños desinfectantes; Preparaciones para desinfectar las manos; Preparaciones desinfectantes para uso hospitalario; Preparaciones para desinfectar el aire ambiental; Productos desinfectantes de frutas y verduras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Alkoholipõhised antibakteriaalsed nahahügieenigeelid; Antibakteriaalsed kätekreemid; Antibakteriaalsed geelid; Antibakteriaalsed pihused; Desinfitseerivad lapid; Antibakteriaalsed lapid; Desinfitseerivad kätepesuvahendid; Universaalsed kodused, kaubanduslikud või tööstuslikud õhuvärskenduspreparaadid; Desinfitseerivad lapid; Kätehügieeni preparaadid; Sanitaarpreparaadid haiglas kasutamiseks; Õhudesinfektsioonipreparaadid; Puu- ja köögivilja desinfitseerimisvedelikud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Alkoholipohjaiset bakteereja tappavat ihon desinfiointigeelit; Bakteereja tuhoavat käsiemulsiot; Bakteereja tuhoavat geelit; Bakteereja tuhoavat suihkeet; Desinfiointipyyhkeet; Antibakteeriset kosteuspyyhkeet; Desinfioivat käsihuuhteet; Yleishajunpoistovalmisteet kotitalous-, kaupalliseen tai teolliseen käyttöön; Desinfiointipyyhkeet; Käsiendesinfiointivalmisteet; Saniteettivalmisteet sairaalakäyttöön; Ilmanpuhdistusvalmisteet; Desinfioivat pesunesteet hedelmiä ja vihanneksia varten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Gels assainissants antibactériens pour la peau à base d'alcool; Lotions antibactériennes pour les mains; Gels antibactériens; Sprays antibactériens; Lingettes désinfectantes; Lingettes antibactériennes; Produit lavant désinfectant pour les mains; Produits désodorisants tous usages à usage domestique, commercial ou industriel; Lingettes désinfectantes; Préparations assainissantes pour les mains; Préparations assainissantes à usage hospitalier; Préparations pour l’assainissement de l’air; Produit nettoyant assainissant pour fruits et légumes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Antibakterijski gelovi za higijenu kože, na bazi alkohola; Antibakterijski losioni za ruke; Antibakterijski gelovi; Antibakterijski sprejevi; Dezinfekcijske maramice; Antibakterijske maramice; Dezinfekcijsko sredstvo za pranje ruku; Višenamjenski dezodorirajući preparati za kućansku, komercijalnu ili industrijsku upotrebu; Dezinfekcijske maramice; Pripravci za dezinfekciju ruku; Sredstva za dezinfekciju za primjenu u bolnicama; Preparati za dezinfekciju zraka; Dezinfekcijsko sredstvo za pranje voća i povrća.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Alkohol alapú antibakteriális bőrfertőtlenítő zselék; Baktériumölő kézápolók; Antibakteriális gélek; Antibakteriális spray-k; Fertőtlenítő törlőkendők; Antibakteriális kendők; Fertőtlenítő kézmosó; Általános célú illatosító készítmények háztartási, kereskedelmi vagy ipari felhasználásra; Fertőtlenítő törlőkendők; Kézfertőtlenítő készítmények; Fertőtlenítő szerek kórházi használatra; Légfertőtlenítő készítmények; Fertőtlenítő készítmények gyümölcsök és zöldségek lemosására.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Gel igienizzante antibatterico per la pelle a base di alcol; Lozioni antibatteriche per le mani; Gel antibatterici; Spray antibatterici; Salviette disinfettanti; Salviette antibatteriche; Disinfettanti per il lavaggio delle mani; Preparati deodoranti multiuso per uso domestico, commerciale o industriale; Salviette disinfettanti; Preparazioni per la disinfezione delle mani; Prodotti igienici per uso ospedaliero; Preparati disinfettanti per l'aria; Prodotti disinfettanti per lavare frutta e verdura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Antibakteriniai odos dezinfekavimo geliai alkoholio pagrindu; Antibakteriniai rankų losjonai; Antibakteriniai geliai; Antibakteriniai purškalai; Dezinfekuojamosios šluostės; Antibakterinės servetėlės; Dezinfekuojantys rankų plovikliai; Universalūs dezodoravimo preparatai namų ūkio, komercijos ar pramonės reikmėms; Dezinfekuojamosios šluostės; Rankų antiseptiniai preparatai; Sanitariniai preparatai ligoninių reikmėms; Oro sanitarijos preparatai; Higieniniai plovikliai vaisiams ir daržovėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Spirtotas antibakteriālas ādas dezinficēšanas želejas; Antibakteriāli roku losjoni; Antibakteriālās želejas; Antibakteriālie smidzinātāji; Dezinfekcijas drāniņas; Antibakteriālās salvetes; Dezinficējoši roku mazgāšanas līdzekļi; Universāli dezodoranti mājsaimniecībai, komerciālai un rūpnieciskai izmantošanai; Dezinfekcijas drāniņas; Roku dezinficēšanas līdzekļi; Sterilizējoši preparāti izmantošanai slimnīcās; Gaisa dezinfekcijas līdzekļi; Augļu un dārzeņu sanitārās mazgāšanas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ġellijiet antibatteriċi bbażati fuq l-alkoħol għad-diżinfezzjoni tal-ġilda; Lozjonijiet tal-idejn antibatteriċi; Ġellijiet antibatteriċi; Sprejs antibatteriċi; Biċċiet tal-imsiħ għal skop ta' iġjene; Karti tal-imsiħ antibatteriċi; Sapun likwidu tal-idejn diżinfettanti; Preparazzjonijiet deodorizzanti għal kull skop għall-użu tad-dar, kummerċjali jew industrijali; Biċċiet tal-imsiħ għal skop ta' iġjene; Preparazzjonijiet għas-sanitazzjoni tal-idejn; Preparazzjonijiet li jtejbu l-iġjene għal użu fi sptarijiet; Preparazzjonijiet tas-sanitizzazzjoni tal-arja; Preparazzjonijiet biex taħsel il-frott u l-ħxejjex.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Antibacteriële huidreinigingsgels op basis van alcohol; Antibacteriële handlotions; Antibacteriële gels; Antibacteriële sprays; Hygiënische doekjes; Antibacteriële doekjes; Handreinigingsmiddelen (Desinfecterende -); Deodoriseermiddelen voor huishoudelijk, commercieel of industrieel gebruik; Hygiënische doekjes; Steriliserende middelen voor de handen; Steriliserende preparaten voor gebruik in het ziekenhuis; Luchtzuiveringspreparaten; Ontsmettende middelen voor fruit en groenten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Antybakteryjne żele na bazie alkoholu do odkażania skóry; Antybakteryjne płyny do rąk; Żele antybakteryjne; Spraye antybakteryjne; Chusteczki odkażające; Chusteczki antybakteryjne; Odkażający preparat do mycia rąk; Uniwersalne produkty dezodoryzujące do użytku domowego, handlowego lub przemysłowego; Chusteczki odkażające; Preparaty do dezynfekcji rąk; Preparaty odkażające stosowane w szpitalach; Preparaty do dezynfekcji powietrza; Płyn do odkażania owoców i warzyw.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Geles antibacterianos à base de álcool para a limpeza da pele; Loções antibacterianas para as mãos; Géis antibacterianos; Sprays antibacterianos; Toalhetes higiénicos; Toalhetes antibacterianos; Desinfetante para lavar as mãos; Desodorizantes multiusos para uso doméstico, comercial ou industrial; Toalhetes higiénicos; Preparações para desinfetar as mãos; Preparações saneantes para uso hospitalar; Produtos para higienização do ar; Preparações desinfetantes para frutos e legumes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Geluri dezinfectante antibacteriene cu alcool; Loţiuni antibacteriene pentru mâini; Geluri antibacteriene; Sprayuri antibacteriene; Şerveţele dezinfectante; Șervețele antibacteriene; Produse dezinfectante pentru spălarea mâinilor; Preparate deodorante universale pentru uz menajer, comercial sau industrial; Şerveţele dezinfectante; Preparate pentru dezinfectarea mâinilor; Preparate de dezinfectare pentru utilizarea în spitale; Preparate pentru igienizarea aerului; Produs de spălat igienizant pentru fructe şi legume.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Antibakteriálne dezinfekčné pleťové gély na báze alkoholu; Antibakteriálne mlieka na ruky; Antibakteriálne gély; Antibakteriálne spreje; Dezinfekčné utierky; Antibakteriálne utierky; Dezinfekčný prípravok na umývanie rúk; Univerzálne dezodorizačné prípravky do domácnosti, na komerčné alebo priemyselné účely; Dezinfekčné utierky; Prípravky na dezinfekciu rúk; Dezinfekčné prípravky pre nemocnice; Prípravky na dezinfekciu vzduchu; Dezinfekčné prípravky na umývanie ovocia a zeleniny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Antibakterijski dezinfekcijski geli za kožo, na osnovi alkohola; Antibakterijski losjoni za roke; Antibakterijski geli; Antibakterijska razpršila; Dezinfekcijski robčki; Antibakterijski robčki; Dezinfekcijska sredstva za umivanje rok; Univerzalni dezodorirni pripravki za gospodinjsko, komercialno ali industrijsko uporabo; Dezinfekcijski robčki; Pripravki za dezinfekcijo rok; Sanitarni pripravki za uporabo v bolnišnicah; Pripravki za razkuževanje zraka; Razkuževalno sredstvo za pranje sadja in zelenjave.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Alkoholbaserade bakteriedödande hudsaneringsgeléer; Bakteriedödande handlotioner; Antibakteriella geléer; Bakteriedödande sprejer; Steriliserande torkservetter; Antibakteriella servetter; Desinficerande handtvätt; Universalluftuppfriskningsmedel för hushålls-, kommersiella- eller industriella ändamål; Steriliserande torkservetter; Handsprit; Steriliseringspreparat för sjukhus; Preparat för luftsterilisering; Steriliseringstvätt för frukt och grönsaker.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/097</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-25</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/167</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-02</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079126</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>37556</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

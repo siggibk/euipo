@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-05-19T23:02:16</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228494</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228494</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="1">Application under examination</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-04-23</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ZAPATERÍAS MINIPRECIOS</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162455219</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/228/018228494/000162455219.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.03.01</CategoryCode>
+          <CategoryCode>26.03.24</CategoryCode>
+          <CategoryCode>27.05.07</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>18</ClassNumber>
+   <GoodsServicesDescription languageCode="es">Cuero y cuero de imitación; baúles y maletas; Paraguas y sombrillas; Equipaje, bolsos, carteras y otros porta objetos; Bastones.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="es">Prendas de vestir; Calzado; Artículos de sombrerería.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="es">Servicios de promoción y publicidad; gestión de negocios comerciales; administración comercial; trabajos de oficina; Servicios de venta al por menor y/o al por mayor en establecimientos y a través de redes mundiales de informática de todo tipo de calzado; Servicios de venta al por menor y/o al por mayor en establecimientos y a través de redes mundiales de informática de cordones para calzado; Servicios de venta al por menor y/o al por mayor en establecimientos y a través de redes mundiales de informática de crema para calzado; Servicios de venta al por menor y/o al por mayor en establecimientos y a través de redes mundiales de informática de prendas de vestir; Servicios de venta al por menor y/o al por mayor en establecimientos y a través de redes mundiales de informática de artículos de sombrerería; Servicios de venta al por menor y/o al por mayor en establecimientos y a través de redes mundiales de informática de bisutería; Servicios de venta al por menor y/o al por mayor en establecimientos y a través de redes mundiales de informática de artículos de joyería; Servicios de venta al por menor y/o al por mayor en establecimientos y a través de redes mundiales de informática de gafas de sol y sus fundas; Servicios de venta al por menor y/o al por mayor en establecimientos y a través de redes mundiales de informática de móviles y sus fundas; Servicios de venta al por menor y/o al por mayor en establecimientos y a través de redes mundiales de informática de paraguas; Servicios de venta al por menor y/o al por mayor en establecimientos y a través de redes mundiales de informática de mochilas; Servicios de venta al por menor y/o al por mayor en establecimientos y a través de redes mundiales de informática de baúles y maletas; Servicios de venta al por menor y/o al por mayor en establecimientos y a través de redes mundiales de informática de equipaje, bolsos y carteras; Servicios de venta al por menor y/o al por mayor en establecimientos y a través de redes mundiales de informática de bastones; Agencias de importación y exportación; servicios de franquicias, a saber, consultas y asistencia en la dirección, organización y promoción de negocios relativas a la ayuda en la explotación y/o dirección de una empresa comercial o industrial.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1081914</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10005</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-24T15:15:01</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222715</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222715</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="3">Application withdrawn</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-24</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>CMS LLC</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Съвети по мениджмънт.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Poradenství v oblasti managementu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Rådgivning vedrørende ledelse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Beratung zur Geschäftsführung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παροχή συμβουλών σε θέματα διαχείρισης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Management consulting.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Asesoría en materia de gestión.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Juhtimiskonsultatsioonid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Johtamisen neuvonta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Conseils en gestion des affaires.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Savjetodavanje za upravljanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Menedzsment tanácsadás.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Consulenza gestionale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vadybos konsultacijos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Vadības konsultācijas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Pariri dwar il-ġestjoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Managementadvies.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Doradztwo związane z zarządzaniem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Assessoria de gestão.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Consultanță în materie de management.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poradenstvo v oblasti manažmentu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Svetovanje pri upravljanju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Rådgivning vid företagsledning.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>36</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Данъчно планиране [не счетоводство].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Daňové plánování (ne účetnictví).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Finansiel skatteplanlægning (ikke regnskabsførelse).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Steuerplanung [ausgenommen Buchführung].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φορολογικός προγραμματισμός (όχι λογιστική).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Tax planning [not accounting].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Planificación fiscal [que no sea contabilidad].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Maksuplaneerimine [v.a arvepidamine].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Verosuunnittelu (ei kirjanpito).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Planification financière fiscale [non comptable].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Planiranje poreza [nije računovodstvo].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Adótervezés [nem könyvelés].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pianificazione fiscale [non contabilità].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mokesčių planavimas [ne apskaita].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Nodokļu plānošana (izņemot grāmatvedību).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ippjanar tat-taxxa (mhux kontabilità).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Fiscale planning [geen boekhouding].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Planowanie podatkowe [nie księgowe].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Planeamento fiscal [não contabilístico].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Planificare fiscală [nu contabilitate].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Daňové plánovanie (okrem účtovníctva).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Davčno načrtovanje [ne računovodsko].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Skatteplanering [inte redovisning].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

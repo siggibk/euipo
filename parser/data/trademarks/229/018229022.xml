@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-31T08:41:00</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229022</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229022</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-28</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-31</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ecopure Live EcoHealthy, Stay EcoYoung</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162456297</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229022/000162456297.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>01.05.01</CategoryCode>
+          <CategoryCode>05.03.05</CategoryCode>
+          <CategoryCode>05.03.11</CategoryCode>
+          <CategoryCode>05.03.13</CategoryCode>
+          <CategoryCode>05.03.15</CategoryCode>
+          <CategoryCode>27.03.11</CategoryCode>
+          <CategoryCode>27.03.12</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>32</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Безалкохолни напитки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nealkoholické nápoje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Ikke-alkoholholdige drikke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Nichtalkoholische Getränke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μη αλκοολούχα ποτά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Non-alcoholic beverages.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bebidas no alcohólicas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Alkoholivabad joogid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Alkoholittomat juomat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Boissons sans alcool.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Bezalkoholna pića.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Alkoholmentes italok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Bevande non alcoliche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Gaivieji gėrimai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Bezalkoholiskie dzērieni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xarbiet mhux alkoħoliċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Niet-alcoholische dranken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Napoje bezalkoholowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bebidas sem álcool.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Băuturi nealcoolice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nealkoholické nápoje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Brezalkoholne pijače.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Icke alkoholhaltiga drycker.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за търговия на дребно във връзка с безалкохолни напитки; Услуги за търговия на едро във връзка с безалкохолни напитки; Услуги за търговия на дребно онлайн, свързани с безалкохолни напитки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Maloobchodní prodej nealkoholických nápojů; Velkoobchodní prodej nealkoholických nápojů; On-line maloobchodní služby zaměřené na výrobek: nealkoholické nápoje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Detailhandel med alkoholfri drikkevarer; Detailhandel med alkoholfri drikkevarer; Detailvirksomhed online i forbindelse med ikke-alkoholholdige drikke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Einzelhandelsdienstleistungen in Bezug auf alkoholfreie Getränke; Großhandelsdienstleistungen in Bezug auf alkoholfreie Getränke; Online-Einzelhandelsdienstleistungen in Bezug auf: Nichtalkoholische Getränke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες λιανικής πώλησης σε σχέση με μη οινοπνευματώδη ποτά· Υπηρεσίες χονδρικής πώλησης σε σχέση με μη οινοπνευματώδη ποτά· Υπηρεσίες λιανικής πώλησης μέσω διαδικτύου σε σχέση με μη αλκοολούχα ποτά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Retail services in relation to non-alcoholic beverages; Wholesale services in relation to non-alcoholic beverages; Online retail services in relation to non-alcoholic beverages.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de venta al por menor relacionados con bebidas no alcohólicas; Servicios de venta al por mayor relacionados con bebidas no alcohólicas; Servicios de venta en línea al por menor de bebidas no alcohólicas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Alkoholita jookide jaemüügiteenused; Alkoholita jookide hulgimüügiteenused; Järgmiste toodete veebijaemüügiteenused: alkoholivabad joogid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Alkoholittomiin juomiin liittyvät vähittäismyyntipalvelut; Alkoholittomiin juomiin liittyvät tukkumyyntipalvelut; Verkon vähittäismyyntipalvelut liittyen seuraaviin: alkoholittomat juomat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de vente au détail concernant les boissons non alcoolisées; Services de vente en gros concernant les boissons non alcoolisées; Services de vente au détail en ligne concernant boissons sans alcool.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Maloprodajne usluge vezane uz bezalkoholna pića; Veleprodajne usluge vezane uz bezalkoholna pića; Maloprodajne usluge putem interneta za proizvode kako slijedi: bezalkoholna pića.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Alkoholmentes italokkal kapcsolatos kiskereskedelmi szolgáltatások; Alkoholmentes italokkal kapcsolatos nagykereskedelmi szolgáltatások; A következő árukkal kapcsolatos internetes kiskereskedelmi szolgáltatások: alkoholmentes italok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi al dettaglio in relazione a bevande non alcoliche; Servizi all'ingrosso in relazione a bevande non alcoliche; Servizi di vendita al dettaglio online di bevande non alcoliche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mažmeninė prekyba gaiviaisiais gėrimais; Didmeninė prekyba gaiviaisiais gėrimais; Mažmeninė prekyba internetu, į kurią įtraukta gaivieji gėrimai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mazumtirdzniecības pakalpojumi saistībā ar bezalkoholiskiem dzērieniem; Vairumtirdzniecības pakalpojumi saistībā ar bezalkoholiskiem dzērieniem; Mazumtirdzniecības pakalpojumi tiešsaistē saistībā ar sekojošo: bezalkoholiskie dzērieni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' bejgħ bl-imnut fir-rigward ta' xarbiet mhux alkoħoliċi; Servizzi ta' bejgħ bl-ingrossa fir-rigward ta' xarbiet mhux alkoħoliċi; Servizzi ta' bejgħ bl-imnut online għal xarbiet mhux alkoħoliċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Detailhandelsdiensten op het gebied van alcoholvrije dranken; Groothandelsdiensten op het gebied van alcoholvrije dranken; Onlinedetailhandelsdiensten met betrekking tot niet-alcoholische dranken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi sprzedaży detalicznej w związku z napojami bezalkoholowymi; Usługi sprzedaży hurtowej w związku z napojami bezalkoholowymi; Usługi sprzedaży detalicznej online związane z następującymi produktami: napoje bezalkoholowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços retalhistas relacionados com bebidas não alcoólicas; Serviços grossistas relacionados com bebidas não alcoólicas; Serviços de venda a retalho em linha relacionados com bebidas sem álcool.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de vânzare cu amănuntul în legătură cu băuturi nealcoolice; Servicii de vânzare cu ridicata în legătură cu băuturi nealcoolice; Servicii de vânzare cu amănuntul online în legătură cu băuturi nealcoolice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Maloobchodné služby s nealkoholickými nápojmi; Veľkoobchodné služby s nealkoholickými nápojmi; On-line maloobchodné služby v oblasti: nealkoholické nápoje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve prodaje na drobno v zvezi z brezalkoholnimi pijačami; Storitve prodaje na debelo v zvezi z brezalkoholnimi pijačami; Storitve spletne prodaje za izdelke, kot sledijo: brezalkoholne pijače.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Återförsäljartjänster avseende alkoholfria drycker; Grossisttjänster avseende alkoholfria drycker; Detaljhandelstjänster online i samband med icke alkoholhaltiga drycker.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/094</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-20</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/165</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-31</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>93916</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

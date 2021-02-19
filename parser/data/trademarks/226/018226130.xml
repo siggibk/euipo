@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-14T07:26:43</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226130</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226130</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-10-10</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-10-14</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>RENPHO Pets</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162305531</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226130/000162305531.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>03.01.08</CategoryCode>
+          <CategoryCode>03.01.24</CategoryCode>
+          <CategoryCode>03.06.03</CategoryCode>
+          <CategoryCode>27.03.03</CategoryCode>
+          <CategoryCode>27.05.05</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Електронни нашийници за дресиране на животни; Софтуер с възможност за изтегляне от интернет; Софтуер и приложения за мобилни устройства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Elektronické obojky pro výcvik zvířat; Počítačový software ke stažení; Software a aplikace pro mobilní zařízení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Elektroniske halsbånd til træning af hunde; Computersoftware, der kan downloades; Software og applikationer til mobilenheder.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Elektronische Halsbänder für die Dressur von Tieren; Herunterladbare Software; Software und Softwareapplikationen für mobile Geräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ηλεκτρονικά περιλαίμια για την εκπαίδευση ζώων· Λογισμικό ηλεκτρονικών υπολογιστών με δυνατότητα τηλεφόρτωσης· Λογισμικό και εφαρμογές για κινητές διατάξεις.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Electronic collars to train animals; Downloadable software; Software and applications for mobile devices.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Collares electrónicos para el adiestramiento de animales; Software descargable; Software y aplicaciones para dispositivos móviles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Elektroonilised kaelarihmad loomade treenimiseks; Allalaaditav arvutitarkvara; Mobiilseadmete tarkvara ja rakendused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Elektroniset opetuskaulapannat eläimille; Ladattavat tietokoneohjelmistot; Ohjelmistot ja sovellukset mobiililaitteisiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Colliers électroniques pour le dressage d'animaux; Logiciels téléchargeables; Logiciels et applications pour dispositifs mobiles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Elektroničke ogrlice za dresuru životinja; Računalni softver koji se može preuzimati; Softveri i aplikacije za mobilne uređaje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Elektronikus nyakörvek állatok idomításához; Letölthető szoftverek; Szoftverek és alkalmazások mobil eszközökhöz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Collari elettronici per addestrare animali; Software per computer scaricabili; Software ed applicazioni per dispositivi mobili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Elektroniniai gyvūnų dresavimo antkakliai; Atsisiunčiama programinė įranga; Mobiliųjų prietaisų programinė įranga ir taikomosios programos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Elektroniskas kaklasiksnas dzīvnieku apmācīšanai; Lejupielādējama datoru programmatūra; Mobilo ierīču programmatūra un lietojumprogrammas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kullari elettroniċi għat-taħriġ tal-annimali; Softwer tal-kompjuter li jista' jitniżżel; Softwer u applikazzjonijiet għal tagħmir mobbli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Elektronische trainingshalsbanden voor dieren; Downloadbare software; Software en applicaties voor mobiele toestellen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Elektroniczne obroże treningowe dla zwierząt; Oprogramowanie do pobrania; Oprogramowanie i aplikacje do urządzeń przenośnych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Coleiras de treino eletrónicas para animais; Software para download; Software e aplicações para dispositivos móveis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Zgărzi electronice de dresaj pentru animale; Software de calculator descărcabil; Software şi aplicaţii pentru dispozitive mobile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Elektronické obojky na výcvik zvierat; Stiahnuteľný softvér; Softvér a aplikácie pre mobilné zariadenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Elektronski ovratniki za urjenje živali; Naložljiva programska oprema; Programska oprema in aplikacije za mobilne naprave.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Elektroniska halsband för att träna djur; Nedladdningsbar programvara; Programvara och applikationer för mobila anordningar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/123</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-07-02</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/196</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-10-14</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>765333</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>71602</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017976674</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<ClaimantDetails>
+<ClaimantKey>
+<Identifier>765333</Identifier>
+</ClaimantKey>
+</ClaimantDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-06-05</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017993901</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>71602</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-06-08</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

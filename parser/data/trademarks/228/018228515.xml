@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-18T14:29:08</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228515</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228515</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-13</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-18</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Naturity</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хранителни добавки за медицински цели; Хранителни добавки за медицински цели; Хранителни добавки за немедицински цели на базата на витамини, минерали, микроелементи; Хранителни добавки за немедицински цели на базата на белтъци; Хранителни добавки за немедицински цели на въглехидратна основа.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Výživové doplňky; Výživové doplňky; Potravinové doplňky pro neléčebné účely na bázi vitaminů, minerálních látek, stopových prvků; Potravinové doplňky pro neléčebné účely na bázi bílkovin; Potravinové doplňky ne pro léčebné účely na bázi uhlohydrátů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Næringstilskud; Næringstilskud; Kosttilskudspræparater, ikke til medicinske formål, fremstillet på basis af vitaminer, mineraler, sporstoffer; Kosttilskudspræparater, ikke til medicinsk brug, fremstillet på basis af protein; Kosttilskud, ikke til medicinsk brug, fremstillet på basis af kulhydrater.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Nahrungsergänzungsmittel; Nahrungsergänzungsmittel für medizinische Zwecke; Nahrungsergänzungsmittel für nichtmedizinische Zwecke auf der Basis von Vitaminen, Spurenelementen und Mineralstoffen; Nahrungsergänzungsmittel für nichtmedizinische Zwecke auf der Basis von Eiweiß; Nahrungsergänzungsmittel für nichtmedizinische Zwecke auf der Basis von Kohlenhydraten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συμπληρώματα διατροφής· Συμπληρώματα διατροφής· Συμπληρώματα διατροφής για μη ιατρικές χρήσεις με βάση βιταμίνες, μεταλλικά στοιχεία, ιχνοστοιχεία· Συμπληρώματα διατροφής για μη ιατρική χρήση με βάση πρωτεΐνες· Συμπληρώματα διατροφής για μη ιατρικές χρήσεις με βάση υδατάνθρακες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Nutritional supplements; nutritional supplements for medical purposes; nutritional supplements for non-medical purposes based on vitamins, trace elements and minerals; nutritional supplements for non-medical purposes based on protein; nutritional supplements for non-medical purposes based on carbohydrates.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Suplementos nutricionales; Suplementos nutricionales; Complementos alimenticios no para fines médicos a base de vitaminas, minerales y oligoelementos; Complementos alimenticios para aplicaciones no médicas a base de proteínas; Complementos alimenticios para aplicaciones no médicas a base de hidratos de carbono.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toidulisandid; Toidulisandid; Ravitoimeta toidulisandid vitamiinide, mineraalide ja mikroelementide baasil; Ravitoimeta valgupõhised toidulisandid; Ravitoimeta süsivesikupõhised toidulisandid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lisäravintoaineet; Lisäravintoaineet; Vitamiini-, kivennäisaine- ja hivenainepohjaiset lisäravintoaineet muuhun kuin lääkintäkäyttöön; Valkuaisainepohjaiset lisäravintoaineet ei-lääkinnällisiin tarkoituksiin; Hiilihydraattipohjaiset lisäravintoaineet muihin kuin lääkinnällisiin tarkoituksiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Compléments nutritionnels; Compléments nutritionnels; Compléments alimentaires non à usage médical à base de vitamines, de minéraux, d'oligo-éléments; Compléments alimentaires non à usage médical à base de protéines; Compléments alimentaires non à usage médical à base d' hydrates de carbone.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Hranjivi dodaci; Hranjivi dodaci; Dodaci prehrani za nemedicinske potrebe na bazi vitamina, mineralnih tvari, elemenata u tragovima; Dodaci prehrani za nemedicinske potrebe na bazi bjelančevina; Dodaci prehrani u nemedicinske svrhe na bazi ugljikohidrata.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Táplálékkiegészítők; Táplálékkiegészítők; Vitaminokon, ásványi anyagokon, nyomelemeken alapuló táplálékkiegészítők nem gyógyászati használatra; Fehérjealapú, nem gyógyászati felhasználású táplálékkiegészítők; Szénhidrát alapú, nem gyógyászati felhasználású táplálékkiegészítők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Additivi nutrizionali per uso medico; Additivi nutrizionali per uso medico; Integratori alimentari non per uso medico a base di vitamine, minerali, oligoelementi; Integratori alimentari non per uso medico a base di proteine; Integratori alimentari non per uso medico a base di carboidrati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mitybos papildai; Mitybos papildai; Maisto papildai, pagaminti vitaminų, mineralinių medžiagų ir mikroelementų pagrindu, ne medicinos reikmėms; Maisto papildai ne medicinos reikmėms, pagaminti baltymų pagrindu; Maisto papildai ne medicinos reikmėms, angliavandenių pagrindu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Uztura bagātinātāji; Uztura bagātinātāji; Uztura bagātinātāji, kas nav paredzēti izmantošanai medicīnā un kas veidoti no vitamīniem, minerālvielām, mikroelementiem; Uztura bagātinātāji nemedicīniskām vajadzībām, izgatavoti no olbaltumvielām; Uztura bagātinātāji, kas nav paredzēti izmantošanai medicīnā un kas veidoti no ogļhidrātiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Supplimenti ta' nutrizzjoni; Supplimenti ta' nutrizzjoni; Supplimenti ta' l-ikel mhux għal skopijiet mediċinali fuq bażi ta' vitamini, minerali, oligo-elementi; Supplimenti tal-ikel mhux għal skopijiet mediċinali abbażi ta' proteini; Supplimenti ta' l-ikel mhux għal skopijiet mediċinali fuq bażi ta' karboidrati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Voedingssupplementen; Voedingssupplementen; Voedseladditieven voor niet-medisch gebruik op basis van vitamines, mineralen, sporenelementen; Voedseladditieven voor niet-medisch gebruik op basis van eiwitten; Voedseladditieven voor niet-medisch gebruik op basis van koolhydraten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odżywcze suplementy diety; Odżywcze suplementy diety; Uzupełniające dodatki do żywności do celów niemedycznych na bazie witamin, substancji mineralnych, mikroelementów; Suplementy diety do celów niemedycznych na bazie białek; Uzupełniające dodatki do żywności do celów niemedycznych na bazie węglowodanów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Suplementos nutricionais; Suplementos nutricionais; Suplementos alimentares de uso não medicinal à base de vitaminas, minerais e oligoelementos; Suplementos alimentares de uso não medicinal, à base de proteínas; Suplementos alimentares para fins não medicinais à base de hidratos de carbono.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suplimente nutritive; Suplimente nutritive; Suplimente alimentare nu pentru uz medical pe baza de vitamine, minerale, oligoelemente; Suplimente alimentare pentru uz nemedical pe bază de albumine; Suplimente nutritive nu de uz medical pe baza de carbohidrati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Výživové doplnky; Výživové doplnky; Výživové doplnky na nelekárske účely na báze vitamínov, minerálnych látok, stopových prvkov; Výživové doplnky na nemedicínske účely na báze bielkovín; Výživové doplnky na nemedicínske účely na báze uhľohydrátov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Hranilni dodatki; Hranilni dodatki; Dopolnila k hrani za nemedicinske namene na osnovi vitaminov, mineralnih snovi, elementov v sledovih; Dopolnila k hrani za nemedicinske namene na osnovi beljakovin; Dopolnila k hrani za nemedicinske namene na osnovi ogljikovih hidratov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Näringstillskott; Näringstillskott; Icke-medicinska näringstillskott baserade på vitaminer, mineralämnen, spårämnen; Näringstillskott, ej medicinska, baserade på äggvita; Näringstillskott, ej för medicinska ändamål, baserade på kolhydrater.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<SeniorityDetails>
+<Seniority>
+<SeniorityCountryCode>DE</SeniorityCountryCode>
+<SeniorityApplicationNumber>300780419</SeniorityApplicationNumber>
+<SeniorityFilingDate>2000-10-23</SeniorityFilingDate>
+<SeniorityRegistrationNumber>30078041</SeniorityRegistrationNumber>
+<InternationalTradeMarkCode>EU</InternationalTradeMarkCode>
+<SeniorityPartialIndicator>false</SeniorityPartialIndicator>
+<SeniorityStatusCode>Accepted</SeniorityStatusCode>
+</Seniority>
+</SeniorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/083</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/155</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082004</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>14678</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

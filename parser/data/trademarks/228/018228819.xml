@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-22T10:26:53</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228819</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228819</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-25</RegistrationDate>
+<ApplicationLanguageCode>fi</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>CIRCO</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162458033</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/228/018228819/000162458033.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.01.03</CategoryCode>
+          <CategoryCode>29.01.03</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>17</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Формувани пластмаси за производството; Полуобработени пластмасови вещества; Рециклирани пластмаси; Гранули и агрегати от рециклиран полиетилен, полипропилен и полиетилен терефталат.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Polotovary z plastických hmot pro použití ve výrobě; Umělé hmoty jako polotovary; Recyklované plastické hmoty; Granule a agregát z recyklovaného polyetylenu, polypropylenu a polyetylentereftalátu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Plastic i ekstruderet form til brug i fabrikation; Halvforarbejdede plasticmaterialer; Genbrugte plastikker; Granulater og aggregat af genbrugt polyethylen, polypropylen og polyethylenterephthalat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Waren aus Kunststoffen (Halbfabrikate); Kunststoffe als Halbfabrikate; Wiederaufbereitete Kunststoffe; Granulate und Aggregate aus recyceltem Polyethylen, Polypropylen und Polyethylenterephthalat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Προϊόντα από ημικατεργασμένες πλαστικές ύλες· Ημικατεργασμένες πλαστικές ουσίες· Ανακυκλωμένα πλαστικά προϊόντα· Κόκκοι και σωσσωματώματα από ανακυκλωμένο πολυαιθυλένιο, πολυπροπυλένιο και τερεφθαλικό πολυαιθυλένιο.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Plastics in extruded form for use in manufacture; semi-worked plastic substances; recycled plastics; granules and aggregate of recycled polyethylene, polypropylene and polyethylene terephthalate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Productos de materias plásticas semielaborados; Sustancias plásticas semielaboradas; Materias plásticas recicladas; Gránulos y agregado de polietileno reciclado, polipropileno y tereftalato de polietileno.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Tootmises kasutatavad pressplastid; Pooltöödeldud plastid; Ümbertöödeldud plastid; Ümbertöödeldud polüetüleeni, polüpropüleeni ja polüetüleentereftalaadist graanulid ja kuhjatised.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Muovit suulakepuristetussa muodossa teollisuuskäyttöön; puolivalmiit muoviaineet; kierrätetty muovi; granulaatit ja murske kierrätetystä polyeteenistä, polypropeenista ja polyeteenitereftalaatista.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Produits en matières plastiques mi-ouvrées; Matières plastiques mi-ouvrées; Matières plastiques recyclées; Polyéthylène, polypropylène et polyéthylène téréphtalate recyclés en granulés et agrégats.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Poluobrađena plastika; Poluobrađene plastične tvari; Reciklirane plastike; Granule i agregati recikliranog polietilena, polipropilena i polietilentereftalata.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sajtolt műanyag ipari célra; Félig feldolgozott műanyagok; Újrahasznosított műanyagok; Újrahasznosított polietilén, polipropilén és polietilén-tereftalát granulátum és töltőanyag.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Prodotti in materie plastiche semilavorate; Sostanze in plastica semilavorate; Materie plastiche riciclate; Granuli e aggregati in polietilene riciclato, polipropilene e polietilene tereftalato.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Plastikų pusgaminiai; Iš dalies apdirbtos plastiko medžiagos; Perdirbti plastikai; Granulės ir užpildas iš perdirbto polietileno, polipropileno ir polietileno tereftalato.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Plastmasu pusfabrikāti; Daļēji izstrādātas plastmasas vielas; Atkārtoti pārstrādāta plastmasa; Pārstrādāta polietilēna, polipropilēna un polietilēntereftalāta granulas un masa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Plastik mogħti s-sura ta' xi ħaġa, għall-użu fil-manifattura; Sustanzi tal-plastik nofshom maħduma; Plastik riċiklat; Granuli u aggregat ta' polietilen, polipropilen u polietilen tereftalat riċiklati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Halfbewerkte plastic producten; Halfbewerkte plastic substanties; Plastics (Hergebruikte -); Granulaten en aggregaten van gerecyclede polyethyleen, polypropyleen en polyethyleentereftalaat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Tworzywa sztuczne w formie wyciśniętej stosowane w produkcji; Półprzetworzone substancje z tworzyw sztucznych; Tworzywa sztuczne z odzysku; Granulki i zestaw przetworzonego polietylenu, polipropylenu i polietylenu tereftalowego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Produtos em matérias plásticas semi-acabadas para uso na indústria; Substâncias plásticas semitrabalhadas; Matérias plásticas recicladas; Grânulos e agregados de polietileno, polipropileno e polietileno tereftalato reciclado.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Produse din materiale plastice semiprelucrate; Substanţe plastice semifabricate; Materiale plastice reciclate; Granule şi agregat din polietilenă reciclată, polipropilenă şi tereftalat de polietilenă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Plastové výlisky ako polotovary; Plasty a syntetické látky ako polotovary; Recyklované plasty; Granuláty a agregáty z recyklovaného polyetylénu, polypropylénu a polyetylénteraftalátu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Polizdelki iz umetnih snovi za rabo v proizvodnji; Delno predelane umetne snovi; Reciklirana plastika; Granule in agregati iz recikliranega polietilena, polipropilena in polietilen tereftalata.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Plast i halvfabrikat; Delvis bearbetade plastmaterial; Återvunnen plast; Granulat och aggregat av återvunnen polyetylen, polypropen och polyetylentereftalat.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>19</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Строителни материали от рециклирана пластмаса,; Дъски, плоскости, съединяващи се плоскости, греди и стълбове от синтетичен материал; Горепосочените, с изключение на строителните материали от хоросан, камъни, пясъчник, вар.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Stavební materiály z recyklovaného plastu; Prkna, desky, zámkové desky, trámy a sloupy z plastických hmot; Výše uvedené s výjimkou stavebních materiálů z malty, kamene, pískovce, vápence.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Byggematerialer af genbrugsplastic; Planker, plankebeklædning, plankebeklædning med indgrebsfunktion, bjælker og stolper af plastic; Førnævnte, dog ikke byggematerialer af mørtel, sten, sandsten, kalk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Baumaterialien aus recyceltem Kunststoff; Bohlen, Dielen, Dielen mit Klick-System, Träger und Pfosten aus Kunststoff; Alles Vorgenannte ausgenommen Baumaterialien aus Mörtel, Stein, Sandstein, Kalk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υλικά κατασκευών από ανακυκλωμένο πλαστικό· Σανίδες, σανιδώσεις, αλληλοεμπλεκόμενες σανιδώσεις, δοκοί και πάσσαλοι από πλαστικό· Από το σύνολο των προαναφερόμενων εξαιρούνται υλικά κατασκευών από κονίαμα, λίθους, ψαμμίτη, ασβέστη.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Building materials of recycled plastic; planks, plank boards, interlocking plank boards, beams and posts of plastic; the aforesaid excluding building materials of mortar, stones, sandstone, lime.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Materiales de construcción de plástico reciclado; Tablones, paneles de planchas, paneles de planchas entrelazadas, vigas y postes de plástico; Todo lo anterior a excepción de materiales de construcción de mortero, piedra, gres y cal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ringlussevõetud plastist ehitusmaterjalid; Plastist plangud, planklauad, tappseotisega planklauad, talad ja postid; Eelnimetatud, v.a ehitusmaterjalid nagu ehitusmört, kivid, liivakivid, lubi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kierrätysmuoviset rakennusaineet; muoviset lankut, laudat, ponttilaudat, palkit ja tolpat; edellä olevat pois lukien rakennusmateriaalit laastista, kivistä, hiekkakivestä, kalkista.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Matériaux de construction en matières plastiques recyclées; Planches, panneaux, panneaux à emboîter, poutres et poteaux en matières plastiques; Les produits précités à l'exclusion des matériaux de construction à base de mortier, de pierres, de grès, de chaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Građevinski materijali od reciklirane plastike; Daske, drvene ploče, isprepletene drvene ploče, grede i plastični kolci; Prethodno navedeno ne uključuje građevinske materijale od žbuke, kamenja, pješčenjaka, vapna.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Újrahasznosított műanyagból készült építőanyagok; Műanyag pallók, deszkalapok, összekapcsolható deszkalapok, gerendák és oszlopok; A fentiek a habarcs, kövek, homokkő, mész építőanyagai kivételével.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Materiali da costruzione in plastica riciclata; Assi, assi e tavole, assi collegati tra loro, travi e pali in plastica; I suddetti, esclusi i materiali da costruzione, pietre, arenaria, calce.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Statybinės medžiagos iš perdirbto plastiko; Lentos, lentinės plokštės, sujungtos lentinės plokštės, sijos ir plastikiniai stulpeliai; Minėtos prekės, išskyrus skiedinio, akmenų, smiltainio, kalkių statybines medžiagas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Celtniecības materiāli no pārstrādātas plastmasas; Dēļi, plāksnes, starpsavienojuma plāksnes, sijas un stabi no plastmasas; Iepriekš minētais, izņemot javas, akmeņu, smilšakmens, kaļķa celtniecības materiālus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Materjal tal-bini ta' plastik irriċiklat; Planki, bords tal-planki, bords tal-planki li jidħlu f'xulxin, travi u arbli tal-plastik; Fejn dawk imsemmija hawn qabel jeskludu materjali tal-bini ta' mehrież, ġebel, ġebel imrammel, ġir.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bouwmaterialen van gerecycleerd plastic; Planken, platen, in elkaar grijpende platen, balken en palen van kunststof; Het voornoemde met uitzondering van bouwmaterialen van mortel, stenen, zandsteen, kalk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Materiały budowlane z tworzyw sztucznych, pochodzących z recyklingu; Deski, płyty z desek, blokujące panele z desek, belki i słupy z tworzyw sztucznych; Wyżej wymienione, poza materiałami budowlanymi z zaprawy murarskiej, kamienia, piaskowca, wapna.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Materiais de construção em plástico reciclado; Tábuas, pranchas, pranchas interligáveis, traves e postes de plástico; Todos os produtos atrás referidos excluindo materiais de construção sob a forma de argamassa, pedras, grés e cal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Materiale de construcţie din plastic reciclat; Scânduri, planşe pentru scânduri, planşe pentru scânduri care se întrepătrund, axe şi stâlpi din plastic; Toate cele susmenționate exclud materialele de construcții din mortar, pietre, piatră de nisip, var.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Stavebné materiály z recyklovaných plastov; Dosky, laty, vzájomne zapadajúce laty, trámy a stĺpy z plastu; Žiadne z nich nezahŕňajú stavebné materiály z malty, kameňa, pieskovca, vápna.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Gradbeni materiali iz reciklirane plastike; Deske, plošče, spete plošče, tramovi in stebri iz umetnih snovi; Prej navedeno, razen gradbenih materialov iz malte, kamnov, peščenjaka, apna.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Byggmaterial av återvunnen plast; Plankor, plank och bräder, sammankoppling av brädpaneler, balkar och plaststolpar; Bland de nämnda, ej byggnadsmaterial av murbruk, sten, sandsten, kalk.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/091</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/163</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>103634</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>14033</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

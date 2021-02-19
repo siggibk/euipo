@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:08</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229238</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229238</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SINCENLANZEN</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Дюшеци, матраци; Дюшеци за къмпинг; Подложки [възглавници]; Втулки; Рогозки за спане; Възглавници; Възглавници за столове; Подложки за детски кошарки; Възглавнички за домашни любимци; Възглавнички за подпиране на врат; Възглавници за подпиране на врат; Завивки [с изключение на ленени]; Дивани тип отоманки; Мека мебел.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Matrace; Kempinkové matrace; Polštáře (dekorační); Podhlavníky; Podložky na spaní (karimatky); Polštáře (na spaní); Polštářky na sedačky; Podložky do dětských ohrádek; Podušky pro domácí zvířata; Podušky podpírající krk, nikoliv pro léčebné nebo chirurgické účely; Krční polštáře (nikoliv pro zdravotnické nebo chirurgické účely); Lůžkoviny, s výjimkou ložního prádla; Gauče; Čalouněný nábytek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Madrasser; Madrasser til campingbrug; Puder; Skråmadrasser; Liggeunderlag; Hovedpuder; Puder til stole; Måtter til småbørnskravlegårde; Puder til kæledyr; Nakkehynder; Nakkestøttepuder; Sengeudstyr, undtagen sengelinned; Ottomaner; Polstrede møbler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Matratzen; Campingmatratzen; Kissen; Kopfpolster; Isomatten; Kopfkissen; Sitzpolster; Matten für Babylaufgitter; Kissen für Haustiere; Nackenstützpolster; Nackenstützkissen; Bettzeug, ausgenommen Bettwäsche; Ottomane; Polstermöbel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Στρώματα· Στρώματα κατασκήνωσης· Μαξιλάρια· Εγκάρσιοι δοκοί· Υποστρώματα ύπνου· Μαξιλάρια ύπνου· Μαξιλαράκια καρέκλας· Στρώματα για πάρκα για μωρά· Μαξιλάρια για ζώα κατοικίδια· Μαξιλάρια αυχένα μη προοριζόμενα για ιατρική ή χειρουργική χρήση· Μαξιλάρια με διατάξεις υποστήριξης αυχένα· Εξοπλισμός κλινών, εκτός των λευκών ειδών κρεβατοκάμαρας· Ντιβανοκασέλες· Ταπετσαρισμένα έπιπλα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Mattresses; Camping mattresses; Cushions; Cushions [furniture]; Bolsters; Sleeping mats; Pillows; Chair cushions; Mats for infant playpens; Pet cushions; Neck support cushions; Neck pillows; Bedding, except linen; Ottomans; Upholstered furniture.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Colchones; Colchones de camping; Cojines; Travesaños [almohadas]; Colchonetas para dormir; Almohadas; Cojines para asientos; Colchonetas para parques de bebés; Cojines para animales de compañía; Cojines cervicales; Almohadas cervicales; Accesorios de cama, excepto ropa de cama; Otomanes; Muebles tapizados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Madratsid; Matkamadratsid; Istme-, sohvapadjad; Rullpadjad; Magamismatid; Padjad; Istmepolstrid; Väikelaste mänguaedade matid; Lemmikloomapadjad; Kaelatoed [padjad]; Kaela toetavad padjad; Vooditarbed, v.a voodipesu; Türgi diivanid; Pehme mööbel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Patjat; Retkeilypatjat; Tyynyt; Pielukset; Makuualustat; Tyynyt; Istuintyynyt; Alustat lasten leikkikehiin; Tyynyt lemmikkieläimille; Niskatukityynyt; Niskaa tukevat tyynyt; Sänkypohjat; Ottomaanit; Pehmustetut huonekalut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Matelas; Matelas de camping; Coussins; Traversins; Tapis de sol pour le couchage; Oreillers; Coussins de sièges; Tapis pour parcs pour bébés; Coussins pour animaux de compagnie; Coussins de confort cervical; Oreillers de confort cervical; Literie à l'exception du linge de lit; Ottomanes; Meubles tapissés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Madraci; Madraci za kampiranje; Jastuci; Valjkasti jastučići; Podloge za spavanje; Uzglavlja; Jastuci za stolce; Prostirke za sobne dječje jaslice; Jastuci za kućne ljubimce; Jastučići za vrat; Jastuci za vrat; Posteljina [osim posteljnog rublja]; Otomani; Tapecirani namještaj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Matracok; Kemping matracok; Párnák, díszpárnák; Hengerpárnák; Hálómatracok; Párnák, fejpárnák; Üléspárnák, ülőpárnák; Szőnyegek, takarók gyerek járókákhoz; Párnák háziállatoknak; Nyakpárnák [nem gyógyászati vagy sebészeti használatra]; Nyakpárnák [nem gyógyászati vagy sebészeti használatra]; Ágyneműk, a vászonhuzatok kivételével; Ottománok [kerevetek, puffok, lábtartók]; Kárpitozott bútor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Materassi; Materassini da campeggio; Cuscini; Capezzali; Tappetini per dormire; Guanciali; Cuscini per sedie; Tappeti per parchi per bambini; Cuscini per animali domestici; Cuscini di supporto per il collo; Guanciali di supporto per il collo; Materiale per effetti letterecci esclusa la biancheria; Ottomane; Mobili imbottiti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Čiužiniai ir matracai; Turistiniai čiužiniai; Pagalvės [lovų]; Pailgosios pagalvėlės; Miegamieji paklotai; Pagalvės; Sėdimosios pagalvėlės; Kilimėliai vaikų žaidimo aptvarėliams; Kambarinių gyvūnėlių pagalvėlės; Atraminės kaklo pagalvėlės; Kaklo pagalvėlės [ne medicininės ar chirurginės]; Patalynė [išskyrus skalbinius]; Otomanės; Minkštųjų baldų komplektai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Matrači; Matrači pārgājieniem; Mēbeļu spilveni; Gareni spilveni; Matrači gulēšanai; Spilveni; Sēdekļu spilveni; Paklāji mazuļu sētiņām; Spilveni mājas (istabas) dzīvniekiem; Polsteri kakla atbalstam; Kakla atbalsta spilveni; Gultas piederumi, izņemot gultas veļu; Tahtas; Polsterētas mēbeles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Saqqijiet; Saqqijiet għall-kampeġġ; Kuxxini; Mħaded twal f'forma ta' romblu; Twapet għall-irqad; Mħaded; Kuxxini għas-siġġijiet; Twapet żgħar għall-plejpens tat-tfal iż-żgħar; Kuxxini għall-annimali domestiċi; Kuxxini għal appoġġ tal-għonq; Mħaded li jappoġġjaw l-għonq; Friex, minbarra bjankerija; Ottomani; Għamara miksija bit-tapizzerija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Matrassen; Kampeermatrassen; Zit- of sierkussens; Hoofdkussens, rolvormig; Slaapmatten; Hoofdkussens; Stoelkussens; Boxkleden; Kussens voor huisdieren; Neksteunkussens; Nekondersteunende kussens; Beddengoed [uitgezonderd linnen]; Ottomanes; Gestoffeerde meubelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Materace; Materace kempingowe; Poduszki; Podgłówki, wałki; Karimaty; Wezgłowia; Poduszki na siedzenia; Maty do kojców dziecięcych; Poduszki dla zwierząt domowych; Poduszki pod kark; Poduszki wspierające szyję; Pościel, oprócz bielizny pościelowej; Otomany; Meble tapicerowane.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Colchões; Colchões para campismo; Almofadas [travesseiros]; Almofadas de apoio; Esteiras para dormir; Almofadas; Almofadas para assentos; Bases para parques de bebés; Almofadas para animais de estimação; Almofadas para apoio do pescoço; Travesseiros para apoio do pescoço; Acessórios de cama, exceto roupa de cama; Otomanas; Mobiliário estofado.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Saltele; Saltele pentru camping; Perne decorative; Perne mari; Saltele de dormit; Perne; Perne pentru fotolii; Covorașe pentru țarcuri de bebeluși; Perne pentru animale de companie; Perne de susținere a gâtului; Perne cervicale; Așternuturi [cu excepția lenjeriei de pat]; Otomane; Mobilier capitonat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Matrace; Kempingové matrace; Podušky; Podhlavníky; Spacie podložky; Vankúše; Podušky na sedenie; Podložky do ohrádok pre dojčatá; Podušky pre domáce zvieratá; Oporné podušky na krk; Vankúše na oporu krku; Lôžkoviny okrem posteľnej bielizne; Taburetky; Čalúnený nábytok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Vzmetnice; Blazine za kampiranje; Blazine; Vzglavniki; Spalne blazine; Vzglavne blazine; Sedežne blazine za stole; Podloge za otroške stajice; Blazine za hišne ljubljence; Blazine za podporo vratu; Vzglavniki za podporo vratu; Posteljna oprema (blazine, žimnice, postelje), razen posteljnega perila; Otomani; Oblazinjeno pohištvo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Madrasser; Campingmadrasser; Dynor; Långa kuddar; Liggunderlag; Kuddar; Dynor för sitsar; Mattor för spädbarnshagar; Husdjurskuddar; Dynor för användning som nackstöd; Kuddar för användning som nackstöd; Sängutrustning (med undantag för sänglinne); Ottomaner; Stoppade möbler.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1081954</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>38810</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

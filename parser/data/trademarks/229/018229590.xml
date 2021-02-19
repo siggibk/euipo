@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-24T10:47:41</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229590</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229590</ApplicationNumber>
+<ApplicationDate>2020-04-26</ApplicationDate>
+<RegistrationDate>2020-09-21</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-26</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-24</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>CallySonic</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>21</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Четки за зъби, електрически; Ръчни четки за зъби; Накрайници за електрически четки за зъби; Четки за зъби; Водни апарати за почистване на зъби и венци; Контейнери за четки за зъби; Копринени конци за зъболекарски цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Elektrické zubní kartáčky; Ruční zubní kartáčky; Hlavy k elektrickým zubním kartáčkům; Zubní kartáčky; Ústní sprchy na čištění zubů a masáž dásní; Pouzdra na zubní kartáčky; Zubní nit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tandbørster, elektriske; Manuelle tandbørster; Hoveder til elektriske tandbørster; Tandbørster; Vandapparater til rengøring af tænder og gummer; Beholdere til tandbørster; Tandtråd.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Elektrische Zahnbürsten; Manuelle Zahnbürsten; Bürstenköpfe für elektrische Zahnbürsten; Zahnbürsten; Mundduschen; Zahnbürstenbehälter; Zahnseide.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Οδοντόβουρτσες [ηλεκτρικές]· Χειροκίνητες οδοντόβουρτσες· Κεφαλές για ηλεκτρικές οδοντόβουρτσες· Βουρτσες (Οδοντό -)· Πλύσεων στοματικών (Συσκευές -)· Θήκες για οδοντόβουρτσες· Νήμα οδοντικό.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Toothbrushes, electric; non-electric toothbrushes; heads for electric toothbrushes; toothbrushes; water apparatus for cleaning teeth and gums; toothbrush cases; floss for dental purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cepillos de dientes eléctricos; Cepillos de dientes manuales; Cabezales para cepillos de dientes eléctricos; Cepillos de dientes; Duchas bucales; Recipientes para cepillos de dientes; Hilo dental.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Elektrihambaharjad; Mitteelektrilised hambaharjad; Elektriliste hambaharjade otsakud; Hambaharjad; Hammaste ja igemete vesipuhastuse seadmed; Hambaharjavutlarid; Hambaniit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sähköhammasharjat; Käsikäyttöiset hammasharjat; Sähköhammasharjojen vaihtopäät; Hammasharjat; Suihkuttimet hampaiden ja ikenien puhdistukseen; Hammasharjakotelot; Hammaslanka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Brosses à dents électriques; Brosses à dents manuelles; Têtes pour brosses à dents électriques; Brosses à dents; Douches buccales; Récipients pour brosses à dents; Fil dentaire.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Četkice za zube, električne; Ručne četkice za zube; Glave za električne četkice za zube; Četkice za zube; Tuševi za ispiranje usta; Kutijice za četkice za zube; Konac za njegu zubi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fogkefék (Elektromos -); Fogkefe; Fejek elektromos fogkefékhez; Fogkefék; Szájzuhanyok; Fogkefe tokok; Fogselyem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Spazzolini da denti elettrici; Spazzolini da denti manuali; Testine per spazzolini da denti elettrici; Spazzolini da denti; Docce per bocca; Contenitori per spazzolini da denti; Filo dentario.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Elektriniai dantų šepetukai; Rankiniai dantų šepetėliai; Elektrinių dantų šepetėlių galvutės; Dantų šepetukai; Dantų ir dantenų valymo vandens aparatai; Dantų šepetėlių dėžutės; Tarpdančių valymo siūlai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Elektriskās zobu sukas; Rokas zobu sukas; Elektrisko zobu suku galviņas; Zobu sukas; Ūdens ierīces zobu un smaganu tīrīšanai; Zobu suku trauki; Zobu diegi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xkupilji tas-snien, tal-elettriku; Xkupilji manwali tas-snien; Irjus għall-ixkupilji tas-snien li jaħdmu bl-elettriku; Xkupilji tas-snien; Apparat għat-tindif tas-snien u tal-ħanek; Kontenituri għall-ixkupilji tas-snien; Ħajt għal skopijiet ta' tindif dentali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Elektrische tandenborstels; Tandenborstels (Handmatige -); Opzetstukken voor elektrische tandenborstels; Tandenborstels; Monddouches; Tandenborsteldozen; Tandzijde.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Szczoteczki do zębów elektryczne; Szczoteczki do zębów do szczotkowania ręcznego; Końcówki do szczoteczek elektrycznych; Szczoteczki do zębów; Wodne aparaty do czyszczenia jamy ustnej; Pojemniki na szczoteczki do zębów; Nici dentystyczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Escovas de dentes elétricas; Escovas de dentes manuais; Cabeças para escovas de dentes elétricas; Escovas de dentes; Dispositivos de água para limpeza de dentes e gengivas; Recipientes para escovas de dentes; Fio dental.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Perii de dinți electrice; Periuțe de dinți manuale; Capete pentru periuțe de dinți electrice; Periuțe de dinți; Dușuri de gură pentru curățarea dinților si gingiilor; Recipiente pentru periuțe de dinți; Ață dentară.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Elektrické zubné kefky; Ručné zubné kefky; Hlavice na elektrické zubné kefky; Zubné kefky; Ústne sprchy na čistenie zubov a masáž ďasien; Nádoby na zubné kefky; Dentálne nite.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zobne ščetke, električne; Ročne zobne ščetke; Glave za električne zobne ščetke; Zobne ščetke; Ustne prhe za čiščenje zob; Etuiji za zobno ščetko; Zobna nitka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Elektriska tandborstar; Manuella tandborstar; Borsthuvuden för elektriska tandborstar; Tandborstar; Vattenanordningar för rengöring av tänder och tandkött; Behållare för tandborstar; Tandtråd för dentala ändamål.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/106</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-08</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/182</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-09-23</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1074795</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15173</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

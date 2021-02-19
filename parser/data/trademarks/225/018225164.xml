@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-10T09:46:01</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225164</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225164</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-08</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>LOPSNNA</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>7</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">3D принтери; Машини за продухване с въздух; Въздушни компресори; Кондензатори, работещи с въздух; Въздушни помпи; Машини за производство на сирене; Машини за гладене; Двигатели, работещи със сгъстен въздух; Матрици за машинни инструменти; Миялни машини за домакински цели; Прахоуловители; Динамомашини; Инкубатори за яйца; Машинни за пране на дрехи [електрически]; Електрически прахосмукачки за домакинска употреба; Електрически кафе машини; Електрически мелачки за месо; Електрически сокоизстисквачки; Уреди за оформяне тревата на морави [машини].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">3D tiskárny; Vzduchová dmychadla; Vzduchové kompresory; Vzduchové chladiče; Vzduchová čerpadla; Stroje na výrobu sýra; Žehlicí stroje; Motory na stlačený vzduch; Raznice pro obráběcí stroje; Myčky na nádobí pro domácnost; Zařízení na odsávání prachu pro čisticí účely; Dynama; Inkubátory na vejce; Elektrické pračky na oděvy; Elektrické vysavače pro domácnost; Elektrické mlýnky na kávu; Elektrické mlýnky na maso; Elektrické odšťavňovače; Sekačky na zastřihávání okrajů trávníku (stroje).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">3D-printere; Luftblæsemaskiner; Luftkompressorer; Luftfortættere; Luftpumper; Maskiner til fremstilling af ost; Strygemaskiner; Trykluftsmotorer; Matricer til værktøjsmaskiner; Opvaskemaskiner til husholdningsbrug; Støvudsugningsinstallationer til rengøringsformål; Dynamoer; Rugemaskiner til æg; Elektriske vaskemaskiner til tøjvask; Elektriske støvsugere til husholdningsbrug; Eldrevne kaffemøller; Elektriske kødhakkemaskiner; Elektriske frugtpressere; Trimmere til plænekanter [maskiner].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">3D-Drucker; Luftgebläse; Luftkompressoren; Luftkondensatoren; Luftpumpen; Maschinen zur Herstellung von Käse; Bügelmaschinen; Druckluftmotoren; Schneidwerkzeuge für Werkzeugmaschinen; Geschirrspülmaschinen für den Haushalt; Staubsauganlagen für Reinigungszwecke; Dynamos; Brutapparate für Eier; Elektrische Waschmaschinen für Bekleidungsstücke; Elektrische Haushaltsstaubsauger; Elektrische Kaffeemühlen; Elektrische Fleischwölfe; Elektrische Entsafter; Rasenkantenschneider [Maschinen].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Τρισδιάστατοι εκτυπωτές· Μηχανές εμφύσησης αέρα· Αεροσυμπιεστές· Αέρα συμπυκνωτές· Αεραντλίες· Μηχανές παραγωγής τυριού· Σιδερωτήρια· Αέρα συμπιεσμένου (Κινητήρες -)· Μήτρες για μηχανήματα κατεργασίας· Πλυντήρια πιάτων για οικιακή χρήση· Απορρόφηση σκόνης (Εγκαταστάσεις για -) για καθαρισμό· Δυναμό· Εκκολαπτικές μηχανές· Μηχανες για πλυσιμο ρούχων (ηλεκτρικές)· Ηλεκτρικές σκούπες για οικιακή χρήση· Ηλεκτροκίνητοι μύλοι του καφέ· Ηλεκτροκίνητοι μύλοι κρέατος· Ηλεκτρικοί αποχυμωτές φρούτων· Μηχανές κουρέματος άκρων χορτοτάπητα [μηχανές].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">3D printers; Air blowers; Air compressors; Air condensers; Air pumps; Cheese making machines; Cloth ironing machines; Compressed air engines; Dies for machine tools; Dish washing machines for household purposes; Dust exhausting installations for cleaning purposes; Dynamos; Egg incubators; Electric clothes-washing machines; Electric domestic vacuum cleaners; Electric coffee grinders; Electric meat grinders; Electric juicers; Lawn edge trimmers [machines].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Impresoras 3D; Sopladoras de aire; Compresores de aire; Condensadores de aire; Bombas de aire; Máquinas para la fabricación de quesos; Máquinas de planchar; Motores de aire comprimido; Troqueles para máquinas herramientas; Máquinas lavavajillas para uso doméstico; Instalaciones de aspiración de polvo para limpiar; Dínamos; Incubadoras de huevos; Máquinas eléctricas para lavar la ropa; Aspiradores eléctricos para el hogar; Molinillos eléctricos de café; Trituradoras de carne eléctricas; Extractores de zumo eléctricos; Recortadoras para bordes del césped [máquinas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">3D-printerid (trükimasinad); Õhupuhumisseadmed; Õhukompressorid; Õhukondensaatorid; Õhupumbad; Juustu valmistamise seadmed; Triikmasinad, triikrauad; Suruõhumootorid, pneumomootorid; Tööpinkide stantsid; Majapidamises kasutatavad nõudepesumasinad; Tolmu imemise seadmed puhastuseks; Dünamod, jõumootorid; Munainkubaatorid; Elektrilised pesumasinad; Majapidamise elektritolmuimejad; Kohviveskid (elektrilised); Hakklihamasinad (elektrilised); Elektrilised mahlapressid; Murutrimmerid [masinad].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">3D-tulostimet; Ilmanpuhaltimet; Ilmakompressorit; Ilman lauhduttimet; Ilmapumput; Juustonvalmistuskoneet; Silityskoneet; Paineilmamoottorit; Muotit työstökoneisiin; Astianpesukoneet kotitalouskäyttöön; Pölynimulaitteet puhdistustarkoituksiin; Dynamot; Munanhautomakoneet; Sähkökäyttöiset pesukoneet; Sähköpölynimurit kotitalouskäyttöön; Sähkökäyttöiset kahvimyllyt; Sähkökäyttöiset lihamyllyt; Sähkökäyttöiset mehulingot; Ruohikon reunojen viimeistelylaitteet [koneet].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Imprimantes tridimentionnelles; Souffleurs d'air; Compresseurs d'air; Condenseurs à air; Pompes à air comprimé; Machines pour la fabrication de fromages; Repasseuses; Moteurs à air comprimé; Matrices pour machines-outils; Machines lave-vaisselle à usage ménager; Installations pour l'aspiration de poussières pour le nettoyage; Dynamos; Incubateurs [couveuses] pour œufs; Machines à laver le linge électriques; Aspirateurs électriques à usage domestique; Moulins à café électriques; Hachoirs à viande électriques; Extracteurs de jus électriques; Coupe-bordures [machines].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">3D pisači; Strojevi za puhanje zraka; Kompresori zraka; Zračni kondenzatori; Zračne pumpe; Strojevi za izradu sira; Strojevi za glačanje odjeće; Pneumatski motori; Matrice za alatne strojeve; Perilice za suđe za kućanstvo; Prašina (postrojenja za usisavanje prašine za potrebe čišćenja); Dinamo uređaji; Inkubatori za jaja; Strojevi za pranje odjeće [električni]; Električni usisavači za uporabu u kućanstvu; Električni mlinci za kavu; Električni mlinci za meso; Električni sokovnici; Strojevi za uređivanje rubova travnjaka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Háromdimenziós nyomtatók; Légfúvó gépek; Légsűrítők [gépek]; Légkondenzátorok; Levegőszivattyúk; Sajtkészítő gépek; Vasalógépek; Préslégmotorok, sűrített levegős motorok; Süllyesztékek szerszámgépekhez; Mosogatógépek háztartási célokra; Porelszívó készülékek tisztítási célra; Dinamók; Tojáskeltető gépek; Elektromos mosógépek ruhákhoz; Elektromos porszívók háztartási használatra; Elektromos kávédarálók; Elektromos húsdarálók; Elektromos juicer-ek; Gyepszegélyvágók [gépek].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Stampanti 3D; Macchine soffianti aria; Compressori d'aria; Condensatori ad aria; Pompe ad aria; Macchine per la fabbricazione del formaggio; Stiratrici; Motori ad aria compressa; Matrici per macchine utensili; Lavastoviglie per uso domestico; Impianti per l'aspirazione di polveri per la pulizia; Dinamo; Incubatrici per uova; Macchine per il lavaggio d'indumenti [elettriche]; Aspirapolvere elettrici per uso domestico; Macinini per il caffè elettrici; Tritacarne elettrici; Estrattore di succhi, elettrici; Tagliabordi per prato [macchine].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">3D spausdintuvai; Oro pūtimo mašinos; Oro kompresoriai; Oro kondensatoriai; Oro siurbliai (pompos); Sūrių gaminimo mašinos; Lyginimo mašinos; Pneumatiniai varikliai; Staklių štampai; Buitinės indaplovės; Dulkių siurbimo įrenginiai (valymo reikmėms); Nuolatinės srovės generatoriai; Perėtuvai (inkubatoriai); Elektrinės drabužių skalbimo mašinos; Buitiniai elektriniai dulkių siurbliai; Elektrinės kavamalės; Elektrinės mėsmalės; Elektrinės vaisių sulčiaspaudės; Vejos pakraščių karpytuvai [mašinos].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">3D printeri; Gaispūtes mašīnas; Gaisa kompresori; Gaisa kondensatori; Gaisa sūkņi; Siera ražošanas iekārtas; Gludināšanas iekārtas; Saspiesta gaisa dzinēji; Štances darbmašīnām; Trauku mazgājamās mašīnas mājsaimniecības nolūkiem; Putekļu savākšanas iekārtas tīrīšanas nolūkiem; Dinamomašīnas; Olu inkubatori; Elektriskās veļas mazgājamās mašīnas; Elektriskie mājsaimniecības putekļsūcēji; Elektriskās kafijas dzirnaviņas; Elektriskās gaļas maļamās mašīnas; Elektriskās sulu spiedes; Zāliena malu trimeri (mašīnas).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Printers 3D; Magni li jonfħu l-arja; Kumpressuri tal-arja; Kondensaturi tal-arja; Pompi tal-arja; Magni għall-produzzjoni tal-ġobon; Magni tal-mogħdija; Magni tal-arja kompressata; Forom għall-għodda tal-magni; Magni li jaħslu l-platti u l-borom għal skopijiet domestiċi; Installazzjonijiet għal skopijiet ta' tindif li jassorbu t-trab; Dajnamows; Inkubaturi għall-bajd; Magni għall-ħasil tal-ħwejjeġ [elettriku]; Tagħmir elettriku tat-tindif bil-vakwu għall-użu domestiku; Imtieħen tal-kafè li jitħaddmu bl-elettriku; Magni tal-kapuljat tal-elettriku; Apparat elettriku għat-tagħsir tal-frott; Magni li jaqtgħu t-truf tal-lon [magni].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">3D-printers; Luchtblaasmachines; Luchtcompressoren; Luchtcondensors; Luchtdrukpompen; Kaasbereidingsmachines; Strijkmachines; Luchtdrukmotoren; Matrijzen voor werktuigmachines; Vaatwasmachines voor huishoudelijke doeleinden; Stofafzuiginstallaties voor reinigingsdoeleinden; Dynamo's; Broedmachines voor eieren; Wasmachnies voor linnengoed [elektrisch]; Stofzuigers (Elektrische -) voor huishoudelijk gebruik; Koffiemolens (Elektrische -); Elektrische vleesmolens; Vruchtenpersen, elektrisch; Gazonrandbijwerkers [machines].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Drukarki 3D; Dmuchawy powietrzne; Sprężarki powietrzne; Skraplacze powietrzne; Pompy powietrza; Maszyny do produkcji sera; Prasownice; Silniki na sprężone powietrze; Matryce do obrabiarek; Zmywarki do naczyń do użytku domowego; Instalacje odsysające pył do czyszczenia; Prądnice prądu stałego; Inkubatory do jaj; Maszyny do prania odzieży [elektryczne]; Odkurzacze elektryczne do użytku domowego; Elektryczne młynki do kawy; Elektryczne maszynki do mielenia mięsa; Elektryczne sokowirówki; Przycinarki krawędzi trawników [maszyny].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Impressoras tridimensionais; Máquinas sopradoras de ar; Compressores de ar; Condensadores de ar; Bombas de ar; Máquinas para fazer queijo; Máquinas de engomar; Motores de ar comprimido; Moldes para máquinas-ferramentas; Máquinas de lavar louça para uso doméstico; Instalações de aspiração de poeiras para limpeza; Dínamos; Incubadoras de ovos; Máquinas de lavar roupa [elétricas]; Aspiradores elétricos para uso doméstico; Moedores de café acionados eletricamente; Picadoras de carne acionadas eletricamente; Extratores de sumo, elétricos; Aparadores de reborados de relva [máquinas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Imprimante 3D; Maşini suflante; Compresoare de aer; Condensatoare de aer; Pompe de aer; Maşini pentru prepararea brânzei; Călcat (Maşini de -); Aer comprimat (Motoare cu -); Ştanţe pentru maşini-unelte; Maşini de spălat vase de uz casnic; Praf (aspiratoare de - pentru curăţare); Dinamuri; Incubatoare pentru ouă; Maşini de spălat articole de îmbrăcăminte [electrice]; Aspiratoare electrice de uz casnic; Râşniţe de cafea electrice; Tocătoare electrice de carne; Storcătoare electrice de suc; Maşini de modelat gazonul.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">3D tlačiarne; Stroje na fúkanie vzduchu; Vzduchové kompresory; Vzduchové chladiče; Vzduchové čerpadlá; Stroje na výrobu syra; Žehliace stroje; Motory na stlačený vzduch; Raziace nástroje pre obrábacie stroje; Umývačky riadu do domácnosti; Zariadenia na odsávanie prachu (upratovacie stroje); Dynamá; Liahne na vajcia; Elektrické práčky na odevy; Elektrické vysávače na domáce použitie; Elektricky poháňané kávové mlynčeky; Elektrické mlynčeky na mäso; Elektrické odšťavovače; Vyžínacie stroje [stroje].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">3D tiskalniki; Pihalniki zraka; Zračni kompresorji; Kondenzatorji za zrak; Zračne črpalke; Stroji za izdelovanje sira; Likalni stroji; Motorji na stisnjen zrak; Matrice za uporabo z orodnimi stroji; Pomivalni stroji za gospodinjske namene; Naprave za sesanje prahu, za čistilne namene; Dinama; Valilniki za jajca; Električni stroji za pranje perila; Električni sesalniki za prah za gospodinjsko uporabo; Električni mlinčki za kavo; Električne naprave za mletje mesa; Sokovniki [električni]; Obrezovalniki tratnih robov [stroji].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">3D-skrivare; Luftblåsmaskiner; Luftkompressorer; Luftkondensorer; Luftpumpar; Ystningsmaskiner; Strykningsmaskiner; Tryckluftsmotorer; Formar för maskinverktyg; Diskmaskiner för hushållsändamål; Dammutsugningsinstallationer för rengöringsändamål; Dynamor; Äggkläckningsmaskiner; Elektriska tvättmaskiner för kläder; Elektriska dammsugare för användning i hemmet; Elektriska kaffekvarnar; Elektriska köttkvarnar; Elektriska juicepressar; Gräskantsklippningsmaskiner.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/141</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/173</PublicationIdentifier>
+        <PublicationSection>C.1.2</PublicationSection>
+        <PublicationDate>2020-09-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15066</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018462153</RecordIdentifier>
+<BasicRecordKind>Proprietor - Partial transfers</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15066</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-09-10</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+<TradeMarkRelationDetails>
+<TradeMarkRelation>
+      <TradeMarkIdentifier>018225164</TradeMarkIdentifier>
+      <TradeMarkRelationKind>Parent Division</TradeMarkRelationKind>
+      <RelatedTradeMarkIdentifier>018304434</RelatedTradeMarkIdentifier>
+     </TradeMarkRelation>				</TradeMarkRelationDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

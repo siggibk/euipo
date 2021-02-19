@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:57</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063713-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063713-0001</DesignIdentifier>
+<ApplicationNumber>001063713</ApplicationNumber>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-01-16</PublicationDate>
+<ApplicationReference>DQ70101-EU</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061802183</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063713_0001/001063713_0001_1.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.01</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061802184</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063713_0001/001063713_0001_2.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.01</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061802185</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063713_0001/001063713_0001_3.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.01</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Стойки/съдове за вино</IndicationProduct>
+       <IndicationProduct languageCode="cs">Nádoby na nápoje</IndicationProduct>
+       <IndicationProduct languageCode="da">Emballage til drikkevarer</IndicationProduct>
+       <IndicationProduct languageCode="de">Behälter für Getränke</IndicationProduct>
+       <IndicationProduct languageCode="el">Συσκευασίες για ποτά</IndicationProduct>
+       <IndicationProduct languageCode="en">Packaging for beverages</IndicationProduct>
+       <IndicationProduct languageCode="es">Envases para bebidas</IndicationProduct>
+       <IndicationProduct languageCode="et">Joogianumad</IndicationProduct>
+       <IndicationProduct languageCode="fi">Pakkaukset juomia varten</IndicationProduct>
+       <IndicationProduct languageCode="fr">Récipients pour boissons</IndicationProduct>
+       <IndicationProduct languageCode="hu">Italtartók</IndicationProduct>
+       <IndicationProduct languageCode="it">Recipienti per bevande</IndicationProduct>
+       <IndicationProduct languageCode="lt">Gėrimų tara</IndicationProduct>
+       <IndicationProduct languageCode="lv">Dzērienu trauki</IndicationProduct>
+       <IndicationProduct languageCode="mt">Kontenituri għax-xorb</IndicationProduct>
+       <IndicationProduct languageCode="nl">Verpakkingen voor dranken</IndicationProduct>
+       <IndicationProduct languageCode="pl">Pojemniki na napoje</IndicationProduct>
+       <IndicationProduct languageCode="pt">Recipientes para bebidas</IndicationProduct>
+       <IndicationProduct languageCode="ro">Suporturi/recipiente pentru sticle</IndicationProduct>
+       <IndicationProduct languageCode="sk">Nádoby na nápoje</IndicationProduct>
+       <IndicationProduct languageCode="sl">Embalaža za pijačo</IndicationProduct>
+       <IndicationProduct languageCode="sv">Förpackningar för drycker</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>09.03</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/009</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-16</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1326082</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>355736</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>30511</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

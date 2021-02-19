@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T08:41:10</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018223373</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018223373</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>YL YULONG</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162203777</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/223/018223373/000162203777.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>01.05.02</CategoryCode>
+          <CategoryCode>27.03.12</CategoryCode>
+          <CategoryCode>27.99.12</CategoryCode>
+          <CategoryCode>27.99.25</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>16</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Копирна хартия с пластмасово покритие; Подложки от хартия за писане; Тетрадки; Чанти [пликове, торбички] от хартия или полиетилен за опаковане пакетиране; Пластични обвивки за амбалаж; Книговезки материали; Машини за унищожаване на документи чрез нарязване [за офиси]; Ножове за хартия [ножици] за офиси; Книговезки машини за канцеларска употреба; Машини за ламиниране на документи; Училищни пособия [канцеларски принадлежности]; Писалки за маркиране; Креди; Лепила за канцеларски цели и домашна употреба; Корици за подвързване на книги; Диапозитиви [канцеларски принадлежности]; Канцеларски и учебни материали.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Plastem potažený papír na kopírování; Trhací bloky; Zápisníky (notesy); Sáčky [obálky, váčky] z papíru nebo plastických hmot na balení; Obalové fólie z plastických hmot; Potřeby pro vazbu knih; Kancelářské skartovací stroje; Nože na papír [kancelářské potřeby]; Knihvazačské stroje pro kancelářské použití; Laminátory pro kancelářské účely; Školní potřeby [papírnické zboží]; Značkovače [kancelářské potřeby]; Kreslící tužky [kreslící uhel, křída, voskovky]; Lepicí pasty pro kancelářské potřeby nebo pro domácnost; Knihařské desky; Fólie do projektorů [papírnické zboží]; Papírnické zboží a učební pomůcky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Plasticbelagt kopipapir; Tykke afrivningsblokke; Notesbøger; Sække af papir eller plastic til emballering; Plasticfolie til indpakning; Materialer til bogbinding; Makuleringsapparater til papir til kontorbrug; Papirknive [brevåbnere]; Bogindbindingsmaskiner til kontorbrug; Dokumentlamineringsapparater til kontorbrug; Skolerekvisitter [papirvarer]; Markeringspenne [kontorartikler]; Farvekridt; Klæbemidler til kontor- eller husholdningsbrug; Bogindbindingsomslag; Transparentpapir; Kontor- og uddannelsesartikler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kunststoffbeschichtetes Kopierpapier; Schreibblöcke; Notizbücher; Verpackungsbeutel,- hüllen, -taschen aus Papier oder Kunststoff; Folien aus Kunststoff für Verpackungszwecke; Buchbindeartikel; Zerkleinerungsgeräte für Papier [Büroartikel]; Brieföffner; Buchbindermaschinen für Bürozwecke; Apparate für das Laminieren von Dokumenten [Bürogeräte]; Schülerbedarf [Papier- und Schreibwaren]; Markierstifte; Buntstifte; Klebstoffe für Papier- und Schreibwaren oder für Haushaltszwecke; Bucheinbandhüllen; Transparente [Papier- und Schreibwaren]; Papier- und Schreibwaren sowie Lehr- und Unterrichtsmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χαρτί φωτοαντιγραφικό με επίστρωση πλαστικού· Γραφής πίνακες· Σημειωματάρια· Σακουλάκια [φάκελλοι,θήκες] για συσκευασία από χαρτί ή πλαστικό· Ταινίες πλαστικές για συσκευασία· Υλικά βιβλιοδεσίας· Καταστροφείς εγγράφων (για χρήση γραφείου)· Χαρτοκόπτες [είδη γραφείου]· Μηχανές βιβλιοδεσίας για χρήσεις γραφείου· Εγγράφων (συσκευές πλαστικοποίησης -) [είδη γραφείου]· Είδη σχολικά· Μαρκαδόροι υπογράμμισης· Κραγιόνια [μολύβια]· Κολλητικές ύλες για γραφική ύλη ή για οικιακούς σκοπούς· Εξώφυλλα βιβλιοδεσίας· Διαφάνειες [είδη χαρτοπωλείου]· Γραφική ύλη και εκπαιδευτικό υλικό.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Plastic-coated copying paper; Writing pads; note books; Bags [envelopes, pouches] of paper or plastics, for packaging; plastic film for wrapping; bookbinding materials; paper shredders for office use; Paper knives [letter openers]; Bookbinding machines for office use; document laminators for office use; School supplies [stationery]; marking pens; Crayons; Glue for stationery or household purposes; Bookbinding covers; Transparencies [stationery]; Stationery and educational supplies.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Papel plastificado para copias; Blocs de papel de escribir; Libretas; Bolsas [sobres, bolsitas] de papel o materias plásticas para empaquetar; Películas de materias plásticas para embalar; Material de encuadernación; Trituradoras de papel [artículos de oficina]; Cortapapeles [abrecartas]; Máquinas de encuadernación para oficina; Aparatos para plastificar documentos [artículos de oficina]; Material escolar; Marcadores [artículos de papelería]; Crayones; Colas de papelería o para uso doméstico; Forros de encuadernación; Transparencias [artículos de papelería]; Productos de papelería y material educativo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Plastkattega kopeerpaber; Kirjaplokid; Märkmikud; Paberist või plastist kotid pakkimiseks [ümbrised, vutlarid]; Plastkile pakkimiseks; Raamatuköitematerjalid; Paberipeenestusmasinad [kantseleitarbed]; Paberinoad, paberilõikurid [kirjade avamiseks]; Kontoris kasutatavad köitemasinad; Dokumendilaminaatorid büroos kasutamiseks; Koolitarbed [kirjatarbed]; Markerid [kantseleitarbed]; Rasvakriidid; Kummiliimid kantseleis või majapidamises kasutamiseks; Raamatuköitekaaned; Transparendid, joonelehed [kantseleitarbed]; Kantseleitarbed ja õppevahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Muovipinnoitettu kopiopaperi; Kirjoituslehtiöt; Muistikirjat; Kassit (Paperi- tai muovi -), pakkaamiseen [kirjekuoret,pussit]; Muovikelmu pakkaamiseen; Kirjansidontatarvikkeet; Paperisilppurit [toimistokäyttöön]; Paperiveitset (kirjeenavaajat); Kirjansidontakoneet toimistokäyttöön; Laminoijat asiakirjoja varten, toimistokäyttöön; Koulutarvikkeet [paperikauppatavaroina]; Korostuskynät; Vahaliidut; Liimat toimisto- ja kotitalouskäyttöön; Kannet kirjansidontaan; Kuultokuvakalvot [paperikauppatavaroina]; Paperikauppatavarat ja opetustarvikkeet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Papier plastifié pour copies; Tablettes à écrire; Carnets; Sachets [enveloppes, pochettes] en papier ou en matières plastiques pour l'emballage; Pellicules en matières plastiques pour l'emballage; Articles pour reliures; Broyeurs de papier [articles de bureau]; Coupe-papiers [ouvre-lettres]; Machines pour la reliure pour le bureau; Appareils pour plastifier des documents [articles de bureau]; Fournitures scolaires; Stylos marqueurs; Craies grasses; Colles pour la papeterie ou le ménage; Couvertures de reliures; Transparents [papeterie]; Papeterie et fournitures scolaires.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Plastikom obloženi fotokopirni papir; Pisaći blokovi; Bilježnice; Vrećice [omotnice, torbice], od papira ili plastike za ambalažu; Plastična folija za umotavanje; Materijali za uvezivanje knjiga; Strojevi rezanja za uredsku uporabu; Noževi za papir [uredski pribor]; Strojevi za uvezivanje za uredsku uporabu; Strojevi za plastificiranje [uredski pribor]; Školska oprema; Markeri; Voštane boje; Ljepila za papirnate proizvode ili kućanske potrebe; Korice za uvezivanje knjiga; Transparenti [kancelarijski pribor]; Uredski i školski pribor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Műanyag bevonatú másolópapír; Jegyzettömbök, írótömbök; Noteszok; Zacskók csomagolásra papírból vagy műanyagból; Műanyagfóliák csomagolásra; Könyvkötészeti cikkek; Iratmegsemmisítők irodai használatra; Papírvágó kések [irodai cikkek]; Könyvfűző gépek irodai használatra; Laminálók irodai használatra; Iskolaszerek [papíráruk]; Szövegkiemelő tollak; Pasztellkréták; Ragasztók irodai és otthoni célokra; Könyvkötészeti borítók; Átlátszó vetítőfóliák [papíráruk]; Irodai és oktatási segédanyagok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Carta copiativa rivestita di materie plastiche; Tavolette per scrivere; Taccuini; Sacchetti [buste, bustine, borsette] per imballaggio di carta o di materie plastiche; Pellicole di materie plastiche per imballaggio; Articoli per rilegature; Tritacarta [articolo per ufficio]; Tagliacarte [apribuste]; Macchine per legatoria da ufficio; Apparecchi per plastificare i documenti [articoli per l'ufficio]; Forniture scolastiche; Evidenziatori [cartoleria]; Colori a pastello; Adesivi per la cartoleria o per uso domestico; Copertine per rilegatura di libri; Trasparenti [cartoleria]; Cartoleria e materiale di insegnamento.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Plastiku padengtas kopijavimo popierius; Bloknotai (užrašų knygelės); Užrašų knygutės; Popieriniai ar plastikiniai pakavimo maišeliai; Plastikinės vyniojimo plėvelės; Knygų viršelių medžiagos; Popieriaus smulkintuvai [raštinės reikmėms]; Laiškų atidarytuvai; Knygų įrišimo įrenginiai biuro reikmėms; Dokumentų laminatoriai įstaigų reikmėms; Mokykliniai raštinės reikmenys; Teksto žymekliai; Kreidelės; Klijai (raštinės ar buities reikmėms); Knygų įrišimo viršeliai; Transparantai [raštinės reikmenys]; Raštinės reikmenys ir mokymo priemonės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ar plastmasu pārklāts kopēšanas papīrs; Rakstīšanas bloki; Piezīmju grāmatiņas; Iesaiņošanas maisiņi [aploksnes, kabatiņas] no papīra vai plastmasas; Plastikāta plēves iesaiņošanas nolūkiem; Grāmatu iesiešanas materiāli; Papīra smalcināšanas ierīces (biroja preces); Papīrnaži [biroja piederumi]; Grāmatu iesiešanas ierīces izmantošanai birojā; Dokumentu laminēšanas ierīces biroja darbiem; Skolas piederumi [kancelejas preces]; Marķieri; Krītiņi; Līmvielas biroja un mājsaimniecības nolūkiem; Grāmatu iesiešanas vāki; Transparenti [kancelejas preces]; Kancelejas preces un izglītojoši materiāli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Karti miksijin bil-plastik għall-ikkupjar; Mazz folji ta' karti għall-kitba; Takkwini; Boroż (enveloppi, boroż żgħar) tal-karta jew tal-plastik għall-ippakkjar; Folji fini tal-plastik għat-tgeżwir; Materjal għall-legatura tal-kotba; Apparat li jqatta' l-karti għal użu fl-uffiċċju; Taljakarti (sikkina tal-karti) oġġetti neċessarji għall-uffiċċju; Magni tal-legatura għall-użu fl-uffiċċju; Laminaturi tad-dokumenti għal użu fl-uffiċċju; Forniment għall-iskejjel [kartolerija]; Highlighters (pinen b'lewn jgħajjat); Krejons; Adeżivi għal skopijiet ta' kartolerija jew domestiku; Koperti għal-legatura tal-kotba; Folji trasparenti bi skrizzjonijiet fuqhom [kartolerija]; Forniment ta' kartolerija u oġġetti edukattivi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Geplastificeerd kopieerpapier; Sousmains; Notitieboekjes; Zakken [omslagen, zakjes] van papier of plastic, voor verpakking; Plastic folie [film] voor verpakking; Materiaal voor de boekbinderij; Papierversnipperaars voor kantoorgebruik; Papiersnijders [kantoorartikelen]; Boekbindmachines voor kantoorgebruik; Plastificeerapparaten voor documenten [kantoorartikelen]; Schoolbehoeften; Markeerpennen [kantoorbehoeften]; Waskrijt; Kleefstoffen voor kantoor- en huishoudelijk gebruik; Boekbindomslagen; Transparanten [papierwaren]; Kantoorbehoeften en onderwijsbenodigdheden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Papier do kopiowania pokryty tworzywem sztucznym; Bloczki do pisania; Notatniki [notesy]; Torebki do pakowania [koperty, woreczki] z papieru lub tworzyw sztucznych; Folia z tworzywa sztucznego do opakowywania; Materiały do introligatorstwa; Niszczarki do papieru do użytku biurowego; Noże do papieru [artykuły biurowe]; Maszyny introligatorskie do użytku biurowego; Urządzenia do laminowania dokumentów do użytku biurowego; Przybory szkolne [artykuły piśmienne]; Zakreślacze; Kredki świecowe; Kleje do materiałów papierniczych lub do użytku domowego; Okładki książek; Przezrocza [materiały piśmienne]; Materiały piśmienne i wyposażenie edukacyjne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Papel de cópia revestido de plástico; Blocos de papel para escrever; Blocos de notas; Sacos [invólucros, bolsas] em papel ou plástico, para embalagens; Películas plásticas para embalar; Materiais para encadernações; Destruidores de papel, para uso em escritórios; Corta-papel [abre-cartas]; Máquinas para encadernação para uso em escritórios; Aparelhos para plastificar documentos [artigos de escritório]; Material escolar [artigos de papelaria]; Marcadores [artigos de papelaria]; Lápis de cera; Adesivos para papelaria ou uso doméstico; Capas para encadernação; Transparências [papelaria]; Artigos de papelaria e material escolar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Hârtie de copiat, cu un strat de plastic; Blocnotesuri pentru notiţe; Carnete de notiţe; Pungi [învelitoare, săculeţe] de ambalaj din hârtie sau material plastic; Folii din material plastic pentru ambalaj; Articole de legătorie; Tocătoare de hârtie [articole de birou]; Cuţite pentru tăiat hârtie [articole de birou]; Aparate de legat cărţi pentru birou; Aparate pentru plastifiat documente [articole de birotică]; Rechizite şcolare; Markere fluorescente; Creioane pastel; Adezivi; Coperte de legat cărţi; Folii transparente [papetărie]; Articole de papetărie şi accesorii educative.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kopírovací papier s plastovou vrstvou; Podložky na písanie; Poznámkové zošity; Papierové alebo plastové vrecká a tašky na balenie; Baliace plastové fólie; Knihárske potreby; Skartovačky (kancelárske potreby); Nože na papier (otvárače listov); Kníhviazačské stroje na kancelárske použitie; Laminovačky na dokumenty (kancelárske potreby); Školské potreby (papiernický tovar); Značkovacie perá (papiernický tovar); Pastelky; Lepidlá na kancelárske použitie alebo pre domácnosť; Kníhviazačské dosky; Priesvitky (papiernický tovar); Papierenský tovar a učebné pomôcky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kopirni papir, prevlečen s plastiko; Pisalni bloki; Zvezki; Vrečke [ovojnice, torbice] iz papirja ali plastike za pakiranje; Plastična folija za embaliranje, ovijanje; Knjigovezni materiali; Rezalniki papirja za pisarniško uporabo; Noži za rezanje papirja [pisarniški pripomočki]; Knjigoveški stroji za pisarniško uporabo; Aparati za plastificiranje dokumentov za pisarniške potrebe; Šolske potrebščine [pisalne potrebščine]; Marker; Voščenke; Lepila za pisarniške in gospodinjske namene; Ovitki za vezavo knjig; Prosojnice [pisalne potrebščine]; Pisalne in izobraževalne potrebščine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Plastbelagt kopieringspapper; Skrivunderlägg; Memo-böcker; Påsar [omslag, kuvert] av papper eller plast för emballering; Plastfilm för inslagning; Bokbinderimaterial; Dokumentförstörare (för kontorsändamål); Brevöppnare; Bokbindningsmaskiner för kontorsbruk; Dokumentlamineringsapparater för kontorsbruk; Skolmaterial [pappersvaror]; Markeringspennor; Färgkritor; Bindemedel för kontors- eller hushållsändamål; Bokryggsomslag; Transparanger [kontorsmateriel]; Pappersvaror och undervisningsmaterial.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079050</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>35172</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

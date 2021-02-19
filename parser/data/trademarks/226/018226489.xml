@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-31T08:41:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226489</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226489</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-27</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-31</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>VIVA CLOTHING FACTORY LTD</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162309025</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226489/000162309025.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Облекло, Обувки (с изключение на вложки, стелки, стъпала за обувки), Бански костюми; Спортно облекло; Ръкавици; Ръкавици с един пръст; Колани за кръста; Кожени колани; Панталони (ам.); Рокли; Жакети, сака, якета, куртки; Халати, пеньоари; Сака; Плетени пуловери; Анорак; Шорти; Пуловери; Кардигани; Ризи, блузи; Тениски; Пижами; Шапки и принадлежности за глава, Каскети, кепета, шапки, Маншони [облекло]; Вратовръзки и шалчета; Къси чорапи, Колани за кръста; Обувки; Ботуши; Пантофи; Шалчета; Шалове; Артикули за дамско бельо и бельо, включени в клас 25.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Oděvy, Obuv (s výjimkou vložek, stélek a šlapek do bot), Plavky; Sportovní oblečení; Rukavice [oděvy]; Palčáky (rukavice); Pásky; Kožené pásky; Kalhoty; Dámské šaty; Saka [oděvy]; Noční kabátky; Kabáty; Svetry [oděvy]; Parky; Šortky; Pulovry; Svetry se zipem; Košile; Trička; Pyžama; Pokrývky hlavy, Čepice, Rukávníky [oděvy]; Kravaty a šátky; Ponožky, Pásky; Boty; Vyšší obuv; Domácí obuv; Šátky a šály; Šály; Dámské spodní prádlo a spodní prádlo vše zařazené do třídy 25.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beklædningsgenstande, Fodtøj, dog ikke indlæg, indlægssåler og fodlejer til sko, Badedragter; Sportsbeklædning; Handsker [beklædning]; Fingerløse handsker; Livremme; Læderbælter; Benklæder; Kjoler; Trøjer; Morgenkåber; Frakker; Jerseytrøjer; Parkacoats; Shorts; Sweaters; Cardiganer; Skjorter; T-shirts; Pyjamasser; Hattemagervarer, Huer, Muffer [beklædning]; Halsbeklædning; Sokker, Livremme; Sko; Støvler; Hjemmesko; Tørklæder; Sjaler; Lingeriartikler og underbeklædning, alle indeholdt i klasse 25.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bekleidungsstücke, Schuhwaren (ausgenommen Einlagen, Einlegesohlen, Fußbettungen für Schuhe), Badeanzüge; Sportbekleidung; Handschuhe [Bekleidung]; Fingerlose Handschuhe; Gürtel; Ledergürtel; Hosen; Damenkleider; Jacken; Morgenmäntel; Mäntel; Jerseykleidung; Parkas; Shorts; Sweater; Strickwesten; Hemden; T-Shirts; Pyjamas; Hüte, Mützen, Muffe [Kleidungsstücke]; Halsbekleidung; Socken, Gürtel; Schuhe [Halbschuhe]; Stiefel; Pantoffeln; Schals; Stolen; Lingerie [Wäschestücke für Damen] und Leibwäsche, alle soweit sie in Klasse 25 enthalten sind.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ενδύματα, Υποδήματα (εκτός από ένθετα, εσωτερικές σόλες, πάτους για παπούτσια), Μαγιό· Αθλητικά ενδύματα· Γάντια· Γάντια χωρίς χωρίσματα για τα δάκτυλα· Ζώνες· Δερμάτινες ζώνες· Παντελόνια· Βραδινές τουαλέτες· Σακκάκια· Ρόμπες δωματίου· Μπουφάν· Μπλούζες· Άνορακ· Σορτς [ενδύματα]· Πουλόβερ· Πλεκτές ζακέτες (κάρντιγκαν)· Πουκάμισα· Μπλουζάκια (τι-σερτ)· Πιτζάμες· Είδη πιλοποιίας, Μπαρέτες[καλύματα κεφαλής], Μανσόν (κυλινδρικό περίβλημα για τα χέρια) [είδη ιματισμού]· Καλύμματα λαιμού· Κάλτσες, Ζώνες· Υποδήματα· Μπότες· Παντόφλες· Μαντήλια για το λαιμό· Σάλια (ενδύματα)· Γυναικεία εσώρουχα και εσώρουχα περιλαμβανόμενα στο σύνολό τους στην κλάση 25.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Clothing, footwear (except inserts, insoles, foot beds for shoes), swimsuits; sportswear; gloves; mittens; belts; leather belts; trousers; dresses; jackets; dress gowns; coats; jumpers; parkas; shorts; sweaters; cardigans; shirts; T-shirts; pajamas; hats, caps, muffs; neckwear; socks, belts; shoes; boots; slippers; scarves; shawls; lingerie articles and underclothing all included in Class 25.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Prendas de vestir, Calzado (excepto inserciones, plantillas, bases de pies para zapatos), Trajes de baño [bañadores]; Ropa de deporte; Guantes [prendas de vestir]; Mitones; Cinturones; Cinturones de cuero; Pantalones; Vestidos; Chaquetas; Albornoces; Abrigos; Jerseys [prendas de vestir]; Parkas; Shorts; Suéteres; Rebecas; Camisas; Camisetas [de manga corta]; Pijamas; Sombreros, Gorros, Manguitos [prendas de vestir]; Artículos para llevar en el cuello; Calcetines, Cinturones; Zapatos; Botas; Pantuflas; Fulares; Chales; Artículos de lencería y ropa interior todos ellos comprendidos en la clase 25.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Rõivad, Jalatsid (v.a sisetallad, tallad, jalapõhjad kingadele), Ujumistrikood, supelkostüümid; Spordiriietus; Kindad (rõivad); Labakindad, käpikud; Rihmad, vööd [rõivaste juurde]; Nahkrihmad; Püksid; Kleidid; Jakid, tuulepluusid; Hommikumantlid, hommikukleidid; Kasukad, mantlid; Villased džemprid; Parkad; Lühikesed püksid, šortsid; Sviitrid, kinnised kampsunid; Nööbitavad kampsunid; Särgid, päevasärgid, särkpluusid; T-särgid; Pidžaamad; Kübarad, vormimütsid, Nokkmütsid, Muhvid [rõivad]; Kaelasidemed, -rätid, -sallid, lipsud jms.kaelaaksessuaarid; Sokid, Rihmad, vööd [rõivaste juurde]; Kingad; Saapad; Sussid, tuhvlid; Sallid; Sallid, rätikud; Naistepesu ja aluspesu, mis kuulub klassi 25.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vaatteet, Jalkineet (paitsi sisäkkeet, pohjalliset, tukipohjalliset kenkiin), Uima-asusteet; Urheiluasut; Käsineet; Lapaset; Vyötärönauhat; Miesten nahkavyöt; Housut; Mekot; Pikkutakit; Aamutakit; Takit; Neulepuserot; Anorakit ja hupputakit; Sortsit; Villapuserot; Villatakit; Paidat; T-paidat; Pyjamat; Päähineet, Lakit [päähineet], Muhvit [vaatteet]; Kaulassa pidettävät asusteet; Sukat, Vyötärönauhat; Jalkineet; Saappaat; Tohvelit; Huivit; Hartiahuivit ja saalit; Naisten alusasut ja alusvaatteet, kaikki luokassa 25.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vêtements, Chaussures (à l'exception des talonnettes, des semelles intérieures, des semelles pour chaussures), Maillots de bain; Vêtements de sport; Gants [habillement]; Mitaines; Ceintures; Ceintures de cuir; Pantalons; Robes; Vestes; Robes de chambres; Manteaux; Jerseys [vêtements]; Parkas; Shorts; Chandails; Cardigans; Chemises; Tee-shirts; Pyjamas; Chapeaux, Bonnets, Manchons [habillement]; Articles d'habillement à porter autour du cou; Chaussettes, Ceintures; Souliers; Bottes; Pantoufles; Foulards; Châles; Articles de lingerie et sous-vêtements tous compris dans la classe 25.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Odjeća, Obuća (osim umetaka, uložaka, ležišta za stopala za cipele), Kupaći kostimi; Odjeća za sport; Rukavice; Narukvice, vunene [pletene]; Pojasevi; Kožno remenje; Hlače; Dugačke haljine; Jakne [odjeća]; Dugačke večernje haljine; Jakne; Džemperi; Parke [sportske jakne s kapuljačom]; Šorčevi; Džemperi [puloveri]; Veste; Košulje; Majice kratkih rukava; Pidžame; Pokrivala za glavu, Ženske kape, Mufovi [odjevni predmeti]; Odjevni predmeti koji se nose oko vrata; Muške čarape, Pojasevi; Obuća; Čizme; Papuče; Rupci [fulari]; Šalovi; Žensko donje rublje i donje rublje, sve obuhvaćeno razredom 25.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ruházati cikkek, Lábbelik (a talpbetétek, betétek, párnás talpbetétek kivételével), Fürdőruhák, úszódresszek; Sportruházat; Kesztyűk; Kétujjas kesztyűk; Derékszíjak, övek; Bőrövek; Hosszúnadrágok; Talárok; Dzsekik; Köntösök, pongyolák; Kabátok, dzsekik; Pulóverek, kötött pulóverek; Parkák; Rövidnadrágok, shortok; Pulóverek; Kardigánok; Ingek; Pólók; Pizsamák; Kalapáruk, Sapkák, Muffok [ruházat]; Nyakbavalók; Zoknik, Derékszíjak, övek; Lábbelik; Magas szárú lábbelik; Papucsok; Sálak; Vállkendők, nagykendők; Fehérneműk és alsóneműk melyek mindegyike a 25. osztályba tartozik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Abbigliamento, Calzature (tranne inserti, solette, suole anatomiche per scarpe), Costumi da bagno; Abbigliamento sportivo; Guanti [abbigliamento]; Guanti a manopola; Cinture; Cinture in pelle; Pantaloni; Abiti; Giacche; Vesti da camera; Cappotti; Jerseys [indumenti]; Parka; Pantaloncini [abbigliamento]; Maglioni; Cardigan; Camicie; Tee-shirt; Pigiama; Cappelli, Berretti essendo copricapo, Manicotti [abbigliamento]; Accessori da portare al collo; Calzini, Cinture; Scarpe; Stivali; Pantofole; Foulards [fazzoletti]; Scialli; Lingerie e biancheria intima da donna tutti compresi nella Classe 25.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Drabužiai, apranga, Avalynė (išskyrus įdėklus, batų vidpadžius, avalynės vidpadžius), Maudymosi kostiumai; Sportinė apranga; Pirštinės [drabužiai]; Puspirštinės; Liemens diržai; Odiniai diržai; Kelnės; Suknelės; Švarkai, striukės; Cheminiai preparatai (veterinarijos reikmėms); Paltai; Vilnoniai megztiniai; Striukės su gobtuvu; Šortai; Megztiniai; Megztiniai; Marškiniai; Marškinėliai; Pižamos; Galvos apdangalai, Kepurės, Movos [drabužiai]; Ant kaklo dėvimieji aksesuarai; Puskojinės, Liemens diržai; Avalynė; Batai; Šliurės; Šalikai; Skaros; Moteriškas apatinis trikotažas ir apatiniai drabužiai, priskirti 25 klasei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apģērbi, Apavi (izņemot apavu ieliktņus, ieliekamās zoles, starpzoles), Peldkostīmi; Sporta apģērbi; Cimdi; Pirkstus nenosedzoši cimdi; Vidukļa jostas; Ādas jostas; Bikses; Kleitas; Žaketes; Tērpi; Mēteļi; Džemperi; Parkas; Šorti; Svīteri; Vilnas jakas; Krekli; T-krekli; Pidžamas; Cepures, Žokejcepures, Uzroči (apģērbi); Kakla aksesuāri; Īsās zeķes, Vidukļa jostas; Kurpes; Zābaki; Čības; Šalles; Plecu lakati; Smalka apakšveļa un apakšveļa, kas abas iekļautas 25. klasē.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ilbies, Xedd is-saqajn (minbarra inserzjonijiet, suletti, kuxxini tas-sieq għal żraben), Malji tal-għawm; Ħwejjeġ sportivi; Ingwanti; Ingwanti li jgħattu erba' swaba tal-id flimkien u l-behem tgħattih waħdu [mittens]; Ċinturini ta' mal-qadd; Ċinturini tal-ġilda; Qliezet (Am.); Ilbiesi twal tan-nisa; Ġkieket [lbies]; Ġagaga; Ġkieket; Flokkijiet [ġampers]; Parkas; Xorts; Ġersijiet [pulowvers]; Kardiganijiet; Qomos; Flokkijiet forma ta' T [T-shirts]; Piġamas; Xedd ir-ras, Brieret [xedd tar-ras], Manxò [ilbies]; Xedd il-għonq; Kalzetti, Ċinturini ta' mal-qadd; Xedd is-saqajn; Stvali; Papoċċi; Xalpi; Xalel; Ilbies ta' taħt għan-nisa u ħwejjeġ ta' taħt kollha inklużi fi klassi 25.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kleding, Schoeisel (uitgezonderd inzetstukken, inlegzolen en voetbedden voor schoenen), Badpakken; Sportkleding; Handschoenen [kleding]; Wanten; Ceintuurs, riemen; Ceintuurs van leder; Pantalons; Japonnen; Jasjes; Kamerjassen; Mantels; Jersey [kleding]; Parka's; Shorts; Sweaters; Gebreide vesten; Hemden; T-shirts; Pyjama's; Hoofddeksels, Mutsen, Moffen [kleding]; Kledingstukken die om de hals gedragen worden; Sokken, Ceintuurs, riemen; Schoenen; Laarzen; Pantoffels; Halsdoeken; Sjaals; Lingerie en ondergoed voor zover begrepen in klasse 25.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odzież, Obuwie (z wyłączeniem wkładek, wyściółek, wkładek do obuwia), Kostiumy kąpielowe; Odzież sportowa; Rękawiczki; Rękawiczki z jednym palcem; Paski; Paski skórzane; Majtki; Długie luźne stroje; Kurtki [odzież]; Szlafroki; Kurtki; Swetry; Kurtki z kapturem chroniące przed zimnem i wiatrem; Szorty; Pulowery; Swetry rozpinane; Koszule; Koszulki z krótkim rękawem; Piżamy; Nakrycia głowy, Czapki [nakrycia głowy], Mufki [odzież]; Akcesoria na szyję; Skarpetki, Paski; Obuwie; Botki; Pantofle domowe; Szaliki; Szale; Bielizna osobista i bielizna osobista, wszystkie ujęte w klasie 25.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vestuário, Calçado (excluindo inserções, palmilhas e palmilhas anatómicas para sapatos), Fatos de banho; Vestuário de desporto; Luvas [vestuário]; Luvas sem dedos; Cintos; Cintas de couro; Calças; Vestidos; Casacos [vestuário]; Roupões; Casacos; Camisolas [vestuário]; Parkas; Calções; Camisolas [pullovers]; Casacos de malha; Camisas; T-shirts; Pijamas; Chapéus, Bonés, Aquecedores de mãos [vestuário]; Artigos de vestuário para pôr ao pescoço; Meias, Cintos; Sapatos; Botas; Pantufas; Cachecóis; Xailes; Artigos de lingerie e roupa interior, todos incluídos na classe 25.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Articole de îmbrăcăminte, Încălţăminte (cu excepţia inserţiilor, branţurilor, tălpilor pentru pantofi), Costume de baie întregi; Articole de îmbrăcăminte pentru sport; Mănuși [articole de îmbrăcăminte]; Mitene; Curele (accesorii vestimentare); Curele din piele; Chiloți; Rochii lungi de seară; Jachete [îmbrăcăminte]; Capoate; Jachete; Jersee; Haine tip parka; Șorturi; Pulovere; Cardigane; Cămăși; Tricouri; Pijamale; Articole pentru acoperirea capului, Șepci [articole de îmbrăcăminte], Manșoane [îmbrăcăminte]; Articole purtate în jurul gâtului; Șosete, Curele (accesorii vestimentare); Articole de încălțăminte; Cizme; Papuci de casă; Eșarfe; Șaluri; Lenjerie intimă și haine de corp, toate cuprinse în clasa 25.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Odevy, Obuv (s výnimkou vložiek, napínacích stielok, podrážok topánok), Plavky; Športové oblečenie; Rukavice; Palčiaky; Opasky; Kožené opasky; Nohavice; Šaty; Saká; Kúpacie plášte; Kabáty; Pleteniny (oblečenie); Parky (teplé krátke kabáty s kapucňou); Šortky; Svetre; Kardigány (svetre); Košele; Tričká; Pyžamá; Pokrývky hlavy, Čiapky, Rukávniky; Kravaty, šály a šatky; Ponožky, Opasky; Topánky; Vysoká obuv; Papuče; Šatky, šály; Pletené šatky; Dámska spodná bielizeň v triede 25.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oblačila, Obutev (razen vstavkov, vložkov, steljk za čevlje), Kopalke; Športna oblačila; Rokavice; Palčniki (rokavice); Pasovi; Usnjeni pasovi; Spodnje hlače, oprijete; Halje; Jakne (oblačila); Domače halje; Plašči; Jopice; Parke (daljše jakne s kapuco); Kratke hlače; Puloverji; Kardigani; Moške srajce; Majice s kratkimi rokavi; Pižame; Pokrivala, Kape [pokrivala], Mufi [oblačila]; Dodatki, ki se nosijo okrog vratu; Kratke nogavice, Pasovi; Obutev; Škornji; Copati; Ovratne rute; Šali; Izdelki finega damskega perila in spodnje perilo, ki jih vse obsega razred 25.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kläder, Skor (ej iläggssulor, fotdynor för skor), Baddräkter; Kläder för sport; Handskar; Torgvantar; Midjebälten; Läderbälten; Byxor (Am.); Klänningar; Jackor; Morgonrockar; Rockar; Jerseytröjor; Parkasar; Shorts; Pullovrar; Cardigans; Skjortor; T-shirtar; Pyjamasar; Hattar, Mössor [huvudbonader], Muffar [kläder]; Halsbeklädnader; Sockor, Midjebälten; Skor; Stövlar; Tofflor; Scarves; Sjalar; Damunderkläder och underkläder ingående i klass 25.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/088</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/165</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-31</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080378</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>24390</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017929350</RecordIdentifier>
+<BasicRecordKind>Representative - Change of name and professional address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>24390</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-05-28</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017931679</RecordIdentifier>
+<BasicRecordKind>Representative - Change of name and professional address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>24390</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-05-28</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017933485</RecordIdentifier>
+<BasicRecordKind>Representative - Change of name and professional address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>24390</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-05-28</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017977540</RecordIdentifier>
+<BasicRecordKind>Representative - Change of name and professional address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>24390</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-06-08</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

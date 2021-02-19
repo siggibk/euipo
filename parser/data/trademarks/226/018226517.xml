@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-04T10:16:55</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226517</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226517</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>BANISH</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Апарати и инсталации за контрол на околната среда; Стерилизатори.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Přístroje a zařízení na ochranu životního prostředí; Sterilizátory.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Apparater og installationer til miljøkontrol; Steriliseringsapparater.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Umweltkontrollgeräte und -anlagen; Sterilisiergeräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συσκευές και εγκαταστάσεις περιβαλλοντικού ελέγχου· Αποστειρωτές.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Environmental control apparatus and installations; sterilisers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aparatos e instalaciones de control medioambiental; Esterilizadores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Keskkonnajuhtimise seadmed ja seadmestikud; Sterilisaatorid, steriliseeraparaadid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ympäristönhallintalaitteet ja -laitteistot; Sterilointilaitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Appareils et installations de contrôle environnemental; Stérilisateurs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Uređaji i instalacije za kontrolu okoliša; Sterilizatori.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Környezetvédelmi ellenőrző készülékek és berendezések; Sterilizátorok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Apparecchi e impianti di controllo ambientale; Sterilizzatori.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Aplinkos valdymo aparatūra ir įrenginiai; Sterilizatoriai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Vides kontroles aparāti un iekārtas; Sterilizētāji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Apparat u installazzjonijiet tal-kontroll tal-ambjent; Sterilizzaturi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Klimaatregelingsapparaten en -installaties; Sterilisators.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia i instalacje do sterowania warunkami środowiskowymi; Sterylizatory.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aparelhos e instalações de controlo ambiental; Esterilizadores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aparate și instalații pentru controlul mediului; Sterilizatoare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zariadenia a systémy na ovládanie prostredia; Sterilizátory.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Naprave in napeljave za okoljski nadzor; Sterilizatorji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Miljöregleringsutrustning och -installationer; Steriliseringsapparater.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>21</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Средства за почистване; Гъби за стъргане.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Čisticí potřeby; Houby na čištění.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Redskaber til rengøringsformål; Skrubbesvampe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Putzzeug; Scheuerschwämme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Είδη καθαρισμού· Σφουγγάρια για τρίψιμο.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Articles for cleaning purposes; sponges for cleaning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Material de limpieza; Estropajos [esponjas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Puhastus- ja koristustarbed; Küürimiskäsnad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Puhdistukseen käytettävät tarvikkeet; Hankaussienet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Matériel de nettoyage; Éponges à récurer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pribor za čišćenje; Spužve za posuđe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Takarítóeszközök; Súrolószivacsok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Materiale per pulizia; Spugne abrasive.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Valymo reikmenys; Šveitimo kempinės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Tīrīšanas un apkopšanas rīki un ierīces; Beršanas sūkļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Oġġetti għat-tindif; Sponoż għall-għorik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Reinigingsmateriaal; Schuursponzen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Sprzęt do czyszczenia; Gąbki do szorowania.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Material de limpeza; Esponjas de esfregar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Material pentru curăţare; Bureţi pentru frecare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Prostriedky a pomôcky na čistenie; Hubky na riad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Čistilne priprave; Gobe za razmaščevanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Artiklar för rengöringsändamål; Skursvampar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/084</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>73831</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003127661</OppositionIdentifier>
+<OppositionDate>2020-08-05</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>WO</EarlierMarkCountryCode>
+<DesignatedCountryDetails>
+           <DesignatedCountryCode>EM</DesignatedCountryCode>
+          </DesignatedCountryDetails>
+<ApplicationNumber>868743</ApplicationNumber>
+<ApplicationDate>2005-11-03</ApplicationDate>
+<RegistrationNumber>868743</RegistrationNumber>
+<RegistrationDate>2005-11-03</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BANISH</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>GB</EarlierMarkCountryCode>
+<ApplicationNumber>UK00002393200</ApplicationNumber>
+<ApplicationDate>2005-06-01</ApplicationDate>
+<RegistrationNumber>UK00002393200</RegistrationNumber>
+<RegistrationDate>2006-07-21</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BANISH</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>1109798</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10870</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018754831</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>476</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-11-04</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

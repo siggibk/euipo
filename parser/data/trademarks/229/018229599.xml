@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-17T08:58:42</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229599</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229599</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-13</RegistrationDate>
+<ApplicationLanguageCode>lv</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>BEAUTITU:L devices for natural beauty</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162500139</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229599/000162500139.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>02.09.25</CategoryCode>
+          <CategoryCode>26.01.24</CategoryCode>
+          <CategoryCode>26.01.96</CategoryCode>
+          <CategoryCode>26.11.02</CategoryCode>
+          <CategoryCode>26.11.05</CategoryCode>
+          <CategoryCode>29.01.04</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>8</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Ръчни инструменти за хигиената и красотата на хора и животни.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Ruční hygienické a kosmetické náčiní pro lidi a zvířata.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Håndredskaber til hygiejne- og skønhedspleje af mennesker og dyr.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Handbetätigte Geräte zur Körper- und Schönheitspflege für Menschen und Tiere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χειροκίνητα σύνεργα υγιεινής και ομορφιάς για ανθρώπους και ζώα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Hand-operated hygienic and beauty implements for humans and animals.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Instrumentos de higiene y belleza manuales para personas y animales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Käsitsi käitatavad inimeste ja loomade hügieeni- ja iluhooldusvahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Käsikäyttöiset hygienian- ja kauneudenhoitovälineet ihmisiä ja eläimiä varten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Instruments actionnés à la main d’hygiène et de beauté pour les humains et les animaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ručni pribor za higijenu i uljepšavanje ljudi i životinja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kézi működtetésű higiéniai és szépségápolási eszközök emberek és állatok számára.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Strumenti igienici e di bellezza azionati manualmente per esseri umani e animali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Rankiniai higienos ir grožio priežiūros įrankiai žmonėms ir gyvūnams.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ar roku darbināmi higiēnas un skaistumkopšanas instrumenti cilvēkam un dzīvniekiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Strumenti iġjeniċi u tas-sbuħija mħaddma bl-idejn għall-bnedmin u l-annimali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Handbediende instrumenten voor de hygiëne en de schoonheidsverzorging voor mens en dier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Ręczne przybory higieniczne i do pielęgnacji urody dla ludzi i zwierząt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Utensílios para os cuidados de higiene e beleza acionados manualmente para uso humano e animal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Instrumente pentru igienă și frumusețe pentru oameni și animale, acționate manual.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Ručné hygienické a kozmetické nástroje pre ľudí a zvieratá.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Ročni pripomočki za higiensko in lepotilno nego za ljudi in živali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Handdrivna hygien- och skönhetsredskap för människor och djur.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Оборудване за физиотерапия.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Fyzioterapeutické přístroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Udstyr til fysisk terapi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Geräte für physikalische Therapie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εξοπλισμός φυσικοθεραπείας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Physical therapy equipment.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Equipos de terapia física.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Füsioteraapiaseadmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Fysioterapiassa käytettävät välineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Équipement de thérapie physique.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Oprema za fizikalnu terapiju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fizikoterápiás készülékek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Attrezzatura per terapie fisiche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Fizioterapijos įranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Fizikālās terapijas iekārtas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħmir għat-terapija fiżika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Fysiotherapeutische apparatuur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia i przyrządy do fizjoterapii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Equipamento de fisioterapia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Echipament pentru exerciții fizice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Fyzioterapeutické zariadenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Naprave za fizikalno terapijo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Utrustning för fysioterapi.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Oборудване за охлаждане и замразяване.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zařízení na chlazení a mražení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Udstyr til køling og frysning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kühl- und Gefrierausrüstung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εξοπλισμός ψύξης και κατάψυξης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Refrigerating and freezing equipment.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Equipos de congelación y refrigeración.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Külmutus- ja sügavkülmutusseadmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Jäähdytys- ja jäädytyslaitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Équipement de réfrigération et de congélation.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Uređaji za hlađenje i zamrzavanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Hűtő és fagyasztó berendezések.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Attrezzature per refrigerare e congelare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Šaldymo ir užšaldymo įranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dzesēšanas un saldēšanas iekārtas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħmir għat-tkessiħ u l-iffriżar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Koel- en vriesinstallaties.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Instalacje i urządzenia do chłodzenia i zamrażania.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Equipamento de refrigeração e congelamento.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Echipament pentru răcire și înghețare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Chladiace a mraziace zariadenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Naprave za hlajenje in zamrzovanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kyl- och frysutrustning.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/083</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/155</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1063111</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

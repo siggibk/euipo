@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:37</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226137</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226137</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-01</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Supermarine Aircraft Spitfire</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162306577</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226137/000162306577.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.05.95</CategoryCode>
+          <CategoryCode>29.01.02</CategoryCode>
+          <CategoryCode>29.01.08</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>12</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Въздушни превозни средства; Корпус за аероплан [части за летателни апарати]; Седалки за самолети; Колесници [части за летателни апарати]; Колела за летателни апарати; Спирачки за летателни апарати; Крила за летателни апарати; Корпуси за въздухоплавателни средства; Резервоари за гориво за въздухоплавателни средства; Структурни части за летателни апарати.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Letecké dopravní prostředky; Trupy (části letadel); Sedadla do letadel; Přistávací podvozky (části letadel); Kola na letadla; Brzdy do letadel; Křídla na letadla; Trupy letadel; Palivové nádrže pro letadla; Konstrukční části pro letadla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Flyvemaskiner; Flykroppe [flydele]; Flysæder; Landingsstel [dele til luftfartøjer]; Hjul til luftfartøjer; Bremser til luftfartøjer; Vinger til flyvemaskiner; Flykroppe; Brændstoftanke til fly; Konstruktionsdele til luftfartøjer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Luftfahrzeuge; Rümpfe [Teile von Luftfahrzeugen]; Flugzeugsitze; Fahrgestelle [Teile von Luftfahrzeugen]; Räder für Luftfahrzeuge; Bremsen für Luftfahrzeuge; Tragflächen für Flugzeuge; Rümpfe für Luftfahrzeuge; Kraftstofftanks für Luftfahrzeuge; Strukturteile für Luftfahrzeuge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εναέρια οχήματα· Ατρακτοι [μέρη αεροσκαφών]· Καθίσματα αεροπλάνων· Εξοπλισμός προσγείωσης [μέρη αεροσκαφών]· Τροχοί για αεροσκάφη· Φρένα για αεροσκάφη· Πτερύγια αεροσκαφών· Άτρακτοι για αεροσκάφη· Δεξαμενές καυσίμων για αεροσκάφη· Δομικά μέρη αεροσκαφών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Aircraft; Aircraft fuselages; Fuselages [aircraft parts]; Seats of aircraft; Aircraft landing gear; Wheels for aircraft; Brakes for aircraft; Wings of aircraft; Bodies for aircraft; Fuel tanks for aircraft; Structural parts for aircraft.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aeronaves; Fuselajes [partes de aeronaves]; Asientos de aviones; Tren de aterrizaje [partes de aeronaves]; Ruedas para aeronaves; Frenos para aeronaves; Alas para aeronaves; Carrocerías para aeronaves; Depósitos de carburante para aeronaves; Componentes estructurales de aeronaves.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Õhusõidukid, lennukid; Õhusõidukite kered, karkassid [õhusõidukite osad]; Lennukiistmed; Telikud [õhusõidukite, lennukite osad]; Õhusõidukirattad; Õhusõidukite pidurid; Lennukitiivad; Õhusõidukikered; Õhusõidukite kütusepaagid; Lennukite konstruktsiooniosad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lentokoneet; Rungot [lentokoneiden osat]; Lentokoneiden istuimet; Laskutelineet [lentokoneiden osat]; Ilma-alusten pyörät; Ilma-alusten jarrut; Lentokoneiden siivet; Lentokoneiden rungot; Ilma-alusten polttoainesäiliöt; Ilma-alusten rakenneosat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Aéronefs; Fuselages [pièces d'aéronefs]; Sièges d'avion; Trains d'atterrissage [pièces d'aéronefs]; Roues pour aéronefs; Freins pour aéronefs; Ailes pour aéronefs; Fuselages pour aéronefs; Réservoirs de carburant pour aéronefs; Parties structurelles d'aéronefs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Zrakoplovi; Trupovi zrakoplova [dijelovi zrakoplova]; Sjedala za zrakoplove; Stajni trap [dijelovi zrakoplova]; Kotači za zrakoplove; Kočnice za zrakoplove; Krila za zrakoplove; Trupovi za zrakoplove; Spremnici za gorivo za zrakoplove; Strukturni dijelovi za zrakoplove.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Légi járművek; Repülőgéptörzsek [repülőgépek részei]; Repülőgép-ülések; Leszállóművek [repülőgép alkatrészek]; Kerekek légi járművekhez; Fékek légi járművekhez; Szárnyak légi járművekhez; Repülőgéptestek; Repülőgép üzemanyagtartályok; Repülőgépek szerkezeti részei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Aeronavi; Fusoliere [parti di aerei]; Sedili per aeronavi; Carrello di atterraggio [parti di aerei]; Ruote per aerei; Freni per aerei; Ali per aerei; Carrozzerie per aerei; Serbatoi per carburante per aerei; Parti strutturali per aerei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Orlaiviai; Fiuzeliažai [orlaivių dalys]; Orlaivių sėdynės; Nutūpimo mechanizmai [lėktuvų dalys]; Orlaivių ratai; Orlaivių stabdžiai; Orlaivių sparnai; Lėktuvų korpusai; Orlaivių kuro bakai; Konstrukcinės orlaivių dalys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Gaisakuģi; Fizelāža (lidmašīnu daļas); Lidmašīnas sēdekļi; Šasijas [lidaparātu daļas]; Riteņi lidaparātiem; Lidaparātu bremzes; Lidaparātu spārni; Lidmašīnu korpusi; Lidaparātu degvielas tvertnes; Lidaparātu konstrukcijas detaļas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Vetturi tal-arja; Oqfsa taż-żaqq ta' ajruplan [partijiet għall-inġenji tal-ajru]; Sedili tal-ajruplani; Tagħmir għall-inżul (partijiet ta' ajruplani); Roti għall-inġenji tal-ajru; Brejkijiet għall-ajruplani; Ġwienaħ għall-inġenji tal-ajru; L-istruttura prinċipali għall-ajruplani; Tankijiet tal-fjuwil għall-inġenji tal-ajru; Partijiet strutturali għall-inġenji tal-ajru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Luchtschepen; Rompen [onderdelen voor luchtschepen]; Vliegtuigstoelen; Landingsgestel [onderdelen voor luchtschepen]; Wielen voor luchtvaartuigen; Remmen voor luchtvaartuigen; Vleugels voor vliegtuigen; Rompen voor luchtvaartuigen; Brandstoftanks voor luchtvaartuigen; Constructiedelen van luchtvaartuigen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Pojazdy lotnicze; Kadłuby [części statków powietrznych]; Fotele lotnicze; Podwozie [części samolotów]; Koła do statków powietrznych; Hamulce do statków powietrznych; Skrzydła do statków powietrznych; Kadłuby do statków powietrznych; Zbiorniki paliwa do statków powietrznych; Części konstrukcyjne do statków powietrznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aeronaves; Fuselagens [peças de aeronaves]; Assentos para aeronaves; Trem de aterragem [peças de aeronaves]; Rodas para aeronaves; Travões para aeronaves; Asas para aeronaves; Fuselagens para aeronaves; Depósitos de combustível para aeronaves; Partes estruturais de aeronaves.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aparate de zbor; Fuzelaje [componente de aeronave]; Scaune pentru aeronave; Trenuri de aterizare [piese de aeronave ]; Roți pentru aeronave; Frâne pentru aeronave; Aripi pentru aeronave; Fuzelaje pentru aeronave; Rezervoare de combustibil pentru aeronave; Piese structurale pentru aeronave.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vzducholode, balóny; Lietadlové trupy; Sedadlá do lietadiel; Pristávacie podvozky [časti lietadiel]; Kolesá na lietadlá; Brzdy do lietadiel; Krídla pre lietadlá; Trupy pre lietadlá; Palivové nádrže pre letecké dopravné prostriedky; Konštrukčné diely pre lietadlá.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zračna vozila; Trupi letal [deli zračnih plovil]; Letalski sedeži; Pristajalna kolesa [deli zrakoplovov]; Kolesa za letala; Zavore za letala; Krila za letala; Trupi letal; Rezervoarji za gorivo za zračna vozila; Strukturni deli za letala.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Flygmaskiner; Flygplanskroppar [flygplansdelar]; Flygplanssäten; Landningsställ [flygplansdelar]; Hjul för flygplan; Bromsar för flygplan; Flygplansvingar; Flygmaskinskroppar; Bränsletankar för luftfartyg; Konstruktionsdelar till flygplan.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/077</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>83115</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:46</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063200-0025</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063200-0025</DesignIdentifier>
+<ApplicationNumber>001063200</ApplicationNumber>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-04-08</PublicationDate>
+<ApplicationReference>44721</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<VerbalElementText>TAURUS</VerbalElementText>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061755902</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0025/001063200_0025_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755903</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0025/001063200_0025_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755904</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0025/001063200_0025_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755905</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0025/001063200_0025_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755906</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0025/001063200_0025_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755907</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0025/001063200_0025_6.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Микровълнови фурни</IndicationProduct>
+       <IndicationProduct languageCode="cs">Mikrovlnné trouby</IndicationProduct>
+       <IndicationProduct languageCode="da">Mikrobølgeovne</IndicationProduct>
+       <IndicationProduct languageCode="de">Mikrowellen-Herde</IndicationProduct>
+       <IndicationProduct languageCode="el">Φούρνοι μικροκυμάτων</IndicationProduct>
+       <IndicationProduct languageCode="en">Micro-wave ovens</IndicationProduct>
+       <IndicationProduct languageCode="es">Hornos de microondas</IndicationProduct>
+       <IndicationProduct languageCode="et">Mikrolaineahjud</IndicationProduct>
+       <IndicationProduct languageCode="fi">Mikroaaltouunit</IndicationProduct>
+       <IndicationProduct languageCode="fr">Fours à micro-ondes</IndicationProduct>
+       <IndicationProduct languageCode="hu">Mikrohullámú sütők</IndicationProduct>
+       <IndicationProduct languageCode="it">Forni a microonde</IndicationProduct>
+       <IndicationProduct languageCode="lt">Mikrobangų krosnelės</IndicationProduct>
+       <IndicationProduct languageCode="lv">Mikroviļņu krāsnis</IndicationProduct>
+       <IndicationProduct languageCode="mt">Majkrowejv</IndicationProduct>
+       <IndicationProduct languageCode="nl">Magnetronovens</IndicationProduct>
+       <IndicationProduct languageCode="pl">Kuchenki mikrofalowe</IndicationProduct>
+       <IndicationProduct languageCode="pt">Fornos microondas</IndicationProduct>
+       <IndicationProduct languageCode="ro">Cuptoare cu microunde</IndicationProduct>
+       <IndicationProduct languageCode="sk">Mikrovlné rúry</IndicationProduct>
+       <IndicationProduct languageCode="sl">Mikrovalovne pečice</IndicationProduct>
+       <IndicationProduct languageCode="sv">Mikrovågsugnar</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>07.02</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/066</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-04-08</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325748</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/029</PublicationIdentifier>
+        <PublicationSequenceNumber>928980</PublicationSequenceNumber>
+        <PublicationSection>B.9.2</PublicationSection>
+        <PublicationDate>2013-02-11</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>51414</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>62060</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006645133</RecordIdentifier>
+<BasicRecordKind>Appointment Replacement and Deletion of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>928980</PublicationSequenceNumber>
+           <PublicationSection>B.9.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-02-11</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

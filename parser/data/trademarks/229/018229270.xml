@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229270</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229270</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>NETWORK REVOLUTIONS</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162458741</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229270/000162458741.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.15.09</CategoryCode>
+          <CategoryCode>27.05.12</CategoryCode>
+          <CategoryCode>27.05.22</CategoryCode>
+          <CategoryCode>27.99.14</CategoryCode>
+          <CategoryCode>27.99.18</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Маркетингови услуги; Дигитален маркетинг; Маркетинг на стоки; Маркетинг по интернет; Партньорски маркетинг; Услуги в областта на рекламата и маркетинга; Мърчандайзинг услуги; Услуги по продажба на дребно, свързани с аксесоари за дрехи, поръчани по поща; Онлайн услуги за продажба на дребно във връзка с облекло.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Marketing; Digitální marketing; Produktový marketing; Internetový marketing; Partnerský marketing; Reklama a marketing; Merchandising; Zásilkové maloobchodní služby zaměřené na oděvní doplňky; On‑line maloobchodní služby zaměřené na oděvy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Marketing; Digital marketing; Produktmarketing; Markedsføring via internettet; Konsulenttjenester inden for affiliate marketing; Reklame- og annoncevirksomhed samt marketing; Merchandising; Detailhandel via postordre med tilbehør til beklædningsgenstande; Online detailhandel med beklædning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Marketing; Digitales Marketing; Produktmarketing; Marketing über das Internet; Affiliate-Marketing; Werbung und Marketing; Merchandising; Versandhandelsdienstleistungen mit Bekleidungsaccessoires; Online-Versandhandelsdienstleistungen in Bezug auf Bekleidung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες μάρκετινγκ· Ψηφιακή εμπορία (μάρκετινγκ)· Μάρκετινγκ προϊόντων· Πωλήσεις μέσω διαδικτύου· Προώθηση προϊόντων ή υπηρεσιών επιχείρησης μέσω δικτύου συνεργατών [affiliate marketing]· Διαφήμιση και μάρκετινγκ· Εμπορικές υπηρεσίες· Υπηρεσίες λιανικής πώλησης μέσω ταχυδρομικών παραγγελιών σε σχέση με αξεσουάρ ενδυμάτων· Ηλεκτρονικές υπηρεσίες λιανικής πώλησης ενδυμάτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Marketing; Digital marketing; Product marketing; Internet marketing; Affiliate marketing; Advertising and marketing; Merchandising; Mail order retail services connected with clothing accessories; Online retail services relating to clothing.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Marketing; Marketing digital; Marketing de productos; Mercadotecnia a través de Internet; Marketing de afiliación; Publicidad y marketing; Servicios de promoción comercial; Servicios de venta minorista mediante pedidos por correo relacionados con accesorios de vestidos; Servicios de venta al por menor en línea de prendas de vestir.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Turundus; Digitaalne turundus; Tooteturundusteenused; Internetiturundus; Sidusturundus; Reklaami- ja turundusteenused; Kauplemisteenused; Rõivaaksessuaaride postimüügiteenused; Rõivastega seotud veebijaemüügiteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Markkinointipalvelut; Digitaalinen markkinointi; Tuotemarkkinointi; Markkinointi Internetin välityksellä; Kumppanuusmarkkinointi; Mainonta ja markkinointi; Markkinointipalvelut; Asusteisiin liittyvät vähittäismyyntipalvelut postimyynnin välityksellä; Vaatteiden vähittäiskauppapalvelut verkossa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Marketing; Marketing numérique; Marketing de produits; Marketing sur internet; Sociétés affiliées en marketing; Publicité et marketing; Services de marchandisage; Services de vente par correspondance pour accessoires vestimentaires; Services de vente au détail en ligne de vêtements.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Marketing; Digitalni marketing; Marketing proizvoda; Internetski marketing; Partnerski marketing; Oglašavanje i marketing; Usluge koje se odnose na prezentiranje proizvoda i usluga na prodajnom mjestu; Maloprodajne usluge naručivanja poštom u svezi odjevnih dodataka; Maloprodajne usluge na internetu povezane s odjećom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Marketing szolgáltatások; Digitális marketing; Termékmarketing; Internetes marketing; Partnerprogram-marketing; Reklám és marketing; Merchandising szolgáltatások; Kiskereskedelmi csomagküldő szolgáltatások ruházati kiegészítőkkel kapcsolatban; Ruházattal kapcsolatos online kiskereskedelmi szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Marketing; Marketing digitale; Marketing di prodotto; Web marketing; Marketing affiliato; Pubblicità e marketing; Servizi di merchandising; Servizi di vendita al dettaglio per corrispondenza legati alla vendita di accessori di abbigliamento; Servizi di vendita al dettaglio online di articoli d'abbigliamento.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Rinkodara; Skaitmeninė rinkodara; Produktų rinkodara; Internetinė rinkodara; Partnerių rinkodara; Reklama ir rinkodara; Prekydėstos paslaugos; Mažmeninė prekyba aprangos aksesuarais, užsakant paštu; Internetinė mažmeninė prekyba apranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mārketinga pakalpojumi; Digitālā tirgzinība; Produktu mārketinga pakalpojumi; Interneta tirgvedība; Saistītā mārketinga pakalpojumi; Reklāmas un mārketinga pakalpojumi; Pakalpojumi produktu virzīšanai tirgū; Pasta pasūtījumu mazumtirdzniecības pakalpojumi saistībā ar apģērba piederumiem; Mazumtirdzniecības pakalpojumi tiešsaistē, kas attiecas uz apģērbu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' kummerċjalizzazzjoni; Marketing diġitali; Kummerċjalizzazzjoni ta' prodott; Marketing permezz ta' l-Internet; Marketing affiljat; Reklamar u kummerċjalizzazzjoni; Servizzi ta' kummerċjalizzazzjoni; Servizzi ta' bejgħ bl-imnut permezz ta' ordni bil-posta konnessi ma' aċċessorji tal-ilbies; Servizzi ta’ bejgħ online relatati ma’ ħwejjeġ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Marketing; Digitale marketing; Productmarketing; Internetmarketing; Affiliate marketing; Reclame en marketing; Merchandising; Detailhandel via postorder met betrekking tot kledingaccessoires; Onlinedetailhandelsdiensten op het gebied van kleding.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi marketingowe; Marketing cyfrowy; Usługi w zakresie marketingu produktów; Marketing internetowy; Marketing afiliacyjny; Reklama i marketing; Usługi merchandisingu; Usługi w zakresie wysyłkowej sprzedaży detalicznej akcesoriów odzieżowych; Usługi sprzedaży detalicznej świadczone online w zakresie artykułów odzieżowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Marketing; Marketing digital; Marketing de produtos; Marketing de Internet; Marketing afiliado; Publicidade e marketing; Serviços de merchandising; Serviços de venda a retalho através de encomenda por correspondência relacionados com acessórios de vestuário; Serviços de venda a retalho on-line relativos a artigos de vestuário.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de marketing; Marketing digital; Marketing de produse; Marketing pe Internet; Marketing afiliat; Publicitate și marketing; Servicii de merchandising; Servicii de comerț cu amănuntul prin comenzi poștale de accesorii pentru îmbrăcăminte; Servicii de vânzare cu amănuntul online referitoare la articole de îmbrăcăminte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Marketing; Digitálny marketing; Produktový marketing; Internetový marketing; Pridružený (partnerský) marketing; Reklama a marketing; Merchandising; Maloobchodné služby s odevnými doplnkami objednávanými na dobierku; Online maloobchodné služby súvisiace s odevmi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve trženja; Digitalno trženje; Trženje izdelkov; Trženje preko interneta; Partnersko trženje; Oglaševanje in marketing; Maloprodajno trženje; Storitve maloprodaje s poštnim naročilom, v zvezi z dodatki za oblačila; Spletne maloprodajne storitve v zvezi z oblačili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Marketing; Digital marknadsföring; Produktmarknadsföring; Internetmarknadsföring; Affiliatemarknadsföring; Annons- och reklamverksamhet samt marknadsföring; Merchandising; Återförsäljning via postorder avseende accessoarer för kläder; Återförsäljning online avseende kläder.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Обучение; Курсове за обучение (предоставяне); Образователни курсове; Услуги за дистанционно обучение, предоставяни онлайн; Услуги по бизнес обучение.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vyučování, vzdělávání; Vzdělávací kurzy; Workshopy ke školicím účelům; Služby dálkového vzdělávání poskytované on-line; Obchodní vzdělávání.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Oplæring; Kursusvirksomhed; Workshopper med undervisningsformål; Fjernundervisning leveret online; Uddannelsesvirksomhed vedrørende handel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bereitstellung von Ausbildung; Schulung; Durchführung von Workshops für Schulungszwecke; Veranstaltung und Durchführung von Online-Fernkursen; Betriebliche Ausbildung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παροχή κατάρτισης· Παροχή επιμορφωτικών μαθημάτων· Εργαστήρια επιμόρφωσης (επαγγελματικής κατάρτισης)· Υπηρεσίες εξ αποστάσεως μάθησης παρεχόμενες διαδικτυακά· Υπηρεσίες επιχειρηματικής κατάρτισης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Training; Provision of training courses; Workshops for training purposes; Distance learning services provided online; Business training services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Formación; Prestación de cursos de formación; Talleres de formación; Servicios de formación a distancia en línea; Servicios de formación empresarial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Koolitusteenused; Koolituskursuste pakkumine; Õpikodade korraldamine koolituseesmärkidel; Kaugõppeteenused veebis; Ärikoolitusteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Koulutuspalvelut; Koulutuskurssien tarjoaminen; Koulutustyöpajat; Etäopetuspalvelut tarjottuina online-periaatteella; Liiketoimintaan liittyvä koulutus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Formation; Offre de cours de formation; Ateliers à des fins de formation; Services d'enseignement à distance fournis en ligne; Services de formation commerciale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pružanje usluga osposobljavanja; Pružanje tečajeva osposobljavanja; Radionice u svrhu usavršavanja; Usluge učenja na daljinu koje se pružaju na Internetu; Poslovno usavršavanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szakmai képzés, betanítás; Tanfolyamok, kurzusok biztosítása; Képzési célú műhelyek; Online távoktatási szolgáltatások; Üzleti képzés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Formazione; Attività di formazione; Corsi di formazione; Workshop di formazione; Servizi di formazione a distanza forniti online; Formazione aziendale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Instruktavimas; Mokymo kursų rengimas; Praktiniai seminarai mokymo reikmėms; Nuotolinio mokymosi paslaugos internetu; Verslo mokymo paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Treniņu mācību nodrošināšana; Apmācības kursu pakalpojumi; Praktiskie darbsemināri; Tālmācības pakalpojumi tiešsaistē; Apmācība uzņēmējdarbības jomā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Taħriġ; Il-provvista ta' korsijiet tat-taħriġ; Werkxops għal skopijiet ta' taħriġ; Servizzi ta' tagħlim mill-bogħod provduti onlajn; Servizzi ta' taħriġ relatati man-negozju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Opleiding; Instructiecursussen (Het geven van -); Workshops voor opleidingsdoeleinden; Online afstandsonderwijs; Bedrijfsopleiding.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Nauczanie; Usługi w zakresie zapewniania kursów szkoleniowych; Warsztaty w celach szkoleniowych; Usługi nauki na odległość świadczone online; Szkolenia biznesowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Formação; Fornecimento de cursos de formação; Workshops de formação; Serviços de ensino à distância via online; Serviços de formação em negócios.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Instruire; Furnizare de cursuri de instruire; Ateliere de formare; Servicii de învățământ la distanță oferite online; Servicii de instruire în domeniul afacerilor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vzdelávanie; Vzdelávacie kurzy; Usporadúvanie tvorivých dielní za účelom vyučovania; Služby diaľkového štúdia, poskytované on-line; Školiace služby v oblasti podnikania a obchodu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Usposabljanje; Nudenje tečajev usposabljanja; Delavnice za namene usposabljanja; Storitve učenja na daljavo, nudene na spletu; Poslovno usposabljanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Instruktionstjänster; Anordnande av handledning/instruktion och kurser; Workshopar för instruktionsändamål; Distansstudietjänster tillhandahållna online; Affärsutbildning.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082024</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-01T09:34:54</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225942</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225942</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>WF WONDERFIT SPAIN</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162308012</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/225/018225942/000162308012.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>01.01.02</CategoryCode>
+          <CategoryCode>01.01.99</CategoryCode>
+          <CategoryCode>01.11.08</CategoryCode>
+          <CategoryCode>03.07.17</CategoryCode>
+          <CategoryCode>24.03.07</CategoryCode>
+          <CategoryCode>25.05.99</CategoryCode>
+          <CategoryCode>27.05.22</CategoryCode>
+          <CategoryCode>27.99.06</CategoryCode>
+          <CategoryCode>27.99.23</CategoryCode>
+          <CategoryCode>29.01.01</CategoryCode>
+          <CategoryCode>29.01.08</CategoryCode>
+          <CategoryCode>29.01.97</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хранителни добавки за медицински цели; Антиоксидантни добавки; Витаминни и минерални добавки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Výživové doplňky; Antioxidační doplňky; Vitaminové a minerální doplňky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Næringstilskud; Tilskud af antioxidanter; Vitamin- og mineraltilskud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Nahrungsergänzungsmittel; Ergänzungsmittel für Antioxidantien; Vitamin- und Mineralstoffzusätze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συμπληρώματα διατροφής· Αντιοξειδωτικά συμπληρώματα· Συμπληρώματα βιταμινών και μεταλλικών στοιχείων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Nutritional supplements; Anti-oxidant supplements; Vitamin and mineral supplements.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Suplementos nutricionales; Suplementos antioxidantes; Suplementos vitamínicos y minerales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toidulisandid; Antioksüdantlisandid; Vitamiini- ja mineraallisandid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lisäravintoaineet; Antioksidanttivalmisteet; Vitamiini- ja kivennäislisäaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Compléments nutritionnels; Compléments anti-oxydants; Compléments vitaminés et minéraux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Hranjivi dodaci; Antioksidativni dodaci prehrani; Vitaminski i mineralni dodaci hrani.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Táplálékkiegészítők; Antioxidáns kiegészítők; Vitamin és ásványi anyag kiegészítők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Additivi nutrizionali per uso medico; Integratori antiossidanti; Integratori vitaminici e minerali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mitybos papildai; Antioksidantų papildai; Vitamininiai ir mineraliniai papildai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Uztura bagātinātāji; Antioksidantu piedevas; Vitamīni un diētiskas minerālvielu piedevas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Supplimenti ta' nutrizzjoni; Supplimenti antiossidanti; Supplimenti tal-vitamini u tal-minerali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Voedingssupplementen; Antioxidante supplementen; Vitamine- en mineralensupplementen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odżywcze suplementy diety; Przeciwutleniające suplementy; Dodatki witaminowe i mineralne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Suplementos nutricionais; Suplementos antioxidantes; Suplementos vitamínicos e minerais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suplimente nutritive; Suplimente antioxidante; Suplimente vitaminice și minerale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Výživové doplnky na lekárske použitie; Antioxidačné doplnky; Vitamíny a minerálne doplnky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Hranilni dodatki; Antioksidantna dopolnila; Vitaminski in mineralni dodatki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Näringstillskott; Antioxidanttillskott; Vitamin- och mineraltillskott.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Спортно облекло.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Sportovní oblečení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Sportsbeklædning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Sportbekleidung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αθλητικά ενδύματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Sportswear.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Prendas de vestir de deporte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Spordiriietus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Urheiluasut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vêtements de sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Odjeća za sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sportruházat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Abbigliamento sportivo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Sportinė apranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Sporta apģērbi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ħwejjeġ sportivi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Sportkleding.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odzież sportowa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vestuário de desporto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Articole de îmbrăcăminte pentru sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Športové oblečenie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Športna oblačila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kläder för sport.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>28</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Гимнастически и спортни артикули.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Gymnastické a sportovní zboží.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Gymnastik- og sportsartikler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Turn- und Sportartikel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Είδη γυμναστικής και αθλητισμού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Gymnastic and sporting articles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Artículos de deporte y gimnasia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Võimlemis- ja sportimistarbed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Voimistelu- ja urheiluvälineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Articles de gymnastique et de sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Gimnastička i sportska oprema.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Torna- és sporttermékek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Articoli per la ginnastica e lo sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Gimnastikos ir sporto reikmenys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Vingrošanas un sporta preces.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Artikli tal-ġinnastika u ta' l-isports.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Gymnastiek- en sportartikelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Artykuły gimnastyczne i sportowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Artigos de ginástica e desporto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Articole de gimnastică și de sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Gymnastické a športové predmety.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Gimnastične in športne potrebščine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Gymnastik- och sportartiklar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/079</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/188</PublicationIdentifier>
+        <PublicationSection>C.3.2</PublicationSection>
+        <PublicationDate>2020-10-01</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080352</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>67871</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018524655</RecordIdentifier>
+<BasicRecordKind>Trade mark - Partial Surrender</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>67871</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-10-01</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

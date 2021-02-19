@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-12T14:48:42</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225901</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225901</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-09-15</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Dr. Storsberg</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>1</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хиалуронова киселина; Средства, предотвратяващи стареенето, за промишлени цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kyselina hyaluronová; Prostředky proti stárnutí pro průmyslové účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Hyaluronsyre; Antirynkemidler til industrielle formål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Hyaluronsäure; Anti-Aging Mittel für gewerbliche Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υαλουρονικό οξύ· Αντιγηραντικοί παράγοντες, για βιομηχανική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Hyaluronic acid; Anti-aging agents for industrial purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Ácido hialurónico; Agentes antienvejecimiento para uso industrial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Hüaluroonhape; Tööstuslikud vananemisvastased ained.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Hyaluronihappo; Aineet ikääntymisen estämiseen teollisissa tarkoituksissa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Acide hyaluronique; Agents anti-âge à usage industriel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Hijaluronska kiselina; Sredstva protiv starenja za industrijske potrebe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Hialuronsav; Öregedésgátló hatóanyagok ipari felhasználásra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Acido ialuronico; Agenti antinvecchiamento per uso industriale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Hialurono rūgštis; Medžiagos nuo senėjimo pramonės reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Hialuronskābe; Pretnovecošanas līdzekļi rūpnieciskiem nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Aċtu jaluroniku; Aġenti għal kontra l-effetti taż-żmien, għal skopijiet industrijali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Hyaluronzuur; Antiverouderingsmiddelen voor industriële doeleinden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kwas hialuronowy; Środki przeciwstarzeniowe do celów przemysłowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Ácido hialurónico; Agentes antienvelhecimento para uso industrial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Acid hialuronic; Agenţi anti-aging de uz industrial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kyselina hyalurónová; Látky proti starnutiu na priemyselné účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Hialuronska kislina; Sredstva proti staranju za industrijske namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Hyaluronsyra; Medel mot åldrande för industriella ändamål.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Козметични средства; Козметика с хиалуронова киселина; Козметика за мигли; Козметични тоалетни препарати; Препарати за почистване на тялото и за грижа за красотата; Нелечебни шампоани; Лосион за кожа; Балсами; Препарати за грижа за очите; Препарати за грижа за кожата против стареене; Овлажняващи кремове против стареене; Серум против стареене за козметична употреба; Спринцовка с хиалуронова киселина.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kosmetika; Kosmetika s kyselinou hyaluronovou; Kosmetika na řasy; Toaletní přípravky; Přípravky pro osobní hygienu a kosmetické přípravky; Neléčivé šampony; Pleťová mléka a vody; Balzámy; Přípravky péče o oči; Přípravky proti stárnutí pleti; Hydratační přípravky proti stárnutí; Séra proti stárnutí pleti pro kosmetické účely; Injekce s kyselinou hyaluronovou.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kosmetiske præparater; Kosmetiske præparater med hyaluronsyre; Kosmetiske præparater til øjenvipper; Toiletartikler; Præparater til rengøring af kroppen og skønhedspleje; Ikke-medicinsk shampoo; Hudlotioner; Balsamer; Præparater til øjenpleje; Hudplejepræparater mod ældning; Antirynkecreme; Serum mod ældning til kosmetiske formål; Sprøjter med hyaluronsyre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kosmetik; Kosmetik mit Hyaluronsäure; Wimperkosmetika; Körperpflegemittel; Körperreinigungs- und Körperpflegepräparate; nicht-Medizinische Shampoos; Hautlotionen; Balsam; Augenpflegemittel; Anti-Aging-Hautpflegemittel; Anti-Aging Feuchtigkeitscremes; Anti-Aging Seren für kosmetische Zwecke; Spritze mit Hyaluronsäure.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καλλυντικά· Καλλυντικά με υαλουρονικό οξύ· Καλλυντικά για βλεφαρίδες· Καλλυντικά παρασκευάσματα· Παρασκευάσματα καθαρισμού σώματος και φροντίδας ομορφιάς· Μη φαρμακευτικά σαμπουάν· Λοσιόν για το δέρμα· Βάλσαμα· Οφθαλμικά προϊόντα· Αντιγηραντικά παρασκευάσματα περιποίησης του δέρματος· Αντιγηραντικά προϊόντα ενυδάτωσης· Αντιγηραντικοί οροί για καλλυντική χρήση· Ενέσεις με υαλουρονικό οξύ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Cosmetics; Cosmetics with hyaluronic acid; Eyelash cosmetics; Toiletries; Body cleaning and beauty care preparations; Non-medicated shampoos; Skin lotion; balsams; Eyecare preparations; Anti-aging skincare preparations; Anti-aging moisturizers; Anti-ageing serums for cosmetic purposes; Syringes with hyaluronic acid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cosméticos; Cosméticos que contienen ácido hialurónico; Cosméticos para las pestañas; Preparaciones de tocador; Preparaciones para la limpieza y cuidado del cuerpo; Champús no medicinales; Loción para la piel; Bálsamos; Productos para el cuidado de los ojos; Preparaciones antienvejecimiento para el cuidado de la piel; Productos hidratantes antienvejecimiento; Serum antienvejecimiento para uso cosmético; Jeringuillas con ácido hialurónico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kosmeetikatooted; Hüaluroonhapet sisaldavad kosmeetikatooted; Ripsmekosmeetikavahendid; Tualettpreparaadid; Puhastus- ja iluhooldustooted kehale; Ravitoimeta šampoonid; Nahalosjoonid; Palsamid; Silmahoolduspreparaadid; Vananemisvastased nahahoolduspreparaadid; Vananemisvastased niisutavad kreemid; Kosmeetiline vananemisvastane seerum; Hüaluroonhapet sisaldav süst.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kosmetiikka; Hyaluronihappoa sisältävä kosmetiikka; Kosmeettiset tuotteet ripsiä varten; Kosmeettiset ja peseytymisvalmisteet; Vartalon puhdistus- ja kauneudenhoitovalmisteet; Lääkeaineita sisältämättömät sampoot; Ihoemulsiot; Palsamit; Silmienhoitovalmisteet; Ikääntymisen vaikutuksia hidastavat ihonhoitovalmisteet; Ikääntymisen vaikutuksia hidastavat kosteusvoiteet; Seerumit ikääntymistä vastaan kosmeettiseen käyttöön; Hyaluronihappoa sisältävät ruiskut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Cosmétiques; Cosmétiques à base d'acide hyaluronique; Cosmétiques pour cils; Préparations de toilette; Préparations de nettoyage corporel et de soins de beauté; Shampooings autres qu'à usage médical; Lotions pour la peau [cosmétiques]; Baumes; Préparations de soin pour les yeux; Préparations de soin anti-âge pour la peau; Hydratants anti-âge; Sérums anti-âge à usage cosmétique; Seringues contenant de l'acide hyaluronique.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kozmetika; Kozmetički proizvodi s hijaluronskom kiselinom; Kozmetički proizvodi za trepavice; Toaletni pripravci; Pripravci za čišćenje i njegu tijela; Nemedicinski šamponi; Losioni za tijelo; Balzami; Preparati za njegu očiju; Pripravci protiv starenja kože; Hidratantne kreme protiv starenja; Serum protiv starenja za kozmetičku uporabu; Štrcaljka s hijaluronskom kiselinom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kozmetikumok; Kozmetikumok hialuronsavval; Szempilla kozmetikumok; Kozmetikai, szépségápolási készítmények; Testápolási és szépségápolási készitmények; Nem gyógyhatású samponok; Bőrápoló folyadékok; Balzsamok; Szemápoló készítmények; Öregedés elleni bőrápoló készítmények; Öregedés elleni hidratálók; Öregedésgátló szérum kozmetikai használatra; Injekciók hialuronsavval.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cosmetici; Cosmetico con acido ialuronico; Cosmetici per ciglia; Preparati per la toilette; Preparati per la pulizia del corpo e per la cura della bellezza; Shampoo non medicati; Lozione per la pelle; Balsami; Prodotti per la cura degli occhi; Preparazioni antinvecchiamento per la pelle; Prodotti idratanti antinvecchiamento; Siero anti-invecchiamento per uso cosmetico; Siringa con acido ialuronico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kosmetika; Kosmetika su hialurono rūgštimi; Blakstienų kosmetika; Tualetiniai preparatai; Kūno valomieji ir grožio priežiūros preparatai; Negydomieji šampūnai; Odos losjonai; Balzamai; Akių priežiūros preparatai; Odos priežiūros preparatai nuo senėjimo; Drėkinamosios priemonės nuo senėjimo; Kosmetiniai senėjimą lėtinantys serumai; Švirkštai su hialurono rūgštimi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kosmētiskie līdzekļi; Kosmētika ar hialuronskābi; Skropstu kosmētika; Personiskās tualetes līdzekļi; Ķermeņa kopšanas un skaistumkopšanas līdzekļi; Šampūni nemedicīniskiem nolūkiem; Ādas losjoni; Balzāmi; Acu kopšanas preparāti; Novecošanu mazinoši ādas kopšanas līdzekļi; Mitrinātāji pret ādas novecošanos; Pretnovecošanās serums kosmētiskiem nolūkiem; Šļirces ar hialuronskābi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kożmetiċi; Kożmetiċi b'aċidi jaluroniċi; Kożmetiċi tax-xagħar tal-għajnejn; Preparazzjonijiet tat-twaletta; Preparazzjonijiet għat-tindif tal-ġisem u għall-kura tas-sbuħija; Xampùs mhux immedikati; Lozjon tal-ġilda; Balzmi; Preparazzjonijiet għall-ħarsien tal-għajn; Preparazzjonijiet għall-kura tal-ġilda kontra t-tixjiħ; Idratanti kontra t-tixjiħ; Serum għal kontra x-xjuħija għal skopijiet kosmetiċi; Siringi b'aċidi jaluroniċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Cosmetica; Cosmetica met hyaluronzuur; Cosmetica voor wimpers; Preparaten voor de toiletverzorging; Reinigings- en schoonheidspreparaten voor het lichaam; Shampoo (Niet-medicinale -); Huidlotion; Balsems; Oogverzorgingsprodukten; Antiverouderings huidverzorgingsproducten; Antiverouderings vochtinbrengende crèmes; Anti-aging serum voor cosmetisch gebruik; Injectiespuiten met hyaluronzuur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kosmetyki; Kosmetyki z kwasem hialuronowym; Kosmetyki do rzęs; Preparaty toaletowe; Preparaty do mycia i pielęgnacji ciała; Szampony nielecznicze; Balsam do ciała; Balsamy; Preparaty do pielęgnacji oczu; Preparaty pielęgnacyjne spowalniające proces starzenia się skóry; Środki nawilżające przeciwdziałające starzeniu się skóry; Serum przeciwdziałające starzeniu się do użytku kosmetycznego; Strzykawki z kwasem hialuronowym.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cosméticos; Cosméticos com ácido hialurónico; Cosméticos para as pestanas; Artigos de higiene pessoal; Produtos para limpeza corporal e cuidados de beleza; Champôs não medicinais; Loções para a pele; Bálsamos; Preparações para os cuidados dos olhos; Preparações antienvelhecimento para os cuidados da pele; Hidratantes antienvelhecimento; Sérum antienvelhecimiento para uso cosmético; Injeções com ácido hialurónico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cosmetice; Produse cosmetice cu acizi hialuronici; Produse cosmetice pentru gene; Produse de toaletă; Preparate pentru curăţarea şi îngrijirea corpului; Şampoane nemedicinale; Loţiune pentru piele; Balsamuri; Preparate pentru ingrijirea ochilor; Preparate anti-îmbătrânire pentru îngrijirea pielii; Produse hidratante anti-îmbătrânire; Ser antiîmbătrânire de uz cosmetic; Seringi cu acizi hialuronici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kozmetické produkty; Kozmetika obsahujúca kyselinu hyalurónovú; Kozmetika na mihalnice; Toaletné prípravky; Telové čistiace prípravky a skrášľovacie prípravky; Neliečivé šampóny; Pleťové mlieka; Balzamy; Prípravky na starostlivosť o oči; Pleťové prípravky proti starnutiu; Hydratačné prípravky proti starnutiu; Séra proti starnutiu pleti na kozmetické použitie; Striekačky s kyselinou hyalúronovou.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kozmetični izdelki; Kozmetični izdelki s hialuronsko kislino; Kozmetični izdelki za trepalnice; Toaletna sredstva; Preparati za čiščenje telesa in lepotilno nego; Šamponi brez zdravilnih učinkovin; Losjoni za kožo; Balzami; Pripravki za nego oči; Pripravki proti staranju za nego kože; Vlažilna sredstva proti staranju; Serum proti staranju za kozmetično uporabo; Brizge s hialuronsko kislino.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kosmetika; Kosmetika med hyaluronsyra; Kosmetika för ögonfransar; Toalettartiklar; Preparat för kroppsrengöring och skönhetsvård; Icke-medicinska schamponeringsmedel; Ansiktsvatten; Balsam; Ögonvårdspreparat; Hudvårdspreparat mot åldrande; Fuktkräm mot åldrande; Serum mot åldrande för kosmetiska ändamål; Injektionsspruta med hyaluronsyra.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хранителни добавки и диетични препарати; Капки за очи; Лечебни лосиони за ръце; Лечебни кремове за тяло; Медицински напитки; Медицински продукти; Медицинско изделие за имплантиране (биологични импланти или фармацевтични продукти); Предварително напълнени спринцовки за медицински цели; Капки за очи като медицински продукт.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Potravní doplňky a dietetické přípravky; Oční kapky; Léčivé vody a mléka na ruce; Léčivé tělové krémy; Léčivé nápoje; Lékařské výrobky; Lékařské výrobky pro implantaci (biologické implantáty nebo farmaceutika); Naplněné stříkačky pro lékařské účely; Oční kapky jako lékařský výrobek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kosttilskud og diætetiske præparater; Øjendråber; Medicinske lotioner til hænderne; Medicinske cremer til kroppen; Drikke til medicinske formål; Medicinske produkter; Medicinske produkter til implantation (biologiske implantater eller farmaceutiske præparater); Fyldte injektionssprøjter til medicinske formål; Øjendråber i form af medicinske produkter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Diätetische Präparate und Nahrungsergänzungsmittel; Augentropfen; medizinische Handlotionen; medizinische Körpercremes; Medizinische Getränke; Medizinprodukte; Medizinprodukt für Implantation (biologische Implantate oder Pharmazeutika); Vorabgefüllte Spritzen für medizinische Zwecke; Augentropfen als Medizinprodukt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συμπληρώματα διατροφής και διαιτητικά παρασκευάσματα· Κολλύρια· Φαρμακευτικές λοσιόν για τα χέρια· Κρέμες σώματος [φαρμακευτικές]· Αφεψήματα (ποτά) προσαρμοσμένα για ιατρικούς σκοπούς· Φαρμακευτικά προϊόντα· Ιατρικά προϊόντα για εμφύτευση (βιολογικά εμφυτεύματα ή φαρμακευτικά)· Προγεμισμένες σύριγγες για ιατρική χρήση· Οφθαλμικές σταγόνες ως ιατρικά προϊόντα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Dietary supplements and dietetic preparations; Eye drops; Medicated lotions for the hands; Body creams [medicated]; Beverages adapted for medicinal purposes; Medicinal products; Medical goods for implantation (biological implants or pharmaceuticals); Pre-filled syringes for medical purposes; Eye drops being medical goods.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Suplementos y preparaciones dietéticas; Gotas para los ojos; Lociones medicinales para las manos; Cremas corporales [medicinales]; Bebidas para uso médico; Productos medicinales; Productos médicos para implantación (implantes biológicos o productos farmacéuticos); Jeringas prellenadas para uso médico; Gotas para los ojos como producto médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toidulisandid ja farmatseutilised dieetained; Silmatilgad; Ravitoimelised käteemulsioonid; Kehakreemid [ravimid]; Ravimjoogid; Meditsiinitooted; Meditsiinitoode implanteerimiseks (bioloogilised implantaadid või farmaatsiatooted); Eeltäidetud meditsiinilised süstlad; Meditsiinilised silmatilgad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lisäravinteet ja dieettivalmisteet; Silmätipat; Lääkeaineita sisältävät käsivoiteet; Lääkeaineita sisältävät vartalovoiteet; Juomat lääkinnälliseen käyttöön; Lääkeaineet; Lääkinnälliset tuotteet implantaatioon (biologiset istutteet tai farmaseuttiset aineet); Esitäytetyt ruiskut lääkinnällisiin tarkoituksiin; Silmätipat lääkinnällisinä tuotteina.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Compléments alimentaires et préparations diététiques; Collyre; Lotions pour les mains à usage médical; Crèmes pour le corps à usage médical; Boissons à usage médicinal; Produits médicinaux; Produits médicaux à implanter (implants biologiques ou produits pharmaceutiques); Seringues préremplies à usage médical; Collyres comme produits médicaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dodaci prehrani i dijetetski pripravci; Kapi za oči; Medicinski losioni za ruke; Kreme za tijelo [ljekovite]; Napitci prilagođeni za medicinske potrebe; Medicinski proizvodi; Medicinski proizvod za implantaciju (biološki implantati ili farmaceutski proizvodi); Prethodno napunjene štrcaljke za medicinsku upotrebu; Kapi za oči kao medicinski proizvod.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Táplálékkiegészítők és diétás készítmények; Szemcseppek; Gyógyhatású kézápoló krémek; Testkrémek [gyógyhatású]; Gyógyászati célokra adaptált italok; Gyógyászati termékek; Gyógyászati termékek implantátumokhoz (biológiai implantátumok vagy gyógyszerészeti termékek); Előretöltött fecskendők gyógyászati használatra; Szemcseppek gyógyászati termékként.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Integratori alimentari e preparati dietetici; Gocce oculari; Lozioni medicate per le mani; Creme per il corpo [medicate]; Bevande adattate a fini medici; Prodotti medicinali; Dispositivo medico per impianti (impianti biologici o prodotti farmaceutici); Siringhe preriempite per uso medico; Gocce oculari come dispositivo medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Maisto papildai ir dietiniai produktai; Akių lašai; Medicininiai rankų losjonai; Kūno kremai [gydomieji]; Gydomieji gėrimai; Medicininiai produktai; Medicinos produktai implantavimo reikmėms (biologiniai implantai ar farmacijos vaistai); Užpildyti švirkštai (medicinos reikmėms); Akių lašai kaip medicinos produktas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Uztura bagātinātāji un diētiskie preparāti; Acu pilieni; Medikamentus saturoši roku losjoni; Ārstnieciski ķermeņa krēmi; Dzērieni medicīniskiem nolūkiem; Medicīniskie izstrādājami; Medicīnas produkti implantēšanai (bioloģiski implantāti vai farmaceitiskie produkti); Pilnšļirces medicīniskiem nolūkiem; Acu losjoni kā medicīnas produkti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Supplimenti tad-dieta u preparazzjonijiet dijetetiċi; Qtar tal-għajnejn; Lozjoni tal-idejn medikat; Kremi [medikati] tal-ġisem; Xarbiet addattati għal skopijiet mediċinali; Prodotti mediċi; Prodott mediku għall-impjantazzjoni (impjanti bijoloġiċi jew farmaċewtiċi); Siringi mimlijin minn qabel għal skopijiet mediċi; Qtar tal-għajnejn bħala prodott mediku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diëtische supplementen en diëtische preparaten; Oogdruppels; Medicinale lotions voor de handen; Medicinale crèmes voor het lichaam; Dranken voor medicinaal gebruik; Medische producten; Medische producten voor implantatie (biologische implantaten of farmaceutische producten); Gevulde injectiespuiten voor medische doeleinden; Oogdruppels als medisch product.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Suplementy diety i preparaty dietetyczne; Krople do oczu; Leczniczy balsam do rąk; Lecznicze kremy do ciała; Napoje stosowane w lecznictwie; Produkty medyczne; Produkt medyczny do implantacji (implanty biologiczne lub produkty farmaceutyczne); Wstępnie wypełnione strzykawki do celów medycznych; Krople do oczu jako produkt medyczny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Suplementos e preparações dietéticos; Colírio; Loções medicinais para as mãos; Cremes medicinais para o corpo; Bebidas adaptadas para uso medicinal; Produtos medicinais; Aparelhos médicos para implantes (implantes biológicos ou farmacêuticas); Seringas pré-carregadas para fins médicos; Gotas para os olhos como produto médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suplimente alimentare si preparate dietetice; Picături de ochi; Loţiuni medicinale pentru mâini; Creme de corp [medicinale]; Poţiuni medicinale; Produse medicale; Produse medicale pentru implanturi (implanturi biologice sau produse farmaceutice); Seringi preumplute de uz medical; Picături oculare sub formă de produse medicale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Výživové doplnky a dietetické prípravky; Očné kvapky; Liečivé pleťové mlieka a vody na ruky; Liečivé telové krémy; Liečivé nápoje; Medicínske výrobky; Medicínsky výrobok pre implantáciu (biologické implantáty alebo farmaceutiká); Naplnené injekčné striekačky na lekárske použitie; Kvapky do očí ako medicínsky produkt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Prehranska dopolnila in dietetske snovi; Kapljice za oči; Losjoni za roke z zdravilnimi učinkovinami; Krema za telo z zdravilnimi učinkovinami; Pijače za medicinske namene; Medicinski izdelki; Medicinski izdelki za implantacijo (biološki vsadki ali farmacevtski izdelki); Predhodno napolnjene injekcijske brizge za medicinske namene; Kapljice za oko kot medicinski izdelek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Dietiska tillskott och preparat; Ögondroppar; Medicinska lotioner för händerna; Medicinska kroppskrämer; Drycker anpassade för medicinska ändamål; Läkemedel; Medicinsk produkt för implantering (biologiska implantat eller farmaceutika); Förfyllda sprutor för medicinska ändamål; Ögondroppar som medicinsk produkt.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Защитно и предпазно оборудване; Защитни маски; Оборудване за дихателна защита; Защитни маски за нос и уста; Дихателни апарати с филтри.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Ochranné a bezpečnostní prostředky; Ochranné masky; Záchranné dýchací přístroje; Nosní a ústní ochranné masky; Ochranné dýchací přístroje s filtrem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beskyttende udstyr og sikkerhedsudstyr; Beskyttelsesmasker; Åndedrætsværn; Masker til beskyttelse af næse og mund; Åndedrætsværn med filtre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schutz- und Sicherheitsausrüstung; Schutzmasken; Atemschutzausrüstung; Nasen-Mundschutzmasken; Atemschutzgeräte mit Filter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εξοπλισμός προστασίας και ασφάλειας· Προστατευτικές μάσκες· Εξοπλισμός αναπνευστικής προστασίας· Μάσκες προστασίας της μύτης και του στόματος· Συσκευές προστασίας της αναπνοής με φίλτρο.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Protective and safety equipment; Protective masks; Respiratory protection equipment; Protective nose and mouth masks; Breathing apparatus with filters.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Equipos de protección y seguridad; Máscaras de protección; Equipo respirador; Mascarillas protectoras para la nariz y la boca; Aparatos de protección respiratoria provistos de filtros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kaitse- ja ohutusseadmed; Kaitsemaskid; Hingamiskaitsevarustus; Nina ja suud katvad kaitsemaskid; Filtriga respiraatorid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Suoja- ja turvavälineet; Suojanaamarit; Hengityksensuojaimet; Nenä-suusuojat; Suodattimilla varustetut hengityssuojalaitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Équipement de protection et de sécurité; Masques de protection; Équipements de protection respiratoire; Masques de protection pour le nez et la bouche; Respirateurs avec filtres.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Zaštitna i sigurnosna oprema; Zaštitne maske; Oprema za respiratornu zaštitu; Zaštitne maske za nos i usta; Respiratori s filtrom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Védelmi és biztonsági berendezések; Védőálarcok/-maszkok; Légzésvédő felszerelés; Orr- és szájvédő maszkok; Légzésvédő eszközök szűrővel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Attrezzatura protettiva e di sicurezza; Maschere di protezione; Dispositivi di protezione per le vie respiratorie; Maschere di protezione naso-bocca; Apparecchi respiratori con filtri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Apsaugos ir saugos įrenginiai; Kaukės (Apsauginės -); Kvėpavimo apsaugos įranga; Nosies ir burnos apsauginės kaukės; Kvėpavimo apsauginiai aparatai su filtru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Aizsardzības un drošības ierīces; Aizsargmaskas; Elpošanas aizsardzības aprīkojums; Deguna mutes aizsargmaskas; Respiratori ar filtriem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħmir għall-protezzjoni u s-sigurtà; Maskri protettivi; Apparat għall-protezzjoni tan-nifs; Maskri protettivi tal-ħalq u l-imnieħer; Apparat respiratorju bil-filtri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Beveiligings- en veiligheidstoestellen; Veiligheidsmaskers; Ademhalingsuitrusting; Beschermende maskers voor de neus en mond; Ademhalingsapparatuur met filter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia zabezpieczające i ochronne; Maski ochronne; Kombinezony z możliwością oddychania w złych warunkach; Maski ochronne na nos i usta; Urządzenia z filtrem do ochrony dróg oddechowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Equipamentos de proteção e segurança; Máscaras de proteção; Equipamento de protecção respiratória; Máscara para nariz e boca; Aparelhos de proteção respiratória com filtro.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Echipamente de protecţie şi siguranţă; Măşti de protecţie; Echipamente pentru protejarea respirației; Măști de protecție pentru nas și gură; Măști pentru filtrarea aerului.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Ochranné a bezpečnostné vybavenie; Ochranné masky; Výstroj na ochranu dýchania; Ochranné masky pre nos a ústa; Prístroje na ochranu dýchacích ciest s filtrom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zaščitna in varnostna oprema; Zaščitne maske; Oprema za zaščito dihanja; Maske za zaščito nosu in ust; Dihalni aparati s filtrom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Skydds- och säkerhetsutrustning; Skyddsmasker; Andningsskyddsutrustning; Skyddsmasker för näsa och mun; Andningsskydd med filter.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Инжектори за медицински цели; Защитни маски за употреба от медицински работници; Медицински апарати и уреди; Медицински инструменти; Хирургично защитно облекло.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Injektory k lékařským účelům; Ochranné masky používané pracovníky ve zdravotnictví; Lékařské přístroje a zařízení; Lékařské nástroje; Operační ochranné oděvy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Sprøjter til medicinske formål; Beskyttelsesmasker til medicinsk personale; Medicinske apparater og enheder; Medicinske instrumenter; Beskyttelsesbeklædning til brug på operationsstuer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Medizinische Spritzen; Schutzmasken für medizinisches Personal; medizinische Apparate und Geräte; medizinische Instrumente; OP-Schutzbekleidung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σύριγγες για ιατρική χρήση· Προστατευτικές μάσκες για εργαζομένους στον τομέα της ιατρικής· Ιατρικές συσκευές και διατάξεις· Ιατρικά όργανα· Προστατευτικά ενδύματα για χειρουργικές επεμβάσεις.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Medical syringes; Protective masks for use by persons working in medicine; Medical apparatus and devices; Medical instruments; Protective clothing for surgery.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Jeringas para uso médico; Mascarillas de protección para personas que trabajan en medicina; Aparatos e instrumentos médicos; Instrumentos médicos; Ropa de protección para operaciones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiinilised süstlad; Kaitsemaskid meditsiinipersonalile; Meditsiinilised aparaadid ja seadmed; Arstiriistad; Operatsioonirõivas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ruiskut lääkintäkäyttöön; Suojanaamiot lääketieteen alalla toimivien henkilöiden käyttöön; Lääketieteelliset laitteet ja välineet; Lääketieteelliset välineet; Kirurginen suojavaatetus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Seringues médicales; Masques de protection pour le personnel médical; Appareils et dispositifs médicaux; Instruments médicaux; Vêtements de protection pour blocs opératoires.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Medicinske injekcije; Zaštitne maske za medicinske djelatnike; Medicinski uređaji i instrumenti; Medicinski instrumenti; Zaštitna odjeća za operacije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fecskendők gyógyászati használatra; Védőmaszkok egészségügyi [orvosi] személyzet számára; Orvosi készülékek és eszközök; Orvosi műszerek; Műtéti védőöltözet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Siringhe per uso medico; Maschere protettive destinate a coloro che operano in ambito medico; Apparecchiature e dispositivi medici; Strumenti medici; Abbigliamento di protezione per OP.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Inžektoriai (medicinos reikmėms); Apsauginės kaukės medicinos srityje dirbančių asmenų reikmėms; Medicininė aparatūra ir prietaisai; Medicininiai instrumentai; Operacijų apsauginė apranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Injekcijas ierīces medicīniskiem nolūkiem; Aizsargmaskas medicīnas darbiniekiem; Medicīniskie aparāti un ierīces; Medicīnas instrumenti; OP aizsargapģērbs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Injettaturi għal skopijiet mediċi; Maskri protettivi għall-użu minn persuni li jaħdmu fil-qasam tal-mediċina; Apparat u tagħmir mediku; Strumenti mediċi; Ilbies protettiv għall-operazzjonijiet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Injectiespuiten voor medisch gebruik; Beschermende maskers voor gebruik door personen die werkzaam zijn in de medische sector; Medische apparatuur en toestellen; Medische instrumenten; Beschermende operatiekleding.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Strzykawki do celów medycznych; Maski ochronne do użytku przez pracowników medycznych; Urządzenia i przyrządy medyczne; Instrumenty medyczne; Operacyjna odzież ochronna.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Seringas para uso médico; Máscaras de proteção para uso por profissionais de medicina; Aparelhos e dispositivos médicos; Instrumentos médicos; Vestuário de proteção cirúrgico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dispozitive injectoare de uz medical; Măşti de protecţie utilizate de persoane care lucrează în domeniul medical; Dispozitive şi aparate medicale; Instrumente medicale; Îmbrăcăminte de protecție pentru operații.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Injekčné striekačky na lekárske použitie; Ochranné masky pre osoby pracujúce v oblasti medicíny; Lekárske prístroje a zariadenia; Lekárske prístroje; Ochranné odevy na operácie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Brizgalke za uporabo v medicini; Zaščitne maske za medicinsko osebje; Medicinski aparati in naprave; Medicinski instrumenti; Kirurška zaščitna oblačila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Sprutor för medicinska ändamål; Skyddsmasker för personer som arbetar inom sjukvården; Medicinska apparater och anordningar; Medicinska instrument; Skyddskläder för operationssalar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/106</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-08</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/177</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>12642</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

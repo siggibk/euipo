@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T09:10:08</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226291</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226291</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Black Sheeep</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Възглавници от полиуретанова пяна (дунапрен); Матраци от полиуретанова пяна; Възглавници от латекс; Матраци от латекс; Скари за легла.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Polštáře z polyuretanové pěny; Matrace z polyuretanové pěny; Latexové polštáře; Latexové matrace; Základy postelí.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Puder af polyuretanskum; Madrasser af polyuretanskum; Puder af latex; Madrasser af latex; Sengebunde.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kissen aus Polyurethanschaum; Matratzen aus Polyurethanschaum; Kissen aus Latex; Matratzen aus Latex; Lattenroste.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μαξιλάρια από αφρό πολυουρεθάνης· Στρώματα από αφρό πολυουρεθάνης· Μαξιλάρια από λατικό (λάτεξ)· Στρώματα από λατικό (λάτεξ)· Βάσεις κρεβατιού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Cushions of polyutherane foam; Mattresses of polyutherane foam; Cushions of latex; Mattresses of latex; Bed bases.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cojines de espuma de poliuretano; Colchones de espuma de poliuretano; Cojines de látex; Colchones de látex; Bases de camas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Polüuretaanvahtpadjad; Polüuretaanvahtmadratsid; Latekspadjad; Lateksmadratsid; Voodipõhjad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tyynyt polyuretaanivaahdosta; Patjat polyuretaanivaahdosta; Tyynyt latekstista; Patjat lateksista; Sänkyjen rungot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Coussins en mousse de polyuréthane; Matelas en mousse de polyuréthane; Coussins en latex; Matelas en latex; Bases de lits.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Jastuci od poliuretanske pjene; Madraci od poliuretanske pjene; Jastuci od lateksa; Madraci od lateksa; Podnice za krevete.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Párnák poliuretánhabból; Matracok poliuretánhabból; Párnák latexből; Matracok latexből; Ágyalapok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cuscini in schiuma poliuretanica; Materassi in schiuma poliuretanica; Cuscini in lattice; Materassi in lattice; Basi per letti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Pagalvės iš poliuretano putų; Čiužiniai iš poliuretano putų; Pagalvės iš latekso; Čiužiniai iš latekso; Lovų rėmai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Poliuretāna putu spilvens; Poliuretāna putu matrači; Spilveni no lateksa; Matrači no lateksa; Gultu rāmji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kuxxini magħmula mill-fowm tal-poliuretan; Saqqijiet magħmula mill-fowm tal-poliuretan; Kuxxini magħmula mil-lattiċe; Saqqijiet magħmula mil-lattiċe; Bażijiet għas-sodod.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kussens van polyeruthaanschuim; Matrassen van polyeruthaanschuim; Kussens van latex; Matrassen van latex; Beddenbodems.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Poduszki z pianki poliuretanowej; Materace z pianki poliuretanowej; Poduszki lateksowe; Materace lateksowe; Podstawy łóżek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Almofadas em espuma de poliuretano; Colchões em espuma de poliuretano; Almofadas em látex; Colchões em látex; Bases para camas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Perne din spumă poliuretanică; Saltele din spumă poliuretanică; Perne din latex; Saltele din latex; Cadre de paturi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Podušky z polyuretánovej peny; Matrace z polyuretánovej peny; Podušky z latexu; Matrace z latexu; Rámy postelí.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Blazine iz poliuretanske pene; Vzmetnice iz poliuretanske pene; Blazine iz lateksa; Vzmetnice iz lateksa; Ogrodja za postelje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Dynor av polyuretanskum; Madrasser av polyuretanskum; Dynor av latex; Madrasser av latex; Sängstommar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>24</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Калъфки за възглавници; Калъфи за матраци; Спално бельо и одеяла; Пухени завивки; Покривки за легла.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Povlaky na polštáře; Povlaky na matrace; Ložní prádlo a přikrývky; Peřiny; Povlečení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Pyntestykker til hovedpuder; Madrasbetræk; Sengetøj og -tæpper; Dyner; Sengetæpper.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kissenbezüge; Matratzenbezüge; Bettwäsche; Oberbetten; Bettdecken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διακοσμητικά καλύμματα για μαξιλάρια κρεβατιού· Καλύμματα στρωμάτων· Λευκά είδη κρεβατιού και κουβέρτες· Παπλώματα· Κλινοσκεπάσματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Shams; Mattress covers; Bed linen; Duvets; Bed covers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Fundas decorativas para almohadones de cama; Fundas de colchón; Ropa de cama; Edredones; Ropa de cama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Padjakatted; Madratsikatted; Voodipesu ja -katted; Täidetud tekid; Voodikatted.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tyynyliinat; Patjanpäälliset; Vuodeliinavaatteet; Untuvapeitot; Vuodevaatteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Couvre-oreillers; Housses de matelas; Linge de lit; Couettes; Jetés de lit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ukrasne navlake za jastuke; Presvlake za madrace; Posteljina i deke; Popluni; Pokrivači za krevete.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Párnahuzatok, vánkoshuzatok; Matrachuzatok; Ágyneműk és takarók; Pehelypaplanok; Ágyneműk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Fodere per guanciali; Fodere per materassi; Copriletti e coperte da letto; Piumini; Coperte da letto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Pagalvių užtiesalai; Čiužinių užvalkalai; Lovos baltiniai; Antklodės (pūkinės); Lovatiesės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Spilvendrānas (spilvenu pārvalki); Matraču pārklāji; Gultas veļa un segas; Vatētas segas; Gultas pārklāji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Investi għall-imħaded; Għata għas-saqqu; Ħwejjeġ tas-sodda u gvieret; Duvets; Għata tas-sodod.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Hoezen voor hoofdkussens; Matrasbeschermers; Beddengoed en dekens; Dekbedden; Spreien.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Poszewki na poduszki [poszwy na poduszki]; Pokrycia na materace; Bielizna pościelowa i koce; Kołdry; Narzuty na łóżko.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Almofadas decorativas; Capas de protecção para colchões; Roupa de cama e cobertores; Edredões; Coberturas de cama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Feţe de pernă; Huse pentru saltele; Huse (lenjerii) şi pături pentru pat; Plăpumi; Cuverturi de pat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Obliečky na vankúše; Obliečky na matrace; Posteľná bielizeň; Páperové prikrývky, periny; Posteľné prikrývky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Prevleke za vzglavnike [prevleke za blazine]; Prevleke za žimnice; Posteljno perilo in odeje; Prešite odeje; Posteljna pregrinjala.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Örngott [kuddöverdrag]; Madrassöverdrag; Sängkläder och -filtar; Duntäcken; Sängöverkast.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Нощници.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Noční košile a pyžama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Nattøj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schlafbekleidung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ενδύματα ύπνου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Nightwear.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Prendas para dormir.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ööriided.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Yövaatteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vêtements de nuit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Noćna odjeća.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Pizsama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Biancheria da notte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Naktiniai drabužiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Naktsveļa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ilbies ta' bil-lejl.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Nachtkleding.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Bielizna nocna.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Roupa de noite.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Îmbrăcăminte de noapte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nočné odevy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oblačila za spanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Nattkläder.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>731845</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>33801</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

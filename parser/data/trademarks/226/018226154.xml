@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-17T09:29:05</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226154</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226154</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-13</RegistrationDate>
+<ApplicationLanguageCode>el</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Assos</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162308446</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226154/000162308446.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>06.01.02</CategoryCode>
+          <CategoryCode>06.01.04</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>29</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Млечни продукти; Сирене, кашкавал.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Mléčné výrobky; Sýr.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Fødevarerpræparater bestående hovedsageligt af mælk; Ost.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Milchprodukte; Käse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Γαλακτοκομικά προϊόντα· τυροκομικά προϊόντα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Milk products; Cheese.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Productos lácteos; Quesos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Piimatooted; Juust.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Maitotuotteet; Juustot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Produits laitiers; Fromages.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Mliječni proizvodi; Proizvodi od sira.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Tejtermékek; Sajtok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Prodotti lattieri; Formaggi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Pieno produktai; Sūris.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Piena produkti; Siers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Prodotti tal-ħalib; Prodotti mill-ġobon.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Melkproducten; Kaas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Mleczne produkty; Produkty serowarskie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Produtos lácteos; Queijo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Lactate (Produse -); Brânzeturi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Mliečne výrobky; Syr.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Mlečni proizvodi; Izdelki iz sira.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Mjölkprodukter; Ost.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/084</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/154</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-14</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>140278</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>16243</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

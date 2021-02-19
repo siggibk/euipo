@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-29T09:52:45</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224924</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224924</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SecureBreath®</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Кислородни маски.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Dýchací masky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Respirationsmasker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Atemmasken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μάσκες για την υποβοήθηση της αναπνοής.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Breathing masks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Mascarillas de respiración.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Hingamismaskid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Hengitysnaamarit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Masques respiratoires.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Maske za disanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Légzőmaszkok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Maschere per la respirazione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kvėpavimo kaukės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Elpošanas maskas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Maskri respiratorji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Zuurstofmaskers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maski do oddychania.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máscaras de respiração.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Măști pentru respirație.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Dýchacie masky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Dihalne maske.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Andningsmasker.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Маски за медицински персонал.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Roušky pro lékařský personál.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Masker til brug for medicinsk personel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Masken für medizinisches Personal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μάσκες για το ιατρικό προσωπικό.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Masks for use by medical personnel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Mascarillas para personal médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Maskid meditsiinipersonalile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Suojanaamarit lääkintähenkilökuntaa varten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Masques utilisés par le personnel médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Maske za medicinsko osoblje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Maszkok egészségügyi személyzet általi használatra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Maschere utilizzate dal personale medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kaukės medicinos personalui.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medicīnas personālam paredzētās maskas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Maskri għal personal mediku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Maskers te gebruiken door medisch personeel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maski stosowane przez personel medyczny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máscaras para pessoal médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Măști utilizate de personalul medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Rúška (pre nemocničný personál).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Maske za medicinsko osebje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Munskydd för medicinsk personal.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/141</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>413995</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

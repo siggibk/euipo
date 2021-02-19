@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T09:10:18</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226170</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226170</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>da</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>FLEXEYE</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Научни, кинематографски, измервателни, сигнални и контролни (надзорни) апарати и уреди; Уреди за запис, прехвърляне и възпроизвеждане на звук, картина или данни; Магнитни носители на данни; Оборудване за обработка на данни и компютри.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Přístroje a nástroje fotografické, filmové, přístroje pro měření, signalizaci a kontrolu (inspekci); Přístroje na nahrávání, přenos, kopírování zvuku, obrazu a dat; Magnetická datová média; Zařízení ke zpracování dat a počítače.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Fotografiske og kinematografiske apparater og instrumenter samt apparater og instrumenter til måling, signalering og kontrol; apparater til optagelse, transmission og gengivelse af lyd, billeder og data; magnetiske databærere; databehandlingsudstyr og computere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Fotografische, Film-, Mess-, Signal- und Kontrollapparate und -instrumente; Apparate zur Aufzeichnung, Übertragung und Wiedergabe von Ton, Bild und Daten; Magnetdatenträger; Datenverarbeitungsgeräte und Computer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συσκευές και όργανα φωτογραφικά, κινηματογραφικά, μέτρησης, σήμανσης και ελέγχου (επιθεώρησης)· Συσκευές εγγραφής, μετάδοσης, αναπαραγωγής ήχου, εικόνωνς και δεδομένων· Μαγνητικοί φορείς δεδομένων· Εξοπλισμός για την επεξεργασία δεδομένων και ηλεκτρονικοί υπολογιστές.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Photographic, cinematographic, measuring, signalling and checking (supervision) apparatus and instruments; apparatus for recording, transmission and reproduction of sound, images and data; magnetic data carriers; data processing equipment and computers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aparatos e instrumentos fotográficos, cinematográficos, de medida, de señalización y de control (inspección); Aparatos para la grabación, la transmisión, la reproducción del sonido, de imágenes y de datos; Soportes magnéticos de datos; Equipos para el tratamiento de la información y ordenadores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Fotograafilised, kinematograafilised, mõõte-, signalisatsiooni-, kontrollvahendid ning -seadmed; Heli, kujutiste ja andmete salvestus-, edastus- ja taasesitusaparatuur; Magnetandmekandjad; Andmetöötlusseadmed ja arvutid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Valokuvaus-, elokuva-, mittaus-, merkinanto- ja tarkastuslaitteet ja -kojeet; Äänen, kuvien ja datan tallennus-, toisto-, siirtolaitteet; Magneettiset tietovälineet; Tietojenkäsittelylaitteet ja tietokoneet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Appareils et instruments photographiques, cinématographiques, de mesurage, de signalisation et de contrôle (inspection); Appareils pour l'enregistrement, la transmission, la reproduction du son, d'images et de données; Supports de données magnétiques; Équipements pour le traitement de l'information et les ordinateurs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Fotografski i kinematografski uređaji i instrumenti, uređaji i instrumenti za mjerenje, signalizaciju i kontrolu (nadzor); Uređaji za snimanje, prijenos ili reprodukciju zvuka, slike i podataka; Podloge magnetne za podatke; Oprema za obradu podataka i računala.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fényképészeti, mozgóképi, mérő, jelző és ellenőrző (felügyeleti) készülékek és eszközök; Hangok, képek és adatok rögzítésére, továbbítására, másolására szolgáló készülékek; Mágneses adathordozók; Adatfeldolgozási berendezések és számítógépek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Apparecchi e strumenti fotografici, cinematografici, di misura, di segnalazione e di controllo (ispezione); Apparecchi per la registrazione, la trasmissione, la riproduzione di suono, immagini e dati; Supporti magnetici per dati; Apparecchiatura d'elaborazione dati ed elaboratori elettronici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Fotografijos, kinematografijos, matavimo, signalizacijos ir tikrinimo (priežiūros) aparatai ir prietaisai; Garso, vaizdo ir duomenų įrašymo, perdavimo ir atkūrimo aparatūra; Magnetinės duomenų laikmenos; Duomenų apdorojimo įrenginiai ir kompiuteriai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Fotogrāfiskās, kinematogrāfiskās, mērīšanas, signalizēšanas, pārbaudes [uzraudzības] iekārtas un instrumenti; Ierīces skaņas, attēlu un datu ierakstīšanai, pārsūtīšanai un kopēšanai; Magnētiski datu nesēji; Datu apstrādes iekārtas un datori.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Apparat u strumenti fotografiċi, ċinematografiċi, tal-kejl, tas-sinjalar u tal-iċċekkjar (superviżjoni); Apparat għar-reġistrazzjoni, għat-trasmissjoni, għar-riproduzzjoni tal-ħoss, ta' l-istampi u tad-data; Medja ta' data manjetika; Tagħmir u kompjuters li jipproċessaw id-dejta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Fotografische, cinematografische, meet-, sein- en controle- (inspectie-) apparaten en instrumenten; Apparaten voor het opnemen, het overbrengen en het weergeven van geluid of beeld en gegevens; Magnetische gegevensdragers; Gegevensverwerkende apparatuur en computers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia i przyrządy fotograficzne, kinematograficzne, pomiarowe, sygnalizacyjne i kontrolne (nadzorcze); Aparatura do zapisu, transmisji i odtwarzania dźwięku, obrazu i danych; Magnetyczne nośniki danych; Urządzenia do przetwarzania informacji i komputery.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aparelhos e instrumentos fotográficos cinematográficos, de medida, de sinalização e de controlo (inspeção); Aparelhos para o registo, a transmissão, a reprodução do som, das imagens e dos dados; Suportes de dados magnéticos; Equipamento para o tratamento da informação e computadores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aparate și instrumente fotografice, cinematografice, de măsurare, de semnalizare, de verificare (supraveghere); Aparate de inregistrare, transfer si redare sunet, imagine si date; Suporturi de date magnetice; Echipamente pentru prelucrarea informatiilor si calculatoare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Fotografické, kinematografické, meracie, signalizačné a kontrolné (inšpekcia) prístroje a nástroje; Prístroje na zaznamenávanie, prenos a reprodukciu zvuku, obrazu a dát; Magnetické médiá; Vybavenie na spracovanie údajov a počítače.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Fotografski, kinematografski, merilni, signalizacijski in kontrolni (nadzorni) aparati ter instrumenti; Aparati za snemanje, prenos, reprodukcijo zvoka, slik in podatkov; Magnetni nosilci podatkov; Oprema in računalniki za procesiranje podatkov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Fotografiska och kinematografiska apparater och instrument samt apparater och instrument för mätning, signalering och kontroll (övervakning); Apparater för inspelning, utsändning, återgivning av ljud, bilder och data; Magnetiska datamedia; Databehandlingsutrustningar och datorer.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080408</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10707</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

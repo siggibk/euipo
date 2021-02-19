@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-05T10:55:59</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222907</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222907</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<ApplicationLanguageCode>sv</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-27</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>APTUS</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>6</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Железария, Включително ключове, заготовки за ключове, патрони, Затварящи пластини, Приспособления, Пружини за врати [неелектрически], Метални панти, Различни видове дръжки за врата, изработени от метал или главно от метал; Малки железарски предмети.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zámečnictví, Také včetně klíčů a surových klíčů, cylindrických vložek, Tepané desky, Kování, Dveřní uzávěry, s výjimkou elektrických, Kovové závěsy (panty), Klik a západek vyrobených z kovu nebo převážně z kovu; Drobné železářské zboží.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kleinsmedearbejder, Også omfattende nøgler og råemner til nøgler, låsecylindre, Låseblik, Beslag, Dørfjedre, ikke-elektriske, Hængsler af metal, Håndtag og dørgreb af metal eller overvejende af metal; Små metalgenstande.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schlosserwaren, Auch einschließlich Schlüssel und Schlüsselrohlinge, Schließzylinder, Schließbleche, Beschläge, Türschließer [nicht elektrisch], Scharniere aus Metall, Handgriffe und Drücker aus Metall oder überwiegend aus Metall; Kleineisenwaren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σιδηροπωλείου, Όπου περιλαμβάνονται επίσης κλειδιά και άκοπα κλειδιά, κύλινδροι ασφάλισης, Υποδοχείς σύρτη, Εξαρτήματα, Μη ηλεκτρικοί μηχανισμοί για το κλείσιμο θυρών, Μεντεσέδες μεταλλικοί, Χειρολαβές και μάνδαλα μεταλλικά ή κυρίως από μέταλλο· Μικρά είδη σιδηροπωλείου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Articles made by locksmiths, Including keys and key blanks, lock cylinders, Striking plates, Fittings, Door closers, non-electric, Hinges of metal, Handles and latches of metal or mainly of metal; Small items of metal hardware.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cerrajería, Incluyendo también llaves metálicas y llaves ciegas, bombines de cerraduras, Placas de cerradura, Herrajes, Cierres de puerta no eléctricos, Bisagras metálicas, Mangos y botones de metal o principalmente de metal; Pequeños artículos de ferretería metálica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Peenrauakaup, Sh võtmed ja võtmetoorikud, lukusilindrid, Lukuvastused, Tarvikud, Uksevedrud (Mitteelektrilised), Metallist hinged, liigendid, šarniirid, Metallist või peamiselt metallist lingid ja uksenupud; Rauakaubad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Rautatavarat, Mukaan lukien myös avaimet ja avainaihiot, lukkosylinteri, Vastalevyt, Helat, Ovijouset [ei-sähkökäyttöiset], Metallisaranat, Kädensijat ja kahvat metallista tai pääosin metallista; Pienet metallitavarat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Quincaillerie, Y compris clés et ébauches de clés, barillets, Gâches, Raccords, Ferme-porte non électriques, Charnières métalliques, Poignées et loquets métalliques ou principalement métalliques; Petite quincaillerie métallique.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kopče, Također uključujući ključeve i neobrađene ključeve, cilindre ključanica, Ploče, Okovi, Zatvarači vrata (neelektrični zatvarači vrata), Metalne šarke, Ručke i otisci od metala ili uglavnom od metala; Mali artikli željezarije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Lakatosáru, Köztük kulcsok, kulcsok alapanyagai, zárhengerek, Zárszekrények, Vasalatok, Ajtócsukó készülékek, nem elektromos, Csuklópántok fémből, Fémből vagy főként fémből készült fogantyúk és kilincsek; Kisméretű fémáru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Ferramenta, Compresi anche le chiavi e gli sbozzi di chiavi, cilindri di serrature, Piastre di battuta, Guarnizioni, Chiusure per porte non elettriche, Cerniere metalliche, Maniglie e chiusure di metallo o principalmente di metallo; Piccoli articoli di chincaglieria metallica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Smulkieji geležies dirbiniai, Taip pat įskaitant raktus ir raktų ruošinius, užrakinimo cilindrus, Spynų liežuvėliai, Furnitūra, Durų strektės [ne elektrinės], Metalinės kilpos, Laikikliai ir spaustukai iš ar daugiausia iš metalo; Smulkūs metalo dirbiniai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Būvapkalumi, Tai skaitā, atslēgas un atslēgu sagataves, slēdzeņu cilindri, Spilgtas plātnes, Apšuvumi, Neelektriskas durvju atsperes, Metāla eņģes, Rokturi, kas izgatavoti pilnībā vai galvenokārt no metāla; Sīki izstrādājumi no metāla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ħwejjeġ tal-metall għall-użu fid-dar u simili, Inklużi wkoll ċwievet u bjanki ta' ċwievet, ċilindri tal-illokkjar, Striking plates, Fittings, Molol għall-bibien, mhux elettriċi, Ċappetti tal-metall, Pumi u lukketti tal-metall jew primarjament tal-metall; Oġġetti żgħar ta' għodda tal-metall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Slotenmakerwaren, Waaronder sleutels en blinde sleutels, slotcilinders, Schootplaten, Beslag, Deursluiters, niet elektrisch, Scharnieren van metaal, Handgrepen en deurkrukken van metaal of voornamelijk van metaal; Kleine ijzerwaren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Wyroby ślusarskie, Także klucze i półfabrykaty kluczy, cylindry zamkowe, Blaszki gniazdkowe, Okucia, Zamknięcia drzwiowe [nieelektryczne], Zawiasy metalowe, Uchwyty i nadruki wykonane z metalu lub głównie z metalu; Metalowe drobne wyroby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serralharia, Incluindo chaves e moldes para chaves, cilindros de fechaduras, Placas de impacto, Ferragens, Fecha-portas, não elétricos, Dobradiças [charneiras] metálicas, Puxadores e maçanetas em metal ou principalmente em metal; Artigos pequenos de hardware metálico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Articole de lăcătuşerie, Inclusiv chei și chei brute, cilindri pentru încuietori, Table de inchidere, Articole de feronerie, Dispozitive de închidere pentru uşi [neelectrice], Şarniere metalice, Mânere și clanțe din metal sau în principal din metal; Mici articole de fierărie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Železiarsky tovar, Aj vrátane kľúčov a kľúčových polotovarov, valcových vložiek zámkov, Zapadacie plechy kovania dverí, Kovania, Zatvárače dverí s výnimkou elektrických, Kovové pánty, závesy, Rukoväte a kľučky z kovu alebo predovšetkým z kovu; Drobné železiarske predmety z kovu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Železnina, Vključno ključi in samostojni ključi, cilindri za ključavnice, Udarne ploščice, Spoji, Zapirala za vrata (neelektrična), Kovinski tečaji, Ročaji in zapahi iz kovine ali predvsem iz kovine; Drobni železni izdelki (železnina).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Låsvaror, även innefattande nycklar och nyckelämnen, låscylindar, slutbleck, beslag, dörrstängare (ej elektriska), gångjärn av metall, handtag och trycken av metall eller huvudsakligen av metall; små föremål av metall.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Системи за контрол на достъп под формата на системи за управление на електронни брави чрез кодове, Електронни ключодържатели или Други носители на идентификация; Домофонни устройства; Системи за резервации под формата на електронна колективна система за резервации и за контрол на достъп до помещения и оборудване; Комуникационни системи под формата на системи за двупосочна комуникация между собственици и ползватели на недвижими имоти; Електронни брави; Системи за измерване на енергия, а именно софтуер и хардуер за събиране и визуализиране на данни от измерена енергия, вода или други подобни от помещения, апартаменти и перални помещения; Софтуер.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vstupní systémy v podobě systémů pro ovládání elektronických zámků pomocí kódů, Elektronické řetízky na klíče nebo Jiných nosičů identifikačních dat; Soupravy domácího telefonu; Rezervační systémy v podobě elektronických kolektivních systémů určených k rezervaci času, jakož i ke kontrole přístupu do prostor a k zařízením; Komunikační systémy v podobě systémů určených k obousměrné komunikaci mezi majitelem nemovitosti a uživatelem; Elektronické zámky; Systémy určené k měření energií, jmenovitě počítačový software a hardware určený pro sběr a vizualizaci naměřených údajů spotřeby energie, vody a podobně v prostorách, bytech a prádelnách; Počítačový software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Adgangssystemer i form af systemer til styring af elektroniske låse ved hjælp af koder, Elektroniske nøgleringe eller Andre identifikationsmidler; Hustelefonsæt; Bookingsystemer i form af elektroniske kollektive systemer til at reservere tid samt kontrollere adgangen til lokaler og udstyr; Kommunikationssystemer i form af systemer til tovejskommunikation mellem ejere og brugere af ejendomme; Elektroniske låse; Energimålingssystemer, nemlig software og hardware til indsamling og visualisering af måledata vedrørende energi, vand eller lignende fra lokaler, lejligheder og vaskerier; Software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Zugangssysteme in Form von Steuerungssystemen für elektronische Schlösser mithilfe von Codes, Elektronische Schlüsselanhänger oder Andere Identifikationsträger; Sätze für Wechselsprechapparate; Buchungssysteme in Form eines elektronischen kollektiven Systems für die Terminierung und Kontrolle von Zugängen zu Räumlichkeiten und Geräten; Kommunikationssysteme in Form von Zweiwege-Kommunikationssystemen zwischen Eigentümern und Nutzern von Immobilien; Elektrische Schlösser; Energiemesssysteme, nämlich Software und Hardware für die Erfassung und Visualisierung von Messdaten über Energie, Wasser oder Ähnliches von Räumlichkeiten, Wohnungen und Waschräumen; Software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συστήματα διέλευσης με τη μορφή συστημάτων για τον έλεγχο ηλεκτρονικών κλειδαριών με τη βοήθεια κωδικών, Ηλεκτρονικά κλειδιά ή Άλλοι φορείς ταυτοποίησης· Σετ θυροτηλεφώνων· Συστήματα κράτησης με τη μορφή ηλεκτρονικών συλλογικών συστημάτων για το κλείσιμο ραντεβού και τον έλεγχο της πρόσβασης σε χώρους και εξοπλισμό· Συστήματα επικοινωνίας με τη μορφή συστημάτων για αμφίδρομη επικοινωνία μεταξύ ιδιοκτητών και χρηστών ακινήτων· Κλειδαριές ηλεκτρονικές· Συστήματα μέτρησης ενέργειας, συγκεκριμένα λογισμικό και υλικό για τη συλλογή και οπτικοποίηση δεδομένων μέτρησης ενέργειας, νερού ή παρόμοιων μετρήσεων σε χώρους, διαμερίσματα και πλυντήρια για το κοινό· Λογισμικό.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Access systems in the form of systems for operating electronic locks using codes, electronic key fobs or Other identification carriers; Entry phone sets; Booking systems in the form of electronic, collective systems for booking an appointment and checking access to facilities and equipment; Communications systems being systems for two-way communication between property owners and users; Electronic locks; Energy measurement systems, namely computer software and hardware for collecting and visualising measurement data of energy, water or similar from premises, flats and laundry rooms; Software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Sistemas de acceso en forma de sistemas para el control de cerraduras electrónicas mediante códigos, Leontinas para llaves electrónicas o Otros medios de identificación; Sistemas de interfonos domésticos; Sistemas de reserva en forma de sistema colectivo electrónico para reservar turnos y controlar el acceso a locales y equipos; Sistemas de comunicación en forma de sistemas de comunicación bidireccional entre propietarios y usuarios; Cerraduras electrónicas; Sistemas de medición de energía, en concreto, software y hardware para la recopilación y visualización de datos de medición de energía, agua o similares en locales, pisos y lavanderías; Software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Läbipääsusüsteemid elektrooniliste lukkude koodjuhtimise süsteemidena, Elektroonilised võtmehoidjad või Muud tuvastusvahendid; Uksetelefonikomplektid; Reserveerimissüsteemid aja reserveerimise ning rajatistele ja seadmetele juurdepääsu kontrollimise elektrooniliste kollektiivsüsteemidena; Sidesüsteemid süsteemidena, mis võimaldavad kinnisvara omaniku ja kasutaja mõlemapoolset suhtlust; Elektroonilised lukud; Energiamõõtesüsteemid, nimelt energia, vee või muu sarnase mõõteandmete ruumidest, korteritest ja pesumasinaruumidest kogumise ja visualiseerimise arvutitarkvara ja arvutiriistvara; Arvutitarkvara.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kulkujärjestelmät sellaisten elektronisten järjestelmien muodossa, jotka on tarkoitettu elektronisten lukkojen ohjaukseen koodien avulla, Elektroniset avaimenperät tai Muut tunnistusvälineet; Sisäpuhelinsarjat; Kirjausjärjestelmät elektronisten kollektiivisten järjestelmien muodossa ajan varaamiseen sekä tilojen ja laitteiden käytön valvontaa; Viestintäjärjestelmät järjestelmien muodossa kaksisuuntaiseen viestintään kiinteistönomistajien ja -käyttäjien välillä; Elektroniset lukot; Energiansyöttöjärjestelmät, nimittäin ohjelmistot ja laitteistot huoneistojen, asuntojen ja pesuloiden energian, veden tai vastaavien syöttödatan kokoamiseen ja visualisointiin; Ohjelmistot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Systèmes de passage sous forme de systèmes pour la commande de serrures électroniques avec l'aide de codes, Porte-clés électroniques ou Autres supports d'identification; Interphones; Systèmes de réservation sous forme de systèmes collectifs électroniques pour la réservation de temps et le contrôle d'accès à des locaux et équipements; Systèmes de communication sous forme de systèmes de communication bidirectionnels entre des propriétaires immobiliers et des utilisateurs; Cadenas électroniques; Systèmes de mesure de l'énergie, à savoir logiciels et matériel informatique pour la collecte et la visualisation de données de mesure de l'énergie, de l'eau ou similaires de locaux, appartements et blanchisseries; Logiciel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Sustav prolaska u obliku sustava za upravljanje elektroničkim bravama pomoću kodova, Elektronski uređaji za otključavanje i zaključavanje ili Drugi nosači identifikacija; Interfoni; Sustav rezervacija u obliku elektroničkog kolektivnog sustava za rezervaciju vremena i kontrolu pristupa prostorijama i opremi; Komunikacijski sustav u obliku sustava za dvosmjernu komunikaciju između vlasnika nekretnine i korisnika; Elektroničke brave; Sustav za mjerenje energije, i to softver i hardver za prikupljanje i vizualizaciju podataka o mjerenju energije, vode ili sličnog iz prostorija, stanova i praonica rublja; Softver.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Beléptetőrendszerek elektronikus záraknak a következők segítségével való vezérlésére szolgáló rendszerek formájában: kódok, Elektronikus kulcstartófityegők vagy Más azonosítók; Domofon összeállítások; Foglalási rendszerek idő foglalására és helyiségekhez és felszerelésekhez való hozzáférés ellenőrzésére alkalmas elektronikus közösségi rendszerek formájában; Kommunikációs rendszerek ingatlantulajdonosok és felhasználók közötti kétirányú kommunikációra alkalmas rendszerek formájában; Elektronikus zárak; Energiamérési rendszerek, nevezetesen energiát, vizet vagy hasonlókat illető, helyiségekből, lakásokból vagy mosókonyhákból származó mérési adatok gyűjtésére és vizualizálására alkalmas szoftverek és hardverek; Szoftverek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Sistemi di accesso sotto forma di sistemi per il comando di serrature elettroniche mediante codici, Portachiavi elettronici o Altri vettori di identificazione; Kit di citofoni; Sistemi di prenotazione sotto forma di sistemi elettronici e collettivi per prenotare un appuntamento e controllare l'accesso alle strutture e alle attrezzature; Sistemi di comunicazione sotto forma di sistemi per la comunicazione bidirezionale tra proprietari e utenti; Serrature elettroniche; Sistemi di misura dell'energia, ovvero software e hardware per raccogliere e visualizzare i dati di misura dell'energia, dell'acqua o simili da locali, appartamenti e lavanderie; Software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Praėjimo sistemos, būtent elektroninių spynų valdymo kodais sistemos, Elektroniniai raktų pakabukai ar Kitomis atpažinimo priemonėmis; Domofonų komplektai; Rezervavimo sistemos, būtent elektroninės kolektyvinės sistemos, skirtos rezervuoti laiką bei kontroliuoti įeigą į patalpas ir prieigą prie įrangos; Ryšio sistemos, būtent sistemos dvipusiam ryšiui tarp turto savininkų ir naudotojų užtikrinti; Elektroninės spynos; Energijos matavimo sistemos, būtent programinė ir aparatinė įranga energijos, vandens ar panašios energijos matavimų duomenims iš patalpų, butų ir skalbyklų rinkti ir vizualizuoti; Programinė įranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Piekļuves sistēma elektronisko slēdzeņu pārvaldības sistēmas veidā, izmantojot kodus, Elektronisko atslēgu kabatiņas vai Citi datu nesēji; Iekšējo telefonu komplekti; Rezervēšanas sistēma elektroniskas kolektīvās sistēmas veidā laika rezervēšanai un piekļuves kontrolei telpām un aprīkojumam; Saziņas sistēmas, kas nodrošina divpusēju komunikāciju starp nekustamo īpašumu īpašniekiem un lietotājiem; Elektroniskās slēdzenes; Enerģijas mērīšanas sistēmas, proti, programmatūra un aparatūra, enerģijas, ūdens vai tamlīdzīgu mērījumu datu apkopošanai no telpām, dzīvokļiem un veļas mazgāšanas telpām un šo datu vizualizācija; Programmatūra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Sistemi ta' aċċess fil-forma ta' sistemi li joperaw serraturi elettroniċi bl-użu ta' kodiċi, Ornamenti taċ-ċwievet elettroniċi jew Ġarriera tal-identifikazzjoni oħra; Settijiet tal-interkom domestiċi; Sistemi ta' prenotazzjoni fil-forma ta' sistemi elettroniċi u kollettivi għall-prenotazzjoni ta' appuntamenti u kontroll tal-aċċess għall-faċilitajiet u tagħmir; Sistemi tal-komunikazzjoni fil-forma ta' sistemi għal komunikazzjoni b'żewġ direzzjonijiet bejn sidien tal-proprjetà u l-utenti; Serraturi elettriċi; Sistemi tal-kejl tal-enerġija, jiġifieri softwer u ħardwer tal-kompjuter għall-ġbir u l-viżwalizzazzjoni ta' data ta' kejl tal-enerġija, ilma jew simili minn bini, appartamenti u kmamar tal-londri; Softwer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Toegangssystemen in de vorm van systemen voor het bedienen van elektronische sloten met behulp van codes, Elektronische sleuteletuis of Andere identificatiedragers; Intercomsets; Boekingssystemen in de vorm van elektronische collectieve systemen voor het maken van afspraken alsmede voor het controleren van toegang tot ruimten en uitrusting; Communicatiesystemen in de vorm van systemen voor tweezijdige communicatie tussen vastgoedeigenaars en -gebruikers; Elektronische sloten; Energiemeetsystemen, te weten computersoftware en -hardware voor het verzamelen en visualiseren van meetgegevens van ruimten, appartementen en wasruimten met betrekking tot energie, water en dergelijke; Software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Systemy przejazdowe w postaci systemów sterowania zamkami elektronicznymi za pomocą kodów, Elektroniczne breloczki na klucze lub Inne nośniki danych; zestawy domofonowe; System rezerwacji w formie elektronicznego systemu zbiorowego, służący do rezerwacji czasu i kontroli dostępu do pomieszczeń i sprzętu; Systemy komunikacji w formie dwukierunkowej komunikacji między właścicielami nieruchomości a użytkownikami; Zamki elektroniczne; System pomiaru energii, mianowicie oprogramowanie i sprzęt do gromadzenia i wizualizacji danych pomiarowych dotyczących energii, wody lub podobnych z pomieszczeń, mieszkań i pralni; Oprogramowanie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Sistemas de passagem sob a forma de sistemas para controlo de fechaduras eletrónicas com auxílio de códigos, Porta-chaves eletrónicos ou Outros suportes de identificação; Sistemas de intercomunicação; Sistemas de reserva sob a forma de sistemas eletrónicos coletivos para reserva de horas e para controlo de acesso a locais e equipamentos; Sistemas de comunicação sob a forma de sistemas para comunicação bidirecional entre proprietários de imóveis e utilizadores; Fechaduras eletrónicas; Sistemas de medição de energia, especificamente software e hardware para recolha e visualização de dados de medição de energia, água ou similares de locais, apartamentos e áreas de lavandaria; Software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Sisteme de acces sub formă de sisteme pentru comanda încuietorilor electronice prin utilizarea de coduri, Brelocuri electronice sau Alte medii de identificare; Seturi de interfoane; Sistem de rezervări sub forma unui sistem electronic colectiv pentru rezervarea perioadelor și controlul accesului la spații și echipamente; Sisteme de comunicare cu comunicare bidirecțională între proprietarii imobilelor și utilizatori; Încuietori electronice; Sisteme de măsurare a energiei, respectiv software și hardware pentru colectarea și vizualizarea datelor de măsurare a energiei, a apei sau a altor consumuri similare referitoare la spații, apartamente și spălătorii; Software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vstupný systém v podobe riadenia elektronických zámkov s pomocou kódov, Elektronické kľúčenky alebo Iné identifikačné nosiče; Súpravy domácich telefónov; Rezervačný systém v podobe elektronického kolektívneho systému na rezervovanie, ako aj kontrolovanie prístupu do priestorov a zariadení; Komunikačný systém v podobe systému na dvojsmernú komunikáciu medzi vlastníkom nehnuteľnosti a používateľom; Elektronické zámky; Systém na meranie energie, menovite softvéry a hardvéry na zber a vizualizáciu nameraných dát energie, vody alebo podobného z priestorov, bytov a práčovní; Softvér.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Dostopni sistemi v obliki sistemov za nadzor elektronskih ključavnic z uporabo kod, Elektronski obeski za ključe ali Drugi nosilci identifikacij; Domofonski kompleti; Sistem rezervacij v obliki elektronskega kolektivnega sistema za shranjevanje časa in nadzor dostopa do prostorov in opreme; Komunikacijski sistemi v obliki sistema za dvosmerne komunikacije med lastniki nepremičnin in uporabniki; Elektronske ključavnice; Sistemi za merjenje energije, in sicer programska in strojna oprema za zbiranje in vizualizacijo merilnih podatkov energije, vode ali podobnega v lokalih, stanovanjih in pralnicah; Programska oprema.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Passagesystem i form av system för styrning av elektroniska lås med hjälp av koder, elektroniska nyckelbrickor eller andra indentifikationsbärare; porttelefoner; bokningssystem i form av elektroniskt kollektivt system för att reservera tid samt kontrollera tillträden till lokaler och utrustning; kommunikationssystem i form av system för dubbelriktad kommunikation mellan fastighetsägare och brukare; elektroniska lås; energimätningssystem nämligen mjukvaror och hårdvaror för insamling och visualisering av mätdata av energi, vatten eller liknande från lokaler, lägenheter och tvättstugor; programvaror.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хостинг, включително централизирано управление на множество бази данни и приложения за експлоатация и поддръжка на системи за контрол на достъп, контрол на достъп посредством гласова комуникация, системи за резервации, За комуникация, Заключващи системи и системи за измерване на енергия, както и съответния компютърен софтуер.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Hosting zahrnující centrální obsluhu vícera databází a aplikací pro provoz a údržbu vstupních systémů a telefonů, rezervačních systémů, Komunikační systémy, Zamykacích systémů a systémů určených k měření spotřeby energie, jakož i příslušející počítačový software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Hosting omfattende central styring af multiple databaser og applikationer til drift og vedligehold af adgangssystemer, dørtelefoner, bookingsystemer, Kommunikationssystemer, Låse- og energimålingssystemer samt tilhørende software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Hosting, einschließlich zentrale Verwaltung mehrerer Datenbanken und Anwendungen für Betrieb und Wartung von Zugangssystemen, Port-Telefonie, Buchungssystemen, Kommunikationssysteme, Schließ- und Energiemesssysteme sowie dazugehörende Software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φιλοξενία, όπου περιλαμβάνεται ο κεντρικός χειρισμός πολλαπλών βάσεων δεδομένων και εφαρμογών για τη λειτουργία και τη συντήρηση συστημάτων διέλευσης, θυροτηλεφώνων, συστημάτων κράτησης, Συστήματα επικοινωνίας, Συστήματα ασφάλισης και μέτρησης ενέργειας καθώς και σχετικό λογισμικό.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Hosting comprising central management of multiple databases and applications for the operation and maintenance of access systems, intercoms, booking systems, Communications systems, Lock and energy measurement systems and computer software relating thereto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de alojamiento web que incorporan la administración centralizada de múltiples bases de datos y aplicaciones para la operación y el mantenimiento de sistemas de acceso, interfonos, sistemas de reserva, Sistemas de comunicaciones, Sistemas de bloqueo y medición de energía, así como software asociado.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Hostimine, sh läbipääsusüsteemide, sisetelefonide, reserveerimissüsteemide käitamiseks ja hooldamiseks vajalike paljude andmebaaside ja rakenduste keskne haldamine, Sidesüsteemid, Luku- ja energiamõõtmissüsteemid ning nende tarkvara.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ylläpito, joka kattaa useiden tietokantojen ja sovellusten keskitetyn hallinnan kulkujärjestelmien, ovipuhelinten, kirjausjärjestelmien käytön ja huollon, Tietoliikennejärjestelmät, Lukko- ja energiansyöttöjärjestelmät sekä niihin kuuluvat ohjelmistot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Hébergement comprenant la gestion centralisée de plusieurs bases de données et applications pour la commande et l'entretien de systèmes d'accès, interphones, systèmes de réservation, De communication, Systèmes de serrure et de mesure de l'énergie, ainsi que leurs logiciels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Udomljavanje, uključujući središnje upravljanje za višestruke baze podataka i aplikacije za upravljanje i održavanje sustava pristupa, interfona, sustava rezervacija, Komunikacijski sustavi, Sustav za zaključavanje i mjerenje energije i pripadajući softver.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Hoszting, beleértve több, a következők működtetésére és karbantartására szolgáló adatbázis és alkalmazás központi kezelését: beléptetőrendszerek, kaputelefonok, foglalási rendszerek, Hírközlő rendszerek, Zárrendszerek és energiamérési rendszerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Hosting che comprende la gestione centralizzata di più banche dati e applicazioni per il funzionamento e la manutenzione dei sistemi di accesso, interfoni, sistemi di prenotazione, Sistemi di comunicazione, Sistemi di misurazione delle serrature e dell'energia e relativo software per computer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Priegloba, įskaitant kelių duomenų bazių ir taikomųjų programų, skirtų praėjimo sistemoms, durų telefonijai, rezervavimo sistemoms valdyti ir prižiūrėti, centralizuotą valdymą, Ryšių sistemos, Užrakinimo ir energijos matavimo sistemoms ir susijusiai programinei įrangai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mitināšana, tai skaitā dažādu datu bāzu un lietojumprogrammu centrālā pārvaldība saistībā ar piekļuves kontroles sistēmu, selektorsakaru sistēmu un rezervēšanas sistēmu darbību un uzturēšanu, Sakaru sistēmas, Slēgšanas un enerģijas mērīšanas sistēmas un ar tām saistītā programmatūra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ħosting li jikkonsisti fil-ġestjoni ċentrali ta' bażijiet ta' data u applikazzjonijiet multipli għall-operat u manutenzjoni ta' sistemi ta' aċċess, interkoms, sistemi ta' prenotazzjoni, Sistemi tal-komunikazzjoni, Sistemi tal-illokkjar u tal-kejl tal-enerġija u softwer tal-kompjuter relatat magħhom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Hosting, waaronder met betrekking tot het centrale beheer van meervoudige gegevensbanken en applicaties voor het beheren en onderhouden van toegangssystemen, intercomtelefonie, boekingssystemen, Communicatiesystemen, Sluit- en energiemeetsystemen en bijbehorende computersoftware.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Hosting, w tym centralne zarządzanie wieloma bazami danych i aplikacjami do obsługi i konserwacji systemów dostępu, telefonii portowej, systemów rezerwacji, Systemy komunikacyjne, System pomiaru blokad i energii oraz powiązane oprogramowanie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Alojamento com gestão centralizada de múltiplas bases de dados e aplicações para operação e manutenção de sistemas de passagem, intercomunicadores e sistemas de reserva, Sistemas de comunicação, Sistemas de fecho e de medição de energia e software para os mesmos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Găzduire, inclusiv gestionarea centralizată a mai multor baze de date și aplicații pentru operarea și întreținerea sistemelor de acces, interfoanelor, sistemelor de rezervare, De comunicaţie, Sisteme de închidere și de măsurare a energiei și programe de calculator aferente.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Hosting vrátane centrálnej správy viacerých databáz a aplikácií na prevádzkovanie a údržbu vstupného systému, vchodového telefónu, rezervačného systému, Komunikačné systémy, Uzamykacie systémy a systémy na meranie energie, ako aj príslušné programy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Gostovanje, vključno s centralnim upravljanjem več baz podatkov in aplikacij za upravljanje in vzdrževanje dostopnih sistemov, prenosnih telefonov, rezervacijskih sistemov, Komunikacijski sistemi, Sistemi za merjenje zaklepanja in porabe energije ter dodatna programska oprema.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Hosting innefattande central hantering av multipla databaser och applikationer för drift och underhåll av passersystem, port-telefoni, bokningssystem, kommunikationssystem, lås- och energimätnings sys tern samt tillhörande programvaror.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>45</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Лицензиране на софтуер, включително платен лиценз за администриране и право на ползване на софтуер за системи за контрол на достъп, контрол на достъп посредством гласова комуникация, системи за резервации, комуникационни системи, заключващи системи и системи за измерване на енергия.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Licencování počítačového softwaru zahrnující zpoplatněné licence pro administrativu a uživatelská práva k počítačovému softwaru pro vstupní systémy, telefony, rezervační systémy, komunikační systémy, zamykací systémy a systémy určené k měření spotřeby energií.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Licenstildeling til software omfattende afgiftsbelagt licens vedrørende administration og brugsret til software til adgangssystemer, dørtelefoner, bookingsystemer, kommunikationssystemer, låse- og energimålingssystemer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Lizenzierung von Software, einschließlich gebührenpflichtige Lizenzen für Verwaltung und Nutzungsrechte von Software für Zugangssysteme, Port-Telefonie, Buchungssysteme, Kommunikationssysteme, Schließ- und Energiemesssysteme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εκχώρηση αδειών λογισμικού, όπου περιλαμβάνονται άδειες με τέλη για τη διαχείριση και το δικαίωμα εκμετάλλευσης λογισμικού για συστήματα διέλευσης, θυροτηλέφωνα, συστήματα κράτησης, συστήματα επικοινωνιών, συστήματα ασφάλισης και μέτρησης ενέργειας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Computer software licensing including license fees for administration and user rights relating to computer software for access systems, intercoms, booking systems, communications systems, lock and energy measurement systems.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Concesión de licencias de software, incluida la licencia pagada por la administración y el derecho de uso de software de sistemas de acceso, interfonos, sistemas de reserva, sistemas de comunicaciones, sistemas de bloqueo y medición de energía.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Arvutitarkvara litsentsimine, sh läbipääsusüsteemide, sisetelefonide, reserveerimissüsteemide, sidesüsteemide, luku- ja energiamõõtesüsteemide arvutitarkvara haldamise ja kasutusõiguse tasulised litsentsid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ohjelmistojen lisensointi, mukaan lukien maksulliset lisenssit sellaisten ohjelmistojen hallinnointiin ja käyttöoikeuksiin, jotka on tarkoitettu kulkujärjestelmiä, ovipuhelimia, kirjausjärjestelmiä, viestintäjärjestelmiä, lukko- ja energiansyöttöjärjestelmiä varten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Octroi de licences de logiciels comprenant des licences payantes pour l'administration et droits d'utilisation de logiciels pour systèmes d'accès, interphones, systèmes de réservation, systèmes de communication, systèmes de serrure et de mesure de l'énergie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Licenciranje softvera uključujući naknadu za licencu za upravljanje i najam softvera za sustav pristupa, interfona, sustava rezervacija, komunikacijskog sustava, sustava za zaključavanje i mjerenje energije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szoftverek licencelése, beleértve a következőkhöz használatos szoftverek adminisztrációjára és használati jogára szóló díjköteles licenceket: beléptetőrendszerek, kaputelefonok, foglalási rendszerek, kommunikációs rendszerek, zárrendszerek és energiamérési rendszerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Licenze di software per computer, compresi i diritti di licenza per l'amministrazione e l'usufrutto di software per computer per sistemi di accesso, interfoni, sistemi di prenotazione, sistemi di comunicazione, sistemi di misurazione delle serrature e dell'energia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Programinės įrangos licencijavimas, įskaitant apmokestinamą licenciją, skirtą praėjimo sistemų, durų telefonijos, rezervavimo sistemų, ryšio sistemų, užrakinimo ir energijos matavimo sistemų programinei įrangai administruoti ir naudojimosi ja teisei užtikrinti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Programmatūras licencēšana, tai skaitā piekļuves kontroles sistēmu, selektorsakaru sistēmu un rezervēšanas sistēmu, saziņas sistēmu, slēgšanas un enerģijas mērīšanas sistēmu administrēšanas un lietošanas maksas licencēšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Liċenzjar ta' softwer tal-kompjuter, inklużi tariffi għal-liċenzji għall-amministrazzjoni u użufrutt ta' softwer tal-kompjuter għal sistemi ta' aċċess, interkoms, sistemi ta' prenotazzjoni, sistemi tal-komunikazzjoni, sistemi tal-illokkjar u tal-kejl tal-enerġija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Licentieverlening met betrekking tot computersoftware, waaronder licenties tegen vergoeding met betrekking tot administratie en gebruiksrechten van computersoftware voor toegangssystemen, intercomtelefonie, boekingssystemen, communicatiesystemen, sluit- en energiemeetsystemen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Licencjonowanie oprogramowania, w tym płatna licencja na administrację i prawo użytkowania dotyczące oprogramowania do kontroli dostępu, domofonów, systemu rezerwacji, systemu komunikacji, systemu pomiaru blokad i energii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Licenciamento de software com licenças pagas para administração e direito de utilização de software para sistemas de passagem, intercomunicadores, sistemas de reserva, sistemas de comunicação e sistemas de fecho e de medição de energia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Licențiere de software de calculator, inclusiv licențe bazate pe plata unei taxe pentru administrarea și dreptul de utilizare a software-ului pentru sisteme de acces, interfoane, sisteme de rezervare, sisteme de comunicații, sisteme de închidere și de măsurare a energiei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Licencie softvérov vrátane spoplatnených licencií na administráciu a užívateľské právo softvérov pre vstupné systémy, vchodové telefóny, rezervačné systémy, komunikačné systémy, uzamykacie systémy a systémy na meranie energie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Licenciranje programske opreme, vključno z licenco na osnovi plačila za administracijo in pravico uporabe programske opreme za dostopne sisteme, prenosne telefone, sisteme rezervacij, komunikacijske sisteme, sisteme za zaklepanje in merjenje energije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Licensiering av programvaror innefattande avgiftsbelagd licens för administration och nyttjanderätt av programvaror för passersystem, porttelefoni, bokningssystem, kommunikationssystem, lås-och energimätningssystem.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/079</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>53825</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11332</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003126847</OppositionIdentifier>
+<OppositionDate>2020-07-28</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Art. 8(4)
+Likelihood of confusion
+Unfair advantage /detriment to distinctiveness or repute</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>011452711</ApplicationNumber>
+<ApplicationDate>2012-12-24</ApplicationDate>
+<RegistrationNumber>011452711</RegistrationNumber>
+<RegistrationDate>2013-06-23</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>ABUS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>011452711</ApplicationNumber>
+<ApplicationDate>2012-12-24</ApplicationDate>
+<RegistrationNumber>011452711</RegistrationNumber>
+<RegistrationDate>2013-06-23</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>ABUS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>018047969</ApplicationNumber>
+<ApplicationDate>2019-04-05</ApplicationDate>
+<RegistrationNumber>018047969</RegistrationNumber>
+<RegistrationDate>2019-11-23</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>ABUS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>018047969</ApplicationNumber>
+<ApplicationDate>2019-04-05</ApplicationDate>
+<RegistrationNumber>018047969</RegistrationNumber>
+<RegistrationDate>2019-11-23</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>ABUS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>13294</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11063</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+<Opposition>
+<OppositionIdentifier>003126867</OppositionIdentifier>
+<OppositionDate>2020-07-27</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>007414865</ApplicationNumber>
+<ApplicationDate>2008-11-24</ApplicationDate>
+<RegistrationNumber>007414865</RegistrationNumber>
+<RegistrationDate>2009-11-11</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>APTUS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>1003181</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11378</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

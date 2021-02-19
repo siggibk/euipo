@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:34:33</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226161</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226161</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Sani-Car abc 19</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162310586</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226161/000162310586.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.05.25</CategoryCode>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.04</CategoryCode>
+          <CategoryCode>26.04.06</CategoryCode>
+          <CategoryCode>26.04.07</CategoryCode>
+          <CategoryCode>26.04.17</CategoryCode>
+          <CategoryCode>26.04.22</CategoryCode>
+          <CategoryCode>26.04.98</CategoryCode>
+          <CategoryCode>29.01.04</CategoryCode>
+          <CategoryCode>29.01.96</CategoryCode>
+          <CategoryCode>29.01.98</CategoryCode>
+          <CategoryCode>29.01.99</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Препарати за изглаждане или полиране; Почистващи и ароматизиращи препарати; Почистващи препарати за превозни средства; Карнаубски восък за автомобилна употреба; Вакса за кола със защитно покритие от боя; Вакса за коли; Автомобилна вакса; Шампоани за превозни средства; Шампоани за автомобили; Детергенти за автомобили; Почистващи течности за предно стъкло на транспортни средства; Почистващи средства за автомобили; Гланц за гуми на превозни средства; Полиращи препарати за автомобили.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Brousicí přípravky; Čistící prostředky a vonné přípravky; Čistící prostředky pro vozidla; Karnaubský vosk na automobily; Autovosk s tmelícím nátěrem; Automobilové vosky; Vosky na automobily; Automobilové šampony; Autošampony; Čisticí prostředky na automobily; Kapaliny na čištění čelních skel vozidel; Přípravky na čištění automobilů; Leštidla na pneumatiky vozidel; Přípravky na leštění automobilů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Slibemidler; Rengørings- og duftpræparater; Præparater til rengøring af køretøjer; Karnaubavoks til automobiler; Bilvoks med lakforsegler; Bilvoks; Bilvoks; Shampoo til køretøjer; Bilshampooer; Detergenter til biler; Rensevæsker til forruder; Rengøringsmidler til biler; Poleremidler til dæk til befordringsmidler; Poleremidler til biler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schleifstoffe; Reinigungs- und Duftpräparate; Fahrzeugreinigungsmittel; Karnaubawachs zum Polieren von Autos; Autowachs mit Lackversiegelungskomponente; Autowachs; Autowachs; Shampoos zum Reinigen von Fahrzeugen; Autoshampoos; Waschmittel für Kraftfahrzeuge; Reinigungsflüssigkeit für Windschutzscheiben; Autowaschmittel; Polituren für Fahrzeugreifen; Autopolituren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Προϊόντα για απόξεση/λείανση· Καθαριστικά και αρωματικά παρασκευάσματα· Παρασκευάσματα καθαρισμού οχημάτων· Καρναουβικός κηρός για χρήση σε αυτοκίνητα· Κερί για αυτοκίνητα με σταθεροποιητικό βαφής· Κερί για τη στίλβωση αυτοκινήτων· Στιλβωτικό κερί για αυτοκίνητα· Σαμπουάν για πλύσιμο οχημάτων· Σαμπουάν αυτοκινήτου· Απορρυπαντικά για αυτοκίνητα· Υγρά καθαρισμού υαλοπινάκων· Μέσα καθαρισμού αυτοκινήτων· Στιλβωτικό για ελαστικά οχημάτων· Προϊόντα στίλβωσης αυτοκινήτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Abrasives; Cleaning and fragrancing preparations; Vehicle cleaning preparations; Carnauba wax for automotive use; Car wax with a paint sealant; Car wax; Automobile wax; Shampoos for vehicles; Car shampoos; Detergents for automobiles; Windscreen cleaning liquids; Automobile cleaners; Vehicle tyre polish; Automobile polishes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Abrasivos; Preparaciones para limpiar y aromatizar; Preparaciones para la limpieza de vehiculos; Cera de carnauba para su uso en automoción; Cera para automóviles con selladores de pintura; Cera para coches; Ceras para el automóvil; Champú para vehículos; Champús para automóviles; Detergentes para automóviles; Líquidos limpiaparabrisas; Preparaciones para limpiar automóviles; Pulidores de neumáticos de vehículos; Pulimentos para automóviles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Abrasiivid; Puhastus- ja lõhnastusained; Sõidukite puhastusained; Karnaubavaha autohoolduseks; Värvikinnitit sisaldav autovaha; Autovaha; Autovaha; Sõidukišampoonid; Autošampoonid; Autopesuained; Tuuleklaasi puhastusvedelikud; Autopuhastusvahendid; Sõidukirehvide poleerained; Autopoleerimisained.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Hankausvalmisteet; Puhdistus- ja raikastusvalmisteet; Ajoneuvojen puhdistusvalmisteet; Karnaubavaha käytettäväksi autoissa; Maalintiivisteainetta sisältävät autovahat; Autovahat; Autovaha; Shampoot ajoneuvoja varten; Autoshampoot; Autojen pesuaineet; Tuulilasinpesunesteet; Autojen puhdistusvalmisteet; Rengaskiilloke ajoneuvoja varten; Autonkiillotusaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Abrasifs; Préparations nettoyantes et parfumantes; Préparations pour nettoyer les véhicules; Cire de carnauba destinée à l'industrie automobile; Cires pour automobiles avec mastic pour peinture; Cire de carrosserie; Cires pour véhicules automobiles; Shampooings pour véhicules; Shampooings pour voitures; Détergents pour automobiles; Liquides pour lave-glaces; Préparations nettoyantes pour automobiles; Vernis pour pneus de véhicule; Produits pour polir les voitures.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Strugači; Pripravci za čišćenje i osvježivanje prostora; Pripravci za čišćenje vozila; Carnauba vosak za uporabu na vozilima; Vosak za automobile s nepropusnom bojom; Vosak za automobil; Vosak za automobile; Šamponi za vozila; Šamponi za pranje automobila; Deterdženti za automobile; Stakla (tekućine za pranje stakala); Pripravci za čišćenje automobila; Laštilo za gume vozila; Automobilska laštila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Dörzsölő szerek; Tisztító és illatosító készítmények; Járműtisztitó készítmények; Gépjárművekhez használt karnauba viasz; Autóviasz festékszigetelővel; Autóviasz; Gépjármű viasz; Járműsamponok; Autósamponok; Mosószerek gépjárművekhez; Szélvédő tisztító folyadékok; Tisztítószerek gépjárművekhez; Járműabroncs-polírozó; Gépjármű polírozó szerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Abrasivi; Preparati per pulire e profumare; Prodotti per la pulizia dei veicoli; Cera di carnauba per uso automobilistico; Cera per automobili con sigillante per vernice; Cera per automobili; Cera per automobili; Shampoo per veicoli; Shampoo per automobili; Detersivi per automobili; Liquidi per lavacristalli; Prodotti per la pulizia dell'automobile; Lucido per pneumatici di veicoli; Lucidante per automobile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Švitrai; Valymo ir kvėpinimo preparatai; Transporto priemonių valymo preparatai; Karnaubo vaškas automobilių priežiūros reikmėms; Automobilių vaškas su dažų sandarinimo glaistu; Automobilių vaškas; Automobilių vaškas; Transporto priemonių šampūnai; Automobilių šampūnai; Automobilių plovikliai; Automobilių priekinių stiklų valymo skysčiai; Automobilių valymo preparatai; Transporto priemonių šveitimo preparatai; Automobilių poliravimo preparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Abrazīvie līdzekļi un materiāli; Tīrīšanas un aromatizēšanas līdzekļi; Transportlīdzekļu tīrīšanas līdzekļi; Karnauba vasks automobiļiem; Automašīnu vasks ar krāsu blīvējumu; Vaski automašīnām; Automobiļu vasks; Transportlīdzekļu šampūni; Automobiļu šampūni; Detergenti automobiļu mazgāšanai; Vējstiklu tīrīšanas šķidrumi; Automobiļu tīrīšanas līdzekļi; Transportlīdzekļu riepu spodrināšanas līdzekļi; Automobiļu pulēšanas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preparazzjonijiet għal brix bi frizzjoni; Preparazzjonijiet għat-tindif u għal riħa tfuħ; Prodotti tat-tindif għall-vetturi awtomotivi; Xama' tal-karnawba għall-karozzi; Xama' għall-karozzi b'siġillant taż-żebgħa; Xama' tal-karozzi; Xama' tal-karozzi; Xampus għall-użu fuq vetturi; Xampu tal-karozzi; Diterġenti għall-awtomobbli; Likwidi li jnaddfu l-ħġieġa ta' quddiem tal-vetturi; Prodotti għat-tindif tal-karozza; Lostru tat-tajers tal-vetturi; Lostru għal karozzi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Schuurmiddelen; Reinigingsproducten en geurproducten; Reinigingsproducten voor voertuigen; Carnaubawas voor gebruik op auto's; Autowas met een lakverzegeling; Autowas; Automobielwas; Shampoo voor voertuigen; Autoshampoo; Wasmiddelen voor automobielen; Ruitenwisservloeistoffen; Reinigingsmiddelen voor automobielen; Poetsmiddel voor voertuigbanden; Poetsmiddelen voor auto's.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Środki ścierne i polerskie; Preparaty do czyszczenia i odświeżania; Środki do czyszczenia pojazdów; Wosk karnauba do samochodów; Wosk do karoserii samochodów ze szczeliwem do farb; Woski samochodowe; Wosk samochodowy; Szampony do pojazdów; Szampony do mycia samochodów; Detergenty do samochodów; Płyny do czyszczenia przedniej szyby samochodowej; Preparaty czyszczące do samochodów; Środki do polerowania opon pojazdów; Środki do polerowania samochodów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Abrasivos; Produtos para limpar e perfumar; Produtos de limpeza para veículos; Cera de carnaúba para automóveis; Ceras para automóveis com um vedante para tintas; Cera para automóveis; Ceras para automóveis; Champôs para veículos; Champôs para automóveis; Detergentes para automóveis; Líquidos para lava-vidros de para-brisas; Produtos de limpeza para automóveis; Produtos para dar brilho a pneus de veículos; Preparações para polir automóveis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Abrazivi; Preparate pentru curățare și odorizante; Produse de curățare pentru vehicule; Ceară de carnauba pentru industria automobilelor; Ceară auto cu vopsea de etanșare; Ceară pentru mașină; Ceară auto; Șampon pentru vehicule; Soluții (șampoane) pentru curățarea mașinilor; Detergenți pentru curățarea automobilelor; Parbrize (lichide pentru spălarea -lor); Soluții de ștergere, întreținere și curățare a mașinilor; Produse pentru lustruirea anvelopelor de vehicule; Produse pentru lustruirea automobilelor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Brúsivá; Čistiace a vonné prípravky; Čistiace prípravky na vozidlá; Karnaubský vosk na použitie v automobiloch; Vosk na auto obsahujúci tmel; Vosk na auto; Vosk pre automobily; Šampóny pre vozidlá; Šampóny pre automobily; Čistiace prípravky na čistenie povrchov automobilov; Čistiace prípravky na okná automobilov; Čistiace prípravky na automobily; Leštiace prípravky na pneumatiky vozidiel; Prípravky na leštenie automobilov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Abrazivi; Preparati za čiščenje in odišavljanje; Pripravki za čiščenje vozil; Karnavbov vosek za avtomobile; Vosek za avtomobile s tesnilnim sredstvom za barve; Vosek za avtomobile; Vosek za avtomobile; Šamponi za vozila; Šamponi za pranje avtomobilov; Detergenti za avtomobile; Tekočine za čiščenje vetrobranskih stekel; Pripravki za čiščenje avtomobilov; Loščila za pnevmatike vozil; Loščila za avtomobile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Slipmedel; Rengöringsmedel och välluktande preparat; Preparat för rengöring av fordon; Karnaubavax för användning på bilar; Bilvax med lackförsegling; Vax för bilar; Bilvax; Schampo för fordon; Bilschampon; Tvättmedel för bilar; Spolarvätskor; Rengöringsmedel för bilar; Polermedel för fordonsdäck; Bilpolermedel.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/078</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080390</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>40345</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

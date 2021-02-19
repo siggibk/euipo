@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-17T23:01:03</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222717</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222717</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="6">Application under examination</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-04-08</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>DualHook</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>6</ClassNumber>
+   <GoodsServicesDescription languageCode="de">Kleineisenwaren, einschließlich Schlauchklemmen, Schlauch- und Rohrverbindungsstücken, Schlauch- und Rohrkupplungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Small articles of metal hardware, Including hose clips, hose connectors and Junctions for pipes, Hose and coupling devices for pipes.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>7</ClassNumber>
+   <GoodsServicesDescription languageCode="de">Maschinen und Werkzeugmaschinen, einschließlich Maschinen zur Herstellung von Schlauchklemmen, Maschinen zur Installation von Schlauchklemmen; Kupplungen zur Kraftübertragung, einschließlich Schlauch- und Rohrkupplungen für hydraulische und pneumatische Apparate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Machines and machine tools, including machines for producing hose clamps, machines for installing hose clamps; Couplings for power transmission, including hose and pipe couplings for hydraulic and pneumatic apparatus.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>8</ClassNumber>
+   <GoodsServicesDescription languageCode="de">Handbetätigte Werkzeuge und Geräte, einschließlich solchen zur Installation von Schlauchklemmen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Hand tools and implements (hand-operated), including those for installing hose clamps.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>59403</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11131</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

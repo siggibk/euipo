@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-28T11:45:10</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224676</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224676</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-09-23</RegistrationDate>
+<ApplicationLanguageCode>sv</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Store IT by NORDISKA PLAST</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Складови етажерки; Папки за съхранение на списания; Кошове за съхранение; Чекмеджета за съхранение; Шкафове; Шкафчета с ключ; Рафтове за складове; Макари от пластмаса за съхранение на маркучи; Приспособления за складиране; Кутии за нуждите на съхранението [пластмасови]; Пазарски кошници; Преносими кутии [контейнери] от пластмаса; Преносими туби [контейнери] за вода от пластмаса; Пластмасови капаци за консерви; Пластмасови кошчета [друг от кофи за боклук]; Кошове, неметални; Табуретки за крака.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Skladovací regály a police; Stojany na časopisy; Skladovací koše; Skladovací zásuvky; Skříně (kuchyňské); Uzamykatelné skříňky; Regály [nábytek]; Cívky z plastů pro ukládání hadic; Skladovací jednotky; Plastové krabice na skladování; Nákupní koše; Plastové přenosné boxy (nádoby); Plastové přenosné nádoby na vodu; Plastová víčka na plechovky; Plastové nádoby (s výjimkou odpadkových košů); Košíky, ne kovové; Stoličky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Opbevaringsstativer; Samlebind til opbevaring af blade; Kurve til opbevaring; Opbevaringsskuffer; Skabe; Skuffer; Reoler [møbler]; Ruller af plastik til opbevaring af slanger; Lagerenheder; Kasser af plastik til opbevaringsformål; Indkøbskurve; Bærbare æsker [beholdere] af plastic; Transportable vandbeholdere fremstillet af plastik; Plasticlåg til dåser; Plasticspande [andre end skraldespande]; Kurve, ikke af metal; Fodskamler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Lagerregale; Zeitschriftenordner; Aufbewahrungskörbe; Kommoden für Aufbewahrungszwecke; Schränke; Schubladen; Regale; Haspeln aus Kunststoff für die Aufbewahrung von Schläuchen; Lagereinheiten; Kunststoffkästen für Aufbewahrungszwecke; Einkaufskörbe; Tragbare Kunststoffboxen [Behälter]; Tragbare Wasserbehälter aus Kunststoff; Kunststoffdeckel für Dosen; Kunststoffbehälter [ausgenommen Mülltonnen]; Körbe, nicht aus Metall; Schemel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ράφια φύλαξης· Αρχειοθέτες αποθήκευσης περιοδικών· Καλάθια αποθήκευσης· Συρτάρια φύλαξης αντικειμένων· Ντουλάπια· Φοριαμοί· Ράφια για αποθήκευση· Πλαστικά έλικτρα αποθήκευσης εύκαμπτων σωλήνων· Μονάδες αποθήκευσης· Κουτιά για αποθηκευτική χρήση (από πλαστικό)· Καλάθια για τα ψώνια· Φορητά κιβώτια (δοχέια) από πλαστικό· Δοχεία μεταφοράς ύδατος κατασκευασμένα από πλαστικές ύλες· Πλαστικά καπάκια για κουτιά· Πλαστικοί κάδοι (εκτός από σκουπιδοτενεκέδες)· Καλάθια, μη μεταλλικά· Σκαμπό.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Storage racks; magazine storage files; storage baskets; storage drawers; cupboards; lockers; shelves; reels of plastic for the storage of hose; storage units; plastic boxes for storage purposes; shopping baskets; portable boxes (containers) of plastic; portable water carriers (containers) made of plastics; plastic lids for cans; plastic bins (other than dust bins); baskets, non-metallic; stools.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Estanterías de almacenamiento; Archivos para guardar revistas; Cestas de almacenamiento; Cajones de almacenamiento; Armarios empotrados; Cajones; Estantes [muebles]; Carretes de plástico para el almacenamiento de mangueras; Unidades de almacenaje; Cajas para almacenaje [plástico]; Cestas para la compra; Cajas portátiles de materias plásticas [recipientes]; Recipientes portátiles para llevar agua hechos de materias plásticas; Tapas de plástico para latas; Cubos de plástico [exceptuando los cubos de basura]; Cestos no metálicos; Taburetes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ladustamisriiulid; Ajakirjahoidlid; Hoiukorvid; Hoiusahtlid; Seinakapid; Lukustatavad hoiukapid; Väikesed riiulid [mööbel]; Plastist voolikupoolid; Hoiuvahendid; Plastist ladustuskarbid, -kastid; Kandekotid; Teisaldatavad plastkastid, -karbid [mahutid]; Teisaldatavad plastmahutid vee kandmiseks [konteinerid]; Purkide plastkaaned; Plastist kastid, konteinerid, v.a prügikastid; Korvid, v.a metallist; Taburetid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Varastointitelineet; Aikakauslehtien säilytyskansiot; Korit säilyttämistä varten; Säilytyslaatikot; Kaapit; Lukittavat kaapit; Hyllyt [kaluste]; Muoviset kelat letkujen säilytykseen; Säilytysyksiköt; Muovilaatikot varastointitarkoituksiin; Ostoskorit; Siirrettävät muovilaatikot [säiliöt]; Kannettavat vedenkuljetusvälineet (säilytysastiat) muovista; Muovikannet kannuihin; Muovikorit [muut kuin roskakorit]; Korit, ei-metalliset; Jakkarat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Étagères de rangement; Classeurs pour le rangement de magazines; Paniers de rangement; Tiroirs de rangement; Placards; Tiroirs; Étagères; Dévidoirs en matières plastiques pour le rangement de tuyaux flexibles; Unités de stockage; Boîtes de rangement en matières plastiques; Paniers à provisions; Boîtes portatives [récipients] en plastique; Récipients à eau portables en matières plastiques [conteneurs]; Couvercles en plastique pour boîtes de conserve; Boîtes en plastique autres que poubelles; Paniers non métalliques; Tabourets.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Police za skladištenje; Police za skladištenje časopisa; Košare za skladištenje; Skladišne ladice; Ormari; Ormari s bravama; Stalaže; Plastična vitla za spremanje crijeva; Police; Kutije za pohranu [plastične]; Košare za kupovinu; Prijenosne kutije [spremnici] od plastike; Prijenosni spremnici za vodu [posude] od plastike; Plastični poklopci za limenke; Plastične kante [osim kanti za smeće]; Košare, nemetalne; Stolice bez naslona.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Tároló állványok; Folyóirattartó mappák; Tárolókosarak; Fiókos tárolók; Gardróbszekrények; Fiókok; Állványok, polcok; Műanyag orsók tömlő tárolására; Tároló egységek; Dobozok raktározási célra [műanyag]; Bevásárlókosarak; Hordozható műanyag dobozok [tárolók]; Hordozható vízhordók [tárolók] műanyagból; Műanyag fedők, tetők konzervdobozokhoz; Műanyag tárolók [kivéve szemetesedények]; Nem fém kosarak; Zsámolyok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Scaffalature per magazzini; Schedari per conservazione di riviste; Cestini per riordino; Cassetti per riporre articoli; Stipi; Armadietti con serratura; Scaffalature; Bobine di plastica per lo stoccaggio di tubi flessibili; Unità di deposito; Scatole per magazzinaggio [plastica]; Cestelli per la spesa; Scatole trasportabili [contenitori] di plastica; Recipienti portatili per acqua [contenitori] in plastica; Coperchi in plastica per lattine; Bidoni di plastica [non bidoni della spazzature]; Cesti, non in metallo; Sgabelli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Sandėliavimo stelažai; Žurnalų laikymo aplankai; Sandėliavimo pintinės; Komodos; Spintos; Rakinamosios spintelės, dėžės, stalčiai; Lentynos [baldai]; Plastikinės ritės žarnoms laikyti; Sandėliavimo įtaisai; Dėžės sandėliavimo reikmėms [plastikinės]; Pirkinių krepšiai; Kilnojamosios plastikinės dėžės [talpyklos]; Nešiojamosios plastikinės vandens talpyklos; Plastikiniai skardinių dangteliai; Plastikinės dėžės [išskyrus šiukšliadėžes]; Ne metaliniai krepšiai; Taburetės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Uzglabāšanas plaukti; Žurnālu uzglabāšanas mapes; Mantu glabāšanas grozi; Glabāšanas atvilktnes; Skapji; Aizslēdzami skapīši; Plaukti; Plastmasas spoles šļūteņu glabāšanai; Noliktavu sekcijas; Kārbas uzglabāšanas nolūkiem (plastmasas); Iepirkumu somas; Pārvietojamas kastes [konteineri] no plastmasas; Pārnēsājamas plastmasas ūdenstvertnes; Kannu plastmasas vāki; Plastmasas tvertnes kas nav paredzētas atkritumiem; Nemetāliski grozi; Kāju soliņš.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xtillieri tal-ħażna; Fajls għall-ħżin ta' magazins; Basktijiet għall-ħażna; Kxaxen għall-ħażna; Armarji; Kaxxarizzi; Xkafef; Irkiekel tal-plastik għall-ħażna ta' pajpijiet; Armarju fejn terfa'; Kaxex tal-plastik għal skopijiet ta' ħażna; Basktijiet tax-xiri; Kaxex li jistgħu jinġarru [kontenituri] tal-plastik; Ġarer tal-ilma li jistgħu jinġarru [reċipjenti] magħmula mill-plastik; Għotjien tal-plastik għal laned; Bramel tal-plastik [għajr bramel taż-żibel]; Basktijiet, mhux tal-metall; Banketti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Opbergrekken; Tijdschriftenrekken; Opslagmanden; Opslagladen; Kasten; Schuifladen; Rekken [stellingen]; Plastic slanghaspels; Opslageenheden; Dozen voor opslagdoeleinden [plastic]; Boodschappenmanden; Draagbare dozen van plastic [containers]; Draagbare watertanks [houders] gemaakt van plastic; Dekseltjes (Plastic -) voor blikjes; Plastic bakken [anders dan vuilnisbakken]; Manden, niet van metaal; Zitkrukjes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Regały do przechowywania; Teczki do magazynowania czasopism; Kosze do przechowywania; Szuflady do przechowywania przedmiotów; Szafy wnękowe; Szafki zamykane; Regały [meble]; Bębny z tworzyw sztucznych do przechowywania węży ogrodowych; Szafki; Pudełka do przechowywania [z tworzyw sztucznych]; Koszyki na zakupy; Pudełka przenośne [pojemniki] z tworzyw sztucznych; Przenośne zbiorniki na wodę [pojemniki] z tworzyw sztucznych; Pokrywki z tworzyw sztucznych do puszek; Kosze z tworzyw sztucznych [inne niż kosze na śmieci]; Kosze niemetalowe; Taborety.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Estantes de armazenamento; Pastas para armazenamento de revistas; Cestos para arrumos; Gavetas de armazenamento; Closets; Cacifos; Estantes [mobiliário]; Enroladores em matérias plásticas para guardar mangueiras; Unidades de armazenamento; Caixas para armazenagem [em plástico]; Cestos de compras; Caixas portáteis em plástico [recipientes]; Bidões portáteis de plástico para transporte de água; Tampas de plástico para latas; Caixotes de plástico [sem ser caixotes de lixo]; Cestos, não metálicos; Tamboretes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Rafturi de depozitare; Dosare pentru păstrarea revistelor; Cosuri pentru stocare; Sertare de depozitare; Dulapuri pentru haine; Dulăpioare; Etajere; Bobine din plastic pentru depozitarea furtunului; Mobile pentru depozitare; Cutii de depozitare [plastic]; Coşuri pentru cumpărături; Cutii portabile [recipiente] din plastic; Recipiente de apă portabile confecţionate din plastic; Capace din plastic pentru conserve; Coşuri din plastic [altele decât coşurile de gunoi]; Coşuri, nemetalice; Taburete.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Regály a police na skladovanie; Stojany na časopisy; Skladovacie koše; Skladovacie zásuvky; Príborníky; Záklopky; Police (samostatne stojaci nábytok); Plastové cievky na skladovanie hadíc; Skladovacie jednotky; Škatule na skladovacie účely [plastové]; Nákupné tašky; Plastové prenosné škatule [nádoby]; Plastové prenosné cisterny na vodu [nádoby]; Plastové viečka na plechovky; Plastové koše a nádoby [s výnimkou košov na smeti]; Nekovové koše; Taburetky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Stojala za shranjevanje (regali); Omarice za shranjevanje revij; Koši za skladiščenje; Shranjevalni predali; Vzidne omare; Omarice s ključavnico; Regali; Koluti iz plastike za shranjevanje gumijastih cevi; Hrambne enote; Plastične škatle za shranjevanje; Nakupovalne torbe; Prenosne plastične škatle [zaboji]; Prenosne plastične posode za vodo; Plastični pokrovi za konzerve; Plastični koši [razen košev za smeti]; Nekovinske košare; Pručke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Förvaringshyllor; förvaringsanordningar för tidskrifter; förvaringskorgar; förvaringslådor; förvaringsmöbler; förvaringsskåp; hyllor; vindor av plast för förvaring av slangar; kombimöbler för förvaring; plastaskar för förvaringsändamål; kundkorgar; bärbara behållare av plast; bärbara vattenbehållare av plast; plastlock för burkar; plasttunnor (inte soptunnor); korgar, inte av metall; pallar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>21</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Кошчета за изхвърляне на хартия.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Odpadní koše na papír.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Papirkurve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Papierkörbe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κάλαθοι απορριμμάτων χαρτιού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Waste paper baskets.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Papeleras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Paberikorvid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Paperikorit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Corbeilles à papier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Koševi za otpadni papir.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Papírkosarak.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cestini per rifiuti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Šiukšliadėžės popieriui.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Papīrgrozi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Laned għall-karti għar-rimi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Papiermanden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kosze na papier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cestos para papeis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Coşuri de hârtii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Odpadkové koše na papier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Koši za odpadni papir.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Papperskorgar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/112</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/184</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-25</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079049</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>12268</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

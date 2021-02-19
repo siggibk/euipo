@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:14</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229307</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229307</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>PINKWAY</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>7</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Електрически, ръчни дрелки; Механични чукове; Ножици за стригане на овце, електрически; Електрическа прахосмукачка; Машини за обработка на тревни площи и градини; Електрически верижни триони; Ударни бормашини; Въздушни компресори; Електрически заваряващи апарати; Пробивни свредла [части на машини]; Приставки за електрически инструменти; Моторни гаечни ключове; Машини за подкастряне с електрическо захранване за ливади и градини; Пневматични пробивни машини; Електрически триони.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Elektrické ruční vrtačky; Elektrická kladiva; Elektrické nůžky; Elektrické vysavače; Stroje na úpravu trávníku a zahrady; Elektrické řetězové pily; Palice; Vzduchové kompresory; Elektrické svářecí stroje; Vrtací korunky [části strojů]; Nástavce pro elektrické nářadí; Elektrické klíče; Elektrické kypřiče půdy pro trávníky a zahradu; Pneumatické vrtačky; Elektrické pily.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Elektriske håndholdte bor; Elektriske hamre; Sakse, elektriske; Elektriske støvsugere; Maskiner til kultivering af græsplæner og haver; Elektriske kædesave; Borehamre; Luftkompressorer; Svejsemaskiner, elektriske; Borehoveder [dele af maskiner]; Forlængelsesudstyr til elværktøj; Elektriske skruenøgler; Elektriske fræsere til plæner og haver; Luftbor; Eldrevne save.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Elektrische Handbohrmaschinen; Elektrohämmer; Elektrische Meißel; Elektrische Staubsauger; Bodenbearbeitungsmaschinen für Rasen und Garten; Elektrische Kettensägen; Schlagbohrmaschinen; Luftkompressoren; Elektrische Schweißmaschinen; Bohrkronen [Maschinenteile]; Ansatzstücke für elektrische Werkzeuge; Kraftbetriebene Schraubenschlüssel; Kraftbetriebene Rasen- und Gartenkultivatoren; Druckluftbohrmaschinen; Motorsägen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Τρυπάνια χειρός ηλεκτρικά· Σφύρες ηλεκτρικές· Ψαλίδια ηλεκτρικά· Ηλεκτρικές σκούπες· Σκαπτικές μηχανές χλοοτάπητα και κήπου· Ηλεκτρικά αλυσοπρίονα· Σφυροτρύπανα· Αεροσυμπιεστές· Συσκευές ηλεκτροσυγκόλλησης· Δακτύλιοι γεώτρησης[μέρη μηχανών]· Επεκτάσεις για ηλεκτρικά εργαλεία· Μηχανοκίνητα κλειδιά σύσφιξης· Ηλεκτροκίνητες φρέζες χλοοτάπητα και κήπου· Αεροτρύπανα· Μηχανοκίνητα πριόνια.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Electric drills [hand-held]; Electric hammers; Electric scissors; Electric vacuum cleaners; Lawn and garden tilling machines; Electric chain saws; Drilling hammers; Air compressors; Electric welding machines; Power drill bits; Extensions for power tools; Power-driven wrenches; Power-operated lawn and garden tillers; Air drills; Power-operated saws.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Taladradoras de mano eléctricas; Martillos eléctricos; Tijeras eléctricas; Aspiradores eléctricos; Máquinas de cultivar jardines y césped; Sierras de cadena eléctricas; Martillos de perforación; Compresores de aire; Soldadoras eléctricas; Coronas de perforación [partes de máquinas]; Extensiones para herramientas eléctricas; Llaves de tuerca eléctricas; Cultivadoras eléctricas de césped y jardín; Taladros de aire; Sierras eléctricas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Elektrilised käsitrellid; Elektrivasarad; Elektrilised suured käärid; Elektrilised tolmuimejad; Muru- ja aiaharimismasinad; Kettsaed (elektrilised); Suruõhuvasarad; Õhukompressorid; Elekterkeevitusaparaadid; Puuri lõiketerad [masinaosad]; Elektriliste tööriistade pikendused; Elektrilised mutrivõtmed; Mootoriga muru- ja aiakultivaatorid; Suruõhupuurid; Mootorsaed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Porat (Käsi -), sähkökäyttöiset; Sähkövasarat; Keritsimet (Sähkö -); Sähkökäyttöiset pölynimurit; Nurmikon ja puutarhan maanmuokkauskoneet; Sähköiset moottorisahat; Poravasarat; Ilmakompressorit; Sähköhitsauslaitteet; Poran terät [koneiden osina]; Konetyökalujen jatko-osat; Sähkökäyttöiset vääntimet; Sähkökäyttöiset muokkaajat nurmi- ja puutarhakäyttöön; Paineilmaporakoneet; Moottorisahat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Perceuses à main électriques; Marteaux électriques; Ciseaux électriques; Aspirateurs électriques; Machines de travail du sol pour pelouses et jardins; Tronçonneuses électriques; Marteaux perforateurs; Compresseurs d'air; Machines électriques à souder; Couronnes de forage [parties de machines]; Rallonges pour outils électriques; Clés de torsion électriques; Motoculteurs électriques pour la pelouse et le jardin; Perceuses pneumatiques; Scies électriques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Električne ručne bušilice; Električni čekići; Električne škare; Električni usisavači; Strojevi za obrađivanje travnjaka i vrtova; Električne motorne pile; Udarne bušilice; Kompresori zraka; Električni aparati za zavarivanje; Svrdla [dijelovi alata]; Produžeci za strojne alate; Električni ključevi; Motorni orači za livade i vrtove; Pneumatske bušilice; Električne pile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Elektromos kézifúrók; Elektromos kalapácsok; Elektromos ollók; Elektromos porszívók; Kert- és gyepművelő gépek; Elektromos láncfűrészek; Fúrókalapácsok; Légsűrítők [gépek]; Elektromos hegesztőkészülékek; Fúrókoronák [gépalkatrészek]; Toldatok elektromos szerszámokhoz; Elektromos csavarkulcsok; Elektromos kerti kapálógépek; Pneumatikus fúrók; Motoros fűrészek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Trapanatrici a mano elettriche; Martelli elettrici; Forbici elettriche; Aspirapolvere elettrici; Motozappe per prati e giardini; Motoseghe elettriche; Trapani a percussione; Compressori d'aria; Macchine elettriche per saldare; Corone di trivellazione [parti di macchine]; Estensioni per utensili elettrici; Avvitatrici elettriche; Coltivatori per prati e giardini a motore; Trapani ad aria; Seghe elettriche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Elektriniai rankiniai gręžtuvai; Elektriniai kūjai; Elektrinės žirklės; Elektriniai dulkių siurbliai; Vejos ir sodo įdirbimo mašinos; Elektriniai grandininiai pjūklai; Smūginiai gręžtuvai; Oro kompresoriai; Elektrinio suvirinimo mašinos; Grąžtai [mašinų dalys]; Elektros įrankių ilginamieji elementai; Elektriniai veržliarakčiai; Elektriniai vejos ir sodo purentuvai; Pneumatiniai grąžtai; Juostiniai pjūklai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Elektriskie rokas urbji; Lieljaudas veseri; Elektriskās šķēres; Elektriskie putekļu sūcēji; Zāliena un dārza augsnes frēzes; Elektriskie ķēdes zāģi; Triecienurbjmašīnas; Gaisa kompresori; Elektrometināšanas iekārtas; Urbju vainagi (mašīnu daļas); Pagarināšanas elementi elektroinstrumentiem; Skrūvgrieži ar piedziņu; Elektriskie zālāja un dārza kultivatori; Saspiesta gaisa urbji; Motorzāģi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Trapani elettriċi tal-idejn; Mrietel elettriċi; Imqassijiet elettriċi; Naddafa tal-vakwu elettriċi; Magni għall-ħrit tal-lons u ġonna; Lupi tal-elettriku; Imrietel li jtaqqbu; Kumpressuri tal-arja; Għodda msaħħna għall-istannjar, bl-elettriku; Golji [partijiet ta' magni]; Estensjonijiet għall-għodod elettriċi; Spàners li jaħdmu bl-elettriku; Mħaret elettriċi għal-lon u l-ġnien; Drilers tal-arja; Segi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Elektrische handboormachines; Elektrische hamers; Elektrische scharen; Stofzuigers (Elektrische -); Grondbewerkingsmachines voor tuin en gazon; Kettingzagen (Elektrische -); Klopboormachines; Luchtcompressoren; Elektrische lasmachines; Boorkronen [machine-onderdelen]; Verlengstukken voor elektrische gereedschappen; Elektrische zetijzers; Grondbewerkers voor gazon en tuin (Elektrische -); Pneumatische boren; Kettingzagen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Wiertarki ręczne elektryczne; Młoty elektryczne; Nożyce elektryczne; Odkurzacze elektryczne; Maszyny do uprawy ziemi do trawnika i ogrodu; Elektryczne piły łańcuchowe; Młoty wiertnicze; Sprężarki powietrzne; Elektryczne urządzenia do spawania; Świdry wiertnicze [części maszyn]; Przedłużenia do narzędzi elektrycznych; Klucze o napędzie elektrycznym; Kultywatory trawnikowe i ogrodowe z napędem elektrycznym; Świdry pneumatyczne; Piły o napędzie innym niż ręczny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Berbequins elétricos; Martelos elétricos; Tesouras elétricas; Aspiradores elétricos; Máquinas para lavrar relva e jardim; Motosserra elétrica; Martelos perfuradores; Compressores de ar; Máquinas de soldar elétricas; Coroas de perfuração [partes de máquinas]; Extensões para ferramentas elétricas; Chaves inglesas elétricas; Cultivadoras elétricas para relvados e jardins; Brocas pneumáticas; Serras elétricas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Mașini de găurit manuale cu acționare electrică; Ciocane electrice; Foarfeci electrice; Aspiratoare electrice; Motocultivatoare pentru peluză și grădină; Ferăstraie cu lanț electrice; Ciocane perforatoare; Compresoare de aer; Sudat (Mașini electrice de -); Sape de foraj [organe de mașini]; Extensii pentru unelte electrice; Chei de piulițe acționate electric; Motocultivatoare electrice pentru gazon și grădină; Burghie pneumatice; Ferăstraie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Elektrické ručné vŕtačky; Elektrické kladivá; Elektrické nožnice; Elektrické vysávače; Obrábacie stroje pre trávniky a záhrady; Elektrické reťazové píly; Vŕtacie kladivá; Vzduchové kompresory; Elektrické zváračky (stroje); Vŕtacie korunky (časti strojov); Nadstavce na elektricky poháňané náradie; Elektricky poháňané kľúče na matice; Elektricky poháňané trávnikové a záhradné kypriče; Pneumatické vŕtačky; Reťazové píly.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Električni ročni vrtalniki; Električna kladiva; Električne škarje; Električni sesalniki; Stroji za obdelavo trate in vrta; Električne verižne žage; Vrtalna kladiva; Zračni kompresorji; Električne naprave za varjenje; Vrtalne krone [deli strojev]; Podaljški za električna orodja; Električni ključi; Električni motokultivatorji za trato in vrt; Pnevmatski vrtalniki; Žage s pogonom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Elektriska handborrar; Elektriska hammare; Saxar, elektriska; Elektriska dammsugare; Kultiveringsmaskiner för gräsmattor och trädgård; Elektriska kedjesågar; Slagborrmaskiner; Luftkompressorer; Svetsmaskiner, elektriska; Borrskär [maskindelar]; Skarvstycken för motorverktyg; Eldrivna skiftnycklar; Motordrivna gräsmatts- och trädgårdskultivatorer; Luftdrivna borrar; Elektriska sågar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082076</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15066</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

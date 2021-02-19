@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-01-03T08:24:25</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063168-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063168-0001</DesignIdentifier>
+<ApplicationNumber>001063168</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-09-01</PublicationDate>
+<ApplicationReference>NB.CB.B2630-00975.JNP</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>true</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-12-20</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061756004</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063168_0001/001063168_0001_1.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.03</CategoryCode>
+     <CategoryCode>19.03.09</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061756005</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063168_0001/001063168_0001_2.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.03</CategoryCode>
+     <CategoryCode>19.03.09</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061756006</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063168_0001/001063168_0001_3.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.03</CategoryCode>
+     <CategoryCode>19.03.09</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061756009</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063168_0001/001063168_0001_4.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.03</CategoryCode>
+     <CategoryCode>19.03.09</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+<View>
+<ViewIdentifier>000061756010</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063168_0001/001063168_0001_5.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>19.03.03</CategoryCode>
+     <CategoryCode>19.03.09</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Опаковки на часовници</IndicationProduct>
+       <IndicationProduct languageCode="cs">Obaly na hodinky</IndicationProduct>
+       <IndicationProduct languageCode="da">Emballage til armbåndsure</IndicationProduct>
+       <IndicationProduct languageCode="de">Uhrenverpackungen</IndicationProduct>
+       <IndicationProduct languageCode="el">Συσκευασίες ρολογιών χειρός ή τσέπης</IndicationProduct>
+       <IndicationProduct languageCode="en">Watch packagings</IndicationProduct>
+       <IndicationProduct languageCode="es">Embalajes para relojes de pulsera</IndicationProduct>
+       <IndicationProduct languageCode="et">Käekella pakendid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Rannekellojen pakkaukset</IndicationProduct>
+       <IndicationProduct languageCode="fr">Emballages pour montres</IndicationProduct>
+       <IndicationProduct languageCode="hu">Óracsomagolások</IndicationProduct>
+       <IndicationProduct languageCode="it">Imballaggi per orologi</IndicationProduct>
+       <IndicationProduct languageCode="lt">Laikrodžių pakuotės</IndicationProduct>
+       <IndicationProduct languageCode="lv">Rokas pulksteņu iepakojumi</IndicationProduct>
+       <IndicationProduct languageCode="mt">Ippakkjar għal arloġġi</IndicationProduct>
+       <IndicationProduct languageCode="nl">Verpakkingen voor horloges</IndicationProduct>
+       <IndicationProduct languageCode="pl">Opakowania do zegarków</IndicationProduct>
+       <IndicationProduct languageCode="pt">Embalagens de relógios de pulso</IndicationProduct>
+       <IndicationProduct languageCode="ro">Ambalaje pentru ceasuri</IndicationProduct>
+       <IndicationProduct languageCode="sk">Obaly na hodinky</IndicationProduct>
+       <IndicationProduct languageCode="sl">embalaža za ure</IndicationProduct>
+       <IndicationProduct languageCode="sv">Emballage till armbandsur</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>09.03</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/008</PublicationIdentifier>
+        <PublicationSection>A.2</PublicationSection>
+        <PublicationDate>2009-01-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/173</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-09-01</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2012/193</PublicationIdentifier>
+        <PublicationSequenceNumber>867196</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2012-10-08</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/001</PublicationIdentifier>
+        <PublicationSequenceNumber>1126967</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2014-01-03</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/084</PublicationIdentifier>
+        <PublicationSequenceNumber>1224954</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2014-05-07</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2016/052</PublicationIdentifier>
+        <PublicationSequenceNumber>1706382</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2016-03-16</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2017/046</PublicationIdentifier>
+        <PublicationSequenceNumber>100027528</PublicationSequenceNumber>
+        <PublicationSection>B.9.2</PublicationSection>
+        <PublicationDate>2017-03-08</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2019/001</PublicationIdentifier>
+        <PublicationSequenceNumber>100822494</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2019-01-03</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>21771</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>011683531</RecordIdentifier>
+<BasicRecordKind>Appointment Replacement and Deletion of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100027528</PublicationSequenceNumber>
+           <PublicationSection>B.9.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2017-03-08</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006254001</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>867196</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2012-10-08</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>008065942</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1224954</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-05-07</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>010402711</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1706382</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2016-03-16</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006984946</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1126967</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-03</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012442246</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100822494</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2019-01-03</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

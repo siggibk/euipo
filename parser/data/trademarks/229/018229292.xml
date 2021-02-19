@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229292</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229292</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>sv</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>GrowAgain</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162459959</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229292/000162459959.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.25</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Козметични тоалетни принадлежности; Препарати за почистване на тялото и за грижа за красотата; Козметични средства; Препарати за грижа за кожата; Препарати за поддържане на ноктите; Нелечебни кремове за очи; Мехлеми [немедицински]; Средства за придаване на определена текстура на кожата.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Toaletní přípravky; Přípravky pro osobní hygienu a kosmetické přípravky; Kosmetické přípravky; Přípravky pro péči o pleť; Přípravky pro péči o nehty; Neléčivé oční krémy; Masti (neléčivé); Přípravky k vyhlazování pokožky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Toiletartikler; Præparater til rengøring af kroppen og skønhedspleje; Kosmetik; Hudplejepræparater; Negleplejepræparater; Ikke-medicinske øjencremer; Salver [ikke-medicinske]; Opstrammende præparater til huden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Körperpflegemittel; Körperreinigungs- und Körperpflegepräparate; Kosmetika; Hautpflegemittel; Nagelpflegemittel; Augencremes, nicht für medizinische Zwecke; Salben [nicht für medizinische Zwecke]; Präparate zur Verbesserung der Hautstruktur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καλλυντικά· Παρασκευάσματα καθαρισμού σώματος και φροντίδας ομορφιάς· Καλλυντικά· Παρασκευάσματα για την περιποίηση του δέρματος· Όνυχες (προϊόντα περιποίησης -ων)· Μη φαρμακευτικές κρέμες για τα μάτια· Αλοιφές [μη φαρμακευτικές]· Προϊόντα βελτίωσης της υφής του δέρματος.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Toiletries; Body cleaning and beauty care preparations; Cosmetics; Skin care preparations; Nail care preparations; Creams (Non-medicated -) for the eyes; Salves [non-medicated]; Skin texturizers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Artículos de tocador; Preparaciones para la limpieza y cuidado del cuerpo; Cosméticos; Preparaciones para el cuidado de la piel; Productos para el cuidado de las uñas; Cremas para los ojos que no sean medicinales; Ungüentos [no medicinales]; Productos para dar textura a la piel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Tualett-tarbed; Puhastus- ja iluhooldustooted kehale; Kosmeetikavahendid; Nahahooldusvahendid; Küünehoolduspreparaadid, -ained; Silmakreemid (v.a meditsiinilised); Salvid [v.a meditsiinilised]; Naha tekstuuri parandavad hooldusvahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kosmeettiset ja peseytymisvalmisteet; Vartalon puhdistus- ja kauneudenhoitovalmisteet; Kosmetiikka; Ihonhoitovalmisteet; Kynsienhoitovalmisteet; Silmänympärysvoiteet (lääkeaineita sisältämättömät); Salvat [lääkeaineita sisältämättömät]; Ihon pintakäsittelyaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Produits de toilettes; Préparations de nettoyage corporel et de soins de beauté; Cosmétiques; Préparations pour le soin de la peau; Produits pour le soin des ongles; Crèmes pour le contour des yeux à usage non médical; Baumes non médicamenteux; Produits reconstituants pour la peau.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Toaletni proizvodi; Pripravci za čišćenje i njegu tijela; Kozmetički proizvodi; Pripravci za njegu kože; Preparati za njegu noktiju; Kreme (neljekovite) za oči; Melemi [nemedicinski]; Sredstva za poboljšanje izgleda kože.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Testápolási cikkek; Testápolási és szépségápolási készitmények; Kozmetikai szerek; Bőrápoló készítmények; Körömápoló készítmények; Nem gyógyhatású krémek szemápoláshoz; Kenőcsök, balzsamok [nem gyógyhatású]; Bőrtexturizálók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Toiletteria; Preparati per la pulizia del corpo e per la cura della bellezza; Cosmetici; Prodotti per la cura della pelle; Prodotti per la cura delle unghie; Creme (Non medicate -) per gli occhi; Unguenti [non medicati]; Agenti testurizzanti per la pelle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Tualeto reikmenys; Kūno valomieji ir grožio priežiūros preparatai; Kosmetika; Odos priežiūros preparatai; Nagų priežiūros preparatai; Akių kremai (Ne gydomieji -); Tepalai [negydomieji]; Odos struktūros gerinimo preparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Personiskās tualetes līdzekļi; Ķermeņa kopšanas un skaistumkopšanas līdzekļi; Kosmētikas līdzekļi; Ādas kopšanas līdzekļi; Nagu kopšanas līdzekļi; Acu krēmi nemedicīniskiem nolūkiem; Ziedes nemedicīniskiem nolūkiem; Ādas tekstūras uzlabošanas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preparazzjonijiet tat-twaletta; Preparazzjonijiet għat-tindif tal-ġisem u għall-kura tas-sbuħija; Kożmetiċi; Preparazzjonijiet għall-ġilda; Preparazzjonijiet għall-kura tad-dwiefer; Kremi mhux immedikati għall-għajnejn; Balzmi [mhux immedikati]; Prodotti għat-trattament tal-ġilda.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Preparaten voor de toiletverzorging; Reinigings- en schoonheidspreparaten voor het lichaam; Cosmetica; Huidverzorgingsproducten; Nagelverzorgingsproducten; Crèmes (niet-medicinale) voor de ogen; Zalven [niet-medicinaal]; Middelen voor de huidstructuur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Środki toaletowe; Preparaty do mycia i pielęgnacji ciała; Kosmetyki; Preparaty do pielęgnacji skóry; Preparaty do pielęgnacji paznokci; Nielecznicze kremy pod oczy; Maści [nielecznicze]; Produkty poprawiające teksturę skóry.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Produtos de toilette; Produtos para limpeza corporal e cuidados de beleza; Cosméticos; Produtos para os cuidados da pele; Preparações para o cuidado das unhas; Cremes não medicinais para os olhos; Pomadas [não medicinais]; Produtos para melhorar a textura da pele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Produse pentru toaletă; Preparate pentru curățarea și îngrijirea corpului; Cosmetice; Preparate pentru îngrijirea pielii; Preparate pentru îngrijirea unghiilor; Creme pentru ochi (nemedicinale); Alifii, unguente [nemedicinale]; Produse pentru îmbunătățirea texturii pielii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kozmetické výrobky; Telové čistiace prípravky a skrášľovacie prípravky; Kozmetické prípravky; Pleťová kozmetika; Prípravky na ošetrovanie nechtov; Neliečivé očné krémy; Neliečivé masti; Prípravky na vyrovnanie nerovností pleti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Toaletna sredstva; Preparati za čiščenje telesa in lepotilno nego; Kozmetični izdelki; Sredstva za nego kože; Pripravki za nego nohtov; Kreme za oči brez zdravilnih učinkovin; Mazila brez zdravilnih učinkovin; Sredstva za izboljšanje teksture kože.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Toalettartiklar; Preparat för kroppsrengöring och skönhetsvård; Kosmetika; Hudvårdspreparat; Nagelvårdspreparat; Icke-medicinska ögonkrämer; Salvor (icke-medicinska); Preparat mot rynkor.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хранителни добавки и диетични препарати; Фармацевтични препарати и натурални средства за лечение; Фармацевтични препарати; Медицински препарати, стимулиращи растежа на косата; Хранителни добавки; Витаминни и минерални добавки; Течни витаминни добавки; Протеинови хранителни добавки; Здравословни хранителни добавки, направени главно от минерали.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Potravní doplňky a dietetické přípravky; Farmaceutické přípravky a přírodní léčiva; Farmaceutické přípravky; Léčivé přípravky na podporu růstu vlasů; Potravinové doplňky; Vitaminové a minerální doplňky; Tekuté vitaminové doplňky; Proteinové potravinové doplňky; Doplňky zdravé výživy vyrobené převážně z minerálů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kosttilskud og diætetiske præparater; Farmaceutiske præparater og naturlægemidler; Farmaceutiske præparater; Hårvækstfremmende medicinske præparater; Diæt- og kosttilskud; Vitamin- og mineraltilskud; Vitamintilskud i flydende form; Protein til brug som kosttilskud; Helsekosttilskud hovedsageligt fremstillet af mineraler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Diätetische Präparate und Nahrungsergänzungsmittel; Arzneimittel und natürliche Heilmittel; Pharmazeutische Präparate; Medizinische Präparate für den Haarwuchs; Nahrungsergänzungsmittel für diätetische Zwecke; Vitamin- und Mineralstoffzusätze; Flüssige Vitaminergänzungsmittel; Nahrungsergänzungsmittel aus Proteinen; Überwiegend aus Mineralstoffen bestehende Nahrungsergänzungsstoffe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συμπληρώματα διατροφής και διαιτητικά παρασκευάσματα· Φαρμακευτικά προϊόντα και φυσικές θεραπείες· Φαρμακευτικά (Προϊόντα -)· Μαλλιά (Παρασκευάσματα ανάπτυξης για -)· Συμπληρώματα διατροφής· Συμπληρώματα βιταμινών και μεταλλικών στοιχείων· Συμπληρώματα βιταμινών σε υγρή μορφή· Πρωτεϊνούχα συμπληρώματα διατροφής· Συμπληρώματα υγιεινής διατροφής αποτελούμενα κυρίως από μεταλλικά στοιχεία.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Dietary supplements and dietetic preparations; Pharmaceuticals and natural remedies; Pharmaceutical preparations; Medicinal hair growth preparations; Food supplements; Vitamin and mineral supplements; Liquid vitamin supplements; Protein dietary supplements; Health food supplements made principally of minerals.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Suplementos y preparaciones dietéticas; Remedios naturales y farmacéuticos; Preparaciones farmacéuticas; Preparaciones medicinales para el crecimiento del cabello; Complementos dietéticos; Suplementos vitamínicos y minerales; Suplementos vitamínicos líquidos; Complementos alimenticios a base de proteínas; Complementos alimenticios para la salud compuestos principalmente de minerales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toidulisandid ja farmatseutilised dieetained; Farmatseutilised ja looduslikud ravimid; Farmatseutilised preparaadid; Meditsiinilised juuksekasvuvahendid; Toidulisandid; Vitamiini- ja mineraallisandid; Vedelad vitamiinilisandid; Valk toidulisandina; Tervislikud toidulisandid peamiselt mineraalidest.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lisäravinteet ja dieettivalmisteet; Lääkkeet ja luonnonlääkkeet; Farmaseuttiset valmisteet; Lääkinnälliset hiustenkasvuvalmisteet; Ravintolisäaineet; Vitamiini- ja kivennäislisäaineet; Nestemäiset vitamiinilisät; Proteiinit lisäravinteena; Pääosin kivennäisaineista valmistetut lisäravinteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Compléments alimentaires et préparations diététiques; Produits pharmaceutiques et remèdes naturels; Préparations pharmaceutiques; Préparations médicinales pour la croissance des cheveux; Compléments alimentaires; Compléments vitaminés et minéraux; Compléments liquides vitaminés; Compléments alimentaires de protéine; Compléments alimentaires diététiques principalement à base de minéraux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dodaci prehrani i dijetetski pripravci; Farmaceutski proizvodi i prirodna ljekovita sredstva; Farmaceutski pripravci; Medicinski pripravci za rast kose; Dodaci prehrani; Vitaminski i mineralni dodaci hrani; Tekući vitaminski dodaci; Proteinski prehrambeni dodaci; Dodaci prehrani proizvedeni uglavnom od minerala.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Táplálékkiegészítők és diétás készítmények; Gyógyszerek és természetes gyógykészítmények; Gyógyszerészeti készítmények; Gyógyhatású hajnövesztő szerek, készítmények; Diétás ételkiegészítők; Vitamin és ásványi anyag kiegészítők; Folyékony vitaminkiegészítők; Protein étrend-kiegészítők; Főleg ásványi anyagokból készült egészségügyi táplálékkiegészítők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Integratori alimentari e preparati dietetici; Medicamenti farmaceutici e naturali; Preparazioni farmaceutiche; Preparati medici per la crescita dei capelli; Integratori dietetici; Integratori vitaminici e minerali; Integratori vitaminici liquidi; Integratori alimentari di proteine; Integratori alimentari sanitari principalmente a base di minerali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Maisto papildai ir dietiniai produktai; Farmaciniai ir natūralūs vaistiniai preparatai; Farmaciniai preparatai; Vaistiniai plaukų augimo preparatai; Maisto papildai; Vitamininiai ir mineraliniai papildai; Skystų vitaminų papildai; Baltymų maisto papildai; Sveiko maisto papildai mineralų pagrindu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Uztura bagātinātāji un diētiskie preparāti; Farmaceitiskie un dabiskie ārstniecības līdzekļi; Farmaceitiskie preparāti; Ārstnieciskie matu augšanu veicinošie preparāti; Vielas uztura papildināšanai; Vitamīni un diētiskas minerālvielu piedevas; Šķidrās vitamīnu piedevas; Proteīna uztura bagātinātāji; Uztura bagātinātāji, kuros pārsvarā ir minerālvielas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Supplimenti tad-dieta u preparazzjonijiet dijetetiċi; Farmaċewtiċi u rimedji naturali; Preparazzjonijiet farmaċewtiċi; Preparazzjonijiet mediċinali għat-tkabbir tax-xagħar; Supplimenti tal-ikel; Supplimenti tal-vitamini u tal-minerali; Supplimenti likwidi tal-vitamini; Supplimenti tad-dieta bil-proteini; Suppliment tal-ikel għas-saħħa magħmulin l-aktar mill-minerali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diëtische supplementen en diëtische preparaten; Farmaceutische en natuurlijke geneesmiddelen; Farmaceutische producten; Medicinale haargroeimiddelen; Voedingssupplementen; Vitamine- en mineralensupplementen; Vloeibare vitaminesupplementen; Voedingssupplementen op basis van proteïne; Supplementen voor een gezonde voeding voornamelijk vervaardigd uit mineralen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Suplementy diety i preparaty dietetyczne; Farmaceutyki i naturalne środki lecznicze; Preparaty farmaceutyczne; Preparaty lecznicze na porost włosów; Suplementy żywnościowe; Dodatki witaminowe i mineralne; Dodatki witaminowe w płynie; Suplementy diety zawierające białko; Suplementy diety sporządzone głównie z minerałów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Suplementos e preparações dietéticos; Produtos farmacêuticos e remédios naturais; Preparações farmacêuticas; Preparações medicinais para o crescimento do cabelo; Suplementos dietéticos; Suplementos vitamínicos e minerais; Suplementos vitamínicos líquidos; Suplementos dietéticos de proteína; Suplementos alimentares naturais constituídos principalmente por minerais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suplimente alimentare si preparate dietetice; Remedii naturale și farmaceutice; Preparate farmaceutice; Preparate medicinale pentru creșterea părului; Suplimente alimentare; Suplimente vitaminice și minerale; Suplimente lichide cu vitamine; Suplimente alimentare proteice; Suplimente alimentare realizate în principal din minerale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Výživové doplnky a dietetické prípravky; Farmaceutické a prírodné liečivá; Farmaceutické prípravky; Medicinálne prípravky na podporu rastu vlasov; Potravinové doplnky; Vitamíny a minerálne doplnky; Tekuté vitamínové doplnky; Proteínové výživové doplnky; Doplnky zdravej stravy vyrobené prevažne z minerálov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Prehranska dopolnila in dietetske snovi; Farmacevtski proizvodi in naravna zdravila; Farmacevtski pripravki; Medicinski pripravki za rast las; Prehranski dodatki; Vitaminski in mineralni dodatki; Tekoči vitaminski dodatki; Proteini kot prehranski dodatki; Zdravstveni prehrambeni dodatki, narejeni pretežno iz mineralov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Dietiska tillskott och preparat; Läkemedel och naturläkemedel; Farmaceutiska preparat; Medicinska hårväxtpreparat; Kosttillskott; Vitamin- och mineraltillskott; Flytande vitamintillskott; Kosttillskott av protein; Hälsokosttillskott tillverkade i huvudsak av mineraler.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>816547</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>12865</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

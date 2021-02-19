@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-17T08:58:47</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229817</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229817</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-14</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>BLIGER</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162497241</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229817/000162497241.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>28.03</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>14</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Часовници; Ръчни часовници; Каишки за ръчни часовници; Анкери [часовникарство]; Подаръчни кутии за часовници; Стъкла за часовници; Кюлчета от благородни метали; Кутии за бижута [ковчежета]; Сребро; Нефрит [бижутерия].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Náramkové hodinky; Hodiny; Řemínky k náramkovým hodinkám; Hodinářské kotvičky; Kazety na hodinky; Krystaly do hodinek; Ingoty z drahých kovů; Šperkovnice; Stříbro; Jadeity (klenoty).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Armbåndsure; Ure; Remme til armbåndsure; Ankre til ure; Præsentationsæsker til armbåndsure; Urglas; Barrer [stænger] af ædle metaller; Smykkeskrin; Sølv; Jade [smykker].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Armbanduhren; Uhren; Uhrenarmbänder; Anker für Uhren; Präsentationsschatullen für Uhren; Uhrgläser; Barren aus Edelmetall; Schmuckschatullen; Silber; Jade [Schmuck].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ρολόγια τοίχου ή επιτραπέζια, κοσμήματα· Ρολόγια τοίχου ή επιτραπέζια, κοσμήματα· Λουράκια για ωρολόγια χειρός· Διατάξεις αγκύρωσης [για ρολόγια τοίχου, επιτραπέζια και χειρός]· Κουτιά παρουσίασης για ρολόγια χειρός· Ωρολόγια (φακοί -ων)· Ράβδοι από πολύτιμα μέταλλα· Κοσμηματοθήκες· Ασήμι· Νεφρίτης [κοσμήματα].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Wristwatches; Clocks; Watch bands; Anchors [clock- and watchmaking]; Presentation boxes for watches; Watch glasses; Ingots of precious metals; Jewellery boxes; Silver; Jade [jewellery].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Relojes de pulsera; Relojes que no sean de uso personal; Pulseras de reloj; Áncoras [artículos de relojería]; Estuches de presentación para relojes de uso personal; Cristales de reloj; Lingotes de metales preciosos; Joyeros; Plata; Joyería de jade.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Käekellad; Kellad; Kellarihmad; Kellaankrud; Kellade esitluskarbid; Kellaklaasid; Väärismetallivalandid; Ehtekarbid; Hõbe; Nefriit [juveeltoode].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kellot; Kellot; Rannekellojen hihnat; Ankkurit [kelloihin]; Rannekellojen esittelykotelot; Kellonlasit; Harkot (Jalometalli -); Korurasiat; Hopea; Jadekorut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Montres-bracelets; Horloges; Bracelets de montres; Ancres [horlogerie]; Écrins pour montres; Verres de montres; Lingots de métaux précieux; Boîtes à bijoux; Argent; Bijoux en jade.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Satovi, zidni; Satovi, zidni; Remeni za ručne satove; Kotve za urarstvo; Prezentacijske kutije za ručne satove; Stakla za brojčanike satova; Poluge [ingoti] od plemenitih metala; Kutijice za nakit; Srebro; Žad [nakit].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Órák; Órák; Szíjak órákhoz; Horgonyok [óragyártás]; Díszdobozok karórákhoz; Óraüvegek; Nemesfém rudak; Ékszerdobozok; Ezüst; Jáde ékszerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Orologi da polso; Orologi a pendolo; Braccialetti per orologi [cinturini]; Ancore [orologeria]; Scrigni per orologi; Vetri di orologi; Lingotti di metalli preziosi; Scatole per gioielli; Argento; Articoli di gioielleria in giada.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Rankiniai laikrodžiai; Laikrodžiai [sieniniai, staliniai, bokšto]; Laikrodžių apyrankės; Ankeriai [laikrodžių detalės]; Laikrodžių dovanų dėžutės; Laikrodžių stiklai; Liejiniai (brangiųjų metalų); Juvelyrinių dirbinių dėžutės; Sidabras; Nefritas [juvelyriniai dirbiniai].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Rokas pulksteņi; Pulksteņi; Rokas pulksteņu aproces; Enkuri pulksteņiem un rokas pulksteņiem; Dāvanu kārbiņas rokas pulksteņiem un kabatas pulksteņiem; Pulksteņu stikli; Dārgmetālu stieņi; Dārglietu kārbiņas; Sudrabs; Nefrīta juvelierizstrādājumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Arloġġi ta' l-id; Arloġġi ta' l-id; Ċineg tal-arloġġ tal-idejn; Ankri [għamil ta' arloġġi u arloġġi tal-idejn]; Kaxex tal-preżentazzjoni għall-arloġġi tal-id; Ħġieġ tal-arloġġi; Ingotti tal-metall prezzjuż; Kaxxi għall-ġojjelli; Fidda; Ġada [ġojjellerija].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Polshorloges; Klokken; Horlogebanden; Ankers voor uurwerken; Sierdoosjes voor horloges; Horlogeglazen; Baren van edele metalen; Juwelenkistjes; Zilver; Jade [juwelierswaren].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Zegarki; Zegarki; Paski do zegarków; Kotwiczki [zegarmistrzostwo]; Pudełka do eksponowania zegarków; Szkiełka do zegarków; Sztabki metali szlachetnych; Kasetki na biżuterię [szkatułki]; Srebro; Jadeit [biżuteria].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Relógios de pulso; Relógios; Braceletes para relógios; Âncoras [relojoaria]; Caixas para apresentação de relógios; Vidros para relógios; Lingotes de metais preciosos; Caixas para joias; Prata; Jade [joalharia].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Brățară (Ceasuri cu -); Brățară (Ceasuri cu -); Brățări de ceas; Ancore [ceasornicărie]; Cutii de prezentare pentru ceasuri; Sticlă de ceas; Lingouri de metale prețioase; Casete de bijuterii; Argint; Jad [articole de bijuterie].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Náramkové hodinky; Hodiny; Remienky na náramkové hodinky; Hodinárske kotvičky; Kazety na hodinky; Hodinkové sklíčka; Ingoty z drahých kovov; Šperkovnice; Striebro; Jadeit [šperky].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Ročne ure; Ročne ure; Paščki za ure; Kotve [urarstvo]; Predstavitvene škatlice za ročne ure; Steklo za ure; Ingoti žlahtnih kovin; Škatle za nakit; Srebro; Žad [nakit].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Armbandsur; Klockor; Remmar för armbandsur; Ankare [urdelar]; Presentationsaskar för klockor; Urglas; Tackor av ädelmetaller; Smyckeskrin; Silver; Jade [smycken].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/085</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-07</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/155</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>61580</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

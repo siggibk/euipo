@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-05-07T10:45:30</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229262</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229262</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<ApplicationLanguageCode>sv</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="3">Application withdrawn</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-05-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>D</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162458120</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229262/000162458120.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.21</CategoryCode>
+          <CategoryCode>27.99.04</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="en">Electronic performance measurement device; personal electronic devices used to track fitness goals and statistics; wearable activity trackers; smartwatches; portable digital electronic devices for recording, organizing, transmitting, manipulating, reviewing, and receiving text, data, and digital files; wearable electronic devices, namely, watches, bracelets, and wristbands that are comprised of software that communicates data to personal digital assistants, smart phones, and personal computers through Internet websites and other computer and electronic communication networks; wearable digital electronic devices comprised primarily of software for alerts, messages, emails, and reminders, and for recording, organizing, transmitting, manipulating, reviewing, and receiving text, data, audio, image and digital files and display screens; cables, namely, charging cables; computer peripheral devices; computers; sensors for scientific use to be worn by a human to gather human biometric data; software for alerts, messages, emails, and reminders, and for recording, organizing, transmitting, manipulating, reviewing, and receiving text, data, audio, image and digital files; computer application software for smartphones and mobile devices in the fields of fitness and exercise featuring personal training services, coaching, workouts and fitness assessments; mobile application software for creating personalized fitness training programs; computer application software for smartphones and mobile devices to support corporate wellness programs; computer software development tools; pre-recorded video recordings featuring athletic and fitness sessions.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Elektronisk anordning för mätning av prestanda; personliga elektroniska anordningar för mätning och uppföljning av träningsmål och träningsstatistik; bärbara aktivitetsband; smarta klockor; bärbara digitala elektroniska anordningar för inspelning, organisering, sändning, manipulering, granskning och mottagning av text-, data-, och digitala filer; bärbara elektroniska anordningar, nämligen klockor, armband, och handledsband som består av programvara som kommunicerar data till personliga digitala assistenter, smarta klockor, och personliga dator via webbplatser på Internet och andra datornät och elektroniska kommunikationsnät; bärbara digitala elektroniska anordningar som huvudsakligen består av programvara för varningstexter, meddelande, e-post, och påminnelser, och för inspelning, organisering, sändning, manipulering, granskning och mottagning av text, data, ljudfiler, avbildningar och digitala filer och bildskärmar; kablar, nämligen laddningskablar; kringutrustning anpassade för användning med datorer; datorer; sensorer för vetenskapligt bruk som ska bäras av en människa för att samla mänskliga biometriska data; programvara för varningstexter, meddelande, e-post, och påminnelser, och för inspelning, organisering, sändning, manipulering, granskning och mottagning av text, data, ljudfiler, avbildningar och digitala filer; datortillämpningsprogramvara för smarttelefoner och mobila anordningar inom områden kondition och träning med personliga tränartjänster, handledning, workout och konditionsbedömningar; mjukvaror i form av appar för mobiltelefoner för skapande av personliga konditions- och träningsprogram; datortillämpningsprogramvara för smarttelefoner och mobila anordningar för stöd till företags friskvårdsprogram; verktyg för utveckling av programvara; förinspelade videoinspelningar med tränings- och konditionssessioner.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="en">Training and exercise outfits; base layer/compression; athletic compression garments; athletic shorts; athletic t-shirts; athletic jerseys; athletic sweatshirts; athletic sweatpants; athletic jackets; athletic outerwear; and athletic bandanas; athletic headwear, including athletic caps and athletic hats; athletic socks; athletic footwear and athletic-leisure footwear, including, basketball shoes, training shoes, running shoes, lifestyle shoes, slippers and sandals; sports bags and gym bags.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tränings- och konditionsdräkter; grundskiktslager och kompressionsbaslager; kompressionskläder för idrottsanvändning; idrottsbyxor; idrottströjor; idrottsträningströjor; idrottsträningsbyxor; idrottsjackor; idrottsytterkläder; idrottssnusnäsdukar; idrottshuvudbonader inklusive idrottskepsar och idrotts mössor; idrottsstrumpor; idrottsfotbeklädnader och idrotts-fritidsskor inklusive joggingskor, träningsskor, löparskor, livsstilsskor, tofflor och sandaler; sportväskor och gymnastikväskor.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>US</PriorityCountryCode>
+<PriorityNumber>88876026</PriorityNumber>
+<PriorityDate>2020-04-17</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+<Priority>
+<PriorityCountryCode>US</PriorityCountryCode>
+<PriorityNumber>88876032</PriorityNumber>
+<PriorityDate>2020-04-17</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>17044</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

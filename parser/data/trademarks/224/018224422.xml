@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:34:36</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224422</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224422</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>AMOR</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Сапуни; Сапуни за ръце; Почистващи продукти за ръце; Козметични тоалетни препарати; Шампоан за тяло; Душлосион; Лосиони за тяло; Препарати за грижа за кожата; Почистващи средства за използване върху човешко тяло; Импрегнирани с почистващи средства кърпички за почистване на очила, кърпички, хартиени кърпи и гъби; Средства за почистване.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Mýdla; Mýdla na ruce; Čisticí přípravky na ruce; Toaletní přípravky; Tělové šampony; Sprchové mléko; Tělové vody; Přípravky pro péči o pleť; Čisticí přípravky k použití na lidském těle; Utěrky, ubrousky, papírové ubrousky a houbičky napuštěné čisticími přípravky; Čisticí prostředky pro použití při úklidu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Sæber; Håndsæbe; Håndrensemidler; Toiletartikler; Bodyshampoo; Bruselotioner; Bodylotioner; Hudplejepræparater; Rensemidler til anvendelse på menneskekroppe; Servietter, klude, papirservietter og svampe imprægneret med rensemidler; Rengøringsmidler til rengøringsformål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">mit Reinigungsmitteln imprägnierte Wischtücher, Tücher, Papiertücher und Schwämme; Detergenzien für Reinigungszwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σαπούνια· Σαπούνια χεριών· Παρασκευάσματα καθαρισμού των χεριών· Καλλυντικά παρασκευάσματα· Σαμπουάν σώματος· Λοσιόν για το ντους· Λοσιόν σώματος· Παρασκευάσματα για την περιποίηση του δέρματος· Καθαριστικά για χρήση στο ανθρώπινο σώμα· Πανάκια καθαρισμού εμποτισμένα με παρασκευάσματα καθαρισμού, πανάκια, χαρτομάντιλα και σφουγγάρια· Απορρυπαντικά για χρήση στον καθαρισμό.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Soaps; Hand soaps; Cleaning agents for the hands; Toiletries; Body shampoos; Shower lotions; Body lotions; Skin care preparations; Cleaning agents for application to the human body; Wipes, tissues, paper tissues and sponges impregnated with cleaning agents; Detergents for cleaning use.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Jabones; Jabones de manos; Agentes de limpieza para las manos; Preparaciones de tocador; Champús para el cuerpo; Loción de ducha; Lociones corporales; Preparaciones para el cuidado de la piel; Productos de limpieza para uso tópico en el cuerpo humano; Toallas impregnadas con productos de limpieza, toallitas, tisús de papel y esponjas; Productos de limpieza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Seebid; Käteseebid; Kätepuhastusvahendid; Tualettpreparaadid; Kehašampoonid; Dušiveed; Kehaemulsioonid, ihupiimad kehale; Nahahooldusvahendid; Inimkehal kasutatavad puhastusvahendid; Puhastusvahenditega immutatud pühkimislapid, rätid, paberrätid ja käsnad; Pesuained.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Saippuat; Käsisaippuat; Käsien puhdistusaineet; Kosmeettiset ja peseytymisvalmisteet; Vartalosampoot; Suihkuvoide; Vartaloemulsiot; Ihonhoitovalmisteet; Puhdistusaineet käytettäväksi ihmisvartalolla; Puhdistusaineilla kostutetut liinat, pyyhkeet, paperipyyhkeet ja sienet; Pesuaineet puhdistukseen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Savons; Savons pour les mains; Agents nettoyants pour mains; Préparations de toilette; Shampooings pour le corps; Lotion pour la douche; Lotions corporelles; Préparations pour le soin de la peau; Produits de nettoyage utilisés pour le corps humain; Lingettes imprégnées de produits de nettoyage, lingettes, serviettes en papier et éponges; Produits nettoyants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Sapuni; Sapuni za ruke; Sredstvo za čišćenje ruku; Toaletni pripravci; Šamponi za tijelo; Mlijeko za tuširanje; Losioni za tijelo; Pripravci za njegu kože; Sredstva za čišćenje za primjenu na ljudskome tijelu; Maramice za brisanje, maramice, papirnate maramice i spužve natopljene sredstvima za čišćenje; Deterdženti za čišćenje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szappanok; Kézmosó szappanok; Kéztisztító anyagok; Kozmetikai, szépségápolási készítmények; Tusfürdők; Tusfürdő; Testápolók; Bőrápoló készítmények; Tisztító készítmények az emberi testen való alkalmazásra; Tisztítószerrel átitatott törlőkendők, papírkendők, papírtörlők és szivacsok; Mosószerek tisztításra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Saponi; Saponi per le mani; Agenti purificatori per la pulizia delle mani; Preparati per la toilette; Shampoo per il corpo; Lozioni per la doccia; Lozioni per il corpo; Prodotti per la cura della pelle; Detergenti da applicare sul corpo umano; Panni per la pulizia, salviette, asciugamani di carta e spugne imbevuti di prodotti detergenti; Detergenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Muilas; Rankų muilas; Rankų valymo medžiagos; Tualetiniai preparatai; Kūno šampūnai; Dušo losjonai; Kūno losjonai; Odos priežiūros preparatai; Valikliai, tepami ant kūno; Valymo preparatais impregnuotos valymo servetėlės, servetėlės, popierinės servetėlės ir kempinės; Valymui skirti detergentai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ziepes; Roku ziepes; Roku tīrīšanas līdzekļi; Personiskās tualetes līdzekļi; Ķermeņa šampūni; Dušas losjoni; Ķermeņa losjoni; Ādas kopšanas līdzekļi; Tīrīšanas līdzekļi izmantošanai cilvēka ķermenim; Ar tīrīšanas līdzekļiem piesūcinātas slaucīšanas lupatiņas, salvetes, papīra salvetes un sūkļi; Mazgāšanas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Sapun; Sapun tal-idejn; Prodotti għat-tindif tal-idejn; Preparazzjonijiet tat-twaletta; Xampus għall-banju; Lozjoni tad-doċċa; Lozjonijiet tal-ġisem; Preparazzjonijiet għall-ġilda; Deterġenti għall-użu fuq il-ġisem tal-bniedem; Wipes, xugamani, xugamani tal-karta u sponoż imxarrba b'deterġenti; Diterġenti li jintużaw għat-tindif.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Zepen; Handzepen; Reinigingsmiddelen voor de handen; Preparaten voor de toiletverzorging; Shampoos voor het lichaam; Douche lotion; Bodylotions; Huidverzorgingsproducten; Reinigingsmiddelen voor gebruik op het menselijk lichaam; Doekjes geïmpregneerd met reinigingsmiddelen, doekjes, doekjes van papier en sponsen; Reinigingsmiddelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Mydła; Mydła do rąk; Środki do mycia rak; Preparaty toaletowe; Szampony do ciała; mleczka pod prysznic; Balsamy do ciała; Preparaty do pielęgnacji skóry; Środek czyszczący do stosowania na ludzkim ciele; Chusteczki, ściereczki, ręczniki papierowe i gąbki nasączane detergentami; Detergenty do czyszczenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Sabões; Sabões para as mãos; Agentes de limpeza para as mãos; Artigos de higiene pessoal; Champôs para o corpo; Loções de duche; Loções corporais; Produtos para os cuidados da pele; Produtos de limpeza para uso no corpo humano; Toalhetes impregnados com produtos de limpeza, produtos de higiene pessoal, toalhetes de papel e esponjas; Detergentes para fins de limpeza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Săpunuri; Săpunuri pentru mâini; Produse de curăţare pentru mâini; Produse de toaletă; Şampoane pentru corp; Loţiune de duş; Loţiuni de corp; Preparate pentru îngrijirea pielii; Produse de curățare destinate utilizării pe corpul uman; Lavete, șervețele, șervețele din hârtie și bureți impregnați cu produse de curățare; Detergenti pentru curatenie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Mydlá; Mydlá na ruky; Čistiace prostriedky na ruky; Toaletné prípravky; Telové šampóny; Sprchovacie mlieko; Telové mlieka; Pleťová kozmetika; Čistiace prostriedky na použitie na ľudskom tele; S čistiacimi prostriedkami impregnované obrúsky na utieranie, obrúsky, papierové obrúsky a špongie; Čistiace prostriedky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Mila; Mila za roke; Čistilna sredstva za roke; Toaletna sredstva; Šamponi za telo; Losijon po tuširanju; Losjoni za telo; Sredstva za nego kože; Čistilna sredstva za uporabo na človeškem telesu; Vpojni robčki, robčki, papirnati robčki in gobice, impregnirani s čistilnim sredstvom; Detergenti za čiščenje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tvål; Handtvålar; Rengöringspreparat för händerna; Toalettartiklar; Kroppsschampo; Duschlotion; Kroppslotioner; Hudvårdspreparat; Rengöringsmedel för användning på den mänskliga kroppen; Med rengöringsmedel impregnerande servetter, dukar, pappersnäsdukar och tvättsvampar; Rengöringspreparat.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Артикули, напоени с дезинфектант или антибактериален продукт; Артикули, напоени с антисептичен продукт; Антибактериални и бактерицидни средства и препарати; Дезинфектанти; Кърпи, бърсалки, кърпички и гъби, напоени с дезинфектант; Кърпи, бърсалки, кърпички и гъби, напоени с антисептични и антибактериални препарати; Дезинфекциращи средства за използване върху човешко тяло; Дезинфекционни средства за хигиенни цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Výrobky napuštěné desinfekčními a antibakteriálními výrobky; Výrobky impregnované antiseptickými přípravky; Antibakteriální a dezinfekční přípravky a prostředky; Dezinfekční přípravky; Hadříky, utěrky, kapesníky a mycí houby napuštěné dezinfekčním prostředkem; Utěrky, hadříky, ubrousky a houby napuštěné antiseptickými nebo antibakteriálními přípravky; Dezinfekční přípravky k použití na lidském těle; Dezinfekční přípravky pro hygienické účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Varer imprægneret med et desinfiktionsmiddel eller et antibakterielt produkt; Varer imprægneret med et antiseptisk produkt; Antibakterielle midler og præparater og germicider; Desinfektionsmidler; Klæder, servietter, klude og svampe imprægneret med et desinfektionsmiddel; Klude, rengøringsklude, servietter og svampe imprægneret med antiseptiske eller antibakterielle præparater; Desinfektionsmidler til brug på menneskekroppen; Desinfektionsmidler til hygiejniske formål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Mit Desinfektionsmitteln oder antibakteriellen Mitteln imprägnierte Artikel; mit antiseptischen Mitteln imprägnierte Artikel; antibakterielle und keimtötende Mittel und Präparate; Desinfektionsmittel; mit Desinfektionsmitteln imprägnierte Lappen, Wischtücher, Tücher und Schwämme; mit antiseptischen oder antibakteriellen Mitteln getränkte Tücher, Wischtücher, Lappen und Schwämme; Desinfektionsmittel zur Anwendung am menschlichen Körper; Desinfektionsmittel für Reinigungszwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Είδη εμποτισμένα με απολυμαντικό ή αντιβακτηριακό προϊόν· Είδη εμποτισμένα με αντισηπτικό προϊόν· Αντιβακτηριδιακά και μικροβιοκτόνα μέσα και παρασκευάσματα· Απολυμαντικά· Πανιά, πανάκια, μαντιλάκια και σφουγγάρια εμποτισμένα με απολυμαντικά· Πανιά, μαντιλάκια, πανάκια και σφουγγάρια εμποτισμένα με αντισηπτικά ή αντιβακτηριδιακά παρασκευάσματα· Απολυμαντικά για χρήση στο ανθρώπινο σώμα· Απολυμαντικά για σκοπούς υγιεινής.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Articles impregnated with a disinfectant or anti-bacterial product; Articles impregnated with an antiseptic product; Antibacterial preparations and germicides; Disinfectants; Cloths, wipes, tissues and sponges impregnated with disinfectant; cloths, wipes, tissues and sponges impregnated with antiseptic or antibacterial preparations; Disinfectants for application to the human body; Disinfectants for hygiene purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Artículos impregnados con un desinfectante o producto antibacteriano; Artículos impregnados con un producto antiséptico; Preparados antibacterianos y germicidas; Desinfectantes; Paños, trapos, pañuelos de papel y esponjas impregnados con desinfectante; Paños, trapos, pañuelos y esponjas impregnados de preparaciones antisépticas o antibacterianas; Desinfectantes para uso tópico en el cuerpo humano; Desinfectantes con finalidades higiénicas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Desinfitseeriva või antibakteriaalse tootega immutatud kaubad; Antiseptilise ainega immutatud artiklid; Antibakteriaalsed ja mikroobe hävitavad ained ja preparaadid; Desinfektsioonivahendid; Desinfitseerivate vahenditega immutatud riided, lapid, salvrätid ja käsnad; Antiseptiliste või antibakteriaalsete ainetega immutatud rätid, lapid, salvrätid ja käsnad; Desinfektsioonivahendid kasutamiseks inimkehal; Desinfektsioonivahendid hügieeniotstarbeliseks kasutuseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Desinfiointiaineilla tai antibakteerisilla aineilla kyllästetyt tavarat; Antiseptisella tuotteella kyllästetyt tavarat; Antibakteeriset ja pieneliöitä tuhoavat aineet ja valmisteet; Desinfiointiaineet; Kankaat, pyyhkeet, liinat ja sienet, jotka on kyllästetty desinfiointiaineella; Rievut, pyyhkeet, liinat ja sienet, jotka on kyllästetty antiseptisillä tai bakteereja tuhoavilla valmisteilla; Desinfiointiaineet käytettäväksi ihmisvartalolla; Desinfiointiaineet hygieniakäyttöön.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Articles imprégnés d'un produit désinfectant ou antibactérien; Articles imprégnés d’un produit antiseptique; Produits et préparations antibactériens et germicides; Désinfectants; Chiffons, lingettes, serviettes et éponges imprégnés d'un produit désinfectant; Chiffons, lingettes, serviettes et éponges imprégnés de préparations antiseptiques ou antibactériennes; Produits désinfectants utilisés pour le corps humain; Désinfectants à usage hygiéniques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Proizvodi impregnirani sredstvom za dezinfekciju ili antibakterijskim sredstvom; Artikli impregnirani antiseptičkim proizvodima; Antibakterijski sredstva i pripravci i sredstva i pripravci za uništavanje klica; Dezinfekcijska sredstva; Krpe, maramice i spužve impregnirane dezinfekcijskim sredstvom; Krpe, krpice, maramice i spužve impregnirane antiseptičkim ili antibakterijskim preparatima; Dezinfekcijska sredstva za primjenu na ljudskome tijelu; Dezinfekcijska sredstva za potrebe čišćenja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fertőtlenítőszerrel vagy baktériumölő termékkel átitatott cikkek; Antiszeptikus termékkel átitatott cikkek; Antibakteriális és csíraölő szerek és készítmények; Fertőtlenítőszerek; Fertőtlenítőszerrel átitatott ruhák, törlők, szövetek és szivacsok; Fertőtlenítő vagy antibakteriális készítményekkel impregnált kendők, törlőkendők, papírkendők és szivacsok; Fertőtlenítőszerek az emberi testen való alkalmazásra; Fertőtlenítőszerek higéniás használatra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Articoli imbevuti di disinfettanti o prodotti antibatterici; Articoli imbevuti di un prodotto antisettico; Agenti e preparati antibatterici e germicidi; Disinfettanti; Assorbenti, salviette, fazzoletti e spugne imbevute di disinfettanti; Panni, salviette, fazzoletti e spugne imbevuti di prodotti antisettici o antibatterici; Disinfettanti da applicare sul corpo umano; Disinfettanti per uso igienico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Daiktai, impregnuoti dezinfekantais ar antibakteriniais produktais; Gaminiai, įmirkyti antiseptiniais produktais; Antibakteriniai ir antiparazitiniai preparatai ir medžiagos; Dezinfekavimo preparatai; Audiniai, šluostės, servetėlės ir kempinės, įmirkytos dezinfekavimo medžiagomis; Audiniai, šluostės, servetėlės ir kempinės, įmirkytos antiseptiniais arba antibakteriniais preparatais; Dezinfekavimo preparatai, tepami ant kūno; Dezinfekavimo priemonės higienos reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Priekšmeti, kas piesūcināti ar dezinfekcijas līdzekļiem vai baktericīdiem; Priekšmeti, kas piesūcināti ar antiseptiskiem līdzekļiem; Antibakteriāli līdzekļi un baktericīdi un preparāti; Dezinfekcijas līdzekļi; Drāniņas, salvetes, salvetes un sūkļi, kas piesūcināti ar dezinfekcijas līdzekļiem; Drāniņas, salvetes, lupatiņas un sūkļi, kas piesūcināti ar antiseptiskiem vai antibakteriāliem līdzekļiem; Dezinfekcijas līdzekļi izmantošanai cilvēka ķermenim; Dezinfekcijas līdzekļi higiēnas vajadzībām.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Artikli mħallta b'diżinfettant jew prodotti anti-batteriċi; Oġġetti mimlija bi prodott antisettiku; Prodotti u preparazzjonijiet antibatteriċi u ġermiċidi; Diżinfettanti; Biċċiet, karti tal-imsiħ, tixus u sponoż imxarrba b'diżinfettant; Biċċiet, wajps, tixjus u sponoż mimlija bi preparazzjonijiet antisettiċi u kontra l-batterji; Diżinfettanti għall-użu fuq il-ġisem tal-bniedem; Diżinfettanti għall-użu iġjeniku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Artikelen geïmpregneerd met een ontsmettingsmiddel of een antibacterieel product; Artikelen geïmpregneerd met een antiseptisch product; Antibacteriële en kiemdodende middelen en preparaten; Ontsmettingsmiddelen; Handdoeken, doekjes, tissues en sponzen geïmpregneerd met ontsmettingsmiddelen; Doeken, doekjes, tissues en sponzen geïmpregneerd met antiseptische of antibacteriële preparaten; Ontsmettingsmiddelen voor gebruik op het menselijk lichaam; Ontsmettingsmiddelen voor hygiënische doeleinden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Artykuły nasączane dezynfekantami lub środkami antybakteryjnymi; Artykuły nasączone środkami antyseptycznymi; Środki i preparaty antybakteryjne i bakteriobójcze; Środki odkażające; Szmatki, chusteczki, chusteczki higieniczne i gąbki nasączone dezynfektatami; Szmatki, chusteczki, chusteczki higieniczne i gąbki nasączone preparatami odkażającymi i antybakteryjnymi; Środek dezynfekujący do stosowania na ciele ludzkim; Środki dezynfekcyjne do celów higienicznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Artigos impregnados com desinfetantes ou produtos antibacterianos; Artigos impregnados com produtos antisséticos; Produtos e preparações antibacterianos e germicidas; Desinfectantes; Panos, toalhetes, lenços e esponjas impregnados com desinfectante; Panos, toalhetes, lenços e esponjas impregnados com produtos antisséticos ou antibacterianos; Produtos desinfetantes para uso no corpo humano; Desinfectantes para uso higiénico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Articole impregnate cu un produs dezinfectant sau antibacterian; Articole impregnate cu un produs antiseptic; Produse și preparate antibacteriene și germicide; Dezinfectante; Lavete, şerveţele, batistuţe şi bureţi impregnaţi cu dezinfectant; Lavete, șervețele, batistuțe și bureți impregnați cu preparate antiseptice sau bacteriene; Dezinfectante destinate utilizării pe corpul uman; Produse dezinfectante pentru uz igienic.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Výrobky napustené dezinfekčnými prostriedkami alebo antibakteriálnymi prostriedkami; Výrobky napustené antiseptickými prostriedkami; Antibakteriálne a germicídy [dezinfekčné prípravky] a prípravky; Dezinfekčné prostriedky; Rukavice, látky a utierky napustené dezinfekčnými prípravkami; Utierky, handričky, látky a špongie napustené dezinfekčnými alebo antibakteriálnymi prípravkami; Dezinfekčné prípravky na použitie na ľudskom tele; Dezinfekčné prípravky na hygienické účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Izdelki, prepojeni z dezinfekcijskim ali antibakterijskim sredstvom; Izdelki, prepojeni z antiseptičnim sredstvom; Antibakterijska in razkuževalna sredstva in pripravki; Dezinfekcijska sredstva; Krpe, brisače, robčki in gobe, prepojeni z dezinfencijskim sredstvom; Krpe, brisače, robčki in gobe, impregnirani z antiseptičnimi in antibakterijskimi pripravki; Dezinfekcijska sredstva za uporabo na človeškem telesu; Dezinfekcijska sredstva za higienske namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Artiklar impregnerade med ett desinfektionsmedel eller en bakteriedödande produkt; Artiklar impregnerade med en antiseptisk produkt; Antibakteriella och bakteriedödande medel och preparat; Desinfektionsmedel; Dukar, torkdukar, servetter och svampar impregnerade med desinfektionsmedel; Trasor, torkdukar, servetter och svampar impregnerade med antiseptiska eller antibakteriella medel; Desinfektionsmedel för användning på den mänskliga kroppen; Desinfektionsmedel för hygieniska ändamål.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Защитни маски.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Ochranné masky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beskyttelsesmasker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schutzmasken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Προστατευτικές μάσκες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Protective masks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Máscaras de protección.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kaitsemaskid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Suojanaamarit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Masques de protection.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Zaštitne maske.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Védőálarcok/-maszkok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Maschere di protezione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kaukės (Apsauginės -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Aizsargmaskas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Maskri protettivi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Veiligheidsmaskers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maski ochronne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máscaras de proteção.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Măşti de protecţie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Ochranné masky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zaščitne maske.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Skyddsmasker.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Маски за медицински персонал, Хирургически маски, Маски за медицински персонал; Защитни маски за употреба от медицински работници.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Roušky pro lékařský personál, Chirurgické masky, Roušky pro lékařský personál; Ochranné masky používané pracovníky ve zdravotnictví.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Masker til brug for medicinsk personel, Kirurgmasker, Masker til brug for medicinsk personel; Beskyttelsesmasker til medicinsk personale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Medizinische Masken, chirurgische Masken, Masken für medizinisches Personal; Schutzmasken für medizinisches Personal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μάσκες για το ιατρικό προσωπικό, Χειρουργικές μάσκες, Μάσκες για το ιατρικό προσωπικό· Προστατευτικές μάσκες για εργαζομένους στον τομέα της ιατρικής.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Masks for use by medical personnel, Surgical masks, Masks for use by medical personnel; Protective masks for use by persons working in medicine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Mascarillas para personal médico, Mascarillas quirúrgicas, Mascarillas para personal médico; Mascarillas de protección para personas que trabajan en medicina.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Maskid meditsiinipersonalile, Kirurgimaskid, Maskid meditsiinipersonalile; Kaitsemaskid meditsiinipersonalile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Suojanaamarit lääkintähenkilökuntaa varten, Kirurgiset kasvosuojukset, Suojanaamarit lääkintähenkilökuntaa varten; Suojanaamiot lääketieteen alalla toimivien henkilöiden käyttöön.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Masques utilisés par le personnel médical, Masques chirurgicaux, Masques utilisés par le personnel médical; Masques de protection pour le personnel médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Maske za medicinsko osoblje, Kirurške maske, Maske za medicinsko osoblje; Zaštitne maske za medicinske djelatnike.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Maszkok egészségügyi személyzet általi használatra, Sebészmaszkok, Maszkok egészségügyi személyzet általi használatra; Védőmaszkok egészségügyi [orvosi] személyzet számára.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Maschere utilizzate dal personale medico, Maschere chirurgiche, Maschere utilizzate dal personale medico; Maschere protettive destinate a coloro che operano in ambito medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kaukės medicinos personalui, Chirurginės kaukės, Kaukės medicinos personalui; Apsauginės kaukės medicinos srityje dirbančių asmenų reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medicīnas personālam paredzētās maskas, Ķirurģiskas maskas, Medicīnas personālam paredzētās maskas; Aizsargmaskas medicīnas darbiniekiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Maskri għal personal mediku, Maskri kirurġiċi, Maskri għal personal mediku; Maskri protettivi għall-użu minn persuni li jaħdmu fil-qasam tal-mediċina.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Maskers te gebruiken door medisch personeel, Chirurgische maskers, Maskers te gebruiken door medisch personeel; Beschermende maskers voor gebruik door personen die werkzaam zijn in de medische sector.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maski stosowane przez personel medyczny, Maski chirurgiczne, Maski stosowane przez personel medyczny; Maski ochronne do użytku przez pracowników medycznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máscaras para pessoal médico, Máscaras cirúrgicas, Máscaras para pessoal médico; Máscaras de proteção para uso por profissionais de medicina.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Măşti utilizate de personalul medical, Masti chirurgicale, Măşti utilizate de personalul medical; Măşti de protecţie utilizate de persoane care lucrează în domeniul medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Rúška (pre nemocničný personál), Chirurgické masky, Rúška (pre nemocničný personál); Ochranné masky pre osoby pracujúce v oblasti medicíny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Maske za medicinsko osebje, Kirurške maske, Maske za medicinsko osebje; Zaščitne maske za medicinsko osebje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Munskydd för medicinsk personal, Kirurgiska masker, Munskydd för medicinsk personal; Skyddsmasker för personer som arbetar inom sjukvården.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/078</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>491318</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10689</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

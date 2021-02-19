@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:34:32</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226763</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226763</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>sk</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>INDUSTRY INVESTMENT</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162316335</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226763/000162316335.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>07.01.12</CategoryCode>
+          <CategoryCode>26.07.20</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>4</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Електрическа енергия.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Elektrická energie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Elektrisk energi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Elektrische Energie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ηλεκτρική ενέργεια.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Electrical energy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Energía eléctrica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Elektrienergia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sähköenergia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Énergie électrique.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Električna energija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Elektromos energia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Energia elettrica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Elektros energija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Elektroenerģija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Enerġija elettrika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Elektrische energie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Energia elektryczna.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Energia elétrica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Energie electrică.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Elektrická energia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Električna energija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Elektrisk energi.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>37</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Строителство, изграждане и събаряне.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Stavebnictví a demolice staveb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Bygning, opførelse og nedrivning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bau-, Montage- und Abbrucharbeiten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εργασίες οικοδομής, κατασκευής και κατεδάφισης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Building, construction and demolition.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de edificación, construcción y demolición.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ehitus- ja lammutustööd.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Rakentaminen, pystytys ja purkaminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Construction et démolition.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Izgradnja, građevinarstvo i rušenje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Építés, építkezés és bontás.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Edilizia, costruzione e demolizione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Statyba ir nugriovimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Būvniecība un būvju nojaukšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Bini, kostruzzjoni u demolizzjoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bouw, constructie en sloop.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi budowlane, konstrukcyjne, rozbiórkowe i wyburzeniowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Edificação, construção e demolição.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Construcții și demolări de clădiri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Stavebníctvo a búracie práce.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Gradnja in rušenje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Byggnation, konstruktion och rivning.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Информационно-технологични услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby v oblasti informačních technologií.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">IT tjenesteydelser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">IT-Dienstleistungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες τεχνολογιών της πληροφορικής.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">IT services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de tecnologías de la información.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">IT-teenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">IT-palvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services des technologies de l'information.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge informacijske tehnologije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Információtechnológiai [IT] szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi informatici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Informacinių technologijų paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Informācijas tehnoloģiju pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi tal-IT.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">IT-diensten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi w zakresie technologii informacyjnych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de TI (tecnologias de informação).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii IT.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Informačné technológie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve informacijske tehnologije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">IT-tjänster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/079</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080419</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

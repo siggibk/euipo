@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-15T17:20:32</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228524</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228524</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-09-11</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ecowin taste life</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162459063</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/228/018228524/000162459063.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>03.07.19</CategoryCode>
+          <CategoryCode>07.01.24</CategoryCode>
+          <CategoryCode>07.01.25</CategoryCode>
+          <CategoryCode>11.03.18</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>21</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Декоративни скулптори, изработени от порцелан; Вази; Топлоизолирани домакински съдове от керамика; Купи; Чинии; Тенджери; Домакински изделия за почистване, четки и материали за изработване на четки; Почистващи четки; Тенджери за готвене; Съдове за пиене; Тигани; Кухненски съдове, не от благороден метал; Метални тави; Капаци за тенджери; Тенджери с капак; Сервизи за чай, не от благороден метал.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Ozdobné figurky vyrobené z porcelánu; Vázy; Termoizolační keramické nádoby pro domácnost; Misky; Stolní talíře; Hrnce; Domácí náčiní k úklidu, kartáče a materiály na výrobu kartáčů; Kartáče na čištění; Hrnce na vaření; Nádoby na pití; Pánve na smažení; Kuchyňské dózy a krabičky; Kovové nádobí; Poklice, pokličky na hrnce; Kastroly; Čajové servisy [stolní nádobí].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Skulpturer [pyntegenstande] af porcelæn; Vaser; Varmeisolerede lertøjsbeholdere til brug i hjemmet; Spølkum; Tallerkner; Potter; Redskaber til rengøring i hjemmet, børster og børstenbindermateriale; Børster til rengøring; Gryder; Drikkebeholdere; Stegepander; Køkkenbeholdere; Pander af metal; Krukkelåg; Kasseroller; Teservicer [bordservice].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Porzellanstatuen; Vasen; Wärmeisolierte Haushaltsgefäße aus Steingut; Schalen; Geschirr; Töpfe; Haushaltsreinigungsgegenstände, Bürsten und Bürstenmachermaterialien; Reinigungspinsel; Kochtöpfe; Trinkgefäße; Bratpfannen; Küchengefäße; Pfannen aus Metall; Topfdeckel; Kasserollen; Teeservice [Tafelgeschirr].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διακοσμητικά γλυπτά από σινική πορσελάνη· Βάζα· Θερμομονωτικά οικιακά δοχεία από φαγεντιανά· Γαβάθες· Πιατέλες· Δοχεία· Οικιακά σύνεργα καθαρισμού, βούρτσες και υλικά ψηκτροποιίας· Βούρτσες καθαρισμού· Μαγειρικά σκεύη· Πόσης (Δοχεία -)· Μεγάλα ρηχά τηγάνια με μακρύ χερούλι· Δοχεία μαγειρικής χρήσης· Μεταλλικά τηγάνια· Καπάκια δοχείων· Κατσαρόλες μεσαίου μεγέθους· Σερβίτσια τσαγιού [επιτραπέζια σκεύη].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Sculptures of porcelain; Vases; Heat insulated domestic vessels of earthenware; Bowls; Plates; Pots; Household utensils for cleaning, brushes and brush-making materials; Cleaning brushes; Cooking pots; Drinking vessels; Frying pans; Kitchen containers; Metal pans; Pot lids; Saucepans; Tea services in the nature of tableware.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Esculturas ornamentales hechas de porcelana china; Jarrones; Recipientes domésticos termoaislados de loza; Boles; Platos; Vasijas; Utensilios domésticos de limpieza, cepillos y materiales para fabricar cepillos; Cepillos de limpieza; Ollas; Recipientes para beber; Sartenes; Recipientes de cocina; Cazuelas metálicas; Tapas de olla; Cacerolas; Servicios de té.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Portselanist dekoratiivskulptuurid; Vaasid; Savist soojusisolatsiooniga majapidamisnõud; Kausid, vaagnad; Taldrikud; Potid; Puhastusvahendid majatarvetena, harjad ja harjamaterjalid; Puhastusharjad; Keedupotid, kastrulid; Jooginõud; Praepannid; Köögimahutid; Metallpannid; Potikaaned; Haudepotid; Teeserviisid [lauanõud].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Koristeveistokset posliinista; Maljakot; Keraamiset lämpöeristetyt astiat kotikäyttöön; Vadit [astiat]; Lautaset; Ruukut; Kodinpuhdistusvälineet, harjat ja harjanvalmistusaineet; Puhdistusharjat; Keittokattilat; Juoma-astiat; Paistinpannut; Keittiön säilytysastiat; Metalliset pannut; Kattilankannet; Kasarit; Teeserviisit [astiastot].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Figurines en verre décoratif; Vases; Récipients domestiques calorifuges en faïence; Bols; Assiettes; Pots; Ustensiles de nettoyage, brosses et matériaux pour la brosserie; Brosses pour nettoyer; Marmites; Récipients à boire; Poêles à frire; Récipients de cuisine; Poêles métalliques; Couvercles de pots; Casseroles; Services à thé.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kipovi od porculana; Vaze; Toplinski izolirane kućanske zemljane posude; Plitice [zdjelice]; Tanjuri; Ćupovi; Kućanski pribor za čišćenje, četke i materijali za izradu četki; Četke za čišćenje; Lonci; Posude za pića; Tave za prženje; Kuhinjske posude; Metalne tave; Poklopci za lonce; Lonci za pirjanje; Čaj [servisi za čaj].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szobrok [dísztárgyak] porcelánból; Vázák; Hőszigetelt háztartási cserépedények; Mosdótálak, lavórok; Tányérok; Edények, fazekak; Háztartási tisztítóeszközök, kefék és kefekészítő anyagok; Tisztítókefék; Főzőedények; Ivóedények; Serpenyők; Konyhai dobozok, tárolók; Fémserpenyők; Fazékfedők; Nyeles lábasok; Teáskészletek [terítékek].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Sculture ornamentali in porcellana fine; Vasi; Recipienti domestici termoisolanti in terracotta; Bacinelle; Piatti; Vasetti; Utensili per le pulizie domestiche, spazzole e materiali per la fabbricazione di spazzole; Spazzole per pulire; Marmitte; Recipienti per bere; Padelle; Recipienti per la cucina; Padelle metalliche; Coperchi per vasi; Casseruole; Servizi da tè.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Porcelianinės dekoratyvinės statulėlės; Vazos; Buitiniai keraminiai indai su šilumos izoliacija; Katiliukai; Lėkštės; Puodai; Namų apyvokos valymo reikmenys, šepečiai ir šepečių darymo medžiagos; Valymo šepečiai; Verdamieji puodai; Geriamieji indai; Keptuvės; Virtuviniai konteineriai; Metalinės keptuvės; Puodų dangteliai; Puodai (žemi); Arbatos servizai [valgomieji reikmenys].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">No porcelāna izgatavotas dekoratīvas skulptūras; Vāzes; Mājsaimniecības trauki no keramikas ar siltuma izolāciju; Bļodas [tvertnes]; Šķīvji; Podi; Mājsaimniecības piederumi tīrīšanai, birstes un birstu izgatavošanas materiāli; Tīrīšanas sukas; Katli ēdiena gatavošanai; Dzērienu trauki; Pannas ar garu rokturi; Virtuves kārbas; Metāla pannas; Katlu vāki; Kastroļi; Tējas servīzes [galda piederumi].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Skulturi ornamentali magħmulin mill-porċellana; Vażuni; Reċipjenti tal-fuħħar domestiċi, nsulati mis-sħana; Friskaturi [skutelli]; Platti li fihom jisserva l-ikel; Reċipjenti; Utensili domestiċi għat-tindif, xkupilji u materjali biex tagħmel l-ixkupilji u l-pniezel; Xkupilji għat-tindif; Borom għat-tisjir; Reċipjenti għax-xorb; Twaġen għall-qali; Reċipjenti tal-kċina; Twaġen tal-metall; Għotjien tal-borom; Kazzoli; Servizzi tat-tè [oġġetti tal-mejda].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Sierbeeldjes vervaardigd uit porselein; Vazen; Vaten (Warmte-isolerende -) van aardewerk, voor huishoudelijk gebruik; Kommen; Borden; Potten; Huishoudelijk schoonmaakgerei, borstels en materialen voor de borstelfabricage; Borstels voor reinigingsdoeleinden; Kookpannen; Drinkgerei; Bakpannen; Houders voor de keuken; Metalen pannen; Potdeksels; Stoofpannen; Theeserviezen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Ozdobne rzeźby wykonane z porcelany; Wazony; Termoizolowane naczynia domowe z ceramiki; Miseczki; Talerze; Garnki; Przybory do użytku domowego do czyszczenia, szczotki i materiały do wytwarzania szczotek; Szczotki do sprzątania; Garnki kuchenne; Naczynia na napoje; Patelnie; Pojemniki kuchenne; Rondle metalowe; Pokrywki do garnków; Rondle; Serwisy do herbaty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Estátuas decorativas feitas de louça chinesa; Vasos; Recipientes em faiança com isolamento térmico para uso doméstico; Bacias [pias]; Louça; Jarras; Utensílios domésticos para a limpeza, escovas e materiais para o fabrico de escovas; Escovas para limpeza; Panelas; Recipientes para bebidas; Frigideiras; Recipientes para cozinha; Panelas em metal; Tampas de panelas; Caçarolas; Serviços de chá [louça de mesa].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Sculpturi ornamentale realizate din porţelan; Vaze; Vase de uz casnic termoizolate de ceramică; Chiuvete; Farfurii; Vase; Ustensile de uz menajer pentru curățat, perii și materiale pentru perii; Perii de curăţare; Oale de gătit; Recipiente de băut; Tigăi; Bucătărie (Recipiente pentru -); Cratiţe metalice; Capace pentru vase; Cratiţe; Servicii de ceai [veselă].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Ozdobné sochy z porcelánu; Vázy; Keramické termoizolačné nádoby do domácnosti; Misy; Taniere; Hrnce, hrnčeky; Domáce alebo kuchynské potreby na čistenie, kefy a materiály na výrobu kief; Čistiace kefy; Kuchynské hrnce; Poháre, šálky, hrnčeky na pitie; Panvice na vyprážanie; Kuchynské nádoby; Kovové panvice; Pokrievky na hrnce; Kastróly; Čajové súpravy (stolový riad).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Okrasne skulpture iz porcelana; Vaze; Toplotno izolirane posode za dom iz gline; Umivalniki (sklede); Krožniki; Lonci; Gospodinjski pripomočki za čiščenje, krtače in materiali za ščetkarstvo; Krtače za čiščenje; Veliki lonci; Posode za pitje; Ponve za cvrtje; Kuhinjske posode; Kovinske ponve; Pokrovke za lonce; Ponve; Čajni servisi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Prydnadsfiguriner gjorda av finare porslin; Vaser; Värmeisolerade hushållskärl av lergods; Bunkar [skålar]; Fat; Krukor; Hushållsredskap för rengöringsändamål, borstar och borstmakerimaterial; Rengöringsborstar; Matlagningsgrytor; Dryckeskärl; Stekpannor; Köksbehållare; Metallpannor; Grytlock; Kastruller; Teserviser [bordsserviser].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/104</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/175</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-14</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082028</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>32203</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

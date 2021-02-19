@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-29T08:34:37</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224149</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224149</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-09-25</RegistrationDate>
+<ApplicationLanguageCode>pl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>QUBESHOT</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Фотографски устройства, прибори и аксесоари; Покривала без сянка; Светкавици за фотоапарати; Студийни рефлекторни лампи; Фотографски фолиа; Фото чадъри; Стойки, пригодени за фотографски устройства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Fotografická zařízení, přístroje a příslušenství; Bezstínové stany; Blesky pro fotoaparáty; Studiové reflektorové osvětlovací tělesa; Fotografické fólie; Fotografické deštníky; Stojany pro fotografická zařízení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Apparater, instrumenter og tilbehør til fotografering; Skyggefri telte; Blitzlamper til kameraer; Reflektorlamper til studier; Folie til fotografering; Paraplyer til fotografering; Stativer tilpasset til fotografiske enheder.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Fotoapparate, -vorrichtungen und -zubehör; Schattenlose Zelte; Kamerablitze; Studioreflektorlampen; Fotografische Folien; Reflex-Schirme für Fotografie; Angepasste Ständer für fotografische Geräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συσκευές, όργανα και εξαρτήματα φωτογραφικά· Ασκίαστα αντίσκηνα· Φλας καμερών· Λαμπτήρες αντανάκλασης για στούντιο· Φωτογραφικές μεμβράνες· Φωτογραφικές ομπρέλες· Τρίποδα φωτογραφικών συσκευών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Photographic apparatus, instruments and accessories; Shadowless tents; Camera flashes; Studio lights; Photographic films; Umbrellas for use in photography; Stands for photographic apparatus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aparatos, instrumentos y accesorios fotográficos; Tiendas de campaña sin sombra; Flashes de cámaras; Lámparas reflectantes de estudio; Películas fotográficas; Paraguas para fotografía; Soportes utilizados en aparatos fotográficos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Fotograafiaseadmed, -vahendid ja -tarvikud; Varjuvabad telgid; Kaamerate välklambid; Stuudiote peegellambid; Fotograafiakiled; Fotograafia-päikesevarjud; Fotograafiaseadmete statiivid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Valokuvauslaitteet, -välineet ja -tarvikkeet; Kuvausteltat; Kameroiden salamavalot; Heijastuslamput studiokäyttöön; Kalvot valokuvauskäyttöön; Sateenvarjot valokuvaukseen; Valokuvauslaitteiden jalustat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Appareils, instruments et accessoires photographiques; Tentes de prise de vue; Flashs d'appareils photographiques; Lampes réfléchissantes de studio; Films photographiques; Parapluies pour photographie; Supports adaptés au matériel photographique.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Fotografski uređaji, instrumenti i dodaci; Šatori za fotografiranje bez sjene; Bljeskalica fotoaparata; Studijski reflektori; Fotografski filmovi; Fotografski kišobrani; Stalci prilagođeni za fotografske uređaje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fényképészeti berendezések, készülékek és tartozékok; Tárgyfotó sátrak; Kameravakuk; Stúdióreflektorok; Fényképészeti fóliák; Fényképészeti védőernyők; Fényképészeti berendezésekhez való állványok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Apparecchi, strumenti e accessori fotografici; Tende per fotografia senza ombre; Apparecchi flash fotografici; Riflettori (lampade) per studi; Pellicole fotografiche; Ombrelli per fotografia; Supporti per apparecchiature fotografiche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Fotografijos įranga, instrumentai ir priedai; Bešešėlės palapinės; Kamerų blykstės; Studijos atspindimosios lempos; Fotografijų skaidrės; Fotografavimo skėčiai; Stovai, pritaikyti fotografijos prietaisams.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Foto ierīces, instrumenti un piederumi; Teltis fotografēšanai bez ēnām; Fotokameru zibspuldzes; Studiju atstarošanas lampas; Fotogrāfiju kabatiņas; Foto lietussargi; Fotoierīcēm piemēroti statīvi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħmir, strumenti u aċċessorji fotografiċi; Kaxxi mingħajr dell; Flexx tal-kameras; Lampi li jirriflettu għal studjo; Fojls fotografiċi; Umbrelel għall-fotografija; Stends adattati għall-apparat fotografiku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Fototoestellen, -instrumenten en -accessoires; Schaduwvrije opnametenten; Flitsen voor camera's; Reflectoren voor studiolampen; Fotografische folies; Paraplu's voor het fotograferen; Statieven die geschikt zijn voor fototoestellen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">urządzenia, przyrządy i akcesoria fotograficzne; namioty bezcieniowe; lampy fotograficzne; reflektory studyjne; folie fotograficzne; parasolki do fotografii; stojaki przystosowane do urządzeń fotograficznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Dispositivos, instrumentos e acessórios fotográficos; Tendas sem sombras; Flashes para câmaras; Refletores (lâmpadas) de estúdio; Películas fotográficas; Sombrinhas para fotografias; Suportes adaptados ao equipamento fotográfico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dispozitive, aparate și accesorii fotografice; Corturi pentru fotografia de produs; Blituri pentru camere; Reflectoare pentru studiouri; Folii fotografice; Umbrele pentru fotografii; Suporturi adaptabile pentru dispozitive fotografice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Fotografické vybavenie, nástroje a príslušenstvo; Svetelné stany na beztieňové fotografovanie; Blesky fotoaparátov; Štúdiové reflektorové lampy; Fotografické fólie; Dáždniky pre fotografiu; Stojany upravené pre fotografické prístroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Fotografski aparati, instrumenti in dodatki; Studijski šotori; Bliskavice, fotografski fleš aparati; Studijske reflektorske luči; Fotografski filmi; Sončniki za fotografiranje; Stojala, prilagojena za fotografske naprave.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Anordningar, instrument och och tillbehör för foto; Skuggfria tält; Fotoblixtapparater; Studiostrålkastarlampor; Fotografisk film; Fotoparasoller; Ställ för fotoutrustning.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/113</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/186</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>30979</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

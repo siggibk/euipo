@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:10</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224698</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224698</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>UPLIFT</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Медицинско устройство, а именно, преносима възглавница за повдигане на седалка с цел подпомагане на хора при тяхното внимателно сядане и ставане от столове, дивани и други повърхности.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Lékařská zařízení, jmenovitě přenosný zvedací sedák pro pomoc osobám při pozvolném usedání a zvedání se z křesel, pohovek a jiných povrchů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Medicinsk udstyr, nemlig en bærbar siddepude, som kan hæves, der hjælper personer med at komme ned at sidde og rejse sig fra stole, sofaer og andre overflader.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Medizinische Geräte, nämlich transportable Hebesitzpolster zur Unterstützung von Personen beim vorsichtigen Hinsetzen und Aufstehen von Stühlen, Sofas und anderen Oberflächen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ιατρικές διατάξεις, συγκεκριμένα, φορητό ανυψούμενο μαξιλάρι καθίσματος ως βοήθημα για το εύκολο κάθισμα και το σήκωμα ατόμων από καρέκλες, καναπέδες, και άλλες επιφάνειες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Medical device, namely, a portable lifting seat cushion for assisting persons in gently seating and raising themselves from chairs, sofas, and other surfaces.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Dispositivo médico, en concreto, un cojín de asiento elevable para ayudar a las personas a sentarse y levantarse con suavidad de sillas, sofás y otras superficies.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiiniinstrumendid, nimelt kaasaskantav tõstetav istmepadi, mis aitab inimestel õrnalt istuda ja end toolidelt, diivanitelt ja muudelt pindadelt tõsta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lääketieteellinen laite, nimittäin kannettava kohotettava istuintyyny, jolla avustetaan henkilöitä varovasti istumaan ja nostamaan itsensä tuoleilta, sohvilta ja muilta tasoilta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Dispositif médical, à savoir coussin de siège de levage portable pour aider des personnes à s'asseoir dans des chaises, des sofas et d'autres surfaces et à se lever en douceur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Medicinski uređaji, i to prenosivi jastuci za sjedala za posjedanje i podizanje osoba sa stolica, sofa i ostalih površina.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Orvosi eszköz, nevezetesen egy hordozható emelő üléspárna, amely segíti az embereket a székeken, kanapékon és más felületeken történő kényelmes ülésében és a felállásban.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Dispositivo medico, ovvero, un cuscino di seduta a sollevamento portatile per assistere le persone a sedersi e alzarsi da sedie, sofà, e altre superfici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Medicinos prietaisas, būtent nešiojamoji kėlimo sėdynės pagalvė, skirta padėti žmonėms švelniai atsisėsti ir atsikelti nuo kėdžių, sofų ir kitų paviršių.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medicīnas ierīce, proti, pārnēsājams, paceļams sēdekļa spilvens, kas palīdz cilvēkiem viegli sēdēt un pacelt sevi no krēsliem, dīvāniem un citām virsmām.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Apparat mediku, jiġifieri, kuxxin tas-sedil tal-irfigħ li jista' jinġarr biex jgħin persuni biex b'mod ġentili dawn ipoġġu jew iqajmu lilhom infushom minn siġġijiet, sufani, u wċuħ oħra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Medische apparatuur, te weten een draagbaar stoelkussen met hefmechanisme om personen te helpen bij het makkelijk plaatsnemen op en opstaan uit stoelen, sofa's en andere oppervlakken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia medyczne, mianowicie przenośne poduszki na siedzenie umożliwiające delikatne siadanie na krzesła, kanapy i inne powierzchnie oraz wstawanie z nich.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Dispositivo médico, especificamente uma almofada de assento elevatória portátil para auxiliar as pessoas a sentarem-se e a levantarem-se suavemente em e de cadeiras, sofás e outras superfícies.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dispozitiv medical, și anume o pernă pentru un scaun mobil care se ridică pentru a ajuta persoanele să se așeze și să se ridice ușor de pe scaune, canapele și alte suprafețe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zdravotnícke pomôcky, menovite prenosné zdvíhacie sedadlo na pomoc osobám pre jemnom usádzaní a zdvíhaní zo stoličky, gauča a iných povrchov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Medicinski aparat, in sicer prenosna dvižna blazina za sedež za pomoč ljudem pri nežnem posedanju in dvigovanju s stolov, zof in drugih površin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Medicinska anordningar, nämligen en bärbar upphöjande sittkudde för att assistera personer för att sitta mjukt och för att resa sig från stolen, fåtöljer, och andra ytor.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079117</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>46609</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

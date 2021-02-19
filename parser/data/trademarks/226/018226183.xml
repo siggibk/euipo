@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-02T10:03:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226183</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226183</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ST. PIERRE</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162318828</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226183/000162318828.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>07.01.03</CategoryCode>
+          <CategoryCode>07.03.02</CategoryCode>
+          <CategoryCode>26.01.03</CategoryCode>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.05</CategoryCode>
+          <CategoryCode>26.04.10</CategoryCode>
+          <CategoryCode>26.04.22</CategoryCode>
+          <CategoryCode>29.01.01</CategoryCode>
+          <CategoryCode>29.01.02</CategoryCode>
+          <CategoryCode>29.01.03</CategoryCode>
+          <CategoryCode>29.01.04</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>32</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бира.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Piva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Øl.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Biere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ζύθος.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Beers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cerveza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Õlu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Oluet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Bières.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pivo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sörök.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Birre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Alus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Alus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Birer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bieren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Piwo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cervejas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Bere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Pivo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pivo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Öl.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/079</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>884293</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>91888</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003126940</OppositionIdentifier>
+<OppositionDate>2020-07-28</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion
+Unfair advantage /detriment to distinctiveness or repute</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>002956019</ApplicationNumber>
+<ApplicationDate>2002-12-10</ApplicationDate>
+<RegistrationNumber>002956019</RegistrationNumber>
+<RegistrationDate>2004-03-30</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>002956019</ApplicationNumber>
+<ApplicationDate>2002-12-10</ApplicationDate>
+<RegistrationNumber>002956019</RegistrationNumber>
+<RegistrationDate>2004-03-30</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>018000842</ApplicationNumber>
+<ApplicationDate>2018-12-17</ApplicationDate>
+<RegistrationNumber>018000842</RegistrationNumber>
+<RegistrationDate>2019-05-28</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>Anno 1240 LEFFE Bière Belge d'Abbaye Belgisch Abdijbier</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>018000842</ApplicationNumber>
+<ApplicationDate>2018-12-17</ApplicationDate>
+<RegistrationNumber>018000842</RegistrationNumber>
+<RegistrationDate>2019-05-28</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>Anno 1240 LEFFE Bière Belge d'Abbaye Belgisch Abdijbier</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>BX</EarlierMarkCountryCode>
+<ApplicationNumber>1015136</ApplicationNumber>
+<ApplicationDate>2002-07-23</ApplicationDate>
+<RegistrationNumber>719526</RegistrationNumber>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>LEFFE</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>BX</EarlierMarkCountryCode>
+<ApplicationNumber>1015136</ApplicationNumber>
+<ApplicationDate>2002-07-23</ApplicationDate>
+<RegistrationNumber>719526</RegistrationNumber>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>LEFFE</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>342884</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>49593</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

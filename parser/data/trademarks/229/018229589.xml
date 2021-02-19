@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-15T09:20:03</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229589</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229589</ApplicationNumber>
+<ApplicationDate>2020-04-26</ApplicationDate>
+<RegistrationDate>2020-09-11</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-26</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>OXVA X</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>34</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Цигари със заместители на тютюн, не за медицински цели; Електронни цигари; Течни разтвори за използване в електронни цигари; Цигарета; Тръбопроводи; Табакери, не от благороден метал; Мундщуци за цигарета; Изпарители, за пушачи; Запалки за пушачи; Есенции, различни от етерични масла, за електронни цигари; Течни разтвори за използване в електронни цигари; Калъфи за електронни цигари; Електронни пури; Електронни цигари.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Cigarety obsahující náhražky tabáku, ne pro léčebné účely; Elektronické cigarety; Kapalné roztoky do elektronických cigaret; Špičky na cigarety; Dýmky; Kazety na cigarety; Náústky ke špičkám na cigarety; Ústní vaporizéry pro kuřáky; Zapalovače pro kuřáky; Příchutě do elektronických cigaret, jiné než éterické oleje; Kapalné roztoky do elektronických cigaret; Pouzdra na elektronické cigarety; Elektronické doutníky; Elektronické cigarety.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Cigaretter indeholdende tobakserstatninger, ikke til medicinsk brug; Elektroniske cigaretter; Flydende opløsninger til brug i e-cigaretter; Cigaretrør; Tobakspiber; Cigaretæsker; Mundstykker til cigaretrør; Fordampere til oral brug til rygere; Lightere til rygere; Smagsstoffer til e-cigaretter undtagen æteriske olier; Flydende opløsninger til brug i e-cigaretter; Etuier til elektroniske cigaretter; Elektroniske cigarer; Elektroniske cigaretter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Zigaretten aus Tabakersatzstoffen, nicht für medizinische Zwecke; Elektronische Zigaretten; Liquide für elektronische Zigaretten; Zigarettenspitzen; Pfeifen; Zigarettenetuis, -dosen; Mundstücke für Zigarettenspitzen; Verdampfer zum Inhalieren für Raucher; Feuerzeuge für Raucher; Aromen für elektronische Zigaretten, ausgenommen ätherische Öle; Liquide für elektronische Zigaretten; Etuis für elektronische Zigaretten; Elektronische Zigarren; Elektronische Zigaretten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Τσιγάρα με υποκατάστατα καπνού όχι για χρήση ιατρική· Ηλεκτρονικά τσιγάρα· Υγρά διαλύματα για χρήση σε ηλεκτρονικά τσιγάρα· Υποδοχές για τσιγάρα· Πίπες καπνίσματος· Θήκες (για τσιγάρα)· Επιστόμια για πίπες τσιγάρων· Στοματικός ατμοποιητής για καπνιστές· Αναπτήρες για καπνιστές· Αρωματικές ύλες, εκτός από αιθέρια έλαια, για χρήση σε ηλεκτρονικά τσιγάρα· Υγρά διαλύματα για χρήση σε ηλεκτρονικά τσιγάρα· Θήκες για ηλεκτρονικά τσιγάρα· Ηλεκτρονικά πούρα· Ηλεκτρονικά τσιγάρα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Cigarettes containing tobacco substitutes not for medical purposes; electronic cigarettes; Liquid solutions for use in electronic cigarettes; cigarette holders; tobacco pipes; cigarette cases; Mouthpieces for cigarette holders; Oral vaporizers for smokers; lighters for smokers; flavorings, other than essential oils, for use in electronic cigarettes; liquid nicotine solutions for use in electronic cigarettes; Electronic cigarette cases; electronic cigars; electronic cigarettes for use as an alternative to traditional cigarettes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cigarrillos que contengan sucedáneos del tabaco que no sean para uso médico; Cigarrillos electrónicos; Soluciones líquidas para cigarrillos electrónicos; Boquillas para cigarrillos; Pipas de fumar; Estuches para cigarrillos; Embocaduras de boquillas para cigarrillos; Vaporizadores bucales para fumadores; Encendedores para fumadores; Aromatizantes para cigarrillos electrónicos, que no sean aceites esenciales; Soluciones líquidas para cigarrillos electrónicos; Pitilleras para cigarrillos electrónicos; Puros electrónicos; Cigarrillos electrónicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Tubaka aseaineid sisaldavad sigaretid, v.a meditsiinilised; E-sigaretid; E-sigarettide vedelikud; Sigaretihoidlid; Piibud (suitsetamistarbed); Sigaretitoosid; Sigaretihoidlite, -hoidikute huulikud; Suukaudseks kasutuseks mõeldud aurustid suitsetajatele; Välgumihklid; E-sigarettides kasutatavad maitseained, v.a eeterlikud õlid; E-sigarettide vedelikud; E-sigarettide toosid; E-sigarid; E-sigaretid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Savukkeet tupakan korvikkeista, ei-lääkinnällisiin tarkoituksiin; Sähkösavukkeet; Sähkösavukkeissa käytettävät nestemäiset liuokset; Savukkeenpitimet, ei-jalometalliset; Piiput; Savukekotelot; Suukappaleet savukkeenpitimiin; Suusumuttimet tupakoitsijoille; Tupakansytyttimet; Sähkösavukkeissa käytettävät makuaineet, muut kuin eteeriset öljyt; Sähkösavukkeissa käytettävät nestemäiset liuokset; Sähkösavukkeiden kotelot; Elektroniset sikarit; Sähkösavukkeet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Cigarettes contenant des succédanés du tabac à usage non médical; Cigarettes électroniques; Solutions liquides pour cigarettes électroniques; Fume-cigarettes; Pipes; Étuis à cigarettes; Bouts pour fume-cigarette; Vaporisateurs oraux pour fumeurs; Briquets pour fumeurs; Arômes, autres qu'huiles essentielles, à utiliser dans des cigarettes électroniques; Solutions liquides pour cigarettes électroniques; Étuis à cigarettes électroniques; Cigares électroniques; Cigarettes électroniques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Cigarete koje sadrže nadomjeske duhana za nemedicinske potrebe; Elektronske cigarete; Tekuće otopine za uporabu u elektronskim cigaretama; Muštikle; Lule; Kutije za cigarete; Usnici za cigaretnike; Raspršivači za usta za pušače; Upaljači za pušače; Arome za uporabu u elektronskim cigaretama, osim eteričnih ulja; Tekuće otopine za uporabu u elektronskim cigaretama; Etui za elektroničke cigarete; Elektroničke cigare; Elektronske cigarete.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Dohánypótló anyagokat tartalmazó cigaretták, nem gyógyászati használatra; Elektromos cigaretták; Elektromos cigarettában használható folyékony oldatok; Cigarettaszipkák; Pipák; Cigarettatartók, cigarettatárcák; Szopókák cigarettaszipkákhoz; Szájnyálkahártya-nedvesítő dohányosoknak; Öngyújtók dohányosoknak; Elektromos cigarettában használható aromák, az illóolajok kivételével; Elektromos cigarettában használható folyékony oldatok; Elektronikus cigarettákhoz való tokok; Elektronikus szivarok; Elektromos cigaretták.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Sigarette contenenti succedanei del tabacco non per uso medico; Sigarette elettroniche; Soluzioni liquide per sigarette elettroniche; Bocchini per sigarette; Pipe; Scatole per sigarette; Punte per bocchini per sigarette; Vaporizzatori orali per fumatori; Accendini per fumatori; Aromi per l'uso nelle sigarette elettroniche, diversi dagli olii essenziali; Soluzioni liquide per sigarette elettroniche; Cofanetti per sigarette elettroniche; Sigari elettronici; Sigarette elettroniche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Cigaretės, turinčios tabako pakaitalų (ne medicinos reikmėms); Elektroninės cigaretės; Skysti tirpalai (elektroninėms cigaretėms); Cigarečių kandikliai; Pypkės; Cigarečių dėžutės; Cigarečių kandiklių antgaliai; Rūkymo inhaliatoriai; Žiebtuvėliai (rūkorių); Aromatinės medžiagos (išskyrus eterinius aliejus) elektroninėms cigaretėms; Skysti tirpalai (elektroninėms cigaretėms); Elektroninių cigarečių dėklai; Elektroniniai cigarai; Elektroninės cigaretės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Cigaretes, kas satur tabakas aizstājējus (nemedicīniskiem nolūkiem); Elektroniskās cigaretes; Šķīdumi elektroniskajām cigaretēm; Cigarešu turētāji; Pīpes; Cigarešu etvijas; Iemutņi cigarešu turētājiem; Elektroniskās smēķēšanas ierīces; Šķiltavas smēķētājiem; Elektronisko cigarešu aromatizētāji, kas nav ēteriskās eļļas; Šķīdumi elektroniskajām cigaretēm; Elektronisko cigarešu ietvari; Elektroniski cigāri; Elektroniskās cigaretes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Sigaretti li fihom sostituti tat-tabakk, mhux għal skopijiet mediċi; Sigaretti elettroniċi; Soluzzjonijiet likwidi għall-użu fis-sigaretti elettroniċi; Bokkini tas-sigaretti; Pipi; Kaxxi tas-sigaretti; Bċejjeċ tal-ħalq għal bokkini tas-sigaretti; Apparat ta' evaporazzjoni orali għal min ipejjep; Lajters għal min ipejjep; Ħwawar, minbarra żjut essenzjali, għall-użu fis-sigaretti elettroniċi; Soluzzjonijiet likwidi għall-użu fis-sigaretti elettroniċi; Kaxxetti għal sigaretti elettroniċi; Sigarri elettroniċi; Sigaretti elettroniċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Sigaretten, tabakssurrogaten bevattend, niet voor medische doeleinden; Elektronische sigaretten; Vloeibare oplossingen voor gebruik in elektronische sigaretten; Sigarettenhouders; Pijpen; Sigarettenkokers [kistjes, dozen, etuis]; Mondstukken voor sigarettenpijpjes; Orale verstuivers voor rokers; Aanstekers voor rokers; Aromaten voor gebruik in elektronische sigaretten, anders dan etherische oliën; Vloeibare oplossingen voor gebruik in elektronische sigaretten; Kokers voor elektronische sigaretten; Elektronische sigaren; Elektronische sigaretten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Papierosy zawierające substytuty tytoniu, nie do celów leczniczych; Papierosy elektroniczne; Ciekłe roztwory do użytku w e-papierosach; Cygarniczki; Fajki; Papierośnice; Ustniki do cygarniczek; Waporyzatory dla palaczy, do stosowania doustnego; Zapalniczki dla palaczy; Środki aromatyzujące do stosowania w papierosach elektronicznych, inne niż olejki eteryczne; Ciekłe roztwory do użytku w e-papierosach; Etui do papierosów elektronicznych; Cygara elektroniczne; Papierosy elektroniczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cigarros contendo sucedâneos do tabaco não para uso medicinal; Cigarros eletrónicos; Soluções líquidas para uso em cigarros eletrónicos; Boquilhas de cigarros; Cachimbos; Cigarreiras; Pontas de boquilhas para cigarros; Vaporizadores orais para fumadores; Isqueiros para fumadores; Aromas, não sendo óleos essenciais, para uso em cigarros eletrónicos; Soluções líquidas para uso em cigarros eletrónicos; Estojos para cigarros eletrónicos; Charutos electrónicos; Cigarros eletrónicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Ţigarete conţinând înlocuitori de tutun, cu excepţia celor pentru uz medical; Ţigarete electronice; Soluţii lichide pentru utilizare în ţigări electronice; Portţigarete pentru ţigarete; Pipe; Tabachere pentru ţigarete; Capete pentru portţigarete; Vaporizatoare orale pentru fumători; Brichete pentru fumători; Arome, altele decât uleiurile esenţiale, pentru utilizare în ţigări electronice; Soluţii lichide pentru utilizare în ţigări electronice; Huse pentru ţigări electronice; Trabucuri electronice; Ţigarete electronice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Cigarety z tabakových náhradiek (nie na lekárske použitie); Elektronické cigarety; Kvapalné nikotínové náplne do elektronických cigariet; Cigaretové náustky; Fajky; Tabatierky na cigarety; Špičky na cigaretové náustky; Ústne vaporizéry pre fajčiarov; Zapaľovače pre fajčiarov; Aromatické prísady do náplní elektronických cigariet (okrem esenciálnych olejov); Kvapalné nikotínové náplne do elektronických cigariet; Puzdrá na elektronické cigarety; Elektronické cigary; Elektronické cigarety.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Cigarete polnjene z nadomestki tobaka, ne za medicinske namene; Elektronske cigarete; Tekoče raztopine za uporabo v elektronskih cigaretah; Ustniki za cigarete; Pipe; Cigaretnice; Ustni nastavki za cigaretne ustnike; Ustniki z izhlapevanjem za kadilce; Vžigalniki za kadilce; Arome, razen eteričnih olj, za uporabo v elektronskih cigaretah; Tekoče raztopine za uporabo v elektronskih cigaretah; Etuiji za elektronske cigarete; Elektronske cigare; Elektronske cigarete.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Cigaretter innehållande tobakssubstitut, inte för medicinska ändamål; Elektroniska cigaretter; Flytande lösningar för användning i elektroniska cigaretter; Cigaretthållare; Pipor; Cigarettfodral; Munstycken för cigaretthållare; Orala förångare för rökare; Tändare för rökare; Smaktillsatser för använding med elektroniska cigaretter, inte eteriska oljor; Flytande lösningar för användning i elektroniska cigaretter; Fodral för elektroniska cigaretter; Elektroniska cigarrer; Elektroniska cigaretter.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/103</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-03</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/176</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082567</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15173</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

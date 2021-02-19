@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T11:10:31</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225931</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225931</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>MAT TOWERCAM</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162306342</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/225/018225931/000162306342.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.03.04</CategoryCode>
+          <CategoryCode>26.03.05</CategoryCode>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.05</CategoryCode>
+          <CategoryCode>26.04.11</CategoryCode>
+          <CategoryCode>26.04.22</CategoryCode>
+          <CategoryCode>26.04.24</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Телескопични стативи за камери, по-специално стативи за камери с автоматично регулиране на височината.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Teleskopické stativy na fotoaparáty, zejména stativy na fotoaparáty s automatickým nastavením výšky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kamerastativer med teleskopfunktion, især automatisk højdejusterbare kamerastativer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Teleskopierende Kamerastative, insbesondere automatisch höhenverstellbare Kamerastative.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Τηλεσκοπικά τρίποδα για κάμερες ειδικότερα τρίποδα για κάμερες με αυτόματα ρυθμιζόμενο ύψος.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Telescopic camera tripods, in particular automatic height-adjustable camera tripods.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Trípodes telescópicos para cámaras, en particular trípodes para cámara regulables en altura automáticamente.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Teleskoobiga kaamerastatiivid, eelkõige automaatselt reguleeritavad kaamerastatiivid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Teleskooppiset kamerajalustat, erityisesti kamerajalustat, joiden korkeutta säädetään automaattisesti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Trépieds télescopiques pour appareils photographiques, notamment avec réglage automatique de la hauteur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Teleskopski stalci za kamere, posebno stalci za kamere s automatskim podešavanjem visine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Teleszkópos kameraállványok, különösen automatikus magasságállító kameraállványok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cavalletti telescopici per fotocamere, in particolare cavalletti per fotocamere con regolazione automatica in altezza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Teleskopiniai kamerų stovai, ypač automatiškai reguliuojamo aukščio kamerų stovai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Teleskopiski fotoaparātu statīvi, jo īpaši automātiski regulējami fotoaparātu statīvi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Trepiedi għal kameras, speċjalment trepiedi għal kameras b'aġġustament awtomatiku tal-għoli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Telescoperende camerastatieven, met name automatisch in hoogte verstelbare camerastatieven.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Teleskopowe statywy do kamer, zwłaszcza statywy do kamer z automatyczną regulacją wysokości.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Tripés telescópicos para câmaras fotográficas, em especial tripés para câmaras fotográficas com mecanismo automático de regulação de altura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Trepieduri de cameră telescopice, în special trepieduri de cameră automate cu înălțime reglabilă automat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Teleskopické trojnožky na fotoaparáty, predovšetkým automatické výškovo nastaviteľné trojnožky na fotoaparáty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Teleskopski stativi za kamere, zlasti stativi za kamere, samodejno nastavljivi po višini.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Teleskoperande kamerastativ, speciellt kamerastativ med automatiskt höjdinställning.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/081</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-30</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/150</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080340</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>13662</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

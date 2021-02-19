@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T09:10:18</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226761</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226761</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>pl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Oio Lab</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Козметични средства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kosmetické přípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kosmetik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kosmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καλλυντικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Cosmetics.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cosméticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kosmeetikavahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kosmetiikka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Cosmétiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kozmetički proizvodi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kozmetikai szerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cosmetici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kosmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kosmētikas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kożmetiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Cosmetica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kosmetyki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cosméticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cosmetice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kozmetické prípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kozmetični izdelki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kosmetika.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>96011</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

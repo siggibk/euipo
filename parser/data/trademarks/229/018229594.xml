@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T09:10:08</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229594</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229594</ApplicationNumber>
+<ApplicationDate>2020-04-26</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-26</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>DATASURE</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162491490</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229594/000162491490.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>01.17.03</CategoryCode>
+          <CategoryCode>15.09.18</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Търговско подпомагане, търговско управление и административни услуги; Услуги за обработка на данни; Бизнес консултантски услуги свързани с обработка на данни; Съветнически услуги, свързани с обработка на данни; Съветнически услуги във връзка с електронно обработване на данни; Услуги за онлайн обработване на данни; Услуги за административна подкрепа и обработка на данни.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pomoc v obchodní a podnikatelské činnosti, management a administrativní služby; Zpracování dat; Obchodní poradenské služby vztahující se ke zpracování dat; Poradenské služby ohledně zpracování dat; Poradenské služby ohledně elektronického zpracování dat; Služby online zpracování dat; Administrativní podpora a zpracování dat [služby].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Bistand ved forretningsudførelse, -ledelse og -administration; Databehandlingsvirksomhed; Forretningsmæssig rådgivning i forbindelse med databehandling; Rådgivningsvirksomhed i forbindelse med databehandling; Rådgivningsvirksomhed i forbindelse med elektronisk databehandling; Onlinedatabehandling; Administrativ bistand og databehandling.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Hilfe in Geschäftsangelegenheiten, Geschäftsführung und administrative Dienstleistungen; Datenverarbeitung [Büroarbeiten]; Betriebswirtschaftliche Beratung zu Fragen der Datenverarbeitung; Betriebswirtschaftliche Beratung zur Datenverarbeitung; Betriebswirtschaftliche Beratung in Bezug auf die elektronische Datenverarbeitung; Online-Datenverarbeitung [Büroarbeiten]; Administrative Assistenz- und Datenverarbeitungsdienste.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Επιχειρηματική υποστήριξη, υπηρεσίες διοίκησης και διαχείρισης· Επεξεργασία δεδομένων· Υπηρεσίες συμβουλευτικής επιχειρήσεων σχετικά με την επεξεργασία δεδομένων· Υπηρεσίες παροχής συμβουλών σε σχέση με την επεξεργασία δεδομένων· Υπηρεσίες παροχής συμβουλών σε σχέση με την ηλεκτρονική επεξεργασία δεδομένων· Υπηρεσίες επεξεργασίας δεδομένων ηλεκτρονικά· Υπηρεσίες διοικητικής υποστήριξης και επεξεργασίας δεδομένων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Business assistance, management and administrative services; Data processing; Business consultancy services relating to data processing; Advisory services relating to data processing; Advisory services relating to electronic data processing; Online data processing services; Administrative support and data processing services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de asistencia, dirección y administración de negocios; Servicios de tratamiento de datos; Servicios de consultoría de negocios relacionados con el tratamiento de datos; Servicios de asesoramiento relacionados con el procesamiento de datos; Servicios de asesoramiento en materia de tratamiento electrónico de datos; Servicios de tratamiento de datos en línea; Servicios de soporte administrativo y de procesado de datos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ärijuhtimisteenused ja ärialane abi; Andmetöötlusteenused; Andmetöötlusalane ärinõustamine; Andmetöötlusalased nõustamisteenused; Elektroonilise andmetöötluse nõustamine; Sidusad andmetöötlemisteenused; Haldustoe- ja andmetöötlusteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Yritystoiminnan avustamis-, liikkeenjohto- ja hallintopalvelut; Tietojenkäsittelypalvelut; Datankäsittelyyn liittyvät liiketoimintakonsultointipalvelut; Tietojenkäsittelyyn liittyvät neuvontapalvelut; Elektroniseen tiedonkäsittelyyn liittyvät neuvontapalvelut; Online-tietojenkäsittelypalvelut; Hallinnollinen avustaminen ja tietojenkäsittelypalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services d'aide et de gestion des affaires et services administratifs; Services de traitement des données; Services de conseil aux entreprises en matière de traitement des données; Services de conseil concernant le traitement de données; Services de conseils concernant le traitement électronique de données; Services de traitement de données en ligne; Services de support administratif et de traitement de données.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge poslovne pomoći, upravljanja i administracije; Obrada podataka; Usluge poslovnog savjetovanja u svezi obrade podataka; Savjetodavne usluge koje se odnose na obradu podataka; Savjetodavne usluge u svezi s elektroničkim obradama podataka; Mrežne usluge za obrađivanje podataka; Usluge pružanja administrativne podrške i obrađivanja podataka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Üzleti segítségnyújtás, menedzseri és adminisztratív szolgáltatások; Adatfeldolgozás; Adatfeldolgozással kapcsolatos üzleti konzultációs szolgáltatások; Adatfeldolgozással kapcsolatos tanácsadási szolgáltatások; Elektronikus adatfeldolgozással kapcsolatos tanácsadási szolgáltatások; Online adatfeldolgozási szolgáltatások; Adminisztratív támogatás és adatfeldolgozási szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Assistenza negli affari, servizi gestionali ed amministrativi; Elaborazione dati; Servizi di consulenza aziendale in materia di elaborazione dati; Servizi di consulenza in materia di elaborazione dati; Servizi di consulenza in materia di elaborazione elettronica dei dati; Servizi di elaborazione dati online; Servizi di supporto amministrativo e di elaborazione dati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Verslo pagalba, vadyba ir administravimas; Duomenų apdorojimas; Duomenų tvarkymo verslo konsultacijos; Konsultacijos duomenų apdorojimo klausimais; Konsultacijos elektroninių duomenų apdorojimo klausimais; Duomenų tvarkymo paslaugos internetu; Administracinės pagalbos ir duomenų apdorojimo paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Atbalsta, pārvaldības un biroju administratīvie pakalpojumi uzņēmējdarbībai; Datu apstrādes pakalpojumi; Uzņēmējdarbības konsultāciju pakalpojumi, kas attiecas uz datu apstrādi; Ieteikumi saistībā ar datu apstrādi; Konsultāciju pakalpojumi, kas saistīti ar elektronisku datu apstrādi; Tiešsaistes datu apstrāde; Administratīvā atbalsta un datu apstrādes pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' assistenza, ġestjoni u amministrazzjoni fin-negozju; L-ipproċessar ta' dejta; Servizzi ta' konsulenza dwar negozju dwar l-ipproċessar ta' dejta; Servizzi ta' pariri dwar l-ipproċessar ta' dejta; Servizzi ta' pariri dwar l-ipproċessar ta' dejta elettronika; Servizzi tal-ipproċessar ta' dejta onlajn; Servizzi ta' appoġġ amministrattiv u pproċessar tad-data.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Commercieel-zakelijke assistentie, commercieel-zakelijk beheer en administratieve diensten; Gegevensverwerking; Consultancy op het gebied van zaken met betrekking tot gegevensverwerking; Advisering met betrekking tot gegevensverwerking; Advisering met betrekking tot elektronische gegevensverwerking; Online dataverwerkingsdiensten; Administratieve ondersteuning en gegevensverwerking.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Pomoc w prowadzeniu działalności gospodarczej, zarządzanie i administrowanie działalnością gospodarczą; Przetwarzanie danych; Doradztwo w zakresie działalności gospodarczej związane z przetwarzaniem danych; Usługi doradcze związane z przetwarzaniem danych; Usługi doradcze związane z elektronicznym przetwarzaniem danych; Usługi przetwarzania danych w trybie online; Usługi wsparcia administracyjnego i przetwarzania danych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de assistência, gestão e administração de negócios; Serviços de processamento de dados; Serviços de consultadoria de negócios relacionados com processamento de dados; Serviços de assessoria relacionados com o tratamento da informação; Serviços de assessoria relacionados com o processamento eletrónico de dados; Serviços de processamento de dados em linha; Serviços de apoio administrativo e processamento de dados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Asistență în afaceri, management și servicii administrative; Prelucrare de date; Servicii de consultanță în afaceri privind prelucrarea datelor; Servicii de consultanță privind prelucrarea de date; Servicii de consultanță privind prelucrarea electronică a datelor; Servicii de procesare a datelor on-line; Servicii de asistență administrativă și prelucrare de date.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Pomoc pri podnikaní, riadenie podniku a obchodná správa; Služby spracovania dát; Obchodné poradenské služby v oblasti spracovania dát; Poradenské služby v oblasti spracovania dát; Poradenské služby v oblasti elektronického spracovania dát; Služby v oblasti on-line spracovania dát; Služby týkajúce sa administratívnej podpory a spracovania údajov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Poslovna asistenca, poslovno vodenje in administrativne storitve; Obdelava podatkov; Storitve poslovnega svetovanja v zvezi z obdelavo podatkov; Svetovalne storitve v zvezi z obdelavo podatkov; Svetovalne storitve v zvezi z elektronsko obdelavo podatkov; Storitve spletne obdelave podatkov; Storitve administrativne podpore in obdelave podatkov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Företagsassistans, -ledning och -administration; Databehandling; Företagskonsultation avseende databehandling; Rådgivande tjänster avseende databehandling; Rådgivningstjänster rörande elektronisk databehandling; Databehandlingstjänster online; Administrativ support och databehandlingstjänster.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Предоставяне на обучение, свързано с обработка на данни; Курсове за обучение, свързани с обработка на данни; Обучение, свързано с техники за обработване на данни; Образование и обучение в областта на обработването на електронни данни; Акредитация на образователни услуги; Акредитация [сертифициране] на образователна степен; Образователни услуги, свързани с информационни технологии; Правни образователни услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Poskytování výuky v oblasti zpracování dat; Školicí služby týkající se zpracování dat; Školení v oblasti technik zpracování dat; Vzdělávání a školení v oblasti elektronického zpracování dat; Akreditace vzdělávacích služeb; Akreditace [certifikace] dosaženého vzdělání; Vzdělávací služby v oblasti informačních technologií; Vzdělávací služby v oblasti práva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Undervisningsvirksomhed vedrørende databehandling; Undervisning i databehandling; Undervisning i databehandlingsteknikker; Uddannelses- og undervisningsvirksomhed vedrørende elektronisk databehandling; Akkreditering af uddannelsesvirksomhed; Akkreditering [certificering] af uddannelsesresultater; Uddannelsesvirksomhed vedrørende informationsteknologi; Uddannelse inden for jura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Datenverarbeitungs-Schulung; Durchführung von Schulungen im Bereich Datenverarbeitung; Durchführung von Schulungen in Bezug auf Datenverarbeitungstechniken; Ausbildung und Schulung im Datenverarbeitungsbereich; Anerkennung von Bildungsdienstleistungen; Anerkennung von Bildungsabschlüssen; Ausbildung im Bereich der Informationstechnologie; Juristische Ausbildung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Επιμόρφωση σε σχέση με επεξεργασία δεδομένων· Υπηρεσίες διδασκαλίας σε θέματα επεξεργασίας δεδομένων· Επιμόρφωση στις τεχνικές επεξεργασίας δεδομένων· Εκπαίδευση και επιμόρφωση στον τομέα της ηλεκτρονικής επεξεργασίας δεδομένων· Πιστοποίηση εκπαιδευτικών υπηρεσιών· Διαπίστευση [πιστοποίηση] εκπαιδευτικών επιδόσεων· Υπηρεσίες εκπαίδευσης σε σχέση με την τεχνολογία πληροφορικής· Υπηρεσίες νομικής εκπαίδευσης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Provision of instruction relating to data processing; Instructional services relating to data processing; Training relating to data processing techniques; Education and training in the field of electronic data processing; Accreditation of educational services; Accreditation [certifying] of educational achievement; Educational services relating to information technology; Legal education services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Formación en relación con el procesamiento de datos; Servicios de instrucción relacionados con el tratamiento de datos; Formación en técnicas de tratamiento de datos; Educación y formación en materia de procesamiento electrónico de datos; Acreditación de servicios educativos; Acreditación [certificación] de logros educativos; Educación relacionada con la tecnología de la información; Servicios de educación jurídica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Andmetöötluskoolituse pakkumine; Andmetöötlusalased koolitusteenused; Andmetöötlustehnikate koolitus; Elektroonilise andmetöötlusega seotud väljaõpe ja koolitus; Haridusteenuste akrediteerimine; Õppeedukuse tunnistuste andmine; Infotehnoloogiaga seotud haridusteenused; Juriidilised haridusteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tietojenkäsittelyyn liittyvän opetuksen tarjoaminen; Tietojenkäsittelyyn liittyvät opetuspalvelut; Tietojenkäsittelytekniikoihin liittyvä koulutus; Opetus ja koulutus elektronisen tietojenkäsittelyn alalla; Koulutuspalvelujen hyväksyntä; Koulutussaavutusten hyväksyntä [laillistaminen]; Tietotekniikkaan liittyvät koulutuspalvelut; Lainopilliset koulutuspalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services d'enseignement en matière de traitement de données; Services de formation en matière de traitement de données; Formation relative aux techniques de traitement de données; Éducation et formation dans le domaine du traitement électronique de données; Certification de services éducatifs; Validation [certification] d'acquis éducatifs; Services de formation en informatique; Services de formation juridique.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pružanje poduke u svezi s obradom podataka; Usluge podučavanja u svezi s obradom podataka; Osposobljavanje u svezi sa tehnikom obrade podataka; Obrazovanje i osposobljavanje u području elektroničke obrade podataka; Akreditacija obrazovnih usluga; Akreditacija [certifikacija] obrazovnih postignuća; Obrazovne usluge u svezi s informacijskom tehnologijom; Usluge pravnog obrazovanja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Adatfeldolgozáshoz kapcsolódó oktatási szolgáltatások; Adatfeldolgozással kapcsolatos képzési szolgáltatások; Adatfeldolgozó technikákhoz kapcsolódó képzés; Oktatás és képzés az elektronikus adatfeldolgozás területén; Oktatási szolgáltatások akkreditálása; Tanulmányi eredmények elismerése [igazolása]; Informatikával kapcsolatos oktatási szolgáltatások; Jogi oktatási szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di istruzione riguardanti l'elaborazione dati; Servizi per istruzione relativa ad elaborazione dati; Formazione in materia di tecniche di elaborazione dati; Istruzione e formazione inerenti l'elaborazione elettronica dei dati; Accreditamento di servizi educativi; Accreditamento [certificazione] di risultati accademici; Servizi di formazione relativi all'informatica; Istruzione giuridica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Švietimo paslaugos, susijusios su duomenų apdorojimu; Mokomosios paslaugos, susijusios su duomenų apdorojimu; Mokymai, susijęs su duomenų apdorojimo metodais; Švietimas ir mokymas elektroninio duomenų dorojimo srityje; Švietimo paslaugų akreditavimas; Mokymosi pasiekimų akreditavimas [sertifikavimas]; Švietimo paslaugos, susijusios su informacinėmis technologijomis; Teisinio švietimo paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apmācība saistībā ar datu apstrādi; Datu apstrādes instruktāžas pakalpojumi; Apmācība par datu apstrādes paņēmieniem; Izglītība un apmācība elektronisko datu apstrādes jomā; Izglītības pakalpojumu akreditēšana; Mācību sasniegumu akreditēšana (sertificēšana); Izglītības pakalpojumi saistībā ar informācijas tehnoloģiju; Juridiskās izglītības pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Provvista ta' istruzzjoni dwar l-ipproċessar ta' dejta; Servizzi ta' tagħlim dwar l-ipproċessar ta' dejta; Taħriġ dwar teknika dwar l-ipproċessar ta' data; Edukazzjoni u konsulenza fil-qasam tal-ipproċessar elettroniku tad-dejta; Akkreditazzjoni ta' servizzi edukattivi; Akkreditazzjoni [ċertifikazzjoni] ta' mertu edukattiv; Servizzi edukattivi relatati mat-teknoloġija tal-informatika; Servizzi ta' edukazzjoni legali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Trainingen met betrekking tot gegevensverwerking; Diensten op het gebied van instructies met betrekking tot gegevensverwerking; Trainingen met betrekking tot gegevensverwerkingstechnieken; Onderwijs en opleiding op het gebied van elektronische gegevensverwerking; Accreditatie van onderwijsdiensten; Accreditatie [certificering] van leerprestaties; Onderwijs met betrekking tot informatietechnologie; Juridisch onderwijs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Szkolenia w zakresie przetwarzania danych; Usługi szkoleniowe związane z przetwarzaniem danych; Szkolenia związane z technikami przetwarzania danych; Edukacja i szkolenia w dziedzinie przetwarzania danych elektronicznych; Akredytacja usług edukacyjnych; Akredytacja [certyfikacja] osiągnięć edukacyjnych; Usługi edukacyjne dotyczące technologii informacyjnej; Edukacja prawna.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Fornecimento de instrução em matéria de processamento de dados; Serviços de instrução em matéria de processamento de dados; Formação relacionada com técnicas de processamento de dados; Educação e formação em matéria de processamento eletrónico de dados; Acreditação de serviços educacionais; Acreditação [certificação] de sucesso escolar; Serviços de educação relacionados com tecnologia da informação; Serviços de ensino jurídico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Pregătire referitoare la procesarea datelor; Servicii de instruire referitoare la prelucrarea datelor; Instruire în tehnicile de prelucrare de date; Educație și instruire în domeniul procesării datelor electronice; Certificare de servicii de educație; Acreditare [certificare] de performanțe educaționale; Servicii educative în domeniul tehnologiei informației; Servicii de educație juridică.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poskytovanie inštrukcií v oblasti spracovania dát; Inštruktážne služby zamerané na spracovanie údajov; Výcvikové a školiace služby v oblasti techník spracovania dát; Vzdelávanie a školenie v oblasti spracovania elektronických údajov; Osvedčovanie vzdelávacích služieb; Akreditácia [osvedčovanie] dosiahnutého vzdelania; Vzdelávacie služby v oblasti informačných technológií; Vzdelávacie služby v oblasti práva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Nudenje poučevanja v zvezi z obdelavo podatkov; Storitve poučevanja na področju obdelave podatkov; Usposabljanje v zvezi s tehnikami obdelave podatkov; Izobraževanje in usposabljanje na področju obdelave elektronskih podatkov; Akreditacija izobraževalnih storitev; Akreditacija [certifikacija] izobraževalnih dosežkov; Izobraževalne storitve v zvezi z informacijsko tehnologijo; Storitve pravnega izobraževanja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Upplåtande av instruktion relaterad till databehandling; Handledningstjänster avseende databehandling; Träning relaterad till databehandlingstekniker; Utbildning och instruktion inom området elektronisk databehandling; Ackreditering av utbildningstjänster; Intygande av utbildningsresultat [certifiering]; Undervisning/utbildning avseende informationsteknik; Juridisk undervisning/utbildning.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>45</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Юридически услуги; Проверка за спазването на правните разпоредби; Проверка за спазването на регулаторните разпоредби; Преразглеждане на стандарти и практики с цел гарантиране на спазването на законите и регламентите.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Právní služby; Audity v oblasti dodržování právních předpisů; Audity v oblasti dodržování právních předpisů; Revize norem a postupů pro zajištění souladu se zákony a předpisy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Juridisk bistand; Auditering af overholdelse af lovkrav; Auditering af overholdelse af myndighedskrav; Gennemgang af standarder og praksis for at sikre overholdelse af love og bestemmelser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Juristische Dienstleistungen; Prüfung auf Einhaltung gesetzlicher Bestimmungen; Prüfung auf Einhaltung von regulatorischen Bestimmungen; Überprüfung von Standards und Praktiken zur Gewährleistung der Einhaltung von Gesetzen und Vorschriften.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Νομικές υπηρεσίες· Έλεγχος νομικής συμμόρφωσης· Έλεγχος κανονιστικής συμμόρφωσης· Εξέταση προτύπων και πρακτικών με στόχο τη διασφάλιση της συμμόρφωσης με νόμους και κανονισμούς.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Legal services; Legal compliance auditing; Regulatory compliance auditing; Reviewing standards and practices to assure compliance with laws and regulations.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios jurídicos; Auditoría de cumplimiento jurídico; Auditorías de cumplimiento de reglamentos; Examen de normas y prácticas para garantizar el cumplimiento de leyes y reglamentos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Juriidilised teenused; Õigusvastavuse audit; Õigusaktidele vastavuse auditid; Standardite ja tegevuspõhimõtete ülevaatamine tagamaks vastavus seaduste ja määrustega.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Oikeudelliset palvelut; Lain noudattamista koskevat tarkastukset; Säädösten noudattamista koskevat tarkastukset; Standardien ja käytäntöjen tarkastaminen sen varmistamiseksi, että ne ovat lakien ja säädösten mukaisia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services juridiques; Services d'audit à des fins de conformité juridique; Services d'audit à des fins de conformité réglementaire; Examen de normes et de pratiques afin de vérifier leur conformité aux lois et règlements.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pravne usluge; Revizija pravne usklađenosti; Revizija regulatorne usklađenosti; Preispitivanje normi i prakse za osiguranje usklađenosti sa zakonima i propisima.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Jogi szolgáltatások; Jogi megfelelés ellenőrzése; Előírásoknak való megfelelés ellenőrzése; Szabványok és gyakorlat áttekintése a törvényeknek és rendeleteknek való megfelelés biztosítása céljából.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi giuridici; Audit della conformità giuridica; Audit della conformità normativa; Revisione di standard e procedure volte ad assicurare la conformità a leggi e regolamentazioni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Juridinės paslaugos; Teisinės atitikties auditas; Teisės aktų rekalavimų atitikties auditas; Standartų ir praktikos peržiūra siekiant užtikrinti, kad būtų laikomasi įstatymų ir taisyklių.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Juridiskie pakalpojumi; Atbilstības pārbaude tiesību aktiem; Normatīvās atbilstības pārbaude; Standartu un prakses pārskatīšana, lai nodrošinātu saderību ar likumiem un noteikumiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi legali; Verifika ta' konformità legali; Verifika tal-konformità regolatorja; Reviżjoni ta' standards u prattiki għall-assigurazzjoni tal-konformità mal-liġijiet u regolamenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Juridische diensten; Conformiteitsaudits inzake wetgeving; Conformiteitsaudits inzake regelgeving; Analyse van normen en praktijken om de naleving van wet- en regelgeving te verzekeren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi prawne; Audyty zgodności z prawem; Audyty zgodności z przepisami; Sprawdzanie standardów i praktyk w celu zapewnienia zgodności z prawami i regulacjami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços jurídicos; Auditorias para fins de conformidades legais; Auditorias de conformidade regulamentar; Revisão de normas e práticas para assegurar a conformidade com leis e regulamentos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii juridice; Auditare a conformității juridice; Auditare a conformității de reglementare; Revizuirea standardelor și practicilor în vederea asigurării conformității cu legile și reglementările.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Právne služby; Audity v oblasti dodržiavania právnych predpisov; Audity v oblasti dodržiavania predpisov; Hodnotenie noriem a postupov za účelom zabezpečovania dodržiavania práv a nariadení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pravne storitve; Revizija pravne skladnosti; Revizija skladnosti z zakonodajo; Pregled standardov in praks za zagotavljanje skladnosti z zakoni in uredbami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Juridiska tjänster; Granskning av rättslig efterlevnad; Granskning av regelefterlevnad; Granskning av normer och praxis för säkerställande av efterlevnad av lagar och regleringar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082589</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

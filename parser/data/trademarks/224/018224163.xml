@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-08T12:14:37</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224163</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224163</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Geniuscope</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162200005</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224163/000162200005.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Лекарства за хуманни цели; Предварително напълнени спринцовки за медицински цели; Бактериални отрови; Фармацевтични препарати; Диетични вещества за медицински цели; Лаксативи [разхлабителни средства]; Памук за медицински цели; Памук за медицински цели; Материали за пломбиране на зъби; Дезинфектанти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Humánní léčiva; Naplněné stříkačky pro lékařské účely; Bakteriální jedy; Farmaceutické přípravky; Dietetické látky pro léčebné účely; Přípravky na pročištění; Vata pro zdravotnické účely; Bavlna pro zdravotnické účely; Materiály pro zubní výplně; Dezinfekční přípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Humanmedicin; Fyldte injektionssprøjter til medicinske formål; Bakteriegifte; Farmaceutiske præparater; Diætetiske substanser tilpasset medicinsk brug; Udtømningsmidler; Vat til medicinske formål; Bomuld til medicinske formål; Tandfyldematerialer; Desinfektionsmidler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Arzneimittel für humanmedizinische Zwecke; Vorabgefüllte Spritzen für medizinische Zwecke; Bakteriengifte; Pharmazeutische Präparate; Diätische Substanzen für medizinische Zwecke; Blutreinigende Mittel; Watte für medizinische Zwecke; Baumwolle für medizinische Zwecke; Zahnfüllmittel; Desinfektionsmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φάρμακα θεραπευτικά για ανθρώπινη χρήση· Προγεμισμένες σύριγγες για ιατρική χρήση· Βακτηριακά δηλητήρια· Φαρμακευτικά (Προϊόντα -)· Διαιτητικές ουσίες προσαρμοσμένες για ιατρικές χρήσεις· Καθαρτικά· Βαμβάκι για ιατρική χρήση· Βαμβάκι για ιατρική χρήση· Υλικά σφραγίσεως δοντιών· Απολυμαντικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Medicines for human purposes; pre-filled syringes for medical purposes; bacterial poisons; pharmaceutical preparations; dietetic substances adapted for medical use; depuratives; wadding for medical purposes; cotton for medical purposes; teeth filling material; disinfectants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Medicamentos para uso médico; Jeringas prellenadas para uso médico; Venenos bacterianos; Preparaciones farmacéuticas; Sustancias dietéticas para uso médico; Depurativos; Guata para uso médico; Algodón para uso médico; Materiales para empastes dentales; Desinfectantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ravimid inimestele, inimeste raviks; Eeltäidetud meditsiinilised süstlad; Baktermürgid; Farmatseutilised preparaadid; Meditsiinilised dieetained; Verepuhastid; Meditsiiniline vateermaterjal; Meditsiiniline vatt; Hambatäidised; Desinfektsioonivahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lääkkeet ihmisille; Esitäytetyt ruiskut lääkinnällisiin tarkoituksiin; Bakteerimyrkyt; Farmaseuttiset valmisteet; Dieettivalmisteet lääkinnälliseen käyttöön; Ulostusaineet; Vanu lääkinnälliseen käyttöön; Vanu lääkinnälliseen käyttöön; Hampaiden täyteaineet; Desinfiointiaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Médicaments pour la médecine humaine; Seringues préremplies à usage médical; Poisons bactériens; Préparations pharmaceutiques; Substances diététiques à usage médical; Dépuratifs; Ouate à usage médical; Coton à usage médical; Matières pour plomber les dents; Désinfectants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Lijekovi za ljudske potrebe; Prethodno napunjene štrcaljke za medicinsku upotrebu; Bakterijski otrovi; Farmaceutski pripravci; Dijetne tvari za medicinske potrebe; Čišćenje (sredstva za čišćenje) [laksativi]; Pamuk za medicinske potrebe; Pamuk za medicinske potrebe; Zubi (materijali za plombiranje zubi); Dezinfekcijska sredstva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyógyszerek humángyógyászati használatra; Előretöltött fecskendők gyógyászati használatra; Bakteriális mérgek; Gyógyszerészeti készítmények; Diétás anyagok gyógyászati használatra; Hashajtók; Vatta gyógyászati célokra; Vatta gyógyászati célokra; Fogtömő anyagok; Fertőtlenítőszerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Medicamenti per la medicina umana; Siringhe preriempite per uso medico; Veleni batterici; Preparazioni farmaceutiche; Sostanze dietetiche per uso medico; Depurativi; Ovatta per uso medico; Cotone per uso medico; Materie per piombare i denti; Disinfettanti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vaistai (žmonėms); Užpildyti švirkštai (medicinos reikmėms); Bakteriniai toksinai; Farmaciniai preparatai; Dietinės medžiagos (medicinos reikmėms); Vidurius valantys vaistai; Kamšalai (medicinos reikmėms); Medvilnė (medicinos reikmėms); Dantų plombavimo medžiagos; Dezinfekantai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medikamenti cilvēkam; Ar preparātiem pildītas šļirces medicīniskiem nolūkiem; Bakteriālas indes; Farmaceitiskie preparāti; Diētiskas vielas medicīniskiem nolūkiem; Caureju veicinoši līdzekļi; Vates izstrādājumi medicīniskiem nolūkiem; Vates izstrādājumi medicīniskiem nolūkiem; Materiāli zobu plombēšanai; Dezinfekcijas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Mediċini għal skopijiet umani; Siringi mimlijin minn qabel għal skopijiet mediċi; Velenu li joqtol il-batterji; Preparazzjonijiet farmaċewtiċi; Sustanzi djetetiċi addattati għall-użu mediku; Purganti; Tajjar għal skopijiet mediċi; Tajjar għal skopijiet mediċi; Materjal għall-mili tas-snien; Diżinfettanti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Geneesmiddelen voor menselijk gebruik; Gevulde injectiespuiten voor medische doeleinden; Gif uit bacteriën; Farmaceutische producten; Diëtische substanties voor medisch gebruik; Bloedzuiverende middelen; Watten voor medisch gebruik; Katoen voor geneeskundig gebruik; Tandvulmiddelen; Desinfectiemiddelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Leki dla ludzi; Wstępnie wypełnione strzykawki do celów medycznych; Trucizny bakteryjne; Preparaty farmaceutyczne; Dietetyczne substancje przystosowane do celów medycznych; Środki przeczyszczające; Wata do celów medycznych; Wata do celów medycznych; Materiały do plombowania zębów; Środki odkażające.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Medicamentos para a medicina humana; Seringas pré-carregadas para fins médicos; Venenos bacterianos; Preparações farmacêuticas; Substâncias dietéticas para uso medicinal; Depurativos; Algodão em rama para uso medicinal; Algodão para uso medicinal; Matérias para chumbar os dentes; Desinfetantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Remedii pentru medicina umană; Seringi preumplute de uz medical; Bacteriene (Otrăvuri -); Preparate farmaceutice; Dietetice (substanțe - de uz medical); Laxative; Vată de uz medicinal; Vată de uz medicinal; Dinți (materiale pentru plombarea -lor); Dezinfectante.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lieky pre humánnu medicínu; Naplnené injekčné striekačky na lekárske použitie; Bakteriálne jedy; Farmaceutické prípravky; Diétne látky na lekárske použitie; Preháňadlá; Vata na lekárske použitie; Vata na lekárske použitie; Materiály na plombovanie zubov; Dezinfekčné prípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zdravila za ljudi; Predhodno napolnjene injekcijske brizge za medicinske namene; Bakterijski strupi; Farmacevtski pripravki; Dietetične snovi za medicinsko uporabo; Laksativi; Bombaž za medicinske namene; Bombaž za medicinske namene; Materiali za plombiranje zob; Razkužila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Läkemedel för humana ändamål; Förfyllda sprutor för medicinska ändamål; Bakteriegifter; Farmaceutiska preparat; Dietiska ämnen för medicinska ändamål; Renande laxermedel; Vadd för medicinska ändamål; Bomull för medicinska ändamål; Tandfyllnadsmaterial; Desinfektionsmedel.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Игли за медицински цели; Канюли; Апарати за вътрешни промивки; Хирургически апарати и инструменти; Форцепси; Урологични апарати и инструменти; Медицински апарати и инструменти; Ендоскопски камери за медицински цели; Инструменти за оториноларингология; Електроди за медицинско използване.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Jehly pro lékařské účely; Kanyly; Zařízení pro výplachy a vymývání tělních dutin; Chirurgické přístroje a nástroje; Chirurgické kleště; Urologické přístroje a nástroje; Lékařské přístroje a nástroje; Endoskopické kamery pro lékařské účely; Otorinolaryngologické nástroje; Elektrody pro lékařské účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Nåle til medicinske formål; Kanyler til dræn; Indretninger til vask af legemshulheder; Kirurgiske apparater og instrumenter; Fødselstænger; Urologiske instrumenter og apparater; Medicinske apparater og instrumenter; Endoskopikameraer til medicinske formål; Otolaryngologiske instrumenter; Elektroder til medicinsk brug.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Nadeln für medizinische Zwecke; Kanülen; Geräte zum Spülen von Körperhöhlen; Chirurgische Apparate und Instrumente; Geburtszangen; Urologische Apparate und Instrumente; Medizinische Apparate und Instrumente; Endoskopiekameras für medizinische Zwecke; Instrumente für die Hals-Nasen-Ohren-Heilkunde; Elektroden für medizinische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Βελόνες για ιατρική χρήση· Κάνουλες (βελόνες) χειρουργικες· Κοιλοτήτων σωματικών (Συσκευές για το πλύσιμο των -)· Χειρουργικές συσκευές και όργανα· Εμβρυουλκοί· Ουρολογικές (Συσκευές και όργανα -)· Ιατρικά (Συσκευές και όργανα -)· Ενδοσκοπικές κάμερες για ιατρική χρήση· Ωτολαρυγγολογικά εργαλεία· Ηλεκτρόδια για ιατρική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Needles for medical purposes; cannulae; appliances for washing body cavities; surgical apparatus and instruments; forceps; urological apparatus and instruments; medical apparatus and instruments; endoscopy cameras for medical purposes; Otolaryngology instruments; electrodes for medical use.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Agujas para uso médico; Cánulas; Aparatos para limpiar las cavidades del cuerpo; Aparatos e instrumentos quirúrgicos; Fórceps; Aparatos e instrumentos urológicos; Aparatos e instrumentos médicos; Cámaras endoscópicas para uso médico; Instrumentos otorrinolaringológicos; Electrodos para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiinilised nõelad; Kanüülid; Kehaõõnte pesemise vahendid; Kirurgiaseadmed ja -riistad; Sünnitustangid; Uroloogilised aparaadid ja riistad; Meditsiiniseadmed ja -riistad; Meditsiinilised endoskoopiakaamerad; Otolarüngoloogia instrumendid; Meditsiinilised elektroodid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Neulat lääketieteellisiin tarkoituksiin; Kanyylit; Ruumiinonteloiden pesulaitteet; Kirurgiset laitteet ja välineet; Pihdit; Urologiset laitteet ja välineet; Lääketieteelliset laitteet ja välineet; Endoskopiakamerat lääkinnällisiin tarkoituksiin; Korva-, nenä- ja kurkkulääkinnälliset instrumentit; Elektrodit lääketieteelliseen käyttöön.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Aiguilles à usage médical; Canules; Appareils à rincer les cavités du corps; Appareils et instruments chirurgicaux; Forceps; Appareils et instruments urologiques; Appareils et instruments médicaux; Caméras endoscopiques à usage médical; Instruments d'otorhinolaryngologie; Électrodes à usage médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Igle za medicinske namjene; Kanile; Šupljine na tijelu (uređaji za ispiranje šupljina na tijelu); Kirurški aparati i instrumenti; Forceps; Urološki uređaji i instrmenti; Medicinski uređaji i instrumenti; Endoskopske kamere za medicinske potrebe; Otolaringološki instrumenti; Elektrode za medicinske potrebe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Tűk orvosi használatra; Kanülök; Testüregek kimosására szolgáló eszközök; Sebészeti készülékek és eszközök; Orvosi fogók, csipeszek; Urológiai készülékek és eszközök; Gyógyászati készülékek és eszközök; Endoszkópos kamerák gyógyászati célokra; Fül-orr-gégészeti készülékek; Elektródák gyógyászati használatra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Aghi per uso medico; Cannule; Apparecchi per lavare le cavità del corpo; Apparecchi e strumenti chirurgici; Forcipi; Apparecchi e strumenti urologici; Apparecchi e strumenti medici; Telecamere endoscopiche per uso medico; Strumenti di otorinolaringoiatria; Elettrodi per uso medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Adatos (medicinos reikmėms); Kaniulės; Kūno ertmių plovimo įtaisai; Chirurginiai aparatai ir instrumentai; Chirurginės žnyplės; Urologijos aparatai ir prietaisai; Medicinos aparatai ir instrumentai; Endoskopinės kameros (medicinos reikmėms); Otolaringologijos instrumentai; Elektrodai (medicinos reikmėms).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medicīniskās adatas; Kaniles; Ierīces ķermeņa dobumu skalošanai; Ķirurģiskās ierīces un instrumenti; Ķirurģiskās pincetes; Uroloģijā izmantojamas ierīces un instrumenti; Medicīniskā aparatūra un instrumenti; Endoskopijas kameras; Otolaringoloģiskie instrumenti; Elektrodi medicīniskiem nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Labar għal skopijiet mediċi; Kannuli; Kavitajiet tal-ġisem [Tagħmir għall-ħasil ta' -]; Apparat u strumenti kirurġiċi; Forċipi; Apparat u strumenti uroloġiċi; Apparat u strumenti mediċi; Kameras tal-endoskopija għal skopijiet mediċi; Strumenti otolaringoloġiċi; Elettrodi għal skopijiet mediċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Naalden voor medisch gebruik; Canules; Spoelapparaten voor lichaamsholten; Chirurgische apparaten en instrumenten; Verlostangen; Urologische apparaten en instrumenten; Medische apparaten en instrumenten; Endoscopische camera's voor medisch gebruik; Instrumenten voor keel, neus en oor; Elektroden voor medisch gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Igły do celów medycznych; Kaniule; Przybory do mycia wgłębień ciała; Aparatura i instrumenty chirurgiczne; Kleszcze; Urządzenia i przyrządy urologiczne; Urządzenia i instrumenty medyczne; Kamery endoskopowe do celów medycznych; Przyrządy otorynolaryngologiczne; Elektrody do użytku medycznego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Agulhas para uso médico; Cânulas; Aparelhos para lavar as cavidades do corpo; Aparelhos e instrumentos cirúrgicos; Fórceps [tenazes]; Aparelhos e instrumentos urológicos; Aparelhos e instrumentos médicos; Câmaras de endoscopia para fins médicos; Instrumentos de otorrinolaringologia; Elétrodos para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Ace de uz medical; Canule; Cavitățile corpului (Aparate pentru spălat -); Aparate și instrumente chirurgicale; Forcepsuri; Aparate și instrumente urologice; Aparate și instrumente medicale; Camere endoscopice pentru uz medical; Instrumente otorinolaringologice; Electrozi de uz medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Ihly na lekárske použitie; Kanyly; Zariadenia na výplachy a vymývanie telesných dutín; Chirurgické prístroje a nástroje; Pôrodnícke kliešte; Urologické prístroje a nástroje; Lekárske prístroje a nástroje; Endoskopické kamery na lekárske použitie; Otolaryngologické nástroje; Elektródy na lekárske použitie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Igle za medicinske namene; Kanile; Naprave za izpiranje telesnih votlin; Kirurški aparati in instrumenti; Porodne klešče; Urološki aparati in instrumenti; Medicinski aparati in instrumenti; Endoskopske kamere za medicinske namene; Otolaringološki instrumenti; Elektrode za medicinsko uporabo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Nålar för medicinska ändamål; Kanyler; Anordningar för spolning av kroppshåligheter; Kirurgiska apparater och instrument; Kirurgtänger; Urologiska apparater och instrument; Medicinska apparater och instrument; Endoskopikameror för medicinska ändamål; Otolaryngologiska instrument; Elektroder för medicinsk användning.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>44</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Болници; Медицинска помощ; Болногледачки (Услуги на -); Медицински клиники; Терапевтични услуги; Отдаване под наем на медицинско оборудване; Медицински консултации; Телемедицински услуги; Домове за възстановяване на здравето; Съвети в областта на диетологията и храненето.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nemocnice; Lékařské služby; Ošetřovatelské služby; Zdravotnická střediska; Terapeutické služby; Pronájem zdravotnického vybavení; Lékařské poradenské služby; Telemedicína; Zotavovny; Poradenství v oblasti stravování a výživy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tjenester ydet af hospitaler; Lægehjælp; Sygepleje; Tjenester ydet af medicinske klinikker; Terapivirksomhed; Udlejning af medicinsk udstyr; Medicinsk rådgivningsvirksomhed; Telemedicinske ydelser; Tjenester ydet af rekonvalescenthjem; Kost- og ernæringsmæssig vejledning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Dienstleistungen eines Krankenhauses; Dienstleistungen eines Arztes; Krankenpflegedienste; Dienstleistungen von Kliniken [Ambulanzen]; Therapiedienste; Vermietung von medizinischer Ausrüstung; Medizinische Beratungsdienste; Telemedizin-Dienste; Dienstleistungen von Kuranstalten und Rehabilitationskliniken; Abgabe von Empfehlungen bezüglich Ernährung und Diäten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Νοσοκομεία (Υπηρεσίες για -)· Βοήθεια ιατρική· Ιατρική νοσηλεία· Υπηρεσίες ιατρικής κλινικής· Θεραπευτικές υπηρεσίες· Εκμίσθωση ιατρικού εξοπλισμού· Ιατρική εξέταση, γνωμάτευση και παροχή ιατρικών συμβουλών· Υπηρεσίες τηλεϊατρικής· Ανάρρωσης και ανάπαυσης οίκοι· Παροχή καθοδήγησης σε θέματα διαιτητικής και διατροφής.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Hospital services; medical assistance; nursing, medical; medical clinic services; therapy services; medical equipment rental; medical consultations; telemedicine services; convalescent home services; dietary and nutritional guidance.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios hospitalarios; Asistencia médica; Servicios de enfermeros; Servicios de clínicas médicas; Servicios terapéuticos; Alquiler de equipos médicos; Consultas médicas; Servicios de telemedicina; Servicios de casas de convalecencia; Asesoramiento dietético y nutricional.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Haiglateenused; Arstiabi; Põetamine; Kliinikute, kliiniliste haiglate meditsiiniteenused; Teraapiateenused; Meditsiiniseadmete rent; Meditsiinikonsultatsioonid; Telemeditsiiniteenused; Taastusravikeskuste teenused; Dieedi- ja toitumisalane juhendamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sairaalat; Lääkinnällinen apu; Sairaanhoito; Lääkintäklinikoiden palvelut; Terapiapalvelut; Lääketieteellisten välineiden vuokraus; Lääketieteelliset konsultaatiot; Etälääkäripalvelut; Toipilaskotipalvelut; Ruokavalio- ja ravitsemusneuvonta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services hospitaliers; Assistance médicale; Services de gardes-malades; Services de cliniques médicales; Services thérapeutiques; Location d'équipements médicaux; Services de consultations médicales; Services de télémédecine; Services de maisons de convalescence; Conseils dans les domaines de la diététique et de la nutrition.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Bolnice; Medicinska pomoć; Bolnička njega; Medicinske kliničke usluge; Terapeutske usluge; Iznajmljivanje medicinske opreme; Medicinske konzultacije; Usluge telemedicine; Oporavilišta; Prehrambeni i nutricionistički savjeti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kórházak; Orvosi ellátás; Betegápolási szolgáltatások; Klinikák, orvos rendelők szolgáltatásai; Terápiás szolgáltatások; Orvosi berendezések kölcsönzése; Orvosi tanácsadási szolgáltatások; Távgyógyászati szolgáltatások; Otthonok lábadozók utókezelésére; Étrendi és táplálkozási útmutatás.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi ospedalieri; Servizi medici; Servizi di infermieri; Servizi di cliniche mediche; Servizi terapeutici; Noleggio di attrezzature mediche; Visita medica; Servizi di telemedicina; Servizi di case per convalescenti; Guida dietetica e nutrizionale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Ligoninių paslaugos; Medicinos pagalba; Slaugymas [medicininis]; Medicinos klinikų paslaugos; Gydymo paslaugos; Medicininės įrangos nuoma; Medicininės konsultacijos; Telemedicinos paslaugos; Reabilitacijos įstaigų paslaugos; Patarimai dietos ir mitybos klausimais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Slimnīcu pakalpojumi; Ārstnieciskā aprūpe; Slimnieku kopšana; Klīniku pakalpojumi; Terapijas pakalpojumi; Medicīniskā aprīkojuma iznomāšana; Medicīnisko konsultāciju sniegšana; Telemedicīnas pakalpojumi; Rehabilitācijas centru pakalpojumi; Ar diētu un uzturu saistītu ieteikumu sniegšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Sptarijiet; Assistenza medika; Kura ta' nfermiera; Servizzi ta' klinika medika; Servizzi ta' terapija; Il-kiri ta' tagħmir mediku; Konsultazzjonijiet mediċi; Servizzi ta' telemediċina; Djar ta' konvalexxenza; Gwida dietarja u nutrizzjonali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diensten van ziekenhuizen; Geneeskundige assistentie; Ziekenverzorging; Diensten van medische klinieken; Therapeutische diensten; Verhuur van medische uitrustingen; Medische consultatie; Doktersdiensten [op afstand verleend]; Diensten van herstellingsoorden; Begeleiding op het gebied van diëten en voeding.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Szpitale; Pomoc medyczna; Opieka pielęgniarska; Usługi klinik medycznych; Usługi terapeutyczne; Wypożyczanie sprzętu medycznego; Konsultacje medyczne; Usługi telemedyczne; Placówki rekonwalescencji; Doradztwo w zakresie diety i odżywiania się.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de hospitais; Assistência médica; Enfermagem; Clínicas médicas; Serviços de terapia; Aluguer de equipamentos médicos; Consultas médicas; Serviços de telemedicina; Serviços de lares de convalescença; Orientação dietética e nutricional.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii spitalicești; Medicală (Asistență -); Îngrijire medicală; Servicii ale clinicilor medicale; Servicii de terapie; Închirierea echipamentelor medicale; Consultații medicale; Servicii de telemedicină; Case de odihnă; Orientare dietetică și nutrițională.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nemocnice (služby); Lekárske služby; Ošetrovateľské služby; Zdravotné strediská (služby); Terapeutické služby; Prenájom lekárskeho vybavenia; Lekárske poradenské služby; Telemedicínske služby; Zotavovne pre rekonvalescentov; Diétne a výživové poradenstvo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Bolnišnice; Zdravniška pomoč; Patronažna služba; Storitve zdravstvenih klinik; Terapevtske storitve; Izposoja medicinske opreme; Medicinsko posvetovanje; Telemedicinske storitve; Okrevališča; Svetovanje na področju dietetike in nutricionizma.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Sjukhus; Medicinsk assistans; Sjukskötersketjänster; Medicinska kliniktjänster; Terapitjänster; Uthyrning av medicinsk utrustning; Medicinska konsultationer; Medicinska tjänster via telefon; Konvalescenthem; Diet- och kostrådgivning.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079046</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15039</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003126094</OppositionIdentifier>
+<OppositionDate>2020-07-15</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>018093367</ApplicationNumber>
+<ApplicationDate>2019-07-10</ApplicationDate>
+<RegistrationNumber>018093367</RegistrationNumber>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>GENIUS AI</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>WO</EarlierMarkCountryCode>
+<DesignatedCountryDetails>
+           <DesignatedCountryCode>EM</DesignatedCountryCode>
+          </DesignatedCountryDetails>
+<ApplicationNumber>1265378</ApplicationNumber>
+<ApplicationDate>2015-07-30</ApplicationDate>
+<RegistrationNumber>1265378</RegistrationNumber>
+<RegistrationDate>2015-07-30</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>GENIUS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>WO</EarlierMarkCountryCode>
+<DesignatedCountryDetails>
+           <DesignatedCountryCode>EM</DesignatedCountryCode>
+          </DesignatedCountryDetails>
+<ApplicationNumber>1303339</ApplicationNumber>
+<ApplicationDate>2016-05-20</ApplicationDate>
+<RegistrationNumber>1303339</RegistrationNumber>
+<RegistrationDate>2016-05-20</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>GENIUS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>171191</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>67644</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017950422</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15039</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-05-27</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

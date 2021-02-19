@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:04:16</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222197</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222197</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-08</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>TERRA S NOVA</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>1</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Минерални адсорбенти и абсорбенти; Минерали за употреба като вещества за адсорбция и абсорбция на течности; Адсорбенти и Абсорбиране на течности, в частност от масла и течни химикали; Калциев силикат; Тоберморит.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Minerální adsorbenty a absorbenty; Materiály k použití jako činidla pro adsorpci a absorpci kapalin; Adsorpční prostředky a Absorpce kapalin, zejména olejových a kapalných chemických výrobků; Křemičitan vápenatý; Tobermorit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Mineraladsorberingsmidler og absorberende midler; Mineraler til brug som midler til adsorbering og absorbering af væsker; Adsorptionsmidler og Absorbering af væsker, særligt af olie og flydende kemikalier; Calciumsilicat; Tobermorit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Mineralische Adsorptionsmittel und Absorptionsmittel; Mineralstoffe zur Verwendung als Adsorptionsmittel und Absorptionsmittel für Flüssigkeiten; Adsorptionsmittel und Absorption von Flüssigkeiten, insbesondere Öl und chemische Erzeugnisse in flüssiger Form; Calciumsilikat; Tobermorit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μέσα προσρόφησης και απορρόφησης μεταλλικών στοιχείων· Μεταλλικά στοιχεία για χρήση ως παράγοντες προσρόφησης και απορρόφησης υγρών· Μέσα απορρόφησης και Απορρόφηση υγρών, ειδικότερα πετρελαίου και χημικών προϊόντων σε υγρή μορφή· Πυριτικό ασβέστιο· Τομπερμορίτης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Mineral adsorbents and absorbents; minerals for use as agents for adsorption and absorption of liquids; agent for adsorption and absorption of liquids, in particular of oil and liquid chemicals; calcium silicate; tobermorite.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Adsorbentes y absorbentes minerales; Minerales para su uso como agentes para la adsorción y absorción de líquidos; Agentes de adsorción y Absorción de líquidos, en particular de aceite y productos químicos líquidos; Silicato de calcio; Tobermorita.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mineraalsed adsorbendid ja absorbendid; Vedelike adsorbeerimise ja absorbeerimise toimeainena kasutatavad mineraalid; Adsorptsioonivahendid ja Vedelike, eelkõige nafta ja vedelkemikaalide absorbeerimine; Kaltsiumsilikaat; Tobermoriit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Mineraaliadsorbentit ja absorboimisaineet; Tarvikkeet käytettäväksi adsorboimisaineina ja nesteiden absorbointiin; Imeytysaineet ja Nesteiden, erityisesti öljyn ja nestemäisten kemikaalien absorbointi; Kalsiumsilikaatti; Tobermoriitti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Adsorbants et absorbants minéraux; Minéraux utilisés comme agents pour l'adsorption et l'absorption de liquides; Absorbants et Absorption de liquides, en particulier pétrole et produits chimiques liquides; Silicate de calcium; Tobermorite.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Mineralni adsorbenti i apsorbenti; Minerali za uporabu kao sredstva za adsorpciju i apsorpciju tekućina; Apsorbenti i Apsorpcija tekućina, posebno ulja i tekućih kemikalija; Kalcijev silikat; Tobermorit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ásványi adszorbensek és abszorbensek; Folyadékok adszorpciójához és abszorpciójához használt ásványi anyagok; Adszorpciós anyagok és Folyadékok, különösen olaj és folyékony vegyszerek abszorpciója; Kalcium-szilikát; Tobermorit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Adsorbenti e assorbenti minerali; Minerali da utilizzare come agenti per l'adsorbimento e l'assorbimento di liquidi; Adsorbenti e Assorbimento di liquidi, in particolare di olio e prodotti chimici liquidi; Silicato di calcio; Tobermorite.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mineralų adsorbentai ir absorbentai; Mineralai, naudojami kaip skysčių adsorbcijos ir absorbcijos medžiagos; Sugeriamosios priemonės ir Skysčių, ypač aliejaus ir skystų chemikalų, absorbcija; Kalcio silikatas; Tobermoritas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Minerālu adsorbenti un absorbētāji; Minerāli, ko izmanto kā šķidrumu adsorbcijas un absorbēšanas aģentus; Adsorbcijas līdzekļi un Šķidrumu, jo īpaši eļļas un šķidru ķīmisku vielu absorbcija; Kalcija silikāts; Tobermorīts.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Assorbenti tal-minerali u assorbenti; Minerali għall-użu bħala aġenti għall-assorbiment u l-assorbiment ta' liwkidi; Prodotti tal-assorbiment u Assorbiment ta' likwidi, b'mod partikolari ta' żjut u kimiċi likwidi; Silikat tal-kalċju; Tobermorite.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Minerale adsorptiemiddelen en absorbeermiddelen; Mineralen voor gebruik als adsorptie- en absorbeermiddelen voor vloeistoffen; adsorptiemiddelen en Het absorberen van vloeistoffen, met name olie en vloeibare chemische producten; Calciumsilicaat; Tobermoriet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Adsorbenty i absorbenty mineralne; Minerały do użytku jako odczynniki do adsorbcji i absorbcji cieczy; Środki adsorpcyjne i Absorbcja cieczy, w szczególności olejów i płynnych substancji chemicznych; Krzemian wapnia; Tobermoryt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Adsorventes e absorventes minerais; Minerais para uso como agentes de adsorção e absorção de líquidos; Agentes de adsorção e Absorção de líquidos, em especial de petróleo e produtos químicos líquidos; Silicato de cálcio; Tobermorita.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Adsorbanți minerali și absorbanți; Minerale destinate utilizării ca agenți pentru adsorbția și absorbția lichidelor; Produse absorbante şi Absorbția lichidelor, în special a uleiului și produselor chimice lichide; Silicat de calciu; Tobermorit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Minerálne adsorpčné a absorpčné činidlá; Minerály na použitie ako činidlá na adsorpciu a absorpciu tekutín; Absorpčné materiály a Absorpcia tekutín, predovšetkým olejových a tekutých chemikálií; Kremičitan vápenatý; Tobermorit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Mineralni adsorbenti in adsorbenti; Minerali za uporabo kot sredstva za adsorpcijo in adsorpcijo tekočin; Absorpcijska sredstva in Adsorpcija tekočin, zlasti olja in tekočih kemikalij; Kalcijev silikat; Tobermorit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Mineraladsorberare och absorberingsmedel; Mineraler för användning som agenser för adsorption och absorption av vätskor; Absorberingsmedel och Absorption av vätskor, speciellt av olja och flytande kemikalier; Kalciumsilikat; Tobermorit.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<SeniorityDetails>
+<Seniority>
+<SeniorityCountryCode>DE</SeniorityCountryCode>
+<SeniorityApplicationNumber>300432542</SeniorityApplicationNumber>
+<SeniorityFilingDate>2000-06-07</SeniorityFilingDate>
+<SeniorityRegistrationNumber>30043254</SeniorityRegistrationNumber>
+<SeniorityRegistrationDate>2001-01-25</SeniorityRegistrationDate>
+<InternationalTradeMarkCode>EU</InternationalTradeMarkCode>
+<SeniorityPartialIndicator>false</SeniorityPartialIndicator>
+<SeniorityStatusCode>Accepted</SeniorityStatusCode>
+</Seniority>
+</SeniorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/078</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>770564</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>14485</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

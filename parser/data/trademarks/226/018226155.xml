@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-19T10:29:41</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226155</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226155</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-15</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-19</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>WEYMICS</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Офисмебели; Мебели; Седалки; Шезлонги; Шезлонги; Маси [мебели]; Дюшеци; Мебели от метал; Шезлонги; Шезлонги; Маси за масажи; Табуретки; Табуретки за крака; Фризьорски столове; Люлеещи се столове.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kancelářský nábytek; Nábytek; Židle; Pohovky (chaises longues); Křesla; Stoly (nábytek); Matrace; Kovový nábytek; Sofa; Pohovky (kratší s opěradlem); Masážní stoly; Podnožky; Stoličky; Kadeřnická křesla; Houpací židle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kontormøbler; Møbler; Stole; Chaiselonger; Lænestole; Borde [møbler]; Madrasser; Møbler af metal; Sofaer; Laugbænke; Massageborde; Fodskamler; Fodskamler; Frisørstole; Gyngestole.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Büromöbel; Möbel; Stühle; Chaiselongues; Polstersessel; Tische [Möbel]; Matratzen; Möbel aus Metall; Sofas; Kanapees; Massagetische; Schemel; Schemel; Friseursessel; Schaukelstühle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Έπιπλα, ειδικότερα έπιπλα γραφείου· Έπιπλα· Καθίσματα· Ξαπλώστρες [σεζ-λονγκ]· Ξαπλώστρες [σεζ-λονγκ]· Τραπέζια (έπιπλα)· Στρώματα· Έπιπλα μεταλλικά· Ξαπλώστρες [σεζ-λονγκ]· Ξαπλώστρες [σεζ-λονγκ]· Τραπέζια για μασάζ· Σκαμπό· Σκαμπό· Πολυθρόνες (Κομμωτών -)· Κουνιστές καρέκλες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">office furniture; furniture; chairs; chaise lounges; armchairs; Tables [furniture]; mattresses; Metal furniture; sofas; settees; massage tables; footstools; stools; hairdressers' chairs; rocking chairs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Muebles de oficina; Muebles; Sillas [asientos]; Tumbonas [sillas de extensión]; Sillones; Mesas [muebles]; Colchones; Muebles metálicos; Sofás; Canapés [sillones]; Mesas de masaje; Reposapiés; Taburetes; Sillones de peluquería; Mecedoras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kontorimööbel; Mööbel; Istmed; Chaise longue [lamamistool]; Tugitoolid; Lauad [mööbel]; Madratsid; Mööbel (Metall -), metallmööbel; Sohvad, diivanid; Istesohvad; Massaažilauad, masseerimislauad; Jalapingid, järid; Taburetid; Juuksuritoolid; Kiiktoolid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Toimistokalusteet; Huonekalut; Tuolit; Divaanisohvat; Sohvat; Pöydät [huonekalut]; Patjat; Huonekalut, metalliset; Sohvat; Sohvat; Hierontapöydät; Jakkarat; Jakkarat; Kampaamotuolit; Keinutuolit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Meubles de bureau; Meubles; Sièges; Chaises longues; Fauteuils; Tables [mobilier]; Matelas; Meubles métalliques; Sofas; Canapés; Tables de massage; Tabourets pour les pieds; Tabourets; Fauteuils de coiffure; Fauteuils à bascule.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Uredski namještaj; Namještaj; Sjedala; Šezloni; Sofe; Stolovi [namještaj]; Madraci; Metalni namještaj; Sofe; Sofe; Stolovi za masažu; Stolice bez naslona; Stolice bez naslona; Frizerske stolice; Stolice na ljuljanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Irodabútorok; Bútorok; Székek [ülések]; Heverők; Kanapék; Asztalok [bútor]; Matracok; Fémbútorok; Kanapék; Kanapék; Masszázsasztalok; Zsámolyok; Zsámolyok; Fodrászszékek; Hintaszékek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Mobili per ufficio; Mobilia; Sedie [sedili]; Sedie a sdraio; Poltrone; Tavoli [mobili]; Materassi; Mobili metallici; Sofà; Canapè; Tavoli per massaggi; Poggiapiedi; Sgabelli; Poltrone per parrucchieri; Sedie a dondolo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Biuro baldai; Baldai; Sėdynės; Šezlongai; Sofos; Stalai [baldai]; Čiužiniai ir matracai; Baldai (Metaliniai -); Sofos; Sofos; Masažo stalai; Kojų suoleliai; Taburetės; Kirpyklų krėslai; Supamieji krėslai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Biroja mēbeles; Mēbeles; Sēdekļi; Šēzlongi; Nelieli dīvāniņi; Galdi [mēbeles]; Matrači; Metāla mēbeles; Nelieli dīvāniņi; Nelieli dīvāniņi; Masāžas galdi; Ķebļi; Kāju soliņš; Frizētavu krēsli; Šūpuļkrēsli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Għamara tal-uffiċċju; Għamara; Sedili; Sufani [chaise longues]; Sufani; Mwejjed [għamara]; Saqqijiet; Għamara tal-metall; Sufani; Sufani; Imwejjed tal-massaġġi; Banketti; Banketti; Siġġijiet tal-parrukkiera; Siġġijiet jitbandlu [Rocking Chairs].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kantoormeubelen; Meubelen; Stoelen; Leunstoelen; Armstoelen; Tafels [meubelen]; Matrassen; Meubelen van metaal; Sofa's; Canapés; Massagetafels; Zitkrukjes; Zitkrukjes; Kappersstoelen; Schommelstoelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Meble biurowe; Meble; Siedzenia [meble]; Szezlongi; Kanapy; Stoły [meble]; Materace; Meble metalowe; Kanapy; Kanapy; Stoły do masażu; Taborety; Taborety; Fotele fryzjerskie; Fotele bujane.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Mobiliário de escritório; Mobiliário; Cadeiras [assentos]; Poltronas chaise longues; Poltronas [cadeirões]; Mesas [móveis]; Colchões; Mobiliário em metal; Sofás; Canapés [cadeirões]; Mesas para massagem; Bancos para apoio de pés; Tamboretes; Cadeiras para cabeleireiros; Cadeiras de baloiço.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Mobile de birou; Piese de mobilier; Scaune; Şezlonguri; Şezlonguri pentru transatlantice; Mese [mobilier]; Saltele; Mobilier metalic; Şezlonguri pentru transatlantice; Şezlonguri pentru transatlantice; Mese de masaj; Taburete; Taburete; Coafor (Scaune de -); Balansoare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kancelársky nábytok; Nábytok; Sedadlá; Chaise longue (typ čalúneného kresla); Ležadlá (Rozkladacie -); Stoly [nábytok]; Matrace; Kovový nábytok; Sofy; Ležadlá (Rozkladacie -); Masážne stoly; Taburety; Taburetky; Kadernícke kreslá; Hojdacie kreslá.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pisarniško pohištvo; Pohištvo; Sedeži; Zofe [chaise longues]; Zofe; Mize [pohištvo]; Vzmetnice; Kovinsko pohištvo; Zofe; Zofe; Mize za masažo; Stolčki; Pručke; Frizerski stoli; Gugalniki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kontorsmöbler; Möbler; Säten; Schäslonger; Fåtöljer; Bord [möbler]; Madrasser; Metallmöbler; Fåtöljer; Fåtöljer; Massagebänkar; Sittpallar; Sittpallar; Frisörstolar; Gungstolar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/086</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-08</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/156</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-18</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1069721</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>35172</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

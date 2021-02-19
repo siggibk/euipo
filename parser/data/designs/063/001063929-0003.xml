@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-11-05T11:31:28</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063929-0003</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-29</ReceivingOfficeDate>
+<DesignIdentifier>001063929-0003</DesignIdentifier>
+<ApplicationNumber>001063929</ApplicationNumber>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-29</ApplicationDate>
+<RegistrationDate>2008-12-29</RegistrationDate>
+<PublicationDate>2009-10-06</PublicationDate>
+<ApplicationReference>WILO0272/kl</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>true</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2018-12-29</ExpiryDate>
+<EffectiveDate>2008-12-29</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2019-11-01</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061766969</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063929_0003/001063929_0003_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061766970</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063929_0003/001063929_0003_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061766971</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063929_0003/001063929_0003_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061766972</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063929_0003/001063929_0003_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061766973</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063929_0003/001063929_0003_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061766974</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063929_0003/001063929_0003_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061766975</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063929_0003/001063929_0003_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Помпи (част от -)</IndicationProduct>
+       <IndicationProduct languageCode="bg">Корпуси за помпи</IndicationProduct>
+       <IndicationProduct languageCode="cs">Čerpadla (část -)</IndicationProduct>
+       <IndicationProduct languageCode="cs">Kryty na čerpadla</IndicationProduct>
+       <IndicationProduct languageCode="da">Huse til pumper</IndicationProduct>
+       <IndicationProduct languageCode="da">Pumper (del af -)</IndicationProduct>
+       <IndicationProduct languageCode="de">Pumpen (Teil von -)</IndicationProduct>
+       <IndicationProduct languageCode="de">Pumpengehäuse</IndicationProduct>
+       <IndicationProduct languageCode="el">Θήκες για αντλίες</IndicationProduct>
+       <IndicationProduct languageCode="el">Αντλίες (τμήματά τους -)</IndicationProduct>
+       <IndicationProduct languageCode="en">Casings for pumps</IndicationProduct>
+       <IndicationProduct languageCode="en">Pumps (part of -)</IndicationProduct>
+       <IndicationProduct languageCode="es">Carcasas de bombas</IndicationProduct>
+       <IndicationProduct languageCode="es">Bombas (parte de -)</IndicationProduct>
+       <IndicationProduct languageCode="et">Pumbad (osa -)</IndicationProduct>
+       <IndicationProduct languageCode="et">Pumpade korpused</IndicationProduct>
+       <IndicationProduct languageCode="fi">Kotelot pumpuille</IndicationProduct>
+       <IndicationProduct languageCode="fi">Pumput (osa -)</IndicationProduct>
+       <IndicationProduct languageCode="fr">Boîtiers pour pompes</IndicationProduct>
+       <IndicationProduct languageCode="fr">Pompes (partie de -)</IndicationProduct>
+       <IndicationProduct languageCode="hu">Szivattyúköpenyek</IndicationProduct>
+       <IndicationProduct languageCode="hu">Szivattyúk (…része)</IndicationProduct>
+       <IndicationProduct languageCode="it">Pompe (parte di -)</IndicationProduct>
+       <IndicationProduct languageCode="it">Alloggiamenti per pompe</IndicationProduct>
+       <IndicationProduct languageCode="lt">Siurblių dėklai</IndicationProduct>
+       <IndicationProduct languageCode="lt">Siurbliai (dalis - )</IndicationProduct>
+       <IndicationProduct languageCode="lv">Sūkņu korpusi</IndicationProduct>
+       <IndicationProduct languageCode="lv">Sūkņi (- daļa)</IndicationProduct>
+       <IndicationProduct languageCode="mt">Kisi għal pompi</IndicationProduct>
+       <IndicationProduct languageCode="mt">Pompi (parti minn -)</IndicationProduct>
+       <IndicationProduct languageCode="nl">Pompen (deel van -)</IndicationProduct>
+       <IndicationProduct languageCode="nl">Behuizingen voor pompen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Obudowy do pomp</IndicationProduct>
+       <IndicationProduct languageCode="pl">Pompy (część - )</IndicationProduct>
+       <IndicationProduct languageCode="pt">Bombas (parte de -)</IndicationProduct>
+       <IndicationProduct languageCode="pt">Invólucros para bombas</IndicationProduct>
+       <IndicationProduct languageCode="ro">Carcase pentru pompe</IndicationProduct>
+       <IndicationProduct languageCode="ro">Pompe (părţi de -)</IndicationProduct>
+       <IndicationProduct languageCode="sk">Čerpadlá (časť - )</IndicationProduct>
+       <IndicationProduct languageCode="sk">Kryty na čerpadlá</IndicationProduct>
+       <IndicationProduct languageCode="sl">Črpalke (del -)</IndicationProduct>
+       <IndicationProduct languageCode="sl">Ohišja za črpalke</IndicationProduct>
+       <IndicationProduct languageCode="sv">Höljen för pumpar</IndicationProduct>
+       <IndicationProduct languageCode="sv">Pumpar (del av -)</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>15.02</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/009</PublicationIdentifier>
+        <PublicationSection>A.2</PublicationSection>
+        <PublicationDate>2009-01-16</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/200</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-10-06</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/212</PublicationIdentifier>
+        <PublicationSequenceNumber>1083397</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2013-11-07</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2017/174</PublicationIdentifier>
+        <PublicationSequenceNumber>100164515</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2017-09-13</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2019/210</PublicationIdentifier>
+        <PublicationSequenceNumber>101484160</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2019-11-05</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>342767</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>10686</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006992865</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1083397</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-11-07</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012330760</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100164515</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2017-09-13</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

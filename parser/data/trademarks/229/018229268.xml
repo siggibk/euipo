@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-24T13:11:32</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229268</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229268</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="1">Application published</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-24</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>LooseBag</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>18</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Куфари, чанти, портфейли и други изделия за пренасяне на багаж.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zavazadla, cestovní tašky, peněženky a ostatní tašky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Rejsetasker, tasker, tegnebøger og andre bæreposer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Gepäck, Taschen, Brieftaschen und andere Tragebehältnisse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ταξιδιωτικές αποσκευές, τσάντες, πορτοφόλια και άλλα είδη μεταφοράς.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Luggage, bags, wallets and other carriers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Equipaje, bolsos, carteras y otros porta objetos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kohvrid, kotid, rahakotid ja muud sarnased kandmisvahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Matkalaukut, laukut, lompakot ja muut kantimet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Bagages, sacs, portefeuilles et autres objets de transport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kovčezi, torbe, novčanici i drugi proizvodi za nošenje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Utazótáskák, bőröndök, tárcák és más hordozóeszközök.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Valigie, borse, portafogli e contenitori portatili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Lagaminai, rankinukai, piniginės ir kiti krepšiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Bagāžas somas un čemodāni, somas, naudas maki un citi piederumi lietu pārnēsāšanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Bagalji, basktijiet, kartieri u oġġetti oħra li ġġor fihom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bagage, tassen, knapzakken en andere draagtassen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Walizy, torby podróżne, torby, portfele i inne artykuły służące do przenoszenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bagagens, malas, carteiras e outras bolsas de transporte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Bagaje, pungi, portofele și alte accesorii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kufre, tašky, peňaženky a výrobky koženej galantérie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kovčki, potovalne torbe, denarnice in drugi podobni proizvodi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Resgods, väskor, plånböcker och andra artiklar för bärhjälp.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/159</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-08-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082022</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-11T23:02:32</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229833</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229833</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="6">Application under examination</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-04-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>on your way, everyday</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>12</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Скутери [превозни средства]; Велосипедни коли; Мотоциклети; Части и принадлежности за превозни средства; Персонални водоплавателни съдове; Четириколесни мотоциклети [АТВ]; Мотопеди; Електрически мотоциклети.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Skútry (vozidla); Motorové tříkolky (cyklokáry); Motocykly; Části a příslušenství dopravních prostředků; Vodní skútry pro soukromé použití; Čtyřkolky; Mopedy; Elektrické motocykly.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Scootere [køretøjer]; Minibiler; Motorcykler; Dele og tilbehør til befordringsmidler; Vandfartøjer til personlig brug; ATV'er [firhjulede motorcykler]; Knallerter [køretøjer]; Elektriske motorcykler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Scooter [Fahrzeuge]; Kleinstwagen; Motorräder; Teile und Zubehör für Fahrzeuge; Jetskis; Quads; Mopeds; Elektromotorräder.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Βέσπες [οχήματα]· Μικρά αυτοκίνητα τρίτροχα· Μοτοσυκλέτες· Μέρη και εξαρτήματα για οχήματα· Θαλάσσια σκάφη για προσωπική χρήση· Ποδήλατα τεσσάρων τροχών· Μοτοποδήλατα· Ηλεκτρικές μοτοσικλέτες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Scooters [vehicles]; Cycle cars; Motorcycles; Parts and fittings for vehicles; Personal water craft; Quad bikes; Mopeds; Electric motor cycles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Scooters [vehículos]; Autociclos; Motocicletas; Partes y accesorios de vehículos; Motos acuáticas para uso personal; Quads; Ciclomotores; Ciclomotores eléctricos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Tõukerattad (sõidukid); Kolmerattalised autod, sõidukid; Mootorrattad; Sõidukite osad ja lisaseadmed; Isiklikud veesõidukid; Quad-mootorrattad; Mopeedid; Elektrilised mootorrattad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Skootterit [ajoneuvoina]; Moottoripyörien sivuvaunut; Moottoripyörät; Ajoneuvojen osat ja tarvikkeet; Vesiskootterit; Mönkijät; Mopedit; Sähkökäyttöiset mopot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Trottinettes [véhicules]; Cyclecars; Motocyclettes; Pièces et parties constitutives de véhicules; Scooters des mers à usage personnel; Quads; Vélomoteurs; Vélomoteurs électriques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Skuteri [vozila]; Cyclecars vozila; Motocikli; Dijelovi i oprema za vozila; Osobno plovilo; Motocikli na četiri kotača; Mopedi; Električni motocikli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Robogók [járművek]; Motortriciklik; Motorkerékpárok; Járművek részei és szerelvényei; Vízi járművek személyes használatra; Quadok [négykerekű motorok]; Mopedek; Elektromos robogók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Scooter (veicoli); Motocicli; Motociclette; Ricambi ed accessori per veicoli; Moto d'acqua; Quad; Ciclomotori; Motocicli elettrici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Skuteriai [transporto priemonės]; Motoriniai vežimėliai; Motociklai; Transporto priemonių dalys ir priedai; Asmeniniai laivai; Keturračiai motociklai; Mopedai; Elektriniai motociklai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Skrejrati; Mazlitrāžas automobiļi; Motocikli; Transportlīdzekļu daļas un piederumi; Personiskie ūdens transportlīdzekļi; Kvadracikli; Mopēdi; Elektriski motocikli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Skuters [vetturi]; Karozzi li jinsaqu permezz ta' qdif bil-pedali; Muturi; Partijiet u oġġetti li jiffitjaw għall-vetturi; Inġenji tal-ilma personali; Motoċikletti b'erba' roti [quad bikes]; Roti b'mutur b'forza inqas minn 50cc; Motoċikletti elettriċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Scooters [vervoermiddelen]; Transportwagens [drie- of vierwielig]; Motorrijwielen; Delen en onderdelen voor voertuigen; Jetski's voor persoonlijk gebruik; Quads; Rijwielen met motor; Elektrische motorfietsen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Skutery [pojazdy]; Pojazdy trzy lub czterokołowe; Motocykle; Części i akcesoria do pojazdów; Skutery wodne; Quady; Motorowery; Elektryczne motocykle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Scooters [veículos]; Biciclos; Motociclos; Peças e acessórios para veículos; Motas de água de recreio; Motos-quatro; Ciclomotores; Motociclos elétricos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Trotinete [vehicule]; Vehicule cu trei roți; Motociclete; Părți și accesorii pentru vehicule; Ambarcațiuni personale; Quad-uri; Mopeduri; Motociclete electrice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kolobežky; Motorové trojkolky; Motocykle; Časti a súčasti vozidiel; Vodné skútre; Štvorkolky; Mopedy; Elektrické motocykle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Mopedi [vozila]; Avtomobili na treh kolesih; Motorna kolesa; Deli in oprema za vozila; Osebna vodna plovila; Vozila na štirikolesni pogon [quad]; Mopedi; Električna motorna kolesa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Skotrar [fordon]; Trehjuliga fordon; Motoriserade cyklar; Delar och komponenter för fordon; Personliga vattenfordon; Fyrhjuliga motorcyklar; Mopeder; Elektriska motorcyklar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>37</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Поддръжка и ремонт на гуми; Ремонт, поддръжка, зареждане с гориво и презареждане на превозни средства; Смяна на резервни части на превозни средства; Инсталиране на устройства за сигурност в моторни превозни средства; Поддръжка на автомобили; Инсталиране на части и принадлежности на превозни средства; Поддръжка, обслужване и ремонт на превозни средства; Ремонт или поддръжка на двуколесни моторни превозни средства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Údržba a opravy pneumatik; Opravy, údržba, tankování a dobíjení vozidel; Montáž náhradních dílů vozidel; Instalace bezpečnostních zařízení vozidel; Údržba vozidel; Montáž částí pro vozidla; Údržba, servis a opravy vozidel; Opravy nebo údržba dvoukolových motorových vozidel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Vedligeholdelse og reparation af dæk; Reparation, vedligeholdelse, optankning og opladning af køretøjer; Tilpasning af reservedele til køretøjer; Installation af sikkerhedsanordninger i køretøjer; Vedligeholdelse af køretøjer; Installation af dele til køretøjer; Vedligeholdelse, serviceeftersyn og reparation af køretøjer; Reparation eller vedligeholdelse af tohjulede motorkøretøjer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Wartung und Reparatur von Reifen; Fahrzeugreparatur, -wartung, -betankung und -wiederaufladung; Einbau von Fahrzeugersatzteilen; Installation von Sicherheitseinrichtungen in Fahrzeuge; Fahrzeuginstandhaltung; Montage von Fahrzeugteilen; Wartung, Instandhaltung und Reparatur von Fahrzeugen; Reparatur oder Wartung von zweirädrigen Kraftfahrzeugen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συντήρηση και επισκευή ελαστικών· Υπηρεσίες επισκευής, συντήρησης, ανεφοδιασμού και επαναφόρτισης οχημάτων· Τοποθέτηση ανταλλακτικών μερών οχημάτων· Εγκατάσταση συσκευών ασφαλείας οχημάτων· Οχημάτων συντήρηση· Εγκατάσταση μερών οχημάτων· Συντήρηση, τεχνικός έλεγχος και επισκευή οχημάτων· Επισκευή ή συντήρηση δικύκλων μηχανοκίνητων οχημάτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Tyre maintenance and repair; Vehicle repair, maintenance, refuelling and recharging; Fitting of replacement vehicle parts; Installation of vehicle security devices; Vehicle maintenance; Installation of parts for vehicles; Maintenance, servicing and repair of vehicles; Repair or maintenance of two-wheeled motor vehicles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Reparación y mantenimiento de neumáticos; Reparación, mantenimiento, recarga de combustible y recarga de vehículos; Colocación de piezas de recambio de vehículos; Instalación de dispositivos de seguridad para vehículos; Mantenimiento de vehículos; Instalación de piezas de vehículos; Mantenimiento, revisión y reparación de vehículos; Reparación o mantenimiento de vehículos a motor de dos ruedas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Rehvide hooldus ja remont; Sõidukite remont, hooldus, tankimine ja laadimine; Sõidukite varuosade paigaldamine; Sõidukiturvaseadmete paigaldamine; Sõidukite hooldus, sõidukihooldus; Sõidukiosade paigaldamine; Sõidukite hooldamine, teenindamine ja remontimine; Kaherattaliste mootorsõidukite remont või hooldus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Renkaiden huolto ja korjaus; Ajoneuvojen korjaaminen, huolto, tankkaus ja lataus; Ajoneuvojen varaosien asentaminen; Ajoneuvojen turvalaitteiden asentaminen; Ajoneuvojen huolto; Ajoneuvojen osien asennus; Ajoneuvojen kunnossapito, huolto ja korjaus; Kaksipyöräisten moottoriajoneuvojen korjaus tai huolto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Entretien et réparation de pneus; Réparation, entretien, ravitaillement en carburant et recharge de batteries pour véhicules; Pose de pièces de remplacement de véhicules; Installation de dispositifs de sécurité pour véhicules; Entretien de véhicules; Installation de pièces détachées pour véhicules; Entretien, révision et réparation de véhicules; Réparation ou entretien de véhicules à moteur à deux roues.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Održavanje i popravak guma; Popravljanje, održavanje, točenje goriva i punjenje vozila; Ugrađivanje zamjenskih dijelova za vozila; Montaža uređaja za sigurnost vozila; Održavanje vozila; Ugradnja dijelova za vozila; Održavanje, servisiranje i popravak vozila; Popravak ili održavanje motornih vozila s dva kotača.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gumiabroncsok karbantartása és javítása; Járműjavítás, -karbantartás, -újratankolás és -újratöltés; Jármű pótalkatrészek beszerelése; Járműbiztonsági eszközök beszerelése; Járművek karbantartása; Járműalkatrészek beszerelése; Járművek karbantartása, szervizelése és javítása; Kétkerekű motoros járművek javítása vagy karbantartása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Manutenzione e riparazione di pneumatici; Riparazione, manutenzione, rifornimento di carburante e ricarica di veicoli; Installazione di parti di ricambio per veicoli; Installazione di dispositivi di sicurezza in veicoli; Manutenzione di veicoli; Installazione di parti di veicoli; Manutenzione, revisione e riparazione di veicoli; Riparazione o manutenzione di veicoli a motore a due ruote.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Padangų priežiūra ir taisymas; Transporto priemonių remontas, priežiūra, papildymas degalais ir įkrovimas; Atsarginių transporto priemonių dalių pakeitimas; Transporto priemonių saugos prietaisų įrengimas; Transporto priemonių techninė priežiūra; Transporto priemonių dalių montavimas; Transporto priemonių priežiūra, aptarnavimas ir remontas; Dviračių variklinių transporto priemonių taisymas (remontas) ar techninė priežiūra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Riepu apkope un remonts; Transportlīdzekļu remonts, apkope, degvielas uzpilde un akumulatoru uzlāde; Transportlīdzekļu rezerves daļu nomaiņa; Transportlīdzekļu drošības ierīču uzstādīšana; Transportlīdzekļu apkope; Transportlīdzekļu daļu montāža; Transportlīdzekļu uzturēšana, apkope un remonts; Mototransporta remonts vai apkope.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Manutenzjoni u tiswija tat-tajers; It-tiswija, il-manutenzjoni, l-għoti tal-fjuwil mill-ġdid u l-iċċarġjar tal-vetturi; Installazzjoni ta' partijiet ta' sostituzzjoni tal-vetturi; Installazzjoni ta' tagħmir tas-sigurta għall-vetturi; Il-manutenzjoni ta' vetturi; Installazzjoni ta' partijiet tal-vetturi; Manutenzjoni, isservisjar u tiswija ta' vetturi; Tiswija jew manutenzjoni ta' vetturi motorizzati b'żewġ roti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Onderhoud en reparatie van banden; Reparatie, onderhoud, bijtanken en opladen van voertuigen; Het monteren van vervangingsonderdelen voor voertuigen; Installatie van beveiligingstoestellen voor motorvoertuigen; Onderhoud van voertuigen; Installatie van onderdelen voor vervoermiddelen; Onderhoud, revisie en reparatie van voertuigen; Reparatie of onderhoud van tweewielige motorvoertuigen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Konserwacja i naprawa opon; Naprawa, konserwacja, tankowanie i ładowanie pojazdów; Instalacja części zamiennych do pojazdów; Instalowanie urządzeń do zabezpieczania pojazdów; Konserwacja pojazdów; Instalowanie części do pojazdów; Konserwacja, serwis i naprawa pojazdów; Naprawa lub konserwacja dwukołowych pojazdów silnikowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Manutenção e reparação de pneus; Reparação, manutenção, abastecimento e recarga de veículos; Montagem de peças de substituição em veículos; Instalação de dispositivos de segurança para veículos; Manutenção de veículos; Instalação de peças para veículos; Manutenção, conservação e reparação de veículos; Reparação ou manutenção de veículos motorizados de duas rodas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Întreținerea și repararea anvelopelor; Reparație, întreținere, alimentare cu carburant și încărcarea bateriilor pentru autovehicule; Montare piese de schimb pentru vehicule; Instalare de dispozitive de securitate pentru vehicule; Întreținerea vehiculelor; Instalare de organe de vehicule; Întreținere, service și reparare de vehicule; Reparații sau întreținere de autovehicule cu două roți.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Údržba a opravy pneumatík; Oprava, údržba, tankovanie a dobíjanie vozidiel; Montáž náhradných automobilových súčiastok; Inštalácia bezpečnostných zariadení do vozidiel; Údržba vozidiel; Inštalácie súčastí vozidiel; Údržba, servis a oprava vozidiel; Oprava alebo údržba dvojkolesových motorových vozidiel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Vzdževanje in popravila pnevmatik; Popravilo, vzdrževanje, točenje goriva in polnjenje vozil; Montaža nadomestnih delov za avtomobile; Montaža varnostnih naprav za vozila; Vzdrževanje vozil; Montaža delov za vozila; Vzdrževanje, servisiranje in popravilo vozil; Popravilo ali vzdrževanje motornih vozil na dveh kolesih.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Underhåll och reparation av däck; Reparation, underhåll, tankning och laddning av fordon; Montering av reservdelar för fordon; Installation av säkerhetsanordningar för fordon; Underhåll av fordon och farkoster; Installation av fordonsdelar; Underhåll, service och reparation av fordon; Reparation eller underhåll av motoriserade tvåhjulingar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082660</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>76218</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

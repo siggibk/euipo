@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-07T12:27:41</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228537</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228537</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>CALT</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162460078</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/228/018228537/000162460078.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.03.01</CategoryCode>
+          <CategoryCode>26.03.24</CategoryCode>
+          <CategoryCode>27.05.05</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>7</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Съединители на валове [машини]; Механизми за отваряне на врати, електрически; Механизми за отваряне на врати, пневматични; Механизми за отваряне на врати, хидравлични; Клапани [части на машини]; Електрически устройства за отваряне на прозорци; Механизми за отваряне на прозорци, пневматични; Механизми за отваряне на прозорци, хидравлични; Съоръжения за отстраняване на битови отпадъци; Устройства за преработване на храна [електрически].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Hřídelové spojky [stroje]; Elektrické otevírače dveří; Pneumatické otevírače dveří; Hydraulické otevírače dveří; Ventily [součásti strojů]; Elektrické otevírače oken; Pneumatické otevírače oken; Hydraulické otevírače oken; Drtiče odpadu (potravinového); Elektrické kuchyňské roboty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Akselkoblinger [maskindele]; Døråbnere, elektriske; Pneumatiske døråbnere; Døråbnere (Hydrauliske -) [maskindele]; Ventiler [maskindele]; Elektriske vinduesåbnere; Pneumatiske vinduesåbnere; Hydrauliske vinduesåbnere; Affaldskværne; Food processorer, elektriske.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Wellenkupplungen [Maschinen]; Türöffner [elektrisch]; Türöffner, pneumatisch; Türöffner, hydraulisch; Schieber [Maschinenteile]; Fensteröffner, elektrisch; Fensteröffner, pneumatisch; Fensteröffner, hydraulisch; Müllzerkleinerer; Universal-Küchenmaschinen, elektrische.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Άξονες (σύζευξης -) [μηχανές]· Διατάξεις ανοίγματος θυρών, ηλεκτρικές· Πνευματικά συστήματα ανοίγματος θύρας· Υδραυλικά συστήματα ανοίγματος θύρας· Βαλβίδες [μέρη μηχανών]· Διατάξεις για το άνοιγμα παραθύρων (ηλεκτρικές)· Πνευματικά συστήματα ανοίγματος παραθύρων· Υδραυλικά συστήματα ανοίγματος παραθύρων· Σκουπιδοφάγοι· Ηλεκτρικοί επεξεργαστές τροφίμων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Shaft couplings [machines]; door openers, electric; door openers, pneumatic; door openers, hydraulic; valves [parts of machines]; window openers, electric; window openers, pneumatic; window openers, hydraulic; garbage disposals; food processors [electric].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Acoplamientos de árbol [máquinas]; Dispositivos eléctricos de apertura de puertas; Dispositivos neumáticos de apertura de puertas; Dispositivos hidráulicos de apertura de puertas; Válvulas [partes de máquinas]; Dispositivos eléctricos de apertura de ventanas; Dispositivos neumáticos de apertura de ventanas; Dispositivos hidráulicos de apertura de ventanas; Trituradoras de residuos; Robots de cocina eléctricos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Sidurid [masinaosad]; Elektrilised ukseavajad; Pneumaatilised ukseavajad; Hüdraulilised ukseavajad; Sulgeklapid, ventiilid [masinaosad]; Elektrilised aknaavajad; Pneumaatilised aknaavajad; Hüdraulilised aknaavajad; Prahihävitid [masinad]; Elektrilised toidutöötlusmasinad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Akselien kytkimet [koneina]; Ovenavaajat, sähkökäyttöiset; Pneumaattiset ovenavaajat; Ovenavaajat ja -sulkijat, hydrauliset [koneiden osina]; Venttiilit [koneiden osina]; Ikkunoiden avauslaitteet (sähköiset); Pneumaattiset ikkunanavaajat; Hydrauliset ikkunanavaajat; Jätteenpoistolaitteistot; Ruoanvalmistuslaitteet [sähkökäyttöiset].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Accouplements d'arbres [machines]; Dispositifs électriques pour l'ouverture des portes; Dispositifs pneumatiques pour l'ouverture de portes; Dispositifs hydrauliques pour l'ouverture de portes; Soupapes [parties de machines]; Dispositifs électriques pour l'ouverture de fenêtres; Dispositifs pneumatiques pour l'ouverture de fenêtres; Dispositifs hydrauliques pour l'ouverture de fenêtres; Broyeurs d'ordures; Robots de cuisine électriques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Spojke za osovine [strojevi]; Električni otvarači vrata; Uređaji za otvaranje vrata, pneumatički; Uređaji za otvaranje vrata, hidraulični; Ventili kao dijelovi strojeva; Uređaji za otvaranje prozora, električni; Uređaji za otvaranje prozora, pneumatički; Uređaji za otvaranje prozora, hidraulični; Drobilice smeća [strojevi]; Električni kuhinjski roboti [strojevi].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Tengelykapcsolók, tengelykötések [gépek]; Elektromos ajtónyitók; Ajtónyitók, pneumatikus; Ajtónyitók, hidraulikus; Szelepek [géprészek]; Elektromos ablaknyitó berendezések; Ablaknyitók, pneumatikus; Ablaknyitók, hidraulikus; Hulladékaprító gépek; Elektromos keverőgépek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Martinetti pneumatici; Dispositivi elettrici per l'apertura delle porte; Dispositivi pneumatici per l'apertura delle porte; Dispositivi idraulici per l'apertura delle porte; Valvole [parti di macchine]; Dispositivi elettrici per l'apertura delle finestre; Dispositivi pneumatici per l'apertura delle finestre; Dispositivi idraulici per l'apertura delle finestre; Trituratori di spazzature; Robot da cucina elettrici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Velenų sankabos [mašinos]; Durų atidarymo įtaisai (Elektriniai -); Pneumatiniai durų atidarymo mechanizmai; Hidrauliniai durų atidarymo mechanizmai; Vožtuvai [mašinų dalys]; Elektriniai langų atidarymo mechanizmai; Pneumatiniai langų atidarymo mechanizmai; Hidrauliniai langų atidarymo mechanizmai; Atliekų smulkintuvai; Elektriniai maišytuvai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Vārpstu savienojumi [iekārtas]; Durvju atvērēji, elektriskie; Durvju atvērēji, pneimatiski; Durvju atvērēji, hidrauliski; Vārsti [mašīnu daļas]; Logu atvērēji, elektriski; Logu atvērēji, pneimatiski; Logu atvērēji, hidrauliski; Atkritumu smalcināšanas aparāti; Elektriskie blenderi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Igganċjar tal-virga tax-xaft [magni]; Apparat għall-ftuħ tal-bibien, bl-elettriku; Fettieħa tal-bibien, pnewmatiċi; Fettieħa tal-bibien, idrawliċi; Valvoli [partijiet ta' magni]; Mezzi għall-ftuħ tat-twieqi (elettriċi); Fettieħa tat-twieqi, pnewmatiċi; Fettieħa tat-twieqi, idrawliċi; Magni tar-rimi tal-iskart; Magni tal-elettriku li jipproċessaw l-ikel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Askoppelingen [machines]; Deuropeners, elektrisch; Pneumatische inrichtingen voor het openen van deuren [machine-onderdelen]; Hydraulische inrichtingen voor het openen van deuren [machine-onderdelen]; Ventielen [machine-onderdelen]; Elektrische inrichtingen voor het openen van ramen; Pneumatische inrichtingen voor het openen van ramen; Hydraulische inrichtingen voor het openen van ramen; Afvalverbrijzelmachines; Elektrische keukenmachines [food processors].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Sprzęgła wałów [maszyny]; Elektryczne urządzenia do otwierania drzwi; Pneumatyczne urządzenia do otwierania drzwi; Hydrauliczne urządzenia do otwierania drzwi; Zawory [części maszyn]; Elektryczne urządzenia do otwierania okien; Pneumatyczne urządzenia do otwierania okien; Hydrauliczne urządzenia do otwierania okien; Maszyny do usuwania odpadów; Miksery elektryczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Uniões de eixos [máquinas]; Dispositivos elétricos para abertura de portas; Dispositivos pneumáticos para abertura de portas; Dispositivos hidráulicos para abertura e fecho de portas [partes de máquinas]; Válvulas [partes de máquinas]; Dispositivos elétricos para abertura de janelas; Dispositivos pneumáticos para abertura de janelas; Dispositivos hidráulicos para abertura de janelas; Trituradoras de resíduos; Robôs de cozinha, elétricos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Arbori (cuplaje de -) [maşini]; Sisteme electrice de deschidere a uşilor; Dispozitive pentru deschiderea uşilor, pneumatice; Dispozitive pentru deschiderea uşilor, hidraulice; Vane [organe de maşini]; Dispozitive pentru deschiderea ferestrelor (electrice); Dispozitive pentru deschiderea ferestrelor, pneumatice; Dispozitive pentru deschiderea ferestrelor, hidraulice; Concasoare pentru deşeuri; Bucătărie (Maşini electrice de -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Hriadeľové spojky (stroje); Elektrické zariadenia na otváranie dverí; Pneumatické zariadenia na otváranie a zatváranie dverí (časti strojov); Hydraulické zariadenia na otváranie alebo zatváranie dverí (časti strojov); Ventily (časti strojov); Elektrické zariadenia na otváranie okien; Pneumatické zariadenia na otváranie okien; Hydraulické zariadenia na otváranie okien; Drviče odpadu (stroje); Elektrické mixéry.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Sklopke za gredi [stroji]; Električne naprave za odpiranje vrat; Pnevmatska odpirala za vrata; Hidravlična odpirala in zapirala za vrata (deli strojev); Ventili [deli strojev]; Električne naprave za odpiranje oken; Pnevmatska odpirala za okna; Hidravlična odpirala za okna; Stroji za odstranjevanje odpadkov; Električni mešalniki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Axelkopplingar [maskiner]; Elektriska dörröppnare; Dörröppnare, pneumatiska; Dörröppnare, hydrauliska; Ventiler [maskindelar]; Elektriska öppningsanordningar till fönster; Fönsteröppnare, pneumatiska; Fönsteröppnare, hydrauliska; Maskinella avfallskvarnar; Elektriska köksmaskiner.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/105</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082061</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>22168</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003130146</OppositionIdentifier>
+<OppositionDate>2020-09-07</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion
+Unfair advantage /detriment to distinctiveness or repute</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>013392733</ApplicationNumber>
+<ApplicationDate>2014-10-22</ApplicationDate>
+<RegistrationNumber>013392733</RegistrationNumber>
+<RegistrationDate>2015-06-10</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>CAT</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>013392733</ApplicationNumber>
+<ApplicationDate>2014-10-22</ApplicationDate>
+<RegistrationNumber>013392733</RegistrationNumber>
+<RegistrationDate>2015-06-10</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>CAT</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>015167711</ApplicationNumber>
+<ApplicationDate>2016-03-01</ApplicationDate>
+<RegistrationNumber>015167711</RegistrationNumber>
+<RegistrationDate>2017-02-02</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>CAT</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>015167711</ApplicationNumber>
+<ApplicationDate>2016-03-01</ApplicationDate>
+<RegistrationNumber>015167711</RegistrationNumber>
+<RegistrationDate>2017-02-02</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>CAT</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>017970552</ApplicationNumber>
+<ApplicationDate>2018-10-19</ApplicationDate>
+<RegistrationNumber>017970552</RegistrationNumber>
+<RegistrationDate>2019-03-07</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>CAT</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>017970552</ApplicationNumber>
+<ApplicationDate>2018-10-19</ApplicationDate>
+<RegistrationNumber>017970552</RegistrationNumber>
+<RegistrationDate>2019-03-07</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>CAT</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>10117</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10014</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

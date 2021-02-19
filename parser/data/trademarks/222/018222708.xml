@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-15T09:20:03</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222708</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222708</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<RegistrationDate>2020-09-11</RegistrationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-08</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>MASKPLUS</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162188188</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/222/018222708/000162188188.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>24.15.02</CategoryCode>
+          <CategoryCode>24.15.13</CategoryCode>
+          <CategoryCode>26.01.03</CategoryCode>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.07</CategoryCode>
+          <CategoryCode>26.04.10</CategoryCode>
+          <CategoryCode>26.04.22</CategoryCode>
+          <CategoryCode>26.04.24</CategoryCode>
+          <CategoryCode>29.01.06</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Маски за медицински персонал; Хирургически маски; Биотерапевтични маски за лице; Санитарни маски за медицински цели; Защитни маски за лице за медицинска употреба; Защитни маски за употреба от стоматологични работници; Защитни маски за употреба от медицински работници; Защитни маски за уста за ветеринарна употреба; Защитни маски за употреба от хирурзи по време на операции.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Roušky pro lékařský personál; Chirurgické masky; Bioterapeutické obličejové masky; Hygienické masky pro lékařské účely; Ochranné obličejové masky pro lékařské použití; Ochranné masky používané pracovníky v zubním lékařství; Ochranné masky používané pracovníky ve zdravotnictví; Ochranné ústní masky pro veterinární použití; Ochranné masky používané chirurgy během operací.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Masker til brug for medicinsk personel; Operationsmasker; Bioterapeutiske ansigtsmasker; Sanitære masker til medicinske formål; Beskyttende ansigtsmasker til medicinske formål; Beskyttelsesmasker til tandlægepersonale; Beskyttelsesmasker til medicinsk personale; Beskyttende mundbind til veterinærmedicinske formål; Beskyttelsesmasker til brug for kirurger under operationer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Masken für medizinisches Personal; Chirurgischer Mundschutz; Biotherapeutische Gesichtsmasken; Mundschutz für medizinische Zwecke; Gesichtsschutzmasken für medizinische Zwecke; Schutzmasken für zahnärztliches Personal; Schutzmasken für medizinisches Personal; Mundschutzmasken für veterinärmedizinische Zwecke; Schutzmasken für Chirurgen zur Verwendung bei Operationen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μάσκες για το ιατρικό προσωπικό· Χειρουργικές μάσκες· Βιοθεραπευτικές μάσκες προσώπου· Μάσκες υγιεινής για ιατρική χρήση· Προστατευτικές μάσκες προσώπου για ιατρική χρήση· Προστατευτικές μάσκες για εργαζομένους στον τομέα της οδοντιατρικής· Προστατευτικές μάσκες για εργαζομένους στον τομέα της ιατρικής· Προστατευτικές μάσκες στόματος για κτηνιατρική χρήση· Προστατευτικές μάσκες για χρήση από χειρουργούς κατά τη διάρκεια επεμβάσεων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Masks for use by medical personnel; Surgical masks; Bio therapeutic facial masks; Sanitary masks for medical purposes; Protective face masks for medical use; Protective masks for use by persons working in the dentistry; Protective masks for use by persons working in medicine; Protective mouth masks for veterinary use; Protective masks for use by surgeons during operations.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Mascarillas médicas; Mascarillas quirúrgicas; Mascarillas faciales bioterapéuticas; Mascarillas sanitarias para uso médico; Mascarillas faciales de protección para uso médico; Mascarillas de protección para personas que trabajan en odontología; Mascarillas de protección para personas que trabajan en medicina; Mascarillas bucales de protección para uso veterinario; Mascarillas de protección utilizadas por cirujanos en operaciones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Maskid meditsiinipersonalile; Kirurgimaskid; Bioteraapilised näomaskid; Meditsiinilised hügieenilised maskid; Meditsiinilised kaitsvad näomaskid; Kaitsemaskid stomatoloogiapersonalile; Kaitsemaskid meditsiinipersonalile; Veterinaarias kasutatavad suukaitsemaskid; Kirurgide operatsioonil kasutatavad kaitsemaskid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Suojanaamarit lääkintähenkilökuntaa varten; Kirurgin naamarit; Bioterapeuttiset kasvonaamiot; Saniteettinaamarit lääketieteellisiin tarkoituksiin; Suojaavat kasvonaamiot lääketieteelliseen käyttöön; Suojanaamiot hammaslääketieteen alalla toimivien henkilöiden käyttöön; Suojanaamiot lääketieteen alalla toimivien henkilöiden käyttöön; Suojaavat suunaamarit eläinlääketieteelliseen käyttöön; Suojanaamarit kirurgien käyttöön leikkausten aikana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Masques utilisés par le personnel médical; Masques chirurgicaux; Masques biothérapeutiques pour le visage; Masques d'hygiène à usage médical; Masques de protection faciale à usage médical; Masques de protection pour le personnel dentaire; Masques de protection pour le personnel médical; Masques de protection buccale à usage vétérinaire; Masques de protection destinés aux interventions chirurgicales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Maske za medicinsko osoblje; Kirurške maske; Bioterapijske maske za lice; Sanitarne maske za medicinske svrhe; Zaštitne maske za lice za medicinsku uporabu; Zaštitne maske za djelatnike u stomatologiji; Zaštitne maske za medicinske djelatnike; Zaštitne maske za usta za veterinarsku uporabu; Zaštitne maske za kirurge za uporabu tijekom operacija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Maszkok egészségügyi személyzet általi használatra; Sebészeti maszkok; Bioterápiás arcmaszkok; Gyógyászati célú egészségügyi maszkok; Orvosi arcvédő maszkok; Védőmaszkok fogászati személyzet számára; Védőmaszkok egészségügyi [orvosi] személyzet számára; Szájvédő maszkok állatorvosi használatra; Védőmaszkok sebészek általi használatra műtétek során.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Maschere utilizzate dal personale medico; Mascherine chirurgiche; Maschere bio-terapeutiche per il viso; Maschere igieniche per uso medico; Maschere protettive per il viso per uso medico; Maschere protettive destinate a coloro che operano in ambito dentistico; Maschere protettive destinate a coloro che operano in ambito medico; Maschere di protezione per la bocca per uso veterinario; Maschere protettive per chirurghi da utilizzare durante operazioni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kaukės medicinos personalui; Chirurginės kaukės; Bioterapinės veido kaukės; Sanitarinės kaukės medicinos reikmėms; Apsauginės veido kaukės medicinos reikmėms; Apsauginės kaukės odontologijos srityje dirbančių asmenų reikmėms; Apsauginės kaukės medicinos srityje dirbančių asmenų reikmėms; Apsauginės burnos kaukės veterinarijos reikmėms; Apsauginės chirurgų kaukės, skirtos naudoti operacijų metu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medicīnas personālam paredzētās maskas; Ķirurģiskās maskas; Bioterapeitiskas sejas maskas; Sanitārās maskas medicīniskiem nolūkiem; Sejas aizsargmaskas lietošanai medicīnā; Aizsargmaskas zobārstniecības darbiniekiem; Aizsargmaskas medicīnas darbiniekiem; Mutes aizsargmaskas, kas paredzētas lietošanai veterinārijā; Aizsargmaskas ķirurgiem operāciju laikā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Maskri għal personal mediku; Maskri kirurġiċi; Maskri tal-wiċċ bijoterapewtiċi; Maskri sanitarji għal skopijiet mediċi; Maskri protettivi tal-wiċċ għall-użu mediku; Maskri protettivi għall-użu minn persuni li jaħdmu fil-qasam tad-dentistrija; Maskri protettivi għall-użu minn persuni li jaħdmu fil-qasam tal-mediċina; Maskri protettivi tal-ħalq għall-użu veterinarju; Maskli protettivi għall-użu minn kirurgi waqt l-operazzjonijiet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Maskers te gebruiken door medisch personeel; Gezichtsmaskers voor chirurgisch gebruik; Gezichtsmaskers (Biotherapeutische -); Hygiënische maskers voor medische doeleinden; Gezichtsmaskers (Beschermde -) voor medisch gebruik; Beschermende maskers voor gebruik door personen die werkzaam zijn in de tandheelkundige sector; Beschermende maskers voor gebruik door personen die werkzaam zijn in de medische sector; Beschermende mondmaskers voor diergeneeskundig gebruik; Maskers (Beschermende -) voor gebruik door chirurgen tijdens operaties.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maski stosowane przez personel medyczny; Maski chirurgiczne; Bioterapeutyczne maski na twarz; Maski sanitarne do celów medycznych; Maski ochronne na twarz do użytku medycznego; Maski ochronne do użytku przez pracowników stomatologii; Maski ochronne do użytku przez pracowników medycznych; Maski ochronne na usta do użytku weterynaryjnego; Maski ochronne do użytku przez chirurgów podczas operacji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máscaras para pessoal médico; Máscaras cirúrgicas; Máscaras faciais bioterapêuticas; Máscaras higiénicas para uso médico; Máscaras de proteção facial para uso médico; Máscaras de proteção para uso por profissionais de medicina dentária; Máscaras de proteção para uso por profissionais de medicina; Máscaras de proteção para a boca para uso veterinário; Máscaras de proteção para uso por cirurgiões durante operações.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Măşti utilizate de personalul medical; Măşti chirurgicale; Măşti faciale bioterapeutice; Măşti sanitare de uz medical; Măşti faciale de protecţie pentru uz medical; Măşti de protecţie utilizate de persoane care lucrează în domeniul stomatologic; Măşti de protecţie utilizate de persoane care lucrează în domeniul medical; Măşti de protecţie pentru gură de uz veterinar; Măşti de protecţie utilizate de chirurgi în timpul operaţiilor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Rúška (pre nemocničný personál); Chirurgické masky; Bioterapeutické tvárové masky; Sanitárne masky na lekárske účely; Ochranné masky na tvár na lekárske použitie; Ochranné masky pre osoby pracujúce v oblasti stomatológie; Ochranné masky pre osoby pracujúce v oblasti medicíny; Ochranné masky na ústa na veterinárne použitie; Ochranné masky pre chirurgov počas operácie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Maske za medicinsko osebje; Kirurške maske; Bioterapevtske obrazne maske; Higienske maske za medicinske namene; Zaščitne obrazne maske za medicinsko uporabo; Zaščitne maske za zobozdravstveno osebje; Zaščitne maske za medicinsko osebje; Zaščitne maske za usta za veterinarsko uporabo; Zaščitne maske, ki jih uporabljajo kirurgi med operacijami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Munskydd för medicinsk personal; Operationsmasker; Bioterapeutiska ansiktsmasker; Sanitetsmasker för medicinska ändamål; Skyddande ansiktsmasker för medicinskt bruk; Skyddsmasker för användning av personer som arbetar inom tandvården; Skyddsmasker för personer som arbetar inom sjukvården; Skyddande munmasker för veterinärt bruk; Skyddsmasker för kirurger för användning under operationer.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/103</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-03</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/176</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1078998</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>19700</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

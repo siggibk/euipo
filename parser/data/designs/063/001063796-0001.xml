@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2018-10-22T08:16:54</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063796-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-27</ReceivingOfficeDate>
+<DesignIdentifier>001063796-0001</DesignIdentifier>
+<ApplicationNumber>001063796</ApplicationNumber>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-27</ApplicationDate>
+<RegistrationDate>2008-12-27</RegistrationDate>
+<PublicationDate>2009-02-03</PublicationDate>
+<ApplicationReference>ZMX8724GS/EP</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-27</ExpiryDate>
+<EffectiveDate>2008-12-27</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-10-18</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061759779</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063796_0001/001063796_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061759780</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063796_0001/001063796_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061759781</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063796_0001/001063796_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061759782</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063796_0001/001063796_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061759783</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063796_0001/001063796_0001_5.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Mаси и подобни мебели</IndicationProduct>
+       <IndicationProduct languageCode="cs">Stoly a podobný nábytek</IndicationProduct>
+       <IndicationProduct languageCode="da">Borde og lignende møbler</IndicationProduct>
+       <IndicationProduct languageCode="de">Tische und ähnliche Möbel</IndicationProduct>
+       <IndicationProduct languageCode="el">Τραπέζια και παρόμοια έπιπλα</IndicationProduct>
+       <IndicationProduct languageCode="en">Tables and similar furniture</IndicationProduct>
+       <IndicationProduct languageCode="es">Mesas y muebles similares</IndicationProduct>
+       <IndicationProduct languageCode="et">Lauad jms mööbel</IndicationProduct>
+       <IndicationProduct languageCode="fi">Pöydät ja niiden kaltaiset huonekalut</IndicationProduct>
+       <IndicationProduct languageCode="fr">Tables et meubles semblables</IndicationProduct>
+       <IndicationProduct languageCode="hu">Asztalok és hasonló bútorok</IndicationProduct>
+       <IndicationProduct languageCode="it">Tavoli e mobili simili</IndicationProduct>
+       <IndicationProduct languageCode="lt">Stalai ir kiti panašūs baldai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Galdi un tamlīdzīgas mēbeles</IndicationProduct>
+       <IndicationProduct languageCode="mt">Mwejjed u għamara simili</IndicationProduct>
+       <IndicationProduct languageCode="nl">Tafels en soortgelijk meubilair</IndicationProduct>
+       <IndicationProduct languageCode="pl">Stołki, biurka itp.</IndicationProduct>
+       <IndicationProduct languageCode="pt">Mesas e móveis similares</IndicationProduct>
+       <IndicationProduct languageCode="ro">Mese şi alte piese de mobilier asemănătoare</IndicationProduct>
+       <IndicationProduct languageCode="sk">Stoly a podobný nábytok</IndicationProduct>
+       <IndicationProduct languageCode="sl">Mize in podobno pohištvo</IndicationProduct>
+       <IndicationProduct languageCode="sv">Bord och dylika möbler</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>06.03</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/022</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-02-03</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2012/013</PublicationIdentifier>
+        <PublicationSequenceNumber>711095</PublicationSequenceNumber>
+        <PublicationSection>B.2.2</PublicationSection>
+        <PublicationDate>2012-01-18</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/222</PublicationIdentifier>
+        <PublicationSequenceNumber>1094197</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2013-11-21</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/134</PublicationIdentifier>
+        <PublicationSequenceNumber>1270127</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2014-07-22</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/200</PublicationIdentifier>
+        <PublicationSequenceNumber>100725102</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2018-10-22</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>283496</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>13797</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>005495019</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>711095</PublicationSequenceNumber>
+           <PublicationSection>B.2.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2012-01-18</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>008318564</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1270127</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-07-23</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012443143</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100725102</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-10-22</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006988194</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1094197</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-11-21</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

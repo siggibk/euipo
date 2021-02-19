@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-06-21T10:18:00</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001066724-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2009-01-07</ReceivingOfficeDate>
+<DesignIdentifier>001066724-0001</DesignIdentifier>
+<ApplicationNumber>001066724</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2010-08-05</PublicationDate>
+<ApplicationReference>END14742</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>true</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-12-20</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061873544</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066724_0001/001066724_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061873545</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066724_0001/001066724_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061873547</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066724_0001/001066724_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061873548</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/066/001066724_0001/001066724_0001_4.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Шарки на гуми</IndicationProduct>
+       <IndicationProduct languageCode="cs">Běhouny plášťů pneumatik</IndicationProduct>
+       <IndicationProduct languageCode="da">Slidbaner til dæk</IndicationProduct>
+       <IndicationProduct languageCode="de">Fahrzeugreifen (Laufflächen für - )</IndicationProduct>
+       <IndicationProduct languageCode="el">Πέλματα επισώτρων (ελαστικών)</IndicationProduct>
+       <IndicationProduct languageCode="en">Tyre treads</IndicationProduct>
+       <IndicationProduct languageCode="es">Bandas de rodadura de neumáticos</IndicationProduct>
+       <IndicationProduct languageCode="et">Rehviprotektorid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Renkaan kulutuspinnat</IndicationProduct>
+       <IndicationProduct languageCode="fr">Semelles de pneus</IndicationProduct>
+       <IndicationProduct languageCode="hu">Abroncs futófelületek</IndicationProduct>
+       <IndicationProduct languageCode="it">Battistrada</IndicationProduct>
+       <IndicationProduct languageCode="lt">Padangos protektorius Padangų protektoriai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Riepu protektori</IndicationProduct>
+       <IndicationProduct languageCode="mt">Ħjut tat-tajers</IndicationProduct>
+       <IndicationProduct languageCode="nl">Loopvlakken voor banden</IndicationProduct>
+       <IndicationProduct languageCode="pl">Bieżniki opon</IndicationProduct>
+       <IndicationProduct languageCode="pt">Bandas de rodagem</IndicationProduct>
+       <IndicationProduct languageCode="ro">Anvelope</IndicationProduct>
+       <IndicationProduct languageCode="sk">Behúne pneumatík</IndicationProduct>
+       <IndicationProduct languageCode="sl">Profili na pnevmatikah</IndicationProduct>
+       <IndicationProduct languageCode="sv">Slitbanor för däck</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>12.15</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/010</PublicationIdentifier>
+        <PublicationSection>A.2</PublicationSection>
+        <PublicationDate>2009-01-19</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/081</PublicationIdentifier>
+        <PublicationSequenceNumber>249879</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2009-05-04</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2010/173</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2010-08-05</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2011/252</PublicationIdentifier>
+        <PublicationSequenceNumber>670081</PublicationSequenceNumber>
+        <PublicationSection>B.2.2</PublicationSection>
+        <PublicationDate>2011-11-04</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/009</PublicationIdentifier>
+        <PublicationSequenceNumber>1137567</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2014-01-16</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/126</PublicationIdentifier>
+        <PublicationSequenceNumber>1265022</PublicationSequenceNumber>
+        <PublicationSection>B.2.2</PublicationSection>
+        <PublicationDate>2014-07-10</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2019/001</PublicationIdentifier>
+        <PublicationSequenceNumber>100822512</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2019-01-03</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2019/116</PublicationIdentifier>
+        <PublicationSequenceNumber>101141662</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2019-06-21</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>605663</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>10578</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003109141</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>249879</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-05-27</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>005298066</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>670081</PublicationSequenceNumber>
+           <PublicationSection>B.2.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2011-11-04</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>008280517</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1265022</PublicationSequenceNumber>
+           <PublicationSection>B.2.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-07-10</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006997484</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1137567</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-16</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012574786</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>101141662</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2019-06-21</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012443848</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100822512</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2019-01-03</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-17T23:10:46</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226521</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226521</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="6">Application under examination</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-04-16</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Predictive Patient Monitoring</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Лаптопи; Компютърен хардуер; Периферни устройства, пригодени за използване с компютри; Оперативни програми за компютри; Софтуер; Софтуер; Електрически съединители; Датчици за налягане; Температурни сензори.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Počítače; Počítačový hardware; Periferní zařízení počítačů; Počítačové operační programy; Počítačový software; Počítačový software; Konektory; Tlaková čidla; Teplotní čidla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Computere; Computerhardware; Perifere enheder til computere; Styreprogrammer til computere; Software; Software; Elektriske konnektorer; Trykfølere; Temperatursensorer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Laptops [Computer]; Computerhardware; An Computer angepasste Peripheriegeräte; Betriebsprogramme für Rechner; Software; Software; Verbindungsteile [Elektrizität]; Druckaufnehmer; Temperatursensoren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ηλεκτρονικοί υπολογιστές· Υλικό ηλεκτρονικών υπολογιστών· Περιφερειακός εξοπλισμός προσαρμοσμένος για χρήση σε ηλεκτρονικούς υπολογιστές· Λειτουργικά προγράμματα ηλεκτρονικών υπολογιστών· Λογισμικό· Λογισμικό· Ρευματοδότες· Αισθητήρες πίεσης· Αισθητήρες θερμοκρασίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Computers; Computer hardware; Computer peripherals; Computer operating programs; Computer programs; Computer software; Connectors [electricity]; Pressure sensors; Temperature sensors.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Ordenadores; Hardware; Dispositivos periféricos utilizados con ordenadores; Programas de sistemas operativos informáticos; Software; Software informático; Conectores [electricidad]; Sensores de presión; Sensores de temperatura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Arvutid, raalid; Arvutiriistvara; Arvutite välisseadmed; Arvutite operaatortarkvara; Arvutitarkvara; Arvutitarkvara; Elektrilised ühendusklemmid; Rõhuandurid; Termoandurid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sylimikrot; Tietokonelaitteistot; Tietokoneiden oheislaitteet; Tietokoneiden järjestelmäohjelmistot; Ohjelmistot; Ohjelmistot; Sähköliittimet; Paineanturit; Lämpötila-anturit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Ordinateurs; Matériel informatique; Périphériques adaptés pour utilisation avec des ordinateurs; Programmes du système d'exploitation pour ordinateurs; Logiciel; Logiciels pour ordinateurs; Connecteurs [électricité]; Capteurs de pression; Capteurs de température.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Računala; Računalni hardver; Periferni uređaji prilagođeni za uporabu s računalima; Operativni programi za računala; Softver; Softver; Električne spojke; Senzori tlaka; Senzori temperature.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Számítógépek; Számítógépes hardver; Számítógéphez kialakított perifériák; Számítógépes operációs rendszer programok; Szoftverek; Szoftverek; Elektromos csatolások; Nyomásérzékelők; Hőmérséklet-érzékelők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Elaboratori elettronici; Computer hardware; Periferiche concepite per essere utilizzate con i computer; Software operativo; Software; Software; Connettori [elettricità]; Sensori di pressione; Indicatori di temperatura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kompiuteriai; Kompiuterinė aparatinė įranga; Kompiuterių išoriniai įrenginiai; Kompiuterių valdymo programos; Programinė įranga; Programinė įranga; Jungtys [elektra]; Spaudimo davikliai; Temperatūros jutikliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Datori; Datoraparatūra; Datoru perifērijas ierīces; Datoru operētājprogrammas; Programmatūra; Datoru programmatūra; Elektropadeves savienojumi; Spiediena sensori; Temperatūras sensori.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kompjuters; Ħardwer tal-kompjuter; Periferali addattati għall-użu mal-kompjuters; Programmi biex jitħaddmu l-kompjuters; Softwer; Softwer; Ganċijiet elettriċi; Strumenti sensittivi għall-pressjoni; Tagħmir sensittiv għat-temperatura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Computers; Computer hardware; Computerrandapparatuur; Besturingssoftware; Software; Software; Connectoren [elektriciteit]; Druksensoren; Temperatuursensoren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Komputery; Sprzęt komputerowy; Sprzęt peryferyjny do komputerów; Komputerowe programy operacyjne; Oprogramowanie; Oprogramowanie; Sprzężenia elektryczne; Czujniki ciśnienia; Czujniki temperatury.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Computadores; Hardware informático; Periféricos adaptados para uso com computadores; Programas operativos de computador; Software; Software; Conectores [eletricidade]; Sensores de pressão; Sensores de temperatura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Computere; Hardware pentru calculator; Periferice adaptate pentru a fi folosite la calculatoare; Programe de operare pentru calculatoare; Software; Software; Conexiuni; Senzori de presiune; Senzori de temperatură.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Počítače; Počítačový hardvér; Periférne zariadenia počítačov; Počítačové operačné programy; Softvér; Softvér; Konektory (elektrotechnika); Tlakové snímače; Teplotné senzory.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Računalniki; Računalniška strojna oprema; Zunanje enote, prilagojene za uporabo z računalniki; Računalniški operacijski programi; Programska oprema; Programska oprema; Električne spojke; Tlačni senzorji; Temperaturni senzorji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Datorer; Datorhårdvaror; Kringutrustning anpassade för användning med datorer; Styrprogram för datorer; Mjukvaror; Datormjukvaror; Elektriska kontaktdon; Tryckgivare; Temperaturgivare.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Софтуер като услуги; Платформа като услуга [PaaS]; Предоставяне онлайн на софтуер без възможност за изтегляне; Изчисления в облак; Анализ на компютърни системи; Дистанционен мониторинг на компютърни системи; Външно архивиране на данни.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Software jako služba [SaaS]; Platforma jako služba (PAAS); Poskytování on-line softwaru bez možnosti stažení; Cloud computing; Analýza počítačových systémů; Vzdálené monitorování počítačových systémů; Externí zálohování dat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Software as a service [saas]; Platform as a Service [PaaS]; Tilvejebringelse af online, ikke-downloadable software; Cloud computing; Computersystemanalyse; Overvågning af computersystemer ved fjernadgang; Off-site data backup.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Software as a Service [SaaS]; Platform as a Service [PaaS]; Online-Bereitstellung von nicht herunterladbarer Software; Cloud-Computing; Computersystemanalysen; Fernüberwachung von Computersystemen; Externe Datensicherung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λογισμικό σαν υπηρεσία· Παροχή πλατφόρμας ως υπηρεσίας· Παροχή ηλεκτρονικού, μη τηλεφορτώσιμου λογισμικού· Υπολογιστικό νέφος· Ανάλυση συστημάτων ηλεκτρονικών υπολογιστών· Παρακολούθηση συστημάτων ηλεκτρονικών υπολογιστών μέσω τηλεπρόσβασης· Εφεδρική αποθήκευση δεδομένων εκτός του χώρου εργασίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Software as a service [SaaS]; Platform as a Service [PaaS]; Providing online, non-downloadable software; Cloud computing; Computer system analysis; Monitoring of computer systems by remote access; Off-site data backup.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Software como servicio [SaaS]; Plataforma como servicio [PaaS]; Facilitación de software en línea no descargable; Servicios informáticos en la nube; Análisis de sistemas informáticos; Control a distancia de sistemas informáticos; Servicios de custodia externa de datos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Pilveteenused [SaaS]; Platvorm teenusena [PaaS]; Onlain-tarkvara,v.a allalaetava, pakkumine; Pilvandmetöötlus; Arvutisüsteemide analüüs; Arvutisüsteemide seiramine kaughalduse teel; Andmete kaugvarundus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Verkkosovelluspalvelut [SaaS]; Sovellusalusta palveluna (PaaS); Muiden kuin ladattavien ohjelmistojen tarjoaminen online-periaatteella; Pilvilaskenta; Tietokonejärjestelmäanalyysi; Etävalvonta (Tietokonejärjestelmien -); Käyttöpaikan ulkopuolinen varmuuskopiointi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Logiciel-service [SaaS]; Plateforme informatique en tant que service [PaaS]; Fourniture de logiciels non téléchargeables en ligne; Informatique en nuage; Analyse de systèmes informatiques; Télésurveillance de systèmes informatiques; Sauvegarde externe de données.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Softver kao usluga [SaaS]; Platforma kao usluga (PaaS); Pružanje softvera na internetu koji se ne može preuzeti; Cloud računarstvo; Analiza računalnih sustava; Daljinski nadzor računalnih sustava; Priprema sigurnosnih kopija podataka off-site.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szoftver mint szolgáltatás [SaaS]; Platform-mint-szolgáltatás (PAAS); Nem letölthető, online szoftverek biztosítása; Felhőalapú számítástechnika; Számítógépes rendszerelemzés; Számítógépes rendszerek távfelügyelete [monitoring]; Nem helyszíni biztonsági mentés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di software [SaaS]; Piattaforma come servizio [PaaS]; Fornitura online di software non scaricabili; Cloud computing; Analisi di sistemi informatici; Monitoraggio dei sistemi informatici tramite accesso remoto; Salvataggio esterno di dati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Programinė įranga kaip paslauga [SaaS]; Platforma kaip paslauga [PaaS]; Neparsisiunčiamosios internetinės programinės įrangos parūpinimas; Debesų kompiuterija; Kompiuterių sistemų analizė; Kompiuterių sistemų stebėsena per nuotolinę prieigą; Nuotolinis atsarginių duomenų kopijavimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Programmatūra kā pakalpojums (SaaS); Platforma kā pakalpojums (PaaS); Tiešsaistes nelejupielādējamas programmatūras nodrošināšana; Mākoņdatošanas pakalpojumi; Datorsistēmu analizēšana; Attālinātā datorsistēmu uzraudzība; Datu dublēšana ārpus krātuves.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Softwer bħala servizz [SaaS]; Pjattaforma bħala Servizz (PAAS); Il-provvista ta' softwer online li ma jistax jitniżżel; Kunċetti ta' kompjuterizzazzjoni; Analiżi tas-sistema tal-kompjuter; Il-monitoraġġ ta' sistemi tal-kompjuter b'aċċess mill-bogħod; Backup ta' data off-site.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ter beschikking stellen van software [SaaS]; Platform als een dienst (PaaS); Ter beschikking stellen van online niet-downloadbare software; Cloud computing; Systeemanalyse; Controle op afstand van computersystemen; Externe back-up van data.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oprogramowanie jako usługa [SaaS]; Platforma jako usługa [PaaS]; Udostępnianie online oprogramowania nie do pobrania; Chmura obliczeniowa; Analizy systemów komputerowych; Monitoring systemów komputerowych przy użyciu dostępu zdalnego; Tworzenie zapasowych kopii danych poza lokalizacją użytkownika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Software como serviço [SaaS]; Plataformas como um serviço [PaaS]; Fornecimento de software em linha não descarregável; Computação em nuvem; Análise de sistemas informáticos; Monitorização de sistemas de computador por acesso remoto; Backup externo de dados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Software ca serviciu [SaaS]; Platformă ca serviciu [PaaS]; Furnizare de software nedescărcabil online; Cloud computing; Analiza sistemelor informatice; Monitorizarea sistemelor computerizate prin acces de la distanță; Salvarea externă a datelor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poskytovanie softvéru prostredníctvom internetu (SaaS); Platforma ako služba (Paas); Poskytovanie onlinového nestiahnuteľného softvéru; Poskytovanie počítačových technológií prostredníctvom internetu (cloud computing); Analýzy počítačových systémov; Diaľkové monitorovanie počítačových systémov; Zálohovanie údajov mimo pracoviska.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Programska oprema kot storitev [SaaS]; Platforma kot storitev[PaaS]; Zagotavljanje spletne, nenaložljive programske opreme; Računalništvo v oblaku; Analize računalniških sistemov; Nadzor računalniških sistemov na daljinsko upravljanje; Varnostno kopiranje podatkov na zunanjih lokacijah.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Molntjänster [SaaS]; Plattform som en tjänst (PAAS); Upplåtande online av inte nedladdningsbar mjukvara; Molntjänster; Datorsystemsanalyser; Övervakning av datorsystem via fjärranslutningar; Säkerhetskopiering av data till annan plats.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080440</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>13735</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

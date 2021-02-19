@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-22T09:26:11</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229601</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229601</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-10-21</RegistrationDate>
+<ApplicationLanguageCode>hu</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-10-22</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Genomic Comics</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>16</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Подлистници на вестници с комикси [печатни материали]; Комикси; Романи с графични илюстрации; Подлистници в картини; Манга графични романи; Вестникарски рисунки [печатни материали].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Novinové kreslené seriály [tiskárenský výrobek]; Komiksy; Grafické novely; Komiksy (knihy); Grafické romány manga; Novinové komiksy [tiskárenský výrobek].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tegneseriestriber til aviser [tryksager]; Tegneserier; Grafiske romaner; Tegneseriehæfter; Grafiske mangaromaner; Tegneserier til aviser [tryksager].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Comicstrips für Zeitungen [Druckereierzeugnisse]; Comics; Romane mit Illustrationen; Comic-Hefte; Manga-Romane mit Ilustrationen; Cartoons für Zeitungen [Druckereierzeugnisse].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σειρές κόμικς σε συνέχειες για εφημερίδες· Κόμικς· Εικονογραφημένα μυθιστορήματα [τύπου κόμικ]· Παιδικά περιοδικά, κόμικς· Εικονογραφημένα μυθιστορήματα μάνγκα· Κόμικς για εφημερίδες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Newspaper comic strips; Comics; Graphic novels; Comic books; Manga graphic novels; Newspaper cartoons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Tiras cómicas para periódicos [material impreso]; Cómics; Novelas gráficas; Revistas de historietas; Novelas gráficas manga; Viñetas para periódicos [material impreso].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ajalehtede koomiksiribad [trükised]; Koomiksid; Graafilised romaanid; Koomiksid; Manga-stiilis illustreeritud romaanid; Ajalehekoomiksid [trükised].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sanomalehtien sarjakuvat [painotuotteet]; Sarjakuvalehdet; Graafiset romaanit; Sarjakuvakirjat; Manga-sarjakuvaromaanit; Sanomalehtisarjakuvat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Bandes dessinées pour journaux; Bandes dessinées; Romans graphiques; Journaux de bandes dessinées; Romans graphiques manga; Dessins humoristiques pour journaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Novinski stripovi [tiskovine]; Stripovi; Ilustrirani romani; Novine sa stripovima; Ilustrirani stripovi Manga; Novinske crtane priče [tiskovine].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Újságban megjelenő képregény képsorok [nyomtatott anyagok]; Képregények; Képregényalbumok; Képregény-könyvek; Manga képregények; Újságban megjelenő képregények [nyomtatott anyagok].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Fumetti per giornali [materiali stampati]; Fumetti; Romanzi illustrati; Fumetti; Romanzi a fumetti giapponesi; Vignette per giornali [materiali stampati].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Laikraščių komiksų skiltys [spaudiniai]; Komiksai; Grafiniai romanai; Komiksai; Japoniškos grafinės novelės (Manga); Laikraščių komiksai [spaudiniai].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Laikrakstu komiksi [iespiedmateriāli]; Komiksi; Grafiskās noveles; Komiksu grāmatas; Manga grafiskie romāni; Laikrakstu karikatūras [iespiedmateriāli].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Serje ta' tpinġijiet tal-komiks fil-gazzetti [materjal stampat]; Komiks; Novelli grafiċi; Komiks (kotba); Novelli grafiċi tal-manga; Kartuns fil-gazzetti [materjal stampat].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Krantenstrips [drukwerk]; Stripverhalen; Stripromans; Stripbladen; Japanse stripromans (manga); Krantencartoons [drukwerk].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Historyjki obrazkowe w gazetach [materiały drukowane]; Komiksy; Powieści graficzne; Komiksy; Powieści graficzne typu manga; Rysunki satyryczne w gazetach [materiały drukowane].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Banda desenhada para jornais [produtos de impressão]; Banda desenhada; Novelas gráficas; Livros de banda desenhada; Romances gráficos manga; Banda desenhada para jornais [produtos de impressão].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Caricaturi de ziar [materiale tipărite]; Reviste bulevardiere cu desene; Romane grafice; Reviste de benzi desenate; Romane grafice manga; Caricaturi de ziar [materiale tipărite].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Novinové komiksy [tlačoviny]; Komiksy; Grafické novely; Komiksy; Grafické romány manga; Kreslené vtipy a komiksy v novinách [tlačoviny].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Časopisni komični stripi [tiskovina]; Stripi; Grafični romani; Stripi; Romani v stripu manga; Časopisne risane zgodbe [tiskovina].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tecknade serier för tidningar [trycksaker]; Serietidningar; Serieromaner; Serieböcker; Grafiska mangaromaner; Serier för tidningar [trycksaker].</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Предоставяне на онлайн списания с комикси, без възможност за изтегляне; Предоставяне на онлайн комикси и графични новели без възможност за изтегляне; Предоставяне на онлайн романи с комикси, без възможност за изтегляне.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Poskytování komiksů on‑line, bez možnosti stažení; Poskytování komiksů a obrázkových příběhů (online nestahovatelných); Poskytování grafických románů on‑line, bez možnosti stažení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Stille online tegneseriebøger, som ikke kan downloades, til rådighed; Udbydelse af onlinetegneserier og online grafiske noveller (ikke til download); Stille online grafiske romaner, som ikke kan downloades, til rådighed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Online-Bereitstellung von Comic-Heften, nicht herunterladbar; Online Bereitstellen von elektronischen, nicht herunterladbaren Comics und Bildergeschichten; Online-Bereitstellung von illustrierten Romanen, nicht herunterladbar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διαδικτυακή παροχή τευχών κόμικς, χωρίς δυνατότητα μεταφόρτωσης· Παροχή με άμεση σύνδεση (online) μη τηλεφορτώσιμων βιβλίων με κόμικς και εικονογραφημένων μυθιστορημάτων· Διαδικτυακή παροχή μυθιστορημάτων-κόμικ (graphic novel) χωρίς δυνατότητα μεταφόρτωσης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Providing online comic books, not downloadable; Providing online non-downloadable comic books and graphic novels; Providing online graphic novels, not downloadable.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Suministro de tebeos y cómics en línea, no descargables; Cómics y novelas gráficas no descargables en línea (online); Suministro de novelas gráficas en línea, no descargables.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mitteallalaaditavate koomiksiraamatute pakkumine veebis; Veebipõhiste koomiksite ja koomiksilaadsete juturaamatute pakkumine arvutivõrgus, v.a allalaaditavad; Mitteallalaaditavate piltromaanide pakkumine veebis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ei-ladattavien sarjakuvakirjojen tarjoaminen verkossa; Muiden kuin ladattavien sarjakuvakirjojen ja kuvitettujen romaanien tarjoaminen online-periaatteella; Ei-ladattavien kuvitettujen romaanien tarjoaminen verkossa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Mise à disposition de journaux de bandes dessinées en ligne, non téléchargeables; Publication de bandes dessinées et de bandes dessinées romanesques en ligne et non téléchargeables; Mise à disposition de romans graphiques en ligne, non téléchargeables.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ponuda stripova putem interneta, koji se ne mogu preuzeti na mreži; Ponuda online stripova i grafičkih romana koji nisu za preuzimanje; Ponuda ilustriranih romana putem interneta, koji se ne mogu preuzeti na mreži.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Online képregények biztosítása, nem letölthetők; Nem letölthető képregények és képregényalbumok online rendelkezésre bocsátása; Online, nem letölthető képregényalbumok nyújtása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Fornitura online di fumetti, non scaricabili; Fornitura di fumetti e romanzi a fumetti non scaricabili on-line; Fornitura online di romanzi a fumetti, non scaricabili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Internetinių ne parsisiunčiamųjų komiksų parūpinimas; Komiksų ir grafinių romanų pateikimas internete be galimybės parsisiųsti; Internetinių ne parsisiunčiamųjų grafinių romanų parūpinimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Komiksu grāmatu nodrošināšana tiešsaistē, kas nav lejupielādējamas; Nelejupielādējamu komiksu grāmatu un romānu-komiksu nodrošināšana tiešsaistē; Romānu-komiksu nodrošināšana tiešsaistē, kas nav lejupielādējami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Provvista ta’ kotba tal-komiks online, li ma jistgħux jitniżżlu; Provvista ta' kotba tal-komiks u rumanzi grafiċi online li ma jistgħux jitniżżlu; Provvista ta’ rumanzi grafiċi online, li ma jistgħux jitniżżlu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ter beschikking stellen van niet-downloadbare onlinestripboeken; Verschaffen van niet-downloadbare onlinestripboeken en beeldromans; Ter beschikking stellen van niet-downloadbare onlinebeeldromans.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Udostępnianie komiksów online, nie do pobrania; Udostępnianie on-line komiksów i powieści graficznych nie do pobrania; Udostępnianie powieści graficznych online, nie do pobrania.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Fornecimento de livros de banda desenhada em linha, não descarregáveis; Fornecimento de livros de banda desenhada e novelas gráficas online, não descarregáveis; Fornecimento de romances ilustrados em linha, não descarregáveis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Furnizare de benzi desenate online care nu pot fi descărcate; Furnizare online de benzi desenate și romane grafice care nu pot fi descărcate; Furnizare de romane grafice online care nu pot fi descărcate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Online poskytovanie komiksov (bez možnosti stiahnutia); Online poskytovanie komiksov a obrázkových románov (bez možnosti stiahnutia); Poskytovanie grafických románov online, bez možnosti stiahnutia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zagotavljanje spletnih komičnih stripov, neprenosljivih; Nudenje spletnih nenaložljivih stripov in grafičnih romanov; Zagotavljanje spletnih grafičnih romanov, neprenosljivih.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tillhandahållande av serieböcker online, inte nedladdningsbara; Tillhandahållande av serieböcker och grafiska romaner online, inte nedladdningsbara; Tillhandahållande av grafiska onlineromaner, inte nedladdningsbara.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/131</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-07-14</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/202</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-10-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017780597</RecordIdentifier>
+<BasicRecordKind>Representative - Deletion of the representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>95969</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-07-10</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

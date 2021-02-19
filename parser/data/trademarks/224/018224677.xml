@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-09T09:29:11</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224677</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224677</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>My Little Garden</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Софтуер за игри; Програми (Компютърни -) [софтуер, които може да бъде прехвърлян върху друг носител]; Компютърни игри за мобилни телефони (мобилни игри).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Software pro počítačové hry; Počítačové programy [stahovatelné]; Počítačové hry pro mobilní telefony (mobilní hry).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Software til spil; Computerprogrammer [downloadable software]; Computerspil til mobiltelefoner (mobile spil).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Computerspiele; Computerprogramme [herunterladbar]; Computerspiele für Mobiltelefone (Mobile Games).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λογισµικό ηλεκτρονικών παιχνιδιών· Η/Υ (προγράμματα -) [τηλεμεταφερόμενο λογισμικό]· Παιχνίδια ηλεκτρονικών υπολογιστών για κινητά τηλέφωνα (παιχνίδια για κινητά τηλέφωνα).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Games software; Computer programs [downloadable software]; Computer games for mobile phones (mobile games).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Software de juegos; Programas informáticos [software descargable]; Juegos de ordenador para teléfonos móviles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mängude tarkvara; Arvutiprogrammid [allalaaditav tarkvara]; Mobiiltelefonide arvutimängud (mobiilimängud).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Peliohjelmistot; Ohjelmistot (tietokone -) [järjestelmästä toiseen poimittavat]; Matkapuhelimiin tarkoitetut tietokonepelit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Logiciels de jeux; Programmes d'ordinateurs [logiciels téléchargeables]; Jeux informatiques pour téléphones cellulaires (jeux mobiles).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Softver za igrice; Programi (računalni -) [koji se mogu preuzeti]; Računalne igre za mobilne telefone (Mobile Games).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Játékszoftverek; Számítógépes programok [letölthető szoftverek]; Számítógépes játékok mobiltelefonokra (Mobile Games).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Software per giochi; Programmi per computer [scaricabili]; Giochi per computer per telefoni cellulari (Mobile Games).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kompiuterinių žaidimų programinė įranga; Kompiuterių programos [parsisiunčiamoji programinė įranga]; Kompiuteriniai žaidimai, skirti mobiliesiems telefonams (mobilieji žaidimai).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Spēļu programmatūra; Lejupielādējamas datorprogrammas; Datorspēles mobilajiem telefoniem (Mobile Games).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Softwer tal-logħbiet; Programmi tal-kompjuter [softwer li jista' jitniżżel]; Logħob tal-kompjuter għat-telefowns ċellulari (mobile games).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Spelsoftware; Computerprogramma's [te downloaden software]; Computerspellen voor mobiele telefoons (mobile games).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oprogramowanie gier; Programy komputerowe [oprogramowanie do pobrania]; Gry komputerowe na telefony komórkowe (gry przenośne).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Software de jogos; Programas de computador [software descarregável]; Jogos de computador para telemóveis ("mobile games").</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Software pentru jocuri; Programe de calculatoare [software descărcabil]; Jocuri de calculator pentru telefoane mobile (jocuri mobile).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Počítačové hry (softvér); Počítačové programy (sťahovateľné); Počítačové hry pre mobilné telefóny (mobilné hry).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Programska oprema za igrice; Računalniški programi [naložljiva programska oprema]; Računalniške igre za mobilne telefone (mobilne igre).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Spelprogramvara; Datorprogram [nedladdningsbara mjukvaror]; Datorspel för mobiltelefoner (mobilspel).</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Осигуряване на компютърни игри, кото са достъпни от потребителите в глобалната мрежа или интернет; Предоставяне на интерактивни електронни игри за много играчи чрез интернет и електронни комуникационни мрежи; Осигуряване на интернет игри (без възможност за записване); Услуги свързани с електронни игри осигурени посредством Интернет; Осигуряване на он-лайн компютърни игри.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Poskytování počítačové hry, přístupné na celosvětové síti nebo na Internetu; Poskytování interaktivních počítačových her pro více hráčů přes internet a elektronické komunikační sítě; Poskytování internetových her (bez možnosti ke stažení); Služby v oblasti elektronických her poskytované prostřednictvím internetu; Poskytování online počítačových her.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Udbydelse af et computerspil med brugeradgang via et globalt computernetværk og/eller internettet; Interaktive computerspil beregnet til flere spillere udbudt via Internettet og elektroniske kommunikationsnetværk; Udbydelse af spil (der ikke kan downloades) via internettet; Tilvejebringelse af elektroniske spiltjenester via internettet; Tilvejebringelse af online computerspil.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bereitstellung eines Computerspiels, auf das Benutzer über ein globales Computernetz und/oder das Internet zugreifen können; Bereitstellung von interaktiven Computerspielen für mehrere Mitspieler über das Internet und elektronische Kommunikationsnetze; Bereitstellung von Spielen im Internet [nicht herunterladbar]; Über das Internet bereitgestellte Dienste für elektronische Spiele; Bereitstellung von Online-Computerspielen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παροχή παιχνιδιού ηλεκτρονικών υπολογιστών προσπελάσιμου σε χρήστες μέσω ενός παγκόσμιου ηλεκτρονικού δικτύου και/ή του Διαδικτύου· Παροχή αλληλεπιδραστικών παιχνιδιών ηλεκτρονικών υπολογιστών για πολλούς παίκτες μέσω του Διαδικτύου και ηλεκτρονικών δικτύων επικοινωνίας· Παροχή διαδικτυακών παιχνιδιών (χωρίς δυνατότητα τηλεφόρτωσης)· Υπηρεσίες ηλεκτρονικών παιχνιδιών παρεχόμενες μέσω του Διαδικτύου· On line παροχή ηλεκτρονικών παιχνιδιών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Providing a computer game that may be accessed by users on a global network and/or the Internet; Providing interactive multi-player computer games via the Internet and electronic communication networks; Providing Internet games (non-downloadable); Electronic game services provided by means of the internet; Provision of on-line computer games.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de juegos informáticos accesibles por usuarios en una red informática global y/o Internet; Facilitación de juegos informáticos interactivos para múltiples jugadores a través de Internet y redes de comunicaciones electrónicas; Facilitación de juegos por Internet (no descargables); Servicios de juegos electrónicos proporcionados a través de Internet; Facilitación de juegos informáticos en línea (online).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Arvutimängu pakkumine, millele kasutajad saavad ligi globaalse arvutivõrgu ja/või Interneti kaudu; Interaktiivsete mitme mängijaga arvutimängude pakkumine Interneti ja elektrooniliste sidevõrkude kaudu; Allalaadimatute Interneti-mängude pakkumine; Interneti kaudu pakutavad elektroonilised mänguteenused; Veebis arvutimängude pakkumine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Maailmanlaajuisen tietoverkon ja/tai Internetin välityksellä käyttäjille tarjottavan tietokonepelin tarjoaminen; Vuorovaikutteisten useille pelaajille tarkoitettujen tietokonepelien tarjoaminen Internetin ja elektronisten viestintäverkkojen välityksellä; Internetin välityksellä pelattavien (ei-ladattavien) pelien tarjoaminen; Internetin välityksellä tarjottavat elektroniikkapelipalvelut; Online-tietokonepelien tarjoaminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Fourniture d'un jeu informatique auquel des utilisateurs peuvent avoir accès via un réseau informatique mondial et/ou Internet; Mise à disposition de jeux informatiques interactifs pour plusieurs joueurs via Internet et des réseaux de communications électroniques; Fourniture de jeux sur l'internet (non téléchargeables); Services de jeux électroniques fournis par le biais d'Internet; Mise à disposition de jeux informatiques en ligne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pružanje računalnih igara kojima mogu pristupiti korisnici na globalnoj mreži i/ili internetu; Pružanje interaktivnih igara za više igrača preko interneta i elektroničkih komunikacijskih mreža; Osiguravanje internetskih igara (nisu za preuzimanje); Usluge elektroničkih igara putem Interneta; Pružanje online računalnih igara.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Számítógépes játék biztosítása, amelyhez a felhasználók egy globális hálózaton és/vagy az Interneten keresztül férnek hozzá; Interneten és elektronikus kommunikációs hálózatokon keresztül elérhető, interaktív, többszereplős számítógépes játékok szolgáltatása; Internetes játékok biztosítása (nem letölthető); Elektronikus játékokkal kapcsolatos, interneten keresztül nyújtott szolgáltatások; Online számítógépes játékok szolgáltatása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Fornitura di un gioco per computer a cui gli utenti possono accedere collegandosi a una rete informatica globale e/o a Internet; Fornitura di videogiochi interattivi per più giocatori via Internet e tramite reti di comunicazione elettroniche; Giochi disponibili via Internet (non scaricabili); Servizi di giochi elettronici forniti mediante Internet; Fornitura di giochi per computer on-line.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kompiuterinių žaidimų, prie kurių naudotojai gali prieiti per visuotinius tinklus ir (arba) internetą, teikimas; Interaktyviųjų žaidimų, skirtų daugeliui žaidėjų, teikimas internetu ir elektroniniais ryšių tinklais; Interneto žaidimų (neatsiunčiamųjų) teikimas; Elektroninių žaidimų paslaugos, teikiamos internetu; Kompiuterinių žaidimų internete parūpinimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Datorspēļu nodrošināšana, kurām lietotāji var piekļūt ar globālā datortīkla un/vai Interneta starpniecību; Nodrošināšana ar interaktīvām vairāku spēlētāju datorspēlēm ar interneta vai elektroniskos sakaru tīklu starpniecību; Nelejupielādējamu interneta spēļu nodrošināšana; Elektronisko spēļu pakalpojumi ar Interneta starpniecību; Nodrošināšana ar tiešsaistes datorspēlēm.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Il-provvista ta' logħba tal-kompjuter li tista' tiġi aċċessata mill-utenti ta' netwerk globali u/jew l-internet; Il-provvista ta' logħob tal-kompjuter interattiv b'aktar minn parteċipant wieħed permezz tal-internet u netwerks ta' komunikazzjoni elettronika; Provvista ta' logħob fuq l-internet (li ma jistgħux jitniżżlu); Servizzi ta' logħob elettroniku provduti permezz tal-internet; Il-provvista ta' logħob tal-kompjuter onlajn.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Het leveren van een computerspel waartoe gebruikers van een wereldwijd netwerk en/of het Internet toegang hebben; Verschaffing van interactieve computerspellen voor meerdere spelers via het Internet en elektronische communicatienetwerken; Verschaffing van Internetspellen (niet-downloadbaar); Diensten op het gebied van elektronische spellen geleverd via het Internet; Verstrekking van on line computerspellen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Udostępnianie gier komputerowych w sieci globalnej i/lub w Internecie; Udostępnianie interaktywnych komputerowych gier wieloosobowych za pośrednictwem Internetu i elektronicznych sieci komunikacyjnych; Udostępnianie gier internetowych (nie do pobrania); Usługi w zakresie gier elektronicznych świadczone za pośrednictwem Internetu; Udostępnianie gier komputerowych on-line.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Fornecimento de um jogo de computador ao qual os utilizadores podem aceder através de uma rede mundial e/ou da Internet; Fornecimento de jogos de computador interactivos para vários jogadores através da Internet e de redes eletrónicas de comunicações; Fornecimento de jogos através da Internet (não transferíveis); Serviços de jogos eletrónicos fornecidos através da Internet; Fornecimento de jogos de computador on-line.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Furnizarea unui joc pe calculator care poate fi accesat de utilizatori într-o reţea globală şi/sau pe Internet; Furnizare de jocuri interactive pe calculator cu jucători multipli, prin Internet şi reţele de comunicaţii electronice; Furnizare de jocuri pe internet (nedescărcabile); Servicii de jocuri electronice furnizate prin intermediul internetului; Furnizare de jocuri de calculator on-line.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poskytovanie počítačových hier, ktoré sú dostupné pre užívateľov na globálnej sieti a/alebo na internete; Poskytovanie interaktívnych počítačových hier pre viacerých hráčov cez internet a elektronické komunikačné siete; Poskytovanie nestiahnuteľných internetových hier; Služby v oblasti elektronických hier poskytovaných prostriedkami internetu; Poskytovanie on-line počítačových hier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zagotavljanje računalniških iger, do katerih lahko uporabniki dostopajo prek globalnega omrežja in/ali interneta; Nudenje interaktivnih računalniških iger z več igralci prek interneta in elektronskih komunikacijskih omrežij; Nudenje internetnih iger (nenaložljivih); Storitve elektronskih iger, nudene preko interneta; Nudenje spletnih računalniških iger.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tillhandahållande av ett datorspel som är åtkomligt för användare på ett globalt datornät och/eller Internet; Tillhandahållande av interaktiva datorspel för flera spelare via Internet och elektroniska kommunkationsnät; Upplåtande av Internetspel (ej nedladdningsbara); Tjänster avseende elektroniska spel via Internet; Tillhandahållande av direktanslutna datorspel.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/194</PublicationIdentifier>
+        <PublicationSection>C.3.6</PublicationSection>
+        <PublicationDate>2020-10-09</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>569021</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>26588</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:34:35</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226144</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226144</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>cs</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>HEFFRON</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>33</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Алкохолни напитки (с изключение на бира); Ром; Напитки на основата на ром; Алкохолни екстракти; Алкохолни есенции; Препарати за приготвяне на алкохолни напитки; Вино; Спиртни напитки; Ликьори; Дестилатни напитки; Аперитиви; Коктейли; Алкохолни енергийни напитки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Alkoholické nápoje (s výjimkou piva); Rum; Nápoje na bázi rumu; Alkoholové výtažky; Alkoholové tresti; Přípravky k výrobě alkoholických nápojů; Vína; Lihoviny; Likéry; Destilované nápoje; Aperitivy; Koktejly; Energetické nápoje obsahující alkohol.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Alkoholholdige drikke, undtagen øl; Rom; Drikke fremstillet på basis af rom; Alkoholholdige ekstrakter; Alkoholholdige essenser; Præparater til fremstilling af alkoholholdige drikke; Vin; Spirituosa; Likører; Destillerede drikke; Aperitifs; Cocktails; Alkoholholdige energidrikke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Alkoholische Getränke, ausgenommen Bier; Rum; Getränke auf Rumbasis; Alkoholische Extrakte; Alkoholische Essenzen; Alkoholische Präparate für die Zubereitung von Getränken; Weine; Spirituosen; Liköre; Destillierte Getränke; Aperitifs; Cocktails; Alkoholische Energiegetränke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αλκοολούχα ποτά (εκτός μπύρας)· Ρούμι και ηδύποτα από ρούμι· Ποτά με βάση το ρούμι· Αλκοολούχα εκχυλίσματα· Αλκοολούχα αποστάγματα· Παρασκευάσματα για την παρασκευή αλκοολούχων ποτών· Κρασί· Αλκοολούχα δυνατά ποτά· Ηδύποτα· Αποσταγμένα ποτά· Απεριτίφ· Κοκταίηλ· Οινοπνευματώδη ενεργειακά ποτά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Alcoholic beverages (except beer); Rum; Rum-based beverages; Alcoholic extracts; Alcoholic essences; Preparations for making alcoholic beverages; Wine; Spirits [beverages]; Liqueurs; Distilled beverages; Aperitifs; Cocktails; Alcoholic energy drinks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bebidas alcohólicas (excepto cervezas); Ron; Bebidas a base de ron; Extractos alcohólicos; Esencias alcohólicas; Preparados para elaborar bebidas alcohólicas; Vinos; Bebidas espirituosas; Licores; Bebidas destiladas; Aperitivos; Cócteles; Bebidas energéticas alcohólicas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Alkoholjoogid, v.a õlu; Rumm; Rummipõhised joogid; Piiritusekstraktid; Piiritusessentsid; Alkohoolsete jookide valmistuspreparaadid; Vein; Piiritusjoogid; Liköörid; Destilleerimise teel saadud joogid, aetised, destilleeritud joogid; Aperitiivid; Kokteilid; Alkohoolsed energiajoogid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Alkoholijuomat (paitsi oluet); Rommi; Rommipohjaiset juomat; Alkoholiuutteet; Alkoholiesanssit; Alkoholijuomien valmistusaineet; Viinit; Väkijuomat; Liköörit; Juomat, tislatut; Aperitiivit; Cocktailjuomat; Alkoholipitoiset energiajuomat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Boissons alcoolisées à l'exception des bières; Rhum; Boissons à base de rhum; Extraits alcooliques; Essences alcooliques; Préparations pour faire des boissons alcoolisées; Vin; Spiritueux; Liqueurs; Boissons distillées; Apéritifs; Cocktails; Boissons énergétiques alcoolisées.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Alkoholna pića (osim piva); Rum; Pića na bazi ruma; Alkoholni ekstrakti; Alkoholne esencije; Pripravci za pripremu alkoholnih pića; Vino; Žestoka pića (napitci); Likeri; Destilirana pića; Aperitivi; Kokteli; Alkoholna energetska pića.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Alkoholos italok (sörök kivételével); Rum; Rum alapú italok; Alkoholos kivonatok; Alkoholos esszenciák; Készítmények alkoholos italok készítéséhez; Borok; Szeszes italok; Likőrök; Égetett szeszesitalok; Aperitifek; Koktélok; Alkoholos energiaitalok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Bevande alcoliche (eccetto le birre); Rum; Bevande a base di rum; Estratti alcoolici; Essenze alcooliche; Preparati per fare bevande alcoliche; Vino; Alcoolici; Liquori; Bevande distillate; Aperitivi; Cocktails; Bevande energetiche alcoliche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Svaigieji gėrimai [išskyrus alų]; Romas [svaigusis gėrimas]; Romo gėrimai; Spiritiniai ekstraktai; Spiritinės esencijos; Svaigiųjų gėrimų gaminimo preparatai; Vynas; Spiritiniai gėrimai; Likeriai; Distiliuoti gėrimai; Aperityvai; Kokteiliai; Svaigieji energiniai gėrimai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Alkoholiskie dzērieni, izņemot alu; Rums; Dzērieni uz ruma bāzes; Spirta ekstrakti; Alkoholisko dzērienu esences; Sastāvdaļas alkoholisko dzērienu pagatavošanai; Vīni; Spirtotie dzērieni; Liķieri; Destilēti dzērieni; Aperitīvi; Alkoholiskie kokteiļi; Alkoholiski enerģijas dzērieni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xarbiet alkoħoliċi (minbarra birra); Rum; Xarbiet ibbażati fuq ir-rum; Estratti alkoħoliċi; Essenzi alkoħoliċi; Preparazzjonijiet biex tagħmel xarbiet alkoħoliċi; Inbid; Spirti [xorb]; Likur; Xorb distillat; Aperitivi; Koktejls; Xorb tal-enerġija li fih l-alkoħol.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Alcoholische dranken, uitgezonderd bier; Rum; Dranken op basis van rum; Alcoholhoudende extracten; Alcoholhoudende essences; Preparaten voor het bereiden van alcoholische dranken; Wijn; Spiritualiën; Likeuren; Gedistilleerde dranken; Aperitieven; Cocktails; Alcoholhoudende energiedranken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Napoje alkoholowe (z wyjątkiem piwa); Rum; Napoje na bazie rumu; Alkoholowe (Ekstrakty -); Alkoholowe (Esencje -); Preparaty do produkcji napojów alkoholowych; Wino; Alkohole wysokoprocentowe [napoje]; Likiery; Destylowane napoje; Aperitify; Koktajle; Napoje energetyczne zawierające alkohol.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bebidas alcoólicas (excluindo cerveja); Rum; Bebidas à base de rum; Extratos alcoólicos; Essências alcoólicas; Preparações para produzir bebidas alcoólicas; Vinho; Bebidas espirituosas; Licores; Bebidas destiladas; Bebidas aperitivas; Cocktails; Bebidas energéticas com álcool.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Băuturi alcoolice (cu excepția berii); Rom; Băuturi pe bază de rom; Extracte alcoolice; Esențe alcoolice; Preparate pentru fabricarea băuturilor alcoolice; Vin; Băuturi spirtoase; Lichioruri; Băuturi distilate; Băuturi aperitiv; Cocteiluri; Băuturi alcoolice energizante.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Alkoholické nápoje okrem piva; Rum; Rumové nápoje; Alkoholové extrakty (tinktúry); Liehové esencie; Prípravky na výrobu alkoholických nápojov; Víno; Liehoviny; Likéry; Destilované nápoje; Aperitívy; Koktaily; Alkoholické energetické nápoje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Alkoholne pijače (razen piva); Rum; Pijače na osnovi ruma; Alkoholni ekstrakti; Alkoholni izvlečki; Pripravki za proizvodnjo alkoholnih pijač; Vino; Žgane alkoholne pijače; Likerji; Žgane pijače (narejene z destilacijo); Aperitivi; Koktajli; Alkoholne energijske pijače.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Alkoholhaltiga drycker, inte öl; Rom; Rombaserade drycker; Alkoholhaltiga extrakt; Alkoholhaltiga essenser; Preparat för tillverkning av alkoholhaltiga drycker; Viner; Sprit [drycker]; Likörer; Destillerade drycker; Aperitifer; Cocktailar; Alkoholhaltiga energidrycker.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Стопанско управление; Търговска администрация; Услуги за търговия на дребно във връзка с алкохолни напитки (с изключение на бира); Услуги за търговия на едро във връзка с алкохолни напитки (с изключение на бира); Рекламиране и рекламни услуги; Посреднически услуги при сключване на търговски сделки за трети лица.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pomoc při řízení obchodní činnosti; Obchodní administrativa; Maloobchodní prodej alkoholických nápojů s výjimkou piva; Velkoobchodní prodej alkoholických nápojů s výjimkou piva; Propagační činnost, reklama; Zprostředkování obchodů pro třetí strany; Reklama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Forretningsledelse; Forretningsadministration; Detailhandel med alkoholholdige drikkevarer (undtagen øl); Detailhandel med alkoholholdige drikkevarer (undtagen øl); Reklamevirksomhed; Formidling af handelsvirksomhed for tredjepart.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Geschäftsführung; Betriebsverwaltung; Einzelhandelsdienstleistungen in Bezug auf alkoholische Getränke [ausgenommen Biere]; Großhandelsdienstleistungen in Bezug auf alkoholische Getränke [ausgenommen Biere]; Werbung; Vermittlung von Handelsgeschäften für Dritte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διοίκηση επιχειρήσεων· Διαχείριση επιχειρήσεων· Υπηρεσίες λιανικής πώλησης σε σχέση με οινοπνευματώδη ποτά (εκτός ζύθου)· Υπηρεσίες χονδρικής πώλησης σε σχέση με οινοπνευματώδη ποτά (εκτός ζύθου)· Διαφήμιση· Διαμεσολάβηση σε εμπορικές επιχειρήσεις για λογαριασμό τρίτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Business management; Business administration; Retail services in relation to alcoholic beverages (except beer); Wholesale services in relation to alcoholic beverages (except beer); Advertising; Mediation of trade business for third parties.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Gestión de empresas; Administración de negocios; Servicios de venta al por menor relacionados con bebidas alcohólicas (excepto la cerveza); Servicios de venta al por mayor relacionados con bebidas alcohólicas (excepto la cerveza); Publicidad; Intermediación en negocios comerciales para terceros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ärijuhtimine; Ärijuhtimine; Alkoholjookide (v.a õlle) jaemüügiteenused; Alkoholjookide (v.a õlle) hulgimüügiteenused; Reklaam; Kaubandusvahendus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Liikkeenjohto; Yrityshallinto; Alkoholijuomiin (paitsi olueen) liittyvät vähittäismyyntipalvelut; Alkoholijuomiin (paitsi olueen) liittyvät tukkumyyntipalvelut; Mainonta; Kauppaliiketoiminnan välitys kolmansien osapuolten lukuun.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de gestion commerciale; Administration commerciale; Services de vente au détail concernant les boissons alcoolisées (excepté la bière); Services de vente en gros concernant les boissons alcoolisées (excepté la bière); Publicité; Médiation d'opérations commerciales pour des tiers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Poslovno upravljanje; Upravljanje poduzećima; Maloprodajne usluge vezane uz alkoholna pića (osim piva); Veleprodajne usluge vezane uz alkoholna pića (osim piva); Oglašavanje; Posredovanje u trgovinskim poslovima za treće osobe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Üzleti menedzsment; Üzleti adminisztráció; Alkoholtartalmú italokkal kapcsolatos kiskereskedelmi szolgáltatások (a sör kivételével); Alkoholtartalmú italokkal kapcsolatos nagykereskedelmi szolgáltatások (a sör kivételével); Hirdetési- és reklámszolgáltatások; Kereskedelmi üzletek közvetítése.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Gestione aziendale; Amministrazione commerciale; Servizi al dettaglio in relazione a bevande alcoliche (tranne la birra); Servizi all'ingrosso in relazione a bevande alcoliche (tranne la birra); Pubblicità; Mediazione di affari commerciali per conto terzi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Verslo vadyba; Verslo tvarkyba; Mažmeninė prekyba alkoholiniais gėrimais (išskyrus alų); Didmeninė prekyba svaigiaisiais gėrimais (išskyrus alų); Reklama; Prekybos verslo tarpininkavimas trečiosioms šalims.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Uzņēmējdarbības vadības pakalpojumi; Uzņēmumu pārvaldīšana; Mazumtirdzniecības pakalpojumi saistībā ar alkoholiskiem dzērieniem (izņemot alu); Vairumtirdzniecības pakalpojumi saistībā ar alkoholiskiem dzērieniem (izņemot alu); Reklāma; Tirdzniecības darījumu starpniecība trešajām personām.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Il-ġestjoni ta' negozju; Amministrazzjoni ta' negozju; Servizzi ta' bejgħ bl-imnut fir-rigward ta' xarbiet alkoħoliċi (minbarra birra); Servizzi ta' bejgħ bl-ingrossa fir-rigward ta' xarbiet alkoħoliċi (minbarra birra); Reklamar; Medjazzjoni ta' negozju tal-kummerċ għal terzi persuni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diensten op het gebied van bedrijfsvoering; Zakelijke administratie; Detailhandelsdiensten op het gebied van alcoholhoudende dranken (met uitzondering van bier); Groothandelsdiensten op het gebied van alcoholhoudende dranken (met uitzondering van bier); Publiciteit; Bemiddeling bij handelszaken voor derden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Zarządzanie działalnością gospodarczą; Administrowanie działalnością gospodarczą; Usługi sprzedaży detalicznej w związku z napojami alkoholowymi (z wyjątkiem piwa); Usługi sprzedaży hurtowej w związku z napojami alkoholowymi (z wyjątkiem piwa); Reklama; Pośrednictwo w działalności handlowej dla osób trzecich.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Gestão de empresas; Administração de empresas; Serviços retalhistas relacionados com bebidas alcoólicas (exceto cerveja); Serviços grossistas relacionados com bebidas alcoólicas (exceto cerveja); Publicidade; Mediação de negócios comerciais para terceiros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Administrare de afaceri; Administrarea afacerilor; Servicii de vânzare cu amănuntul în legătură cu băuturi alcoolice (cu excepția berii); Servicii de vânzare cu ridicata în legătură cu băuturi alcoolice (cu excepția berii); Publicitate; Intermediere de afaceri comerciale pentru terți.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Obchodný manažment; Obchodná administratíva; Maloobchodné služby s alkoholickými nápojmi (okrem piva); Veľkoobchodné služby s alkoholickými nápojmi (okrem piva); Reklama; Sprostredkovanie obchodovania pre tretie osoby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Poslovno upravljanje; Poslovna administracija; Storitve prodaje na drobno v zvezi z alkoholnimi pijačami (razen piva); Storitve prodaje na debelo v zvezi z alkoholnimi pijačami (razen piva); Oglaševanje in oglaševalske storitve; Posredovanje trgovskih poslov za tretje osebe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Företagsledning; Företagsadministration; Återförsäljning avseende alkoholhaltiga drycker (förutom öl); Grosshandel avseende alkoholhaltiga drycker (förutom öl); Reklam; Förmedling av handelsaffärer för tredje man.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/079</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>408164</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>47479</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

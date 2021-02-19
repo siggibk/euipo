@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:52</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063945-0007</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-29</ReceivingOfficeDate>
+<DesignIdentifier>001063945-0007</DesignIdentifier>
+<ApplicationNumber>001063945</ApplicationNumber>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-29</ApplicationDate>
+<RegistrationDate>2008-12-29</RegistrationDate>
+<PublicationDate>2009-01-30</PublicationDate>
+<ApplicationReference>Mu2115</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-29</ExpiryDate>
+<EffectiveDate>2008-12-29</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061767042</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063945_0007/001063945_0007_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061767043</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063945_0007/001063945_0007_2.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Продукти за вана</IndicationProduct>
+       <IndicationProduct languageCode="bg">Сапуни</IndicationProduct>
+       <IndicationProduct languageCode="cs">Mýdla</IndicationProduct>
+       <IndicationProduct languageCode="cs">Přísady do koupele</IndicationProduct>
+       <IndicationProduct languageCode="da">Badepræparater</IndicationProduct>
+       <IndicationProduct languageCode="da">Sæbe</IndicationProduct>
+       <IndicationProduct languageCode="de">Badezusätze</IndicationProduct>
+       <IndicationProduct languageCode="de">Seifen</IndicationProduct>
+       <IndicationProduct languageCode="el">Προϊόντα μπάνιου</IndicationProduct>
+       <IndicationProduct languageCode="el">Σαπούνια</IndicationProduct>
+       <IndicationProduct languageCode="en">Bath preparations</IndicationProduct>
+       <IndicationProduct languageCode="en">Soap</IndicationProduct>
+       <IndicationProduct languageCode="es">Jabón</IndicationProduct>
+       <IndicationProduct languageCode="es">Productos para el baño</IndicationProduct>
+       <IndicationProduct languageCode="et">Seebid</IndicationProduct>
+       <IndicationProduct languageCode="et">Vannilisandid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Kylpyvalmisteet</IndicationProduct>
+       <IndicationProduct languageCode="fi">Saippua</IndicationProduct>
+       <IndicationProduct languageCode="fr">Savons</IndicationProduct>
+       <IndicationProduct languageCode="fr">Produits pour le bain</IndicationProduct>
+       <IndicationProduct languageCode="hu">Szappanok</IndicationProduct>
+       <IndicationProduct languageCode="hu">fürdő készítmények</IndicationProduct>
+       <IndicationProduct languageCode="it">Saponette</IndicationProduct>
+       <IndicationProduct languageCode="it">Prodotti per il bagno</IndicationProduct>
+       <IndicationProduct languageCode="lt">Muilas</IndicationProduct>
+       <IndicationProduct languageCode="lt">Vonios priedai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Ziepes</IndicationProduct>
+       <IndicationProduct languageCode="lv">vannas piedevas</IndicationProduct>
+       <IndicationProduct languageCode="mt">Prodotti għall-banju</IndicationProduct>
+       <IndicationProduct languageCode="mt">Sapun</IndicationProduct>
+       <IndicationProduct languageCode="nl">Zepen</IndicationProduct>
+       <IndicationProduct languageCode="nl">Badpreparaten</IndicationProduct>
+       <IndicationProduct languageCode="pl">Mydło</IndicationProduct>
+       <IndicationProduct languageCode="pl">Preparaty do kąpieli</IndicationProduct>
+       <IndicationProduct languageCode="pt">Produtos para o banho</IndicationProduct>
+       <IndicationProduct languageCode="pt">Sabões</IndicationProduct>
+       <IndicationProduct languageCode="ro">Produse pentru baie</IndicationProduct>
+       <IndicationProduct languageCode="ro">Săpun</IndicationProduct>
+       <IndicationProduct languageCode="sk">Prísady do kúpeľa</IndicationProduct>
+       <IndicationProduct languageCode="sk">Mydlo</IndicationProduct>
+       <IndicationProduct languageCode="sl">Milo</IndicationProduct>
+       <IndicationProduct languageCode="sl">proizvodi za kopeli</IndicationProduct>
+       <IndicationProduct languageCode="sv">Tvål</IndicationProduct>
+       <IndicationProduct languageCode="sv">Badpreparat</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>28.02</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/020</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-30</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325900</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2011/293</PublicationIdentifier>
+        <PublicationSequenceNumber>698119</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2011-12-23</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2012/156</PublicationIdentifier>
+        <PublicationSequenceNumber>838220</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2012-08-16</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/069</PublicationIdentifier>
+        <PublicationSequenceNumber>966882</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2013-04-12</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>18181</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>005417351</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>698119</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2011-12-23</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006053163</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>838220</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2012-08-16</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006845402</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>966882</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-04-12</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

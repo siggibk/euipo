@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-29T09:52:45</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224203</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224203</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>WhaleFall</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Обувки; Обувки; Облекло; Шапки и принадлежности за глава; Каскети, кепета, шапки; Физкултурни униформи.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Boty; Obuv; Oděvy; Pokrývky hlavy; Čepice; Atletické úbory.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Sko; Fodtøj; Beklædningsgenstande; Hattemagervarer; Huer; Atletikdragter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schuhe [Halbschuhe]; Schuhwaren; Bekleidungsstücke; Hüte; Mützen; Mannschaftssportbekleidung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υποδήματα· Υποδήματα· Ενδύματα· Είδη πιλοποιίας· Μπαρέτες[καλύματα κεφαλής]· Τύποι ένδυσης διαφόρων αθλημάτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Shoes; Footwear; Clothing; Hats; Caps; Athletic uniforms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Zapatos; Calzado; Prendas de vestir; Sombreros; Gorros; Uniformes de deporte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kingad; Jalatsid; Rõivad; Kübarad, vormimütsid; Nokkmütsid; Spordirõivad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Jalkineet; Jalkineet; Vaatteet; Päähineet; Lakit [päähineet]; Urheiluasut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Souliers; Chaussures; Vêtements; Chapeaux; Bonnets; Tenues d'athlétisme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Obuća; Obuća; Odjeća; Pokrivala za glavu; Ženske kape; Sportske uniforme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Lábbelik; Lábbelik; Ruházati cikkek; Kalapáruk; Sapkák; Sportruhák és -mezek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Scarpe; Calzature; Abbigliamento; Cappelli; Berretti essendo copricapo; Vestiti da atletica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Avalynė; Apavas; Drabužiai, apranga; Galvos apdangalai; Kepurės; Lengvaatlečių uniformos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kurpes; Apavi; Apģērbi; Cepures; Žokejcepures; Sporta uniformas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xedd is-saqajn; Xedd is-saqajn; Ilbies; Xedd ir-ras; Brieret [xedd tar-ras]; Uniformijiet tal-atletika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Schoenen; Schoeisel; Kleding; Hoofddeksels; Mutsen; Atletiekpakken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Obuwie; Obuwie; Odzież; Nakrycia głowy; Czapki [nakrycia głowy]; Stroje sportowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Sapatos; Calçado; Vestuário; Chapéus; Bonés; Uniformes desportivos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Articole de încălțăminte; Articole de încălțăminte; Articole de îmbrăcăminte; Articole pentru acoperirea capului; Șepci [articole de îmbrăcăminte]; Echipament sportiv.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Topánky; Obuv; Odevy; Pokrývky hlavy; Čiapky; Športový úbor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Obutev; Obutev; Oblačila; Pokrivala; Kape [pokrivala]; Oblačila za šport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Skor; Fotbeklädnader; Kläder; Hattar; Mössor [huvudbonader]; Sportdräkter.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/141</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079128</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>26721</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

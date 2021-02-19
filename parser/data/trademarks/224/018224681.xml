@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-14T07:26:30</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224681</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224681</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="1">Application published</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-10-14</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ROSE</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Ориз.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Rýže.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Ris.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Reis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ρύζι.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Rice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Arroz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Riis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Riisi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Riz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Riža.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Rizs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Riso.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Ryžiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Rīsi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ross.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Rijst.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Ryż.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Arroz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Orez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Ryža.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Riž.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Ris.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<SeniorityDetails>
+<Seniority>
+<SeniorityCountryCode>BX</SeniorityCountryCode>
+<SeniorityApplicationNumber>00093508</SeniorityApplicationNumber>
+<SeniorityFilingDate>2010-05-06</SeniorityFilingDate>
+<SeniorityRegistrationNumber>0882522</SeniorityRegistrationNumber>
+<InternationalTradeMarkCode>EU</InternationalTradeMarkCode>
+<SeniorityPartialIndicator>false</SeniorityPartialIndicator>
+<SeniorityStatusCode>Refused</SeniorityStatusCode>
+</Seniority>
+</SeniorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/196</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-10-14</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1068743</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

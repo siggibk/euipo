@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-28T11:45:13</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229841</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229841</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-09-23</RegistrationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>PROGRESSA LEAN ACADEMY</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162503563</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229841/000162503563.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.01.03</CategoryCode>
+          <CategoryCode>26.01.22</CategoryCode>
+          <CategoryCode>26.01.24</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Обучение; Курсове за обучение (предоставяне); Организиране и управление на конгреси, конференции, беседи, семинари, симпозиуми и образователни курсове; Организиране на изложения и панаири с образователни и академични цели; Доставка на онлайн електронни публикации [без възможност да бъдат прехвърляни върху друг носител].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vzdělávání; Vzdělávací kurzy; Organizování a řízení kongresů, konferencí, kolokvií, seminářů, sympozií a vzdělávacích pracovních setkání; Organizování výstav a veletrhů pro vzdělávací a akademické účely; Provozování online elektronických publikací bez možnosti stažení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Undervisningsvirksomhed; Kursusvirksomhed; Arrangering og ledelse af kongresser, konferencer, kollokvier, seminarer, symposier og workshops; Organisering af udstillinger og messer med uddannelsesmæssigt og akademisk sigte; Tilvejebringelse af online elektroniske publikationer, ikke downloadable.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Ausbildung; Schulung; Organisation und Leitung von Kongressen, Seminaren, Symposien, Konferenzen, Kolloquien und Workshops (Ausbildung); Veranstaltung von Ausstellungen und Messen für Ausbildungs- und akademische Zwecke; Online Bereitstellen von elektronischen, nicht herunterladbaren Publikationen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Επιμόρφωση (επαγγελματική κατάρτιση)· Παροχή επιμορφωτικών μαθημάτων· Διοργάνωση και διεύθυνση συνεδρίων, συνελεύσεων, διαλέξεων, σεμιναρίων, συμποσίων και εργαστηρίων κατάρτισης· Διοργάνωση παρουσιάσεων και εκθέσεων για επιμορφωτικούς και ακαδημαϊκούς σκοπούς· Παροχή ηλεκτρονικών εκδόσεων on-line μη τηλεφορτώσιμων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Providing of training; Provision of training courses; Arranging and conducting of congresses, conferences, seminars, symposiums, colloquiums and training workshops; Organisation of exhibitions and fairs for training and educational purposes; Providing non-downloadable electronic publications from a global computer network or the Internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Formación; facilitación de cursos de formación; organización y dirección de conferencias, coloquios, congresos, seminarios, simposiums y talleres de formación; organización de exposiciones y ferias con fines de formación y académicos; suministro de publicaciones electrónicas en línea.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Väljaõpe; Koolituskursuste pakkumine; Kongresside, konverentside, kollokviumite, seminaride, sümpoosionide ja õpikodade korraldamine ning juhtimine; Näituste ja laatade korraldamine koolitus- ja akadeemilistel eesmärkidel; Elektronväljaannete pakkumine arvutivõrgus, v.a allalaaditavad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Koulutuksen järjestäminen; Koulutuskurssien tarjoaminen; Kongressien, seminaarien, symposiumien, konferenssien, kollokvioiden ja koulutustyöpajojen järjestäminen ja johtaminen; Näyttelyiden ja messujen järjestäminen koulutustarkoituksessa; Elektronisten julkaisujen (muiden kuin ladattavien) tarjoaminen online-periaatteella.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Formation; Offre de cours de formation; Organisation et conduite de congrès, séminaires, symposiums, conférences, colloques et ateliers de formation; Organisation d'exposition et de foires à des fins de formation et d'enseignement; Fourniture de publications électroniques non téléchargeables.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Stručno osposobljavanje; Pružanje tečajeva osposobljavanja; Organiziranje i vođenje kongresa, seminara, simpozija, konferencija, sastanaka i radionica za obuku; Organiziranje izložbi i sajmova za obrazovne i akademske potrebe; Pružanje online elektroničkih publikacija [nisu za preuzimanje].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szakmai képzés; Tanfolyamok, kurzusok biztosítása; Kongresszusok, konferenciák, kollokviumok, szemináriumok, szimpóziumok és alkotóműhelyek szervezése és lebonyolítása; Képzési és oktatási célú kiállítások és vásárok szervezése; On-line elérhető elektronikus publikációk, nem letölthetők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Formazione; Offerta di corsi di formazione; Organizzazione e direzione di congressi, conferenze, colloqui, seminari, convegni e laboratori di formazione; Organizzazione di mostre e fiere a scopo formativo e accademico; Fornitura di pubblicazioni elettroniche non scaricabili da una rete informatica globale o internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mokymas; Mokymo kursų rengimas; Kongresų, konferencijų, pašnekesių, seminarų, simpoziumų ir lavinimo seminarų organizavimas ir vedimas; Parodų ir mugių organizavimas švietimo ir mokslo reikmėms; Elektroninių publikacijų tiesioginis pateikimas per kompiuterių tinklą (ne parsisiunčiamųjų).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apmācība; Apmācības kursi; Kongresu, konferenču, kolokviju, semināru, simpoziju un apmācības darbsemināru organizēšana un vadīšana; Gadatirgu un izstāžu organizēšana mācību un akadēmiskām vajadzībām; Nelejupielādējamu elektronisku publikāciju nodrošināšana tiešsaistē.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Provvediment ta' taħriġ; Il-provvista ta' korsijiet tat-taħriġ; Organizzazzjoni u tmexxija ta' kungressi, konferenzi, seminars, simpożji, intervisti u workshops ta' taħriġ; Organizzazzjoni ta' wirjiet u fieri għal skopijiet ta' taħriġ u akkademiċi; Provvista ta' pubblikazzjonijiet elettroniċi (li ma jistgħux jitniżżlu mill-internet).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Opleiding; Instructiecursussen (Het geven van -); Het organiseren en houden van congressen, conferenties, colloquia, seminars, symposia en workshops; Organisatie van tentoonstellingen en beurzen voor educatieve en academische doeleinden; Elektronische publicaties (niet downloadbaar) ter beschikking stellen van -.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kształcenie; Usługi w zakresie zapewniania kursów szkoleniowych; Organizowanie i prowadzenie sympozjów, konferencji, zjazdów, seminariów, warsztatów szkoleniowych i kongresów; Organizowanie wystaw i targów w celach szkoleniowych i akademickich; Udostępnianie publikacji elektronicznych z globalnej sieci komputerowej lub Internetu, nie do pobrania.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Formação; Fornecimento de cursos de formação; Organização e direcção de congressos, conferências, colóquios, seminários, simpósios e gabinetes de formação; Organização de exposições e feiras com fins de formação e académicos; Disponibilização de publicações electrónicas não descarregáveis na internet ou em uma rede global de comunicação.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Instruire; Furnizare de cursuri de instruire; Organizarea si conducerea de congrese, conferinte, colocvii, seminarii, simpozioane si ateliere de formare; Organizare de expoziții și târguri în scopuri educaționale și academice; Furnizare de publicații electronice dintr-o rețea globală de calculatoare sau de pe internet, nedescărcabile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zabezpečovanie výcvikov, kurzov a školení; Vzdelávacie kurzy; Organizovanie a vedenie sympózií, konferencií, odborných diskusií, semináre, sympózií a tvorivých dielní a konferencií; Organizovanie výstav a veľtrhov na vzdelávacie a školiace účely; Poskytovanie elektronických publikácií prostredníctvom globálnej počítačovej siete alebo internetu bez možnosti prevzatia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pouk; Nudenje tečajev usposabljanja; Organizacija in vodenje kongresov, konferenc, kolokvijev, seminarjev, simpozijev in delavnic za usposabljanje; Organiziranje razstav in sejmov za izobraževalne in akademske namene; Nudenje nenaložljivih elektronskih publikacij z globalnega računalniškega omrežja ali interneta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Anordnande av handledning/instruktion; Anordnande av handledning/instruktion och kurser; Anordnande och genomförande av kongresser, seminarier, symposier, konferenser, kollokvier och handledningskurser; Anordnande av utställningar och mässor för utbildnings- och akademiska ändamål; Tillhandahållande av elektroniska publikationer via ett globalt datornät eller internet, inte nedladdningsbara.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/112</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/184</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-25</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>981836</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>25174</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017780308</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>25174</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-05-01</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

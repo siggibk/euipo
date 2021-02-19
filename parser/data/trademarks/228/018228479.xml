@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-21T09:53:00</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228479</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228479</ApplicationNumber>
+<ApplicationDate>2020-04-22</ApplicationDate>
+<RegistrationDate>2020-10-20</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-22</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-10-21</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>PROCLEIX ULTRIO SARS-CoV-2</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>1</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Диагностични реагенти и нуклеинови киселини за научна и проучвателна употреба.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Diagnostická činidla a nukleové kyseliny pro vědecké a výzkumné účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Diagnostiske reagenser og nukleinsyrer til videnskabelige formål og til forskning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Diagnostische Reagenzien und Nukleinsäuren für wissenschaftliche und Forschungszwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διαγνωστικά αντιδραστήρια και νουκλεϊκά οξέα για επιστημονική και ερευνητική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Diagnostic reagents, nucleic acids, all for scientific and research use.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Reactivos de diagnóstico, ácidos nucleicos, todos para uso científico y de investigación.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Diagnostilised reagendid ja nukleiinhapped teadusotstarbeliseks ning uurimistegevuses kasutamiseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Diagnostiset reagenssit ja nukleiinihapot tieteelliseen ja tutkimuskäyttöön.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Réactifs de diagnostic et acides nucléiques destinés à la science et à la recherche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dijagnostički reagensi i nukleinske kiseline za znanstvene i istraživačke potrebe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Diagnosztikai reagensek és nukleinsavak tudományos és kutatási használatra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Reagenti diagnostici e acidi nucleici per uso scientifico e la ricerca.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Diagnostikos reagentai ir nukleorūgštys mokslinėms ir mokslo tyrimų reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Diagnostikas reaģenti un nukleīnskābes, kas ir paredzētas zinātniskiem un pētnieciskiem nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Reaġenti dijanjostiċi u aċidi nukleiċi għall-użu xjentifiku u ta' riċerka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diagnostische reagentia en nucleïnezuren voor wetenschappelijke en onderzoeksdoeleinden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odczynniki diagnostyczne i kwasy nukleinowe do użytku naukowego i badawczego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Reagentes de diagnóstico e ácidos nucleicos para utilização científica e em investigação.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Reactivi de diagnosticare şi acizi nucleici de uz ştiinţific sau pentru cercetare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Diagnostické činidlá a nukleové kyseliny na vedecké a výskumné účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Diagnostični reagenti in nukleinske kisline za znanstveno in raziskovalno uporabo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Diagnostiska reagenser och nukleinsyra för vetenskapligt och forskningsrelaterat bruk.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Реактиви за диагностика, нуклеинови киселини, всички за медицинска и диагностична употреба.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Diagnostická činidla, nukleové kyseliny, to vše pro účely diagnostiky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Diagnostiske reagenser, nukleinsyrer, alt til medicinsk diagnosticering.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Diagnostische Reagenzien, Nukleinsäuren, alle für medizinisch-diagnostische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διαγνωστικά αντιδραστήρια, νουκλεϊκά οξέα, στο σύνολό τους για ιατρική διαγνωστική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Diagnostic reagents, nucleic acids, all for medical diagnostic use.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Reactivos de diagnóstico, ácidos nucleicos, todos para uso de diagnóstico médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Diagnostilised reaktiivid, nukleiinhapped, kõik kasutuseks meditsiinilises diagnostikas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Diagnostiset reagenssit, nukleiinihapot, kaikki lääketieteelliseen diagnostiikkakäyttöön.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Réactifs diagnostiques, acides nucléiques, tous à usage de diagnostic médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dijagnostički reagensi, nukleinske kiseline, sve za potrebe medicinske dijagnostike.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Diagnosztikai reagensek, nukleinsavak, mind orvosi diagnosztikai felhasználásra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Reagenti diagnostici, acidi nucleici, tutti per uso diagnostico medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Diagnostiniai reagentai, nukleorūgštys, viskas skirta medicinos diagnostikai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Diagnostikas reaģenti, nukleīnskābes, viss izmantošanai medicīnā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Reaġenti dijanjostiċi, aċidi nuklejiċi, kollha għall-użu dijanjostiku mediku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diagnostische reagentia, nucleïnezuren, allemaal voor medisch-diagnostisch gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odczynniki diagnostyczne, kwasy nukleinowe, wszystkie do użytku w diagnostyce medycznej.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Reagentes de diagnóstico, ácidos nucleicos, todos para uso em diagnóstico médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Reactivi de diagnosticare, acizi nucleici, toți de uz medical de diagnostic.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Diagnostické činidlá, nukleové kyseliny, všetky sú určené na lekárske diagnostické účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Diagnostični reagenti, nukleinske kisline, vse za medicinsko diagnostično uporabo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Diagnostiska reagenser, nukleinsyror, allt för medicinskt diagnostiskt bruk.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Анализатори за медицинска диагностика.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Analyzátory pro lékařskou diagnostiku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Analyseenheder til medicinsk diagnose.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Analysegeräte für medizinische Diagnostik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συσκευές αναλύσεων για ιατρικές διαγνώσεις.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Medical diagnostic analyzer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Dispositivos de análisis para el diagnóstico médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiinilise diagnoosi analüsaatorid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Analysaattorit lääketieteelliseen diagnosointiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Analyseurs pour diagnostic médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Analizatori za medicinsku dijagnostiku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Elemző eszközök orvosi diagnózishoz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Analizzatori per diagnostica medica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Medicinos diagnostikos analizatoriai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medicīniskās diagnostikas analīžu veikšanai paredzētas iekārtas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Analizzaturi għal dijanjożi medika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Analysatoren voor medische diagnose.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Analizatory do diagnostyki medycznej.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Analisadores para diagnóstico médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Analizoare pentru diagnosticare medicală.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lekárske diagnostické analyzátory.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Analizatorji za medicinsko diagnostiko.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Medicinsk diagnostisk analysutrustning.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за диагностични тестове.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Diagnostické zkoušky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Diagnoseforsøg.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Durchführung diagnostischer Tests.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες διαγνωστικών εξετάσεων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Diagnostic testing services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de pruebas de diagnóstico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Diagnostilised testimisteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Diagnostiset testauspalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de tests diagnostiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge dijagnostičkog testiranja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Diagnosztikai tesztelési szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Analisi diagnostiche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Diagnostinių tyrimų paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Diagnostikas pārbaudes pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' eżamijiet dijanjostiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diagnostische tests.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi testowania diagnostycznego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de testes de diagnóstico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de testare in vederea diagnosticarii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Diagnostické testovacie služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve diagnostičnih preskusov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Diagnostiska provningstjänster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/129</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-07-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/201</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-10-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1044004</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>13007</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

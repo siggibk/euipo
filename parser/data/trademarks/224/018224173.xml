@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-03T12:28:02</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224173</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224173</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-30</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-03</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>adtron</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162203552</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224173/000162203552.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>01.15.03</CategoryCode>
+          <CategoryCode>26.01.03</CategoryCode>
+          <CategoryCode>29.01.02</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Рекламни и маркетингови консултации; Консултантски услуги в областта на маркетинга по интернет; Онлайн рекламни и маркетингови услуги; Дизайн на рекламни материали.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Konzultace v oblasti reklamy a marketingu; Poradenské služby v oblasti internetového marketingu; Online reklamní a marketingové služby; Návrh reklamních materiálů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Rådgivning vedrørende reklame- og annoncevirksomhed samt marketing; Konsulenttjenester inden for markedsføring via internettet; Online annonce- og reklamevirksomhed samt markedsføring; Design af reklamemateriale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Werbe- und Marketingberatung; Beratungsdienste im Bereich Online-Marketing; Online-Werbe- und -Marketingdienstleistungen; Entwurf von Werbemitteln.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συμβουλευτική σε θέματα διαφήμισης και μάρκετινγκ· Υπηρεσίες παροχής συμβουλών για τη διαδικτυακή προώθηση προϊόντων ή υπηρεσιών· Ηλεκτρονικές υπηρεσίες διαφήμισης και εμπορικής προώθησης· Σχεδιασμός διαφημιστικών υλικών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Advertising and marketing consultancy; Consulting services in the field of Internet marketing; On-line advertising and marketing services; Design of advertising materials.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Consultoría en publicidad y marketing; Servicios de consultoría en el ámbito del marketing por Internet; Publicidad y marketing en línea; Diseño de material publicitario.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Reklaami- ja turundusalane nõustamine; Internetiturunduse konsultatsiooniteenused; Onlain-reklaami- ja turundusteenused; Reklaammaterjalide väljatöötamine ja kujundamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Mainontaan ja markkinointiin liittyvä neuvonta; Internetmarkkinointiin liittyvät konsultointipalvelut; Online-mainonta- ja markkinointipalvelut; Mainosmateriaalin suunnittelu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Conseil en matière de publicité et de marketing; Conseils en e-marketing; Services de publicité et marketing en ligne; Conception de matériels publicitaires.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Savjetovanje za oglašavanje i marketing; Konzultantske usluge u području marketinga na internetu; Usluge mrežnog oglašavanja i marketinga; Dizajn reklamnog materijala.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Reklám- és marketing konzultáció; Internetes marketinggel kapcsolatos tanácsadói szolgáltatások; Online reklám- és marketingszolgáltatások; Reklámeszközök tervezése és formatervezése.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Consulenza in materia di pubblicità e di marketing; Servizi di consulenza in materia di marketing su Internet; Servizi pubblicitari e di marketing online; Progettazione di materiale pubblicitario.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Reklamos ir rinkodaros konsultacijos; Internetinės rinkodaros konsultacijos; Internetinės reklamos ir rinkodaros paslaugos; Reklaminės medžiagos kūrimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Reklāmas un mārketinga konsultācijas; Konsultāciju pakalpojumi interneta tirgvedības jomā; Tiešsaistes reklāmas un tirgvedības pakalpojumi; Reklāmas materiālu izstrāde.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Konsulenza dwar reklamar u kummerċjalizzazzjoni; Servizzi ta’ konsulenza fil-qasam tal-kummerċjalizzazzjoni bl-Internet; Servizzi ta' reklamar u marketing onlajn; Disinn ta' materjali ta' reklamar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Raadgeving op het gebied van reclame en marketing; Consultancy op het gebied van internetmarketing; Onlinereclame en -marketing; Ontwerp van reclamemateriaal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Doradztwo reklamowe i marketingowe; Usługi konsultingowe w zakresie marketingu internetowego; Usługi reklamowe i marketingowe online; Projektowanie materiałów reklamowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Consultoria em publicidade e marketing; Serviços de consultoria na área de marketing de Internet; Serviços de publicidade e marketing em linha; Conceção de materiais publicitários.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Consultanță în publicitate și marketing; Servicii de consultanță în domeniul marketingului pe Internet; Servicii de publicitate și marketing online; Concepere de material publicitar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Reklamné a marketingové poradenstvo; Poradenské služby v oblasti internetového marketingu; On-line reklamné a marketingové služby; Navrhovanie reklamných materiálov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Svetovanje v zvezi z oglaševanjem in trženjem; Svetovalne storitve na področju spletnega trženja; Spletne oglaševalske in marketinške storitve; Oblikovanje oglaševalskega gradiva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Konsultationer avseende reklam och marknadsföring; Konsulttjänster inom området internetmarknadsföring; Reklam och marknadsföring online; Design av reklammaterial.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хостинг услуги и софтуер като услуга и отдаване под наем на софтуер.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Webhostingové služby a software jako služba a pronájem softwaru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Hostingtjenesteydelser og software as a service og udlejning af software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Hosting-Dienste, Software as a Service [SaaS] und Vermietung von Software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες φιλοξενίας και λογισμικό ως μία υπηρεσία και ενοικίαση λογισμικού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Hosting services, software as a service, and rental of software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de alojamientos de sitios web y alquiler de software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Hostimine ja pilveteenused (SaaS) ning tarkvara rent.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Verkkoisännöintipalvelut ja verkkosovelluspalvelut (SaaS) sekä ohjelmistojen vuokraus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services d'hébergement et logiciel en tant que service, et location de logiciel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge hostinga i softver kao usluga te iznajmljivanje softvera.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Webtárhely és szoftver szolgáltatások, szoftver bérlés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di hosting e software come servizio e noleggio di software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Prieglobos (talpinimo) paslaugos ir programinė įranga kaip paslauga bei programinės įrangos nuoma.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Datņu izvietošanas un uzturēšanas pakalpojumi, arī programmatūras izvietošana un uzturēšana mākonī un programmatūras iznomāšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' hosting u softwer bħala servizz u kiri ta' softwer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Hostingdiensten en ter beschikking stellen van software (Saas) en verhuur van software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Hosting, oprogramowanie jako usługa oraz wypożyczanie oprogramowania komputerowego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de alojamento de sites de Internet e software como serviço e aluguer de software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de găzduire, software ca și serviciu și închiriere de software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Hosťovanie na internetových stránkach, softvérové služby, prenájom softvéru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve gostovanja in nudenje programske opreme preko spleta ter dajanje programske opreme v najem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Hostingtjänster, molntjänster (SaaS) och uthyrning av mjukvara.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/075</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/144</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-31</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079058</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>46668</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

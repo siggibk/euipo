@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-29T10:09:14</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229043</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229043</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<ApplicationLanguageCode>pt</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="6">Application under examination</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-05-19</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>VISIT DARK SKIES</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="pt">PUBLICIDADE PARA PROJECÇÃO E SUSTENTABILIDADE DA RESERVA DARK SKY; GESTÃO EMPRESARIAL DA RESERVA DARK SKY; ADMINISTRAÇÃO EMPRESARIAL DA RESERVA DARK SKY.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>39</ClassNumber>
+   <GoodsServicesDescription languageCode="pt">ORGANIZAÇÃO DE VIAGENS; SERVIÇOS DE VISITAS TURÍSTICAS NO ESPAÇO RURAL; ORGANIZAÇÃO DE PASSEIOS TURÍSTICOS EM MEIO RURAL; ORGANIZAÇÃO DE CIRCUITOS TURÍSTICOS; TRANSPORTE DE MERCADORIAS; EMBALAGEM DE MERCADORIAS; ENTREPOSTO DE MERCADORIAS.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="pt">EDUCAÇÃO, FORMAÇÃO, DIVERTIMENTO, ACTIVIDADES DESPORTIVAS, CULTURAIS E CIENTÍFICAS PARA PROJECÇÃO E SUSTENTABILIDADE DA RESERVA DARK SKY; SERVIÇOS DE FORMAÇÃO, ENSINO E EDUCAÇÃO NA ÁREA DA ASTRONOMIA; PUBLICAÇÃO DE TEXTOS DA RESERVA DARK SKY, COM EXCEPÇÃO DOS TEXTOS PUBLICITÁRIOS; PUBLICAÇÃO ONLINE DE GUIAS, LIVROS E REVISTAS ELECTRÓNICOS DA RESERVA DARK SKY.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>43</ClassNumber>
+   <GoodsServicesDescription languageCode="pt">SERVIÇOS DE HOTELARIA; SERVIÇOS DE RESTAURAÇÃO; SERVIÇOS DE CAMPISMO; ALOJAMENTO EM CAMPOS DE FÉRIAS; ALOJAMENTO TEMPORÁRIO; SERVIÇOS DE RESTAURAÇÃO E ALOJAMENTO TEMPORÁRIO EM TURISMO RURAL.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082030</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>16408</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

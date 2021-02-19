@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:34:29</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228807</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228807</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ATFKZADV</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Мишка (компютърна периферия); Бебефони; Кутии за високоговорители; Телескопи; Електронни везни за персонална употреба; Литиеви батерии; Слушалки; Очиларски изделия за употреба в спорта; Микрофони; Оптични фенери.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Myši [počítačová periferní zařízení]; Chůvičky; Reproduktorové skříně; Teleskopy; Elektronické váhy pro osobní použití; Lithiové baterie; Sluchátka; Optické zboží pro sportovní účely; Mikrofony; Optické lampy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Mus [perifere enheder til computere]; Babyalarmer; Højttalerkabinetter; Teleskoper; Elektroniske vægte til personlig brug; Litiumbatterier; Hovedtelefoner; Øjenbeskyttelse til brug ved sportsudøvelse; Mikrofoner; Optiske lanterner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Mäuse [Computerzubehör]; Babyüberwachungsgeräte; Lautsprecherboxen; Teleskope; Elektronische Personenwaagen; Lithiumbatterien; Kopfhörer; Schutzbrillen für den Sport; Mikrofone; Optische Lampen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ποντίκια [εξοπλισμός πληροφορικής]· Μέσα παρακολούθησης βρεφών· Κουτιά ηχείων· Τηλεσκόπια· Ηλεκτρονικοί ζυγοί μπάνιου· Μπαταρίες λιθίου· Ακουστικά κεφαλής με μικρόφωνο· Αθλητικά οπτικά είδη· Μικρόφωνα· Οπτικοί λαμπτήρες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Mouse [computer peripheral]; baby monitors; cabinets for loudspeakers; telescopes; electronic weighing scales for personal use; lithium batteries; headsets; sports eyewear; microphones; optical lamps.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Ratones [periféricos informáticos]; Dispositivos de audio y vídeo para la vigilancia de bebés; Cajas de altavoces; Telescopios; Básculas electrónicas para uso personal; Pilas y baterías de litio; Cascos con micrófono; Artículos de óptica para deporte; Micrófonos; Lámparas ópticas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Hiired [arvuti välisseadmed]; Beebimonitorid; Kõlarikastid; Teleskoobid; Elektroonilised kaalud isiklikuks kasutamiseks; Liitiumakud; Mikrofoniga kõrvaklapid; Sportimisel kasutatavad kaitseprillid; Mikrofonid; Optilised lambid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Hiiri [tietokoneen oheislaite]; Vauvamonitorit; Kaiutinkotelot; Kaukoputket; Elektroniset punnitusvaa'at henkilökäyttöön; Litiumparistot; Kuulokkeet; Suojalasit urheilemiseen; Mikrofonit; Optiset lyhdyt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Souris [périphérique d'ordinateur]; Dispositifs audio et vidéo pour la surveillance de bébés; Boîtiers de haut-parleurs; Télescopes; Balances électroniques à usage personnel; Piles au lithium; Casques d'écoute; Articles de lunetterie pour le sport; Microphones; Lampes optiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Miš [računalna oprema]; Monitori za bebe; Kućišta razglasa; Teleskopi; Elektroničke vage za osobnu upotrebu; Litijske baterije; Slušalice; Sportski optički artikli; Mikrofoni; Optičke svjetiljke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Egér [számítógép-periféria]; Bébiőrök; Hangszórószekrények, hangszóródobozok; Teleszkópok; Elektronikus mérlegek személyi használatra; Lítium akkumulátorok; Fejhallgatók; Szemvédő viselet sportoláshoz; Mikrofonok; Optikai lámpák.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Mouse [informatica]; Dispositivi audio e video per la sorveglianza dei neonati; Casse acustiche; Telescopi; Bilance elettroniche per uso personale; Batterie al litio; Cuffie per la musica; Articoli ottici per lo sport; Microfoni; Lampade ottiche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Pelės [kompiuterio išoriniai įtaisai]; Prietaisai kūdikiams stebėti; Garsiakalbių korpusai; Teleskopai; Elektroninės svarstyklės asmeninio naudojimo reikmėms; Ličio baterijos; Ausinės; Akių apsaugos priemonės sporto reikmėms; Mikrofonai; Optiniai žibintai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Peles (datoru perifērijas ierīces); Elektroniskas ierīces zīdaiņu uzraudzībai; Skandu korpusi; Teleskopi; Elektroniskie svari personīgiem nolūkiem; Litija baterijas; Radioaustiņas; Acu aizsargelementi sportistiem; Mikrofoni; Optisko šķiedru lampas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Maws [periferal tal-kompjuter]; Moniters tat-trabi; Kabinetti għall-amplifikaturi tal-ħoss; Teleskopji; Imwieżen elettroniċi għall-użu personali; Batteriji tal-litju; Kuffji; Lbies għall-protezzjoni tal-għajnejn waqt l-isport; Mikrofoni; Fanali ottiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Computermuizen; Babyfoons; Luidsprekerkasten; Telescopen; Elektronische weegschalen voor persoonlijk gebruik; Lithiumbatterijen; Hoofdtelefoons; Brillen voor de sport; Microfoons; Optische lampen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Myszy [sprzęt do przetwarzania danych]; Urządzenia do monitorowania niemowląt; Obudowy głośników; Teleskopy; Elektroniczne wagi do użytku osobistego; Baterie litowe; Słuchawki [zakładane na głowę]; Artykuły optyczne do uprawiania sportu; Mikrofony; Lampy optyczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Ratos [periféricos informáticos]; Dispositivos para vigilância de bebés; Caixas de altifalantes; Telescópios; Balanças eletrónicas para uso pessoal; Baterias de lítio; Auriculares; Artigos de ótica para desporto; Microfones; Lâmpadas óticas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Mouse [periferice de calculator]; Dispozitive de monitorizare a bebelușilor; Cutii pentru difuzoare; Telescoape; Cântare electronice pentru uz personal; Baterii cu litiu; Căști; Ochelari de protecție pentru sport; Microfoane; Lanterne optice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Myši (periférne zariadenia počítačov); Audiovizuálne prístroje na monitorovanie bábätiek; Reproduktorové skrinky; Teleskopy; Elektronické váhy na osobné účely; Lítiové batérie; Slúchadlá s mikrofónom; Športová očná optika; Mikrofóny; Optické lampy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Miška [računalniška periferna enota]; Otroške varuške; Ohišja zvočnikov; Teleskopi; Elektronske tehtnice za osebno uporabo; Litijeve baterije; Slušalke; Športna očala; Mikrofoni; Optične svetilke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Möss [datorutrustning]; Övervakningsapparater för spädbarn; Högtalarlådor; Teleskop; Elektroniska vågar för personligt bruk; Litiumbatterier; Headsets; Skyddsglasögon för sport; Mikrofoner; Optiska lampor.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/079</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>85806</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

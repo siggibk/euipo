@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-11-05T11:31:10</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063473-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063473-0001</DesignIdentifier>
+<ApplicationNumber>001063473</ApplicationNumber>
+<ApplicationLanguageCode>fi</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-03-25</PublicationDate>
+<ApplicationReference>19982EUTaK</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>true</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2018-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2019-11-01</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061781802</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063473_0001/001063473_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061781803</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063473_0001/001063473_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061781804</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063473_0001/001063473_0001_3.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Пружинни съединители</IndicationProduct>
+       <IndicationProduct languageCode="cs">Pružné svorky</IndicationProduct>
+       <IndicationProduct languageCode="da">Fjederstik</IndicationProduct>
+       <IndicationProduct languageCode="de">Federzugklemmen</IndicationProduct>
+       <IndicationProduct languageCode="el">Σύνδεσμοι καλωδίων</IndicationProduct>
+       <IndicationProduct languageCode="en">Spring connectors</IndicationProduct>
+       <IndicationProduct languageCode="es">Conectores de cables</IndicationProduct>
+       <IndicationProduct languageCode="et">Vedruliitmikud</IndicationProduct>
+       <IndicationProduct languageCode="fi">Jousiliittimet</IndicationProduct>
+       <IndicationProduct languageCode="fr">connecteurs à ressort</IndicationProduct>
+       <IndicationProduct languageCode="hu">Rugós konnektor</IndicationProduct>
+       <IndicationProduct languageCode="it">Morsetti con molla di trazione</IndicationProduct>
+       <IndicationProduct languageCode="lt">Spyruoklinės jungtys</IndicationProduct>
+       <IndicationProduct languageCode="lv">atsperspailes</IndicationProduct>
+       <IndicationProduct languageCode="mt">Konnekters f'forma ta' molla</IndicationProduct>
+       <IndicationProduct languageCode="nl">Veerconnectors</IndicationProduct>
+       <IndicationProduct languageCode="pl">Styczniki sprężynowe</IndicationProduct>
+       <IndicationProduct languageCode="pt">Conectores de cabos</IndicationProduct>
+       <IndicationProduct languageCode="ro">Conectoare cu resort</IndicationProduct>
+       <IndicationProduct languageCode="sk">Pružné svorky</IndicationProduct>
+       <IndicationProduct languageCode="sl">Vzmetne spojke</IndicationProduct>
+       <IndicationProduct languageCode="sv">Fjäderplintar</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>13.03</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PriorityDetails>
+       <Priority>
+        <PriorityCountryCode>FI</PriorityCountryCode>
+        <PriorityNumber>M20080157</PriorityNumber>
+        <PriorityDate>2008-09-17</PriorityDate>
+        <PriorityStatusCode>Claimed</PriorityStatusCode>
+       </Priority>
+      </PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/020</PublicationIdentifier>
+        <PublicationSection>A.2</PublicationSection>
+        <PublicationDate>2009-01-30</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/055</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-03-25</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/008</PublicationIdentifier>
+        <PublicationSequenceNumber>1136502</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2014-01-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2017/041</PublicationIdentifier>
+        <PublicationSequenceNumber>1938343</PublicationSequenceNumber>
+        <PublicationSection>B.2.2</PublicationSection>
+        <PublicationDate>2017-03-01</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2019/210</PublicationIdentifier>
+        <PublicationSequenceNumber>101483017</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2019-11-05</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>312179</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>13139</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>011689937</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1938343</PublicationSequenceNumber>
+           <PublicationSection>B.2.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2017-03-01</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006996304</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1136502</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-15</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T11:10:31</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225934</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225934</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-06</RegistrationDate>
+<ApplicationLanguageCode>hu</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Virtual Sim Story</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Софтуер за електронни игри за мобилни телефони; Софтуер за компютърни игри за използване на мобилни и клетъчни телефони. Всички горепосочени софтуерни програми са за симулационна ролева игра.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Software elektronických her do mobilních telefonů; Počítačový herní software pro použití v mobilních telefonech, přičemž všechen výše uvedený software je určen pro simulační hru na hraní rolí.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Software til elektroniske spil til mobiltelefoner; Software til computerspil til anvendelse med mobiltelefoner, idet alt førnævnt software er beregnet til et rollebaseret simulationsspil.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Elektronische Spielsoftware für Mobiltelefone; Computerspielsoftware zur Verwendung auf Mobil- und Funktelefonen, alle vorstehend genannte Software für ein Rollenspiel-Simulationsspiel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λογισμικό ηλεκτρονικών παιχνιδιών για χρήση σε κινητά τηλέφωνα· Λογισμικό παιχνιδιών ηλεκτρονικών υπολογιστών για χρήση σε κινητά και κυψελοειδή τηλέφωνα, το προαναφερόμενο λογισμικό στο σύνολό του προορίζεται για παιχνίδι προσομοίωσης μέσω υπόδυσης ρόλων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Electronic game software for mobile phones; Computer game software for use on mobile and cellular phones all of the aforesaid software being for a role-playing simulation game.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Software de juegos electrónicos para teléfonos móviles; Software de juegos informáticos para su uso en teléfonos móviles y celulares, todo el software mencionado está diseñado para juegos con simulación de roles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mobiiltelefonide elektronmängutarkvara; Mobiiltelefonides kasutatav arvutimängutarkvara, kõik eelnimetatud tarkvara rollimängude simulatsiooni jaoks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Elektroniikkapeliohjelmistot matkapuhelimiin; Tietokonepeliohjelmistot käytettäväksi matkapuhelimissa, kaikki edellä mainitut ohjelmistot on tarkoitettu roolipeleihin liittyville simulaatiopeleille.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Ludiciels électroniques pour téléphones portables; Logiciels de jeux informatiques pour téléphones portables et cellulaires, tous les logiciels précités étant destinés à des jeux de rôle de simulation.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Softver s elektronskim igrama za mobitele; Softver za računalne igre za korištenje na mobilnim telefonima, save navedeni softver namijenjen je za simulacijske igre igranja uloga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Elektronikus játékszoftverek mobiltelefonokhoz; Számítógépes játékszoftverek mobiltelefonokhoz és mobiltelefonokhoz való használatra. Az összes fent említett szoftver szerepjáték-szimulációs játékhoz készült.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Software di giochi elettronici per telefoni cellulari; Software per giochi da computer da utilizzare su telefoni cellulari, tutti i suddetti software in quanto destinati a giochi di ruolo e immedesimazione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mobiliųjų telefonų elektroninių žaidimų programinė įranga; Kompiuterinių žaidimų programinė įranga, skirta naudoti mobiliuosiuose ir koriniuose telefonuose, visos minėtos programinės įrangos yra skirtos vaidmenų žaidimų imitavimo žaidimams.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Elektronisko spēļu programmatūra mobilajiem tālruņiem; Datorspēļu programmatūra izmantošanai mobilajos un ciparu tālruņos, visa iepriekšminētā programmatūra ir paredzēta lomu spēles simulācijas spēlei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Softwer ta' logħob elettroniku għal mowbajls; Software tal-logħob tal-kompjuter għall-użu fuq mowbajls u telefowns ċellulari, is-software msemmi hawn qabel huwa għall-logħba tas-simulazzjoni ta' logħob tal-irwol.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Elektronische spelsoftware voor mobiele telefoons; Computerspelsoftware voor gebruik op mobiele en draagbare telefoons, alle voornoemde software voor simulatierollenspellen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oprogramowanie do gier elektronicznych do telefonów komórkowych; Oprogramowanie gier komputerowych do użycia na telefonach komórkowych i komórkowych, wyżej wymienione oprogramowanie do gry symulacyjnej polegającej na odgrywaniu ról.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Software de jogos eletrónicos para telemóveis; Software de jogos de computador para utilizar em telemóveis e telefones celulares, todo o software atrás referido destinado a um jogo de simulação para interpretação de personagens.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Software de jocuri electronice pentru telefoane mobile; Software-uri pentru jocuri de calculator destinate utilizării pe telefoane mobile și celulare, toate software-urile susmenționate fiind un soc de simulare prin interpretare de rol.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Softvér pre elektronické hry určené do mobilných telefónov; Počítačový herný softvér pre mobilné telefóny, všetky vyššie uvedené výrobky sú určené pre rolové simulačné hry.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Programska oprema za elektronske igre, za mobilne telefone; Programska oprema za računalniške igre za uporabo na mobilnih in celičnih telefonih, vsa navedena programska oprema je namenjena za simulacijsko igro z igranjem vlog.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Programvara för elektroniska spel för mobiltelefoner; Datorspelprogramvara för användning på mobila och mobiltelefoner ovannämnda programvara avsedd för ett rollspelssimuleringsspel.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/078</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/150</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>830290</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>28331</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-29T09:52:45</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018223369</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018223369</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>MONITOREAL</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162195589</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/223/018223369/000162195589.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.04.01</CategoryCode>
+          <CategoryCode>26.04.05</CategoryCode>
+          <CategoryCode>26.04.18</CategoryCode>
+          <CategoryCode>26.04.24</CategoryCode>
+          <CategoryCode>26.04.98</CategoryCode>
+          <CategoryCode>27.05.22</CategoryCode>
+          <CategoryCode>27.99.13</CategoryCode>
+          <CategoryCode>27.99.18</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Софтуер; Компютърен хардуер.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Počítačový software; Počítačový hardware.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Software; Computerhardware.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Software; Computerhardware.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λογισμικό· Υλικό ηλεκτρονικών υπολογιστών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Computer software; Computer hardware.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Software informático; Hardware.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Arvutitarkvara; Arvutiriistvara.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ohjelmistot; Tietokonelaitteistot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Logiciels pour ordinateurs; Matériel informatique.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Softver; Računalni hardver.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szoftverek; Számítógépes hardver.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Software; Computer hardware.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Programinė įranga; Kompiuterinė aparatinė įranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Datoru programmatūra; Datoraparatūra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Softwer; Ħardwer tal-kompjuter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Software; Computer hardware.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oprogramowanie; Sprzęt komputerowy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Software; Hardware informático.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Software; Hardware pentru calculator.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Softvér; Počítačový hardvér.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Programska oprema; Računalniška strojna oprema.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Datormjukvaror; Datorhårdvaror.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/141</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079040</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>61000</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

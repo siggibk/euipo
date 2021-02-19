@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T09:10:19</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224172</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224172</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Einhell E POWER X-CHANGE PICOBELLA</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162203468</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224172/000162203468.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.04.01</CategoryCode>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.08</CategoryCode>
+          <CategoryCode>26.04.22</CategoryCode>
+          <CategoryCode>26.04.24</CategoryCode>
+          <CategoryCode>26.04.98</CategoryCode>
+          <CategoryCode>26.04.99</CategoryCode>
+          <CategoryCode>26.11.01</CategoryCode>
+          <CategoryCode>26.11.08</CategoryCode>
+          <CategoryCode>29.01.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>7</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Машини и апарати за почистване [електрически].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Elektrické stroje a zařízení na čištění.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Elektriske maskiner og apparater til rengøring.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Elektrische Reinigungsmaschinen und -geräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μηχανές και συσκευές καθαρισμού, ηλεκτρικές.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Machines and apparatus for cleaning, electric.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Máquinas y aparatos de limpieza eléctricos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Elektrilised puhastusmasinad ja -aparaadid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Puhdistuskoneet ja -laitteet [sähkökäyttöiset].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Machines et appareils de nettoyage électriques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Električni strojevi i aparati za čišćenje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Tisztítógépek és berendezések, elektromos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Macchine e apparecchi pulitrici elettrici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Valymo mašinos ir prietaisai (elektriniai).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Elektriskas iekārtas un aparāti tīrīšanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tindif (Magni u tagħmir għat- -), tal-elettriku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Reinigingsmachines en -apparaten, elektrisch.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maszyny i urządzenia do czyszczenia [elektryczne].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máquinas e aparelhos de limpeza, elétricos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Maşini şi aparate electrice de curăţat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Stroje a prístroje na čistenie (elektrické).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Čistilni stroji in aparati (električni).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Maskiner och apparater för rengöring (elektriska).</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>343794</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

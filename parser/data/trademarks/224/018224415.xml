@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T11:10:25</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224415</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224415</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>RE-VIVE BY NOVACOLOR</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162203935</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224415/000162203935.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>2</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Багрилни вещества; Лакове и политури; Лакове и политури; Безири; Бои и разредени бои.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Barviva; Laky a fermeže; Laky a fermeže; Fermeže; Barvy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Farvestoffer; Fernis; Fernis; Fernis; Maling.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Farben, Farbstoffe; Lacke und Firnisse; Lacke und Firnisse; Firnisse; Farben.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Βαφές· Λάκες και βερνίκια· Λάκες και βερνίκια· Βερνίκια και λάκες· Χρώματα και υδατοχρώματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Dyestuffs; Varnish; Varnish; Varnishes; Paints and washes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Colorantes; Barniz; Barniz; Barnices; Pinturas y pinturas al agua.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Värvained; Lakid ja värnitsad; Lakid ja värnitsad; Polituurid; Värvid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Pigmentit; Lakat ja vernissat; Lakat ja vernissat; Vernissat; Maalit ja väripinnoitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Colorants; Vernis; Vernis; Vernis; Peintures et enduits.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Bojila; Lakovi i lazure; Lakovi i lazure; Firnisi; Boje i sredstva za pranje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Színezőanyagok; Lakkok és politúrok; Lakkok és politúrok; Színezékek; Festékek és lemosók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Colori; vernici; lacche; smalti; pitture.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dažiosios medžiagos; Lakai ir politūros; Lakai ir politūros; Politūros; Dažai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Pigmenti; Lakas un pernicas; Lakas un pernicas; Pernicas; Krāsas un krāsas uz ūdens bāzes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Sustanzi koloranti; Lakers u verniċi; Lakers u verniċi; Verniċi; Żebgħat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kleurstoffen; Lakken en vernissen; Lakken en vernissen; Vernissen; Verven.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Barwniki; Lakiery i pokosty; Lakiery i pokosty; Pokosty; Farby i farby mocno rozcieńczone.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Corantes; Lacas e vernizes; Lacas e vernizes; Vernizes; Tintas e soluções para pintar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Pigmenţi; Lacuri; Lacuri; Vernis; Vopsele şi lapte de var.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Farbivá; Laky a fermeže; Laky a fermeže; Fermeže; Farby a roztoky na bielenie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Barvila; Laki in firneži; Laki in firneži; Firneži; Barve in vodni premazi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Färgämnen; Lacker och fernissor; Lacker och fernissor; Fernissor; Färger och renande medel.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>17</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Изолационни бои; Изолационен лак.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Izolační barvy; Izolační laky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Isolerende maling; Isolerende fernis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Isolieranstrichfarben; Isolierfirnisse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χρώματα μονωτικά· Βερνίκια μονωτικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Insulating paints; Insulating varnish.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Pinturas aislantes; Barnices aislantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Isoleervärvid; Isoleerlakid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Eristemaalit; Eristelakka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Peintures isolantes; Vernis isolant.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Izolacijske boje; Izolacijski lak.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szigetelő festékek; Szigetelő lakkok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pitture isolanti; vernici isolanti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Izoliaciniai dažai; Izoliaciniai lakai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Izolācijas krāsas; Izolācijas lakas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Żebgħa iżolanti; Verniċ li jservi għall-iżolament.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Isolerende verven; Isolerende vernissen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Farby izolacyjne; Lakier izolacyjny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Pinturas isolantes; Vernizes isolantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Vopsele izolante; Lacuri izolante.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Izolačné farby; Izolačné laky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Izolirne barve; Izolirni firneži.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Isoleringsfärger; Isoleringslacker.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>IT</PriorityCountryCode>
+<PriorityNumber>302019000091293</PriorityNumber>
+<PriorityDate>2019-12-04</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/081</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-30</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/150</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>455210</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10619</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

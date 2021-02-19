@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:34:37</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226510</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226510</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>CRÉEME HELADO, HELADO.</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162316382</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226510/000162316382.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>01.15.15</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Захар, естествени подсладители, сладкарски покрития и пълнежи, пчелни продукти; Кафе, чай и какао и техни заместители; Обработени зърнени храни, нишестета и стоки от тях, смеси за тестени изделия и кваси; Лед, сладолед, замразен йогурт и сорбети; Сол, подправки, ароматизатори и подправки (сосове); Зърнени и енергийни десертни блокчета; Бонбони, близалки и дъвки; Сладкиши, кексове, торти и бисквити.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Cukr, přírodní sladidla, sladké polevy a náplně, výrobky z včelích produktů; Káva, čaj, kakao a jejich náhražky; Zpracované obilí, škrob a produkty z nich vyrobené, pečicí přípravky a droždí; Led, zmrzliny, mražené jogurty a sorbety; Soli, chuťové přísady, ochucovadla a koření; Cereální tyčinky a energetické tyčinky; Sladkosti (bonbóny), sladké tyčinky a žvýkačky; Moučníky, zákusky, dorty a sušenky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Sukker, naturlige sødemidler, søde overtræk og fyld, produkter fra bier; Kaffe, te, kakao og erstatninger herfor; Forarbejdet korn, stivelse og varer fremstillet deraf, bagepræparater og gær; Is, spiseis, frossen yoghurt, og sorbet; Salte, krydderier, smagsstoffer og smagspræparater; Myslibarer og energibarer; Slik, slikbarer og tyggegummi; Konditorivarer, kager, tærter, kiks og småkager.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Zucker, natürliche Süßungsmittel, süße Glasuren und Füllungen sowie Bienenprodukte zu Speisezwecken; Kaffee, Tee, Kakao und Ersatzstoffe hierfür; Verarbeitetes Getreide und Stärken für Nahrungsmittel sowie Waren hieraus, Backzubereitungen und Hefe; Eis, Eiscreme, gefrorener Joghurt, Sorbets; Speisesalz, Würzmittel, Gewürze, Aromastoffe für Getränke; Müsliriegel und Energieriegel; Süßwaren [Bonbons], Schokoriegel und Kaugummi; Gebäck, Kuchen, Torten und Kekse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ζάχαρη, φυσικές γλυκαντικές ουσίες, γλυκιά επικάλυψη και γλυκιά γέμιση, μελισσοκομικά προϊόντα· Καφές, τσάι και κακάο και υποκατάστατα αυτών· Επεξεργασμένα δημητριακά, άμυλα και προϊόντα που κατασκευάζονται από αυτά, ψημένα παρασκευάσματα και μαγιά· Πάγος, παγωτά, παγωμένο γιαούρτι και γρανίτες· Αλάτι, μπαχαρικά, αρτύματα και καρυκεύματα· Μπάρες δημητριακών και μπάρες ενέργειας· Ζαχαρωτά, ραβδοι ζαχαρωτών και τσίχλες· Γλύκισματα, κέικ, τάρτες και μπισκότα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Sugars, natural sweeteners, sweet coatings and fillings, bee products; Coffee, teas and cocoa and substitutes therefor; Processed grains, starches, and goods made thereof, baking preparations and yeasts; Ice, ice creams, frozen yogurts and sorbets; Salts, seasonings, flavourings and condiments; Cereal bars and energy bars; Sweets (candy), candy bars and chewing gum; Pastries, cakes, tarts and biscuits (cookies).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Azúcar, edulcorantes naturales, productos dulces de cobertura y relleno y productos de apicultura; Café, té, cacao y sucedáneos de los mismos; Granos preparados, almidones y productos fabricados con los mismos, productos para panadería y levaduras; Hielo, helados, yogures helados y sorbetes; Sales, aliños, aderezos y condimentos; Barritas de cereales y barritas energéticas; Caramelos, golosinas y chicles; Pastas, pasteles, tartas y galletas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Suhkrud, looduslikud magusained, magusad katted ja täidised, meetooted; Kohv, tee ja kakao ning nende aseained; Töödeldud teraviljad, tärklis ning nendest valmistatud kaubad, küpsetuspulbrid ja pärm; Jäätis, piima- ja koorejäätised, külmutatud jogurtid ja sorbetid; Soolad, lõhna- ja maitseained, vürtsid; Teraviljabatoonid, energiabatoonid; Kompvekid, maiustused (batoonid) ja närimiskumm; Kondiitritooted, koogid, tordid ja biskviidid (küpsised).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sokerit, luontaiset makeutusaineet, makeat päällysteet ja täytteet, mehiläistuotteet; Kahvi, tee ja kaakao ja niiden korvikkeet; Jalostetut viljat, tärkkelykset ja niistä tehdyt tuotteet, leivontavalmisteet ja hiivat; Jää, jäätelöt, jäädytetyt jugurtit ja sorbetit; Suolat, mausteet ja makuaineet; Vilja- ja energiapatukat; Makeiset (karamellit), makeispatukat ja purukumi; Leivonnaiset, kakut, piirakat ja keksit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Sucres, édulcorants naturels, enrobages et fourrages sucrés, produits apicoles; Café, thés, cacao et leurs succédanés; Grains transformés, amidons et dérivés, préparations pour boulangerie et levures; Glace, crèmes glacées, yaourts glacés et sorbets; Sels, assaisonnements, arômes et condiments; Barres de céréales et barres énergétiques; Bonbons (sucreries), friandises et gomme à mâcher; Pâtisseries, gâteaux, tartes et biscuits.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Šećeri, prirodni zaslađivači, slatke glazure i punjenja, pčelinji proizvodi; Kava, čajevi, kakao i njihovi nadomjesci; Prerađene žitarice, škrobovi i njihovi proizvodi, pripravci za pečenje i kvasci; Led, sladoledi, zamrznuti jogurti i sorbeti; Soli, začini, arome i začinski umaci; Pločice od žitarica i energetske pločice; Slatkiši (bomboni), čokoladice i guma za žvakanje; Slastice, torte, pite i keksi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Cukor, természetes édesítőszerek, édes bevonatok és töltetek, méhészeti termékek; Kávé, tea, kakaó és helyettesítőik; Feldolgozott gabonák, keményítő és az ezekből készült áruk, pékáruk és élesztők; Jég, fagylalt, fagyasztott joghurtok és sörbetek; Só, fűszerek és ízesítőszerek; Müzliszeletek, energiaszeletek; Édességek (cukorkák), csokoládés szeletek, rágógumi; Sütemények, cukrászsütemények, torták és kekszek (aprósütemények).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Zucchero, dolcificanti naturali, glasse e ripieni dolci, prodotti delle api; Caffè, tè e cacao e loro succedanei; Cereali lavorati, amidi e prodotti da essi derivati, preparati da forno e lieviti; Ghiaccio, gelati, yogurt gelati e sorbetti; Sale, spezie, aromi e condimenti; Barrette ai cereali e barrette energetiche; Dolci (caramelle) e gomme da masticare; Pasticcini, torte, crostate e biscotti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Cukrus, natūralios saldinamosios medžiagos, saldūs aptepai ir įdarai, bičių produktai; Kava, arbata ir kakava bei jų pakaitalai; Apdoroti grūdai, krakmolas ir jų gaminiai, preparatai kepimo reikmėms ir mielės; Ledas, ledai, šaldytas jogurtas ir šerbetas; Druska, prieskoniai, aromatinės medžiagos ir pagardai; Javainių ir energiniai batonėliai; Saldainiai, batonėliai ir kramtomoji guma; Miltiniai konditerijos gaminiai, kepiniai, tortai ir sausainiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Cukurs, dabiskie saldinātāji, saldas glazūras un pildījumi, biškopības produkti; Kafija, tēja, kakao un to aizstājēji; Apstrādāti graudi, ciete un no tiem ražoti produkti, piedevas cepšanai un raugs; Pārtikas ledus, saldējums, saldēts jogurts un sorbets; Sāls, garšvielas, aromatizētāji un garšvielu mērces; Graudu batoniņi un enerģijas batoniņi; Saldumi (konfektes), šokolādes tāfelītes un košļājamās gumijas; Konditorejas izstrādājumi, kūkas, tortes un cepumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Zokkor, ħlewwiet naturali, kisi u mili bil-ħelu, prodotti tan-naħal; Kafè, te u kawkaw u sostituti tagħhom; Qamħ proċessat, lamtu, u prodotti magħmula minnhom, preparazzjonijiet għall-ħami u ħmira; Silġ, ġelati, jogurts iffriżati u sorbets; Imluħa, ħwawar u kondimenti; Bars taċ-ċereali u bars li jagħtuk l-enerġija; Ħelu (kandju), bars tal-kandju u chewing gum; Pasti, kejkijiet, torti u gallettini (cookies).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Suiker, natuurlijke zoetstoffen, zoete omhulsels en vullingen, bijenproducten; Koffie, thee en cacao en vervangingsmiddelen hiervoor; Bewerkte granen, zetmeel en producten hiervan, preparaten voor het bakken en gist; Ijs, roomijs, yoghurtijs en waterijs; Zouten, kruiderijen, aromaten en kruiden [specerijen]; Graan- en energierepen; Zoetigheden (snoep), snoeprepen en kauwgom; Banketbakkerswaren, cakes, taarten en biscuits (koekjes).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Cukry, naturalne słodziki, polewy cukiernicze i nadzienia, produkty pszczele; Kawa, herbata, kakao i namiastki tych towarów; Ziarna przetworzone, skrobia i wyroby z tych towarów, preparaty do pieczenia i drożdze; Lód, lody spożywcze, mrożone jogurty i sorbety; Sól, przyprawy i dodatki smakowe; Batony zbożowe i energetyczne; Cukierki, batony i guma do żucia; Wyroby cukiernicze, ciasta, tarty i ciasteczka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Açúcares, adoçantes naturais, revestimentos e coberturas doces, produtos apícolas; Café, chás e cacau e substitutos dos mesmos; Grãos processados, amidos, e produtos feitos a partir dos mesmos, preparações de cozedura e leveduras; Gelo, gelados, iogurtes gelados e sorvetes; Sais, temperos, aromas e condimentos; Barras de cereais e barras energéticas; Doces (guloseimas), barras de chocolate e pastilhas elásticas; Pastelaria, bolos, tartes e biscoitos (bolachas).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Zahăr, îndulcitori naturali, glazuri dulci și umpluturi, produse apicole; Cafea, ceaiuri, cacao și înlocuitori ai acestora; Semințe procesate, amidon și produsele acestora, preparate coapte și drojdie; Gheață, înghețată, iaurt înghețat și șerbeturi; Sare, mirodenii, arome și condimente; Batoane de cereale și batoane energizante; Dulciuri (bomboane), tablete de ciocolată și gumă de mestecat; Produse de patiserie, prăjituri, tarte și biscuiți (prăjiturele).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Cukor, prírodné sladidlá, sladké polevy a plnky, včelie produkty; Káva, čaj, kakao a ich náhradky; Spracované semená, škroby a produkty z nich vyrobené, prípravky na pečenie a droždia; Potravinársky ľad, zmrzliny, mrazené jogurty a sorbety; Soľ, koreniny, príchute a korenia; Cereálne tyčinky a energetické tyčinky; Cukríky, sladké tyčinky a žuvačky; Jemné pečivo, koláče, torty, sušienky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Sladkorji, naravna sladila, sladki prelivi in polnila, čebelji proizvodi; Kava, čaji in kakav ter nadomestki naštetega; Predelano zrnje, škrobi, in proizvodi narejeni iz naštetega, sredstva za peko in kvasila; Led, sladoledi, zamrznjeni jogurti in sorbeti; Soli, začimbe, arome, začimbni dodatki; Žitne ploščice in energijske ploščice; Sladkarije (bonboni), sladke ploščice in žvečilni gumi; Fino pecivo, torte, kolači in piškoti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Socker, naturliga sötningsmedel, söta beläggningar och fyllningar, biprodukter; Kaffe, te och kakao och ersättningar därtill; Bearbetat korn, stärkelse samt varor framställda av dessa, preparat för bakning samt jäst; Is, glass, fryst yoghurt och sorbet; Salter, kryddor, smakämnen och smaktillsatser; Spannmålsbars och energibars; Godis, konfektyrbitar och tuggummi; Bakverk, kakor, tårtor och kex (småkakor).</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<SeniorityDetails>
+<Seniority>
+<SeniorityCountryCode>ES</SeniorityCountryCode>
+<SeniorityApplicationNumber>M3574576</SeniorityApplicationNumber>
+<SeniorityFilingDate>2015-08-11</SeniorityFilingDate>
+<SeniorityRegistrationNumber>M3574576</SeniorityRegistrationNumber>
+<InternationalTradeMarkCode>EU</InternationalTradeMarkCode>
+<SeniorityPartialIndicator>false</SeniorityPartialIndicator>
+<SeniorityStatusCode>Accepted</SeniorityStatusCode>
+</Seniority>
+</SeniorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/078</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>40345</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

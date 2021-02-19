@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-21T15:31:00</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224179</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224179</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-06-19</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>DR. GRIMM WIEGAND'S</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162203962</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224179/000162203962.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>02.01.01</CategoryCode>
+          <CategoryCode>02.01.10</CategoryCode>
+          <CategoryCode>02.01.23</CategoryCode>
+          <CategoryCode>02.01.98</CategoryCode>
+          <CategoryCode>26.05.01</CategoryCode>
+          <CategoryCode>26.11.01</CategoryCode>
+          <CategoryCode>26.11.06</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Дезинфектанти; Дезинфектанти за хигиенни цели; Препарати за дезинфекция на ръце.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Dezinfekční přípravky; Dezinfekční prostředky pro hygienické účely; Přípravky k dezinfekci rukou.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Desinfektionsmidler; Desinfektionsmidler til hygiejniske formål; Præparater til hånddesinfektion.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Desinfektionsmittel; Desinfektionsmittel für hygienische Zwecke; Handdesinfektionsmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Απολυμαντικά· Απολυμαντικά για υγειονομική χρήση· Παρασκευάσματα υγιεινής για τα χέρια.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Disinfectants; Disinfectants for hygiene purposes; Hand-sanitizing preparations.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Desinfectantes; Desinfectantes para uso higiénico; Preparaciones para desinfectar las manos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Desinfektsioonivahendid; Hügieenilised desinfektsioonivahendid; Kätehügieeni preparaadid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Desinfiointiaineet; Desinfiointiaineet hygieenisiin tarkoituksiin; Käsiendesinfiointivalmisteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Désinfectants; Désinfectants à usage hygiénique; Préparations assainissantes pour les mains.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dezinfekcijska sredstva; Dezinfekcijska sredstva za higijenske namjene; Pripravci za dezinfekciju ruku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fertőtlenítőszerek; Fertőtlenítőszerek higiéniai célokra; Kézfertőtlenítő készítmények.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Disinfettanti; Disinfettanti per uso igienico; Preparazioni per la disinfezione delle mani.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dezinfekantai; Dezinfekavimo priemonės (higienos reikmėms); Rankų antiseptiniai preparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dezinfekcijas līdzekļi; Dezinfekcijas līdzekļi higiēniskiem nolūkiem; Roku dezinficēšanas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Diżinfettanti; Diżinfettanti għal skopijiet ta' iġjene; Preparazzjonijiet għas-sanitazzjoni tal-idejn.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Desinfectiemiddelen; Desinfecterende middelen voor hygiënisch gebruik; Steriliserende middelen voor de handen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Środki odkażające; Środki dezynfekcyjne do celów higienicznych; Preparaty do dezynfekcji rąk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Desinfetantes; Desinfetantes para uso higiénico; Preparações para desinfetar as mãos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dezinfectante; Dezinfectante folosite pentru igienă; Preparate pentru dezinfectarea mâinilor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Dezinfekčné prípravky; Dezinfekčné prípravky na hygienické použitie; Prípravky na dezinfekciu rúk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Razkužila; Razkužila za higienske namene; Pripravki za dezinfekcijo rok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Desinfektionsmedel; Desinfektionsmedel för hygieniska ändamål; Handsprit.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Термометри за медицински цели; Дигитални термометри за медицински цели; Електронни термометри за медицинска употреба.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Teploměry pro lékařské účely; Digitální teploměry k lékařským účelům; Elektronické teploměry pro lékařské použití.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Termometre til medicinsk brug; Digitale termometre til medicinske formål; Elektroniske termometre til medicinsk brug.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Thermometer für medizinische Zwecke; Digitale Thermometer für medizinische Zwecke; Elektronische Thermometer für medizinische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Θερμόμετρα ιατρικά· Ψηφιακά θερμόμετρα για ιατρική χρήση· Ηλεκτρονικά θερμόμετρα για ιατρική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Thermometers for medical purposes; Digital thermometers for medical purposes; Electronic thermometers for medical use.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Termómetros para uso médico; Termómetros digitales para uso médico; Termómetros electrónicos para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiinilised termomeetrid; Digitaalsed termomeetrid (meditsiinilised); Elektroonilised termomeetrid meditsiiniotstarbeks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kuumemittarit lääketieteellisiin tarkoituksiin; Digitaaliset lämpömittarit lääkinnällisiin tarkoituksiin; Elektroniset lämpömittarit lääkinnälliseen käyttöön.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Thermomètres à usage médical; Thermomètres numériques à usage médical; Thermomètres électroniques à usage médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Toplomjeri za medicinske potrebe; Digitalni termometri za medicinske svrhe; Elektronički termometri za medicinsku uporabu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Hőmérők gyógyászati célokra; Digitális hőmérők orvosi használatra; Elektronikus hőmérők gyógyászati használatra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Termometri per uso medico; Termometri digitali per uso medico; Termometri elettronici per uso medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Medicininiai termometrai; Skaitmeniniai termometrai medicinos reikmėms; Elektroniniai termometrai medicinos reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medicīniskie termometri; Digitālie termometri medicīniskiem nolūkiem; Elektroniski termometri medicīniskām vajadzībām.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Termometri għal skopijiet mediċi; Termometri diġitali għal skopijiet mediċi; Termometri elettroniċi għal użu mediku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Thermometers voor medisch gebruik; Digitale thermometers voor medische doeleinden; Elektronische thermometers voor medisch gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Termometry do celów medycznych; Termometry cyfrowe do celów medycznych; Termometry elektroniczne do użytku medycznego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Termómetros para uso médico; Termómetros digitais para uso médico; Termómetros eletrónicos para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Termometre de uz medical; Termometre digitale de uz medical; Termometre electronice de uz medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lekárske teplomery; Digitálne teplomery na lekárske účely; Elektronické teplomery na lekárske účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Termometri za medicinske namene; Digitalni termometri za medicinske namene; Elektronski termometri za medicinsko uporabo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Termometrar för medicinska ändamål; Digitala termometrar för medicinska ändamål; Elektroniska termometrar för medicinskt bruk.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Дезинфекционни дозатори за умивални; Дезинфекциращи дозаторни устройства за тоалетни.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Dávkovače dezinfekčních přípravků do umýváren; Výdejníky dezinfekčních prostředků na toalety.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Dispenser til desinfektionsmiddel til badeværelser; Desinficerende spredere til toiletter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Desinfektionsmittelspender für Waschräume; Desinfektionsmittelspender für Toiletten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διανομείς απολυμαντικών για αποχωρητήρια· Απολυμαντικών (Διανομείς -) για τουαλέτες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Disinfectant dispensers for washrooms; Disinfectant dispensers for toilets.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Dispensadores de desinfectantes para aseos; Distribuidores de desinfectante para baños.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Desinfektsioonivahendidosaatorid tualettruumide jaoks; WC-de desinfektsioonivahendijaoturid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Desinfiointiaineiden annostelulaitteet pesuhuoneisiin; Desinfiointiaineiden jakelulaitteet WC-käyttöön.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Distributeurs de désinfectants pour cabinets de toilette; Distributeurs de désinfectants pour toilettes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Raspršivači dezinficijensa za praonice; Raspršivaći raskužnih proizvoda za zahode.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fertőtlenítőszer-adagolók mosdókhoz; Fertőtlenítőszer-adagolók toalettekhez, WC-khez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Dosatori di disinfettante per bagni; Distributori di disinfettanti per w.c..</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dezinfekavimo priemonių dalytuvai išviečių reikmėms; Dezinfekavimo priemonių dalytuvai (tualetams).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dezinficējošo vielu dozatori tualetēm; Dezinfekcijas līdzekļu dozatori tualetēm.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Dispensers tad-diżinfettanti għall-kmamar tal-ħasil; Aċċessorji li jxerrdu d-diżinfettant għat-tojlits.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Afgifteapparaten voor ontsmettingsmiddelen voor wasruimten; Afgifte-inrichtingen voor ontsmettingsmiddelen voor toiletten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Dozowniki środków dezynfekujących do łazienek; Dozowniki środków odkażających w toaletach.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Distribuidores de desinfetante para lavabos; Distribuidores de desinfetantes para "toilettes".</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dozatoare de dezinfectante pentru băi; Distribuitoare de dezinfectante pentru toalete.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Dávkovače dezinfekčných prípravkov pre umyvárne; Dávkovače dezinfekčných prípravkov na toalety.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Dozirniki za dezinfekcijska sredstva za stranišča; Dozirniki razkužila za stranišča.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Desinfektionsmedelsdispenser för tvättrum; Desinfektionsmedelsdistributörer för toaletter.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/073</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>905559</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003124517</OppositionIdentifier>
+<OppositionDate>2020-06-19</OppositionDate>
+<ProceedingLanguageCode>de</ProceedingLanguageCode>
+<OppositionGroundText>
+Art. 8(4)</OppositionGroundText>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>24178</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

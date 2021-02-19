@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-05T16:54:09</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229827</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229827</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>HI HERBAL INFUSER</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162500934</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229827/000162500934.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.04.01</CategoryCode>
+          <CategoryCode>26.04.05</CategoryCode>
+          <CategoryCode>26.04.24</CategoryCode>
+          <CategoryCode>27.05.07</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Електрически бавни готварски печки за инфузиране на растителни средства в масло, олио, тинктури, алкохол, лосион.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Elektrické hrnce na dušení pro napouštění rostlinných výtažků do másla, oleje, tinktur, alkoholu, pleťové vody.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Elektriske stegegryder til infusion af botaniske midler i smør, olier, tinkturer, alkohol, lotioner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Elektrische Langsamkocher zum Infundieren pflanzlicher Stoffe in Butter, Öl, Tinkturen, Alkohol, Lotionen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ηλεκτρικές συσκευές αργού μαγειρέματος για έγχυση ουσιών βοτάνων σε βούτυρο, έλαια, βάμματα, οινόπνευμα, λοσιόν.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Electric slow cookers for infusing botanicals into butter, oil, tinctures, alcohol, lotion.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Ollas eléctricas de cocción lenta para la infusión de productos botánicos en mantequilla, aceite, tinturas, alcohol, lociones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Elektrilised haudepotid ürditõmmiste tegemiseks võis, õlis, tinktuurides, alkoholis, emulsioonis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sähkökäyttöiset hauduttimet kasviperäisten aineiden uuttamiseen voiksi, öljyiksi, tinktuuroiksi, alkoholijuomiksi, emulsioiksi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Mijoteuses électriques pour l'infusion de produits botaniques en beurre, huile, teintures, alcool, lotion.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Električni uređaji za sporo kuhanje za dodavanje biljnih tvari u maslac, ulje, tinkture, alkohol, losione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Elektromos lassú főzők növények vajba, olajba, oldatokba, alkoholba, tejbe, folyadékokba való főzéséhez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tegami per stufati elettrici per infondere prodotti botanici in burro, olio, tinture, alcool, lozione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Elektrinės lėtos viryklės botanikos medžiagoms įpilti į sviestą, aliejų, tinktūras, alkoholį, losjoną.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Elektriski lēnas gatavošanas katli botānisko produktu infūzijai sviestā, eļļā, tinktūrās, spirtā, losjonā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Apparat għat-tisjir bil-mod tal-elettriku għall-infużjoni ta' botaniċi f'butir, żejt, tinturi, alkoħol, lozjonijiet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Elektrische slow cookers om boter, olie, tinctuur, alcohol, lotions te aromatiseren met botanische producten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Elektryczne garnki do duszenia do nasączania masła, oleju, nalewek, alkoholu, płynu substancjami roślinnymi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Panelas elétricas de cozedura lenta para infusão de produtos botânicos em manteiga, óleos, tinturas, álcool e loções.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aparate electrice de gătit lent pentru infuzare de plante în unt, ulei, tincturi, alcool, loțiune.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Elektrické variče na pomalé lúhovanie rastlinných zložiek do masla, oleja, tinktúr, alkoholu a mlieka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Električni lonci za počasno kuhanje za poparjanje rastlin v maslo, olje, tinkture, alkohol, losjon.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Elektriska långsamkokare för inkokning av växter i smör, olja, tinkturer, alkohol, lotion.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/100</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082583</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>17115</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003129757</OppositionIdentifier>
+<OppositionDate>2020-08-28</OppositionDate>
+<ProceedingLanguageCode>de</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>015349781</ApplicationNumber>
+<ApplicationDate>2016-04-18</ApplicationDate>
+<RegistrationNumber>015349781</RegistrationNumber>
+<RegistrationDate>2019-06-07</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>Hi</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>698840</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11482</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

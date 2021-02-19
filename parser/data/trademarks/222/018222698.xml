@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-08T07:36:56</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222698</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222698</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<RegistrationDate>2020-09-05</RegistrationDate>
+<ApplicationLanguageCode>fi</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-08</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-08</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Panda Suomi</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162186649</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/222/018222698/000162186649.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>09.01.10</CategoryCode>
+          <CategoryCode>25.05.96</CategoryCode>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.05</CategoryCode>
+          <CategoryCode>26.04.22</CategoryCode>
+          <CategoryCode>29.01.02</CategoryCode>
+          <CategoryCode>29.01.04</CategoryCode>
+          <CategoryCode>29.01.96</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Сладкарски изделия; Шоколад; Сладък корен, сладник [Glycyrrhiza glabra L.] сладкарски изделия; Сладкарски изделия; Плодове с шоколадова глазура; Ядки, покрити с шоколад; Сладолед.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Cukrovinky; Čokoláda; Lékořice [cukrovinka]; Bonbony; Ovoce s čokoládovou polevou; Oříšky v čokoládě; Vodová a smetanová zmrzlina.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Konfekturevarer; Chokolade; Lakrids [sukkervarer]; Bolsjer; Chokoladeovertrukne frugter; Chokoladeovertrukne nødder; Iscreme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Zuckerwaren, Konfekt; Schokolade; Lakritze [Süßwaren]; Bonbons; Früchte mit Schokoladenüberzug; Nüsse mit Schokoladenüberzug; Eiscreme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ζαχαρώδη· Σοκολάτα· Γλυκόριζα [ζαχαροπλαστική]· Ζαχαρώδη· Φρούτα με επικάλυψη σοκολάτας· Ξηροί καρποί με επικάλυψη σοκολάτας· Παγωτά που φτιάχνονται με γάλα ή με κρέμα γάλακτος.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Confectionery; Chocolate; Liquorice [confectionery]; Sweetmeats [candy]; Chocolate coated fruits; Chocolate-coated nuts; Ice cream.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Productos de confitería; Chocolate; Regaliz [productos de confitería]; Caramelos; Frutas cubiertas de chocolate; Frutos secos cubiertos de chocolate; Helados cremosos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Maiustused; Šokolaad; Lagritsamaiustused; Kompvekid; Šokolaadiga kaetud puuviljad; Šokolaadikattega pähklid; Koore- või piimajäätis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Makeiset; Suklaa; Lakritsi; Konvehdit; Suklaalla päällystetyt hedelmät; Suklaapäällysteiset pähkinät; Jäätelöt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Confiserie; Chocolat; Réglisse [confiserie]; Bonbons; Fruits enrobés de chocolat; Fruits à coque enrobés de chocolat; Crèmes glacées.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Slastice; Čokolada; Sladić; Konditorski proizvodi; Voće s preljevom od čokolade; Čokoladni orašasti plodovi; Sladoled.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kandiscukor; Csokoládé; Édesgyökér [cukrászáru]; Kandiscukor; Csokoládébevonatos gyümölcsök; Csokoládé bevonatú diófélék; Fagylaltok és jégkrémek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Confetteria; Cioccolato; Liquirizia [confetteria]; Bonbons; Frutta ricoperta di cioccolato; Frutta secca ricoperta di cioccolato; Gelati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Konditerijos gaminiai; Šokoladas ir šokoladiniai saldainiai; Saldymedžiai [konditerija]; Saldainiai [ledinukai]; Šokoladu glaistyti vaisiai; Riešutai šokolade; Ledai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Konditorejas izstrādājumi; Šokolāde; Lakrica [saldumu konditorejas izstrādājums]; Konditorejas izstrādājumi; Ar šokolādi pārklāti augļi; Rieksti šokolādē; Pārtikas ledus (atspirdzinājumam).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ħelu; Ċikkulata; Għud is-sus [ħlewwiet]; Ħelu; Frott miksi biċ-ċikkulata; Ġewż miksi biċ-ċikkulata; Silġijiet u ġelati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Suikergoed; Chocolade; Drop [suikerwerk]; Snoepgoed; Vruchten met een laagje chocolade [suikergoed]; Noten met een chocoladelaagje; Roomijs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Wyroby cukiernicze; Czekolada; Lukrecja [cukiernictwo]; Wyroby cukiernicze; Owoce w polewie czekoladowej; Orzechy w polewie czekoladowej; Lody.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Produtos de confeitaria; Chocolate; Alcaçuz [confeitaria]; Bombons [doçaria]; Frutos com cobertura de chocolate; Frutos secos cobertos de chocolate; Cremes gelados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dulciuri; Ciocolată; Lemn dulce [cofetărie]; Dulciuri; Fructe trase în ciocolată; Alune trase în ciocolată; Îngheţată.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Cukrovinky; Čokoláda; Sladké drievko (cukrovinky); Cukríky; Ovocie poliate čokoládou; Oriešky v čokoláde; Smotanové zmrzliny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Slaščice; Čokolada; Lakrice [slaščice iz sladkega korena]; Slaščice; Sadje oblito s čokolado; S čokolado obliti oreščki; Sladoled.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Konfekt; Choklad; Lakritskonfekt; Konfekt; Chokladöverdragna frukter (godsaker); Chokladöverdragna nötter (godsaker); Isglass och glass.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/100</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/171</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-09-08</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>259364</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10880</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

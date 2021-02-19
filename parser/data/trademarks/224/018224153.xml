@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-28T09:52:41</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224153</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224153</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-28</RegistrationDate>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="12" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Unity Card</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>36</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Обезпечаване на предплатени карти и жетони; Набиране на средства и финансово спонсориране; Финансови и парични услуги и банкиране.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Poskytování předplacených karet a kuponů; Získávání finančních prostředků a finanční sponzorování; Finanční a peněžní služby a bankovní služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tilvejebringelse af forudbetalte kort og værdikuponer; Fundraising og finansiel sponsorering; Finansiel og valutarisk virksomhed og bankvirksomhed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Ausgabe von Wert- und Gutscheinkarten; Fundraising und finanzielles Sponsoring; Finanz-, Geld- und Bankgeschäfte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παροχή προ-πληρωμένων καρτών και μαρκών· Συγκέντρωση χρημάτων και οικονομική χορηγία· Οικονομικές/Χρηματοπιστωτικές και νομισματικές υπηρεσίες και τραπεζικές υπηρεσίες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Provision of prepaid cards and tokens; Fundraising and financial sponsorship; Financial and monetary services, and banking.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Provisión de tarjetas y vales prepago; Recaudación de fondos y patrocinio financiero; Servicios financieros, monetarios y bancarios.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Väärtpaberite ja ettemaksuga kaartide teenused; Korjandused ja finantssponsorlus; Finants-, rahandusteenused, pangandus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ennalta maksettujen korttien ja arvoseteleiden tarjoaminen; Varainkeruu ja taloudellinen sponsorointi; Rahatalouteen ja raha-asioihin liittyvät palvelut ja pankkitoiminta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Fourniture de cartes prépayées et de bons de valeur; Collecte de fonds et parrainage financier; Services financiers et monétaires, services bancaires.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pružanje prepaid kartica i tokena; Prikupljanje financijskih sredstava i financijsko pokroviteljstvo; Financijske i novčarske usluge, i bankarstvo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Előre fizetett kártyák és értékbónok kibocsátása; Adománygyűjtés és pénzügyi szponzorálás; Pénzügyi szolgáltatások, bankügyletek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Fornitura di carte prepagate e buoni d'acquisto; Raccolta di fondi e sponsorizzazione finanziaria; Servizi finanziari e monetari, e attività bancaria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Išankstinio apmokėjimo kortelių ir žetonų parūpinimas; Lėšų rinkimas ir finansinė parama; Finansinės ir piniginės paslaugos bei banko operacijos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Nodrošināšana ar priekšapmaksas kartēm un kuponiem; Līdzekļu vākšana un finansiāla sponsorēšana; Finanšu pakalpojumi, darījumi ar naudu un banku pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Il-provvista ta' kards u tokens mħallsa minn qabel; Ġbir ta' fondi u sponsorizzazzjoni finanzjarja; Servizzi finanzjarji u monetarji, u servizzi tal-banek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ter beschikking stellen van prepaid kaarten en waardebonnen; Fondsenwerving en financiële sponsoring; Financiële zaken, monetaire diensten en bankzaken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Wydawanie kart przedpłaconych i bonów; Gromadzenie funduszy i sponsorowanie finansowe; Usługi finansowe, pieniężne i bankowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Fornecimento de cartões de pré-pago e títulos de valor; Angariação de fundos e patrocínio financeiro; Serviços financeiros, monetários, bancários.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Furnizarea de cartele preplătite și jetoane de valoare; Strângere de fonduri și sponsorizare financiară; Servicii financiare, monetare și bancare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vydávanie predplatných kariet a poukážok; Získavanie finančných prostriedkov a finančné sponzorstvo; Finančníctvo, peňažníctvo, bankovníctvo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Nudenje predplačanih kartic in žetonov; Zbiranje sredstev in finančno sponzoriranje; Finančne in denarne storitve in bančništvo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Upplåtande av förbetalda kort och kuponger; Penninginsamling och finansiell sponsring; Finansiella och monetära tjänster och bankrörelse.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/073</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:38</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226306</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226306</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>VGAzer</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Настолни лампи; Лампи; Осветителни дисплеи; Светодиодни фиксирани осветителни тела; Лампи за четене; Светодиодни [LED] лампи; Принадлежности за лампи; Лампи за коледна елха; Лампи; Електрически лампи за вътрешно осветление; Електрически лампи; Дъгови лампи [осветителни фиксатори].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Stolní lampy; Svítidla; Osvětlení vystavovacích skříní; LED osvětlovací tělesa; Čtecí lampičky; Lampy LED; Objímky na žárovky; Osvětlení vánočních stromků; Svítidla; Elektrické lampy na osvětlení interiérů; Elektrické světelné zdroje (žárovky, zářivky); Obloukové lampy (světelné instalace).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Bordlamper; Lamper; Skiltebelysning; LED-belysningsarmaturer; Læselamper; LED-lamper; Lampefatninger; Lamper til juletræer; Lamper; Elektriske lamper til indendørs belysning; Lamper, elektriske; Buelamper [belysningsarmaturer].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Tischlampen; Beleuchtungslampen; Vitrinenbeleuchtung; LED-Beleuchtungsanlagen; Leselampen; LED-Lampen; Lampenhalter; Lampen für Weihnachtsbäume; Beleuchtungslampen; Elektrische Lampen zur Innenraumbeleuchtung; Lampen [elektrisch]; Bogenlampen [Beleuchtungskörper].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Επιτραπέζιες λάμπες· Φωτισμός (λαμπτήρες -ού)· Φωτισμός παρουσίασης· Διατάξεις φωτισμού με φωτοδιόδους (LED)· Επιτραπέζια ή επιτοίχια φώτα ανάγνωσης· Λυχνίες φωτοδιόδων (LED)· Λυχνιολαβές· Φώτα για χριστουγεννιάτικα δέντρα· Φωτισμός (λαμπτήρες -ού)· Ηλεκτρικοί λαμπτήρες για φωτισμό εσωτερικών χώρων· Ηλεκτρικές λυχνίες· Λάμπες τόξου [εξαρτήματα φωτισμού].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Table lamps; Lighting lamps; Display lighting; LED lighting fixtures; Reading lights; Led Lamps; Lamp holders; Lamps for Christmas trees; Lamps for lighting purposes; Electrical lamps for indoor lighting; Electric lamps; Arc lamps [lighting fixtures].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Lámparas de mesa; Lámparas [aparatos de iluminación]; Iluminación para expositores; Apliques de iluminación led; Luces de lectura; Lámparas LED; Soportes de lámparas; Lámparas para árboles de Navidad; Lámparas [aparatos de iluminación]; Lámparas eléctricas para alumbrado de interior; Lámparas eléctricas; Lámparas de arco [accesorios de iluminación].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Laualambid; Lambid [valgustid]; Vaateaknavalgustus; LED-valgustiarmatuurid; Lugemislambid; Valgusdioodlambid, LED-lambid; Lambipesad; Jõulupuude lambid; Lambid [valgustid]; Elektrilambid sisevalgustuseks; Elektrilambid; Kaarlambid [valgustid].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Pöytävalaisin; Lamput; Näytteillepanon valaisu; LED-valaistuslaitteistot; Lukulamput; LED-lamput; Lampunpidikkeet; Lamput joulukuuseen; Lamput; Sähkölamput sisätilojen valaistusta varten; Sähkölamput; Kaarilamput [valaisinelementit].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Lampes de table; Lampes d'éclairage; Éclairages de vitrines; Luminaires DEL; Liseuses (lampes pour lire); Ampoules DEL; Supports de lampes; Lampes pour sapins de Noël; Lampes d'éclairage; Lampes électriques pour éclairage d'intérieur; Lampes électriques; Lampes à arc [luminaires].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Stolne svjetiljke; Rasvjetne svjetiljke; Rasvjeta za izlaganje; Rasvjetna LED tijela; Svjetiljke za čitanje; Svjetiljke LED; Grla žarulja; Svjetiljke za božićno drvce; Rasvjetne svjetiljke; Električne svjetiljke za osvjetljenje unutarnjih prostora; Električne svjetiljke; Lučne lampe [rasvjetna oprema].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Asztali lámpák; Lámpák; Vitrinvilágítás; LED-es világítószerelvények; Olvasólámpák; LED-lámpák; Lámpa foglalatok; Karácsonyfaégők; Lámpák; Elektromos lámpák beltéri világításhoz; Elektromos lámpák; Ívlámpák [lámpatestek].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Lampade da tavolo; Lampade per illuminazione; Illuminazione per espositori; Impianti d'illuminazione a LED; Luci di cortesia; Lampade a LED; Componenti per lampade; Lampade per alberi di Natale; Lampade per illuminazione; Lampade elettriche per illuminazione d'interni; Lampade elettriche; Lampade ad arco [impianti di illuminazione].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Stalo šviestuvai; Lempos; Vitrinų apšvietimo įrenginiai; Šviesos diodų apšvietimo įranga; Skaitymo šviesos; Šviesolaidžio (LED) lempos; Lempų laikikliai; Kalėdų eglučių lempos; Lempos; Elektrinės vidaus apšvietimo lempos; Elektros lempos; Lankinės lempos [apšvietimo įrenginiai].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Galda lampas; Lampas; Vitrīnu apgaismojums; LED gaismekļi; Lasīšanas lampas; LED lampas; Lampu turētāji; Ziemassvētku eglīšu lampiņas; Lampas; Elektriskās lampas telpu apgaismošanas nolūkiem; Elektriskās lampas; Loka spuldzes [apgaismošanas piederumi].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Lampi ta' fuq il-mejda; Lampi; Dwal għall-wirja; Partijiet fissi tad-dawl LED; Dwal għall-qari; Lampi LED; Ħowlders tal-lampi; Lampi għas-siġar tal-Milied; Lampi; Bozoz elettriċi għat-tidwil ta' ġewwa; Sistemi għad-dawl elettriku; Lampi f'forma ta' arka [installazzjonijiet tad-dawl].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Tafellampen; Lampen voor verlichting; Verlichting voor beeldschermen; Led-verlichtingsarmaturen; Leeslampen; Led-lampen; Lamphouders; Lampen voor kerstbomen; Lampen voor verlichting; Lampen (Elektrische -) voor binnenverlichting; Elektrische lampen; Booglampen [verlichtingsarmaturen].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Lampy stołowe; Lampy oświetleniowe; Oświetlenie wystawowe; Oprawy oświetleniowe LED; Lampki do czytania; Lampy LED; Oprawki do lamp; Lampki na choinki świąteczne; Lampy oświetleniowe; Lampy elektryczne do oświetlenia wnętrz; Lampy elektryczne; Lampy łukowe [wyposażenie oświetleniowe].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Candeeiros de mesa; Lâmpadas; Iluminação de expositores; Luminárias de LED; Lâmpadas de leitura; Lâmpadas LED; Suportes de lâmpadas; Lâmpadas para árvores de Natal; Lâmpadas; Candeeiros elétricos para iluminação interior; Lâmpadas elétricas; Lâmpadas de arco [aparelhos de iluminação].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Lămpi de masă; Lămpi de iluminat; Dispozitive de luminat pentru vitrine; Corpuri de iluminat cu LED; Lămpi pentru cărţi; Lămpi cu LED; Suporturi pentru lămpi; Lămpi pentru pomul de Crăciun; Lămpi de iluminat; Lămpi electrice pentru iluminare în interior; Lămpi electrice; Lămpi cu arc [corpuri de iluminat].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Stolové lampy; Lampy; Osvetlenie pre výklady a výstavné vitríny; LED osvetľovacie zariadenia; Lampičky na čítanie; LED lampy; Objímky na žiarovky; Lampy pre vianočné stromčeky; Lampy; Elektrické lampy pre interiérové osvetlenie; Elektrické lampy; Oblúkové lampy ako svietidlá.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Namizne svetilke; Svetilke; Razsvetljava za razstavne vitrine; Napeljave za LED osvetljavo; Luči za branje; LED svetilke; Držala za svetilke; Lučke za božična drevesa; Svetilke; Električne svetilke za osvetljevanje notranjih prostorov; Električne svetilke; Obločnice [oprema za osvetljevanje].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Bordslampor; Lampor; Skyltbelysning; LED-belysningsarmaturer; Läslampor; LED-lampor; Lamparmaturer; Lampor för julgranar; Lampor; Elektriska lampor för inomhusbelysning; Elektriska lampor; Båglampor [belysningsarmaturer].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<SeniorityDetails>
+<Seniority>
+<SeniorityCountryCode>DE</SeniorityCountryCode>
+<SeniorityApplicationNumber>3020181092675</SeniorityApplicationNumber>
+<SeniorityFilingDate>2018-08-21</SeniorityFilingDate>
+<SeniorityRegistrationNumber>302018109267</SeniorityRegistrationNumber>
+<InternationalTradeMarkCode>EU</InternationalTradeMarkCode>
+<SeniorityPartialIndicator>false</SeniorityPartialIndicator>
+<SeniorityStatusCode>Accepted</SeniorityStatusCode>
+</Seniority>
+</SeniorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080452</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>56047</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

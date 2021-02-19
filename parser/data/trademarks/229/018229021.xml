@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-15T09:20:15</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229021</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229021</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-09-12</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SOFTKIDS</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162456226</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229021/000162456226.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Обувки; Обувки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Boty; Obuv.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Sko; Fodtøj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schuhe [Halbschuhe]; Schuhwaren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υποδήματα· Υποδήματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Shoes; Footwear.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Zapatos; Calzado.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kingad; Jalatsid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Jalkineet; Jalkineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Souliers; Chaussures.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Obuća; Obuća.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Lábbelik; Lábbelik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Scarpe; Calzature.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Avalynė; Apavas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kurpes; Kurpes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xedd is-saqajn; Xedd is-saqajn.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Schoenen; Schoeisel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Obuwie; Obuwie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Sapatos; Calçado.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Articole de încălţăminte; Articole de încălţăminte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Topánky; Obuv.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Obutev; Obutev.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Fotbeklädnader; Fotbeklädnader.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/105</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/176</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>37556</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:34:35</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225912</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225912</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Cloroquine</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>33</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Вино.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Víno.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Vin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Weine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κρασί.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Wine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Vinos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Vein.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Viinit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Vino.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Borok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Vino.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vynas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Vīni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Inbid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Wijn.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Wino.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vinho.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Vin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Víno.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Vino.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Viner.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/079</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079499</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

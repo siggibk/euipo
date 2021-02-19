@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-31T08:40:57</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228816</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228816</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-28</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-31</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>I&amp;P OLIO EXTRAVERGINE DI OLIVA</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162457760</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/228/018228816/000162457760.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.07.04</CategoryCode>
+          <CategoryCode>26.04.01</CategoryCode>
+          <CategoryCode>26.04.05</CategoryCode>
+          <CategoryCode>26.04.22</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>29</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Студено пресован зехтин екстра качество.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Extra panenský olivový olej.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Ekstra jomfruolivenolie til brug som næringsmiddel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Extranatives Olivenöl für Speisezwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εξαιρετικό παρθένο ελαιόλαδο.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Extra virgin olive oil for food.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aceite de oliva virgen extra para uso alimenticio.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Esimese külmpressi oliiviõli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kylmäpuristettu (extra) neitsytoliiviöljy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Huile d'olive extra vierge à usage alimentaire.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ekstra djevičansko maslinovo ulje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Extra szűz olívaolaj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Olio extravergine di oliva; Olio extravergine di oliva per uso alimentare; Olio extra vergine d'oliva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Aukščiausios kokybės pirmo spaudimo alyvuogių aliejus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Pirmā spieduma olīveļļa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Żejt ekstra verġni taż-żebbuġa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Extra virgin olijfolie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oliwa z oliwek z pierwszego tłoczenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Azeite extra virgem para alimentação.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Ulei de măsline extravirgin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Extra panenský olivový olej.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Ekstra deviško olivno olje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Extra fin jungfruolja [olivolja].</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Билкови чайове [настойки]; Нелечебни чаени торбички; Екстракти [настойки], за немедицински цели, отвари от билки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Bylinkové čaje (neléčivé); Sáčkové čaje (bez léčivých účinků); Tresti, ne léčebné.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Urteafkog [ikke til medicinsk brug]; Ikke-medicinske tebreve; Udtræk [urtetheer], ikke medicinske.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Nicht medizinische Tees; Nicht medizinische Tees in Beuteln; Nicht medizinische Kräutertees.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αφεψήματα βοτάνων· Φακελάκια τσαγιού (μη φαρμακευτικά)· Αφεψήματα μη φαρμακευτικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Herbal infusions; Tea bags (Non-medicated -); Infusions, not medicinal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Infusiones de hierbas; Bolsas de té (no medicinales); Infusiones que no sean para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Taimeteed; Teekotid (ravitoimeta); Infusioonid, v.a meditsiinilised.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Yrttiteet [hauteet]; Teepussit (lääkeaineita sisältämättömät); Uutteet, ei-lääkinnälliset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Infusions à base de plantes; Sachets de thé non médicinal; Infusions non médicinales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Biljni čajevi; Čaj u vrećicama (Nemedicinski -); Nemedicinske infuzije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyógynövény forrázatok; Filteres teák [nem gyógyhatású]; Teák [nem gyógyászati használatra].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tisane (infusi); Bustine di tè per tisane non medicinali; Infusi non medicinali; Infusi di erbe; Infusi di erbe, non per uso medicinale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vaistažolių užpilai; Arbata maišeliuose (ne medicinos reikmėms); Negydomosios trauktinės (užpilai).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Zāļu tējas; Tēja maisiņos (nemedicīniskiem nolūkiem); Zāļu tējas, ne medicīniskiem nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Infużjonijiet tal-ħwawar; Boroż tat-tè (mhux medikati); Tè (mhux medikat).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kruideninfusies; Theezakjes (niet-medicinale); Kruidenaftreksels, niet voor geneeskundig gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Napary ziołowe; Herbata w torebkach (nielecznicza); Napary, inne niż do celów leczniczych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Infusões de ervas; Saquetas de chá [não medicinal]; Infusões, não medicinais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Infuzii de plante; Pliculețe de ceai (nu pentru uz medicinal); Infuzii, altele decât cele medicinale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Bylinkové čaje; Čaje vo vrecúškach (neliečivé); Bylinkové čaje (nie na lekárske použitie).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zeliščni čaji; Čajne vrečke (brez zdravilnih učinkovin); Zeliščni čaji, ne zdravilni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Örtteer; Tepåsar (icke-medicinska); Icke-medicinska infusioner.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/095</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/165</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-31</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080799</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-03T09:03:02</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226275</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226275</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-09-01</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-03</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Endophyllene</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162308195</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226275/000162308195.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.12.03</CategoryCode>
+          <CategoryCode>26.11.13</CategoryCode>
+          <CategoryCode>26.11.98</CategoryCode>
+          <CategoryCode>29.01.01</CategoryCode>
+          <CategoryCode>29.01.03</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Диетични и хранителни добавки; Лечебни хранителни добавки; Хранителни добавки за медицински цели; Диетични и хранителни добавки; Хранителни добавки за медицински цели; Нутрацевтици [лечебни хранителни средства] за терапевтични цели; Лечебни хранителни вещества за употреба като диетични добавки; Диетични и хранителни препарати.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Výživové doplňky; Léčivé potravinové doplňky; Výživové doplňky; Výživové doplňky; Výživové doplňky; Nutraceutika pro terapeutické účely; Nutraceutika jako dietní doplňky; Dietetické a nutričí přípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Diætetiske og ernæringsmæssige kosttilskud; Medicinsk kosttilskud; Næringstilskud; Diætetiske og ernæringsmæssige kosttilskud; Næringstilskud; Næringspræparater til terapeutiske formål; Funktionelle fødevarer til brug som kosttilskud; Diætetiske præparater og næringspræparater.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Nahrungsergänzungsmittel für diätetische Zwecke; Medizinische Nahrungsergänzungsstoffe; Nahrungsergänzungsmittel; Nahrungsergänzungsmittel für diätetische Zwecke; Nahrungsergänzungsmittel; Nutrazeutika für therapeutische Zwecke; Funktionelle Nahrungsmittel zur Verwendung als Nahrungsergänzungsmittel; Diätetische und Nährstoffpräparate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συμπληρώματα διατροφής και δίαιτας· Φαρμακευτικά συμπληρώματα διατροφής· Συμπληρώματα διατροφής· Συμπληρώματα διατροφής και δίαιτας· Συμπληρώματα διατροφής· Φαρμακευτικά ιδιοσκευάσματα διατροφής για θεραπευτική χρήση· Φαρμακευτικά ιδιοσκευάσματα διατροφής για χρήση ως συμπληρώματα διατροφής· Διαιτητικά και διατροφικά παρασκευάσματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Dietary and nutritional supplements; Medicated food supplements; Nutritional supplements; Dietary and nutritional supplements; Nutritional supplements; Nutraceuticals for therapeutic purposes; Nutraceuticals for use as a dietary supplement; Dietetic and nutritional preparations.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Complementos dietéticos y nutricionales; Suplementos alimenticios medicinales; Suplementos nutricionales; Complementos dietéticos y nutricionales; Suplementos nutricionales; Nutracéuticos para uso terapéutico; Productos nutracéuticos como suplemento dietético; Preparaciones nutritivas y dietéticas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Dieet- ja toitelisandid; Ravitoimelised toidulisandid; Toidulisandid; Dieet- ja toitelisandid; Toidulisandid; Terapeutilised ravitoitained; Ravitoimega ravitoitained dieetlisandina kasutamiseks; Dieet- ja toitepreparaadid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Dieetti- ja ravintolisäaineet; Lääkeaineita sisältävät lisäravinteet; Lisäravintoaineet; Dieetti- ja ravintolisäaineet; Lisäravintoaineet; Terveysvaikutteiset elintarvikkeet hoitotarkoituksiin; Dieettilisäaineina käytettävät funktionaaliset elintarvikkeet; Dieetti- ja ravintovalmisteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Compléments nutritionnels et alimentaires; Suppléments alimentaires médicamenteux; Compléments nutritionnels; Compléments nutritionnels et alimentaires; Compléments nutritionnels; Nutraceutiques à usage thérapeutique; Produits nutraceutiques utilisés comme compléments diététiques; Préparations nutritionnelles et diététiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dijetetski i hranjivi dodaci; Ljekoviti dodaci hrani; Hranjivi dodaci; Dijetetski i hranjivi dodaci; Hranjivi dodaci; Nutraceutski proizvodi za primjenu u liječenju; Nutriceutici kao prehrambeni dodaci; Dijetetski i prehrambeni pripravci.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Étrend- és táplálékkiegészítők; Gyógyszeres táplálékkiegészítők; Táplálékkiegészítők; Étrend- és táplálékkiegészítők; Táplálékkiegészítők; Gyógyhatású élelmiszerek terápiás célokra; Étrendkiegészítőként használható gyógyélelmiszerek; Diétás és táplálkozási készítmények.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Integratori alimentari dietetici; Integratori alimentari medicati; Integratori dietetici per uso medico; Integratori alimentari per uso dietetico; Integratori alimentari per uso medico; Nutraceutici per uso terapeutico; Prodotti nutraceutici da utilizzare come integratori dietetici; Prodotti dietetici e nutrizionali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dietiniai ir maisto papildai; Gydomieji maisto papildai; Mitybos papildai; Dietiniai ir maisto papildai; Mitybos papildai; Nutraceutikai terapijos reikmėms; Nutraceutikai (biologiškai aktyvūs maisto papildai); Dietiniai ir mitybos preparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Diētiskās un uztura piedevas; Medikamentus saturoši uztura bagātinātāji; Uztura bagātinātāji; Diētiskās un uztura piedevas; Uztura bagātinātāji; Pārtikas piedevas ārstēšanas nolūkiem; Pārtikas produkti (ieskaitot uztura bagātinātājus) ar augstu veselību uzlabojošu vielu koncentrāciju; Diētiski un barojoši preparāti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Supplimenti tad-dieta u tan-nutrizzjoni; Supplimenti ta' ikel immedikat; Supplimenti ta' nutrizzjoni; Supplimenti tad-dieta u tan-nutrizzjoni; Supplimenti ta' nutrizzjoni; Nutraċewtiċi għal skopijiet terapewtiċi; Nutraċewtiċi għall-użu bħala supplimenti tad-dieta; Preparazzjonijiet dijetetiċi u nutrittivi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diëtische supplementen en voedselsupplementen; Medicinale supplementen voor voedsel; Voedingssupplementen; Diëtische supplementen en voedselsupplementen; Voedingssupplementen; Functionele voedingsmiddelen voor therapeutische doeleinden; Nutraceutische producten, te gebruiken als dieetsupplementen; Dieet- en voedingspreparaten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Suplementy dietetyczne i odżywcze; Lecznicze dodatki do żywności; Odżywcze suplementy diety; Suplementy dietetyczne i odżywcze; Odżywcze suplementy diety; Nutraceutyki do celów terapeutycznych; Nutraceutyki do stosowania jako suplementy diety; Preparaty dietetyczne i odżywcze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Suplementos dietéticos e nutricionais; Suplementos alimentares medicinais; Suplementos nutricionais; Suplementos dietéticos e nutricionais; Suplementos nutricionais; Nutracêuticos para uso terapêutico; Nutracêuticos para usar como suplementos dietéticos; Produtos nutricionais e dietéticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suplimente dietetice şi nutritive; Suplimente alimentare medicinale; Suplimente nutritive; Suplimente dietetice şi nutritive; Suplimente nutritive; Nutraceutice de uz terapeutic; Nutraceutice utilizate ca supliment dietetic; Preparate dietetice și alimentare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Výživové doplnky; Liečivé výživové doplnky; Výživové doplnky; Výživové doplnky; Výživové doplnky; Nutraceutiká na lekárske účely; Výživné látky používané ako dietetické doplnky; Dietetické a výživové doplnky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Prehranski in hranilni dodatki; Prehranski dodatki z zdravilnimi učinkovinami; Hranilni dodatki; Prehranski in hranilni dodatki; Hranilni dodatki; Nutracevtiki za terapevtske namene; Nutracevtiki, ki se uporabljajo kot prehrambeni dodatki; Dietetski in prehranski pripravki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Diet- och näringstillskott; Medicinska födoämnestillskott; Näringstillskott; Diet- och näringstillskott; Näringstillskott; Funktionella livsmedel för terapeutiska ändamål; Nutraceutiska preparat för användning som dietiska tillskott; Kost- och näringstillskott.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/097</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-25</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/167</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-02</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>635145</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15066</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017725790</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15066</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-04-21</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

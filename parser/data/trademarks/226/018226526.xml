@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:37</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226526</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226526</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Samedisoft</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Дезинфектанти за домакинска употреба; Дезинфектанти за хигиенни цели; Дезинфектанти за медицинска употреба; Дезинфектанти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Dezinfekční látky k použití v domácnosti; Dezinfekční prostředky pro hygienické účely; Dezinfekční přípravky pro lékařské použití; Dezinfekční přípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Desinfektionsmidler til husholdningsbrug; Desinfektionsmidler til hygiejniske formål; Desinfektionsmidler til medicinske formål; Desinfektionsmidler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Desinfektionsmittel für Haushaltszwecke; Desinfektionsmittel für hygienische Zwecke; Desinfektionsmittel für den Haushalt; Desinfektionsmittel für medizinische Zwecke; Desinfektionsmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Απολυμαντικά για οικιακή χρήση· Απολυμαντικά για υγειονομική χρήση· Απολυμαντικά για ιατρικούς σκοπούς· Απολυμαντικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Sanitizers for household use; Disinfectants for hygiene purposes; Disinfectants for medical use; Disinfectants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Desinfectantes para uso doméstico; Desinfectantes para uso higiénico; Desinfectantes para uso médico; Desinfectantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Desinfitseerivad ained majapidamises kasutamiseks; Hügieenilised desinfektsioonivahendid; Meditsiinilised desinfektsiooniained; Desinfektsioonivahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Desinfiointiaineet kotitalouskäyttöön; Desinfiointiaineet hygieenisiin tarkoituksiin; Desinfiointiaineet lääketieteellisiin tarkoituksiin; Desinfiointiaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Désinfectants à usage ménager; Désinfectants à usage hygiénique; Désinfectants à usage médical; Désinfectants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dezinfekcijska sredstva za kućnu uporabu; Dezinfekcijska sredstva za higijenske namjene; Dezinficijensi za primjenu u medicini; Dezinfekcijska sredstva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fertőtlenítők háztartási használatra; Fertőtlenítőszerek higiéniai célokra; Fertőtlenítő szerek gyógyászati használatra; Fertőtlenítőszerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Disinfettanti per uso domestico; Disinfettanti per uso igienico; Disinfettanti per uso medico; Disinfettanti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Buitiniai dezinfektantai; Dezinfekavimo priemonės (higienos reikmėms); Dezinfekavimo preparatai medicinos reikmėms; Dezinfekantai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dezinfekcijas līdzekļi mājsaimniecības nolūkiem; Dezinfekcijas līdzekļi higiēniskiem nolūkiem; Dezinficējoši līdzekļi medicīniskai izmantošanai; Dezinfekcijas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Materjal biex itejjeb l-iġjene għall-użu domestiku; Diżinfettanti għal skopijiet ta' iġjene; Diżinfettanti għal skopijiet mediċi; Diżinfettanti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Sanitaire doekjes voor huishoudelijk gebruik; Desinfecterende middelen voor hygiënisch gebruik; Ontsmettingsmiddelen voor medische doeleinden; Desinfectiemiddelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Środki odkażające do użytku domowego; Środki dezynfekcyjne do celów higienicznych; Środki dezynfekcyjne do celów medycznych; Środki odkażające.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Soluções desinfetantes para uso doméstico; Desinfetantes para uso higiénico; Desinfetantes para uso médico; Desinfetantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Produse dezinfectante de uz menajer; Dezinfectante folosite pentru igienă; Dezinfectanți de uz medical; Dezinfectante.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Dezinfekčné látky na domáce účely; Dezinfekčné prípravky na hygienické použitie; Dezinfekčné prípravky na lekárske účely; Dezinfekčné prípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Dezinfekcijska sredstva za gospodinjsko uporabo; Razkužila za higienske namene; Dezinfekcijska sredstva za medicinsko uporabo; Razkužila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Steriliseringspreparat för hushållsändamål; Desinfektionsmedel för hygieniska ändamål; Desinfektionsmedel för medicinskt bruk; Desinfektionsmedel.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Защитни маски за уста за медицинска употреба; Ръкавици за медицински цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Ochranné ústní masky pro lékařské použití; Návleky na ruce pro lékařské použití.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beskyttende mundbind til medicinske formål; Undersøgelseshandsker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Mundschutzmasken für medizinische Zwecke; Handschuhe für medizinische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Προστατευτικές μάσκες στόματος για ιατρική χρήση· Μονοκόμματα γάντια ιατρικής χρήσης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Protective mouth masks for medical use; Mittens for medical use.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Mascarillas bucales de protección para uso médico; Manoplas para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiinilised suukaitsemaskid; Meditsiinilised kindad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Suojaavat suunaamarit lääketieteelliseen käyttöön; Kintaat lääkinnällisiin tarkoituksiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Masques de protection buccale à usage médical; Moufles à usage médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Zaštitne maske za usta za medicinsku uporabu; Navlake za ruke bez prstiju za medicinske potrebe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szájvédő maszkok orvosi használatra; Egyujjas orvosi kesztyűk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Maschere di protezione per la bocca per uso medico; Manopole per uso medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Apsauginės burnos kaukės medicinos reikmėms; Medicininės kumštinės pirštinės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mutes aizsargmaskas, kas paredzētas lietošanai medicīnā; Medicīnas cimdi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Maskri protettivi tal-ħalq għall-użu mediku; Ingwanti għal użu mediku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Mondmaskers (Beschermende -) voor medisch gebruik; Wanten voor medische gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maski ochronne na usta do użytku medycznego; Osłony bez palców na ręce do użytku medycznego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máscaras de proteção para a boca para uso médico; Mitenes para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Măști de protecție pentru gură de uz medical; Mănuși de uz medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Ochranné masky na ústa na lekárske použitie; Návleky na ruky na lekárske použitie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zaščitne maske za usta za medicinsko uporabo; Palčniki [rokavice] za medicinske namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Skyddande munmasker för medicinskt bruk; Tumvantar för medicinskt bruk.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>21</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Ръкавици за домакински цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Rukavice pro použití v domácnosti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Handsker til husholdningsbrug.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Haushaltshandschuhe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Γάντια οικιακής χρήσης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Gloves for household purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Guantes para uso doméstico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Majapidamiskindad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Käsineet kotitalouskäyttöön.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Gants de ménage.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Rukavice za kućanstvo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kesztyűk háztartási használatra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Guanti per uso domestico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Buitinės pirštinės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Cimdi mājsaimniecības nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ingwanti għal skopijiet domestiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Handschoenen voor huishoudelijk gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Rękawice do użytku domowego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Luvas para uso doméstico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Mănuși de menaj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Rukavice pre domácnosť.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Rokavice za gospodinjske namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Handskar för hushållsändamål.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>81232</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>20990</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

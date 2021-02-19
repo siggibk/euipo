@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-15T09:20:17</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224185</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224185</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-09-12</RegistrationDate>
+<ApplicationLanguageCode>hu</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>DOGON</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162204860</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224185/000162204860.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>03.09.10</CategoryCode>
+          <CategoryCode>03.09.24</CategoryCode>
+          <CategoryCode>26.03.04</CategoryCode>
+          <CategoryCode>26.03.23</CategoryCode>
+          <CategoryCode>26.03.24</CategoryCode>
+          <CategoryCode>26.11.02</CategoryCode>
+          <CategoryCode>26.11.13</CategoryCode>
+          <CategoryCode>27.05.05</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хранителни добавки и диетични препарати; Минерални хранителни препарати за медицински цели; Препарати на базата на минерали за медицински цели; Фармацевтични препарати и натурални средства за лечение.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Potravní doplňky a dietetické přípravky; Minerální potravinové přípravky pro léčebné účely; Minerální přípravky pro lékařské účely; Farmaceutické přípravky a přírodní léčiva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kosttilskud og diætetiske præparater; Mineralske fødevarepræparater til medicinske formål; Mineralpræparater til medicinske formål; Farmaceutiske præparater og naturlægemidler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Diätetische Präparate und Nahrungsergänzungsmittel; Nahrungsmittelpräparate mit Mineralstoffen für medizinische Zwecke; Mineralstoffpräparate für medizinische Zwecke; Arzneimittel und natürliche Heilmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συμπληρώματα διατροφής και διαιτητικά παρασκευάσματα· Παρασκευάσματα διατροφής με μεταλλικά στοιχεία για ιατρική χρήση· Παρασκευάσματα από μεταλλικά στοιχεία για ιατρικές χρήσεις· Φαρμακευτικά προϊόντα και φυσικές θεραπείες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Dietary supplements and dietetic preparations; Mineral food preparations for medical purposes; Mineral preparations for medical purposes; Pharmaceuticals and natural remedies.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Suplementos y preparaciones dietéticas; Preparaciones alimenticias a base de minerales para uso médico; Preparados a base de minerales para uso médico; Remedios naturales y farmacéuticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toidulisandid ja farmatseutilised dieetained; Meditsiinilised mineraaltoidupreparaadid; Mineraalpreparaadid meditsiiniliseks kasutuseks; Farmatseutilised ja looduslikud ravimid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lisäravinteet ja dieettivalmisteet; Kivennäisaineita sisältävät ruokavalmisteet lääkinnällisiin tarkoituksiin; Kivennäisainevalmisteet lääkinnälliseen käyttöön; Lääkkeet ja luonnonlääkkeet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Compléments alimentaires et préparations diététiques; Produits alimentaires à base de minéraux à usage médical; Préparations minérales à usage médical; Produits pharmaceutiques et remèdes naturels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dodaci prehrani i dijetetski pripravci; Mineralni dodaci prehrani za medicinske svrhe; Mineralni pripravci za medicinske potrebe; Farmaceutski proizvodi i prirodna ljekovita sredstva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Táplálékkiegészítők és diétás készítmények; Ásványi élelmiszer-készítmények gyógyászati célokra; Ásványi készítmények gyógyászati célokra; Gyógyszerek és természetes gyógykészítmények.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Integratori alimentari e preparati dietetici; Preparati alimentari minerali per scopi medici; Preparati a base di minerali per uso medico; Medicamenti farmaceutici e naturali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Maisto papildai ir dietiniai produktai; Mineralinio maisto preparatai medicinos reikmėms; Mineralų preparatai medicinos reikmėms; Farmaciniai ir natūralūs vaistiniai preparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Uztura bagātinātāji un diētiskie preparāti; Minerālvielas saturošas sagataves medicīniskiem nolūkiem; Minerālvielu preparāti medicīniskiem nolūkiem; Farmaceitiskie un dabiskie ārstniecības līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Supplimenti tad-dieta u preparazzjonijiet dijetetiċi; Preparazzjonijiet ta' ikel minerali għal skopijiet mediċi; Preparazzjonijiet minerali, għall-użu mediku; Farmaċewtiċi u rimedji naturali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diëtische supplementen en diëtische preparaten; Minerale voedingspreparaten voor medische doeleinden; Mineraalpreparaten voor medische doeleinden; Farmaceutische en natuurlijke geneesmiddelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Suplementy diety i preparaty dietetyczne; Mineralne preparaty spożywcze do celów medycznych; Preparaty mineralne do celów medycznych; Farmaceutyki i naturalne środki lecznicze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Suplementos e preparações dietéticos; Preparações alimentares à base de minerais para uso médico; Preparações à base de minerais para uso médico; Produtos farmacêuticos e remédios naturais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suplimente alimentare si preparate dietetice; Produse alimentare minerale pentru scopuri medicale; Preparate minerale de uz medical; Remedii naturale şi farmaceutice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Výživové doplnky a dietetické prípravky; Minerálne potravinové prípravky na liečebné účely; Minerálne prípravky na lekárske použitie; Farmaceutické a prírodné liečivá.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Prehranska dopolnila in dietetske snovi; Mineralni živilski pripravki za medicinske namene; Mineralni pripravki za medicinske namene; Farmacevtski proizvodi in naravna zdravila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Dietiska tillskott och preparat; Mineralpreparat för livsmedel för medicinska ändamål; Mineralpreparat för medicinska ändamål; Läkemedel och naturläkemedel.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/105</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/176</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>74150</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

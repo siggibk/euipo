@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-03T09:03:01</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226215</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226215</ApplicationNumber>
+<ApplicationDate>2020-04-14</ApplicationDate>
+<RegistrationDate>2020-09-01</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-14</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-03</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>balu</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162306470</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226215/000162306470.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>03.01.14</CategoryCode>
+          <CategoryCode>03.01.16</CategoryCode>
+          <CategoryCode>03.01.24</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>16</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Стикери.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Samolepky [papírnické zboží].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Selvklæbende etiketter [papirhandlervarer].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Aufkleber.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αυτοκόλλητα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Stickers [stationery].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Adhesivos [artículos de papelería].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kleebised [kantseleitarbed].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tarrakuvat [paperikauppatavaroina].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Autocollants [articles de papeterie].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Naljepnice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Öntapadós címkék, matricák [papíripari].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Autoadesivi [articoli di cartoleria].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Lipdukai [raštinės reikmenys].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Uzlīmes [biroja preces].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Stikers [kartolerija].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Stickers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Nalepki, naklejki [materiały piśmienne].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Autocolantes [artigos de papelaria].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Autocolante [articole de papetărie].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Samolepky (papiernický tovar).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Nalepke [pisalne potrebščine].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Klistermärken [pappersvaror].</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>18</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Куфари, чанти, портфейли и други изделия за пренасяне на багаж.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zavazadla, cestovní tašky, peněženky a ostatní tašky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Rejsetasker, tasker, tegnebøger og andre bæreposer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Gepäck, Taschen, Brieftaschen und andere Tragebehältnisse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ταξιδιωτικές αποσκευές, τσάντες, πορτοφόλια και άλλα είδη μεταφοράς.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Luggage, bags, wallets and other carriers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Equipaje, bolsos, carteras y otros porta objetos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kohvrid, kotid, rahakotid ja muud sarnased kandmisvahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Matkalaukut, laukut, lompakot ja muut kantimet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Bagages, sacs, portefeuilles et autres objets de transport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kovčezi, torbe, novčanici i drugi proizvodi za nošenje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Utazótáskák, bőröndök, tárcák és más hordozóeszközök.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Valigie, borse, portafogli e contenitori portatili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Lagaminai, rankinukai, piniginės ir kiti krepšiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Bagāžas somas un čemodāni, somas, naudas maki un citi piederumi lietu pārnēsāšanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Bagalji, basktijiet, kartieri u oġġetti oħra li ġġor fihom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bagage, tassen, knapzakken en andere draagtassen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Walizy, torby podróżne, torby, portfele i inne artykuły służące do przenoszenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bagagens, malas, carteiras e outras bolsas de transporte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Bagaje, pungi, portofele şi alte accesorii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kufre, tašky, peňaženky a výrobky koženej galantérie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kovčki, potovalne torbe, denarnice in drugi podobni proizvodi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Resgods, väskor, plånböcker och andra artiklar för bärhjälp.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Надуваеми матраци за употреба по време на лагеруване; Матраци за къмпинг [дюшеци].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nafukovací matrace na kempování; Podložky na spaní pro kempování (matrace).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Oppustelige madrasser til camping; Liggeunderlag til camping (madrasser).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Aufblasbare Matratzen für Campingzwecke; Schlafmatten [Matratzen] für Campingzwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φουσκωτά στρώματα για χρήση στην κατασκήνωση· Λεπτά στρώματα για κατασκήνωση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Inflatable mattresses for use when camping; Sleeping mats for camping [mattresses].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Colchones hinchables para su uso en acampadas; Esteras de dormir para acampar [colchonetas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Matkamisel kasutatavad täispuhutavad madratsid; Matkamagamismatid [madratsid].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ilmalla täytettävät patjat retkeilykäyttöön; Makuualustat retkeilykäyttöön [patjat].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Matelas gonflables pour le camping; Tapis de sol pour le camping [matelas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Madraci na napuhavanje za kampiranje; Madraci za spavanje za kampiranje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Felfújható matracok kempingezéshez; Kempingmatracok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Materassi gonfiabili da campeggio; Stuoie da campeggio [materassi].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Pripučiamieji čiužiniai stovyklavimo reikmėms; Stovykliniai kilimėliai [čiužiniai].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Piepūšamie matrači pārgājieniem; Gulēšanas paklājiņi (matrači) kempingiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Saqqijiet jintefħu bl-arja għall-użu fl-ikkampjar; Twapet żgħar għall-irqad waqt il-kampeġġi (mtieraħ).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Opblaasbare matrassen voor het kamperen; Slaapmatjes [matrassen] voor het kamperen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Materace nadmuchiwane kempingowe; Maty kempingowe do spania [materace].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Colchões insufláveis para campismo; Esteiras de dormir para campismo [colchões].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Saltele gonflabile pentru camping; Covoraşe pentru camping [saltele].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nafukovacie matrace používané na stanovanie; Podložky na spanie pre kempovanie [matrace].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Napihljiva ležišča za kampiranje; Spalne podloge za kampiranje [vzmetnice].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Uppblåsbara madrasser för användning vid camping; Liggunderlag för campingändamål.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Облекло.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Oděvy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beklædningsgenstande.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bekleidungsstücke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ενδύματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Clothing.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Prendas de vestir.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Rõivad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vaatteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vêtements.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Odjeća.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ruházati cikkek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Abbigliamento.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Drabužiai, apranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apģērbi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ilbies.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kleding.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odzież.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vestuário.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Articole de îmbrăcăminte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Odevy, oblečenie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oblačila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kläder.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/097</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-25</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/167</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-02</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

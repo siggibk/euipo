@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T11:10:28</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229233</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229233</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>minimalregal</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162455869</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229233/000162455869.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.21</CategoryCode>
+          <CategoryCode>27.99.13</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Рафтове за складове; Рафтове за складове; Поставки за табла за обяви; Системи от етажерки [мебели]; Сглобяеми рафтове [мебели]; Рафтове за продажба под формата на комплекти; Решетъчни бар- поставки (мебели); Етажерки от метал (мебели); Канализирани ленти (Неметални -) за фиксиране на рафтове към стени; Полици, опори от метал [части на мебели]; Метални разделители за рафтове [части на мебели]; Стойки за книги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Regály [nábytek]; Policové skříně; Stojany na vystavení zboží; Modulární police (nábytek); Prefabrikované police (nábytek); Police prodávané jako sady; Nosné tyče (nábytek); Kovové police jako nábytek; Nekovové pásové lišty pro upevnění polic ke stěnám; Kovové podpěrky polic (části nábytku); Kovové rozdělovače na police (části nábytku); Stojany na knihy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Reoler [møbler]; Hyldemoduler; Udstillingsstativer; Modulopbyggede hylder [Møbler]; Præfabrikerede hylder [møbler]; Hyldesæt til salg af varer; Stativstænger [møbler]; Metalreoler (møbler); Vægskinner (ikke af metal) til hylder; Hyldebeslag af metal (dele af møbler); Hyldedelere af metal [dele til møbler]; Læsestativer [møbler].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Regale; Regalelemente; Regaleinheiten; Regale für Ausstellungszwecke; Modulare Regale [Möbel]; Vorgefertigte Regale [Möbel]; Als Bausätze verkaufte Regale; Als Komplettbausätze verkaufte Regale; Gestänge für Regale [Möbel]; Regale aus Metall [Möbel]; Möbel aus Metall als Regale; Kannelierte Schienen, nicht aus Metall, zur Wandbefestigung von Regalen; Regalstützen aus Metall [Teile von Möbeln]; Regaltrennwände aus Metall [Teile von Möbeln]; Buchstützen [Möbel].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ράφια για αποθήκευση· Ράφια για αποθήκευση· Προθήκες· Αρθρωτά συστήματα ραφιών [έπιπλα]· Προκατασκευασμένα ράφια (έπιπλα)· Ράφια για πώληση σε μορφή κιτ· Βέργες ραφιών (έπιπλα)· Μεταλλικά ράφια (έπιπλα)· Αυλακωτές λωρίδες (μη μεταλλικές) για ασφάλιση ραφιών σε τοίχους· Μεταλλικά στηρίγματα ραφιών [μέρη επίπλων]· Μεταλλικά διαχωριστικά ραφιών [μέρη επίπλων]· Βιβλιοστάτες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Racks [furniture]; Shelving units; Display stands; Modular shelving [furniture]; Prefabricated shelves [furniture]; Shelving for sale in kit form; Rack bars [furniture]; Racks being furniture of metal; Channelled strips (Non-metallic -) for securing shelves to walls; Shelf supports of metal [parts of furniture]; Shelf dividers of metal [parts of furniture]; Book rests [furniture].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Estantes [muebles]; Estanterías; Expositores [muebles]; Estanterías modulares [mobiliario]; Estanterías prefabricadas [muebles]; Estanterías vendidas en forma de kit; Barras de bastidores [muebles]; Estantes metálicos [mobiliario]; Bandas acanaladas (no metálicas) para asegurar estanterías a paredes; Soportes para baldas metálicas [partes de muebles]; Separadores metálicos para estanterías [partes de muebles]; Atriles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Väikesed riiulid [mööbel]; Laoriiulid; Näitusestendid; Moodulriiulid [mööbel]; Valmisriiulid [mööbel]; Komplektina müüdavad riiulid; Riputuspuud, -torud [mööbel]; Metallriiulid [mööbel]; Uuristatud ribad riiulite seinale kinnitamiseks, v.a metallist; Metallist riiulitoendid mööbliosadena; Riiulite metallist vaheseinad [mööbliosad]; Raamatualused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Hyllyt [kaluste]; Hyllyt (Varastointi -); Näyttelytelineet; Moduuleista koostuvat hyllyköt [huonekalut]; Asennusvalmiit hyllyt [huonekalut]; Sarjoina myytävät hyllyt; Hyllytangot [huonekalut]; Metalliset hyllyt [huonekalut]; Uritetut kiskot (ei-metalliset) hyllyjen kiinnittämiseksi seinään; Metalliset hyllyjen tuet [huonekalujen osat]; Metalliset hyllyjen välilevyt [huonekalujen osat]; Kirjatuet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Rayonnages [meubles]; Étagères [meubles]; Présentoirs; Rayonnages modulaires [mobilier]; Étagères préfabriquées [mobilier]; Étagères vendues en kits; Barres d'étagères [meubles]; Rayonnages sous forme de meubles en métal; Bandes cannelées non métalliques pour la fixation murale d'étagères; Supports métalliques d'étagères [pièces de mobilier]; Compartiments en métal pour étagères [éléments de mobilier]; Chevalets pour livres.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Stalci; Police za skladištenje; Stalci za potrebe prikazivanja; Modularne police [namještaj]; Montažne police [namještaj]; Police za prodaju u obliku kompleta; Šipke za police [namještaj]; Police kao metalni namještaj; Žljebaste trake (Nemetalne -) za pričvršćivanje polica na zidove; Metalni potporni elementi za police [dijelovi namještaja]; Metalne pregrade za police [dijelovi namještaja]; Stalci za knjige [namještaj].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Állványok, polcok; Tárolópolcok; Árubemutató állványok; Elemes polcok [bútorok]; Előregyártott polcok [bútorok]; Készletben árult polcok; Tartórudak [bútorok]; Állványok, polcok mint fémbútorok; Csatorna sínek (nem fémből) polcok falhoz való biztonságos rögzítésére; Fém polctartók [bútorok részei]; Fém polcosztók [bútorelemek]; Könyvállványok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Scaffalature; Scaffali; Espositori; Scaffalature modulari [mobili]; Scaffali prefabbricati [mobili]; Scaffali venduti in forma di kit di montaggio; Ripiani a sbarre [mobili]; Scaffali ovvero mobili di metallo; Strisce scanalate (non metalliche) per il fissaggio di scaffali a pareti; Supporti per scaffali in metallo [parti di mobili]; Divisori per scaffali in metallo [parti di mobili]; Supporti per libri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Lentynos [baldai]; Stelažai; Vitrinos; Modulinės lentynų sistemos [baldai]; Surenkamosios lentynos [baldai]; Lentynos [sukomplektuotos]; Lentynų strypai [baldai]; Metaliniai stelažai [baldai]; Ne metalinės juostos su grioveliais (bėgeliais) lentynoms prie sienos tvirtinti; Metaliniai lentynų laikikliai [baldų dalys]; Metalinės lentynų pertvaros [baldų dalys]; Knygų stovai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Sastatņu plaukti (mēbeles); Plauktu sistēmas; Izstāžu stendi; Moduļu plaukti [mēbeles]; Plauktu sagataves [mēbeles]; Plaukti pārdošanai komplektos; Plauktu stieņi (mēbeles); Metāla plaukti [mēbeles]; Gropētas sloksnes (nemetāliskas) plauktu piestiprināšanai pie sienām; Metāla plauktu balsti [mēbeļu daļas]; Metāla plauktu nodalījumi [mēbeļu sastāvdaļas]; Grāmatu pultis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xkafef; Xkafef għall-ħażna; Tagħmir għaż-żamm ta' xi ħaġa għall-wiri; Xkaffar modulari [għamara]; Xkafef prefabbrikati; Xkafef għall-bejgħ fil-forma ta' kitts; Vireg tal-ixtillieri [għamara]; Għamara magħmula mill-metall, speċjalment xkafef; Strixxi (mhux metalliċi) għat-twaħħil ta' xkafef mal-ħajt; Appoġġi għall-xkafef tal-metall [partijiet ta' għamara]; Diviżorji għall-ixkafef tal-metall [partijiet ta' għamara]; Appoġġi għall-kotba.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Rekken [stellingen]; Legplanken; Displays [verkoopstandaards]; Modulaire planken [meubelen]; Legplanken (voorgefabriceerde -) [meubelen]; Legplanken om te worden verkocht als sets; Beugelstangen [meubelen]; Rekken zijnde meubelen van metaal; Stroken (Gegroefde -) niet van metaal voor het bevestigen van legplanken aan muren; Planksteunen van metaal [onderdelen van meubelen]; Plankverdelers van metaal [onderdelen van meubelen]; Boekenstandaards.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Stojaki, półki; Półki magazynowe; Stoiska wystawowe; Modułowe układy półek [meble]; Półki prefabrykowane [meble]; Półki do sprzedaży w zestawach; Pręty do półek [meble]; Regały metalowe [stojaki z półkami]; Prowadnice niemetalowe z kanałem do mocowania na ścianach półek; Wsporniki do półek metalowe [części mebli]; Metalowe przegródki do półek [części mebli]; Podpórki pod książki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Estantes [mobiliário]; Estantes; Expositores [móveis]; Módulos de estantes [mobiliário]; Prateleiras pré-fabricadas [mobiliário]; Prateleiras para venda sob forma de kit; Barras de prateleiras [mobiliário]; Prateleiras de mobiliário [metálicas]; Faixas canalizadas, não metálicas, para fixar prateleiras às paredes; Suportes metálicos para prateleiras [partes de móveis]; Divisórias metálicas para prateleiras [partes de móveis]; Suportes para livros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Polițe; Rafturi pentru depozitare; Standuri de prezentare; Rafturi modulare [mobilier]; Rafturi prefabricate [mobilier]; Rafturi pentru comercializare la set; Bare pentru rafturi [mobilier]; Rafturi metalice [mobilier]; Benzi canelate (nemetalice) pentru fixarea polițelor pe pereți; Suporturi de raft metalice [piese de mobilier]; Separatoare metalice pentru rafturi [piese de mobilier]; Suporturi pentru cărți.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Police (samostatne stojaci nábytok); Police (nábytok); Vystavovacie stojany; Modulárne policové zostavy [nábytok]; Prefabrikované police a regály [nábytok]; Police predávané v podobe súpravy; Policové tyče [nábytok]; Kovové nábytkové regály; Nekovové vrúbkované pásy na pripevňovanie políc k stene; Kovové podpery na police [časti nábytku]; Kovové policové deliace prvky [časti nábytku]; Stojany na knihy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Stojala; Police za shranjevanje; Razstavna stojala; Modularni (sestavljivi) regali [pohištvo]; Montažne police [pohištvo]; Regali za prodajo v kompletu; Palice za regale [pohištvo]; Kovinski regali (pohištvo); Nekovinski trakovi s kanalom, za pritrjevanje polic na zid; Nosilci za police iz kovine [deli pohištva]; Kovinske pregrade za police [deli pohištva]; Stojala za knjige.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Ställ [möbler]; Lagerhyllor; Skyltställ; Modulhyllor [möbler]; Prefabricerade hyllor [möbler]; Hyllor till försäljning i form av byggsats; Ställstänger [möbler]; Hyllor tillverkade av metall [möbler]; Räfflade skenor för fastsättande av hyllor på väggar, inte av metall; Stöd av metall för hyllor [delar till möbler]; Hyllavdelare av metall [möbeldelar]; Bokställ [möbler].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/081</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-30</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/150</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1081947</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>58560</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

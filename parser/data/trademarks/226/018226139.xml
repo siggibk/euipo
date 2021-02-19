@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-31T00:36:25</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226139</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226139</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-09</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SMARTFOX</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162307775</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226139/000162307775.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>03.01.08</CategoryCode>
+          <CategoryCode>03.01.16</CategoryCode>
+          <CategoryCode>03.01.24</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Апарати, инструменти и кабели за електричество; Апарати и уреди за акумулиране и съхранение на електричество; Апарати и уреди за управление на електричество; Електрически и електронни компоненти; Фотоволтаични апарати за генериране на електричество; Апарати за непрекъснато захранване на енергия; Апарати и инструменти за провеждане на електроразпределението; Регулеруеми апарати за енергоснабдяване; Апарати за подобряване на енергийната ефективност; Инструменти за разпределение на електрически ток; Станции за зареждане на електрически превозни средства; Електрически блокове; Апарати за непрекъснато доставяне на енергия [батерии]; Бази данни; Данни записани елекртоннo; Устройства за измерване, откриване, наблюдение и контрол; Измервателни устройства; Сензори, детектори и уреди за наблюдение; Контролери и регулатори.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Přístroje, nástroje a kabely pro oblast elektřiny; Přístroje a zařízení pro akumulaci a ukládání elektrické energie; Přístroje a zařízení pro řízení elektrického proudu; Elektrické a elektronické prvky; Fotovoltaická zařízení pro výrobu elektřiny; Nepřerušitelný zdroj napájení přístrojů; Přístroje a nástroje pro řízení rozvodu elektrického proudu; Přístroje na řízenou dodávku elektřiny; Přístroje pro zvýšení energetické účinnosti; Přístroje pro rozvod elektrického proudu; Nabíjecí stanice pro elektrická vozidla; Jednotky elektrické energie; Zařízení pro nepřetržitou dodávku proudu (baterie); Databáze; Elektronicky zaznamenaná data; Měřicí, detekční, monitorovací a kontrolní zařízení; Měřící zařízení; Senzory, detektory a monitorovací nástroje; Ovladače a regulační přístroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Apparater, instrumenter og kabler til elektricitet; Apparater og instrumenter til akkumulering og oplagring af elektrisk strøm; Apparater og instrumenter til styring af elektrisk strøm; Elektriske og elektroniske komponenter; Fotovoltaiske apparater til produktion af elektricitet; Kontinuerlige strømforsyningsapparater; Apparater og instrumenter til ledning af eldistribution; Apparater til regulering af strømforsyning; Apparater til forbedring af energieffektivitet; Instrumenter til distribution af elektricitet; Ladestandere til elektriske køretøjer; Elektriske strømforsyningsenheder; Afbrydelsessikre apparater til strømforsyning [batterier]; Databaser; Data optaget elektronisk; Apparater til måling, detektering, overvågning og kontrol; Måleapparater; Sensorer, detektorer og overvågningsinstrumenter; Kontroller og regulatorer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Apparate, Instrumente und Kabel für Elektrizität; Apparate und Instrumente zum Akkumulieren und Speichern von Elektrizität; Apparate und Instrumente zum Regeln von Elektrizität; Elektrische und elektronische Bauteile; Photovoltaische Anlagen für die Erzeugung von Elektrizität; Apparate für die unterbrechungsfreie Stromversorgung; Apparate und Instrumente zum Leiten der Verteilung von Elektrizität; Geregelte Stromversorgungsapparate; Geräte zur Verbesserung der Energieeffizienz; Instrumente für die Verteilung von elektrischem Strom; Ladestationen für Elektrofahrzeuge; Stromversorgungseinheiten; Unterbrechungsfreie Stromversorgungen in Form von Batterien; Datenbanken; Elektronisch aufgezeichnete Daten; Mess-, Erkennungs-, Überwachungs- und Kontrollgeräte; Messgeräte und -apparate; Sensoren, Detektoren sowie Überwachungsinstrumente und -apparate; Steuer- und Regelgeräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συσκευές, όργανα και καλώδια για ηλεκτρισμό· Συσκευές και όργανα για τη συσσώρευση και αποθήκευση ηλεκτρικής ενέργειας· Συσκευές και όργανα για τον έλεγχο του ηλεκτρικού ρεύματος· Ηλεκτρικά και ηλεκτρονικά εξαρτήματα· Φωτοβολταϊκές συσκευές για την παραγωγή ηλεκτρικής ενέργειας· Συσκευές αδιάλειπτης τροφοδοσίας ισχύος· Συσκευές και όργανα για τη διενέργεια της διανομής του ηλεκτρικού ρεύματος· Ρυθμιζόμενες συσκευές τροφοδοσίας ηλεκτρικού ρεύματος· Συσκευές για τη βελτίωση της απόδοσης ισχύος· Συσκευές διανομής ηλεκτρικού ρεύματος· Σταθμοί φόρτισης για ηλεκτρικά οχήματα· Μονάδες ηλεκτρικής ισχύος· Συσκευές αδιάλειπτης παροχής ισχύος (μπαταρίες)· Βάσεις δεδομένων· Δεδομένα εγγεγραμμένα σε ηλεκτρονική μορφή· Συσκευές μέτρησης, ανίχνευσης, παρακολούθησης και ελέγχου· Διατάξεις μέτρησης· Αισθητήρες, ανιχνευτές και εργαλεία παρακολούθησης· Συσκευές ελέγχου και ρυθμιστές.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Apparatus, instruments and cables for electricity; Apparatus and instruments for accumulating and storing electricity; Apparatus and instruments for controlling electricity; Electrical and electronic components; Photovoltaic apparatus for generating electricity; Uninterruptable power supply apparatus; Apparatus and instruments for conducting the distribution of electricity; Regulated power supply apparatus; Apparatus for improving power efficiency; Instruments for distributing electrical current; Charging stations for electric vehicles; Electric power units; Uninterruptible power supply apparatus [battery]; Databases; Data recorded electronically; Measuring, detecting, monitoring and controlling devices; Measuring devices; Sensors, detectors and monitoring instruments; Controllers and regulators.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aparatos, instrumentos y cables para la conducción de la electricidad; Aparatos e instrumentos para acumular y almacenar la electricidad; Aparatos e instrumentos para el control de la corriente eléctrica; Componentes eléctricos y electrónicos; Aparatos fotovoltaicos para generar electricidad; Aparatos de suministro eléctrico de alimentación ininterrumpida; Aparatos e instrumentos para realizar la distribución de electricidad; Aparatos de suministro regulado de energía; Aparatos para incrementar la eficiencia energética; Instrumentos para la distribución de energía eléctrica; Estaciones de recarga para vehículos eléctricos; Unidades de energía eléctrica; Aparatos de suministro eléctrico ininterrumpible [baterías]; Bancos de datos; Datos grabados electrónicamente; Dispositivos de medición, detección, supervisión y control; Dispositivos de medida; Sensores, detectores e instrumentos de monitorización; Aparatos de regulación y control.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Elektrotehnikaaparaadid, -seadmed ja -kaablid; Elektriakumuleerimis- ja -salvestusseadmed ja -riistad; Elektrijuhtimisseadmed ja -riistad; Elektri- ja elektroonikakomponendid; Elektri tootmise päikeseseadmed; Katkematud toiteallikad; Elektritarne juhtimisseadmed ja -vahendid; Reguleeritud toiteseadmed; Energiatõhusust suurendavad seadmed; Elektrivoolu jaotusseadmed; Elektrisõidukite laadimisjaamad; Elektrilised toiteallikad; Katkematu toiteallika seadmed [akud]; Arvutite andmebaasid; Elektrooniliselt salvestatud andmed; Mõõte-, tuvastus-, seire- ja juhtseadmed; Mõõteaparaadid, mõõteseadmed; Andurid, detektorid ja seireseadmed; Kontrollerid ja regulaatorid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Laitteistot, välineet ja kaapelit sähköä varten; Laitteet ja välineet sähkön varaamiseen ja varastoimiseen; Sähkön hallintalaitteet ja -välineet; Sähkö- ja elektroniikkakomponentit; Valosähkölaitteet sähkön tuottamiseen; Keskeytymättömät virtalähteet; Laitteet ja välineet sähkönjakelun ohjaamiseen; Vakavoidut teholähdelaitteet; Laitteet sähkövirran hyötysuhteen parantamiseen; Välineet sähkövirran jakeluun; Sähköajoneuvojen latausasemat; Sähkövirtayksiköt; Keskeytymättömät sähköteholähteet [akut]; Tietokonetietokannat; Elektronisesti tallennettu data; Mittaus-, jäljitys-, seuranta- ja ohjauslaitteet; Mittausvälineet; Anturit, tunnistimet ja seurantavälineet; Ohjaimet ja säätimet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Appareils, instruments et câbles pour l'électricité; Appareils et instruments d'accumulation et de stockage de l'électricité; Appareils et instruments de contrôle de l'électricité; Composants électriques et électroniques; Appareils photovoltaïques pour la production d’électricité; Appareils d'alimentation électrique sans coupure; Appareils et instruments pour la conduite de la distribution d’électricité; Appareils d'alimentation électrique régulée; Appareils pour améliorer l'efficacité énergétique; Instruments pour la distribution du courant électrique; Bornes de recharge pour véhicules électriques; Dispositifs d'alimentation électrique; Appareils d'alimentation électrique sans coupure [batteries]; Bases de données; Données enregistrées de manière électronique; Appareils de mesurage, de détection, de surveillance et de contrôle; Dispositifs de mesurage; Capteurs, détecteurs et instruments de surveillance; Contrôleurs et régulateurs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Uređaji, instrumenti i kablovi za električnu energiju; Uređaji i instrumenti za akumulaciju i pohranu električne energije; Uređaji i instrumenti za kontrolu električne energije; Električne i elektroničke komponente; Fotonaponski uređaji za proizvodnju električne energije; Uređaji za neprekidnu napajanje električnom energijom; Aparati i instrumenti za provođenje distribucije električne energije; Regulirani uređaji za opskrbu električnom energijom; Uređaj za poboljšavanje energetske učinkovitosti; Instrumenti za distribuciju električne energije; Stanice za punjenje električnih vozila; Elektroenergetske jedinice; Uređaji za neprekidno napajanje [baterije]; Baze podataka; Elektronički zabilježeni podaci; Uređaji za mjerenje, otkrivanje, praćenje i kontroliranje; Mjerni uređaji; Senzori, instrumenti za otkrivanje i nadziranje; Kontroleri i regulatori.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Elektromos áram vezetésére szolgáló berendezések, készülékek és kábelek; Elektromos áram tárolására szolgáló készülékek és berendezések; Elektromos áram vezérlésére szolgáló készülékek és berendezések; Elektromos és elektronikai összetevők; Fényelektromos készülékek elektromosság termeléséhez; Szünetmentes tápegységekkel működő berendezések; Készülékek és műszerek az elektromosáram-elosztás vezérlésére; Szabályozott tápegységek; Eszközök az energiahatékonyság javítására; Készülékek elektromos áram elosztásához; Töltőállomások elektromos járművekhez; Elektromos hajtóművek, motorok; Szünetmentes tápegységekkel működő berendezések [akkumulátorok]; Adatbázisok; Elektronikusan rögzített adatok; Mérő-, észlelő-, felügyeleti és szabályozó eszközök; Mérőberendezések; Szenzorok, detektorok és felügyeleti eszközök; Vezérlők és szabályozók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Apparecchi, strumenti e cavi per l'elettricità; Apparecchi e strumenti per l'accumulazione e la riserva di energia; Apparecchi e strumenti per il controllo della corrente elettrica; Componenti elettrici ed elettronici; Apparecchi fotovoltaici per generare elettricità; Gruppi statici di continuità; Apparecchi e strumenti per veicolare la distribuzione di elettricità; Apparecchi di alimentazione elettrica stabilizzati; Apparecchi per migliorare l'efficienza energetica; Strumenti per la distribuzione di elettricità; Stazioni di rifornimento per veicoli elettrici; Unità elettriche di alimentazione; Gruppi statici di continuità [batterie]; Banche dati; Dati registrati elettronicamente; Dispositivi di misura, rilevamento, sorveglianza e controllo; Dispositivi di misurazione; Sensori, rilevatori e strumenti di monitoraggio; Controlli (regolatori).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Elektros aparatai, prietaisai ir kabeliai; Elektros kaupimo ir saugojimo aparatai ir prietaisai; Elektros srovės valdymo aparatai ir prietaisai; Elektrinės ir elektroninės dalys; Fotovoltinė įranga elektrai gaminti; Nepertraukiamos elektros srovės tiekimo aparatai; Skirstomos elektros energijos tiekimo aparatai ir prietaisai; Reguliuojami elektros energijos tiekimo aparatai; Aparatūra energijos vartojimo efektyvumui didinti; Elektros srovės paskirstymo instrumentai; Elektrinių transporto priemonių įkrovimo stotelės; Elektros energijos įrenginiai; Nenutrūkstamo elektros srovės tiekimo įrenginiai [baterijos]; Duomenų bazės (programinė įranga); Elektroniniu būdu įrašyti duomenys; Matavimo, aptikimo, stebėjimo ir valdymo prietaisai; Matavimo įrenginiai; Jutikliai, detektoriai ir stebėjimo instrumentai; Valdikliai ir reguliatoriai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Elektrības aparāti, instrumenti un kabeļi; Aparāti un instrumenti elektriskās enerģijas uzkrāšanai un glabāšanai; Aparāti un instrumenti elektriskās strāvas regulēšanai; Elektriski un elektroniski elementi; Fotoelektriskie aparāti elektrības ģenerēšanai; Nepārtrauktas energoapgādes aparatūra; Aparāti, ierīces un instrumenti elektrības sadales vadībai; Regulētas strāvas padeves aparāti; Ierīces energoefektivitātes uzlabošanai; Elektriskās strāvas sadales instrumenti; Elektrisko transportlīdzekļu uzlādes stacijas; Elektriskie energobloki; Nepārtrauktas energoapgādes aparatūra (baterijas); Datubāzes; Elektroniski ierakstīti dati; Mērīšanas, indikatīvie, uzraudzības un kontroles ierīces; Mēraparāti; Sensori, detektori un kontrolmērierīces; Vadības ierīces un regulatori.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Apparat, strumenti u kejbils għall-elettriku; Apparat u strumenti għall-akkumulazzjoni u l-ħażna tal-elettriku; Apparat u strumenti għall-kontroll tal-kurrent elettriku; Komponenti elettriċi u elettroniċi; Apparat fotovoltajku li jiġġenera l-elettriku; Apparat għall-forniment tal-elettriku li ma jistgħax jiġi nterrott; Apparat u strumenti għat-tmexxija tad-distribuzzjoni tal-elettriku; Apparat għall-provvista tal-elettriku regolata; Tagħmir għat-titjib tal-effiċjenza fl-enerġija; Strumenti għad-distribuzzjoni tal-kurrent elettriku; Stazzjonijiet tal-iċċarġjar għal vetturi elettroniċi; Apparat għall-enerġija elettrika; Apparat [batterija] għall-provvista ta' enerġija bla waqfien; Banek tad-data; Dejta rreġistrata elettronikament; Tagħmir għall-kejl, l-osservazzjoni, il-monitoraġġ u l-kontroll; Apparat għall-kejl; Strumenti li jaġixxu bħala sensers, ditekters u ta' monitoraġġ; Kontrolluri (regolaturi).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Apparaten, instrumenten en kabels voor elektriciteit; Apparaten en instrumenten voor het verzamelen en opslaan van elektriciteit; Apparaten en instrumenten voor het regelen van elektriciteit; Elektrische en elektronische componenten; Fotovoltaïsche toestellen voor het opwekken van elektriciteit; Stroomvoorziening (Apparatuur voor ononderbroken -); Apparaten en instrumenten voor het geleiden van elektriciteitsdistributie; Gereguleerde stroomvoorzieningsapparatuur; Apparaten voor het verbeteren van de stroomefficiëntie; Instrumenten voor de distributie van elektriciteit; Laadstations voor elektrische voertuigen; Elektrische voedingseenheden; Stroomvoorzieningen (ononderbreekbare -) [accu's]; Computerdatabases; Gegevens, elektronisch geregistreerde; Meet-, detectie-, bewakings- en regelapparaten; Meetapparaten; Sensoren, detectoren en bewakingsinstrumenten; Regelaars en regulatoren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Aparatura, urządzenia i kable do zastosowania w elektryce; Aparatura i urządzenia do gromadzenia i przechowywania energii elektrycznej; Aparatura i urządzenia do sterowania przepływu energii elektrycznej; Komponenty elektryczne i elektroniczne; Urządzenia fotowoltaiczne do wytwarzania energii elektrycznej; Urządzenia do nieprzerywalnego zasilania energii [zasilacze UPS]; Urządzenia i przyrządy do prowadzenia dystrybucji energii elektrycznej; Urządzenia do regulowanego zasilania; Urządzenia do poprawy efektywności energetycznej; Przyrządy do dystrybucji elektryczności; Stacje ładowania dla pojazdów elektrycznych; Jednostki energii elektrycznej; Urządzenia do nieprzerywalnego zasilania elektrycznego [baterie]; Komputerowe bazy danych; Dane zapisane elektronicznie; Urządzenia mierzące, wykrywające, monitorujące i kontrolujące; Urządzenia pomiarowe; Czujniki, detektory i instrumenty monitorujące; Kontrolery i regulatory.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aparelhos, instrumentos e cabos para eletricidade; Aparelhos e instrumentos para acumular e armazenar eletricidade; Aparelhos e instrumentos para o controlo da corrente elétrica; Componentes elétricos e eletrónicos; Aparelhos fotovoltaicos para produção de eletricidade; Aparelhos de alimentação elétrica ininterrupta; Aparelhos e instrumentos para condução da distribuição da corrente elétrica; Aparelhos de alimentação elétrica regulada; Aparelhos para melhorar a eficiência energética; Instrumentos para a distribuição da corrente elétrica; Estações de carregamento para veículos elétricos; Unidades de energia elétrica; Aparelhos de alimentação eléctrica ininterrupta [baterias]; Bases de dados; Dados gravados eletronicamente; Aparelhos de medição, deteção, monitorização e controlo; Dispositivos de medida; Sensores, detetores e instrumentos de monitorização; Controladores (reguladores).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aparate, instrumente și cabluri pentru electricitate; Aparate și instrumente pentru acumularea și stocarea curentului electric; Aparate și instrumente pentru comanda curentului electric; Componente electrice și electronice; Aparate fotovoltaice pentru generare de electricitate; Aparate de alimentare cu energie continuă; Aparate și instrumente pentru conducerea distribuției energiei electrice; Aparate cu alimentare regulată; Aparate pentru îmbunătățirea eficienței energetice; Instrumente pentru distribuirea curentului electric; Stații de alimentare pentru vehicule electrice; Blocuri de alimentare cu energie electrică; Aparatură de alimentare cu energie continuă [baterii]; Baze de date computerizate; Date înregistrate electronic; Dispozitive de măsurare, detectare, monitorizare și control; Dispozitive de măsurare; Senzori, detectoare și intrumente de monitorizare; Dispozitive de control și regulatoare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Prístroje, nástroje a káble pre elektrický prúd; Prístroje a nástroje na akumuláciu a uchovávanie elektrického prúdu; Prístroje a nástroje na ovládanie elektrického prúdu; Elektrické a elektronické súčiastky; Fotovoltaické prístroje na výrobu elektriny; Zdroje nepretržitého napájania; Prístroje a nástroje na vedenie distribúcie elektriny; Regulované zariadenia na dodávku elektriny; Prístroje na zvýšenie energetickej účinnosti; Prístroje pre rozvod elektrického prúdu; Nabíjacie stanice pre elektromobily; Elektrické napájacie jednotky; Zariadenia na nepretržitú dodávku elektriny [batérie]; Počítačové databázy; Dáta zaznamenané elektronicky; Meracie, detekčné, monitorovacie a kontrolné prístroje; Mierky; Snímače, detektory a monitorovacie nástroje; Ovládače a regulátory.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Aparati, instrumenti in kabli za elektriko; Aparati in instrumenti za zbiranje in shranjevanje električne energije; Aparati in instrumenti za kontrolo električne energije; Električne in elektronske komponente; Fotovoltaične naprave za proizvodnjo električne energije; Aparati za neprekinjeno električno napajanje; Aparati in instrumenti za prevajanje distribucije električne energije; Aparati za regulirano električno napajanje; Aparati za izboljšanje energetske učinkovitosti; Instrumenti za distribucijo električnega toka; Napajalne postaje za električna vozila; Enote električne energije; Aparati za neprekinjeno električno napajanje [baterije]; Podatkovne baze; Elektronsko posneti podatki; Naprave za merjenje, odkrivanje, spremljanje in nadzor; Merilne naprave; Senzorji, detektorji in instrumenti za spremljanje; Naprave za kontrolo in regulatorji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Apparater, instrument och kablar för elektricitet; Apparater och instrument för ackumulering och lagring av elektricitet; Apparater och instrument för styrning av elektricitet; Elektriska och elektroniska komponenter; Fotovoltaiska apparater för alstring av elektricitet; Avbrottsfria strömförsörjningsapparater; Apparater och instrument för ledning av eldistribution; Reglerade nätaggregat; Apparater för förbättring av energieffektivitet; Instrument för eldistribution; Laddstationer för elektriska fordon; Elkraftsenheter; Batterier för avbrottsfria strömförsörjningsapparater; Databaser; Elektroniskt lagrade data; Anordningar för mätning, detektering, övervakning och kontroll; Anordningar för mätning; Sensorer, detektorer och övervakningsinstrument; Kontrollanordningar och regulatorer.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Слънчеви колектори [за отопление]; Горелки, отоплителни котли и нагреватели; Оборудване за отопление, вентилация и климатизация и пречистване (на заобикалящата среда).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Solární termální kolektory [vytápění]; Hořáky, kotle a ohřívače vody; Topná, ventilační a klimatizační zařízení a čistící zařízení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Termiske solfangere [opvarmning]; Brændere, kedler og varmere; Udstyr til opvarmning, ventilering, luftkonditionering og -rensning af omgivelserne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Thermische Sonnenkollektoren [Heizung]; Brenner, Boiler und Heizgeräte; Heizungs-, Ventilations-, Klima- und Luftreinigungsgeräte und -anlagen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Θερμικοί ηλιακοί συλλέκτες [θέρμανσης]· Καυστήρες, λέβητες και θερμάστρες· Εξοπλισμός θέρμανσης, εξαερισμού και κλιματισμού καθώς και εξοπλισμός για τον καθαρισμό (της ατμόσφαιρας).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Solar thermal collectors [heating]; Burners, boilers and heaters; Heating, ventilating, and air conditioning and purification equipment (ambient).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Colectores solares térmicos [calefacción]; Quemadores, calderas y calentadores; Aparatos de aire acondicionado y para calefacción, ventilación y depuración del ambiente.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Päikesekollektorid [küte]; Põletid, boilerid, aurukatlad ja kütteseadmed ja soojendid; Kütte-, ventilatsiooni- ning õhukonditsioneer- ja -puhastusseadmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Aurinkolämpöenergian kerääjät [lämmitykseen]; Polttimet, boilerit ja lämmittimet; Lämmitys-, ilmanvaihto- ja ilmastointi- ja ilmanpuhdistuslaitteistot (ympäristön).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Capteurs solaires à conversion thermique [chauffage]; Brûleurs, chaudières et réchauffeurs; Équipement de chauffage, de ventilation, de climatisation et de purification [air ambiant].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Paneli za solarno grijanje; Plamenici, bojleri i grijači; Oprema za grijanje, ventilaciju, klimatizaciju i pročišćavanje [prostora].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Napkollektorok [fűtés]; Égők, kazánok és fűtő/melegítőkészülékek; Fűtő, hűtő, szellőztető, légkondicionáló és tisztítóberendezések (szobai).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Collettori solari [riscaldamento]; Bruciatori, bollitori e caloriferi; Attrezzature per il riscaldamento, la ventilazione, per l'aria condizionata e per la purificaizone dell'aria (per gli ambienti).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Saulės kolektoriai [šildymas]; Degikliai, katilai ir šildytuvai; Šildymo, vėdinimo bei oro kondicionavimo ir valymo įrenginiai (aplinkos).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Saules kolektori apkures nolūkiem; Degļi, sildītāji un apkures katli; Apkures, ventilācijas un gaisa kondicionēšanas un attīrīšanas iekārtas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Apparat għall-ġbir tas-sħana mix-xemx [għat-tisħin]; Berners, bojlers u hiters; Tagħmir għat-tisħin, ventilazzjoni,u kundizzjonar tal-arja u purifikazzjoni (ambjentali).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Zonnecollectoren voor warmteconversie; Branders, ketels, boilers en verwarmingsapparaten; Verwarmings-, ventilatie-, airconditionings- en zuiveringsinstallaties (omgeving).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Termiczne kolektory słoneczne [ogrzewanie]; Palniki, bojlery i podgrzewacze; Instalacje i urządzenia do ogrzewania, wentylacji, klimatyzacji i oczyszczania powietrza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Coletores solares [aquecimento]; Queimadores, caldeiras e aquecedores; Equipamento de aquecimento, ventilação, ar condicionado e purificação do ar (ambiente).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Colectoare termice solare [încălzire]; Arzătoare, boilere și încălzitoare; Echipament pentru încălzire, ventilare, climatizare și purificare (ambient).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Solárne kolektory na ohrev vody a vykurovanie; Horáky, ohrievače a vyhrievače; Vykurovacie, vetracie a klimatizačné zariadenia a zariadenia na čistenie vzduchu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Sončni termalni kolektorji [ogrevanje]; Gorilniki, kotli in grelniki; Oprema za gretje, prezračevanje, klimatizacijo in čiščenje zraka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Solvärmesfångare [uppvärmning]; Brännare, pannor och värmare; Utrustning för uppvärmning, ventilation, luftkonditionering samt rening (omgivning).</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>38</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Телекомуникационни услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Telekomunikační služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Telekommunikation.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Telekommunikationsdienstleistungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες τηλεπικοινωνίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Telecommunication services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de telecomunicaciones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Sideteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kaukoviestintä.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de télécommunications.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Telekomunikacijske usluge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Távközlési szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di telecomunicazione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Telekomunikacijų paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Telesakaru pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi tat-telekommunikazzjoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Telecommunicatiediensten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi telekomunikacyjne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de telecomunicações.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de telecomunicații.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Telekomunikačné služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Telekomunikacijske storitve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Telekommunikationstjänster.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Информационно-технологични услуги; Научни и технологични услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby v oblasti informačních technologií; Vědecké a technologické služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">IT tjenesteydelser; Videnskabelige og teknologiske tjenesteydelser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">IT-Dienstleistungen; Wissenschaftliche und technologische Dienstleistungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες τεχνολογιών της πληροφορικής· Επιστημονικές και τεχνολογικές υπηρεσίες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">IT services; Science and technology services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de tecnologías de la información; Servicios científicos y tecnológicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">IT-teenused; Teadus- ja tehnoloogiateenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">IT-palvelut; Tieteelliset ja teknologiset palvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services des technologies de l'information; Services scientifiques et technologiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge informacijske tehnologije; Usluge znanosti i tehnologije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Információtechnológiai [IT] szolgáltatások; Tudományos és technológiai szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi informatici; Servizi di scienza e tecnologia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Informacinių technologijų paslaugos; Mokslo ir technologijų paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Informācijas tehnoloģiju pakalpojumi; Zinātniskie un tehnoloģiskie pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi tal-IT; Servizzi xjentifiċi u teknoloġiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">IT-diensten; Wetenschappelijke en technologische diensten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi w zakresie technologii informacyjnych; Usługi naukowe i technologiczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de TI (tecnologias de informação); Serviços de ciência e tecnologia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii IT; Servicii în domeniul științei și tehnologiei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Informačné technológie; Vedecké a technologické služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve informacijske tehnologije; Znanstvene in tehnološke storitve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">IT-tjänster; Vetenskapliga och tekniska tjänster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/077</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080351</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>62926</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003125844</OppositionIdentifier>
+<OppositionDate>2020-07-09</OppositionDate>
+<ProceedingLanguageCode>de</ProceedingLanguageCode>
+<OppositionGroundText>
+Identity of marks and G&amp;S
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>008630551</ApplicationNumber>
+<ApplicationDate>2009-11-26</ApplicationDate>
+<RegistrationNumber>008630551</RegistrationNumber>
+<RegistrationDate>2010-05-17</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>SOLARFOX</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>008630551</ApplicationNumber>
+<ApplicationDate>2009-11-26</ApplicationDate>
+<RegistrationNumber>008630551</RegistrationNumber>
+<RegistrationDate>2010-05-17</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>SOLARFOX</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>387612</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>38741</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

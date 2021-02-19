@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-08T17:35:04</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229255</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229255</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-09-16</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-18</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>IMFIT</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Софтуер като услуга (SAAS), предоставящ он-лайн, без възможност за изтегляне, интернет-базирано софтуерно приложение, включващо компютърен софтуер за използване при медицинско лечение на заболявания, а именно, софтуер за анализ на медицински данни на пациенти и предоставяне на клинична интерпретация в подкрепа на решенията на лекарите за лечение.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Software jako služba (SaaS), jmenovitě poskytování on-line internetové softwarové aplikace bez možnosti stažení se zaměřením na počítačový software pro použití při léčbě onemocnění, jmenovitě software pro analyzování lékařských dat týkajících se pacientů a poskytování klinické interpretace za účelem podpory lékařů při přijímání léčebných rozhodnutí.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Software som en tjenesteydelse (SaaS) til formidling af ikke-downloadable internetbaserede onlinesoftwareapplikationer med computersoftware til anvendelse inden for medicinsk behandling af sygdomme, nemlig software til analyse af medicinske patientdata og formidling af klinisk fortolkning til støtte for lægers behandlingsbeslutninger.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Software as a Service (SaaS) in Form der Bereitstellung einer nicht herunterladbaren, internetbasierten Online-Softwareanwendungen mit Computersoftware zur Verwendung für die medizinische Behandlung von Krankheiten, nämlich Software zur Analyse medizinischer Patientendaten und zur Bereitstellung von klinischen Interpretationen zur Unterstützung der Behandlungsentscheidungen von Ärzten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες λογισμικού ως υπηρεσίας για παροχή επιγραμμικής, μη τηλεφορτώσιμης εφαρμογής λογισμικού βάσει Διαδικτύου με λογισμικό ηλεκτρονικών υπολογιστών για χρήση στην ιατρική θεραπεία νόσων, συγκεκριμένα λογισμικό για ανάλυση ιατρικών δεδομένων ασθενών και παροχή κλινικής ερμηνείας για στήριξη των αποφάσεων θεραπείας που λαμβάνουν οι γιατροί.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Software as a service (SAAS) providing on-line, non-downloadable, Internet-based software application featuring computer software for use in medical treatment of diseases, namely, software for analyzing patient medical data and providing clinical interpretation to support physicians' treatment decisions.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Software como servicio [SaaS] que proporciona aplicaciones de software en línea no descargables basadas en Internet con software para su uso en el tratamiento médico de enfermedades, en concreto software para analizar datos médicos de pacientes y proporcionar interpretaciones clínicas para asistir a los médicos en las decisiones de tratamiento.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Pilveteenused [SaaS] sidusa, allalaadimatu, internetipõhise rakendustarkvaraga, mis hõlmab haiguste meditsiinilise ravi arvutitarkvara, nimelt arvutitarkvara patsiendi meditsiiniliste andmete analüüsimiseks ja kliiniliste tõlgenduste pakkumiseks, et toetada arstide raviotsuseid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sovellusvuokrauspalvelut (SAAS), jotka tarjoavat online-muotoisia, muita kuin ladattavia Internet-pohjaisia ohjelmistosovelluksia, jotka sisältävät tietokoneohjelmistoja käytettäväksi sairauksien hoidossa, nimittäin ohjelmistoja potilaan lääketieteellisen tiedon analysointiin ja kliinisen tulkinnan tarjoamiseen lääkäreiden hoitopäätösten tueksi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Logiciels-service (SaaS) fournissant des applications logicielles non téléchargeables en ligne basées sur l'internet proposant des logiciels destinés au traitement médical de maladies, à savoir des logiciels pour l'analyse de données médicales de patients et la fourniture d'interprétations cliniques afin de soutenir des décisions de médecins en matière de traitement.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Softver kao usluga (SAAS) za pružanje mrežne, internetske softverske aplikacije koja se ne može preuzeti s računalnim softverom za uporabu u medicinskom liječenju bolesti, i to softverom za analizu medicinskih podataka o pacijentima i pružanje kliničke interpretacije za podršku liječničkih odluka o liječenju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szoftver mint szolgáltatás (SAAS) online, nem letölthető, internetalapú szoftveralkalmazást biztosítva számítógépes szoftverrel a betegségek gyógyításában történő használatra, nevezetesen a betegek orvosi adatainak elemzésére és az orvosok kezelési döntéseit támogató klinikai értelmezés biztosítására szolgáló szoftver.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizio di software (SaaS) per la fornitura di applicazioni software online, non scaricabili e basate su Internet, con software per uso nel trattamento medico di malattie, ovvero software per l'analisi dei dati medici dei pazienti e per l'interpretazione clinica a supporto delle decisioni terapeutiche dei medici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Programinė įranga kaip paslauga (SAAS) - tiesioginio ryšio, neatsisiunčiama, internetu veikianti programinė įranga, skirta naudoti gydant ligas, būtent, programinė įranga paciento medicininiams duomenims analizuoti ir klinikiniam išaiškinimui teikti, padedanti gydytojams priimti sprendimus dėl gydymo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Programmatūra kā pakalpojums [SAAS], kas nodrošina tiešsaistes, lejupielādējamu, internetā balstītu programmatūras lietojumprogrammu ar datoru programmatūru izmantošanai slimību ārstēšanā, proti, programmatūra pacienta medicīnisko datu analīzei un klīniskās interpretācijas nodrošināšana, lai atbalstītu ārstu lēmumus par ārstēšanu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Softwer bħala servizz (SaaS) li jipprovdi applikazzjoni tas-softwer online, li ma tistax titniżżel, ibbażata fuq l-internet li tinkludi softwer tal-kompjuter għall-użu fit-trattament mediku tal-mard, jiġifieri, softwer għall-analiżi tad-data medika ta' pazjent u għall-provvista tal-interpretazzjoni klinika għall-appoġġ tad-deċiżjonijiet dwar it-trattament mogħti minn tabib.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Software als een dienst (SaaS) met niet-downloadbare op internet gebaseerde onlineapplicaties met software voor gebruik bij de medische behandeling van ziekten, te weten software voor het analyseren van medische gegevens van patiënten en het aanbieden van klinische interpretatie ter ondersteuning van behandelbesluiten van artsen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oprogramowanie jako usługa (SaaS) obejmujące komputerową aplikację internetową online, nie do pobrania, obejmującą oprogramowanie komputerowe do użytku w leczeniu chorób, mianowicie oprogramowanie do analizowania danych medycznych pacjentów i udostępniania interpretacji klinicznych do wspierania lekarzy w podejmowaniu decyzji dotyczących leczenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de software como serviço (SaaS) que fornecem uma aplicação de software em linha, baseada na Internet e não descarregável, que inclui software para tratamento médico de doenças, especificamente software para análise de dados médicos de doentes e para interpretação clínica com vista a apoiar as decisões de tratamento tomadas pelos médicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Software ca un serviciu (SAAS) care furnizează o aplicație software online, nedescărcabilă, pe baza internetului, care oferă software de calculator destinat utilizării la tratamentul medical al bolilor, și anume software pentru analiza datelor medicale ale pacientului și pentru furnizarea interpretării clinice pentru ajutor la deciziile de tratament ale doctorilor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Softvér ako služba (SaaS) poskytovaná on-line, internetové softvérové aplikácie bez možnosti stiahnutia na použitie pri liečbe ochorení, menovite softvér na analýzu lekárskych údajov o pacientoch, menovite softvér na analýzu lekárskych údajov o pacientoch a poskytovanie klinickej interpretácie na podporu rozhodnutí lekárov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Programska oprema kot storitev (SaaS), ki nudi spletno, neprenosljivo,internetno aplikacijo programske opreme z računalniško programsko opremo za medicinsko zdravljenje bolezni, in sicer programska oprema za analizo bolnikovih medicinskih podatkov in nudenje klinične razlage za pomoč zdravniškim odločitvam o zdravljenju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Programvara som en tjänst (SAAS) med direktansluten, icke-nedladdningsbar, internetbaserad programvaruapplikation med datorprogramvara för användning i läkarbehandling av sjukdomar, nämligen, programvara för analys av patienters medicinska data och tillhandahållande av klinisk tolkning till stöd för läkares beslut om behandling.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/107</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-09</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/178</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>91737</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10666</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

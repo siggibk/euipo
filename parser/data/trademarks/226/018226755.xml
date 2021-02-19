@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-09T10:59:12</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226755</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226755</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-04</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>BEAST BILTONG ALL BULL, NO SH*T</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162315884</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226755/000162315884.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>01.01.02</CategoryCode>
+          <CategoryCode>01.01.99</CategoryCode>
+          <CategoryCode>24.13.01</CategoryCode>
+          <CategoryCode>24.13.25</CategoryCode>
+          <CategoryCode>24.17.03</CategoryCode>
+          <CategoryCode>25.01.06</CategoryCode>
+          <CategoryCode>27.03.15</CategoryCode>
+          <CategoryCode>27.05.05</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>29</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Свежи, консервирани, в консервена кутия, охладени, замразени и варени меса, риба, птици и дивеч; Месни и рибни екстракти; Готови храни и закуски, които се сътоят изцяло или предимно от месо, риба, домашни птици и дивеч.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Čerstvé, konzervované, konzervované, chlazené, mražené a vařené maso, ryby, drůbež a zvěřina; Masové a rybí výtažky; Hotová jídla a svačinky sestávající zcela nebo převážně z masa, ryb, drůbeže a zvěřiny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Frisk, konserveret, dåselagt, kølet, frosset og tilberedt kød, fisk, fjerkræ og vildt; Kød- og fiskeekstrakter; Færdigretter og snackvarer bestående helt eller overvejende af kød, fisk, fjerkræ og vildt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Fleisch, Fisch, Geflügel und Wild (frisch, konserviert, in Dosen, gekühlt, tiefgekühlt und gekocht); Fleisch- und Fischextrakte; Vorwiegend aus Fleisch, Fisch, Geflügel und Wild bestehende Imbiss- und Fertiggerichte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Νωπά, διατηρημένα, κονσερβοποιημένα, ψυγμένα, κατεψυγμένα και μαγειρεμένα κρέατα, ψάρια, πουλερικά και κυνήγι· Εκχυλίσματα κρεάτων και ψαριών· Έτοιμα γεύματα και μικρογεύματα αποτελούμενα εξ ολοκλήρου ή κυρίως από κρέας, ψάρι, πουλερικά και κυνήγι.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Fresh, preserved, tinned, chilled, frozen and cooked meat, fish, poultry and game; meat and fish extracts; prepared meals and snacks made principally from meat, fish, poultry or game.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Carne, pescado, carne de ave y carne de caza frescos, en conserva, enlatados, refrigerados, congelados y cocidos; Carne y extractos cárnicos; Comidas preparadas y aperitivos que consisten total o principalmente en carne, pescado, aves y caza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Värske, konservitud, hoidistatud, jahutatud, külmutatud ja keedetud liha, kala, linnu- ja ulukiliha; Liha- ja kalaekstraktid; Valmiseined ja suupisted, mis koosnevad peamiselt või põhiliselt lihast, kalast, linnulihast ja ulukilihast.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tuore, säilötty, purkitettu, jäähdytetty, pakastettu ja umpioitu liha, kala, siipikarja ja riista; Liha- ja kalauutteet; Valmisateriat ja välipalat, jotka koostuvat kokonaan tai pääasiassa lihasta, kalasta, siipikarjasta ja riistasta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Viande, poisson, volaille et gibier frais, conservés, en boîte, réfrigéré, congelés et cuits; Extraits de viande et de poisson; Plats préparés et en-cas entièrement ou principalement à base de viande, poisson, volaille et gibier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Svježe, konzervirano, konzervirano, ohlađeno, smrznuto i kuhano meso, riba, perad i divljač; Meso i ekstrakti ribe; Gotovi obroci i grickalice koje se u cijelosti ili uglavnom sastoje od mesa, ribe, peradi i divljači.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Friss, tartósított, konzerv, hűtött, fagyasztott és főtt hal, baromfi és vadhús; Hús- és halkivonatok; Teljesen vagy főként húsból, halból, baromfiból és vadhúsból készült készételek és snack-ételek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Carne, pesce, pollame e selvaggina freschi, conservati, in scatola, surgelati, refrigerati e cotti; Estratti di carne e pesce; Alimenti pronti e spuntini interamente o principalmente a base di carne, pesce, pollame e selvaggina.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Šviežia, konservuota, skardinėse laikoma, atvėsinta, atšaldyta ir virta mėsa, žuvis, paukštiena ir žvėriena; Mėsos ir žuvies ekstraktai; Paruoštas maistas ir užkandžiai visiškai arba iš dalies iš mėsos, žuvies, paukštienos ar žvėrienos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Svaiga, konservēta, kārbās konservēta, atdzesēta, saldēta un vārīta gaļa, zivis, mājputnu un medījumu gaļa; Gaļas un zivs ekstrakti; Gatavas maltītes un uzkodas, kas pilnīgi vai daļēji sastāv no gaļas, zivim, putnu gaļas un medījumiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Laħam, ħut, tjur u bhejjem tal-kaċċa friski, ippreservati, fil-bottijiet, imkessħa, iffriżati u msajjra; Estratti tal-laħam u tal-ħut; Ikliet lesti u sneks li jikkonsistu kompletament jew l-aktar minn laħam, ħut, tjur u bhejjem tal-kaċċa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Vers(e), geconserveerd(e), ingeblikt(e), gekoeld(e), bevroren en gekookt(e) vlees, vis, gevogelte en wild; Vlees- en visextracten; Kant-en-klare maaltijden en snacks, geheel of voornamelijk bestaande uit vlees, vis, gevogelte en wild.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Mięso, ryby, drób i dziczyzna świeża, konserwowana, w puszce, chłodzona, mrożona i gotowana; Ekstrakty mięsne i rybne; Gotowe posiłki i przekąski składające się głównie z mięs, drobiu, ryb i dziczyzny lub w całości z tych produktów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Carne, peixe, aves e caça frescos, em conserva, enlatados, refrigerados, congelados e cozidos; Peixe e extractos de peixe; Refeições e refeições ligeiras preparadas feitas total ou principalmente de carne, peixe, aves e caça.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Carne, peşte, pasăre şi vânat proaspete, conservate, la conservă, răcite, congelate şi gătite; Extracte din carne si peste; Mâncăruri gătite şi gustări care conţin în totalitate sau în principal carne, peşte, carne de pasăre şi vânat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Čerstvé, konzervované, konzervované, chladené, mrazené a varené mäso, ryby, hydina a zverina; Mäsové a rybacie výťažky; Hotové jedlá a pochutiny, ktoré sú vyrobené celé alebo hlavne z mäsa, rýb, hydiny a diviny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Sveže, konzervirano, konzervirano v konzervi, ohlajeno, zamrznjeno in kuhano meso, ribe, perutnina in divjačina; Mesni in ribji ekstrakti; Pripravljene jedi in prigrizki, sestavljeni v celoti ali predvsem iz mesa, rib, perutnine in divjačine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Färska, konserverade, burkinlagda, kylda, frysta och tillagade produkter av kött, fisk, fjäderfä och vilt; Kött- och fiskextrakt; Tillagade måltider och snackmat bestående helt eller huvudsakligen av kött, fisk, fjäderfä och vilt.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Реклама, маркетинг и насърчаване на продажбите; Услуги за онлайн поръчки; Услуги за търговия на дребно, свързани с продажбата на прясно, консервирано, в кутия, охладено, замразено и варено месо, риба, птици и дивеч, месни и рибни екстракти, приготвени ястия и закуски, приготвени главно от месо, риба, птици или дивеч; Консултантски и информационни услуги, свързани с всички гореизброени услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Reklama, marketing a podpora prodeje; Online objednávkové služby; Maloobchodní služby související s prodejem výrobků, jako je čerstvé, sterilované, konzervované, chlazené, mražené a vařené maso, ryby, drůbež a zvěřina, masové a rybí výtažky, hotová jídla a svačinky připravené převážně z masa, ryb, drůbeže a zvěřiny; Informační, poradenské a konzultační služby týkající se všech výše uvedených služeb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Annonce- og reklamevirksomhed, markedsføring og salgsfremmende foranstaltninger; Online ordrebestilling for andre; Detailvirksomhed i forbindelse med salg af frisk, konserveret, afkølet, frossent og tilberedt kød, fisk, fjerkræ og vildt, kød- og fiskeekstrakter, færdigretter og snacks fremstillet hovedsageligt af kød, fisk, fjerkræ eller vildt; Konsulent-, informations- og rådgivningsvirksomhed vedrørende ovennævnte tjenesteydelser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Werbung, Marketing und Verkaufsförderung; Online-Bestelldienste; Einzelhandelsdienstleistungen in Verbindung mit dem Verkauf von frischem, konserviertem, in Dosen eingemachtem, gekühltem, tiefgekühltem und gekochtem Fleisch, Fisch, Geflügel und Wild, Fleisch- und Fischextrakten, Fertiggerichten und Imbissgerichten, überwiegend aus Fleisch, Fisch, Geflügel oder Wild; Information und Beratung in Bezug auf alle vorstehend genannten Leistungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διαφήμιση, εμπορία (μάρκετινγκ) και προώθηση πωλήσεων· Υπηρεσίες ηλεκτρονικών παραγγελιών· Υπηρεσίες λιανικής πώλησης σε σχέση με νωπά, διατηρημένα (κονσέρβα), κονσερβοποιημένα, ψυγμένα, κατεψυγμένα και μαγειρεμένα κρέατα, ψάρια, πουλερικά και κυνήγι, εκχυλίσματα κρεάτων και ψαριών, έτοιμα γεύματα και μικρογεύματα παρασκευασμένα κυρίως από κρέατα, ψάρια, πουλερικά ή κυνήγι· Υπηρεσίες παροχής συμβουλών και πληροφόρησης σε σχέση με όλες τις προαναφερόμενες υπηρεσίες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Advertising, marketing and sales promotions; online ordering services; retail services connected with the sale of fresh, preserved, tinned, chilled, frozen and cooked meat, fish, poultry and game, meat and fish extracts, prepared meals and snacks made principally from meat, fish, poultry or game; consultancy, information and advisory services relating to all the aforesaid services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Publicidad, marketing y promoción de ventas; Servicios de pedidos de compra en línea; Servicios de venta al por menor en relación con la venta de carne, pescado, aves y caza frescos, en conserva, enlatados, refrigerados, congelados y cocidos, extractos de carne y pescado, platos preparados y aperitivos hechos principalmente de carne, pescado, aves o caza; Servicios de asesoramiento, información y consultoría relacionados con todos los servicios mencionados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Reklaam, turundus ja müügiedendus; Veebi kaudu tellimise teenused; Järgmiste kaupade jaemüük: värske, konservitud, hoidistatud, jahutatud, sügavkülmutatud ja kuumtöödeldud liha, kala, linnuliha ja ulukiliha, liha- ja kalaekstraktid, peamiselt lihast, kalast, linnulihast ja ulukilihast valmistatud valmistoidud ja suupisted; Info- ja nõustamisteenused ning konsultatsioonid eelmainitud teenuste kohta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Mainonta, markkinointi ja myynninedistäminen; Verkkotilauspalvelut; Seuraavien myyntiin liittyvät vähittäismyyntipalvelut: tuore, säilötty, purkitettu, jäähdytetty, pakastettu ja umpioitu liha, kala, siipikarja ja riista, liha- ja kalauutteet, valmisateriat ja välipalat, jotka on tehty pääasiassa lihasta, kalasta, siipikarjasta tai riistasta; Kaikkiin edellä mainittuihin palveluihin liittyvät konsultointi-, tiedotus- ja neuvontapalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de publicité, de marketing et de promotion des ventes; Services de commande en ligne; Services de vente au détail liés à la vente de viande, poisson, volaille et gibier frais, conservés, en boîte, réfrigérés, congelés et cuits, extraits de viande et de poisson, plats préparés et encas principalement à base de viande, poisson, volaille ou gibier; Services de conseils, d'information et d'assistance dans tous les domaines précités.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Oglašavanje, marketing i promidžba prodaje; Usluge online naručivanja; Usluge maloprodaje u vezi s prodajom svježeg, očuvanog, konzerviranog, rashlađenog, zamrznutog i kuhanog mesa, ribe, peradi i divljači, mesnih i ribljih ekstrakata, gotovih jela i grickalica proizvedenih prvenstveno od mesa, ribe, peradi ili divljači; Usluge podrške, informiranja i savjetovanja koje se odnose na sve prethodno navedene usluge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Reklám, marketing és értékesítési promóciók; Online rendelési szolgáltatások; Friss, tartósított, konzervált, hűtött, fagyasztott és főtt hús, hal, baromfi és vadhús, hús- és halhús-kivonatok, valamint főként húsból, halból, baromfiból vagy vadból készült ételek és snackek értékesítésével kapcsolatos kiskereskedelmi szolgáltatások; Összes fent említett szolgáltatással kapcsolatos tájékoztató és tanácsadó szolgálat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pubblicità, promozione delle vendite e marketing; Servizi di ordinazione online; Servizi di vendita al dettaglio di carne, pesce, pollame e selvaggina freschi, conservati, in scatola, refrigerati, surgelati e cotti, estratti di carne e di pesce, piatti pronti e spuntini principalmente a base di carne, pesce, pollame e selvaggina; Consulenza e informazioni riguardanti tutti i suddetti servizi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Reklama, rinkodara ir pardavimo skatinimas; Užsakymų internetu paslaugos; Mažmeninės prekybos paslaugos, susijusios su šviežios, konservuotos, konservuotos, atšaldytos, šaldytos ir virtos mėsos, žuvies, paukštienos ir žvėrienos, mėsos ir žuvies ekstraktų, paruoštų patiekalų ir užkandžių, daugiausia pagamintų iš mėsos, žuvies, paukštienos ar žvėrienos, pardavimu; Informacinės, patariamosios ir konsultacinės paslaugos, susijusios su aukščiau nurodytosiomis paslaugomis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Reklāma, mārketings un pārdošanas veicināšana; Tiešsaistes pasūtījumu pakalpojumi; Mazumtirdzniecības pakalpojumi saistībā ar šādām precēm: svaiga, konservēta, atdzesēta, saldēta un vārīta gaļa, zivis, mājputni un medījumi, gaļas un zivju ekstrakti, gatavi ēdieni un uzkodas, kas galvenokārt izgatavotas no gaļas, zivīm, mājputniem vai medījumiem; Informācijas, padomdevēju un konsultāciju pakalpojumi, kas saistīti ar visiem iepriekšminētajiem pakalpojumiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Reklamar, kummerċjalizzazzjoni u promozzjoni ta' bejgħ; Servizz ta' kontroll onlajn; Servizzi ta' bejgħ bl-imnut konnessi mal-bejgħ ta' laħam, ħut, tjur u bhejjem tal-kaċċa, estratti tal-laħam u tal-ħut, ikliet ippreparati u leti magħmula prinċipalment minn laħam, ħut, tjur jew bhejjem tal-kaċċa friski, ippreservati, fil-laned, imkessħa, iffriżati u msajra; Servizzi ta' informazzjoni, pariri u konsulenza dwar is-servizzi kollha hawn fuq imsemmija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Reclame, verkoopbevordering en marketing; Onlinebesteldiensten; Detailhandel in vers(e), geconserveerd(e), ingeblikt(e), gekoeld(e), bevroren en gekookt(e) vlees, vis, gevogelte en wild (niet-levend), vlees- en visextracten, kant-en-klare maaltijden en snacks, voornamelijk gemaakt van vlees, vis, gevogelte of wild; Consultancy, informatie en advisering met betrekking tot alle voornoemde diensten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi reklamowe, marketingowe i promocji sprzedaży; Usługi w zakresie zamówień online; Usługi handlu detalicznego związane ze sprzedażą towarów, takich jak świeże, konserwowe, w puszce, chłodzone, mrożone i gotowane mięso, ryby, drób i dziczyzna, mięso i ekstrakty rybne, gotowe posiłki i przekąski głównie z mięsa, ryb, drobiu lub dziczyzny; Usługi informacyjne, doradcze i konsultacyjne w zakresie wszystkich, uprzednio wymienionych usług.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Publicidade, marketing e promoção de vendas; Serviços de encomendas on-line; Serviços de venda a retalho de carne, peixe, aves e caça frescos, em conserva, enlatados, refrigerados, congelados e cozidos, extratos de carne e de peixe, refeições e aperitivos preparados principalmente à base de carne, peixe, aves e caça; Serviços de consultadoria, de informações e de assessoria relacionados com todos os serviços atrás referidos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Publicitate, servicii de marketing și vânzări promoționale; Servicii de comenzi online; Servicii de comerț cu amănuntul legate de vânzarea de carne proaspătă, conservată, la conservă, răcită, congelată și gătită, pește, pasăre și vânat, extracte de carne și pește, mâncăruri și gustări preparate în principal din carne, pește, pasăre sau vânat; Servicii de consiliere, informatii si consultanta in domeniul tuturor serviciilor mentionate anterior.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Reklamné služby, marketing a podpora predaja; Objednávkové služby on-line; Maloobchodné služby v oblasti predaja rôzneho tovaru, akým je čerstvé, konzervované, chladené, mrazené a varené mäso, ryby, hydina a zverina, mäsové a rybie výťažky, hotové jedlá a pochutiny, vyrobené predovšetkým z mäsa, rýb, hydiny alebo zveriny; Informačné, poradenské a konzultačné služby týkajúce sa všetkých vyššie uvedených služieb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oglaševanje, trženje in pospeševanje prodaje; Storitve spletnega naročanja; Storitve maloprodaje v zvezi z izdelki, kot so sveže, konzervirano, zapakirano v konzervi, ohlajeno, zamrznjeno in kuhano meso, ribe, perutnina in divjačina, mesni in ribji izvlečki, pripravljeni obroki in prigrizki, večinoma iz mesa, rib, perutnine ali divjačine; Informacijske in svetovalne storitve v zvezi z omenjenimi storitvami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Reklam, marknadsföring och försäljningsfrämjande tjänster; Beställningstjänster online; Detaljförsäljning av färska, konserverade, på burk, kylt, fryst och tillagat kött, fisk, fjäderfä och vilt, kött- och fiskextrakt, tillagade maträtter och snacks huvudsakligen av kött, fisk, fjäderfä eller vilt; Konsulttjänster, information och rådgivning avseende nämnda tjänster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/105</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080413</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>75276</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003130251</OppositionIdentifier>
+<OppositionDate>2020-09-04</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>WO</EarlierMarkCountryCode>
+<DesignatedCountryDetails>
+           <DesignatedCountryCode>EM</DesignatedCountryCode>
+          </DesignatedCountryDetails>
+<ApplicationNumber>1542407</ApplicationNumber>
+<ApplicationDate>2020-06-15</ApplicationDate>
+<RegistrationNumber>1542407</RegistrationNumber>
+<RegistrationDate>2020-06-15</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BEAST BILTONG</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>GB</EarlierMarkCountryCode>
+<ApplicationNumber>UK00003458982</ApplicationNumber>
+<ApplicationDate>2020-01-17</ApplicationDate>
+<RegistrationNumber>UK00003458982</RegistrationNumber>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BEAST BILTONG</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>1120173</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10718</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-22T23:07:21</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224939</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224939</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="6">Application under examination</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-04-09</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Shopdaheim</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162208327</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224939/000162208327.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>07.01.24</CategoryCode>
+          <CategoryCode>24.15.01</CategoryCode>
+          <CategoryCode>24.15.11</CategoryCode>
+          <CategoryCode>26.01.03</CategoryCode>
+          <CategoryCode>29.01.04</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="de">Aufgezeichnete Daten; informationstechnologische, audiovisuelle, multimediale und fotografische Geräte; Mess-, Erkennungs- und Überwachungsinstrumente, -vorrichtungen sowie -regler; Software; Teile und Zubehör für alle vorgenannten Waren, soweit in dieser Klasse enthalten.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>16</ClassNumber>
+   <GoodsServicesDescription languageCode="de">Druckereierzeugnisse; Bücher; Papier, Pappe (Karton) und Waren aus diesen Materialien, nämlich Verpackungsmaterial, Grußkarten, Postkarten, Kunstkarten, Briefpapier, Künstlerpapiere, Blöcke, Grafikpapiere, Kalender, Geschenkpapier, Geschenkkartonagen; Buchbinderartikel; Fotografien; Schreibwaren; Klebstoffe für Papier- und Schreibwaren oder für Haushaltszwecke; Künstlerbedarfsartikel; Pinsel; Büroartikel (ausgenommen Möbel); Lehr- und Unterrichtsmittel (ausgenommen Apparate).</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="de">Werbung, Marketing und Verkaufsförderung; Verwaltung von Kundenbindungsprogrammen; Dienstleistungen in Bezug auf Kundenbindungs-, Anreiz- und Bonusprogramme; Kaufmännische Dienstleistungen und Verbraucherinformationsdienste, nämlich Vermittlungsdienstleistungen, Organisieren von Geschäftskontakten, Sammeleinkaufsdienste, kaufmännische Bewertungsdienste, Vorbereitung von Wettbewerben, Agenturgeschäfte, Verhandlungs- und Vermittlungsdienste, Bestelldienste, Preisvergleichsdienste, Beschaffungsdienste für Dritte, Abonnementdienste; Hilfe in Geschäftsangelegenheiten, Geschäftsführung und administrative Dienstleistungen; betriebswirtschaftliche Analyse-, Recherche- und Informationsdienstleistungen; Verleih, Vermietung und Verpachtung von Gegenständen in Zusammenhang mit der Erbringung der vorgenannten Dienstleistungen, soweit in dieser Klasse enthalten; Beratung und Information in Bezug auf vorgenannte Dienstleistungen, soweit in dieser Klasse enthalten. Affiliate-Marketing; Verwaltung von Treueprogrammen mit Rabatten oder Prämien; Online-Werbung für Dienstleistungen und Waren auf Websites; Verkaufsförderung, Werbung und Marketing durch Online-Websites; Vermittlung von Handelsgeschäften für Dritte über Online-Portale; Bereitstellen eines Online-Marktplatzes für Käufer und Verkäufer von Waren und Dienstleistungen; Vermittlung von Verträgen für den Kauf und Verkauf von Waren; Bereitstellung von Informationen und Beratung in Bezug auf e-Commerce (Warenbestellung).</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>36</ClassNumber>
+   <GoodsServicesDescription languageCode="de">Ausgabe von Wert- und Gutscheinkarten; Sammeln von Spenden für Wohltätigkeitszwecke.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="de">Durchführung von Gewinnspielen; Organisation und Durchführung von Veranstaltungen; Erziehung; Ausbildung; Unterhaltung; Veranstaltung von kulturellen Aktivitäten; Betrieb eines Clubs (Unterhaltung) sowie Veröffentlichung und Herausgabe von Druckereierzeugnissen; Organisation von Preisausschreiben, Online Bereitstellen von elektronischen, nicht herunterladbaren Publikationen; Online Publikation von elektronischen Büchern und Zeitschriften; Veröffentlichung von Büchern.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="de">Gestaltung und Entwicklung von Websites; Entwurf und Entwicklung von Computersoftware für Online-Marktplätze und E-Business-Portale; Beratungsdienste in Bezug auf Software im Bereich E-Commerce.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>153852</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11854</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

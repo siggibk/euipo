@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-29T09:52:43</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224193</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224193</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Happon</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>8</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Машинки за подстригване на коса; Пинцети; Ножици; Уреди за изрязване на мазоли; Пили за крака; Клещи за вадене на пирони [ръчни инструменти]; Маши за къдрене, неелектрически; Уреди за подстригване на брада; Ножици за подстригване; Машини за подрязване [ръчно действащи инструменти]; Бръснарски ножчета; Режещи инструменти; Ножове; Плоски ютии, неелектрически.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Strojky na zastříhování vlasů; Pinzety; Nůžky; Seřezávače zatvrdlé kůže; Pilníčky na nohy; Kleště na nehty; Neelektrické kulmy na vlasy; Zastřihovače vousů; Nůžky na stříhání vlasů; Křovinořezy (ruční nástroje); Břitvy na holení; Řezačky; Nože; Žehličky, neelektrické.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Hårklippere; Pincetter; Sakse; Skæreredskaber til fjernelse af hård hud; Fodfile; Negletænger; Krøllejern, ikke elektriske; Skægklippere; Hårsakse; Hårtrimmere [håndbetjente]; Barberknive; Skæreredskaber; Knive; Strygejern, ikke elektriske.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Haarschneidemaschinen; Federzangen; Scheren; Hornhautschneider; Fußfeilen; Nagelzangen; Nicht elektrische Lockenstäbe; Bartschneidemaschinen; Haarscheren; Trimmer [handbetätigte Werkzeuge]; Rasiermesser; Schneidemesser; Messer; Bügeleisen, nicht elektronisch.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ψαλίδια κομμωτικής· Τσιμπιδάκια φρυδιών· Ψαλίδι· Κόφτης κάλων· Λίμες για τα πόδια· Ηλάγρες· Μη ηλεκτρικά σίδερα για το κατσάρωμα των μαλλιών· Γενειάδας (Ψαλίδες κοπής -)· Ψαλίδια κοπής μαλλιών· Κόφτες [χειροκίνητα εργαλεία]· Ξυράφια κουρέα· Κοπίδια· Μαχαίρια· Σίδερα σιδερώματος, μη ηλεκτρικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Hair clippers; Tweezers; Scissors; Callus cutters; Foot files; Nail nippers; Non-electric curling irons; Beard clippers; Hair cutting scissors; Trimmers [hand operated tools]; Razor knives; Cutters; Knives; Non-electric flat irons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Tijeras para el pelo; Pinzas pequeñas; Tijeras; Cuchillos de callista; Limas para los pies; Alicates para uñas; Rizadores no eléctricos; Maquinillas para cortar la barba; Tijeras para el cabello; Tijeras de podar [herramientas manuales]; Hojas de cuchilla; Cortafríos; Cuchillos; Planchas no eléctricas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Juukselõikurid; Pintsetid; Käärid; Nahapaksendilõikurid; Jalaviilid; Küünetangid; Mitteelektrilised lokitangid; Habemepügamismasinad; Juuksekäärid; Trimmerid [käsi-tööriistad]; Raseerimisnoad; Lõikurid; Noad; Triikrauad, pressrauad, v.a elektrilised.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Hiusleikkurit; Pinsetit; Sakset; Känsäleikkurit; Jalkaraspit; Kynsileikkurit; Muut kuin sähkökäyttöiset kihartimet; Partaleikkurit; Hiussakset; Siistimisleikkurit [käsityökalut]; Partaveitset; Leikkurit; Veitset; Muut kuin sähkökäyttöiset silitysraudat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Tondeuses à cheveux; Brucelles; Ciseaux; Coupe-callosités; Limes pour les pieds; Pinces à ongles; Fers à friser non électriques; Tondeuses pour la coupe de la barbe; Ciseaux pour cheveux; Coupe-bordures [outils actionnés manuellement]; Rasoirs droits [rasoirs ouverts]; Coupoirs; Couteaux; Fers à repasser non électriques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Škare za šišanje; Hvataljke [pincete]; Škare; Nožić za odstranjivanje zadebljale kože na stopalima; Turpijice za stopala; Kliješta za nokte; Neelektrični uvijači za kosu; Brada (sprave za šišanje brade); Škare za šišanje kose; Podrezivači [ručno pokretani alat]; Britve; Škare za rezanje krutih predmeta; Noževi; Neelektrična glačala.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Hajvágó ollók; Finom csipeszek; Ollók; Bőrkeményedés vágók; Lábcsiszolók; Szögkiszedők; Nem elektromos hajsütővasak; Szakállnyírók; Hajvágó ollók; Vágóeszközök, nyíróeszközök [kézi működtetésű szerszámok]; Borotvakések; Vágószerszámok; Kések; Nem elektromos vasalók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Forbici per capelli; Pinzette a molla; Forbici; Tagliacalli; Lime per i piedi; Pinzette per unghie; Ferri non elettrici per arricciare i capelli; Macchinette per tagliare la barba; Forbici per capelli; Rifilatrici [utensili azionati manualmente]; Rasoi dritti; Coltellacci; Coltelli; Ferri da stiro, non elettrici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Plaukų kirpimo mašinėlės; Pincetai; Žirklės; Suragėjusios odos šalinimo įrankiai; Pėdų dildės; Žnybiamosios replės; Ne elektrinės plaukų sukimo žnyplės; Rankinės barzdos kirpimo mašinėlės; Plaukų kirpimo žirklės; Žolės apkirpimo rankiniai įrankiai; Peiliai-skustuvai; Pjovikliai; Peiliai; Ne elektriniai lygintuvai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Matu griežamās mašīnītes; Pincetes; Šķēres; Tulznu noņemšanas ierīces; Pēdu vīles; Nagu knaiblītes; Neelektriskas lokšķēres; Bārdas trimeri; Šķēres matu griešanai; Trimmeri [ar roku darbināmi]; Bārdas naži; Griežņi; Naži; Gludekļi, neelektriski.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Qattiegħa tax-xagħar; Pinzetti żgħar; Imqassijiet; Tagħmir għall-qtugħ tal-kallijiet; Limi għas-saqajn; Tnalji tad-dwiefer; Magni mhux tal-elettriku li jobormu x-xagħar; Magni tal-qtugħ tal-leħja; Imqassijiet tax-xagħar; Strument li jittrimmja (għodda li titħaddem bl-idejn); Xfafar dritti; Għodda tal-qtugħ; Skieken; Ħadida tal-mgħodija, mhux tal-elettriku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Tondeuses; Veertangen [pincetten]; Scharen; Instrumenten voor het wegsnijden van eeltplekken; Voetvijlen; Nageltangen; Krultangen, niet-elektrisch; Tondeuses voor de baard; Haarscharen; Snoeimessen [handgereedschap, met de hand te bedienen]; Scheermessen; Knip- en snij-instrumenten; Messen; Strijkijzers, niet-elektrisch.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maszynki do strzyżenia włosów; Pincety; Nożyczki; Nożyki do usuwania zgrubiałej skóry i odcisków; Pilniki do stóp; Narzędzia do wyciągania gwoździ; Nieelektryczne lokówki; Maszynki do strzyżenia brody; Nożyczki do włosów; Przycinarki [narzędzia obsługiwane ręcznie]; Brzytwy; Przecinacze; Noże; Żelazka nieelektryczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máquinas de cortar cabelo; Pinças pequenas; Tesouras; Corta-calos; Limas para os pés; Pinças para unhas; Ferros de frisar não elétricos; Máquinas para o corte da barba; Tesouras para cortar cabelo; Instrumentos de aparar [ferramentas conduzidas manualmente]; Navalhas para barba; Cortadores; Facas; Ferros de engomar não elétricos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Mașini de tuns; Pensete; Foarfece; Dispozitive de tăiat bătăturile; Pile pentru picior; Clești de unghii; Ondulatoare non-electrice; Barba (Mașini de tuns -); Foarfeci de tuns; Mașini de tuns [unelte acționate manual]; Brice (de bărbierit); Mașini de tăiat și fațetat; Cuțite; Fiare de călcat, non-electrice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zastrihovače na vlasy; Pinzety (klieštiky); Nožnice; Náčinie na odrezávanie zatvrdnutej kože; Pilníky na chodidlá; Kliešte na nechty; Neelektrické kulmy na vlasy; Nožnice na strihanie fúzov a brady; Kadernícke nožnice; Orezávačky [ručne ovládané nástroje]; Britvy; Rezačky; Nože; Neelektrické žehličky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Škarje za striženje las; Pincete; Škarje; Noži za otiščance; Pile za stopala; Parklji za puljenje žebljev; Neelektrični kodralniki las; Aparati za striženje brade; Škarje za striženje las; Obrezovalniki [ročna orodja]; Britve; Rezalniki; Noži; Neelektrični likalniki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Hårklippare; Pincetter; Saxar; Hornhudshyvel; Fotfilar; Nageltänger; Icke-elektriska locktänger; Skäggklippare; Hårsaxar; Trimningssaxar [handdrivna verktyg]; Rakknivar; Avbitare; Knivar; Icke-elektriska strykjärn.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>21</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Гъби за изтъркване кожата на тялото; Средства за почесване на гърба; Четки за баня; Козметични принадлежности; Гребенчета за мигли; Абразивни ръкавици за почистване на зеленчуци; Четки за бутилки; Метли; Четки за почистване на автомобили; Четки; Четина (Животинска -) [четкарска]; Ръкавици за козметична поддръжка на животни; Чесала за животни.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Abrazivní houby na péči o pokožku; Škrabátka na záda; Kartáče do koupele; Kosmetické pomůcky; Hřebínky na řasy; Rukavice se zdrsněným povrchem na čištění zeleniny; Kartáče na láhve; Košťata; Kartáče na čištění automobilů; Kartáče; Zvířecí štětiny [kartáčnické zboží]; Vyčesávací rukavice na zvířata; Hřebeny, česadla na zvířata.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Slibesvampe til skrubning af huden; Kløpinde; Badebørster; Redskaber til kosmetisk brug; Øjenvippekamme; Skrubbehandsker til grøntsager; Flaskerensere; Koste; Børster til rengøring af biler; Børster; Børstehår [animalske]; Handsker til pleje af dyr; Kamme til dyr.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Hautpeelingschwämme; Rückenkratzer; Badebürsten; Kosmetische Geräte; Wimpernkämme; Gemüseputzhandschuhe; Flaschenbürsten; Besen; Autoreinigungsbürsten; Bürsten; Tierborsten [Bürsten- und Pinselwaren]; Tierpflegehandschuhe; Tierkämme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σπόγγοι καθαρισμού του δέρματος· Ξύστρες για τη πλάτη· Βούρτσες μπάνιου· Καλλυντικά (Σκεύη -)· Χτενάκι για τις βλεφαρίδες· Λειαντικά γάντια για το τρίψιμο της επιφάνειας των λαχανικών· Βούρτσες για μπουκάλια· Σκούπες· Βούρτσες καθαρισμού αυτοκινήτων· Βούρτσες· Ζώων (τρίχωμα -) [βούρτσες και πινέλα]· Γάντια για την περιποίηση ζώων· Ζώων (Κτένες -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Abrasive sponges for scrubbing the skin; Back scratchers; Bath brushes; Cosmetic utensils; Eyelash combs; Abrasive gloves for scrubbing vegetables; Bottle brushes; Brooms; Brushes for cleaning cars; Brushes; Animal bristles [brushware]; Animal grooming gloves; Combs for animals.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Esponjas exfoliantes para la piel; Rascadores de espalda; Cepillos para el baño; Utensilios cosméticos; Cepillos para las pestañas; Guantes abrasivos para limpiar verduras; Cepillos para botellas; Escobas; Cepillos para limpiar el coche; Cepillos; Cerdas de animales [cepillos y pinceles]; Guantes para el acicalamiento de animales; Peines para animales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Abrasiivkäsnad naha koorimiseks; Seljasügamisvahendid, seljasügajad; Vanniharjad; Kosmeetikatarbed; Ripsmekammid; Köögiviljade puhastamise abrasiivkindad; Pudeliharjad; Luuad; Autopuhastusharjad; Harjad; Jõhvharjad; Loomade kammimiskindad; Loomakammid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Hankaussienet ihon puhdistukseen; Selänraapijat; Kylpyharjat; Kosmetiikkavälineet; Ripsikammat; Hankauskäsineet vihannesten puhdistamiseen; Pulloharjat; Luudat; Autonpuhdistusharjat; Harjat; Harjas (eläin -) [harjanvalmistusaineena]; Käsineet eläinten harjaamiseen; Kammat eläimiä varten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Éponges abrasives pour la peau; Gratte-dos; Brosses de bain; Ustensiles cosmétiques; Brosses à cils; Gants abrasifs pour nettoyer les légumes; Écouvillons pour bouteilles; Balais; Brosses pour nettoyer les voitures; Brosses; Soies d'animaux [brosserie et pinceaux]; Gants de toilettage pour animaux; Peignes pour animaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Koža (abrazivne spužve za kožu); Češalice za leđa; Četke za kupanje; Kozmetički pribor; Četkice za trepavice; Abrazivne rukavice za struganje povrća; Četke za boce; Metle; Četke za čišćenje automobila; Četke; Dlaka, životinjska za četkarstvo; Rukavice za njegu životinja; Češljevi za životinje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Dörzsszivacsok bőrradírozáshoz; Hátvakarók; Fürdőkefék; Kozmetikai eszközök; Szempillafésűk; Dörzskesztyűk zöldségek tisztításához; Üvegmosó kefék; Seprűk; Autómosó kefék; Kefék; Állatsörték [kefeáruk és ecsetek]; Állatfésülő kesztyűk; Fésűk állatoknak.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Spugnette abrasive per peeling della pelle; Grattaschiena; Spazzole da bagno; Utensili cosmetici; Pettini per ciglia; Guanti abrasivi per strofinare ortaggi; Spazzole per bottiglie; Scope; Spazzole per la pulizia di automobili; Spazzole; Setole d'animali [spazzole e pennelli]; Guanti per la tolettatura di animali; Pettini per animali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Abrazyvinės kempinės odai grandyti; Nugaros kasytuvai; Vonios šepečiai; Kosmetikos reikmenys; Blakstienų šukutės; Abrazyvinės pirštinės daržovėms valyti; Butelių šepečiai; Šluotos; Automobilių valymo šepečiai; Šepečiai; Šeriai [šepečiams]; Gyvūnų priežiūros pirštinės; Gyvulių šukos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Abrazīvi sūkļi ķermeņa ādas norīvēšanai; Muguras kasītājs; Vannas birstes; Kosmētikas piederumi; Skropstu ķemmes; Abrazīvi cimdi dārzeņu tīrīšanai; Pudeļu birstes; Slotas; Automobiļu tīrīšanas sukas; Sukas; Dzīvnieku saru sukas un otas; Cimdi dzīvnieku kopšanai; Dzīvnieku ķemmes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Sponoż li joborxu biex jogħrku l-ġilda; Aċċessorji biex tħokk id-dahar; Xkupilji għall-banju; Utensili kożmetiċi; Pettnijiet għax-xagħar ta' truf il-għajnejn; Ingwanti li joborxu għat-tqaxxir tal-ħaxix; Xkupilji tal-fliexken; Xkupi; Xkupilji għat-tindif tal-karozzi; Pniezel; Xagħar tal-annimali [pniezel]; Ingwanti għat-tindif tas-sbuħija tal-annimali; Pettnejiet tal-annimali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Schuursponzen voor de huid; Ruggenkrabbers; Badborstels; Cosmetisch gerei; Kammen voor de oogwimpers; Schuurhandschoenen voor het schrobben van groenten; Flessenborstels; Bezems; Borstels voor het schoonmaken van auto' s; Borstels; Dierlijk borstelhaar; Handschoenen voor dierenverzorging; Kammen voor dieren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Gąbki ścierne do szorowania skóry; Skrobaczki do pleców; Szczotki kąpielowe; Przybory kosmetyczne; Grzebyki do rzęs; Rękawice ścierające do szorowania warzyw; Szczotki do mycia butelek; Miotły; Szczotki do mycia samochodów; Szczotki; Szczecina zwierzęca [szczotkarstwo]; Rękawice do pielęgnacji zwierząt; Grzebienie dla zwierząt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Esponjas abrasivas para a esfoliar a pele; Utensílios para esfregar as costas; Escovas para o banho; Utensílios cosméticos; Escovas para pestanas; Luvas abrasivas para lavagem de legumes; Escovas para garrafas; Vassouras; Escovas para limpeza de automóveis; Escovas; Cerdas de animais [escovas e pincéis]; Luvas para limpeza de animais; Pentes para animais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Bureți pentru exfolierea pielii; Perii pentru spate; Perii de baie; Cosmetice (Ustensile -); Piepteni pentru gene; Mănuși abrazive pentru curățat legume; Perii pentru sticle; Mături; Perii pentru curățarea mașinilor; Perii; Păr de animale [perii și pensule]; Mănuși pentru îngrijirea animalelor; Animale (Piepteni pentru -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Abrazívne špongie na pokožku; Škrabadlá na chrbát; Kefy do kúpeľa; Kozmetické pomôcky; Kefky na mihalnice; Abrazívne rukavice na čistenie zeleniny; Kefy na čistenie fliaš; Metly; Kefy na čistenie vozidiel; Kefy; Kefy na zvieratá; Rukavice na vyčesávanie srsti; Hrebene na zvieratá.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Abrazivne gobe za kožo; Praskalniki za hrbet; Kopalna krtača; Kozmetični pripomočki; Glavniki za trepalnice; Rokavice za čiščenje zelenjave; Ščetke za čiščenje steklenic; Metle; Krtače za čiščenje avta; Krtače; Živalske ščetine [ščetkarstvo in čopičarstvo]; Rokavice za nego živali; Glavniki za živali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Skrubbsvampar för huden; Ryggkliare; Badborstar; Kosmetikutensilier; Kammar för ögonfransar; Skrubbhandskar för grönsaker; Flaskborstar; Kvastar; Borstar för rengöring av bilar; Borstar; Djurborst [borstbinderivaror]; Handskar för vård av djurpäls; Kammar för djur.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/141</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

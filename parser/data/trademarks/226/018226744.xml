@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-31T08:41:00</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226744</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226744</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-28</RegistrationDate>
+<ApplicationLanguageCode>bg</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-31</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>HUVESEPT</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Дезинфектанти; Дезинфектанти и антисептици; Антибактериални препарати; Антибактериални препарати [различни от сапун].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Dezinfekční přípravky; Dezinfekční a antiseptické přípravky; Antibakteriální přípravky; Dezinfekční přípravky (jiné než mýdlo).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Desinfektionsmidler; Desinficerende og antiseptiske midler; Antibakterielle præparater; Bakteriedræbende præparater (dog ikke sæbe).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Desinfektionsmittel; Desinfektionsmittel und Antiseptika; Antibakterielle Präparate; Keimtötende Präparate [ausgenommen Seifen].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Απολυμαντικά· Απολυμαντικά και αντισηπτικά· Αντιβακτηριακά παρασκευάσματα· Μικροβιοκτόνα παρασκευάσματα [εκτός από σαπούνι].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Disinfectants; Disinfectants and antiseptics; Anti-bacterial preparations; Germicidal preparations [other than soap].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Desinfectantes; Desinfectantes y antisépticos; Preparaciones antibacterianas; Preparaciones germicidas [distintas del jabón].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Desinfektsioonivahendid; Desinfektsioonivahendid ja antiseptikumid; Antibakteriaalsed preparaadid; Bakterisiidsed preparaadid [v.a seep].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Desinfiointiaineet; Desinfiointiaineet ja antiseptiset aineet; Bakteereja tuhoavat valmisteet; Mikro-organismeja tappavat valmisteet [muut kuin saippuat].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Désinfectants; Désinfectants et antiseptiques; Produits antibactériens; Produits germicides autres que savons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dezinfekcijska sredstva; Dezinfekcijska i antiseptička sredstva; Antibakterijski pripravci; Germicidni pripravci [osim sapuna].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fertőtlenítőszerek; Fertőtlenítők és fertőzésgátlók; Antibakteriális készítmények; Csíraölő készítmények [kivéve szappanok].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Disinfettanti; Disinfettanti ed antisettici; Preparati antibatterici; Preparati germicidi [non sapone].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dezinfekavimo preparatai; Dezinfekavimo priemonės ir antiseptikai; Antibakteriniai preparatai; Germicidiniai preparatai [išskyrus muilą].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dezinfekcijas līdzekļi; Dezinfekcijas un antiseptiskie līdzekļi; Antibakteriāli preparāti; Baktericīdi līdzekļi, izņemot ziepes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Diżinfettanti; Diżinfettanti u antisettiċi; Preparazzjonijiet kontra l-batterja; Preparazzjonijiet ġermiċidjali [minbarra sapun].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ontsmettingsmiddelen; Ontsmettingsmiddelen en antiseptica; Antibacteriële middelen; Kiemdodende preparaten [anders dan zeep].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Środki odkażające; Środki dezynfekcyjne i antyseptyczne; Preparaty antybakteryjne; Preparaty bakteriobójcze [inne niż mydło].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Desinfectantes; Desinfetantes e antissépticos; Preparações antibacterianas; Produtos germicidas [sem ser sabões].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dezinfectante; Dezinfectanţi şi antiseptice; Preparate antibacteriene; Preparate germicide [altele decât săpunul].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Dezinfekčné prostriedky; Dezinfekčné a antiseptické prípravky; Antibakteriálne prípravky; Germicídne prípravky [s výnimkou mydla].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Dezinfekcijska sredstva; Dezinfekcijska in antiseptična sredstva; Antibakterijski pripravki; Germicidni pripravki [razen mila].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Desinfektionsmedel; Desinfektions- och antiseptiska medel; Antibakteriella preparat; Bakteriedödande medel [inte tvål].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/094</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-20</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/165</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-31</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>457775</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>65966</Identifier>
+</RepresentativeKey>
+<RepresentativeKey>
+<Identifier>37900</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

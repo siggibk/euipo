@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:08</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229026</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229026</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>mTurn</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162457370</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229026/000162457370.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>16.01.25</CategoryCode>
+          <CategoryCode>25.05.94</CategoryCode>
+          <CategoryCode>27.03.15</CategoryCode>
+          <CategoryCode>29.01.03</CategoryCode>
+          <CategoryCode>29.01.08</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Устройства и носители за съхранение на данни; Носители за машинно четене на данни, записани с програми; Устройства с памет.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Paměťová zařízení a média; Strojově čitelné datové nosiče s nahranými programy; Paměťová zařízení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Anordninger og medier til datalagring; Maskinlæsbare databærere optagede med programmer; Hukommelsesanordninger.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Datenspeichergeräte und -medien; Mit Programmen bespielte maschinenlesbare Datenträger; Speichereinheiten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διατάξεις και μέσα αποθήκευσης δεδομένων· Μηχαναγνώσιμα μέσα αποθήκευσης δεδομένων εγγεγραμμένα με προγράμματα· Διατάξεις μνήμης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Data storage devices and media; Machine-readable data carriers recorded with programs; Memory devices.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Dispositivos y medios para almacenamiento de datos; Soportes de datos legibles por máquina con programas grabados; Dispositivos de memoria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Andmesäilitusseadmed ja andmekandjad; Salvestatud programmidega masinloetavad andmekandjad; Mäluseadmed, -seadeldised.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tietojen tallennuslaitteet ja -välineet; Koneluettavat tietovälineet, joille on tallennettu ohjelmia; Muistilaitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Dispositifs et supports de stockage de données; Supports de données lisibles par une machine comportant des programmes enregistrés; Unités de stockage de données informatiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Uređaji za pohranu podataka i medijski sadržaji; Strojno čitljivi nosači podataka sa snimljenim programima; Memorijske naprave.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Adattároló eszközök és hordozóeszközök; Programokat tartalmazó, géppel olvasható adathordozók; Memóriaeszközök.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Dispositivi e supporti di memorizzazione dati; Supporti di memorizzazione dati leggibili dalla macchina registrati con programmi; Supporti di memoria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Duomenų saugojimo įrenginiai ir laikmenos; Automatinio nuskaitymo duomenų laikmenos su įrašytomis programomis; Atminties įrenginiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Datu glabāšanas ierīces un datu nesēji; Mašīnlasāmi datu nesēji, kuros iepriekš ierakstītas programmas; Atmiņas ierīces.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħmir għall-ħżin tad-data u l-midja; Ġarriera tad-dejta li jinqraw bil-magni bi programmi rreġistrati; Tagħmir għall-memorja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Gevensopslagapparatuur- en media; Machineleesbare gegevensdragers met vooropgenomen programma's; Geheugenapparaten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia i nośniki do przechowywania danych; Nośniki danych do odczytu maszynowego z zapisanymi programami; Urządzenia pamięciowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Suportes e dispositivos de armazenamento de dados; Suportes de dados gravados com programas legíveis por máquina; Dispositivos de memória.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dispozitive și suporturi pentru stocarea de date; Suporturi de date lizibile mecanic înregistrate cu ajutorul unor programe; Dispozitive de memorie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Pamäťové dátové zariadenia a médiá; Strojovo čitateľné nosiče údajov s nahratými programami; Zariadenia pre pamäte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Mediji in naprave za shranjevanje podatkov; Strojno berljivi podatkovni nosilci s posnetimi programi; Pomnilne naprave.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Anordningar och medier för datalagring; Maskinläsbara databärare inspelade med program; Minnesenheter.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Рекламни, маркетингови и промоционални услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Reklamní, marketingové a propagační služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Virksomhed vedrørende reklame, marketing og salgsfremstød.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Werbung, Marketing und Verkaufsförderung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διαφήμιση, ενέργειες πώλησης (μάρκετινγκ) και υπηρεσίες προώθησης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Advertising, marketing and promotional services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios promocionales, de marketing y publicidad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Reklaam ja turundus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Mainonta-, markkinointi- ja myynninedistämispalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de publicité, de marketing et de promotion.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge oglašavanja, marketinga i promidžbe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Reklámozási, marketing és promóciós szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi pubblicitari, di marketing e promozionali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Reklamos, rinkodaros ir pardavimų skatinimo paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Reklāmas, tirgvedības un preču noieta veicināšanas pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' reklamar, kummerċjaliżżazzjoni u promozzjonali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Reclame, marketing en promotionele diensten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi reklamowe, marketingowe i promocyjne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de publicidade, de marketing e de promoção.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de publicitate, marketing și promovare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Reklamné, marketingové a propagačné služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oglaševalske, tržne in promocijske storitve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Reklam, marknadsföring och säljfrämjande tjänster.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Информационно-технологични услуги; Дизайнерски услуги; Научно-технологични услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby v oblasti informačních technologií; Návrhářství; Vědecké technologické služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">IT tjenesteydelser; Designtjenesteydelser; Videnskabelige teknologiske tjenesteydelser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">IT-Dienstleistungen; Designdienstleistungen; Wissenschaftlich-technologische Dienstleistungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες τεχνολογιών της πληροφορικής· Υπηρεσίες σχεδιασμού· Επιστημονικές τεχνολογικές υπηρεσίες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">IT services; Design services; Scientific technological services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de tecnologías de la información; Servicios de diseño; Servicios tecnológicos científicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">IT-teenused; Disainiteenused; Teadustehnoloogilised teenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">IT-palvelut; Suunnittelupalvelut; Tieteelliset teknologiapalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services des technologies de l'information; Services de conception; Services scientifiques et technologiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge informacijske tehnologije; Usluge dizajna; Znanstvene tehnološke usluge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Információtechnológiai [IT] szolgáltatások; Tervezési szolgáltatások; Tudományos technológiai szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi informatici; Servizi di progettazione; Servizi di scienza e tecnologia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Informacinių technologijų paslaugos; Dizaino paslaugos; Mokslo technologijų paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Informācijas tehnoloģiju pakalpojumi; Dizaina pakalpojumi; Zinātniski tehnoloģiskie pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi tal-IT; Servizzi tal-Iddisinjar; Servizzi teknoloġiċi xjentifiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">IT-diensten; Ontwerpdiensten; Wetenschappelijk-technologische diensten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi w zakresie technologii informacyjnych; Usługi projektowania; Usługi naukowo-technologiczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de TI (tecnologias de informação); Serviços de design; Serviços científicos e tecnológicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii IT; Servicii de proiectare; Servicii tehnologice științifice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Informačné technológie; Návrhárske služby; Vedecké technologické služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve informacijske tehnologije; Oblikovalske storitve; Znanstveno-tehnološke storitve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">IT-tjänster; Designtjänster; Vetenskapliga teknologiska tjänster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1081989</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

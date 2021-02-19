@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T11:10:22</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226496</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226496</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ECOVISOR</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Устройство за измерване на условия на вътрешна среда, свързани с електрически компоненти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zařízení na měření vnitřních environmentálních podmínek vztahujících se k elektrickým komponentům.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Enheder til måling af interne miljøforhold om elektriske komponenter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Gerät zum Messen interner Umgebungsbedingungen in Bezug auf elektrische Bauteile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διάταξη μέτρησης των εσωτερικών περιβαλλοντικών συνθηκών σε σχέση με ηλεκτρικά εξαρτήματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Device for measuring internal environmental conditions related to electrical components.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Dispositivo para medir condiciones ambientales internas en relación con componentes eléctricos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Elektriliste komponentidega seotud sisemiste keskkonnatingimuste mõõtmisseade.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sähkökomponentteihin liittyvien sisäisten ympäristöolojen mittaamiseen tarkoitettu laite.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Dispositifs pour mesurer les conditions environnementales internes liées aux composants électriques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Uređaj za mjerenje uvjeta unutrašnjeg okruženja u vezi s električnim komponentama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Készülék az elektromos alkatrészekkel kapcsolatos belső környezeti feltételek mérésére.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Dispositivo per la misurazione delle condizioni ambientali interne relative a componenti elettrici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vidinių aplinkos sąlygų matavimo įtaisas, susijęs su elektriniais komponentais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ierīce iekšējo vides apstākļu mērīšanai saistībā ar elektriskajām sastāvdaļām.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħmir għall-kejl ta' kondizzjonijiet ambjentali interni relatati ma' komponenti elettriċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Toestellen voor het meten van interne omgevingscondities met betrekking tot elektrische componenten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenie do pomiaru wewnętrznych warunków środowiskowych związanych z komponentami elektrycznymi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Dispositivo para medição das condições ambientais internas relacionadas com componentes elétricos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dispozitiv pentru măsurarea condițiilor mediului intern referitor la componente electrice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zariadenia na meranie podmienok vnútorného prostredia v súvislosti s elektrickými komponentmi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Naprava za merjenje notranjih okoljskih razmer, v zvezi z električnimi sestavnimi deli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Anordningar för mätning av interna miljöförhållanden avseende elektriska komponenter.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/081</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-30</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/150</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1073797</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>12893</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

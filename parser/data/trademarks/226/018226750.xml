@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T17:01:18</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226750</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226750</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>NAPOLEON SPINNER</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Софтуер и хардуер за системи за автоматизация на казина и игрални зали; Програми за електронни игри, които се свалят и записват; Компютърен приложен софтуер за играене на игри; Компютърен софтуер, позволяващ играенето на игри; Компютърен софтуер за управление на онлайн игри и хазарт.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Software a hardware pro automatizační systémy v kasinech a herních halách; Stahovatelné programy elektronických her; Počítačový aplikační software pro hraní her; Počítačový software umožňující hraní her; Počítačový software pro spravování her a hazardních her.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Software og hardware til brug i automatiseringssystemer til kasinoer og spillehaller; Elektroniske spilprogrammer til download; Applikationssoftware til computere til brug ved spil af spil; Computersoftware der gør det muligt at spille spil; Computersoftware til administration af onlinespil og gaming.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Software und Hardware für Automatisierungssysteme für Kasinos und Spielhallen; Herunterladbare Programme für elektronische Spiele; Computeranwendungssoftware zum Spielen von Spielen; Computersoftware zur Durchführung von Spielen; Computersoftware zur Administration von Online-Spielen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λογισμικό και υλικό για συστήματα αυτοματοποίησης καζίνων και καταστημάτων με ηλεκτρονικά παιχνίδια· Μεταμορφώσιμα προγράμματα ηλεκτρονικών παιχνιδιών· Λογισμικό εφαρμογών ηλεκτρονικών υπολογιστών για το παίξιμο παιχνιδιών· Λογισμικό ηλεκτρονικών υπολογιστών που επιτρέπει να παίζονται παιχνίδια· Λογισμικό ηλεκτρονικών υπολογιστών για τη διαχείριση επιγραμμικών παιχνιδιών και παιγνίων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Software and hardware for computerisation systems for casinos and amusement arcades; Downloadable electronic game programs; Computer application software for playing games; Computer software that permits games to be played; Computer software for the administration of on-line games and gaming.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Software y hardware para automatización de casinos y salas de juego; Programas de juegos electrónicos descargables; Software de aplicaciones informáticas para jugar a juegos; Programas informáticos que permiten jugar a determinados juegos; Software informático para la administración de juegos en línea.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Tarkvara ja riistvara kasiinode ja mänguhallide automatiseerimissüsteemide jaoks; Allalaaditavad elektronmänguprogrammid; Arvutirakendustarkvara mängude mängimiseks; Arvutitarkvara, mis võimaldab mängude kasutamist; Sidusmängude haldamise arvutitarkvara.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ohjelmistot ja laitteistot kasinoiden ja pelihallien automatisointijärjestelmiä varten; Ladattavat elektroniset peliohjelmat; Sovellusohjelmistot pelien pelaamiseen; Tietokoneohjelmistot, jotka mahdollistavat pelien pelaamisen; Tietokoneohjelmisto verkkopelien ja -pelaamisen hallintaan.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Logiciels et équipement informatique au profit de systèmes d'automatisation de casinos et salles de jeux; Programmes de jeux électroniques téléchargeables; Logiciels d'application informatique pour jouer à des jeux; Logiciels permettant de jouer à des jeux; Logiciels pour l'administration de jeux et de jeux de hasard en ligne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Softveri i hardver za potrebe sustava za automatizaciju kasina i dvorana za igre; Programi za elektroničke igrice koji se mogu preuzeti s Interneta; Računalni aplikacijski softver za igranje igara; Računalni programi koji dozvoljavaju igranje igrica; Računalni softver za upravljanje internetskim igrama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Számítógépes szoftver és hardver kaszinók és játéktermek automatizálási rendszere számára; Letölthető elektronikus játékprogramok; Számítógépes alkalmazások játékok játszására; Játékhasználatot lehetővé tevő számítógépes szoftverek; Számítógépes szoftverek online játékok és szerencsejátékok üzemeltetéséhez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Software e hardware per sistemi di automazione di casinò e sale da gioco; Programmi scaricabili di giochi elettronici; Software applicativi per giochi; Software per utilizzare giochi; Software per l'amministrazione di giochi online e giochi d'azzardo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Programinė ir aparatinė įranga, skirta kazino ir lošimų salių automatizavimo sistemų reikmėms; Parsisiunčiamosios elektroninių žaidimų programos; Kompiuterių taikomoji programinė įranga žaidimams žaisti; Kompiuterių programinė įranga, leidžianti žaisti žaidimus; Kompiuterių programinė įranga, leidžianti administruoti internetinius žaidimus ir azartinius žaidimus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kazino un spēļu zāļu automatizācijas sistēmu programmatūra un datoraparatūra; Lejupielādējamas elektroniskas spēļu programmas; Datoru lietojumrogrammatūra spēļu spēlēšanai; Datoru programmatūra spēļu spēlēšanai; Datoru programmatūra tiešsaistes spēļu un azartspēļu administrēšanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Softwer u ħardwer għal sistemi tal-awtomazzjoni tal-każinos u swali tal-logħob; Programmi ta' logħbiet elettroniċi li jistgħu jitniżżlu; Softwer ta' applikazzjoni tal-kompjuter biex jintlagħab logħob; Softwer tal-kompjuters li jippermettu li jintlagħab il-logħob; Softwer tal-kompjuter għall-amministrazzjoni ta' logħob online u l-logħob tal-azzard.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Software en hardware ten behoeve van automatiseringssystemen van casino's en speelhallen; downloadbare programma's voor elektronische spellen; computer applicatiesoftware voor het spelen van spellen; software die het spelen van spellen mogelijk maakt; computer software voor het beheren van online spellen en kansspelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oprogramowanie i sprzęt komputerowy na potrzeby systemów automatyzacji kasyn i salonów gier; Programy gier elektronicznych do pobrania; Aplikacje oprogramowania komputerowego do grania w gry; Oprogramowanie komputerowe umożliwiające korzystanie z gier komputerowych; Oprogramowanie komputerowe do zarządzania grami on-line.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Software e hardware para sistemas de automatização de casinos e salões de jogos; Programas de jogos eletrónicos descarregáveis; Software de aplicações informáticas para jogar jogos; Software que permite jogar jogos; Software para administração de jogos online e jogos de azar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Software şi hardware pentru sistemele de automatizare ale cazinourilor şi sălilor de jocuri; Programe descărcabile pentru jocuri electronice; Aplicații software de calculator pentru a juca jocuri; Software de calculator care permite jucarea de jocuri; Software pentru administrarea de jocuri şi jocuri de noroc online.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Počítačový softvér a hardvér pre automatizačné systémy pre kasína a hracie herne; Stiahnuteľné elektronické herné programy; Počítačový aplikačný softvér pre hranie hier; Počítačový software, ktorý povoľuje hranie hier; Počítačový softvér na správu online hier a hazardných hier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Programska in strojna oprema za potrebe sistemov avtomatizacije casinojev in igralnih dvoran; Naložljivi programi elektronskih iger; Računalniška aplikacijska programska oprema za igranje iger; Računalniška programska oprema, ki omogoča igranje igric; Računalniška programska oprema za upravljanje spletnih iger in igranja iger.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Programvara och maskinvara för automatiseringssystem för kasinon och spelhallar; Nedladdningsbara elektroniska spelprogram; Datorapplikationsprogramvara för att spela spel; Datorprogramvara som gör det möjligt att spela spel; Programvara för administrering av onlinespel.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>28</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Игри; Игри, които се задействат с монети; Електронни игри, включително автомати за бинго игри, хазартни и казино игри; Електронни игрални автомати за игрални зали (за апарати с монети или жетони); Машини за аркадни игри.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Hry; Hry fungující na mince; Elektronické hry, včetně automatů pro hru bingo, hazardních a kasinových her; Elektronické hrací automaty pro herny (na mince nebo žetony); Herní automaty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Spil; Møntbetjente spil; Elektroniske spil, inklusive bingoautomater, hasard- og kasinospil; Elektroniske spilleautomater til spillehaller (mønt- eller poletbetjente apparater); Spillemaskiner af spillehalstypen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Spiele; Münzbetätigte Spiele; Elektronische Spiele einschließlich Bingospielautomaten, Glücks- und Kasinospiele; Elektronische Spielautomaten für Spielhallen (münz- oder jetonbetätigte Apparate); Spielautomaten für Spielhallen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παιχνίδια/Αθύρματα· Παιχνίδια με κερματοδέκτη· Ηλεκτρονικά παιχνίδια, όπου περιλαμβάνονται αυτόματες μηχανές παιχνιδιού μπίνγκο, τυχερά παιχνίδια και παιχνίδια καζίνο· Ηλεκτρονικά αυτόματα μηχανήματα παιχνιδιού για αίθουσες ψυχαγωγίας (συσκευές με κερματοδέκτη ή μαρκοδέκτη)· Μηχανές παιχνιδιών με κέρματα για αίθουσες ψυχαγωγίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Games; Coin-operated games; Electronic games, including bingo amusement machines, gambling and casino games; Electronic arcade games (coin or counter operated apparatus); Arcade game machines.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Juegos; Juegos accionados con monedas; Juegos electrónicos, incluyendo máquinas para el juego del bingo, juegos de azar y de casino; Máquinas automáticas electrónicas de juego para salas de juegos (aparatos accionados con monedas o fichas); Máquinas recreativas para salas de juegos electrónicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mängud; Müntkäitatavad mängud; Elektroonilised mängud, sh bingomänguautomaadid, hasart- ja kasiinomängud; Elektroonilised mänguautomaadid mängusaalidele (münt- või žetoonkäitatavad aparaadid); Mängusaalide mänguautomaadid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lelut; Kolikkokäyttöiset pelit; Elektroniset pelit, mukaan lukien bingopeliautomaatit, uhka- ja kasinopelit; Elektroniset peliautomaatit pelihalleihin (kolikko- tai pelimerkkitoimiset laitteet); Pelihallilaitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Jeux; Jeux à prépaiement; Jeux électroniques, y compris machines à sous de type bingo, jeux de paris et jeux de casino, sur internet; Machines de jeux électroniques pour salles de jeux (appareils actionnés par de la monnaie ou des jetons); Machines de jeu pour salles de jeux électroniques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Igračke; Igre koje se pokreću ubacivanjem kovanica; Elektroničke igre, uključujući automate za tombolu, kockarske i kasino-igre; Elektronički automati za igre u igraonicama (koji se pokreću na kovanice ili žetone); Arkadni strojevi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Játékok; Érmével működő játékok; Elektronikus játékok, azon belül bingó-játékautomaták, szerencse- és kaszinójátékok; Elektronikus játékautomaták játékcsarnokokba (érmével vagy zsetonnal működtetett készülékek); Játéktermi játékgépek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Giochi; Giochi funzionanti a moneta; Giochi elettronici, comprese macchine per bingo, giochi d'azzardo e giochi da casinò; Macchine automatiche elettroniche da gioco per sale giochi (apparecchi funzionanti a moneta o gettone); Giochi per sale giochi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Žaislai; Monetiniai žaidimai; Elektroniniai žaidimai, įskaitant bingo žaidimų automatus, azartinius ir lošimo namų žaidimus; Elektroniniai lošimų automatai, naudojami lošimo namuose (monetomis arba žetonais valdomi aparatai); Žaidimų salonų aparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Spēles; Ar monētām darbināmas spēles; Elektroniskās spēles, tostarp bingo spēļu automāti, azartspēles un kazino spēles; Elektroniski spēļu automāti spēļu zālēm (ar monētām vai žetoniem darbināmi automāti); Ar monētām iedarbināmi spēļu automāti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ġugarelli; Logħob imħaddmin bil-muniti; Logħob elettroniku, inklużi magni tal-logħob tal-bingo, logħob tal-azzard u logħob tal-każinò; Magni tal-logħob elettroniċi għal swali tal-logħob (apparat imħaddem b'muniti jew ċipep); Magni tal-logħbiet tat-tip arcade.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Spellen; spellen met muntinworp; elektronische spellen waaronder bingospeelautomaten, gok- en casinospellen; electronische spellen voor speelhallen (werkend op munten of met een teller); speelautomaten voor speelhallen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Gry; Gry uruchamiane monetą; Gry elektroniczne, w tym automaty do gry w bingo, gry hazardowe i gry kasynowe; Elektroniczne automaty do gry do salonów gier (urządzenia uruchamiane przez wrzucenie monety lub żetonu); Automaty do gier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Jogos; Jogos acionados por moedas; Jogos eletrónicos, incluindo máquinas para jogar bingo, jogos a dinheiro e jogos de casino; Máquinas de jogos eletrónicas para salões de jogos (acionadas a moedas ou fichas); Máquinas de jogos de arcada.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Jocuri; Jocuri cu fise; Jocuri electronice, inclusiv jocuri mecanice de bingo, jocuri de noroc și de cazinou; Maşini cu sloturi electronice pentru săli de jocuri (aparate acţionate cu monede sau jetoane); Aparate de jocuri electronice de tip arcade.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Hračky; Hry fungujúce na mince; Elektronické hry vrátane hracích automatov na bingo, hazardných a kasínových hier; Elektronické hracie automaty pre hracie haly (aparáty fungujúce po vhodení mince alebo žetónu); Arkádové hracie automaty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Igrače; Igre na kovance; Elektronske igre, vključno loterijski avtomati, igre na srečo in igralniške igre; Elektronski igralni avtomati za igralne salone (aparati na kovance ali žetone); Stroji za arkadne igre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Spel; Myntstyrda spel; Elektroniska spel, inklusive bingospelautomater, hasard- och kasinospel; Elektroniska spelautomater för spelhallar (mynt- eller jetongstyrda apparater); Spelmaskiner av arkadtyp.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Развлечение; Услуги на игрални зали, онлайн или по друг начин; Осигуряване на услуги в зали с игрални автомати; Игри (онлайн), включително бинго игри, хазартни и казино игри, предоставени по интернет; Предоставяне на онлайн игри чрез интернет.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zábava; Služby zábavních parků, on-line nebo jinak; Provozování heren; Hry (on-line) včetně automatů pro hru bingo, hazardních a kasinových her, poskytované přes internet; Poskytování on-line her poskytovaných přes internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Underholdningsvirksomhed; Spillehalvirksomhed, også online; Spillehalvirksomhed; Spil (online), inklusive bingospil, hasard- og kasinospil, udbudt via internettet; Udbydelse af onlinespil via internettet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Unterhaltung; Dienstleistungen von Vergnügungshallen, auch online; Betrieb von Spielhallen; (Online-)Spiele einschließlich Bingospiele, Glücks- und Kasinospiele, über das Internet bereitgestellt; Bereitstellung von Online-Spielen über das Internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ψυχαγωγία· Υπηρεσίες αιθουσών ψυχαγωγίας επί γραμμής ή μη· Παροχή ψυχαγωγικών υπηρεσιών ηλεκτρονικών παιχνιδιών· Παιχνίδια (επί γραμμής), όπου περιλαμβάνονται παιχνίδια μπίνγκο, τυχερά παιχνίδια και παιχνίδια καζίνο, παρεχόμενα μέσω Διαδικτύου· Διάθεση επί γραμμής παιχνιδιών μέσω του Διαδικτύου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Entertainment; Amusement halls, whether or not online; Providing amusement arcade services; Online games, including bingo games, gambling and casino games, provided via the internet; Game services provided online via the internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de entretenimiento; Servicios de salas recreativas, en línea o por otros medios; Explotación de salas de juegos; Juegos (en línea) incluyendo juegos de bingo, juegos de azar y juegos de casino, suministrados a través de internet; Suministro de juegos en línea a través de internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meelelahutus; Hasartmängusaalide teenused, ka sidusalt; Mänguautomaatide saalide teenused; Mängud (sidusad), sh bingomängud, hasart- ja kasiinomängud, interneti kaudu pakutuna; Interneti kaudu mängitavate sidusmängude pakkumine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ajanviete; Pelihallien palvelut, myös online-periaatteella; Peliautomaattihallipalvelut; Pelit (online), mukaan lukien bingopelit, uhka- ja kasinopelit, Internetin välityksellä tarjottuina; Online-pelien tarjoaminen käyttöön Internetin kautta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Divertissement; Services de salles de jeux en ligne ou non; Exploitation de salles de jeux; Jeux (en ligne), y compris machines à sous de type bingo, jeux de paris et jeux de casino, sur internet; Mise à disposition de jeux en ligne fournis par le biais d'internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Razonoda; Usluge dvorana za igre, online ili drugačije; Pružanje usluga prostora za zabavne igre; Igre (na mreži), uključujući igre tombole, kockarske i kasino-igre, koje se nude na internetu; Stavljanje na raspolaganje mrežnih igara putem interneta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szórakoztatás; Szórakozó termek szolgáltatásai online is; Játéktermi szolgáltatások nyújtása; Játékok (online), azon belül bingó-játékok, szerencse- és kaszinójátékok az interneten; Interneten használható online játékok rendelkezésre bocsátása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Divertimento; Servizi di sale di divertimenti anche online; Servizi di sale di gioco; Giochi (online), compresi bingo, giochi d'azzardo e giochi da casinò, forniti su Internet; Fornitura di giochi online su Internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Pramogos; Pramogų salių paslaugos, teikiamos internetu ar kitu būdu; Pramogų paviljonų paslaugos; Žaidimai (internetu), įskaitant bingo žaidimus, lošimus ir kazino žaidimus, teikiamus internetu; Internetinių žaidimų teikimas internetu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Izpriecas; Izklaides zāļu pakalpojumi gan tiešsaistē, gan lokāli; Atrakciju zāļu pakalpojumu nodrošināšana; Spēles (tiešsaistē), tostarp bingo spēles, azartspēles un kazino spēles, kas tiek nodrošinātas internetā; Tiešsaistes spēļu nodrošināšana tīmeklī.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Divertiment; Servizzi ta' swali tad-divertiment onlajn jew oflajn; Il-provvista ta' servizzi ta' ħwienet għad-divertiment b'magni tal-logħob awtomatiċi; Logħob (onlajn), inkluż logħob tal-bingo, logħob tal-fortuna u logħob tal-każinò, ipprovduti minn fuq l-internet; Provvista ta' logħob onlajn minn fuq l-internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ontspanning; diensten van amusementshallen al dan niet online; speelhallen; spellen (on line) waaronder bingospellen, gok- en casinospellen, geleverd via het internet; ter beschikking stellen van online spellen via het internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Rozrywka; Usługi hal rozrywki, także online; Świadczenie usług w zakresie salonów gry; Gry (online), w tym gry bingo, gry hazardowe i gry kasynowe, dostarczane przez internet; Udostępnianie gier online za pośrednictwem internetu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Divertimento; Serviços de salões de jogos, também em linha; Serviços de salões de jogos de arcadas; Jogos (em linha) incluindo jogos de bingo, jogos a dinheiro e jogos de casino, oferecidos através da Internet; Disponibilização de jogos em linha através da Internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Divertisment; Servicii ale sălilor de jocuri electronice, on-line sau nu; Furnizare de instalaţii de săli de jocuri; Jocuri (online) inclusiv jocuri mecanice de bingo, jocuri de noroc și de cazinou, furnizate prin internet; Punerea la dispoziție de jocuri online prin internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zábava; Služby zábavných prakov, on-line alebo inak; Herne s hracími automatmi (služby); Hry (on-line) vrátane bingo, hazardných a kasínových hier, poskytované prostredníctvom internetu; Poskytovanie on-line hier prostredníctvom internetu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Razvedrilo; Storitve zabaviščnih dvoran, tudi preko spleta; Nudenje storitev igralnih salonov; Igre (spletne), vključno loterije, igre na srečo in igralniške igre, nudene preko interneta; Nudenje spletnih iger preko interneta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Underhållning; Nöjeshallsverksamhet, även online; Spelautomathallar; Spel (online), inklusive bingospel, hasard- och kasinospel, via internet; Tillhandahållande av onlinespel via internet.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>664911</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>14787</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018167620</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>14787</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-07-20</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

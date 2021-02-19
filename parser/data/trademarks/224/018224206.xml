@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-06T16:19:12</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224206</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224206</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-06</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ACT FOR GOOD</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162207325</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224206/000162207325.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.05.95</CategoryCode>
+          <CategoryCode>25.12.03</CategoryCode>
+          <CategoryCode>26.04.01</CategoryCode>
+          <CategoryCode>26.04.05</CategoryCode>
+          <CategoryCode>26.04.18</CategoryCode>
+          <CategoryCode>26.04.22</CategoryCode>
+          <CategoryCode>26.04.99</CategoryCode>
+          <CategoryCode>26.11.08</CategoryCode>
+          <CategoryCode>26.11.98</CategoryCode>
+          <CategoryCode>29.01.03</CategoryCode>
+          <CategoryCode>29.01.99</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>1</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Химически състави и материали за използване в козметиката; Химически вещества за употреба при производството на ароматни козметични средства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Chemické směsi a materiály pro použití v kosmetice; Chemické látky používané při výrobě vonné kosmetiky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kemiske sammensætninger og materialer til brug i kosmetik; Kemiske stoffer til brug i fremstillingen af parfumeret kosmetik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Chemische Verbindungen und Materialien zur Nutzung im Bereich der Kosmetik; Chemische Substanzen zur Herstellung von parfümierten Kosmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χημικά μείγματα και υλικά για χρήση στα καλλυντικά· Χημικές ουσίες για χρήση σε αρωματικά καλλυντικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Chemical compositions and materials for use in cosmetics; chemical substances for use in the manufacture of scented cosmetics.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Composiciones y materias químicas para uso en cosmética; Sustancias químicas para su uso en la fabricación de cosméticos perfumados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Keemilised segud ja materjalid kosmeetikas kasutamiseks; Lõhnastatud kosmeetika tootmisel kasutatavad kemikaalid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kemialliset yhdisteet ja aineet kosmetiikkaan; Kemialliset aineet hajustettuihin kosmeettisiin tuotteisiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Compositions et matières chimiques pour l'industrie des cosmétiques; Substances chimiques destinées à la fabrication de produits cosmétiques parfumés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kemijske mješavine i materijali za uporabu u kozmetici; Kemijske tvari za uporabu u proizvodnji mirisne kozmetike.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Vegyi összetételek és anyagok kozmetikai használatra; Illatosított kozmetikumok gyártásához használt vegyi anyagok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Composti chimici e materiali per l'uso nei cosmetici; Sostanze chimiche per la produzione di cosmetici profumati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Cheminiai mišiniai ir medžiagos kosmetikos reikmėms; Cheminės medžiagos kvapiosios kosmetikos gamybos reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ķīmiskie līdzekļi un materiāli kosmētiskiem nolūkiem; Ķīmiskās vielas izmantošanai aromatizētas kosmētikas ražošanā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kompożizzjonijiet kimiċi u materjali għall-użu fil-kożmetika; Sustanzi kimiċi għall-użu fil-manifattura ta' kosmetiċi jfuħu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Chemische samenstellingen en materialen voor gebruik in cosmetica; Chemische substanties voor gebruik bij de vervaardiging van geparfumeerde cosmetische producten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Składniki i materiały chemiczne do zastosowania w kosmetykach; Substancje chemiczne do użytku w produkcji kosmetyków zapachowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Compostos e materiais químicos para uso em cosméticos; Substâncias químicas para utilização na produção de produtos cosméticos perfumados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Compoziţii chimice şi materiale utilizate în cosmetică; Substanţe chimice folosite la fabricarea produselor cosmetice parfumate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Chemické kompozície a materiály pre použitie v kozmetike; Chemické látky na výrobu vonnej kozmetiky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kemične snovi in materiali za uporabo v kozmetiki; Kemične snovi, ki se uporabljajo pri proizvodnji odišavljenih kozmetičnih izdelkov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kemiska sammansättningar och material för användning i kosmetik; Kemiska substanser för användning i parfymerad kosmetika.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Козметични средства; Препарати за почистване на тялото и за грижа за красотата; Препарати за грижа за кожата; Кремове за грижа за кожа [козметични средства]; Лосиони за грижа за кожата [козметични средства]; Препарати за избелване на кожа; Дезодоранти за грижа за тялото.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kosmetické přípravky; Přípravky pro osobní hygienu a kosmetické přípravky; Přípravky pro péči o pleť; Kosmetické krémy pro péči o pleť; Kosmetická pleťová mléka; Přípravky na bělení pokožky; Deodoranty pro péči o tělo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kosmetik; Præparater til rengøring af kroppen og skønhedspleje; Hudplejepræparater; Hudplejecremer [kosmetiske]; Kosmetiske hudplejelotioner; Hudblegende præparater; Deodoranter til kropspleje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kosmetika; Körperreinigungs- und Körperpflegepräparate; Hautpflegemittel; Kosmetische Hautpflegecremes; Hautpflegelotionen [Kosmetika]; Bleichpräparate für die Haut; Deodorants für die Körperpflege.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καλλυντικά· Παρασκευάσματα καθαρισμού σώματος και φροντίδας ομορφιάς· Παρασκευάσματα για την περιποίηση του δέρματος· Καλλυντικές κρέμες για την περιποίηση του δέρματος· Καλλυντικές λοσιόν για την περιποίηση του δέρματος· Προϊόντα λεύκανσης του δέρματος· Αποσμητικά σώματος.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Cosmetics; body cleaning and beauty care preparations; skin care preparations; skin care creams [cosmetic]; skin care lotions [cosmetic]; skin whitening preparations; body deodorants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cosméticos; Preparaciones para la limpieza y cuidado del cuerpo; Preparaciones para el cuidado de la piel; Cremas cosméticas para el cuidado de la piel; Lociones cosméticas para el cuidado de la piel; Productos blanqueantes para la piel; Desodorantes para el cuidado corporal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kosmeetikavahendid; Puhastus- ja iluhooldustooted kehale; Nahahooldusvahendid; Kosmeetilised nahahoolduskreemid; Nahahoolduslosjoonid (kosmeetilised); Nahka valgendavad preparaadid; Deodorandid kehahoolduseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kosmetiikka; Vartalon puhdistus- ja kauneudenhoitovalmisteet; Ihonhoitovalmisteet; Ihonhoitovoiteet [kosmeettiset]; Ihonhoitoemulsiot [kosmeettiset]; Ihoa valkaisevat valmisteet; Deodorantit vartalon hoitoon.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Cosmétiques; Préparations de nettoyage corporel et de soins de beauté; Préparations pour le soin de la peau; Crèmes de soin pour la peau [cosmétiques]; Lotions de soin pour la peau [cosmétiques]; Préparations pour blanchir la peau; Déodorants pour le soin du corps.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kozmetički proizvodi; Pripravci za čišćenje i njegu tijela; Pripravci za njegu kože; Kreme za njegu kože [kozmetičke]; Losioni za njegu kože [kozmetički]; Pripravci za izbjeljivanje kože; Dezodorans za njegu tijela.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kozmetikai szerek; Testápolási és szépségápolási készitmények; Bőrápoló készítmények; Bőrápoló krémek [kozmetikai]; Bőrápoló folyadékok [kozmetikai]; Bőrfehérítő készítmények [kozmetikumok]; Testápoló dezodorok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cosmetici; Preparati per la pulizia del corpo e per la cura della bellezza; Prodotti per la cura della pelle; Creme per la cura della pelle [cosmetiche]; Lozioni per la cura della pelle [cosmetiche]; Prodotti per sbiancare la pelle; Deodoranti per la cura del corpo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kosmetika; Kūno valomieji ir grožio priežiūros preparatai; Odos priežiūros preparatai; Odos priežiūros kremai [kosmetiniai]; Odos priežiūros losjonai [kosmetiniai]; Odos balinimo preparatai; Kūno priežiūros dezodorantai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kosmētiskie līdzekļi; Ķermeņa kopšanas un skaistumkopšanas līdzekļi; Ādas kopšanas līdzekļi; Kosmētiskie krēmi ādas kopšanai; Kosmētiskie ādas kopšanas losjoni; Ādas balināšanas līdzekļi; Ķermeņa kopšanas dezodoranti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kożmetiċi; Preparazzjonijiet għat-tindif tal-ġisem u għall-kura tas-sbuħija; Preparazzjonijiet għall-ġilda; Kremi għall-kura tal-ġilda (kosmetiċi); Lozjonijiet kosmetiċi għall-kura tal-ġilda; Preparazzjonijiet biex ibajdu l-ġilda; Deodoranti għall-kura tal-ġisem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Cosmetica; Reinigings- en schoonheidspreparaten voor het lichaam; Huidverzorgingsproducten; Cosmetische crèmes voor de huidverzorging; Cosmetische huidverzorgingslotions; Huidbleekproducten; Deodorants voor lichaamsverzorging.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kosmetyki; Preparaty do mycia i pielęgnacji ciała; Preparaty do pielęgnacji skóry; Kremy do pielęgnacji skóry [kosmetyki]; Płyny do pielęgnacji skóry [kosmetyki]; Preparaty do wybielania skóry; Dezodoranty do pielęgnacji ciała.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cosméticos; Produtos para limpeza corporal e cuidados de beleza; Produtos para os cuidados da pele; Cremes para os cuidados da pele [cosméticos]; Loções para os cuidados da pele [cosméticas]; Produtos para branquear a pele; Desodorizantes para os cuidados corporais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cosmetice; Preparate pentru curăţarea şi îngrijirea corpului; Preparate pentru îngrijirea pielii; Creme pentru îngrijirea pielii (produse cosmetice); Loţiuni pentru îngrijirea pielii [cosmetice]; Preparate pentru albirea pielii; Deodorante pentru îngrijirea corpului.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kozmetické prípravky; Telové čistiace prípravky a skrášľovacie prípravky; Pleťová kozmetika; Kozmetické krémy na starostlivosť o pleť; Kozmetické pleťové mlieka; Prípravky na bielenie kože; Telové dezodoranty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kozmetični izdelki; Preparati za čiščenje telesa in lepotilno nego; Sredstva za nego kože; Kozmetične kreme za nego kože; Kozmetični losjoni za nego kože; Pripravki za beljenje kože; Dezodoranti za nego telesa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kosmetika; Preparat för kroppsrengöring och skönhetsvård; Hudvårdspreparat; Kosmetiska krämer för hudvård; Kosmetiska lotioner för hudvård; Hudblekningspreparat; Deodoranter för kroppsvård.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Научни и технологични услуги и научноизследователска и развойна дейност, свързана с тях, по-специално научни и индустриални изследвания и разработки на аромати и есенции; Услуги на химични и/или биологични лаборатории; Разработване на продукти за трети срани в областта на козметиката.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vědecké a technologické služby a související výzkum a vývoj, zejména vědecký a průmyslový výzkum a vývoj týkající se vůní a příchutí; Služby chemické a/nebo biologické laboratoře; Vývoj výrobku pro druhé v oboru kosmetických přípravků.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Videnskabelig og teknologisk virksomhed samt forskning og design i forbindelse hermed, især videnskabelig og industriel forskning og udvikling af dufte og smagsstoffer; Kemiske og/eller biologiske laboratorier; Produktudvikling for andre inden for kosmetik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Wissenschaftliche und technologische Dienstleistungen sowie Forschungsarbeiten und diesbezügliche Entwicklerdienstleistungen, insbesondere wissenschaftliche und industrielle Forschung und Entwicklung in Bezug auf Duftstoffe und Aromastoffe; Dienstleistungen eines chemischen und/oder biologischen Labors; Produktentwicklung für Dritte auf dem Gebiet Kosmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Επιστημονικές και τεχνολογικές υπηρεσίες και σχετικές υπηρεσίες έρευνας και ανάπτυξης, ειδικότερα επιστημονική και βιομηχανική έρευνα και ανάπτυξη αρωμάτων και αρτυματικών υλών· Υπηρεσίες χημικού και/ ή βιολογικού εργαστηρίου· Ανάπτυξη προϊόντων για λογαριασμό τρίτων στον τομέα των καλλυντικών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Scientific and technological services and research and development relating thereto, in particular scientific and industrial research and development of fragrances and flavorings; services of a chemical and / or biological laboratory; Product development for others in the field of cosmetics.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios científicos y tecnológicos e investigación y desarrollo en relación con ellos, en particular investigación y desarrollo científico e industrial de fragancias y aromatizantes; Servicios de un laboratorio químico y/o biológico; Desarrollo de productos para terceros en el ámbito de los cosméticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Teadus- ja tehnoloogiateenused ning nendega seotud teadus- ja arendustegevus, eriti lõhna- ja maitseainete teaduslik ja tööstuslik uurimine ning arendamine; Keemilised ja/või bioloogilised laboriteenused; Tootearendus kolmandatele isikutele kosmeetikavahendite valdkonnas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tieteelliset ja teknologiset palvelut ja niihin liittyvä tutkimus ja kehitys, erityisesti tieteellinen ja teollinen tutkimus ja kehitys hajusteiden ja aromiaineiden alalla; Kemiallisen ja/tai biologisen laboratorion palvelut; Tuotekehittely muille kosmetiikan alalla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services scientifiques et technologiques ainsi que recherche et développement en la matière, en particulier recherche et développement scientifiques et industriels en matière de fragrances et arômes; Services d'un laboratoire chimique et/ou biologique; Développement de produits pour des tiers dans le domaine des produits cosmétiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Znanstvene i tehnološke usluge i istraživanja u vezi s navedenim, posebno znanstvena i industrijska istraživanja i razvoj mirisa i okusa; Usluge kemijskog i/ili biološkog laboratorija; Razvoj proizvoda za druge na području kozmetike.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Tudományos és technológiai szolgáltatások, valamint az ezekkel kapcsolatos kutatás és fejlesztés, különös tekintettel az illat- és aromaanyagok tudományos és ipari kutatására és fejlesztésére; Kémiai és/vagy biológiai laboratóriumok szolgáltatásai; Termékfejlesztés mások számára a kozmetikumok területén.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi scientifici e tecnologici e ricerca e sviluppo relativi ad essi, in particolare ricerca e sviluppo scientifici e industriali di fragranze e aromi; Servizi di un laboratorio chimico e/o biologico; Sviluppo di prodotti per conto terzi nel settore dei cosmetici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mokslinės ir technologinės paslaugos ir mokslinių tyrimų paslaugos ir su tuo susijusios tobulinimo paslaugos, ypač kvapų ir kvapiųjų medžiagų moksliniai ir pramoniniai tyrimai ir plėtra; Chemijos ir/arba biologijos laboratorijų paslaugos; Produktų tobulinimas kitiems kosmetikos srityje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Zinātniskie un tehnoloģiskie pakalpojumi, kā arī ar tiem saistītā izpēte un izstrāde, jo īpaši zinātniskā un rūpnieciskā izpēte un aromātu un aromatizētāju izstrāde; Ķīmisko un/vai bioloģisko laboratoriju pakalpojumi; Produktu izstrāde citiem kosmētikas jomā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi xjentifiċi u teknoloġiċi u riċerka u żvilupp relatati magħhom, b'mod partikolari riċerka u żvilupp xjentifiku u industrijali ta' fragranzi u togħmiet; Servizzi ta' laboratorju kimiku u/jew bijoloġiku; Żvilupp ta' prodotti għal partijiet terzi fil-qasam tal-kożmetiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Wetenschappelijke en technologische diensten en bijbehorende onderzoeks- en ontwerpdiensten, in het bijzonder wetenschappelijk en industrieel onderzoek en ontwikkeling van geuren en aroma's; Diensten van een chemisch en/of biologisch laboratorium; Productontwikkeling voor derden op het gebied van cosmetische producten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Naukowe i techniczne usługi oraz badania i rozwój z tym związany, w szczególności naukowe i przemysłowe badania oraz rozwój zapachów i aromatów; Usługi w zakresie laboratoriów chemicznych i/lub biologicznych; Rozwój produktów na rzecz innych osób w dziedzinie kosmetyków.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços científicos e tecnológicos e investigação e desenvolvimento relacionados com os mesmos, em especial investigação e desenvolvimento científicos e industriais de fragrâncias e aromas; Serviços de um laboratório químico e/ou biológico; Desenvolvimento de produtos para terceiros no domínio dos cosméticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii științifice și tehnologice și cercetare și dezvoltare referitoare la acestea, în special cercetare și dezvoltare științifică și industrială de parfumuri și arome; Servicii prestate de un laborator chimic şi/sau biologic; Dezvoltare de produse, pentru alte persoane, în domeniul cosmeticelor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vedecké a technologické služby a súvisiace výskum a vývoj, predovšetkým vedecký a priemyselný výskum a vývoj zameraný na vonné látky a arómy; Služby chemického a/alebo biologického laboratória; Vývoj produktov pre zákazníkov v oblasti kozmetických prípravkov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Znanstveni in tehnološke storitve ter raziskave in razvoj v zvezi z njimi, zlasti znanstvene in industrijske raziskave in razvoj dišav in arom; Storitve kemičnega in/ali biološkega laboratorija; Razvoj izdelkov za druge na področju kozmetičnih izdelkov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Vetenskapliga och tekniska tjänster och forskning och relaterad utveckling, speciellt vetenskapliga och industriella forskning och utveckling av dofter och smakämnen; Kemiska och/eller biologiska laboratorietjänster; Produktutveckling åt andra inom området för kosmetika.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/087</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>166082</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>17115</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003127740</OppositionIdentifier>
+<OppositionDate>2020-08-06</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>WO</EarlierMarkCountryCode>
+<DesignatedCountryDetails>
+           <DesignatedCountryCode>EM</DesignatedCountryCode>
+          </DesignatedCountryDetails>
+<ApplicationNumber>1442907</ApplicationNumber>
+<ApplicationDate>2018-06-05</ApplicationDate>
+<RegistrationNumber>1442907</RegistrationNumber>
+<RegistrationDate>2018-06-05</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>ACT FOR GOOD WITH KLÉPIERRE</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>108729</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10706</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

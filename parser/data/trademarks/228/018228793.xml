@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T11:10:15</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228793</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228793</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ELITETREE</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162454967</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/228/018228793/000162454967.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.11.01</CategoryCode>
+          <CategoryCode>26.11.13</CategoryCode>
+          <CategoryCode>27.05.12</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Тоалетно мляко за почистване; Козметични средства; Козметични маски; Средства за изплакване на коса [шампоани балсами]; Червила; Шампоани; Фитокозметични препарати; Козметични препарати за вана; Козметични комплекти; Душ гелове; Средства за измиване на лице [козметични].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Čisticí mléko pro toaletní účely; Kosmetické přípravky; Kosmetické masky; Oplachy na vlasy [šampóny-kondicionéry]; Rtěnky; Šampony; Fytokosmetické přípravky; Kosmetické přípravky do koupele; Kosmetické soupravy; Sprchové gely; Obličejové mycí přípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Rensemælk til toiletbrug; Kosmetik; Skønhedsmasker; Hårskylningspræparater; Læbestifter; Shampoo; Plantekosmetiske præparater; Badepræparater, kosmetiske; Kosmetiksæt; Brusebadssæbe i form af gel; Rensemidler til ansigtet [kosmetik].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Reinigungsmilch für Körper- und Schönheitspflege; Kosmetika; Schönheitsmasken; Haarspülungen; Lippenstifte; Shampoos; Phytokosmetische Mittel; Kosmetische Badezusätze; Gefüllte Kosmetiknecessaires; Duschgele; Gesichtsreinigungsmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Γαλακτώματα καλλυντικά· Καλλυντικά· Καλλυντικές μάσκες· Προϊόντα φροντίδας για το λούσιμο των μαλλιών· Κραγιόν· Σαμπουάν· Καλλυντικά παρασκευάσματα φυτικής προέλευσης· Λουτρό (Παρασκευάσματα καλλυντικά για το -)· Καλλυντικά σετ· Ζελ για το ντους· Προϊόντα καθαρισμού προσώπου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Cleansing milk for toilet purposes; Cosmetics; Beauty masks; Hair rinses [shampoo-conditioners]; Lipsticks; Shampoos; Phytocosmetic preparations; Cosmetic preparations for baths; Cosmetic kits; Shower gels; Facial washes [cosmetic].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Leches limpiadoras de tocador; Cosméticos; Mascarillas de belleza; Productos de enjuague para el cabello [champús acondicionadores]; Lápices de labios [pintalabios]; Champús; Preparaciones fito-cosméticas; Preparaciones cosméticas para el baño; Neceseres de cosmética; Geles de ducha; Limpiadores faciales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Puhastuspiim [tualett-tarve]; Kosmeetikavahendid; Kosmeetilised maskid; Juukseloputusvedelikud [šampoon-palsamid]; Huulepulgad; Šampoonid; Fütokosmeetilised preparaadid; Kosmeetilised vannipreparaadid; Kosmeetikakomplektid; Dušigeelid; Näopuhastusvahendid [kosmeetikatooted].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Puhdistusemulsiot toalettitarkoituksiin; Kosmetiikka; Kosmeettiset naamiot; Hiusten huuhteluaineet [shampoo-hoitoaineet]; Huulipunat; Shampoot; Kasviperäiset kosmeettiset valmisteet; Kylvyissä käytettävät kosmeettiset valmisteet; Kosmetiikkapakkaukset; Suihkugeelit; Kasvojenpesuaineet [kosmetiikka].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Laits de toilette; Cosmétiques; Masques de beauté; Produits de rinçage pour les cheveux; Rouge à lèvres; Shampooings; Préparations phytocosmétiques; Préparations cosmétiques pour le bain; Nécessaires de cosmétique; Gels douche; Nettoyants pour le visage [cosmétiques].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Toaletno mlijeko; Kozmetički proizvodi; Kozmetičke maske; Sredstva za ispiranje kose [šamponi s regeneratorom]; Ruž [rumenilo] za usne; Šamponi; Fitokozmetički pripravci; Kozmetički pripravci za kupanje; Neseseri [torbe s kozmetičkim proizvodima]; Gelovi za tuširanje; Sredstva za čišćenje lica [kozmetika].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Tisztító tejek kozmetikai használatra; Kozmetikai szerek; Kozmetikai maszkok; Hajöblítők [samponok, kondicionálók]; Ajakrúzsok; Samponok; Fitokozmetikai készítmények; Kozmetikai készítmények fürdőkhöz; Kozmetikai készletek; Tusolózselék; Arclemosók [kozmetikumok].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Latte per la toilette; Cosmetici; Maschere di bellezza; Tinture leggere per capelli [shampoo-balsami]; Rossetti; Shampoo; Preparati fitocosmetici; Preparati cosmetici per il bagno; Nécessaires di cosmetica; Gel per la doccia; Detergenti per il viso [per uso cosmetico].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Tualetinis pienelis; Kosmetika; Kosmetinės kaukės; Plaukų skalavimo preparatai [šampūnai - kondicionieriai]; Lūpų dažai; Šampūnai; Fitokosmetiniai preparatai; Vonių kosmetiniai preparatai; Kosmetikos rinkiniai; Dušo geliai; Veido prausikliai [kosmetiniai].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Attīrošie pieniņi personiskās tualetes nolūkiem; Kosmētikas līdzekļi; Kosmētiskās maskas; Matu skalošanas līdzekļi [šampūni - balzami]; Lūpu krāsas; Šampūni; Kosmētikas līdzekļi uz augu bāzes; Kosmētikas līdzekļi vannām; Kosmētikas līdzekļu komplekti; Dušas želejas; Sejas mazgāšanas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ħalib kosmetiku; Kożmetiċi; Maskri kosmetiċi; Prodotti għat-tlaħliħ tax-xagħar; Lipstik; Xampù; Preparazzjonijiet fitokożmetiċi; Banju (Preparazzjonijiet kosmetiċi għall- -); Tagħmir kosmetiku; Ġellijiet tad-doċċa; Aġenti tat-tindif għall-wiċċ [kosmetiċi].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Melk voor de toiletverzorging; Cosmetica; Schoonheidsmaskers; Haarspoelingen (shampoo-conditioners); Lippenstift; Shampoo; Fytocosmetische preparaten; Cosmetische preparaten voor het baden; Cosmetica-sets [gevuld]; Douchegels; Gezichtsreinigingsmiddelen [cosmetica].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Mleczko oczyszczające do celów kosmetycznych; Kosmetyki; Maski kosmetyczne; Płukanki do włosów [szampon z odżywką]; Pomadki do ust; Szampony; Preparaty fitokosmetyczne; Preparaty kosmetyczne do kąpieli; Zestawy kosmetyków; Żele pod prysznic; Płyny do mycia twarzy [kosmetyki].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Leites de toilette; Cosméticos; Máscaras de beleza; Produtos para enxaguar os cabelos [champô-amaciador]; Batons para os lábios; Champôs; Preparações fitocosméticas; Preparações cosméticas para o banho; Estojos de cosmética; Geles para o duche; Produtos para lavar o rosto [cosméticos].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Lapte de curățare de uz cosmetic; Cosmetice; Măști de frumusețe; Balsamuri de păr [balsamuri-șampon]; Ruj de buze; Șampoane; Preparate fitocosmetice; Baie (Preparate cosmetice pentru -); Trusă pentru cosmetice; Geluri pentru duș; Produse cosmetice pentru spălarea feței.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Čistiace toaletné mlieka; Kozmetické prípravky; Skrášľovacie masky (kozmetické prípravky); Oplachy pre vlasy [šampóny-kondicionéry]; Rúže; Šampóny; Fytokozmetické prípravky; Kozmetické prípravky do kúpeľa; Kozmetické taštičky; Gély na sprchovanie; Prípravky na čistenie tváre [kozmetika].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Čistilno mleko za toaletne namene; Kozmetični izdelki; Kozmetične maske; Sredstva za izpiranje las; Šminke za ustnice; Šamponi; Fitokozmetični pripravki; Kozmetični pripravki za kopanje; Kozmetični neseserji; Geli za tuširanje; Sredstva za umivanje obraza [kozmetična sredstva].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Rengöringsmjölk för toalettändamål; Kosmetika; Kosmetiska masker; Toningsvätskor för hår; Läppstift; Schampon; Fytokosmetiska preparat; Kosmetiska preparat för bad; Kosmetikasatser; Duschgeléer; Ansiktsrengöringsmedel.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/081</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-30</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/150</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>974382</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>32039</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

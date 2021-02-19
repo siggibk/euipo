@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-03T12:28:04</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224187</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224187</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-30</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-03</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>CIFO</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162204966</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224187/000162204966.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Преподавателски услуги; Услуги на треньори [обучение]; Организиране на балове; Телевизионни развлечения; Развлечение; Услуги на артисти; Представяне на вариететни представления; Спортни клубове; Позиране на модели за художници; Представления на живо.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Školení; Koučink [školení]; Pořádání plesů; Televizní zábava; Zábava, pobavení; Služby baviče; Předvádění varietních představení; Služby klubů zdraví [zdravotní a kondiční cvičení]; Modeling pro umělce; Předvádění živých vystoupení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Undervisning; Coaching [uddannelse]; Arrangement af baller; Fjernsynsunderholdning; Underholdningsvirksomhed; Entertainervirksomhed; Præsentation af varietéforestillinger; Tjenester ydet af helseklubber [helbreds- og fitnesstræning]; Modelarbejde for kunstnere; Levende optræden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Erziehung und Unterricht; Coaching [Ausbildung]; Veranstaltung von Bällen; Fernsehunterhaltung; Unterhaltung; Dienste von Unterhaltungskünstlern; Darbietungen von Varietétheatern; Betrieb von Fitnessclubs [Training]; Modellstehen für Künstler; Durchführung von Live-Veranstaltungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παροχή κατάρτισης· Προπόνηση [εκγύμναση]· Οργάνωση χορών· Ψυχαγωγία τηλεοπτική· Ψυχαγωγία· Ψυχαγωγίας (Υπηρεσίες -)· Παρουσίαση θεαμάτων ποικίλου περιεχομένου· Υπηρεσίες λεσχών υγείας [εκγύμναση για υγεία και διατήρηση της καλής φυσικής κατάστασης]· Πρακτορεία μοντέλων για καλλιτέχνες· Παράσταση θεαμάτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Teaching; coaching [training]; organization of balls; television entertainment; entertainment services; entertainer services; presentation of variety shows; health club services [health and fitness training]; modelling for artists; presentation of live performances.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Educación; Coaching [formación]; Organización de bailes; Entretenimiento televisivo; Servicios de entretenimiento; Servicios de artistas del espectáculo; Presentación de espectáculos de variedades; Clubes deportivos [entrenamiento y mantenimiento físico]; Agencias de modelos para artistas; Representación de actuaciones en directo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Õpetamine; Treenimine; Ballide, tantsupidude korraldamine; Televisioonimeelelahutussaated, telemeelelahutus; Meelelahutus, ajaviide, lõbustus; Meelelahutajateenused; Varietee-etenduste esitamine; Terviseklubiteenused (tervise- ja fitnessitreeningud); Kunstnikele modelliteenuste pakkumine; Esinemised elavettekandena.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Henkilökohtainen opetus; Valmennus [koulutus]; Tanssiaisten järjestäminen; Televisioviihde; Huvipalvelut; Esiintymispalvelut; Varietee-esitykset; Kuntokeskuspalvelut [terveys ja kuntoilu]; Mallina olo taiteilijoille; Suorat esitykset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Éducation; Coaching [formation]; Organisation de bals; Divertissement télévisé; Divertissement; Services d'artistes de spectacles; Présentation de spectacles de variétés; Clubs de sport [mise en forme et fitness]; Services de modèles pour artistes; Représentation de spectacles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pružanje individualne obuke; Treniranje [tjelovježba]; Organiziranje balova; Razonoda posredstvom televizije; Zabava; Obuka; Prezentacija predstava varijetea; Usluge kluba zdravlja i rekreacije; Poziranje za umjetnike; Izvedbe (Prikazivanje uživo -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Oktatás biztosítása; Coaching [tréning]; Bálok szervezése; Televíziós szórakoztatás; Szórakoztatás; Előadóművészek szolgáltatásai; Varieté-előadások bemutatása; Egészségklub szolgáltatások [egészség és fitnesz]; Modellt ülés művészek számára; Élő előadások bemutatása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Offerta di servizi di formazione; Allenamento [formazione]; Organizzazione di balli; Divertimento televisivo; Divertimento; Servizi di artisti di spettacoli; Presentazione di spettacoli di varietà; Servizi di club del benessere [salute e fitness]; Servizi di agenzie di modelli per artisti; Rappresentazione di spettacoli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mokymas; Ugdomasis vadovavimas [mokymas]; Šokių vakarų rengimas; Televizijos pramoginės laidos; Pramogų paslaugos; Estrados artistų paslaugos; Varjetė spektaklių pasirodymai; Sveikatos klubų paslaugos [sveikatinimas ir kūno rengybos treniruotės]; Pozavimas menininkams; Tiesioginių laidų rengimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apmācības nodrošināšana; Apmācība (koučings); Baļļu organizēšana; Televīzijas izklaides raidījumu veidošana; Izpriecas; Viesu izklaides pakalpojumi; Dažādu šovu prezentēšana; Sporta un fitnesa treniņu klubu pakalpojumi; Modelēšana mākslinieku vajadzībām; Teatralizētu izrāžu pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħlim; Ikkowċjar [taħriġ]; Organizzazzjoni ta' ballijiet; Divertiment fuq it-televiżjoni; Divertiment; Servizzi ta' professjonist fil-qasam tad-divertiment; Preżentazzjoni ta' wirjiet tal-varjetà; Servizzi fil-klabbijiet tas-saħħa [taħriġ tas-saħħa u l-fitness]; Mmudellar għal artisti; Prestazzjonijiet diretti (Preżentazzjoni ta' -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Educatie; Coaching [instructie]; Organisatie van bals; Ontspanning via de televisie; Amusement; Diensten van film- en toneelartiesten; Presentatie van variétévoorstellingen; Gezondheidsclubs [conditietraining en fitness]; Modeldiensten voor artiesten; Toneelvoorstellingen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi w zakresie oświaty [nauczanie]; Usługi trenerskie; Organizowanie balów; Telewizyjne usługi rozrywkowe; Rozrywka; Usługi artystów estradowych; Wystawianie spektakli rewiowych; Usługi klubów zdrowia [zdrowie i ćwiczenia fizyczne]; Pozowanie dla artystów; Wystawianie spektakli na żywo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de ensino [educação]; Ensino [formação]; Organização de bailes; Divertimento televisivo; Divertimento; Serviços de artistas de espetáculo; Apresentação de espectáculos de variedade; Serviços de health club; Modelos para artistas plásticos; Exibição de espetáculos ao vivo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Educaţie; Antrenament [instruire]; Organizarea de baluri; Divertisment televizat; Divertisment; Servicii de animatori; Prezentare de spectacole de varietăţi; Servicii ale cluburilor de sănătate [sănătate şi fitness]; Servicii ale agenţiilor de modele pentru artişti; Prezentări de spectacole în direct.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vyučovanie; Koučovanie (školenie); Organizovanie plesov; Televízna zábava; Zábava; Služby estrádnych umelcov; Varietné predstavenia; Fitnes kluby (zdravotné a kondičné cvičenia); Pózovanie modelov výtvarným umelcom; Organizovanie živých vystúpení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Poučevanje; Treniranje [usposabljanje]; Organiziranje plesov; Televizijski zabavni program; Razvedrilo; Storitve zabavnikov; Predstavitev varietejskih predstav; Klubi zdravja [zdravstvena in telesna vadba]; Poziranje za umetnike; Nastopanje v živo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Anordnande av undervisning; Coachning [träning]; Anordnande av baler; Televisionsunderhållning; Underhållning; Artisttjänster; Presentation av varitéföreställningar; Hälsoklubbar (hälso- och konditionsträning); Konstnärsmodeller; Framförande av liveföreställningar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>43</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Столове; Барчета; Бюра за настаняване [хотели, пансиони]; Услуги на барове за кафе и чай; Услуги на хотели и мотели; Резервации за хотели; Обслужване на бар; Мотели; Отдаване под наем на зали за срещи; Туристически домове, хижи.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Jídelny; Kavárny; Služby ubytovací kanceláře [hotely, penziony]; Služby kávových a čajových barů; Hotelové služby; Rezervace ubytování v hotelech; Bary (Služby -); Motely; Pronájem jednacích místností; Turistické ubytovny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kantiner; Cafévirksomhed; Bureauer til anvisning af midlertidigt logi; Kaffebarer og tesaloner; Tjenester ydet af hoteller; Hotelreservation; Tjenester ydet af barer; Tjenester ydet af moteller; Udlejning af mødelokaler; Tjenester ydet af feriehjem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Verpflegung von Gästen in Kantinen; Verpflegung von Gästen in Cafeterias; Zimmervermittlung [Hotels, Pensionen]; Betrieb von Cafés und Teestuben; Dienstleistungen von Hotels; Zimmerreservierung in Hotels; Betrieb einer Bar; Dienstleistungen von Motels; Vermietung von Versammlungsräumen; Dienstleistungen von Ferienheimen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κυλικεία· Καφετέριες· Πρακτορεία παροχής στέγης [ξενοδοχεία, πανσιόν]· Υπηρεσίες μπαρ που σερβίρουν καφέ και τσάι· Ξενοδοχειακές υπηρεσίες· Υπηρεσίες ξενοδοχειακών κρατήσεων· Μπαρ (Υπηρεσίες -)· Μοτέλ (Υπηρεσίες -)· Μίσθωση αιθουσών συνεδριάσεων· Τουριστικές κατοικίες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Canteen services; café services; accommodation bureau services [hotels, boarding houses]; coffee and tea bar services; hotel services; hotel reservations; bar services; motel services; rental of meeting rooms; tourist home services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de comedores; Servicios de cafés; Alojamiento (agencias de -) [hoteles, pensiones]; Servicios de bar donde se sirve té y café; Servicios de hotelería; Reserva de hoteles; Servicios de bar; Servicios de motel; Alquiler de salas de reunión; Vacaciones (Casas de -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kantiiniteenused; Kohvikuteenused; Majutusbürooteenused [hotellid, pansionaadid]; Kohvi- ja teebaari teenused; Hotelliteenused; Hotellikohtade reserveerimine, ettetellimine; Baariteenused; Motelliteenused; Koosolekuruumide tähtajaline üürimine, rentimine; Külalismajateenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kanttiinit; Kahviot; Majoitusliikkeet [hotellit, täysihoitolat]; Kahvi- ja teebaaripalvelut; Hotellit; Hotellivarauspalvelut; Baaripalvelut; Motellit; Kokoustilojen vuokraus; Matkustajakodit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de cantines; Services de cafés; Services d'agences de logement [hôtels, pensions]; Services d'un café-bar et d'un salon de thé; Services hôteliers; Réservation d'hôtels; Services de bars; Services de motels; Location de salles de réunions; Maisons pour touristes [hébergement temporaire].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kantine; Kafići; Agencije za smještaj [hotelski, pansionski]; Barske usluge koje uključuju kavu i čaj; Hotelske usluge; Rezerviranje hotela; Usluge barova; Moteli; Iznajmljivanje prostorija za sastanke; Turistički apartmani.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kantinok, büfék, étkezdék; Kávéházak; Szállásügynökségek [szállodák, panziók]; Kávézói és teázói szolgáltatások; Szállodai szolgáltatások; Foglalási szolgáltatások szállodákba; Bár szolgáltatások; Motelek; Terembérlés találkozókhoz [tárgyalótermek]; Turistaházak, üdülők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di mense; Servizi di bar-ristoranti; Servizi di agenzie per alloggi [hotels, pensioni]; Servizi di bar specializzati in tè e caffè; Servizi alberghieri; Prenotazione d'alberghi; Servizi di bar; Servizi di motel; Noleggio di sale per riunione; Servizi di case per vacanze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Valgyklų paslaugos; Kavinės; Apgyvendinimo biurų paslaugos [viešbučiai, pensionai]; Kavos ir arbatos barų paslaugos; Viešbučių paslaugos; Viešbučių rezervavimas; Barų paslaugos; Motelių paslaugos; Susitikimo patalpų nuoma; Turizmo bazių paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ēdnīcu pakalpojumi; Kafejnīcu pakalpojumi; Viesu izmitināšanas biroju pakalpojumi [viesnīcās, pansijās]; Kafijas un tējas bāru pakalpojumi; Viesnīcu pakalpojumi; Viesnīcu rezervēšanas pakalpojumi; Bāru pakalpojumi; Moteļu pakalpojumi; Sanāksmju telpu iznomāšana; Tūristu mītņu pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kantini; Kafetteriji; Servizzi ta' provvista ta' akkomodazzjoni (f'lukandi, alloġġi eċċ); Servizzi ta' bar tal-kafè u tat-te; Servizzi ta' lukanda; Riservazzjonijiet f'lukanda; Servizzi ta' barijiet; Motels; Il-kiri ta' kmamar għal-laqgħat; Djar għat-turisti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kantines; Diensten van café-restaurants; Bureaus voor het verstrekken van logies [hotels, pensions]; Diensten van koffiehuizen en theesalons; Hoteldiensten; Hotelreservering; Bardiensten; Moteldiensten; Verhuur van vergaderzalen; Vakantiehuizen [logies].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Stołówki; Kafeterie [bufety]; Biura zakwaterowania [hotele, pensjonaty]; Usługi barów serwujących kawę i herbatę; Usługi hotelowe; Rezerwacje miejsc w hotelach; Usługi barowe; Motele; Wynajmowanie sal na zebrania; Domy turystyczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cantinas/refeitórios; Cafés; Agências de alojamento temporário [hotéis, pensões]; Serviços de cafetaria e de salão de chá; Serviços de hotéis; Reserva de hotéis; Serviços de bar; Motels; Aluguer de salas de reunião; Serviços de casas de turismo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cantine; Bufete cu autoservire; Agenţii de cazare [hoteluri, pensiuni]; Servicii oferite de baruri în care se serveşte cafea şi ceai; Servicii hoteliere; Hoteluri (Rezervări de -); Servicii ale barurilor; Moteluri (Servicii oferite de -); Închiriere de săli de reuniune; Case de vacanţă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Závodné jedálne; Kaviarne; Ubytovacie kancelárie (hotely, penzióny); Služby kaviarní a čajovní; Hotelierske služby; Rezervácie ubytovania v hoteloch; Bary (služby); Motely (služby); Prenájom prednáškových sál; Turistické ubytovne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Menze; Kavarne; Nastanitvene agencije [za hotele, penzione]; Storitve lokalov v zvezi s kavo in čajem; Hotelirske storitve; Hotelske rezervacije; Storitve barov; Moteli; Najem sejnih sob; Turistični domovi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kantiner; Kafeterior; Hotellbokningsagenturer; Kaffe- och tebarverksamhet; Hotell; Hotellbokning; Cocktailbartjänster; Motell; Uthyrning av möteslokaler; Semesterbostäder.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/075</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/144</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-31</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079093</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>39103</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

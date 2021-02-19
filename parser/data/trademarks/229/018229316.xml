@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-18T13:29:19</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229316</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229316</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="21" status="1">Application under examination</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-11-18</MarkCurrentStatusDate>
+<KindMark>EU Certificate</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ESSDA European Solar Shading Database</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162460984</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229316/000162460984.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>18.01.21</CategoryCode>
+          <CategoryCode>25.07.20</CategoryCode>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.05</CategoryCode>
+          <CategoryCode>26.04.18</CategoryCode>
+          <CategoryCode>27.05.12</CategoryCode>
+          <CategoryCode>27.99.01</CategoryCode>
+          <CategoryCode>27.99.04</CategoryCode>
+          <CategoryCode>29.01.04</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>6</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Ролкови щори от стомана; Ролкови жалузи от метал; Метални ролетни щори за прозорци; Външни щори от метал; Отдушници от метал.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Ocelové rolety; Kovové rolety; Kovové svinovací rolety na okna; Kovové venkovní rolety; Kovové žaluzie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Jalousier af stål; Rulleskodder af metal; Vinduesrulleskodder af metal; Udvendige skodder af metal; Lameller af metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Rollläden aus Stahl; Metallrollladen; Fensterrollläden aus Metall; Außenrollläden aus Metall; Lamellengitter aus Metall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χαλυβδινα παραπετάσματα· Μεταλλικά ρολά· Μεταλλικά τυλισσόμενα παντζούρια· Στόρια εξωτερικά μεταλλικά· Μεταλλικά παραθυρόφυλλα με γρίλιες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Roller blinds of steel; Metal roll shutters; Metal rolling window shutters; Outdoor blinds of metal; Louvres made of metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Persianas enrollables de acero; Persianas enrollables metálicas; Contraventanas metálicas enrollables; Persianas de exterior metálicas; Lamas metálicas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Terasest rulood, rullkardinad; Metallist rull-aknakatted [luugid]; Metallist aknarulood; Metallist välisrulood, -katted; Metallist žalusiid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kierrekaihtimet, teräksestä; Metalliset rullakaihtimet; Metalliset kierrekaihtimet ikkunoille; Ulkokaihtimet, metalliset; Metalliset säleluukut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Stores en acier; Volets roulants en métal; Volets métalliques roulants pour fenêtres; Stores d'extérieur métalliques; Volets en métal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Čelične rolete (zastori); Metalne rolete; Metalne rolete za prozore; Vanjske metalne zavjese; Rebrenice [žaluzine] od metala.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Acélredőnyök; Felcsavarható fémredőnyök; Fém redőnyök ablakokhoz; Kültéri zsaluk, rolók fémből; Fém zsaluk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Stuoie in acciaio; Serrande avvolgibili in metallo; Serrande avvolgibili in metallo per finestre; Tende per l'esterno in metallo; Feritoie in metallo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Plieninės nuleidžiamosios aklinos užuolaidos; Vyniojamosios metalinės žaliuzės; Metalinės ritininės langinės; Metalinės lauko langinės; Metalinės horizontalios lauko žaliuzės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Tērauda rullo žalūzijas; Metāla rullo žalūzijas; Logu ruļļveida žalūzijas no metāla; Āra žalūzijas no metāla; Horizontālās žalūzijas no metāla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Blajnds tal-azzar jirrumblaw; Xaters tal-metall li jduru fuqhom infushom; Xaters tal-metall tar-romblu, għat-twieqi; Persjani tal-metall għal fuq barra; Persjani magħmula mill-metall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Rolluiken van staal; rolluiken van metaal; rolluiken van metaal voor vensters; zonwering van metaal, voor gebruik buitenshuis; jaloeziën van metaal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Stal (Rolety ze -); Żaluzje zwijane metalowe; Metalowe, okienne żaluzje zwijane; Rolety zewnętrzne metalowe; Żaluzje metalowe w postaci ukośnych deszczułek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Estores de aço; Estores metálicos de enrolar; Estores de enrolar metálicos para janelas; Estores de exterior metálicos; Persianas de lamela com respiradouro [metálicas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Jaluzele rulante din oțel; Roluri exterioare din metal; Rulouri metalice pentru ferestre; Storuri metalice de exterior; Fante de ventilație confecționate din metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Oceľové rolety; Kovové rolety; Kovové roletové okenice; Kovové vonkajšie rolety; Kovové mriežky žalúziového typu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Rolete (jeklene); Kovinske rolete; Kovinske rolete za okna; Zunanje kovinske žaluzije; Žaluzije, narejene iz kovine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Rulljalusier av stål; Rulljalusier av metall; Rulljalusifönster av metall; Markiser av metall för utomhusbruk; Spjälgaller av metall.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>7</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Двигатели за слънцезащитни инсталации.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Motory pro zařízení na ochranu proti slunci.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Motorer til solafskærmningsanlæg.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Motoren für Jalousien.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μοτέρ για εγκαταστάσεις αντηλιακών προστατευτικών συσκευών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Motors for blind installations.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Motores para instalaciones de persianas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kardinaseadmestike mootorid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Aurinkokaihdinlaitteistojen moottorit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Moteurs pour installations de protection solaire.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Motori za instalacije za zaštitu od sunca.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Motorok árnyékoló berendezések számára.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Motori per impianti di tende da sole.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Žaliuzių įrenginių varikliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Saules aizsardzības iekārtu motori.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Magni għal sistemi ta' tined.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Motoren voor zonweringsinstallaties.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Silniki do instalacji osłon przeciwsłonecznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Motores para sistemas de estores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Motoare pentru instalaţii parasolare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Motory pre zariadenia na ochranu pred slnkom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Motorji za napeljave za zaščito pred soncem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Motorer till solskyddsinstallationer.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>19</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Ролетни щори от дърво за външно ползване; Щори (кепенци, неметални); Ролкови щори за външно използване [не от метал или текстил]; Неметални външни щори; Маркизи [строителни конструкции], неметални и не от текстил; Външни щори от PVC.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Dřevěné stahovací rolety pro venkovní použití; Nekovové stahovací žaluzie; Externí rolety (nikoliv z kovu nebo textilie); Nekovové vnější žaluzie; Markýzy (stavební konstrukce), jiné než z kovu a textilních materiálů; Venkovní žaluzie z PVC.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Rullegardiner af træ, til udendørs brug; Rullejalousier (Ikke-metalliske -); Rullegardiner til udvendig brug [ikke af metal eller tekstil]; Udvendige solafskærmninger, ikke metal; Baldakiner [bygningskonstruktioner], ikke af metal og ikke af tekstil; Udvendige persienner af PVC.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Außenrollläden aus Holz; Rollläden, nicht aus Metall; Außenrollläden [nicht aus Metall oder Textil]; Außenjalousien [nicht aus Metall]; Schirmdächer [Baukonstruktionsteile], nicht aus Metall und nicht aus textilem Material; Außenjalousien aus PVC.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ρολά [τυλισσόμενα παραπετάσματα] από ξύλο για εξωτερική χρήση· Τυλισσόμενα παραθυρόφυλλα (μη μεταλλικά)· Παραθυρόφυλλα σε ρολό για εξωτερική χρήση [μη μεταλλικές ή υφασμάτινα]· Μη μεταλλικά εξωτερικά στόρια· Υπόστεγα [κατασκευαστικές δομές] μη μεταλλικά και όχι από ύφασμα· Εξωτερικά στόρια από PVC.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Roller blinds of wood for external use; Roller shutters (Non-metallic -); Roller blinds for external use [not of metal or textile]; Non-metal exterior blinds; Marquees [building structures], not of metal and not of textile; Outdoor blinds of PVC.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Persianas enrollables de madera para uso en exteriores; Persianas enrollables (no metálicas); Persianas enrollables de exterior [ni de metal ni textiles]; Persianas para exteriores no metálicas; Marquesinas [estructuras para la construcción], no metálicas ni de tela; persianas de exterior de PVC.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Puidust välisrulood; Rull-akna/uksekatted [luugid], v.a metallist; Välisrulood [v.a metallist või tekstiilist]; Välisrulood, v.a metallist; Markiisid [ehituskonstruktsioonid], v.a metallist või tekstiilist; PVC-st välised aknakatted.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Puiset rullakaihtimet ulkokäyttöön; Rullakaihtimet (ei-metalliset); Kierrekaihtimet ulkokäyttöön [ei-metalliset tai kankaiset]; Muut kuin metalliset ulkoiset kaihtimet; Ovikatokset [rakenteet], ei metallista eikä kankaasta; PCV:stä tehdyt ulkokaihtimet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Stores à enrouleur en bois pour l'extérieur; Volets roulants non métalliques; Stores à enroulement d'extérieur autres qu'en métal ou en matières textiles; Stores d'extérieur non métalliques; Chapiteaux [structures de construction], non métalliques et non en matières textiles; Stores d'extérieur en PVC.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Drvene rolete za vanjsku uporabu; Rolete (Nemetalne -); Rolete za vanjsku uporabu [nisu od metala ili tekstila]; Nemetalne vanjske zavjese; Markize [građevinske konstrukcije], nemetalne i netekstilne; Vanjske zavjese od PVC-a.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kültéri fa rolók, zsaluk; Nem fém redőnyök; Kültéri rolók [nem fém és nem textil]; Nem fémből készült külső árnyékolók; Sátrak [épületszerkezetek], nem fémből és nem szövetből; Kültéri PVC zsalugáterek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tendine avvolgibili in legno per uso esterno; Serrande avvolgibili (Non metalliche -); Tende avvolgibili per uso esterno [non in metallo o tela]; Avvolgibili esterni non metallici; Tendoni [strutture edili], non in metallo e non in tessuto; Tende da esterni in PVC.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Medinės ritininės lauko žaliuzės; Ne metalinės ritininės užuolaidos; Ritininės lauko užuolaidos [ne metalinės ar tekstilinės]; Ne metalinės išorinės žaliuzės; Ne metalinės ir ne tekstilinės markizės (statybiniai elementai); Polivinilchloridinės išorinės žaliuzės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ruļļveida koka žalūzijas izmantošanai ārpus telpām; Ruļļveida slēģi (nemetāla); Ruļļveida žalūzijas izmantošanai ārpus telpām (ne no metāla vai auduma); Āra žalūzijas, kas nav no metāla; Markīzes [celtniecības struktūras], kas nav no metāla un nav no tekstila materiāliem; PVC āra žalūzijas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Persjani jirrumblaw magħmula mill-injam għall-użu fuq barra; Xaters li jirrumblaw (Mhux metalliċi -); Persjani jirrumblaw għal użu estern [mhux tal-metall jew tat-tessuti]; Blajnds ta' barra mhux tal-metall; Padiljuni [strutturi tal-bini], mhux tal-metall u mhux tad-drapp; Persjani tal-PVC għal fuq barra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Rolluiken van hout voor buitengebruik; rolluiken (niet-metalen -); rolluiken voor buiten [niet van metaal of textiel]; zonwering, niet van metaal, voor buitenshuis; luifels [bouwconstructies], niet van metaal en niet van textiel; zonneschermen voor buitenshuis van pvc.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Drewniane rolety zwijane do użytku zewnętrznego; Żaluzje zwijane (Niemetalowe -); Rolety do użytku zewnętrznego [niemetalowe i nietekstylne]; Niemetalowe żaluzje zewnętrzne; Namioty ogrodowe [szkielety ramowe], niemetalowe i nie z materiału tekstylnego; Żaluzje zewnętrzne z PCW.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Persianas de enrolar em madeira para exteriores; Persianas de enrolar não metálicas; Persianas de enrolar para uso externo [não metálicos ou têxteis]; Estores exteriores não metálicos; Marquises [estruturas de construção], não metálicas e não em matérias têxteis; Estores de exterior de PVC.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Jaluzele rulante din lemn pentru uz exterior; Obloane rulante nemetalice; Jaluzele rulante pentru utilizare exterioară [nu din metal sau textile]; Storuri exterioare nemetalice; Pavilioane-cort [structuri], nu din metal și nu din materiale textile; Jaluzele de exterior din PVC.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Drevené vonkajšie rolovacie žalúzie; Sťahovacie žalúzie (Nekovové-); Vonkajšie rolovacie žalúzie [nekovové a netextilné]; Nekovové vonkajšie žalúzie; Markízy [stavebné konštrukcie], nekovové a nie z textilného materiálu; Vonkajšie plastové žalúzie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Lesene rolete za zunanjo uporabo; Rolete (nekovinske); Rolete za zunanjo uporabo [ne iz kovine ali tekstila]; Nekovinska zunanja senčila; Markize [gradbene strukture], nekovinske in ne iz tekstila; Zunanje rolete iz PVC-ja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Rullgardiner av trä för externt bruk; Rulljalusier (inte av metall); Rullgardiner för utomhusbruk [inte av metall eller textil]; Utomhusjalusier, inte av metall; Skärmtak [byggnadskonstruktioner], inte av metall eller textil; Yttermarkiser av PVC.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Щори за прозорци (вътрешни) и Фиксиращи елементи за тенти на закрито; Тенти с ламели, не от метал; Вътрешни щори за прозорци от хартия; Рогозки от тъкано дърво; Ролки за прозорци и сенници; Хоризонтални жалузи; Вертикални ламели; Плисе-щори; Сгъваеми щори, и Ролетни щори; Щори за затъмняване.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vnitřní okenní rolety a Upevnění pro interiérové ochrany proti slunci; Nekovové lamelové sluneční clony; Vnitřní okenní rolety z papíru; Rohože tkané ze dřeva; Okenní rolety a žaluzie; Horizontální žaluzie; Vertikální lamely; Plisé; Skládací rolety, a Rolety; Zatemňovací rolety.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Vinduespersienner til indendørs brug og Fastgørelser til indendørs solafskærmninger; Solafskærmning med lameller, ikke af metal; Indendørs rullegardiner af papir; Måtter af vævet træ; Persienner og rullegardiner; Horisontaljalousier; Lodrette lameller; Plisséer; Foldegardiner, og Rullegardiner; Mørklægningspersienner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Rollos für die Innenanbringung und Befestigungsteile für Innenjalousien und -rollos; Nicht metallische Lamellenjalousien; Innenjalousien aus Papier für Fenster; Geflochtene Holzblenden; Fensterjalousien und -rollos; Horizontaljalousien; Vertikale Lamellenjalousien; Plissees; Faltvorhänge, und Rollos; Lichtdichte Rollos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εσωτερικά σκίαστρα παραθύρων και Στερεώσεις για αντηλιακές προστατευτικές συσκευές εσωτερικού χώρου· Αντηλιακές προστατευτικές συσκευές με μη μεταλλικά πηχάκια· Εσωτερικά σκίαστρα παραθύρων από χαρτί· Χαλάκια από πλεκτό ξύλο· Σκίαστρα και παραπετάσματα παραθύρων· Οριζόντια ρολά βενετικού τύπου· Κάθετα πηχάκια· Πλισέ· Πτυσσόμενα στόρια, και Ρολά· Στόρια για πλήρη αποκλεισμό του φωτός.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Indoor window shades and Fastenings for indoor blinds; Slatted blinds, not of metal; Paper blinds; Woven timber blinds; Window blinds and shades; Horizontal blinds; Vertical slatted blinds; Pleated blinds; Folding and roller blinds; Blackout blinds.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Estores de ventana interiores y Fijaciones para persianas en el interior; Persianas de lamas, que no sean de metal; Estores de interior de papel; Persianas de madera tejida; Persianas y estores de ventana; Persianas horizontales; Lamas verticales; Plisados; Persianas plegables, y Persianas de rodillo; Persianas de oscuridad total.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Akende siserulood ja Sisekardinate kinnitid; Lamellidega mittemetallist kardinad; Paberist aknarulood siseruumides kasutamiseks; Punutud puitsirmid; Aknarulood ja -katted; Horisontaalribakardinad; Püstlamellid; Plisseerkatted; Kokkuvolditavad rulood, ja Rulood; Pimendusrulood.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ikkunoiden sisäkaihtimet ja Aurinkokaihdinten kiinnitykset sisäkäyttöön; Ei-metalliset lamellikaihtimet; Kaihtimet sisäikkunaan paperista; Puusta peräisin olevasta kankaasta tehdyt matot; Ikkunankaihtimet ja sälekaihtimet; Vaakasälekaihtimet; Pystylamellit; Laskosverhot; Laskosverhot, ja Kierrekaihtimet; Pimennysverhot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Stores d'intérieur pour fenêtres et Fixations pour stores d'intérieur; Stores à lamelles, non métalliques; Stores d'intérieur en papier; Paillassons en bois tissé; Stores et persiennes; Jalousies horizontales; Lamelles verticales; Plissés; Rideaux pliants, et Stores à enroulement; Stores occultants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Zasjenjivači za unutarnje prostore i Pričvršćivanje sjenila u unutarnjim prostorima; Zaštita od sunca s lamelama, nemetalnim; Unutarnja papirnata sjenila; Pleteni drveni zastori; Prozorske rolete i sjenila; Horizontalne žaluzine; Vertikalne lamele; Nabana sjenila za prozore; Sklopive zavjese, i Roletne zavjese; Zastori za zatamnjivanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Beltéri ablakárnyékolók és Rögzítések beltéri árnyékoló berendezések számára; Lamellákkal ellátott árnyékoló berendezések, nem fémből; Belső ablakárnyékolók papírból; Faszőttes lábtörlők; Ablakra szerelhető rolók és árnyékolók; Vízszintes redőnyök; Függőleges lamellák; Plisszé függönyök; Összecsukható rolók, és Rolók, zsalugáterek; Elsötétítő árnyékolók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tendine interne per finestre e Fissaggi per tende da sole per interni; Frangisole a lamelle, non in metallo; Avvolgibili in carta da interni per finestre; stuoie di legno tessuto; Veneziane e tendine per finestre; Veneziane orizzontali; Tende a lamelle verticali; Tende plissettate; Per esterni, e Tendine avvolgibili; Tendine per oscurare la luce.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vidinės langų naktinės užuolaidos ir Vidaus žaliuzių tvirtinimo detalės; Plokštelinės žaliuzės (nemetalinės); Vidinės popierinės užuolaidos; Dembliai iš medienos, audinių; Langų žaliuzės ir užuolaidos; Horizontalios žaliuzės; Vertikalios plokštelės; Klostelės; Sulankstomas užuolaidas, ir Roletai; Šviesos nepraleidžiančios langinės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Logu žalūzijas izmantošanai telpās un Iekštelpu saules aizsardzību iekārtu stiprinājumi; Žalūzijas, kas nav no metāla; Iekštelpu logu žalūzijas no papīra; Austi koka paklāji; Logu žalūzijas un aizsargi; Horizontālās žalūzijas; Vertikālas žalūzijas; Interjera žalūzijas; Salokāmās žalūzijas, un Žalūzijas; Aptumšojuma žalūzijas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Blajnds tat-twieqi ta' ġewwa u Partijiet fissi għal tined ta' ġewwa; Tined bil-blajnds mhux magħmula mill-metall; Blajnds tat-twieqi għal ġewwa magħmula mill-karti; Twapet ta' injam minsuġ; Persjani u lqugħ għat-twieqi; Persjani orizzontali; Blajnds vertikali; Paraventi; Purtieri li jintwew, u Blinds; Blajnds għad-dlam.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Zonwering voor binnenshuis en houders voor zonwering voor binnenshuis; binnenzonwering met lamellen, niet van metaal, Zonweringen van papier voor binnenshuis; jaloezieën van timmerhout; horizontale zonwering; verticale zonneschermen met lamellen; plissés; vouwgordijnen en rolgordijnen; verduisterende gordijnen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Wewnętrzne żaluzje okienne i Mocowania do osłon przeciwsłonecznych w pomieszczeniach; Osłony przeciwsłoneczne z lamelami, niemetalowe; Wewnętrzne papierowe żaluzje okienne; Maty z tkaniny drewnianej; Rolety i daszki; Żaluzje poziome; Lamele pionowe; Plisy; Rolety składane, i Rolety; Rolety zaciemniające.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Estores de interior para janelas e Fixações para estores de interior; Estores de lamelas não metálicos; Estores de interior de papel para janelas; Estores em madeira tecida; Persianas e estores para janelas; Persianas horizontais; Lamelas verticais; Estores plissados; Estores de pregas, e Persianas de enrolar; Estores totalmente opacos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Jaluzele de interior şi Dispozitive de fixare pentru produse parasolare de interior; Parasolare cu jaluzele verticale, nemetalice; Storuri de interior din hârtie; Rogojini din lemn ţesut; Jaluzele; Jaluzele orizontale; Jaluzele verticale; Pliseuri; Jaluzele pliabile, şi Jaluzele; Jaluzele pentru întunecare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Interiérové okenné žalúzie a Interiérové upevnenie slnečných clôn; Slnečné clony s lamelami, nekovové; Vnútorné okenné rolety z papiera; Rohože z tkaného dreva; Okenné žalúzie a tienidlá; Vodorovné žalúzie; Vertikálne lamely; Plisé; Skladacie rolety, a Žalúzie a rolety; Zatemňovacie žalúzie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Notranja okenska senčila in Pritrditve za žaluzije v notranjosti prostorov; Zaščita pred soncem z nekovinskimi lamelami; Notranje okenske žaluzije iz papirja; Lesene rogoznice; Žaluzije za okna in senčila; Horizontalne žaluzije; Vertikalne lamele; Pliseji; Zložljiva senčila, in Rolete; Zatemnitvena senčila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Rullgardiner för innerfönster och Fästen för solskydd inomhus; Solskydd med lameller, ej av metall; Persienner av papper för inomhusbruk; Spjäljalusi av hopsatt trä; Fönstermarkiser och -gardiner; Horisontella jalusier; Vertikala lameller; Plissé; Vikbara gardiner, och Rullgardiner; Rullgardiner för mörkläggning.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>24</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Пердета, завеси; Вътрешни и външни завеси; Завеси от пластмаса или текстилни материали; Плътни завеси.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Síťové záclony; Interiérové a venkovní závěsy; Záclony a závěsy z plastických hmot nebo textilních materiálů; Plošné závěsy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Gardiner; Gardiner til indendørs og udendørs brug; Gardiner af plastic eller tekstilmaterialer; Fladeforhæng.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Gardinen und Vorhänge; Vorhänge aus textilem Material für den Innen- und Außenbereich; Vorhänge aus Kunststoff oder Textilmaterialien; Flächenvorhänge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κουρτίνες· Κουρτίνες για εσωτερικούς και εξωτερικούς χώρους· Κουρτίνες από πλαστικό ή υλικά υφαντουργίας· Επίπεδα παραπετάσματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Curtains; Indoor and outdoor curtains; Curtains of plastic or textile; Panel curtains.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cortinas; Cortinas interiores y exteriores; Cortinas de materias plásticas o materiales textiles; Cortinas planas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kardinad; Sise- ja väliskardinad; Plastist või tekstiilist kardinad; Paneelkardinad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Verhot; Verhot sisä- ja ulkotiloihin; Muoviset ja kankaiset verhot; Suorat verhot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Rideaux; Rideaux d'intérieur et d'extérieur; Rideaux en matières synthétiques ou en matériaux textiles; Rideaux planes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Zastori; Unutarnji i vanjski zastori; Plastične ili tekstilne zavjese; Ravne zavjese.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Függönyök; Bel- és kültéri függönyök; Sötétítők műanyagból vagy szövetanyagokból; Lapos függönyök.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tende; Tende per interni ed esterni; Tende in materie plastiche o in materie tessili; Tende per interni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Tiulinės užuolaidos; Vidinės ir lauko užuolaidos; Plastmasinės arba tekstilinės užuolaidos; Juostinės užuolaidos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Aizkari; Iekštelpu un āra aizkari; Plastmasas vai tekstila aizkari; Virsmu priekškari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Purtieri; Purtieri ta' ġewwa u ta' barra; Purtieri magħmula mill-plastik jew drapp; Purtieri bil-panewijiet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Gordijnen; gordijnen voor binnenshuis en buitenshuis; gordijnen van plastiek of textiel; vlakgordijnen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Zasłony; Zasłony wewnętrzne i zewnętrzne; Zasłony z tworzyw sztucznych lub materiałów włókienniczych; Zasłony płaskie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cortinas em rede; Cortinados para interiores e exteriores; Cortinados em matérias plásticas ou em matérias têxteis; Cortinas para grandes áreas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Draperii; Perdele și draperii de interior și exterior; Draperii din plastic sau din materiale textile; Perdele integrale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Záclonovina; Interiérové a exteriérové závesy; Textilné alebo plastové závesy; Plošné závesy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zavese; Notranje in zunanje zavese; Zavese iz tekstila ali umetnih snovi; Površinske zavese.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Gardiner; Gardiner för inom- och utomhusbruk; Plast- eller textilgardiner; Yttäckande förhängen.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>788383</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10580</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

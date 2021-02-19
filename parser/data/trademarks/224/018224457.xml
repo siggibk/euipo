@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-30T13:20:07</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224457</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224457</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Aminomed</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Диетични препарати, храна и хранителни добавки, Хранителни препарати, Витаминни препарати, Всички горепосочени стоки за медицински цели и по-специално за кърмачета и/или деца; Храна за бебета.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Dietetické přípravky, potraviny a potravní doplňky, Výživové přípravky, Vitamínové přípravky, Všechny výše uvedené výrobky pro léčebné účely a zejména pro kojence a/nebo děti; Kojenecká strava.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Diætetiske præparater, næringsmidler og kosttilskud, Næringspræparater, Vitaminpræparater, Alle førnævnte varer til medicinske formål og især til spædbørn og/eller børn; Næringsmidler til spædbørn.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Diätetische Lebensmittel und Präparate, Nahrungsergänzungsmittel, Nährstoffpräparate, Vitaminpräparate, alle vorgenannten Waren für medizinische Zwecke und insbesondere für Säuglinge und/oder Kinder; Babynahrung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διαιτητικά παρασκευάσματα, τρόφιμα και συμπληρώματα διατροφής, Παρασκευάσματα διατροφής, Παρασκευάσματα βιταμινών, Όλα τα προαναφερόμενα είδη για ιατρική χρήση και ειδικότερα για βρέφη και/ή παιδιά· Παιδικές τροφές.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Dietetic preparations, foodstuffs and dietary supplements, Nutritional preparations, Vitamin preparations, All the aforesaid goods for medical purposes and in particular for infants and/or children; Food for babies.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Preparaciones, alimentos y complementos alimenticios dietéticos, Preparaciones nutritivas, Preparados vitamínicos, Todos estos productos para uso médico y en particular para lactantes o niños; Alimentos para bebés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Dieetpreparaadid, toiduained ja toidulisandid, Toitepreparaadid, Vitamiinipreparaadid, Kõik eespool nimetatud kaubad kasutamiseks meditsiinis ja eelkõige imikutele ja/või lastele; Imikutoit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Dieettiravintoaineet, elintarvikkeet ja ravintolisät, Ravitsemusvalmisteet, Vitamiinivalmisteet, Kaikki edellä mainitut tuotteet lääkinnälliseen käyttöön ja erityisesti vauvoille ja/tai lapsille; Lastenruoat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Préparations diététiques, aliments et compléments alimentaires, Préparations nutritives, Préparations de vitamines, Tous les produits précités à usage médical et en particulier pour nourrissons et/ou enfants; Aliments pour bébés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dijetalni preparati, namirnice i dodaci prehrani, Prehrambeni pripravci, Vitaminski pripravci, Svi prethodno navedeni proizvodi za medicinske potrebe i posebno za dojenčad i/ili djecu; Hrana za dojenčad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Diétás készítmények, élelmiszerek és étrend-kiegészítők, Táplálkozási készítmények, Vitaminkészítmények, Valamennyi fent említett termék gyógyászati célokra és elsősorban csecsemők és/vagy gyermek számára; Bébiételek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Preparati dietetici, alimenti dietetici e integratori alimentari, Prodotti nutrizionali, Preparazioni di vitamine, Tutti i suddetti prodotti per uso medico e in particolare per lattanti e/o bambini; Alimenti per neonati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dietiniai preparatai, maisto produktai ir maisto papildai, Mitybos preparatai, Vitaminų preparatai, Visos pirmiau išvardytos prekės medicinos reikmėms ir ypač naujagimiams ir / arba vaikams; Kūdikių maistas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Diētiski preparāti, pārtika un uztura bagātinātāji, Barojoši preparāti, Vitamīnu preparāti, Visas iepriekš minētās preces medicīniskām vajadzībām un jo īpaši zīdaiņiem un/vai bērniem; Uzturs zīdaiņiem un maziem bērniem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preparazzjonijiet dijetetiċi, ikel u supplimenti tal-ikel, Preparazzjonijiet nutrizzjonali, Preparazzjonijiet tal-vitamini, Il-prodotti kollha msemmija hawn fuq għal skopijiet mediċi u speċjalment għat-trabi u/jew għat-tfal; Ikel għat-trabi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diëtische producten, voedingsmiddelen en voedingssupplementen, Voedingspreparaten, Vitaminepreparaten, Alle voornoemde producten voor medische doeleinden en met name voor zuigelingen en/of kinderen; Voedingsmiddelen voor baby's.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Dietetyczne substancje, artykuły spożywcze i suplementy diety, Preparaty odżywcze, Preparaty witaminowe, Wszystkie wyżej wymienione towary do celów medycznych i zwłaszcza dla niemowląt i/lub dzieci; Żywność dla niemowląt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Preparações dietéticas, alimentos e suplementos alimentares, Preparações nutricionais, Preparações de vitaminas, Todos os produtos atrás referidos para uso medicinal e em especial para bebés e/ou crianças; Alimentos para bebés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Preparate dietetice, alimente şi suplimente alimentare, Preparate nutritive, Vitamine (Preparate cu -), Toate produsele menționate anterior de uz medical și în special pentru sugari și/sau copii; Alimente pentru sugari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Dietetické prípravky, potraviny a výživové doplnky, Výživové prípravky, Vitamínové prípravky, Všetky uvedené výrobky na lekárske účely a predovšetkým pre dojčatá a/alebo deti; Potrava pre bábätká.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Dietetski pripravki, živila in prehranska dopolnila, Hranilni preparati, Vitaminski pripravki, Vse omenjeno blago za medicinske namene in zlasti za dojenčke in/ali otroke; Hrana za dojenčke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Dietiska preparat, livsmedel och kosttillskott, Näringspreparat, Vitaminpreparat, Ovannämnda varor för medicinska ändamål och speciellt för spädbarn och/eller barn; Spädbarnsmat.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/110</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>13999</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11854</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003130365</OppositionIdentifier>
+<OppositionDate>2020-09-07</OppositionDate>
+<ProceedingLanguageCode>de</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>003308418</ApplicationNumber>
+<ApplicationDate>2003-08-08</ApplicationDate>
+<RegistrationNumber>003308418</RegistrationNumber>
+<RegistrationDate>2004-12-22</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>aminomed</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>133976</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10763</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

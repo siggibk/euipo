@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:30</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224418</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224418</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-08-01</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>EPIMASK</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162204638</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224418/000162204638.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.03.01</CategoryCode>
+          <CategoryCode>26.03.05</CategoryCode>
+          <CategoryCode>26.03.24</CategoryCode>
+          <CategoryCode>27.05.07</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хирургически маски; Стойки за уста за медицинска употреба; Предпазители за очи за хирургична употреба.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Chirurgické masky; Chrániče úst k lékařským účelům; Oční krytky pro chirurgické použití.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Operationsmasker; Artikler til beskyttelse af munden til medicinske formål; Øjenskærme til kirurgiske formål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Chirurgischer Mundschutz; Mundschutz für medizinische Zwecke; Augenschirme für chirurgische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χειρουργικές μάσκες· Προστατευτικά στόματος για ιατρική χρήση· Οφθαλμικές καλύπτρες για χειρουργική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Surgical masks; Mouth guards for medical purposes; Eye shields for surgical use.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Mascarillas quirúrgicas; Protectores bucales para uso médico; Protectores de ojos para uso quirúrgico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kirurgimaskid; Meditsiinilised suukaitsmed; Kirurgilised silmakaitsed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kirurgin naamarit; Suusuojukset lääketieteelliseen käyttöön; Silmäsuojat kirurgiseen käyttöön.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Masques chirurgicaux; Protège-dents à usage médical; Cache-œil à usage chirurgical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kirurške maske; Štitnici za zube za medicinske namjene; Štitnici za oči za kiruršku uporabu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sebészeti maszkok; Szájvédők, fogvédők gyógyászati, orvosi célokra; Szemvédők sebészeti használatra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Mascherine chirurgiche; Mascherine per uso medico; Mascherine per occhi per uso chirurgico; Mascherine per il viso per uso chirurgico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Chirurginės kaukės; Burnos apsaugos medicinos reikmėms; Apsauginiai akių skydeliai chirurgijos reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ķirurģiskās maskas; Mutes aizsarglīdzekļi medicīniskiem nolūkiem; Acu aizsargi ķirurģiskiem nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Maskri kirurġiċi; Protezzjoni għall-ħalq għall-użu mediku; Ilqugħ protettiv tal-għajnejn għall-użu kirurġiku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Maskers voor chirurgisch gebruik; Mondbeschermers voor medisch gebruik; Oogschermen voor chirurgisch gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maski chirurgiczne; Ochraniacze na usta do celów medycznych; Osłony na oczy do użytku chirurgicznego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máscaras cirúrgicas; Proteções para a boca para uso médico; Viseiras para uso cirúrgico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Măști chirurgicale; Protecții pentru dinți, de uz medical; Articole pentru protecția ochilor, de uz chirurgical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Chirurgické masky; Chrániče úst na lekárske účely; Ochranné očné štíty na chirurgické použitie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kirurške maske; Ustni ščitniki za medicinske namene; Ščitniki za oči za kirurško uporabo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Operationsmasker; Munskydd för medicinska ändamål; Ögonskydd för kirurgiskt bruk.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/077</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>16957</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

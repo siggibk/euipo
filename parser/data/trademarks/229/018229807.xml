@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-22T07:40:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229807</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229807</ApplicationNumber>
+<ApplicationDate>2020-04-26</ApplicationDate>
+<RegistrationDate>2020-09-18</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-26</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-22</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>VIEWOW</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162491839</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229807/000162491839.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Крачкомери; Микрофони; Датчици за телекомуникационни апарати; Електронни звукови резонатори за китари и басове; Аудио смесителни конзоли; Везни за измерване на телесни мазнини за домакински цели; Калъфи за смартфони; Електронни апарати за наблюдение, не за медицинска употреба; Бебешки видеомонитори; Уебкамери; Радиоприемници с вградени часовници; Стойки за фотографска апаратура; Триподи за телескопи; Триподи за геодезични апарати; Стик за „селфи" [ръчни моноподи]; Видео записващи устройства за кола; Рамки за пенснета; Рамки за пенснета; Очила [оптични]; Очила [оптични]; Слънчеви очила; Портативни медиа плейъри.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Krokoměry; Mikrofony; Snímače pro telekomunikační přístroje; Elektronické snímače zvuku pro kytary a basy; Zvukové mixážní konzoly; Váhy na měření tělesného tuku pro domácí použití; Kryty na chytré telefony (smartphony); Elektronické monitorovací přístroje (k jinému než lékařskému použití); Video chůvičky; Webové kamery; Hodiny s rádiem; Stativy pro fotografické přístroje; Stativy na teleskopy; Stativy na geodetické přístroje; Selfie tyče [ruční monopody]; Videorekordéry do automobilů; Brýlové obroučky; Brýlové obroučky; Brýle; Brýle; Sluneční brýle; Přenosné multimediální přehrávače.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Skridttællere; Mikrofoner; Pickupper til telekommunikationsapparater; Elektroniske pickupper til guitarer og basser; Lydmikserpulte; Personvægte til måling af fedtprocent til husholdningsbrug; Covers til smartphones; Elektronisk overvågningsapparatur, andre end til medicinsk anvendelse; Babyalarmer med video; Webkameraer; Radioer med indbygget ur; Trebenede stativer til kameraer; Trefodsstativer til teleskoper; Trefodsstativer til geodætiske apparater; Selfiestænger [håndholdte etbenede stativer]; Videobåndoptagere til biler; Brillestel; Brillestel; Briller [optik]; Briller [optik]; Solbriller; Bærbare medieafspillere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Pedometer; Mikrofone; Tonabnehmer für Telekommunikationsgeräte; Elektronische Tonabnehmer für Gitarren und Bässe; Tonmischpulte; Körperfettwaagen für Haushaltszwecke; Hüllen für Smartphones; Elektronische Überwachungsapparate, ausgenommen für medizinische Zwecke; Video-Babyüberwachungsgeräte; Webcams; Uhrenradios; Stative für Kameras; Dreibeinstative für Teleskope; Dreibeinstative für Landvermessungsgeräte; Selfie-Sticks [Handstative]; Videorekorder für Autos; Brillenfassungen, -gestelle; Brillenfassungen, -gestelle; Brillen [Optik]; Brillen [Optik]; Sonnenbrillen; Tragbare Abspielgeräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Βηματόμετρα [ποδόμετρα]· Μικρόφωνα· Διατάξεις λήψης ήχου για τηλεπικοινωνιακές συσκευές· Ηλεκτρονικοί δέκτες ήχου για κιθάρες και μπάσα· Κονσόλες μίξης ήχου· Μετρητές σωματικού λίπους για οικιακή χρήση· Καλύμματα για έξυπνα τηλέφωνα· Ηλεκτρονικές συσκευές (ή όργανα) παρακολούθησης, όχι για ιατρική χρήση· Οθόνες παρακολούθησης βρεφών· Κάμερες web· Ραδιόφωνα με ενσωματωμένο ρολόι· Τρίποδα φωτογραφικών μηχανών· Τρίποδα για τηλεσκόπια· Τρίποδα για τοπογραφικές συσκευές· Μονόποδα αυτοφωτογράφησης (σέλφι) [υποστηρίγματα χειρός]· Συσκευές εγγραφής βίντεο για αυτοκίνητα· Σκελετοί γυαλιών· Σκελετοί γυαλιών· Διόπτρες· Διόπτρες· Γυαλιά ηλίου· Φορητές συσκευές αναπαραγωγής μέσων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">pedometers; Microphones; pickups for telecommunication apparatus; electronic sound pickups for guitars and basses; audio mixing consoles; Body fat scales for household use; covers for smartphones; Electronic monitoring instruments, other than for medical use; video baby monitors; webcams; radios incorporating clocks; camera tripods; tripods for telescopes; tripods for surveying apparatus; Monopods used to take photographs by positioning a smartphone or camera beyond the normal range of the arm; car video recorders; spectacle frames; eyeglass frames; eyeglasses; spectacles; Sunglasses; portable media players.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cuentapasos; Micrófonos; Fonocaptores para aparatos de telecomunicación; Fonocaptores electrónicos para guitarras y bajos; Mesas de mezclas para audio; Analizadores de grasa corporal para uso doméstico; Fundas para teléfonos inteligentes; Aparatos de supervisión electrónicos, excepto para uso médico; Monitores de vídeo para la vigilancia de bebés; Cámaras web; Radio-relojes; Trípodes para cámaras; Trípodes para telescopios; Trípodes para aparatos de agrimensura; Varillas para selfies [monopiés manuales]; Grabadoras de vídeo para coche; Monturas de gafas; Monturas de gafas; Gafas [óptica]; Gafas [óptica]; Gafas de sol; Reproductores multimedia portátiles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Sammumõõturid; Mikrofonid; Sideaparaatide andurid; Kitarride ja basskitarride elektroonilised helipead; Heli miksimispuldid; Keharasva analüsaatorid koduseks kasutuseks; Nutitelefonide katted; Elektroonilised seireseadmed, v.a meditsiiniliseks kasutamiseks; Videosaatjaga beebimonitorid; Veebikaamerad; Kellraadiod; Kaamerate kolmjalad, statiivid; Teleskoobistatiivid; Geodeesiaseadmete statiivid; Selfie-pulgad [käsistatiivid]; Autovideosalvestid; Prilliraamid; Prilliraamid; Prillid [optika]; Prillid [optika]; Päikeseprillid; Kaasaskantavad meediapleierid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Askelmittarit; Mikrofonit; Äänirasiat tietoliikennelaitteisiin; Kitaroiden ja bassojen elektroniset äänirasiat; Äänen miksauskonsolit; Laitteet rasvaprosentin analysointiin kotitalouskäyttöön; Älypuhelinten suojukset; Elektroniset seurantalaitteet, muuhun kuin lääketieteelliseen käyttöön; Videoivat vauvamonitorit; Web-kamerat; Kellon sisältävät radiot; Kolmijalat kameroille; Kaukoputkien kolmijalkaiset jalustat; Maanmittauslaitteiden kolmijalkaiset jalustat; Selfietikut [kädessäpidettävät yksijalkaiset tuet]; Autojen videonauhurit; Silmälasinkehykset; Silmälasinkehykset; Silmälasit [optiikka]; Silmälasit [optiikka]; Aurinkolasit; Kannettavat mediasoittimet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Podomètres [compte-pas]; Microphones; Capteurs pour appareils de télécommunication; Micro [pickup] pour guitares et basses; Tables de mixage audio; Balances à impédance-mètre à usage domestique; Coques pour smartphones; Instruments électroniques de surveillance autres qu'à usage médical; Dispositifs vidéo pour la surveillance de bébés; Caméras numériques reliées à un ordinateur [webcams]; Radios comportant une horloge; Trépieds pour appareils photo; Trépieds pour télescopes; Trépieds pour appareils d'arpentage; Perches pour autophotos [monopodes à main]; Magnétoscopes pour voitures; Montures de lunettes; Montures de lunettes; Lunettes [optique]; Lunettes [optique]; Lunettes de soleil; Baladeurs multimédias.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Podometri [instrumenti za brojenje koraka]; Mikrofoni; Prijemnici za telekomunikacijske uređaje; Elektromagneti za gitare i baseve; Audio konzole za miksanje; Vage za mjerenje tjelesne masnoće za kućnu upotrebu; Navlake za pametne telefone; Elektronički kontrolni instrumenti [osim za medicinsku namjenu]; Video monitori za bebe; Web kamere; Radio prijamnici s ugrađenim satom; Tronožni stalci za fotografske aparate; Tronošci za teleskop; Tronošci za nadzorne uređaje; Štapovi za samofotografiranje [ručni monopodi]; Video kamere za automobile; Okviri za naočale; Okviri za naočale; Naočale [optika]; Naočale [optika]; Sunčane naočale; Prijenosni multimedijski čitači.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Lépésmérők, lépésszámlálók; Mikrofonok; Pickupok távközlő berendezésekhez; Elektronikus pickupok gitárokhoz és basszusgitárokhoz; Hangkeverő, audio keverő konzolok; Testzsír elemző mérlegek háztartási használatra; Tokok okostelefonokhoz; Elektronikus monitorizáló berendezések, nem orvosi használatra; Kamerás bébiőrök; Webkamerák; Órás rádiók; Háromlábú állványok fényképezőgépekhez; Háromlábú állványok teleszkópokhoz; Háromlábú állványok földmérő készülékekhez; Szelfibotok [kézi egykaros állványok]; Autós videokamerák; Szemüvegkeretek; Szemüvegkeretek; Szemüvegek [optika]; Szemüvegek [optika]; Napszemüvegek; Hordozható médialejátszók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Contapassi [podometri]; Microfoni; Captatori per apparecchi di telecomunicazione; Pickup elettronici per chitarre e bassi; Consolle di missaggio audio; Bilance del grasso corporeo per uso medico; Coperchi per smartphone; Strumenti di monitoraggio elettronici, non per uso medico; Dispositivi video per la sorveglianza dei neonati; Webcam; Radio con orologio incorporato; Treppiedi per apparecchi fotografici; Treppiedi per telescopi; Treppiedi per apparecchi di agrimensura; Prolunghe per selfie [cavalletti portatili]; Videoregistratori per automobili; Montature di occhiali; Montature di occhiali; Occhiali [ottica]; Occhiali [ottica]; Occhiali da sole; Lettori multimediali portatili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Žingsnių skaitikliai [žingsniamačiai]; Mikrofonai; Telekomunikacijų aparatų ėmikliai; Elektroniniai gitarų ir bosų garso ėmikliai; Garso maišymo pultai; Kūno riebalų masės svarstyklės buities reikmėms; Išmaniųjų telefonų dangteliai; Elektroniniai stebėjimo prietaisai (ne medicinos reikmėms); Videoprietaisai kūdikiams stebėti; Internetinės vaizdo kameros; Radijo imtuvai su laikrodžiais; Filmavimo ir fotografavimo aparatų trikojai; Teleskopų trikojai; Geodezinių aparatų trikojai; Asmenukių lazdos [rankinės]; Automobiliniai vaizdo magnetofonai; Akinių rėmai; Akinių rėmai; Akiniai [optika]; Akiniai [optika]; Saulės akiniai; Nešiojamieji laikmenų leistuvai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Pedometri; Mikrofoni; Telekomunikāciju aparātu devēji; Elektroniskie skaņas noņēmēji ģitārām un basģitārām; Skaņas miksēšanas konsoles; Ķermeņa tauku merījuma svari izmantošanai mājsaimniecībā; Maciņi viedtālruņiem; Elektroniskas novērošanas ierīces, kas nav paredzētas lietošanai medicīnā; Bērnu vizuālai uzraudzīšanai paredzēti sakaru līdzekļi; Tīmekļa kameras; Radioaparāti ar iebūvētu pulksteni; Fotoaparātu statīvi; Trijkāji teleskopiem; Izpētes aparātu trijkāji; Selfiju statīvi [ar roku turami vienkāji]; Videoierakstītāji automašīnām; Briļļu rāmji; Briļļu rāmji; Brilles; Brilles; Saulesbrilles; Portatīvie atskaņotāji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Pedometri; Mikrofoni; Riċevituri għall-apparat tat-telekomunikazzjoni; Pikapps għall-awdjo elettroniku għall-kitarri u l-kitarri baxxi; Pânil għall-kontroll tal-miksers tal-awdjo; Analizzaturi tax-xaħam fil-ġisem għall-użu fid-dar; Kavers għal smartfowns; Strumenti elettroniċi għall-monitoraġġ, minbarra għall-użu mediku; Moniters tat-trabi bil-vidjow; Kameras tal-kompjuter li jintużaw onlajn [webcams]; Radjijiet b'arloġġi; Apparat għaż-żamma ta' apparat fotografiku; Trepiedi għat-teleskopji; Trepiedi għall-apparat tal-istħarriġ; Stikek għal stessu (teħid ta' ritratti tal-persuna proprja) [monopods tal-idejn]; Reġistraturi tal-vidjos tal-karozzi; Frejms għan-nuċċalijiet; Frejms għan-nuċċalijiet; Nuċċalijiet [ottiċi]; Nuċċalijiet [ottiċi]; Nuċċalijiet tax-xemx; Plejers li jinġarru tal-midja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Stappentellers; Microfoons; Opnemers voor telecommunicatieapparatuur; Elektronische geluidsopname-inrichtingen voor gitaren en basgitaren; Geluidsmenginstallaties; Lichaamsvetmeters voor huishoudelijk gebruik; Hoezen voor smartphones; Elektronische bewakingsapparatuur, anders dan voor medisch gebruik; Babyfoons met beeldscherm; Webcams; Wekkerradio's; Driepoten voor fototoestellen; Statieven voor telescopen; Statieven voor landmeetapparaten; Selfie sticks; Videorecorders voor auto's; Brilmonturen; Brilmonturen; Brillen; Brillen; Zonnebrillen; Draagbare mediaspelers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Krokomierze [pedometry]; Mikrofony; Odbiorniki do urządzeń telekomunikacyjnych; Elektroniczne przystawki do gitar i gitar basowych; Konsole do miksowania dźwięku; Wagi do pomiaru tkanki tłuszczowej do użytku domowego; Pokrowce na smartfony; Elektroniczna aparatura monitorująca, inna niż do celów medycznych; Urządzenia wideo do monitorowania niemowląt; Kamery internetowe; Radia wyposażone w zegar; Statywy do aparatów fotograficznych; Trójnogi do teleskopów; Trójnogi do urządzeń geodezyjnych; Kijki do robienia sobie zdjęć (selfie) (monopody ręczne); Magnetowidy samochodowe; Oprawki do okularów; Oprawki do okularów; Okulary [optyka]; Okulary [optyka]; Okulary przeciwsłoneczne; Przenośne odtwarzacze multimedialne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Conta-passos [pedómetros]; Microfones; Captadores para aparelhos de telecomunicação; Captadores de som eletrónicos para guitarras e baixos; Consolas de mistura de áudio; Balanças para determinação da gordura corporal para uso doméstico; Capas para smartphones; Instrumentos eletrónicos de monitorização sem ser para uso médico; Dispositivos para videovigilância de bebés; Câmaras Web; Rádios com relógios incorporados; Tripés para câmaras fotográficas; Tripés para telescópios; Tripés para aparelhos de agrimensura; Bastões de selfies [monopés manuais]; Gravadores de vídeo para automóveis; Armações de óculos; Armações de óculos; Óculos [ótica]; Óculos [ótica]; Óculos de sol; Leitores multimédia portáteis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Pedometre; Microfoane; Doze de redare pentru aparate de telecomunicaţii; Doze electronice de redare [pick-up] pentru chitare şi basuri; Console de mixaj audio; Cântare pentru determinarea procentului de grăsime corporală, de uz casnic; Huse pentru telefoane inteligente; Aparate de monitorizare electronice, altele decât cele pentru uz medical; Dispozitive video de monitorizare a bebeluşilor; Camere web; Aparate radio cu ceasuri încorporate; Trepiede pentru aparate fotografice; Trepiede pentru telescoape; Trepiede pentru aparate de topografie; Suporturi pentru selfie [monopoduri manuale]; Aparate de înregistrare video pentru maşină; Rame de ochelari fără braţe; Rame de ochelari fără braţe; Ochelari [optică]; Ochelari [optică]; Ochelari de soare; Player portabil multimedia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Krokomery; Mikrofóny; Snímače pre telekomunikačné prístroje; Elektronické zvukové snímače pre gitary a basové gitary; Konzoly na mixovanie zvuku; Váhy na meranie telesného tuku na použitie v domácnosti; Kryty na smartfóny; Elektronické monitorovacie zariadenia, iné než na lekárske použitie; Videoprístroje na monitorovanie bábätiek; Webové kamery; Rozhlasové prijímače so zabudovanými hodinami; Trojnožky na fotoaparáty; Statívy pre teleskopy; Statívy pre geodetické zariadenia; Tyče na fotografie "selfie"; Automobilové videorekordéry; Rámy na okuliare; Rámy na okuliare; Okuliare; Okuliare; Slnečné okuliare; Prenosné multimediálne prehrávače.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pedometri; Mikrofoni; Električne naprave, ki pretvarjajo tresljaje v zvok za telekomunikacijske naprave; Elektronski odjemniki zvoka za kitare in base; Avdio mešalne konzole; Analizatorji telesne maščobe za gospodinjsko uporabo; Ohišja za pametne telefone; Elektronski nadzorni instrumenti, razen za medicinsko uporabo; Video otroške varuške; Spletne kamere; Radio ure; Stojala za fotografske aparate; Tripod stojala za teleskope; Tripod stojala za geodetske aparate; Podaljški za slikanje sebkov [ročni nastavki]; Videorekorderji za avtomobile; Okvirji za očala; Okvirji za očala; Očala [optika]; Očala [optika]; Sončna očala; Prenosni multimedijski predvajalniki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Stegräknare; Mikrofoner; Pickuper till telekommunikationsapparater; Elektronisk ljudpickuper för gitarrer och basar; Ljudmixerbord; Kroppsfettsmätare för hushållsbruk; Fodral för smartphones; Elektroniska övervakningsinstrument, inte för medicinsk användning; Videoövervakningsapparater för spädbarn; Webbkameror; Radioapparater innehållande klockor; Stativ för fotografiska apparater; Trefotsstativ för teleskop; Trefotsstativ till lantmäteriapparatur; Selfiepinnar [handhållna stativ]; Videoinspelningapparater för bilar; Glasögonbågar; Glasögonbågar; Glasögon; Glasögon; Solglasögon; Bärbara mediaspelare.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/108</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/181</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082609</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>32203</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

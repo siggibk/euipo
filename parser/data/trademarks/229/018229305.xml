@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-16T09:47:19</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229305</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229305</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>FLAEM</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Медицински апарати и инструменти; Електронни медицински уреди; Апарати за впръскване на аерозоли за медицински цели; Назални иригатори, електрически; Медицински апарати за улесняване на инхалацията на фармацевтични препарати; Медицински апарати за подпомагане на дишането; Овлажнители за ползване при медицинско лечение.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Lékařské přístroje a nástroje; Elektronické lékařské přístroje; Aerosolové dávkovače pro lékařské účely; Nosní irigátory, elektrické; Lékařské přístroje a nástroje na usnadnění inhalace farmaceutických přípravků; Lékařské přístroje a nástroje na podporu dýchání; Zvlhčovače pro použití při lékařském ošetření.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Medicinske apparater og instrumenter; Elektroniske medicinske instrumenter; Aerosolapparater til medicinsk brug; Næseskyllere, elektriske; Medicinske apparater til brug ved inhalation af farmaceutiske præparater; Medicinske apparater til vejrtrækningshjælp; Befugtere til brug i medicinsk behandling.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Medizinische Apparate und Instrumente; Elektronische medizinische Geräte; Aerosolzerstäuber für medizinische Zwecke; Elektrische Nasenduschen; Medizinische Apparate zur Erleichterung der Inhalation pharmazeutischer Präparate; Medizinische Apparate zur Unterstützung der Atmung; Befeuchter für medizinische Behandlungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ιατρικά (Συσκευές και όργανα -)· Ηλεκτρονικά ιατρικά όργανα· Ψεκαστήρες αερολυμάτων για ιατρική χρήση· Ρινικοί καταιονητήρες, ηλεκτρικοί· Ιατρικές συσκευές για διευκόλυνση της εισπνοής φαρμακευτικών παρασκευασμάτων· Ιατρικές συσκευές ως βοηθήματα αναπνοής· Συσκευές ύγρανσης για χρήση στην ιατρική θεραπεία.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Medical apparatus and instruments; Electronic medical instruments; Aerosol dispensers for medical purposes; Nasal irrigators, electric; Medical apparatus for facilitating the inhalation of pharmaceutical preparations; Medical apparatus for assisting breathing; Humidifiers for use in medical treatment.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aparatos e instrumentos médicos; Instrumentos médicos electrónicos; Pulverizadores de aerosol para uso médico; Irrigadores nasales, eléctricos; Aparatos médicos para facilitar la inhalación de preparados farmacéuticos; Aparatos médicos para respiración asistida; Humidificadores para su uso en el tratamiento médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiiniseadmed ja -riistad; Elektroonilised meditsiiniaparaadid; Meditsiinilised aerosoolipihustid; Elektrilised ninaniisutid; Ravimite sissehingamist hõlbustavad meditsiiniseadmed; Meditsiiniseadmed hingamise abistamiseks; Meditsiinilised niisutid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lääketieteelliset laitteet ja välineet; Elektroniset lääketieteelliset välineet; Aerosolisäiliöt lääketieteellisiin tarkoituksiin; Sähkötoimiset välineet nenän huuhtelemiseen; Lääketieteelliset laitteet farmaseuttisten valmisteiden sisäänhengityksen helpottamiseen; Lääketieteelliset laitteet hengityksen helpottamiseen; Kostuttimet käytettäväksi lääkinnällisessä hoidossa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Appareils et instruments médicaux; Instruments médicaux électroniques; Appareils destinés à la projection d'aérosols à usage médical; Irrigateurs nasaux, électriques; Appareils médicaux pour faciliter l'inhalation de produits pharmaceutiques; Appareils médicaux d'assistance respiratoire; Humidificateurs destinés aux traitements médicaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Medicinski uređaji i instrumenti; Elektronski medicinski instrumenti; Aerosoli za medicinske potrebe; Električni tuševi za ispiranje nosa; Medicinski uređaji za olakšavanje udisanja farmaceutskih pripravaka; Medicinski uređaji za pomoć pri disanju; Ovlaživači za uporabu u medicinskom liječenju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyógyászati készülékek és eszközök; Elektronikus orvosi készülékek; Aeroszolos adagolók orvosi használatra; Elektromos orröblítők; Gyógyszerészeti készítmények inhalálásának megkönnyítését szolgáló orvosi készülékek; Légzéssegítő orvosi készülékek; Nedvesítők gyógyászati kezeléshez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Apparecchi e strumenti medici; Strumenti medici elettronici; Erogatori ad aerosol per uso medico; Apparecchi destinati alla proiezione di aerosol per uso medico; Dispositivi di irrigazione nasale, elettrici; Apparecchi medici per agevolare l'inalazione di preparati farmaceutici; Apparecchi medici per assistere la respirazione; Umidificatori per trattamenti medici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Medicinos aparatai ir instrumentai; Elektroniniai medicinos instrumentai; Aerozoliniai dalytuvai (medicinos reikmėms); Nosies drėkintuvai, elektriniai; Medicininiai aparatai farmacinių preparatų inhaliacijoms palengvinti; Medicininiai pagalbinio kvėpavimo aparatai; Drėkintuvai medicininio gydymo reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medicīniskā aparatūra un instrumenti; Elektroniski medicīniski instrumenti; Aerosolu izsmidzināšanas ierīces medicīniskiem nolūkiem; Elektriskas deguna skalošanas ierīces; Farmaceitisko preparātu inhalācijas veicināšanai paredzētā medicīniskā aparatūra; Medicīniski elpošanas palīdzības aparāti; Mitrinātāji medicīniskai aprūpei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Apparat u strumenti mediċi; Strumenti mediċi elettroniċi; Dispensers tal-ajrusol għal skopijiet mediċi; Irrigaturi nażali, elettriċi; Apparat mediku biex jiffaċilita l-inalazzjoni ta' preparazzjonijiet farmaċewtiċi; Apparat mediku biex jgħin fir-respirazzjoni; Umidifikaturi għall-użu fi trattament mediku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Medische apparaten en instrumenten; Elektronische medische apparaten; Spuitbussen voor medisch gebruik; Neusirrigators, elektrisch; Medische apparatuur voor het vergemakkelijken van het inhaleren van farmaceutische producten; Medische apparaten ter ondersteuning bij het ademen; Bevochtigers voor gebruik bij medische behandelingen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia i instrumenty medyczne; Elektroniczne przyrządy medyczne; Rozpylacze aerozoli do celów medycznych; Irygatory do nosa, elektryczne; Urządzenia medyczne do ułatwiania inhalacji preparatów farmaceutycznych; Aparatura medyczna wspomagająca oddychanie; Nawilżacze stosowane w leczeniu medycznym.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aparelhos e instrumentos médicos; Instrumentos médicos eletrónicos; Distribuidores de aerossóis para uso médico; Irrigadores nasais, elétricos; Aparelhos médicos para facilitar a inalação de preparações farmacêuticas; Aparelhos médicos para auxiliar a respiração; Humidificadores para utilização em tratamentos medicinais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aparate și instrumente medicale; Instrumente medicale electronice; Aparate pentru aerosoli de uz medical; Irigatoare nazale, electrice; Echipamente medicale pentru facilitarea inhalării preparatelor farmaceutice; Aparate medicale pentru respirația asistată; Umidificatoare pentru utilizare în tratamente medicale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lekárske prístroje a nástroje; Elektronické lekárske nástroje; Aerosólové dávkovače na lekárske použitie; Nosové irigátory, elektrické; Lekárske zariadenia na uľahčenie inhalácie farmaceutických prípravkov; Lekárske prístroje na pomoc pri dýchaní; Zvlhčovače pre lekárske ošetrovanie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Medicinski aparati in instrumenti; Elektronski medicinski instrumenti; Razpršilci aerosolov za medicinske namene; Nosni irigatorji, električni; Medicinski aparati za olajšanje inhalacije farmacevtskih pripravkov; Medicinski aparati za pomoč pri dihanju; Vlažilci, ki se uporabljajo za medicinsko zdravljenje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Medicinska apparater och instrument; Elektroniska medicinska instrument; Aerosolbehållare för medicinska ändamål; Nässköljare, elektriska; Medicinska apparater för att underlätta inhalering av farmaceutiska preparat; Medicinska apparater för andningshjälp; Luftfuktare för medicinsk behandling.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/198</PublicationIdentifier>
+        <PublicationSection>C.3.6</PublicationSection>
+        <PublicationDate>2020-10-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>160134</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>20598</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

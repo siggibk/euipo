@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-18T14:56:26</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222210</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222210</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<RegistrationDate>2020-09-16</RegistrationDate>
+<ApplicationLanguageCode>pt</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-08</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-18</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>TURISMO DE LISBOA LISBOA GOLF COAST</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162188213</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/222/018222210/000162188213.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>01.03.02</CategoryCode>
+          <CategoryCode>26.04.01</CategoryCode>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.09</CategoryCode>
+          <CategoryCode>29.01.01</CategoryCode>
+          <CategoryCode>29.01.02</CategoryCode>
+          <CategoryCode>29.01.03</CategoryCode>
+          <CategoryCode>29.01.04</CategoryCode>
+          <CategoryCode>29.01.05</CategoryCode>
+          <CategoryCode>29.01.08</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>16</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Периодични издания; Книги; Списания [периодични]; Списания [периодични]; Общи списания; Вестници.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Periodika; Knihy; Časopisy [periodika]; Časopisy [periodika]; Časopisy se všeobecnými tématy; Noviny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tidsskrifter; Bøger; Magasiner [tidsskrifter]; Magasiner [tidsskrifter]; Ugeblade med alment indhold; Aviser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Zeitschriften; Bücher; Zeitschriften [Magazine]; Zeitschriften [Magazine]; Allgemeine Magazine; Zeitungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Περιοδικά· Βιβλία· Περιοδικές εκδόσεις· Περιοδικές εκδόσεις· Περιοδικά ποικίλης ύλης· Εφημερίδες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Periodicals; Books; Magazines [periodicals]; Magazines [periodicals]; General feature magazines; Newspapers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Publicaciones periódicas; Libros; Revistas [publicaciones periódicas]; Revistas [publicaciones periódicas]; Revistas de interés general; Periódicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Perioodika, perioodiliselt ilmuvad trükised; Raamatud; Ajakirjad; Ajakirjad; Üldteemalised ajakirjad; Ajalehed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Aikakausjulkaisut; Kirjat; Aikakauslehdet; Aikakauslehdet; Yleisiä asioita käsittelevät lehdet; Sanomalehdet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Périodiques; Livres; Revues [périodiques]; Revues [périodiques]; Revues généralistes; Journaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Časopisi [periodike]; Knjige; Periodični časopisi; Periodični časopisi; Časopisi s općim sadržajem; Novine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Folyóiratok; Könyvek; Magazinok, revük [időszaki lapok]; Magazinok, revük [időszaki lapok]; Általános témájú magazinok; Újságok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Periodici [riviste]; Libri; Riviste [periodici]; Riviste [periodici]; Riviste di cultura generale; Giornali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Periodiniai leidiniai; Knygos; Žurnalai [periodiniai leidiniai]; Žurnalai [periodiniai leidiniai]; Nespecializuoti žurnalai; Laikraščiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Periodiskie izdevumi; Grāmatas; Žurnāli [periodiskie izdevumi]; Žurnāli [periodiskie izdevumi]; Vispārīga satura žurnāli; Avīzes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Perjodiċi; Kotba; Magazins [perjodiċi]; Magazins [perjodiċi]; Rivisti dwar suġġetti ġenerali; Gazzetti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Week- of maandbladen; Boeken; Tijdschriften; Tijdschriften; Tijdschriften met algemene onderwerpen; Kranten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Periodyki [czasopisma]; Książki; Czasopisma [periodyki]; Czasopisma [periodyki]; Czasopisma o tematyce ogólnej; Gazety.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Publicações periódicas impressas; Livros; Revistas periódicas; Revistas [jornais]; Revistas generalistas; Jornais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Periodice; Cărţi; Reviste [publicaţii periodice]; Reviste [publicaţii periodice]; Reviste generaliste; Ziare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Periodiká; Knihy; Časopisy (periodiká); Časopisy (periodiká); Časopisy s nešpecifikovaným obsahom; Noviny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Periodični tisk; Knjige; Revije [periodične]; Revije [periodične]; Revije s splošno vsebino; Časopisi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tidskrifter; Böcker; Magasin [periodiska]; Magasin [periodiska]; Tidskrifter med allmänt innehåll; Tidningar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги в областта на рекламата и промоционалната продажба; Отдаване под наем на рекламно пространство и време; Отдаване под наем на рекламни съоръжения; Отдаване под наем на рекламно време във всички средства за комуникация; Разпространение на реклами; Дистрибуция и разпространение на рекламни материали, диплянки, проспекти, печатни материали, мостри; Радио- и телевизионна реклама; Рекламиране чрез пощенски поръчки; Онлайн реклама в компютърна мрежа; Онлайн рекламни и маркетингови услуги; Подпомагане при управлението на търговски дейности; Управление на търговски сделки; Маркетингови услуги; Представяне на бизнес; Промоционално рекламиране на стоки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby v oblasti reklamy a propagace prodeje; Pronájem reklamních ploch; Pronájem reklamních materiálů; Pronájem reklamního času v komunikačních médiích; Šíření reklam; Distribuce a šíření reklamních materiálů (letáků, prospektů, tištěných materiálů, vzorků); Rozhlasová a televizní reklama; Zásilková reklama; Online inzerce v počítačové síti; Online reklamní a marketingové služby; Pomoc při řízení obchodní činnosti; Pomoc při řízení obchodní činnosti; Marketing; Obchodní propagace; Propagace prodeje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Annonce- og reklamevirksomhed samt salgsfremmende foranstaltninger; Udlejning af reklameplads; Udlejning af reklamemateriale; Udlejning af reklametid på kommunikationsmedier; Spredning af reklamemateriale; Distribution og omdeling af reklamemateriale [foldere, prospekter, trykt materiale, vareprøver]; Radio- og tv-reklamer; Annoncering pr. postordre; Online-annoncering på et computernetværk; Online annonce- og reklamevirksomhed samt markedsføring; Bistand ved forretningsledelse; Forretningsledelse; Marketing; Forretningsmæssig promovering; Salgsfremmende foranstaltninger.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Verkaufsförderung und Werbung; Vermietung von Werbeflächen; Vermietung von Werbematerial; Vermietung von Werbezeit in Kommunikations-Medien; Verbreitung von Werbeanzeigen; Versand und Verteilung von Werbematerialien [Faltblätter, Prospekte, Drucksachen, Warenproben]; Hörfunk- und Fernsehwerbung; Versandwerbung; Online-Werbung in einem Computernetzwerk; Online-Werbe- und -Marketingdienstleistungen; Planungen [Hilfe] bei der Geschäftsführung; Geschäftsführung; Marketing; Werbung für Unternehmen; Förderung von Verkäufen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες διαφήμισης και προώθησης· Διαφημιστικών χώρων μίσθωση· Διαφημιστικού υλικού μίσθωση· Μίσθωση διαφημιστικού χρόνου σε μέσα επικοινωνίας· Διάδοση διαφημιστικού υλικού· Διάθεση και διανομή διαφημιστικού υλικού (φυλλάδια, ενημερωτικά φυλλάδια, έντυπο υλικό, δείγματα)· Ραδιοφωνική και τηλεοπτική διαφήμιση· Διαφήμιση με αλληλογραφία· Διαφήμιση on line σε δίκτυο πληροφορικής· Ηλεκτρονικές υπηρεσίες διαφήμισης και εμπορικής προώθησης· Υποστήριξη στον τομέα της διαχείρισης επιχειρηματικών δραστηριοτήτων· Διοίκηση επιχειρήσεων· Υπηρεσίες μάρκετινγκ· Υπηρεσίες προώθησης επιχειρήσεων· Προώθηση πωλήσεων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Publicity and sales promotion services; Rental of advertising space; Publicity material rental; Rental of advertising time on communication media; Dissemination of advertising matter; Distribution and dissemination of advertising materials [leaflets, prospectuses, printed material, samples]; Radio and television advertising; Advertising by mail order; On-line advertising on a computer network; On-line advertising and marketing services; Assistance in management of business activities; Business management; Marketing services; Business promotion; Sales promotion.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de publicidad y promoción; Alquiler de espacios publicitarios; Alquiler de material publicitario; Alquiler de tiempo publicitario en medios de comunicación; Difusión de anuncios publicitarios; Distribución y difusión de materiales publicitarios [folletos, prospectos, impresos y muestras]; Publicidad por radio y televisión; Publicidad por correspondencia; Publicidad en línea por una red informática; Publicidad y marketing en línea; Asistencia en la gestión de actividades empresariales; Gestión de negocios comerciales; Servicios de marketing; Promoción de negocios comerciales; Promoción de ventas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Reklaam ja müügiedenduskampaaniad; Reklaamipindade üürimine; Reklaammaterjali üürimine; Reklaamiaja rentimine massiteabevahendites; Reklaammaterjalide levitamine; Reklaammaterjalide [reklaamlehed, prospektid, trükised, näidised] jaotamine ja levitamine; Raadio- ja telereklaam; Reklaam (Postimüügi -); Arvutivõrgureklaam; Onlain-reklaami- ja turundusteenused; Ärijuhtimisabi; Ärijuhtimine; Turundus; Ettevõtte reklaam; Müügikampaaniad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Mainonta- ja myynninedistämispalvelut; Mainostilan vuokraus; Mainosmateriaalin vuokraus; Mainosajan vuokraus tiedotusvälineissä; Mainosten jakelu; Mainosmateriaalin (lehtisten, esittelylehtisten, painetun aineiston, näytteiden) jakelu ja levitys; Radio- ja televisiomainonta; Postimyyntimainonta; Online-mainonta tietoverkoissa; Online-mainonta- ja markkinointipalvelut; Avustaminen liiketoiminnan johtamisessa; Liikkeenjohto; Markkinointipalvelut; Liiketoiminnan edistämispalvelut; Myynninedistäminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de publicité et de promotion des ventes; Location d'espaces publicitaires; Location de matériel publicitaire; Location de temps publicitaire sur tout moyen de communication; Diffusion d'annonces publicitaires; Distribution et diffusion de matériel publicitaire [feuillets, prospectus, produits de l'imprimerie et échantillons]; Publicité radiophonique et télévisée; Publicité par correspondance; Publicité en ligne sur un réseau informatique; Services de publicité et marketing en ligne; Aide à la direction des affaires; Gestion des affaires commerciales; Services de marketing; Services de promotion commerciale; Promotion des ventes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Reklamne i promotivne usluge; Iznajmljivanje reklamnih prostora; Iznajmljivanje promidžbenog materijala; Iznajmljivanje vremena za reklamiranje na komunikacijskim medijima; Distribucija reklamnog materijala; Distribucija i diseminacija reklamnih materijala [leci, prospekti, tiskani materijal, uzorci]; Radijsko i televizijsko oglašavanje; Reklamiranje putem pošte; Online oglašavanje na računalnim mrežama; Usluge mrežnog oglašavanja i marketinga; Pomoć u vođenju poslova; Vođenje komercijalnih poslova; Marketing; Promocija poslovnih djelatnosti; Promidžba prodaje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Reklámozás és értékesítési promóciós szolgáltatások; Hirdetési felület kölcsönzése; Reklámanyagok kölcsönzése; Reklámidő kölcsönzése kommunikációs médiában; Reklámterjesztés; Reklámanyagok [szórólapok, prospektusok, nyomtatványok, minták] elosztása és terjesztése; Rádiós és televíziós reklámozás; Reklámlevél szolgáltatás; On-line hirdetői tevékenység számítógépes hálózaton; Online reklám- és marketingszolgáltatások; Segítségnyújtás üzleti tevékenységek menedzsmentjében; Kereskedelmi ügyletek; Marketing szolgáltatások; Üzleti promóció; Eladási, értékesítési promóciók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di pubblicità e promozione delle vendite; Locazione di spazi pubblicitari; Noleggio di materiale pubblicitario; Affitto di spazi pubblicitari su mezzi di comunicazione; Diffusione di annunci pubblicitari; Distribuzione e diffusione di materiali pubblicitari [volantini, prospetti, stampe, campioni]; Pubblicità radiofonica e televisiva; Pubblicità per corrispondenza; Pubblicità on-line su rete informatica; Servizi pubblicitari e di marketing online; Assistenza nella gestione degli affari; Gestione di affari commerciali; Marketing; Promozione aziendale; Promozione delle vendite.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Reklamos ir pardavimo skatinimo paslaugos; Reklamos vietų nuoma; Reklaminės medžiagos nuoma; Reklamos laiko nuoma žiniasklaidoje; Reklaminių skelbimų platinimas; Reklaminės medžiagos [lankstinukų, prospektų, spaudinių, pavyzdžių] platinimas ir skleidimas; Radijo ir televizijos reklama; Reklamos pristatymas paštu; Viešasis elektroninis reklamavimas kompiuterių tinkle; Internetinės reklamos ir rinkodaros paslaugos; Verslo vadybos pagalba; Verslo vadyba; Rinkodara; Verslo skatinimas; Pardavimų skatinimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Reklāmas un veicināšanas pakalpojumi; Reklāmas laukumu iznomāšana; Reklāmas materiālu iznomāšana; Reklāmas laika iznomāšana masu komunikācijas līdzekļos; Reklāmas izplatīšana; Reklāmas materiālu [reklāmas lapiņu, prospektu, iespiedmateriālu, paraugu] izdalīšana un izplatīšana; Radio un televīzijas reklāma; Reklāma ar pasta starpniecību; Reklāma tiešsaistes režīmā, izmantojot datortīklus; Tiešsaistes reklāmas un tirgvedības pakalpojumi; Atbalsts uzņēmējdarbības darījumu vadībā; Darījumu vadīšana; Tirgvedības pakalpojumi; Uzņēmējdarbības veicināšana; Pārdošanas veicināšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' pubbliċità u promozzjoni tal-bejgħ; Il-kiri ta' spazju għar-reklamar; Il-kiri ta' materjal ta' reklamar; Kiri ta' ħin għar-reklamar fuq il-mezzi ta' komunikazzjoni; Tixrid ta' reklami; Distribuzzjoni u tixrid ta' materjal ta' reklamar [fuljetti, prospetti, materjal stampat, kampjuni]; Reklamar fuq ir-radju u t-televiżjoni; Reklamar permezz ta' ordni bil-posta; Reklamar onlajn fuq netwerk tal-kompjuters; Servizzi ta' reklamar u marketing onlajn; Assistenza fil-ġestjoni ta' attivitajiet tan-negozju; Il-ġestjoni ta' negozju; Servizzi ta' kummerċjalizzazzjoni; Il-promozzjoni tan-negozju; Il-promozzjoni tal-bejgħ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Reclame- en verkooppromotiediensten; Verhuur van advertentieruimte; Verhuur van reclamemateriaal; Verhuur van reclametijd op communicatiemedia; Verspreiding van reclameboodschappen; Verspreiding van reclamematerialen [folders, prospectussen, drukwerken, monsters]; Reclame via radio en televisie; Publiciteit per post; Reclame [on-line] op een computernetwerk; Onlinereclame en -marketing; Hulp bij de leiding van zaken; Beheer van commerciële zaken; Marketing; Promotie (Zakelijke -); Verkooppromotie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi reklamowe i promocyjne; Wynajmowanie przestrzeni reklamowej; Wypożyczanie materiałów reklamowych; Wynajem czasu reklamowego we wszystkich środkach przekazu; Rozpowszechnianie reklam; Dystrybucja i rozpowszechnianie materiałów reklamowych [ulotek, prospektów, materiałów drukowanych, próbek]; Reklamy radiowe i telewizyjne; Reklama korespondencyjna; Reklama online za pośrednictwem sieci komputerowej; Usługi reklamowe i marketingowe online; Pomoc w zarządzaniu działalnością gospodarczą; Zarządzanie w działalności gospodarczej; Usługi marketingowe; Promowanie działalności gospodarczej; Promocja sprzedaży.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">serviços de publicidade e promocionais; aluguer de espaços publicitários; aluguer de material publicitário; aluguer de tempo para publicidade nos meios de comunicação; difusão de anúncios publicitários; distribuição e difusão de material publicitário [folhetos, prospetos, material impresso, amostras]; publicidade radiofónica e televisiva; publicidade por correspondência; publicidade em linha em redes de comunicações informáticas; serviços de publicidade e marketing em linha; assistência na direção de negócios comerciais; gestão de negócios comerciais; marketing; serviços promocionais de negócios comerciais; serviços de promoção de vendas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de promovare şi publicitate; Închiriere de spaţii publicitare; Închiriere de material publicitar; Închiriere de timp publicitar în mijloacele de comunicare; Difuzare de anunţuri publicitare; Distribuţie şi difuzare de materiale publicitare [pliante, prospecte, material tipărit, mostre]; Publicitate radio şi de televiziune; Publicitate prin corespondenţă; Publicitate on-line într-o reţea informatizată; Servicii de publicitate şi marketing online; Asistenţă în conducerea afacerilor; Gestiunea afacerilor comerciale; Servicii de marketing; Promovarea comercială; Promovarea vânzărilor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Služby v oblasti reklamy a podpory predaja; Prenájom reklamných plôch; Prenájom reklamných materiálov; Prenájom reklamného času v komunikačných médiách; Rozširovanie reklamných oznamov; Rozširovanie reklamných materiálov (letáky, prospekty, tlačoviny a vzorky); Rozhlasová a televízna reklama; Zásielkové reklamné služby; Online reklama na počítačovej komunikačnej sieti; On-line reklamné a marketingové služby; Pomoc pri riadení obchodnej činnosti; Obchodný manažment, obchodná správa; Marketing; Obchodná reklama; Služby v oblasti podpory predaja (pre tretie osoby).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve oglaševanja in pospeševanje prodaje; Oddajanje oglasnih površin v najem; Oddajanje oglasnih materialov v najem; Najem oglaševalskega prostora v komunikacijskih medijih; Širjenje oglasov; Širjenje oglasov in oglasnega materiala (letakov, brošur, prospektov in vzorcev); Radijsko in televizijsko oglaševanje; Reklamiranje po pošti; Spletno oglaševanje preko računalniškega omrežja; Spletne oglaševalske in marketinške storitve; Pomoč pri upravljanju poslovnih dejavnosti; Vodenje komercialnih poslov; Storitve trženja; Poslovna promocija; Pospeševanje prodaje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Marknadsföring, reklam och annonsverksamhet; Uthyrning av annonsutrymmen; Uthyrning av annons- och reklammaterial; Uthyrning av annonseringstid på kommunikationsmedia; Spridning av reklamannonser; Distribution och spridning av reklammaterial [häften, prospekt, trycksaker, prover]; Radio- och TV-reklam; Annonsering via postorder; Annonsering on-line via datanätverk; Reklam och marknadsföring online; Assistans vid förvaltning av affärsverksamheter; Företagsledning; Marknadsföringstjänster; Främjande av företag; Sales promotion (säljfrämjande verksamhet).</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/107</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-09</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/178</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-09-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>986965</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>20749</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

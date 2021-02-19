@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-28T12:49:15</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226123</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226123</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-25</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>60:30:10</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Проектиране, разработване и реализиране на софтуер по поръчка; Осигуряване на консултации по компютърен софтуер, отнасящи се до употребата и функционалността на софтуер; Услуги за поддръжка на компютърен софтуер, а именно отстраняване на софтуерни проблеми и компютърно софтуерно консултиране; Персонализиране функционалността на компютърен софтуер.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Návrh, vývoj a implementace softwaru na zakázku; Poskytování konzultací týkajících se používání a funkčnosti softwaru; Služby podpory počítačového softwaru, jmenovitě odstraňování problémů softwaru a konzultace k počítačovému softwaru; Přizpůsobování funkčnosti počítačového softwaru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kundetilpasset design, udvikling og implementering af software; Rådgivning vedrørende computersoftware til brug af software og softwarefunktioner; Support vedrørende computersoftware, nemlig fejlfinding ved softwareproblemer og rådgivning vedrørende computersoftware; Brugertilpasning af computersoftwarefunktioner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Entwurf, Entwicklung und Implementierung von Software nach kundenspezifischen Vorgaben; Bereitstellung von Beratung zu Computersoftware in Bezug auf die Nutzung und Funktionalität von Software; Computersoftware-Unterstützung, nämlich Fehlersuche und -behebung in Bezug auf Softwareprobleme und Computersoftware-Beratung; Kundenspezifische Anpassung der Funktionalität von Computersoftware.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Επί παραγγελία σχεδιασμός, ανάπτυξη και υλοποίηση λογισμικού· Παροχή συμβουλών για λογισμικό ηλεκτρονικών υπολογιστών σε σχέση με τη χρήση και τη λειτουργικότητα του λογισμικού· Υπηρεσίες υποστήριξης λογισμικού ηλεκτρονικών υπολογιστών, συγκεκριμένα ανίχνευση προβλημάτων λογισμικού και παροχή συμβουλών σε θέματα λογισμικού ηλεκτρονικών υπολογιστών· Εξατομίκευση της λειτουργικότητας του λογισμικού ηλεκτρονικών υπολογιστών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">custom design, development and implementation of computer software; providing computer software consultation regarding the use and functionality of software; computer software support services, namely, troubleshooting of software problems and computer software consulting; customizing computer software functionality.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Diseño, desarrollo y aplicación de software a medida; Servicios de consultoría de software de ordenador en relación con el uso y la funcionalidad de software; Servicios de soporte de software de ordenador, en concreto, resolución de problemas de software y servicios de consultoría de software de ordenador; Personalización de la funcionalidad de software de ordenador.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kohandatud tarkvara projekteerimine ja arendamine ja teostamine; Arvutitarkvarakonsultatsiooni pakkumine seoses tarkvara kasutuse ja funktsionaalsusega; Arvutitarkvara tugiteenused, nimelt tarkvaraprobleemide veaotsing ja tehnilised klienditoeteenused, nimelt arvutitarkvara probleemide veaotsing ja arvutitarkvarakonsultatsioon; Arvutitarkvara funktsionaalsuse kohandamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ohjelmistojen suunnittelu, kehittäminen ja käyttöönotto tilaustyönä; Ohjelmistojen käyttöä ja toiminnallisuutta koskevan tietokoneohjelmistokonsultoinnin tarjoaminen; Tietokoneohjelmistojen tukipalvelut, nimittäin tietokoneongelmien vianetsintä tietokoneohjelmistoja koskeva konsultointi; Tietokoneohjelmistojen toiminnallisuuden mukauttaminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Conception, développement et implantation de logiciels personnalisés; Mise à disposition de services de consultation en matière de logiciels concernant l'utilisation et la fonctionnalité de logiciels; Services d'assistance en matière de logiciels, à savoir dépannage de problèmes de logiciels et consultation en matière de logiciels; Personnalisation de la fonctionnalité de logiciels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dizajn, razvoj i implementacija prilagođenog softvera; Pružanje konzultacija u vezi s računalnim softverom za uporabu i funkcionalnost softvera; Usluge podrške za računalni softver, i to utvrđivanje problema sa softverom i savjetovanje u vezi s računalnim softverom; Prilagođavanje funkcionalnosti računalnog softvera.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Egyedi szoftvertervezés, -fejlesztés és -használat; Szoftverek használatával és működésével kapcsolatos számítógépes szoftver tanácsadás biztosítása; Számítógépes szoftvert támogató szolgáltatások, nevezetesen számítógépes szoftverek hibáinak elhárítása és számítógépes szoftvertanácsadás; Számítógépes szoftverek működésének testreszabása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Elaborazione, messa a punto e attuazione di software personalizzati; Fornitura di consulenza in materia di software relativamente all'uso e alla funzionalità di software; Assistenza software, ovvero individuazione ed eliminazione di problemi di software e consulenza in mateira di software; Personalizzazione di funzionalità di software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Individualios programinės įrangos projektavimas, tobulinimas ir diegimas; Kompiuterių programinės įrangos konsultacijų dėl programinės įrangos naudojimo ir funkcionalumo teikimas; Kompiuterinės programinės įrangos pagalbos paslaugos, būtent kompiuterių programinės įrangos gedimų šalinimas bei konsultavimas kompiuterių programinės įrangos klausimais; Individualus kompiuterių programinės įrangos funkcionalumas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Pielāgotas programmatūras projektēšana, izstrāde un īstenošana; Datoru programmatūras konsultāciju nodrošināšana saistībā ar programmatūras lietošanu un funkcionalitāti; Datoru programmatūras atbalsta pakalpojumi, proti, programmatūras traucējummeklēšana un datoru programmatūras konsultācijas; Datoru programmatūras funkcionalitātes pielāgošana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Disinn, żvilupp u installazzjoni ta' softwer skont l-ordni; Provvista ta' konsulenza dwar softwer informatiku dwar l-użu u l-funzjonalità ta' softwer; Servizzi ta' appoġġ għal softwer tal-kompjuter, jiġifieri, sejba ta' soluzzjonijiet ta' problemi ta' softwer u konsulenza dwar softwer tal-kompjuter; Personalizzazzjoni ta' funzjonalità ta' softwer informatiku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Klantspecifiek(e) ontwerp, ontwikkeling en implementatie van software; Het aanbieden van softwareadvies in verband met het gebruik en de functionaliteit van software; Softwareondersteuning, te weten het oplossen van softwareproblemen en softwareadvisering; Aanpassing van de functionaliteit van software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Projektowanie, opracowywanie i wdrażanie oprogramowania na zamówienie; Udostępnianie konsultacji w zakresie oprogramowania komputerowego dotyczących użytkowania i funkcjonowania oprogramowania; Usługi wsparcia w zakresie oprogramowania komputerowego, mianowicie rozwiązywanie problemów z oprogramowaniem i doradztwo w zakresie oprogramowania komputerowego; Dostosowywanie funkcji oprogramowania komputerowego do potrzeb klienta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Conceção, desenvolvimento e implementação de software por encomenda; Prestação de consultadoria em matéria de utilização e funcionalidades de software; Serviços de assistência a software, especificamente deteção e resolução de problemas de software e consultadoria em matéria de software; Personalização de funcionalidades de software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Creare, dezvoltare şi implementare de software la comandă; Oferirea de consultanţă pentru software de calculator cu privire la utilizarea şi funcţionalitatea softului; Servicii de asistenţă software, şi anume remedierea problemelor şi consultanţă pentru software de calculator; Personalizare funcţionalităţii soft-ului de calculator.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Návrh, vývoj a implementácia zákazkového softvéru; Poskytovanie počítačových softvérových konzultácií v oblasti používania a funkcií softvéru; Služby podpory počítačového softvéru, menovite riešenie softvérových problémov a konzultácie v oblasti počítačového softvéru; Zákazková úprava funkcií počítačového softvéru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oblikovanje, razvoj in izvedba programske opreme po meri; Nudenje posvetovanja v zvezi z uporabo in funkcionalnostjo računalniške programske opreme; Storitve podpore za računalniško programsko opremo, in sicer odpravljanje težav z računalniško programsko opremo in svetovanje v zvezi z računalniško programsko opremo; Prilagajanje funkcionalnosti računalniške programske opreme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Specialanpassad programvarudesign, -utveckling och -genomförande; Tillhandahållande av programvarurådgivning avseende användning och funktionalitet av programvaror; Programvarustödtjänster, nämligen felsökning av programvaruproblem och programvarukonsultation; Kundanpassning av programvarufunktioner.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>US</PriorityCountryCode>
+<PriorityNumber>88/831436 </PriorityNumber>
+<PriorityDate>2020-03-12</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/092</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-18</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/163</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>857019</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>34069</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

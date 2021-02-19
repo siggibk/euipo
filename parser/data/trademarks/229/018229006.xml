@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-19T10:59:07</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229006</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229006</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-15</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-19</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>RABONA</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162455248</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229006/000162455248.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.05.99</CategoryCode>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.05</CategoryCode>
+          <CategoryCode>26.04.22</CategoryCode>
+          <CategoryCode>26.04.99</CategoryCode>
+          <CategoryCode>26.11.01</CategoryCode>
+          <CategoryCode>26.11.08</CategoryCode>
+          <CategoryCode>29.01.01</CategoryCode>
+          <CategoryCode>29.01.02</CategoryCode>
+          <CategoryCode>29.01.06</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Оборудване за казина [хазарт] (Осигуряване на -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Provozování kasin [hazard].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kasinovirksomhed [spillevirksomhed].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Betrieb eines Spielcasinos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καζίνο [παιχνίδια] (υπηρεσίες -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Providing casino facilities [gambling].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de casinos [juego].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kasiinoteenuste pakkumine [hasartmängud].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kasinotilojen tarjoaminen [uhkapeli].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de casino [jeux].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kasino usluga [kockanje] (Pružanje -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Játékkaszinók [szerencsejátékok].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Casinò.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Lošimo namų [kazino] paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kazino (azartspēļu) pakalpojumu nodrošināšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Każinò (Il-provvista' ta' faċilitajiet għall- -) [logħob tal-azzard].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Casino's.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Udostępnianie obiektów i sprzętu dla kasyn [gry hazardowe].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de espaços de casino [jogo].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de cazino [jocuri de noroc].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Služby kasín (hazardné hry).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Nudenje storitev za igralnice (prostorov in opreme).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kasinon [hasardspel].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/086</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-08</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/156</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-18</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1011342</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>70927</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

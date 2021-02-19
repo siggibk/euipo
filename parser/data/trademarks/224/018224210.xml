@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-02T10:33:01</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224210</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224210</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-08-30</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-02</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>HUMAN TOUCH ACADEMY Zambon Open Education Fondazione ZOÉ</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162207372</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224210/000162207372.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>02.07.01</CategoryCode>
+          <CategoryCode>02.07.23</CategoryCode>
+          <CategoryCode>02.07.25</CategoryCode>
+          <CategoryCode>24.03.07</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Учебни апарати и уреди; Апарати за записване, предаване или възпроизвеждане на звук или образ; Магнитни носители на данни, записващи дискове; Изчислителни машини за обработка на данни и компютри; CD дискове, видеозаписи, DVD дискове; Електронни книги с възможност за изтегляне от интернет; Електронни публикации [които могат да бъдат прехвърляни върху друг носител]; Звуковзаписи и видеозаписи с възможност за сваляне; Софтуерни приложения с възможност за изтегляне.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Výuková zařízení a přístroje; Přístroje pro záznam, převod, reprodukci zvuku nebo obrazu; Nosiče dat magnetické, záznamové disky; Zařízení ke zpracování dat a počítače; CD, videa, DVD; Elektronické knihy ke stažení; Publikace (elektronické -) [s možností stažení]; Audio a video záznamy ke stažení; Softwarové aplikace ke stažení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Undervisningsapparater og -instrumenter; Apparater til optagelse, transmission og gengivelse af lyd eller billede; Magnetiske databærere, discs til optagelse; Databehandlingsudstyr; Cd'er, videobånd, dvd'er; Elektroniske bøger, der kan downloades; Elektroniske publikationer, downloadable; Lyd- og videooptagelser, som kan downloades; Downloadable applikationssoftware.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Unterrichtsapparate und Instrumente; Geräte zur Aufzeichnung, Übertragung und Wiedergabe von Ton und Bild; Magnetaufzeichnungsträger, Schallplatten; Datenverarbeitungsgeräte und Computer; CDs, Videos, DVDs; Herunterladbare elektronische Bücher; Elektronische Publikationen [herunterladbar]; Herunterladbare Ton- und Videoaufzeichnungen; Herunterladbare Software-Anwendungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συσκευές και όργανα διδασκαλίας· Συσκευές για την εγγραφή, τη μετάδοση, την αναπαραγωγή ήχου και εικόνας· Μέσα αποθήκευσης μαγνητικών δεδομένων, δίσκοι εγγραφών· Εξοπλισμός για την επεξεργασία δεδομένων και ηλεκτρονικοί υπολογιστές· Σύμπυκνοι δίσκοι, βίντεο, ψηφιακοί βιντεοδίσκοι· Τηλεφορτώσιμα ηλεκτρονικά βιβλία· Ηλεκτρονικές εκδόσεις, με δυνατότητα μεταφόρτωσης· Μεταφορτώσιμες εγγραφές ήχου και μαγνητοσκοπημένης εικόνας (βίντεο)· Τηλεφορτώσιμες εφαρμογές λογισμικού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Apparatus and instruments for teaching; Apparatus for recording, transmission or reproduction of sound or images; Magnetic data carriers, recording discs; Data processing equipment and computers; CDs, videos, DVDs; Downloadable electronic books; Electronic publications, downloadable; downloadable sound and video recordings; Downloadable software applications.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aparatos e instrumentos de enseñanza; Aparatos de grabación, transmisión o reproducción de sonido o imágenes; Soportes de registro magnéticos, discos acústicos; Equipos para el tratamiento de la información y ordenadores; CD, vídeos, DVD; Libros electrónicos descargables; Publicaciones electrónicas descargables; Grabaciones de sonido y vídeo descargables; Aplicaciones de software descargables.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Õppeseadmed ja -instrumendid; Heli või kujutise salvestamise, edastamise ja taasesitamise aparatuur; Magnetandmekandjad, heliplaadid; Infotöötlusseadmed ja arvutid; CD-d, videod, DVD-d; Allalaaditavad digiraamatud; Elektroonilised allalaaditavad publikatsioonid; Allalaaditavad heli- ja videosalvestised; Allalaaditavad tarkvararakendused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Opetuslaitteet ja -välineet; Äänen ja kuvien tallennus-, siirto- ja toistolaitteet; Magneettiset tietovälineet, tallennelevyt; Datankäsittelylaitteet ja tietokoneet; CD-levyt, videot, DVD-levyt; Ladattavat elektroniset kirjat; Elektroniset julkaisut [järjestelmästä toiseen poimittavat]; Ladattavat ääni- ja videotallenteet; Ladattavat ohjelmistosovellukset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Appareils et instruments d'enseignement; Appareils pour l'enregistrement, la transmission, la reproduction du son ou des images; Supports d'enregistrement magnétiques, disques acoustiques; Équipement pour le traitement de l'information et les ordinateurs; CD, vidéos, DVD; Livres électroniques téléchargeables; Publications électroniques téléchargeables; Enregistrements audio et vidéo téléchargeables; Applications logicielles téléchargeables.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Uređaji i instrumenti za nastavu; Aparati za snimanje, prijenos ili reprodukciju zvuka ili slike; Magnetski nosači podataka, diskovi za snimanje; Oprema za obradu podataka i računala; CD, video, DVD; Elektroničke knjige koje se mogu preuzimati; Elektronske publikacije koje se mogu preuzeti s Interneta; Zvučne i video snimke koje se mogu preuzeti; Softverske aplikacije koje se mogu preuzeti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Oktató berendezések, eszközök és műszerek; Hangok vagy képek rögzítésére, továbbítására, másolására szolgáló készülékek; Mágneses adathordozók, hanglemezek; Adatfeldolgozási berendezések és számítógépek; CD-k, videók, DVD-k; Letölthető elektronikus könyvek; Letölthető elektronikus kiadványok, publikációk; Letölthető hang- és videofelvételek; Letölthető szoftveralkalmazások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">apparecchi e strumenti d'insegnamento; apparecchi per la registrazione, la trasmissione, la riproduzione del suono o delle immagini; supporti di registrazione magnetica, dischi acustici; corredo per il trattamento dell'informazione ed elaboratori elettronici; CD, video, DVD; libri elettronici scaricabili; pubblicazioni elettroniche scaricabili; registrazioni video e sonore scaricabili; applicazioni software scaricabili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mokymo aparatai ir prietaisai; Garso ar vaizdo įrašymo, perdavimo ar atkūrimo aparatūra; Magnetinės duomenų laikmenos, įrašų diskai; Duomenų dorojimo įrenginiai ir kompiuteriai; Kompaktiniai diskai, vaizdajuostės, universalieji skaitmeniniai diskai; Parsisiunčiamos elektroninės knygos; Elektroniniai leidiniai [parsisiunčiamieji]; Atsisiunčiami garso ir vaizdo įrašai; Parsisiunčiama taikomoji programinė įranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mācību iekārtas un instrumenti; Aparāti skaņas vai attēlu ierakstam, pārraidei vai reproducēšanai; Magnētiskās informācijas vides, ieraksta diski; Datu apstrādes iekārtas un datori; Kompaktdiski, videoieraksti, digitālie videodiski; Lejupielādējamas elektroniskas grāmatas; Lejupielādējamas elektroniskās publikācijas; Lejupielādējami skaņu un video ieraksti; Lejupielādējamas programmatūras lietotnes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Apparat u strumenti tat-tagħlim; Apparat biex tirrekordja, għat-trasmissjoni u riproduzzjoni ta' ħsejjes u stampi; Tagħmir li jġorr id-data b'mod manjetiku, diski li tirrekordja fuqhom; Tagħmir u kompjuters li jipproċessaw id-data; CDs, vidjows, DVDs; Kotba elettroniċi li jistgħu jitniżżlu; Pubblikazzjonijiet elettroniċi, li jistgħu jitniżżlu; Reġistrazzjonijiet tal-ħsejjes u tal-vidjow li jistgħu jitniżżlu; Applikazzjonijiet ta' softwer li jista' jitniżżel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Onderwijstoestellen en -instrumenten; Apparaten voor het opnemen, het overbrengen en het weergeven van geluid of beeld; Magnetische gegevensdragers, schijfvormige geluidsdragers; Gegevensverwerkende apparatuur en computers; Cd's, video's, dvd's; Downloadbare elektronische boeken; Elektronische publicaties [te downloaden]; Downloadbare geluids- en beeldopnamen; Downloadbare softwareapplicaties.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Aparatura i instrumenty dydaktyczne; Urządzenia do nagrywania, transmisji lub reprodukcji dźwięku lub obrazu; Magnetyczne nośniki danych, nagrywalne płyty (dyski); Przetwarzania informacji (urządzenia do -) i komputery; Płyty kompaktowe, kasety wideo, płyty DVD; Książki elektroniczne do pobrania; Publikacje elektroniczne, do pobrania; Pobieralne nagrania dźwiękowe i wideo; Aplikacje do pobrania.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aparelhos e instrumentos de ensino; Aparelhos para o registo, a transmissão, a reprodução do som ou de imagens; Suportes de registo magnético, discos acústicos; Aparelhos de processamento de dados e computadores; CD, vídeos, DVD; Livros eletrónicos para download; Publicações eletrónicas descarregáveis; Registos de som e imagem descarregáveis; Software aplicacional descarregável.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aparate şi instrumente pentru învăţământ; Aparate pentru înregistrarea, transmiterea, reproducerea sunetului sau imaginilor; Suporturi de înregistrare magnetică, discuri acustice; Echipamente pentru prelucrarea informaţiilor şi calculatoare; CD-uri, filme video, DVD-uri; Cărţi electronice descărcabile; Publicaţii electronice descărcabile; Înregistrări audio şi video descărcabile; Aplicaţii software descărcabile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Prístroje a zariadenia na vyučovanie; Prístroje na nahrávanie, prenos alebo reprodukciu zvuku alebo obrazu; Magnetické nosiče údajov, záznamové disky; Zariadenia na spracovanie údajov a počítace; Videá, DVD disky a CD disky; Sťahovateľné elektronické knihy; Elektronické publikácie (sťahovateľné); Stiahnuteľné zvukové a video záznamy; Stiahnuteľné softvérové aplikácie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Učni aparati in instrumenti; Aparati za snemanje, prenos in reprodukcijo zvoka in slike; Magnetni nosilci zapisov, zvočne plošče; Oprema in računalniki za procesiranje podatkov; Zgoščenke, video kasete, DVD-ji; Naložljive elektronske knjige; Naložljive elektronske publikacije; Naložljivi zvočni in video posnetki; Naložljive aplikacije programske opreme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Apparater och instrument för undervisning; Apparater för inspelning, upptagning, sändning eller återgivning av ljud och bilder; Magnetiska databärare, inspelningsbara minnesskivor; Databehandlingsutrustningar och datorer; Videor, dvd-skivor och cd-skivor; Nedladdningsbara elektroniska böcker; Tidskrifter (elektroniska), nedladdningsbara; Nedladdningsbara ljud- och videoinspelningar; Nedladdningsbara programvaruapplikationer.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>16</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Печатни произведения, книги, печатни текстове; Фотографии; Учебни материали.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Tiskárenské výrobky, knihy, tiskoviny; Fotografie; Instruktážní a učební materiál.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tryksager, bøger, pjecer; Fotografier; Instruktions- og undervisningsmateriale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Druckereierzeugnisse, Bücher, Druckschriften; Fotografien; Lehr- und Unterrichtsmaterial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Έντυπο υλικό, βιβλία, έντυπα· Φωτογραφίες· Εκπαιδευτικό και διδακτικό υλικό.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Printed matter, books, pamphlets; Photographs; Instructional and teaching material.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Productos de imprenta, libros, impresos; Fotografías; Materiales de instrucción y de enseñanza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Trükitooted, raamatud, pisitrükised; Fotod; Õppematerjalid ja näitvahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Painotuotteet, kirjat, lehtiset; Valokuvat; Neuvonta- ja opetusmateriaali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Produits de l'imprimerie, livres, imprimés; Photographies; Matériel d'instruction et d'enseignement.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Tiskarski proizvodi, knjige, brošure; Fotografije; Nastavni i obrazovni materijali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Nyomdaipari termékek, könyvek, nyomtatványok; Fényképek; Oktatási és tananyag.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">libri, opuscoli, stampati; fotografie; materiale per l'istruzione o l'insegnamento.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Spaudiniai, knygos, brošiūros; Fotonuotraukos; Instruktavimo ir mokomoji medžiaga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Iespiedmateriāli, grāmatas, iespieddarbi; Fotogrāfijas; Uzskates un mācību līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Materjal stampat, kotba, opuskoli; Ritratti; Materjal istruttiv u edukattiv.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Drukwerken, boeken, gedrukte teksten; Foto's; Instructie- en lesmateriaal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Druki, książki, druki; Fotografie; Materiały instruktażowe i dydaktyczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Produtos de impressão, livros, panfletos; Fotografias; Material de instrução e de ensino.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Produse de imprimerie, cărţi, broşuri; Fotografii; Material didactic şi de predare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Tlačoviny, knihy, brožúry; Fotografie; Inštruktážny a učebný materiál.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Tiskarski izdelki, knjige, tiskovine; Fotografije; Gradiva za učenje in poučevanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Trycksaker, böcker, tryckta skrifter; Fotografier; Instruktions- och undervisningsmaterial.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Образование; Обучение; Развлечение; Спортна и културна дейност; Преподаване и обучение на здравни специалисти; Обучение за оператори в сектора на личното благосъстояние; Курсове за обучение на лекари, медицински сестри и здравни специалисти; Курсове за обучение на болногледачи; Организиране и провеждане на конференции, семинари, групови дискусии и онлайн образователни курсове; Издателска дейност.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Výchova; Vzdělávání; Zábava; Sportovní a kulturní aktivity; Vyučování a vzdělávání zaměstnanců ve zdravotnickém oboru; Vzděláváni zaměřené na operátory v oblasti zdraví osob; Vzdělávací kurzy pro lékaře, zdravotní sestry a zdravotnické pracovníky; Vzdělávací kurzy pro pečovatele; Organizování a řízení konferencí, seminářů, skupinových diskusí a vzdělávacích kurzů on-.line; Služby vydavatelství.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Uddannelsesvirksomhed; Undervisningsvirksomhed; Underholdningsvirksomhed; Sportsarrangementer og kulturelle arrangementer; Undervisning og uddannelse af personale inden for sundhedssektoren; Uddannelse møntet på erhvervsdrivende i sektoren for personvelfærd; Uddannelseskurser for læger, sygeplejersker og sundhedspersonale; Uddannelseskurser for plejepersoner; Tilrettelæggelse og ledelse af konferencer, seminarer, gruppediskussioner og online uddannelseskurser; Forlagsvirksomhed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Erziehung; Ausbildung; Unterhaltung; Sportliche und kulturelle Aktivitäten; Unterrichtung und Ausbildung von Beschäftigten im Gesundheitssektor; Ausbildungsdienstleistungen in Bezug auf Beschäftigte im Bereich persönliches Wohlbefinden; Schulungen für Ärzte, Pflegepersonal und Hygienefachkräfte; Schulungen für Betreuer und Pfleger; Organisation und Durchführung von Konferenzen, Seminaren, Gruppendiskussionen und Online-Schulungen; Verlagsdienstleistungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εκπαίδευση· Επιμόρφωση (επαγγελματική κατάρτιση)· Ψυχαγωγία· Αθλητικές και πολιτιστικές δραστηριότητες· Διδασκαλία και επιμόρφωση (επαγγελματική κατάρτιση) υπαλλήλων στον τομέα της υγείας· Κατάρτιση που απευθύνεται σε επαγγελματίες του τομέα της προσωπικής ευεξίας· Μαθήματα επιμόρφωσης για ιατρούς, νοσηλευτές και επαγγελματίες του τομέα της υγείας· Μαθήματα επιμόρφωσης για φροντιστές· Οργάνωση και διεξαγωγή διαλέξεων, σεμιναρίων, ομαδικών συζητήσεων και μαθημάτων κατάρτισης επί γραμμής· Υπηρεσίες δημοσιεύσεων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Education; Providing of training; Entertainment; Sporting and cultural activities; Instruction and providing of training for health care sector employees; Training for professionals in the personal well-being sector; Training courses for doctors, nurses and healthcare professionals; Training courses for caregivers; Organisation and conducting of conferences, seminars, group discussions and online courses for education; Publishing services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Educación; Formación; Servicios de entretenimiento; Actividades deportivas y culturales; Enseñanza y formación de personal en el sector sanitario; Formación dirigida a operadores del sector del bienestar personal; Cursos de formación para médicos, enfermeros y profesionales sanitarios; Cursos de formación para cuidadores; Organización y realización de conferencias, seminarios, debates de grupo y cursos en línea de formación; Servicios de publicaciones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Haridus; Väljaõpe; Meelelahutus; Spordi- ja kultuurialane tegevus; Meditsiinitöötajate koolitamine ja väljaõpe; Isikliku heaolu valdkonda ettevõtjate koolitus; Koolituskursused arstidele, õdedele ja tervishoiutöötajatele; Koolituskursused hooldajatele; Konverentside, seminaride, grupiarutelude ja sidusõppe kursuste korraldamine ja läbiviimine; Kirjastamisteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Koulutus; Koulutuksen järjestäminen; Ajanviete; Urheilu- ja kulttuuritoiminnat; Terveydenhoitoalan työntekijöiden opetus ja koulutus; Koulutus, joka on suunnattu henkilön hyvinvoinnin alan ammattilaisille; Lääkäreille, sairaanhoitajille ja terveydenhuollon ammattilaisille tarkoitetut koulutuskurssit; Hoitohenkilökunnalle tarkoitetut koulutuskurssit; Konferenssien, seminaarien, keskusteluryhmien ja online-opetusjärjestäminen ja ohjaaminen; Kustantamopalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Éducation; Formation; Divertissement; Activités sportives et culturelles; Enseignement et formation du personnel du secteur de la santé; Formation destinée aux opérateurs dans le secteur du bien-être de la personne; Cours de formation pour médecins, infirmières et professionnels de la santé; Cours de formation pour aides-soignants; Organisation et conduite de conférences, séminaires, discussions de groupe et cours en ligne de formation; Services d'édition.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Obrazovanje; Stručno osposobljavanje; Razonoda; Sportske i kulturne djelatnosti; Podučavanje i obuka zaposlenika u zdravstvenom sektoru; Obuka namijenjena zaposlenicima u sektoru dobrobiti osoba; Tečajevi za obuku liječnika, medicinskih sestara i zdravstvenih djelatnika; Tečajevi za obuku njegovatelja; Organiziranje i vođenje konferencija, seminara, grupnih rasprava i mrežnih poduka; Nakladničke usluge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Nevelés; Szakmai képzés; Szórakoztatás; Sport- és kulturális tevékenységek; Oktatás és szakképzés az egészségügy területén foglalkoztatottak részére; A személyi jóléti ágazat dolgozói számára nyújtott képzés; Tanfolyamok orvosok, nővérek és egészségügyi szakemberek számára; Tanfolyamok gondozók számára; Konferenciák, szemináriumok, csoportos viták és on-line oktató tanfolyamok szervezése és vezetése; Kiadói szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Educazione; formazione; divertimento; attività sportive e culturali; formazione rivolta ad operatori nel settore sanitario; formazione rivolta ad operatori nel settore del benessere della persona; corsi di formazione per medici, infermieri e professionisti sanitari; corsi di formazione per caregivers; organizzazione e conduzione di conferenze, seminari, discussioni di gruppo e corsi on-line di istruzione; servizi di editoria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Švietimas; Mokymas; Pramogos; Sportinė ir kultūrinė veikla; Sveikatos sektoriaus dirbančiųjų švietimas ir mokymas; Asmeninės gerovės sektoriaus operatorių mokymai; Mokymo kursai gydytojams, slaugytojams ir sveikatos priežiūros specialistams; Slaugytojų mokymo kursai; Konferencijų, seminarų, grupių diskusijų ir internetinių švietimo kursų organizavimas ir vedimas; Leidybos paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Audzināšana; Apmācība; Izpriecas; Sporta un kultūras pasākumi; Veselības aprūpes nozarē nodarbināto apmācīšana un izglītošana; Apmācība operatoriem personiskās labjūtes jomā; Apmācības kursi mediķiem, sanitāriem un māsiņām; Apmācību kursi kopējiem; Konferenču, semināru, grupu diskusiju un tiešsaistes apmācības kursu organizēšana un vadība; Izdevējdarbība.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Edukazzjoni; Provvediment ta' taħriġ; Divertiment; Attivitajiet kulturali u sportivi; Tagħlim u taħriġ għall-ħaddiema fis-settur tas-saħħa; Taħriġ għall-operaturi fis-settur tal-benesseri tal-persuna; Korsijiet tat-taħriġ għal tobba, infermiera u professjonisti tal-kura tas-saħħa; Korsijiet tat-taħriġ għal persuni li jindokraw; L-organizzazzjoni u s-servizzi ta' konferenzi, seminars, diskussjonijiet fi gruppi u korsijiet ta' tagħlim onlajn; Servizzi ta' pubblikazzjoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Opvoeding; Opleiding; Ontspanning; Sportieve en culturele activiteiten; Instructie en opleiding van personeel in de gezondheidssector; Opleiding gericht op werknemers in de sector persoonlijk welzijn; Opleidingen voor artsen, verpleegkundigen en zorgprofessionals; Opleidingen voor caregivers; Organisatie en uitvoering van conferenties,seminars, groepsdiscussies en online trainingscursussen; Diensten van een uitgeverij.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Nauczanie; Kształcenie; Rozrywka; Działalność sportowa i kulturalna; Nauczanie i szkolenie osób zatrudnionych w sektorze zdrowotnym; Szkolenia dla pracowników branży zdrowotnej; Kursy szkoleniowe dla lekarzy, pielęgniarzy i pracowników służby zdrowia; Kursy szkoleniowe dla opiekunów; Organizowanie i prowadzenie wykładów, seminariów, dyskusji grupowych i kursów online w zakresie edukacji; Usługi wydawnicze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Educação; Formação; Divertimento; Actividades desportivas e culturais; Ensino e formação de profissionais de saúde; Formação direcionada aos operadores do setor de bem-estar de pessoas; Cursos de formação para médicos, enfermeiros e profissionais de saúde; Cursos de formação para cuidadores; Organização e direção de conferências, seminários, discussões de grupo e cursos em linha de ensino; Serviços de edição.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Educaţie; Instruire; Divertisment; Activitaţi sportive şi culturale; Educație și instruire pentru operatori în sectorul sanitar; Formare care se adresează operatorilor din domeniul cosmeticii; Cursuri de formare pentru medici, infirmieri și profesioniști sanitari; Cursuri de formare pentru îngrijitori; Organizare și gestionare de conferințe, seminare, discuții de grup și cursuri online de formare; Servicii de editare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vzdelávanie; Zabezpečovanie výcvikov, kurzov a školení; Zábava; Športová a kultúrna činnosť; Výučba a vzdelávanie zamestnancov v zdravotnom sektore; Vzdelávanie pre pracovníkov v oblasti osobnej pohody; Vzdelávacie kurzy pre lekárov, sestričky a odborných zdravotníckych pracovníkov; Vzdelávacie kurzy pre opatrovateľov; Organizovanie a vedenie konferencií, seminárov, skupinových diskusií a on-line školiacich kurzov; Vydavateľské služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Izobraževanje; Pouk; Razvedrilo; Športne in kulturne dejavnosti; Izobraževanje, pouk zaposlenih v zdravstvenem sektorju; Usposabljanje za izvajalce v sektorju dobrega počutja oseb; Tečaji usposabljanja za zdravnike, medicinske sestre in zdravstvene delavce; Tečaji usposabljanja za negovalce; Prirejanje in izvajanje konferenc, seminarjev, skupinskih razprav in spletnih izobraževalnih tečajev; Storitve objavljanja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Undervisning/utbildning; Anordnande av handledning/instruktion; Underhållning; Sport- och idrottsaktiviteter, kulturverksamhet; Undervisning och utbildning av verksamma inom hälsovården; Fortbildning riktad till yrkesverksamma inom friskvårdssektorn; Utbildningskurser för läkare, sjukvårds- och sanitär personal; Utbildningskurser för vårdgivare; Anordnande och ledning av konferenser, seminarier, gruppdiskussioner, samt undervisningskurser online; Förlags- och utgivningstjänster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/096</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/166</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-01</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079137</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>40015</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

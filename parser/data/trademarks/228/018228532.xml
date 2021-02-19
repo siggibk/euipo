@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-15T09:20:03</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228532</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228532</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-09-12</RegistrationDate>
+<ApplicationLanguageCode>lt</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>FELIKSNAVIS</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Системи за преработка на канални води [пречистване на вода]; Устройства и инсталации за водоснабдяване и такива за санитарни цели; Уреди за осветление, отопление, парогенериране, готвене, охлаждане, сушене, вентилация.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Instalace pro úpravu kanalizačních vod [čištění vody]; Zařízení a instalace pro rozvod a sanitární zařízení; Přístroje pro osvětlení, topení, výrobu páry, pro vaření, přístroje chladicí, pro sušení a ventilaci.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Renseanlæg til spildevand; Apparater og installationer til vandforsyning og sanitære formål; Apparater til belysning, opvarmning, dampdannelse, kogning, køling, tørring og ventilation.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Abwasseraufbereitungsanlagen [Wasserreinigung]; Geräte und Anlagen für die Wasserversorgung und für sanitäre Zwecke; Beleuchtungs-, Heizungs-, Dampferzeugungs-, Koch-, Kühl-, Trocken-, Lüftungsgeräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εγκαταστάσεις επεξεργασίας λυμάτων [καθαρισμός ύδατος]· Διατάξεις και εγκαταστάσεις υδροδότησης και υγιεινής· Εξοπλισμός φωτισμού, θέρμανσης, παραγωγής ατμού, μαγειρέματος, ψύξης, αποξήρανσης, αερισμού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Sewage treatment installations (water purification); Apparatus and installations for water supply and sanitary purposes; Apparatus for lighting, heating, steam generating, cooking, refrigerating, drying and ventilating purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Plantas de tratamiento de aguas residuales [depuración del agua]; Dispositivos e instalaciones para la traída de aguas y fines sanitarios; Aparatos de alumbrado, de calefacción, de producción de vapor, de cocción, de refrigeración, de secado, de ventilación.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Heitveetöötlemisseadmestikud (vee puhastamine); Veevarustus- ja sanitaarseadmed ning -paigaldised; Valgustus-, kütteseadmed, aurugeneraatorid, toiduainete kuumtöötlusseadmed, jahutusseadmed, kuivatus-, ventilatsiooniseadmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Jäteveden käsittelylaitteistot (vedenpuhdistus); Vesijohto- ja saniteettilaitteet ja -laitteistot; Valaistus-, lämmitys-, höyrynkehitys-, keitto-, jäähdytys-, kuivatus-, ilmastointilaitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Installations de traitement des eaux d'égout [épuration d'eau]; Appareils et installations de distribution d'eau et à usage sanitaire; Appareils d'éclairage, de chauffage, de production de vapeur, de cuisson, de réfrigération, de séchage, de ventilation.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Uređaji za obradu otpadnih voda [pročišćavanje vode]; Uređaji i instalacije za opskrbu vodom i za sanitarne svrhe; Uređaji za rasvjetu, grijanje, proizvodnju pare, kuhanje, hlađenje, sušenje i ventilaciju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szennyvízkezelő berendezések [víztisztítás]; Vízellátási és szaniterberendezések; Világító-, fűtő-, gőzfejlesztő, főző-, hűtő-, szárító- és szellőzőberendezés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Impianti per il trattamento di acque reflue [depurazione dell'acqua]; Apparecchi e impianti di approvvigionamento idrico e sanitari; Apparecchi d'illuminazione, di riscaldamento, di produzione di vapore, di cottura, di refrigerazione, di ventilazione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">nuotekų apdorojimo, vandens valymo įrenginiai; vandens tiekimo ir sanitariniai įrenginiai; apšvietimo, šildymo, garų gamybos, valgio virimo, šaldymo, džiovinimo, vėdinimo įrenginiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Notekūdeņu attīrīšanas ierīces [ūdens attīrīšana]; Ietaises un ierīces ūdensapgādei un sanitārtehniskām vajadzībām; Apgaismes, apkures, tvaika ģenerēšanas, cepšanas, dzesēšanas, žāvēšanas, ventilācijas ierīces.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Impjanti tat-trattament tal-ilma mormi (purifikazzjoni tal-ilma); Tagħmir u installazzjonijiet għall-provvista tal-ilma u għal skopijiet sanitarji; Apparat tad-dawl, tisħin, ġenerazzjoni ta' fwar, tisjir, refriġerazzjoni, tnixxif, ventilazzjoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">rioolwaterbehandelinsinstallaties [waterzuivering]; Voorzieningen en installaties voor watervoorziening en voor sanitaire doeleinden; Verlichtings- verwarmings-, stoomopwekkings-, kook-, koel-, droog,- ventilatieapparatuur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Instalacje do uzdatniania ścieków [uzdatnianie wody]; Urządzenia i instalacje do zaopatrzenia w wodę i celów sanitarnych; Urządzenia do oświetlania, ogrzewania, wytwarzania pary, gotowania, chłodzenia, suszenia, wentylacji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Estações de tratamento de águas residuais [purificação da água]; Dispositivos e instalações para abastecimento de água e para fins sanitários; Aparelhos de iluminação, de aquecimento, de produção de vapor, de cozedura, de refrigeração, de secagem, de ventilação.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Staţii de tratare a apei de canalizare [epurarea apei]; Echipamente şi instalaţii de furnizare a apei şi scopuri sanitare; Aparate de iluminat, de încălzit, de producere a vaporilor, de coacere, de refrigerare, de uscare, de ventilare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zariadenia na úpravu odpadovej vody [úprava vody]; Zariadenia a inštalácie na zásobovanie vodou a na sanitárne účely; Zariadenia na osvetľovanie, vykurovanie, parné kotly, zariadenia na varenie, chladenie, sušenie, ventiláciu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Napeljave za obdelavo kanalizacijske vode [čiščenje vode]; Naprave in instalacije za oskrbo z vodo in za sanitarne namene; Naprave za osvetljevanje, ogrevanje, proizvodnjo pare, kuhanje, hlajenje, sušenje in prezračevanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Reningsanläggningar för avloppsvatten [vattenrening]; anordningar och installationer för vattenförsörjning och sanitära ändamål; Apparater för belysning, uppvärmning, ångalstring, kokning, kylning, torkning, ventilation.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Търговия на едро и дребно на канализационно оборудване и оборудване за пречистване на вода, водоснабдителни и санитарни инсталации, светлинно оборудване, оборудване за отопление, парогенериране, готвене, замразяване, сушене и вентилиране; Рекламни услуги и управление на търговски сделки; Търговска администрация; Административна дейност.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Velkoobchod a maloobchod v oborech jako odpadní vody, zařízení na úpravu vody, vodovodní a sanitární zařízeními, zařízení pro osvětlení, topení, výrobu páry, vaření, chlazení, sušení, ventilaci; Reklama, management podnikání; Obchodní administrativa; Kancelářské práce.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Engros- og detailsalg af apparater og installationer til spildevand og vandrensning, vandforsyning og sanitet, belysning, opvarmning, dampdannelse, kogning, køling, tørring, udluftning; Annonce- og reklamevirksomhed samt bistand ved forretningsledelse; Forretningsadministration; Varetagelse af kontoropgaver.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Groß- und Einzelhandelsdienstleistungen in Bezug auf Abwasser- und Wasserreinigungsanlagen, Wasserversorgungs- und Sanitäranlagen, Beleuchtungsanlagen, Heizungsgeräte, Dampferzeugungsgeräte, Kochgeräte, Kühl-, Trocknungs- und Lüftungsgeräte; Werbung, Geschäftsführung; Unternehmensverwaltung; Büroarbeiten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χονδρικό και λιανικό εμπόριο σε σχέση με εγκαταστάσεις λυμάτων, καθαρισμού νερού, υδροδότησης και συστημάτων υγιεινής, συσκευές φωτισμού, θέρμανσης, παραγωγής ατμού, μαγειρικής, ψύξης, αποξήρανσης, εξαερισμού· Διαφήμιση, διοίκηση επιχειρήσεων· Διαχείριση επιχειρήσεων· Εργασίες γραφείου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Wholesaling and retailing of sewage, water treatment equipment, water supply and sanitary installations, illumination, heating, steam production, food cooking, freezing, drying, ventilation equipment; Advertising, business management; Business administration; Office functions.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Venta al por mayor y menor de instalaciones para el tratamiento de aguas residuales, instalaciones de tratamiento de agua, suministro de agua e instalaciones sanitarias, aparatos de alumbrado, calefacción, producción de vapor, cocción, refrigeración, secado, ventilación; Servicios de publicidad, y gestión de negocios comerciales; Administración comercial; Trabajos de oficina.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Reoveeseadmete, veetöötlusseadmete, veevarustus- ja sanitaarseadmestike, valgustusseadmete, kütteseadmestike, aurugeneraatorite, toiduvalmistusseadmete, külmutusseadmete, kuivatus- ja ventilatsiooniseadmete jae- ja hulgimüügiteenused; Reklaam, ärijuhtimine; Ärikorraldus; Kontoriteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Jätevesien- ja vedenpuhdistuslaitteistojen, vesijohto- ja saniteettilaitteistojen, valaistus-, lämmitys-, höyrynvalmistus-, ruoankeittämis-, pakastus-, kuivatus- ja ilmanvaihtolaitteiden tukku- ja vähittäiskauppa; Mainonta, liikkeenjohto; Yrityshallinto; Toimistotehtävät.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vente en gros et au détail d'équipements de traitement des eaux usées et de purification d'eau, d'équipements d'alimentation en eau et d'équipements sanitaires, d'éclairage, de chauffage, de production de vapeur, de cuisson, de réfrigération, de séchage, de ventilation; Publicité, gestion des affaires commerciales; Administration commerciale; Travaux de bureau.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Veleprodajne i maloprodajne usluge u vezi s kanalizacijskim uređajima, instalacijama za pročišćavanje vode, vodovodnom i sanitarnom opremom, uređajima za rasvjetu, grijanje, proizvodnju pare, kuhanje, hlađenje, sušenje, ventilacijskim uređajima; Oglašavanje, vođenje komercijalnih poslova; Komercijalna administracija; Uredski poslovi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szennyvíz- és vízkezelő berendezések, vízellátó és szaniter berendezések, valamint világítási, fűtő-, gőzfejlesztő, ételfőző, fagyasztó, szárító és szellőztető berendezések nagy- és kiskereskedelme; Reklámozás, kereskedelmi ügyletek; Kereskedelmi adminisztráció; Irodai munkák.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Vendita all'ingrosso e al dettaglio di prodotti per acque reflue, impianti di trattamento delle acque, fornitura di acqua e impianti sanitari, illuminazione, riscaldamento, produzione di vapore, cottura di alimenti, congelamento, asciugatura, impianti di ventilazione; Pubblicità e gestione aziendale; Amministrazione commerciale; Lavori di ufficio.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">didmeninė ir mažmeninė prekyba nuotekų, vandens valymo įrenginiais, vandens tiekimo ir sanitariniai įrenginiais, apšvietimo, šildymo, garų gamybos, valgio virimo, šaldymo, džiovinimo, vėdinimo įrenginiais; reklama, verslo vadyba; verslo tvarkyba; įstaigų veikla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Notekūdeņu, ūdens attīrīšanas iekārtu, ūdens apgādes un sanitārtehnisko ierīču, apgaismojuma, apkures, tvaika ražošanas, ēdienu gatavošanas, saldēšanas, žāvēšanas, ventilācijas iekārtu vairumtirdzniecība un mazumtirdzniecība; Reklāma, uzņēmējdarbības vadība; Uzņēmumu pārvaldīšana; Biroja darbi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Bejgħ bl-ingrossa u bl-imnut ta' installazzjonijiet tad-drenaġġ, installazzjonijiet tat-trattament tal-ilma, installazzjonijiet tal-provvista tal-ilma u sanitarji, installazzjonijiet għad-dawl, tisħin, ġenerazzjoni ta' fwar, tisjir, tkessiħ, tnixxif, ventilazzjoni; Reklamar, il-ġestjoni ta' negozju; L-amministrazzjoni ta' negozju; Funzjonijiet ta' uffiċċju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Groot- en detailhandel in zuiveringsinstallaties voor rioolwater en water, waterleidingsapparaten en sanitaire installaties, installaties voor verlichting, verwarming, het opwekken van stoom, het koken, koeling, drogen, ventilatie; Reclame en beheer van commerciële zaken; Zakelijke administratie; Administratieve diensten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Sprzedaż hurtowa i detaliczna instalacji do oczyszczania ścieków, wody, instalacji wodociągowych i sanitarnych, instalacji oświetleniowych, grzewczych, do wytwarzania pary, gotowania, chłodzenia, suszenia, wentylacji; Reklama, zarządzanie przedsiębiorstwami; Administrowanie działalności gospodarczej; Prace biurowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Venda por grosso e a retalho de esgotos, equipamento de tratamento de água, instalações de abastecimento de água e sanitárias, iluminação, aquecimento, produção de vapor, cozedura de alimentos, congelação, secagem, equipamento de ventilação; Publicidade, gestão de negócios comerciais; Administração comercial; Trabalhos de escritório.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Vânzare cu ridicata și cu amănuntul de instalații de scurgere, de tratare a apei, de instalații de alimentare și sanitare, de instalații pentru iluminat, încălzit, producere de abur, gătit, refrigerat, uscat, ventilat; Publicitate si gestiunea afacerilor comerciale; Administraţie comercială; Lucrări de birou.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Veľkoobchod a maloobchod v odboroch ako odpadové vody, zariadenia na úpravu vody, vodovodné a sanitárne zariadenia, zariadenia na osvetlenie, vykurovanie, výrobu pary, varenie, chladenie, sušenie, ventiláciu; Reklama, obchodný manažment; Obchodná administratíva; Kancelárske práce.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Veleprodaja in maloprodaja izdelkov, kot so kanalizacija, napeljave za čiščenje vode, vodovodne in sanitarne napeljave, napeljave za razsvetljavo, ogrevanje, proizvodnjo pare, kuhanje, hlajenje, sušenje, prezračevalne napeljave; Oglaševanje, poslovno vodenje; Poslovna administracija; Pisarniški posli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Grossist- och detaljhandel med avlopps-, vattenreningsanläggningar, vattenförsörjnings- och sanitetsanläggningar samt anläggningar för belysning, uppvärmning, ånggenerering, kokning av livsmedel, kylning, torkning och ventilation; Annons- och reklamverksamhet, företagsledning; Företagsadministration; Kontorstjänster.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>37</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Пречистване на отпадни води, обработване и пречистване на вода, почистване на петрол, водоснабдяване, инсталиране, поддържане, поправка и обновяване на санитарни инсталации.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Čištění odpadních vod, úprava vody a čištění, rafinace ropy, zařízení pro zásobování vodou, instalace sanitárních zařízení, technická údržba, oprava, obnova.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Installation, teknisk vedligeholdelse, reparation og fornyelse af installationer til vandbehandling og vandrensning, rensning af olie, vandforsyning samt af sanitære installationer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Installation, Wartung, Instandsetzung und Sanierung von Anlagen für Abwasserbehandlung, Wasseraufbereitung und -reinigung, Erdölreinigung, Wasserversorgung, Sanitär.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εγκατάσταση, συντήρηση, επισκευή και ανακίνηση εξοπλισμού διαχείρισης υδατικών λυμάτων, επεξεργασίας και καθαρισμού νερού, διύλισης πετρελαίου, υδροδότησης και υγιεινής.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Sewage treatment, water treatment and cleaning, oil refining, water supply, sanitary equipment installation, maintenance, repairs and renovation.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Instalaciones para el tratamiento de aguas residuales, tratamiento y purificación de agua, refinamiento del petróleo, suministro de agua, instalación de equipos sanitarios, mantenimiento, reparación, renovación de equipos técnicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Reovee-, veetöötlusseadmete, puhastustarvete, naftapuhastusseadmete, veevarustusseadmete, sanitaarseadmete paigaldus, hooldus, remont ja taastamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Jätevesienkäsittely-, vedenkäsittely- ja -puhdistus-, öljynpuhdistus-, vesijohto- ja saniteettilaitteistojen asennus, tekninen huolto, korjaus ja uudistaminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Installation, entretien, réparation et rénovation d'installations de traitement des eaux usées, de traitement et de purification de l'eau, de traitement d'hydrocarbures, d'alimentation en eau et d'installations sanitaires.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ugradnja, održavanje, popravak i renovacija postrojenja za pročišćavanje otpadnih voda, obradu i pročišćavanje voda, pročišćavanje ulja, vodoopskrbu, sanitarne opreme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szennyvízkezelő, vízkezelő és -tisztító, petróleumtisztító, vízellátási és szaniterberendezések üzembe helyezése, karbantartása, javítása és renoválása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Trattamento delle acque reflue, trattamento e pulizia delle acque, pulizia del petrolio, fornitura di acqua, installazione di attrezzature sanitarie, manutenzione, riparazioni e ristrutturazioni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">nuotekų apdorojimo, vandens apdorojimo ir valymo, naftos valymo, vandens tiekimo, sanitarinių įrenginių įrengimas, techninė priežiūra, taisymas, atnaujinimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Notekūdeņu attīrīšana, ūdens attīrīšana un tīrīšana, naftas tīrīšana, ūdens apgāde, sanitārā aprīkojuma uzstādīšana, apkope, remonts un atjaunošana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Installazzjoni, manutenzjoni, tiswija, rinnovazzjoni ta' installazzjonijiet għat-trattament tad-drenaġġ, trattament u purifikazzjoni ta' ilma, purifikazzjoni taż-żejt, provvista ta' ilma, installazzjonijiet sanitarji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Montage, onderhoud, reparatie en revisie van installaties voor het behandelen van rioolwater, bewerken en zuiveren van water, zuiveren van olie, toevoeren van water en sanitaire installaties.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Instalacja, konserwacja, naprawa, renowacja instalacji do uzdatniania ścieków, uzdatniania i oczyszczania wody, oczyszczania nafty, instalacji wodociągowych, sanitarnych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Tratamento de esgotos, tratamento e limpeza de águas, limpeza de petróleo, abastecimento de água, instalação de equipamento sanitário, manutenção, reparações e renovação.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Instalare, întreținere, reparare, renovare de instalații pentru tratarea apei menajere, tratarea și epurarea apei, purificarea uleiului, alimentarea cu apă, instalații sanitare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Čistenie odpadových vôd, úprava vody a čistenie, rafinácia ropy, zariadenia pre zásobovanie vodou, inštalácia sanitárnych zariadení, technická údržba, oprava, obnova.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Čiščenje kanalizacije, obdelava in čiščenje vode, čiščenje olj, oskrba z vodo, montaža, vzdrževanje, popravila, obnova sanitarne opreme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Installation, underhåll, reparation och renovering av anläggningar för behandling och rening av vatten, oljerening, vattenförsörjning och sanitetsändamål.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/105</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/176</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082050</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>32159</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

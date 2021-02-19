@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-19T10:29:42</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226511</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226511</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-15</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-19</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>WeGrow PlugTray</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>16</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Пластмасови материали за опаковане.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Balicí materiály z plastu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Plastikmaterialer til emballeringsbrug.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Verpackungsmaterial aus Kunststoff.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Πλαστικά υλικά συσκευασίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Plastic materials for packaging.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Material de embalaje de materias plásticas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Plastist pakkematerjal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Muoviset pakkausmateriaalit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Matières plastiques pour l'emballage.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Plastični materijali za pakiranje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Műanyag csomagolóanyagok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Materie plastiche per l'imballaggio.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Plastikinės pakavimo medžiagos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Plastmasas materiāli iepakošanas vajadzībām.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tgeżwir tal-plastik għall-ippakkjar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Plastic materialen voor verpakking.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Materiały z tworzyw sztucznych do pakowania.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Materiais plásticos para embalagem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Material plastic pentru ambalat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Plastové baliace materiály.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Plastični materiali za pakiranje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Förpackningsmaterial av plast.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<SeniorityDetails>
+<Seniority>
+<SeniorityCountryCode>DE</SeniorityCountryCode>
+<SeniorityFilingDate>2019-12-17</SeniorityFilingDate>
+<SeniorityRegistrationNumber>302019028374</SeniorityRegistrationNumber>
+<SeniorityRegistrationDate>2020-03-31</SeniorityRegistrationDate>
+<InternationalTradeMarkCode>EU</InternationalTradeMarkCode>
+<SeniorityPartialIndicator>false</SeniorityPartialIndicator>
+<SeniorityStatusCode>Accepted</SeniorityStatusCode>
+</Seniority>
+</SeniorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/086</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-08</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/156</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-18</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>719475</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

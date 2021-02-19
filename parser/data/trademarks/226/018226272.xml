@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-01T11:16:24</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226272</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226272</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-20</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>CVP</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162308033</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226272/000162308033.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.19</CategoryCode>
+          <CategoryCode>27.99.03</CategoryCode>
+          <CategoryCode>27.99.16</CategoryCode>
+          <CategoryCode>27.99.22</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Сапуни за ръце; Почистващи средства за домакински цели; Избелващи препарати за обработена кожа; Полиращи смеси; Етерични масла за овкусяване на храни; Козметични средства; Паста за зъби; Тамян; Козметични средства за животни; Ароматизатори за въздух.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Mýdla na ruce; Čisticí přípravky; Přípravky pro bělení kůže; Směsi pro leštění měkkým kotoučem; Ochucovadla do potravin [éterické oleje]; Kosmetické přípravky; Zubní pasty; Kadidlo; Kosmetické přípravky pro zvířata; Osvěžovače vzduchu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Håndsæbe; Præparater til rengøring; Præparater til blegning af læder; Poleremidler; Smagsstoffer til madvarer [æteriske olier]; Kosmetik; Tandpastaer; Røgelse; Kosmetik til dyr; Duftpræparater til luft.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Handseifen; Reinigungsmittel; Lederbleichmittel; Poliermittel; Lebensmittelaromen [ätherische Öle]; Kosmetika; Zahnpasta; Weihrauch; Tierkosmetika; Luftbeduftungsmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σαπούνια χεριών· Παρασκευάσματα καθαρισμού· Λεύκανση του δέρματος (Προϊόντα για τη -)· Λειαντικά μείγματα· Αρτυματικές ύλες για τρόφιμα, με τη μορφή αιθέριων ελαίων· Καλλυντικά· Οδοντόκρεμες· Θυμιάματα· Καλλυντικά για ζώα· Παρασκευάσματα αρωματισμού του αέρα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Hand soap; cleaning preparations; leather bleaching preparations; buffing compounds; food flavorings [essential oils]; cosmetics; toothpaste; incense; cosmetics for animals; air fragrancing preparations.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Jabones de manos; Productos de limpieza; Productos blanqueadores para el cuero; Compuestos de pulido; Aromatizantes alimentarios [aceites esenciales]; Cosméticos; Pastas dentífricas; Incienso; Cosméticos para animales; Productos para perfumar el ambiente.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Käteseebid; Puhastusained; Parknahapleegitid; Poleerimissegud; Toidumaitseained [eeterlikud õlid]; Kosmeetikavahendid; Hambapasta; Viirukid; Loomakosmeetikavahendid; Õhulõhnastusained.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Käsisaippuat; Puhdistusaineet kotitaloustarkoituksiin; Nahanvalkaisuvalmisteet; Kiillotusyhdisteet; Eteeriset öljyt ruokien makuaineina; Kosmetiikka; Hammastahnat; Suitsukkeet; Eläinten kosmeettiset tuotteet; Ilmanraikastusvalmisteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Savons pour les mains; Produits de nettoyage; Produits pour blanchir le cuir; Composés de polissage; Arômes alimentaires [huiles essentielles]; Cosmétiques; Pâtes dentifrices; Encens; Cosmétiques pour animaux; Parfums d'ambiance.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Sapuni za ruke; Sredstva za čišćenje u kućanstvu; Sredstva za bijeljenje kožnih proizvoda; Smjese za poliranje; Arome za hranu, koje su esencijalna ulja; Kozmetički proizvodi; Pasta za zube; Tamjan; Kozmetika za životinje; Parfimiranje zraka (pripravci za-).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kézmosó szappanok; Tisztítószerek háztartási használatra; Bőrfehérítő készítmények; Csiszolószerek; Illóolajok, mint ételízesítők; Kozmetikai szerek; Fogpaszta; Füstölő; Kozmetikai szerek állatok számára; Levegőillatosító készítmények.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Saponi per le mani; Prodotti per la pulizia; Prodotti per sbiancare il cuoio; Composti per la pulizia con pelle di daino; Aromi alimentari [olii essenziali]; Cosmetici; Dentifricio; Incenso; Cosmetici per animali; Profumi per ambiente.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Rankų muilas; Valymo preparatai; Odų balinimo preparatai; Poliravimo mišiniai; Maistinės aromatinės medžiagos [eteriniai aliejai]; Kosmetika; Dantų pasta; Smilkalai; Gyvulių kosmetika; Oro kvėpinimo preparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Roku ziepes; Tīrīšanas līdzekļi; Ādas izstrādājumu balināšanas līdzekļi; Pulēšanas maisījumi; Pārtikas produktu aromatizētāji (ēteriskās eļļas); Kosmētikas līdzekļi; Zobu pastas; Vīraks; Kosmētikas līdzekļi dzīvniekiem; Gaisa iesmaržināšanas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Sapun tal-idejn; Aġenti tat-tindif għal skopijiet domestiċi; Preparazzjonijiet għall-ibbliċjar tal-ġild; Komposti tal-lustrar; Togħmiet tal-ikel [żjut meħudin minn pjanti]; Kożmetiċi; Dentifriċi; Inċens; Kosmetiċi għall-annimali; Preparazzjonijiet biex tfewwaħ l-arja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Handzepen; Reinigingsmiddelen; Producten voor het bleken van leder; Polijstmengsels; Aromaten voor voedingsmiddelen [vluchtige oliën]; Cosmetica; Tandpasta's; Wierook; Cosmetica voor dieren; Producten voor het parfumeren van de omgevingslucht.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Mydła do rąk; Środki czyszczące do celów gospodarstwa domowego; Preparaty do wybielania skóry zwierzęcej; Mieszanki polerujące; Aromaty do żywności w postaci olejków eterycznych; Kosmetyki; Pasta do zębów; Kadzidełka; Kosmetyki dla zwierząt; Środki odświeżające powietrze [zapachowe].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Sabões para as mãos; Preparações para limpeza; Preparações para branqueamento de couro; Compostos de polimento; Aromas alimentares [óleos essenciais]; Cosméticos; Pasta de dentes; Incenso; Cosméticos para animais; Fragrâncias para perfumar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Săpunuri pentru mâini; Curățat (Produse de -); Preparate pentru albirea articolelor din piele; Compuși pentru șlefuire; Produse aromatizante pentru alimente, sub formă de uleiuri esențiale; Cosmetice; Paste de dinți; Bețișoare parfumate; Produse cosmetice pentru animale; Preparate odorizante pentru împrospătarea aerului.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Mydlá na ruky; Čistiace prípravky; Bieliace prípravky na kožu; Leštiace zmesi; Potravinárske aromatické prísady (esenciálne oleje); Kozmetické prípravky; Zubné pasty; Kadidlo; Kozmetické prípravky pre zvieratá; Osviežovače vzduchu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Mila za roke; Čistilni pripravki za gospodinjske namene; Pripravki za beljenje usnja; Zmesi za loščenje; Arome za živila, ki so eterična olja; Kozmetični izdelki; Zobna pasta; Kadilo; Kozmetični izdelki za živali; Sredstva za odišavljanje zraka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Handtvålar; Rengöringspreparat; Läderblekmedel; Putsningsmedel; Smaktillsatser för livsmedel, utgörande eteriska oljor; Kosmetika; Tandkräm; Rökelse; Kosmetika för djur; Välluktande luftpreparat.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Дезинфектанти; Хигиенни мъжки гащи; Фармацевтични препарати; Медицински инфузии; Пластири за медицински цели; Дамски превръзки; Дамски превръзки; Хигиенни мъжки гащи; Пелени за изпускащи се хора; Антибактериални препарати за миене на ръце.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Dezinfekční přípravky; Hygienické kalhotky; Farmaceutické přípravky; Léčivé infuze; Bezpolštářkové náplasti; Hygienické vložky; Hygienické tampóny; Hygienické vložky; Inkontinenční pleny; Antibakteriální prostředky na mytí rukou.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Desinfektionsmidler; Hygiejnebenklæder; Farmaceutiske præparater; Medicinske infusioner; Klæbebånd til medicinske formål; Hygiejnebind; Menstruationstamponer; Trusseindlæg [til hygiejniske formål]; Bleer til inkontinens; Antibakterielle håndvaskemidler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Desinfektionsmittel; Monatshöschen; Pharmazeutische Präparate; Medizinische Kräutertees; Klebebänder für medizinische Zwecke; Damenbinden; Tampons für hygienische Zwecke; Slipeinlagen [Hygieneartikel]; Inkontinenzwindeln; Antibakterielle Handwaschmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Απολυμαντικά· Κυλότες υγιεινής· Φαρμακευτικά (Προϊόντα -)· Αφεψήματα φαρμακευτικά· Έμπλαστρα· Σερβιέτες υγιεινής· Ταμπόν για χρήσεις υγιεινής· Κυλότες υγιεινής· Πάνες υγιεινής για την ακράτεια· Αντιβακτηριακά προϊόντα για το πλύσιμο των χεριών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Disinfectants; sanitary panties; pharmaceutical preparations; medicinal infusions; adhesive tapes for medical purposes; sanitary towels; sanitary tampons; panty liners [sanitary]; diapers for incontinence; antibacterial handwashes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Desinfectantes; Bragas higiénicas; Preparaciones farmacéuticas; Infusiones medicinales; Cintas adhesivas para uso médico; Compresas higiénicas; Tampones higiénicos; Protege-slips [compresas higiénicas]; Pañales higiénicos para la incontinencia; Productos antibacterianos para lavar las manos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Desinfektsioonivahendid; Hügieenipüksikud; Farmatseutilised preparaadid; Meditsiinilised infusioonid; Raviteibid; Hügieenisidemed; Tampoonid; Püksikute hügieenilised siselapid; Pidamatushaigete mähkmed; Antibakteriaalsed kätepesuained.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Desinfiointiaineet; Hygieniasuojat; Farmaseuttiset valmisteet; Lääkehaudenesteet; Kiinnelaastarit lääkinnälliseen käyttöön; Terveyssiteet; Kuukautistamponit; Hygieniasuojat; Inkontinenssivaipat; Antibakteeriset käsienpesuliuokset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Désinfectants; Culottes hygiéniques; Préparations pharmaceutiques; Infusions médicinales; Bandes adhésives pour la médecine; Serviettes hygiéniques; Tampons hygiéniques; Protège-slips [produits hygiéniques]; Couches hygiéniques pour personnes incontinentes; Produits antibactériens pour le lavage des mains.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dezinfekcijska sredstva; Higijenske gaćice; Farmaceutski pripravci; Medicinske infuzije; Flasteri za medicinsku uporabu; Higijenski ulošci; Higijenski taponi; Higijenske gaćice; Pelene za inkontinenciju; Antibakterijska sredstva za pranje ruku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fertőtlenítőszerek; Egészségügyi fehérneműk; Gyógyszerészeti készítmények; Gyógyhatású teák, főzetek; Ragasztószalagok, ragtapaszok orvosi és gyógyászati célokra; Menstruációs betétek; Tamponok; Egészségügyi fehérneműk; Inkontinencia pelenkák; Antibakteriális kézmosók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Disinfettanti; Mutandine igieniche; Preparazioni farmaceutiche; Infusioni medicinali; Nastri adesivi per la medicina; Assorbenti igienici; Tamponi per la mestruazione; Proteggi-slip [prodotti igienici]; Pannolini igienici per persone incontinenti; Prodotti antibatterici per lavare le mani.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dezinfekantai; Higieninės vaikiškos kelnaitės; Farmaciniai preparatai; Gydomosios trauktinės (užpilai); Lipniosios juostelės (medicinos reikmėms); Higieniniai rankšluostukai; Higieniniai tamponai; Kelnaičių įklotai [higieniniai]; Nelaikančiųjų sauskelnės; Antibakteriniai rankų plovimo skysčiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dezinfekcijas līdzekļi; Apakšbikses higiēniskiem nolūkiem; Farmaceitiskie preparāti; Ārstnieciskie uzlējumi; Līmlentes medicīniskiem nolūkiem; Sieviešu higiēniskās paketes; Sieviešu higiēniskie tamponi; Higiēniskās biksītes; Pieaugušo autiņi inkontinences gadījumiem; Antibakteriālie roku mazgāšanas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Diżinfettanti; Qliezet ta' taħt sanitarji; Preparazzjonijiet farmaċewtiċi; Infużjonijiet mediċinali; Faxex adeżivi għall-użu mediku; Faxex tal-mestrwazzjoni; Tampuni; Qliezet ta' taħt sanitarji; Ħrieqi għall-inkontinenza; Ħasil tal-idejn antibatteriku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Desinfectiemiddelen; Menstruatieslips; Farmaceutische producten; Kruidenaftreksels voor medisch gebruik; Kleefband voor medisch gebruik; Maandverband; Menstruatietampons; Inlegkruisjes; Luiers voor incontinenten; Antibacteriële handzeep.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Środki odkażające; Majtki higieniczne; Preparaty farmaceutyczne; Napary lecznicze; Plastry do celów medycznych; Podpaski higieniczne; Tampony; Majtki higieniczne; Pieluchy dla osób cierpiących na inkontynencję; Antybakteryjne środki do mycia rąk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Desinfetantes; Cuecas higiénicas para a menstruação; Preparações farmacêuticas; Infusões medicinais; Fitas adesivas para a medicina; Toalhas higiénicas; Tampões higiénicos para a menstruação; Forro de cuecas [produtos higiénicos]; Fraldas higiénicas para incontinência; Preparações antibacterianas de lavagem de mãos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dezinfectante; Chiloți igienici; Preparate farmaceutice; Infuzii medicinale; Adezive (Benzi -) pentru uz medical; Prosoape sanitare; Tampoane pentru menstruație; Chiloți igienici; Incontinență (Scutece igienice pentru -); Soluții antibacteriene pentru spălarea mâinilor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Dezinfekčné prípravky; Hygienické nohavičky; Farmaceutické prípravky; Liečivé infúzie; Lepiace pásky na lekárske použitie; Hygienické obrúsky; Hygienické tampóny; Vložky na ochranu bielizne (hygienické potreby); Hygienické vložky pre osoby postihnuté inkontinenciou; Antibakteriálne tekuté mydlá.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Razkužila; Sanitarne hlačke; Farmacevtski pripravki; Zdravilne infuzije; Lepilni trakovi za medicinske namene; Menstruacijski vložki; Tamponi; Sanitarne hlačke; Plenice za osebe z inkontinenco; Antibakterijska čistila za roke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Desinfektionsmedel; Sanitetsbyxor; Farmaceutiska preparat; Medicinska infusioner; Häftande band för medicinska ändamål; Dambindor; Menstruationskompresser; Trosskydd; Blöjor för inkontinens; Antibakteriella handtvättmedel.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хирургически маски; Медицински апарати и инструменти; Стоматологично оборудване; Галванични терапевтични прибори; Бебешки шишета; Презервативи; Изкуствена кожа за хирургически цели; Коремни корсети; Материали за затваряне на рани; Диагностични апарати за медицински цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Chirurgické masky; Lékařské přístroje a nástroje; Zařízení pro zubní lékařství; Galvanické terapeutické přístroje; Dětské láhve; Kondomy; Umělá kůže pro chirurgické účely; Břišní korzety; Materiály na šití; Diagnostické přístroje pro lékařské účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Operationsmasker; Medicinske apparater og instrumenter; Tandlægeapparater og -instrumenter; Galvaniske terapeutiske apparater; Sutteflasker; Kondomer; Kunstig hud til kirurgiske formål; Underlivskorsetter; Suturmaterialer; Diagnoseapparater til medicinske formål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Chirurgischer Mundschutz; Medizinische Apparate und Instrumente; Zahnärztliche Apparate und Instrumente; Galvanische Therapiegeräte; Saugflaschen; Präservative [Kondome]; Künstliche Haut für chirurgische Zwecke; Leibhalter; Chirurgisches Nahtmaterial; Diagnosegeräte für medizinische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χειρουργικές μάσκες· Ιατρικά (Συσκευές και όργανα -)· Οδοντιατρικός εξοπλισμός· Γαλβανικές (- θεραπευτικές συσκευές)· Υποδοχείς για θήλαστρα· Προφυλακτικά· Δέρμα τεχνητό για χρήση χειρουργική· Κοιλιακοί κοιλεπίδεσμοι· Υλικό χειρουργικών ραμμάτων· Διαγνωστικές (Συσκευές -) για χρήση ιατρική.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Surgical masks; medical apparatus and instruments; dental apparatus and instruments; galvanic therapeutic appliances; feeding bottles; condoms; artificial skin for surgical purposes; abdominal corsets; suture materials; diagnostic apparatus for medical purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Mascarillas quirúrgicas; Aparatos e instrumentos médicos; Aparatos e instrumentos odontológicos; Aparatos galvánicos para uso terapéutico; Biberones; Preservativos; Piel artificial para uso quirúrgico; Fajas abdominales; Material de sutura; Aparatos de diagnóstico para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kirurgimaskid; Meditsiiniseadmed ja -riistad; Hambaraviseadmed ja -riistad; Galvanoteraapiaseadmed; Lutipudelid; Kondoomid, preservatiivid; Kirurgiline tehisnahk; Kõhukorsetid; Haavaõmblusmaterjalid, sutuurmaterjalid; Meditsiinilised diagnoosiaparaadid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kirurgin naamarit; Lääketieteelliset laitteet ja välineet; Hammaslääketieteelliset laitteet ja välineet; Galvanoterapeuttiset laitteet; Tuttipullot; Kondomit; Keinoiho ihonsiirtoa varten; Pallealiivit; Haavanompelutarvikkeet; Diagnostiset välineet lääketieteellisiin tarkoituksiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Masques chirurgicaux; Appareils et instruments médicaux; Appareils et instruments dentaires; Appareils thérapeutiques galvaniques; Biberons; Préservatifs; Peau artificielle à usage chirurgical; Corsets abdominaux; Matériel pour sutures; Appareils pour le diagnostic à usage médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kirurške maske; Medicinski uređaji i instrumenti; Stomatološka oprema; Galvanski terapeutski uređaji; Spremnici dječjih bočica; Kondomi; Umjetna koža za kirurške potrebe; Trbušni [abdominalni] steznici; Materijal za šivanje rana; Dijagnostički uređaji za medicinske potrebe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sebészeti maszkok; Gyógyászati készülékek és eszközök; Fogászati berendezések; Galvánterápiás készülékek; Cumisüvegtartók; Óvszerek; Mesterséges bőr sebészeti használatra; Hasfűzők; Varratanyagok; Diagnosztikai készülékek gyógyászati használatra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Mascherine chirurgiche; Apparecchi e strumenti medici; Apparecchi e strumenti dentari; Apparecchi terapeutici galvanici; Poppatoi; Preservativi; Pelle artificiale per uso chirurgico; Corsetti addominali; Materiali per suture; Apparecchi per la diagnosi per uso medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Chirurginės kaukės; Medicinos aparatai ir instrumentai; Odontologijos aparatūra ir instrumentai; Galvanoterapijos aparatūra; Žindymo buteliukai; Prezervatyvai; Dirbtinė oda (chirurgijos reikmėms); Pilvo korsetai; Žaizdų siuvimo medžiagos; Diagnostiniai aparatai (medicinos reikmėms).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ķirurģiskās maskas; Medicīniskā aparatūra un instrumenti; Zobārstniecības ierīces un instrumenti; Galvaniskās ierīces terapeitiskiem nolūkiem; Barošanas pudelītes; Prezervatīvi; Mākslīgā āda ķirurģiskiem nolūkiem; Abdominālās korsetes; Ķirurģiskie šuvju materiāli; Diagnostikas ierīces medicīniskiem nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Maskri kirurġiċi; Apparat u strumenti mediċi; Tagħmir dentali; Tagħmir terapewtiku galvaniku; Reċipjenti bħala fliexken għat-tmigħ tat-trabi; Kondoms; Ġilda artifiċjali għal skopijiet kirurġiċi; Kriepet addominali; Materjali għas-sutura; Apparat dijanjostiku għal skopijiet mediċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Maskers voor chirurgisch gebruik; Medische apparaten en instrumenten; Tandheelkundige apparaten en instrumenten; Galvanische apparaten voor therapeutisch gebruik; Zuigflessen; Condooms; Kunsthuid voor geneeskundig gebruik; Korsetten voor de onderbuik; Hechtmateriaal; Diagnostische apparaten voor medisch gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maski chirurgiczne; Urządzenia i instrumenty medyczne; Przyrządy i przybory dentystyczne; Galwaniczna aparatura terapeutyczna; Pojemniki na butelki do karmienia; Prezerwatywy; Sztuczna skóra do celów chirurgicznych; Gorsety brzuszne; Materiały do zszywania; Aparatura diagnostyczna do celów medycznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máscaras cirúrgicas; Aparelhos e instrumentos médicos; Aparelhos e instrumentos dentários; Aparelhos terapêuticos galvânicos; Biberons [biberões]; Preservativos; Pele artificial para cirurgia; Corpetes abdominais; Material para suturas; Aparelhos de diagnóstico para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Măști chirurgicale; Aparate și instrumente medicale; Echipament stomatologic; Aparate pentru terapie galvanică; Recipiente pentru biberoane; Prezervative; Piele artificială pentru uz chirurgical; Corsete abdominale; Suturi (Materiale pentru -); Aparate de diagnosticare pentru uz medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Chirurgické masky; Lekárske prístroje a nástroje; Zubárske prístroje a nástroje; Galvanické terapeutické zariadenia; Detské fľaše; Kondómy, prezervatívy; Umelá koža na chirurgické použitie; Brušné korzety; Chirurgické šijacie materiály; Diagnostické prístroje na lekárske použitie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kirurške maske; Medicinski aparati in instrumenti; Zobozdravstveni aparati in instrumenti; Terapevtske naprave z galvanskim tokom; Posodice za stekleničke za hranjenje; Kondomi; Umetna koža za kirurške namene; Trebušni stezniki; Material za šivanje; Diagnostični aparati za medicinske namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Operationsmasker; Medicinska apparater och instrument; Dentala apparater och instrument; Galvaniska terapiapparater; Nappflaskor; Kondomer; Konstgjord hud för kirurgiska ändamål; Bukstödkorsetter; Suturmaterial; Diagnostiska apparater för medicinska ändamål.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15039</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003126383</OppositionIdentifier>
+<OppositionDate>2020-07-20</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>WO</EarlierMarkCountryCode>
+<DesignatedCountryDetails>
+           <DesignatedCountryCode>EM</DesignatedCountryCode>
+          </DesignatedCountryDetails>
+<ApplicationNumber>1399251</ApplicationNumber>
+<ApplicationDate>2018-02-02</ApplicationDate>
+<RegistrationNumber>1399251</RegistrationNumber>
+<RegistrationDate>2018-02-02</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>OVP</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>342185</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>16339</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017950422</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15039</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-05-27</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

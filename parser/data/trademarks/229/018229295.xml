@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-24T08:17:52</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229295</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229295</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-09-22</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-24</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>INSLOVE</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162460055</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229295/000162460055.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>02.09.01</CategoryCode>
+          <CategoryCode>27.03.02</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Грим за мигли; Червила; Лак за нокти; Депилатори; Вани (Козметични препарати за -); Тоалетно мляко за почистване; Гел за избелване на зъбите; Парфюмерия; Козметични средства; Балсами за коса.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Řasenky; Rtěnky; Laky na nehty; Depilační přípravky; Koupele (Kosmetické přípravky do -); Čisticí mléko pro toaletní účely; Bělicí gely na zuby; Parfémy; Kosmetické přípravky; Vlasové kondicionéry.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Mascara; Læbestifter; Neglelak; Hårfjerningsmidler; Badepræparater, kosmetiske; Rensemælk til toiletbrug; Geler til blegning af tænder; Parfumer; Kosmetik; Hårpræparater med balsameffekt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Wimperntusche [Mascara]; Lippenstifte; Nagellack; Enthaarungsmittel; Badezusätze, kosmetische; Reinigungsmilch für Körper- und Schönheitspflege; Zahnbleichgele; Parfüms; Kosmetika; Haarspülungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μάσκαρα· Κραγιόν· Βερνίκια ονύχων· Αποτριχωτικά παρασκευάσματα· Λουτρό (Παρασκευάσματα καλλυντικά για το -)· Γαλακτώματα καλλυντικά· Ζελέ για τη λεύκανση των δοντιών· Αρωματισμού (Προϊόντα -)· Καλλυντικά· Μαλακτικά παρασκευάσματα για τα μαλλιά (κοντίσιονερ).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">mascara; lipsticks; nail varnish; depilatories; cosmetic preparations for baths; cleansing milk for toilet purposes; dental bleaching gels; perfumes; cosmetics; hair conditioners.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Máscara de pestañas; Pintalabios; Esmaltes de uñas; Depilatorios; Preparaciones cosméticas para el baño; Leches limpiadoras de tocador; Geles blanqueadores para uso dental; Perfumes; Cosméticos; Preparaciones para acondicionar el cabello.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ripsmetušš, maskaara; Huulepulgad; Küünelakid; Karvaärastuspreparaadid, karvaärastusained; Kosmeetilised vannipreparaadid; Puhastuspiim [tualett-tarve]; Valgendavad hambageelid; Parfüümid, lõhnaõlid; Kosmeetikavahendid; Juuksepalsamid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Maskara; Huulipunat; Kynsilakat; Ihokarvojen poistovalmisteet; Kylvyissä käytettävät kosmeettiset valmisteet; Puhdistusemulsiot toalettitarkoituksiin; Hampaiden valkaisugeelit; Parfyymit; Kosmetiikka; Hiustenhoitoaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Mascara; Rouge à lèvres; Vernis à ongles; Dépilatoires; Préparations cosmétiques pour le bain; Laits de toilette; Gels pour blanchir les dents; Parfums; Cosmétiques; Après-shampooings.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Maskara; Ruž [rumenilo] za usne; Lak za nokte; Depilatori; Kozmetički pripravci za kupanje; Toaletno mlijeko; Gelovi za izbjeljivanje zuba; Mirisi; Kozmetički proizvodi; Preparati za njegu kose.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szempillaspirál; Ajakrúzsok; Körömlakkok; Szőrtelenítők; Kozmetikai készítmények fürdőkhöz; Tisztító tejek kozmetikai használatra; Fogfehérítő zselék; Illatszer készítmények; Kozmetikai szerek; Hajbalzsamok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Mascara; Rossetti; Smalti per le unghie; Prodotti depilatori; Preparati cosmetici per il bagno; Latte per la toilette; Gel per sbiancare i denti; Profumo; Cosmetici; Balsamo per capelli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dažai [blakstienų ir antakių]; Lūpų dažai; Nagų blizginimo preparatai; Plaukų šalinimo preparatai [depiliatoriai]; Vonių kosmetiniai preparatai; Tualetinis pienelis; Dantų balinimo geliai; Parfumerijos gaminiai; Kosmetika; Plaukų kondicionavimo preparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Skropstu tušas; Lūpukrāsas; Nagu lakas; Depilācijas līdzekļi; Kosmētiskie līdzekļi vannām; Attīroši pieniņi kosmētiskiem nolūkiem; Želejas zobu balināšanai; Smaržas; Kosmētiskie līdzekļi; Matu kondicionieri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Maskara; Lipstik; Verniċ tad-dwiefer; Preparazzjonijiet depilatorji; Banju (Preparazzjonijiet kosmetiċi għall- -); Ħalib kosmetiku; Ġellijiet li jibbliċjaw is-snien; Prodotti ta' fwejjaħ; Kożmetiċi; Preparazzjonijiet għall-ikkondizzjonar tax-xagħar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Mascara; Lippenstift; Nagellak; Ontharingsmiddelen; Cosmetische preparaten voor het baden; Melk voor de toiletverzorging; Gel voor het bleken van de tanden; Parfums; Cosmetica; Conditioners voor het haar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Tusze do rzęs; Pomadki do ust; Lakiery do paznokci; Preparaty do depilacji; Preparaty kosmetyczne do kąpieli; Mleczko oczyszczające do celów kosmetycznych; Żele do wybielania zębów; Produkty perfumeryjne; Kosmetyki; Preparaty odżywcze do włosów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máscara [rímel]; Batons para os lábios; Vernizes para as unhas; Preparações depilatórias; Preparações cosméticas para o banho; Leite de limpeza para uso em toilette; Géis branqueadores para uso dental; Perfumes; Cosméticos; Condicionadores para o cabelo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Rimel; Ruj de buze; Ojă de unghii; Produse pentru depilat; Baie (Preparate cosmetice pentru -); Lapte de curăţare de uz cosmetic; Geluri pentru albirea dinţilor; Parfumerie (Produse de -); Cosmetice; Balsamuri pentru păr.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Špirály na riasy, maskary; Rúže; Laky na nechty; Depilačné prípravky; Kúpeľ (Kozmetické prípravky do -); Čistiace toaletné mlieka; Gély na bielenie zubov; Voňavkárske výrobky; Kozmetické prípravky; Vlasové kondicionéry.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Maskara; Šminke za ustnice; Lak za nohte; Pripravki za depilacijo; Kozmetični pripravki za kopanje; Čistilno mleko za toaletne namene; Geli za beljenje zob; Parfumerijski izdelki; Kozmetični izdelki; Balzami za lase.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Mascara; Läppstift; Nagellack; Hårborttagningspreparat; Kosmetiska preparat för bad; Rengöringsmjölk för toalettändamål; Dentala blekningsgeléer; Parfymerivaror; Kosmetika; Hårbalsam.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>28</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Салонни игри; Игри (Апарати за -); Уреди за трениране на тялото; Уреди за фитнес упражнения; Ръкавици за игри; Игри, които се играят на табло; Топки за игри; Ракети [за игра]; Наколенки [спортни артикули]; Подплънки (Предпазни -) части от спортни облекла.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Společenské hry; Zařízení na hry; Posilovací stroje; Přístroje na tělesná cvičení; Rukavice na hry; Deskové hry; Míče na míčové hry; Pálky [sportovní náčiní]; Kolení chrániče [sportovní potřeby]; Ochranné vycpávky [jako součást sportovní výstroje].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Selskabsspil; Apparater til spil; Apparater til bodybuilding; Maskiner til legemsøvelser; Handsker til sport [sportsudstyr]; Brætspil; Bolde til spil; Ketchere; Knæbeskyttere til atletik; Beskyttende polstringsmaterialer [sportsdragter].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Gesellschaftsspiele; Geräte für Spiele; Bodybuilding-Geräte; Geräte für Körperübungen; Handschuhe [Zubehör für Spiele]; Brettspiele; Spielbälle; Spielsportschläger; Knieschützer [Sportartikel]; Schutzpolster [Sportausrüstungen].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παιχνίδια για πάρτι· Συσκευές για παιχνίδια· Αποκατάστασης σώματος συσκευές· Συσκευές άσκησης και γυμναστικής· Γάντια [εξαρτήματα παιχνιδιού]· Παιχνίδια επιτραπέζια· Μπάλες για παιχνίδια· Ρακέτες· Επιγονατίδες για αθλητική χρήση· Προστασίας (παρεμβύσματα) [μέρη αθλητικών ένδυσης].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">parlor games; apparatus for games; body-training apparatus; machines for physical exercises; gloves for games; board games; balls for games; rackets; knee guards [sports articles]; protective paddings [parts of sports suits].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Juegos de sociedad; Aparatos para juegos; Aparatos de culturismo; Aparatos para ejercicios físicos; Guantes [accesorios para juegos]; Juegos de mesa; Balones y pelotas de juego; Raquetas; Rodilleras [artículos de deporte]; Protectores acolchados [partes de ropa de deporte].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Seltskonnamängud; Mänguseadmed; Kehalise treeningu seadmed; Jõuharjutuste seadmed; Sportmängukindad; Lauamängud; Pallid; Reketid; Põlvekaitsmed sportimisel kasutamiseks; Kaitsepadjad [spordiriietuse osad].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Seurapelit; Pelilaitteet; Kehonrakennusvälineet; Kuntosalilaitteet; Käsineet (Peli -); Lautapelit; Pelipallot; Mailat peleihin; Polvisuojukset [urheiluun]; Suojapehmusteet [urheiluasujen osina].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Jeux de société; Appareils pour jeux; Appareils pour le culturisme; Machines de fitness; Gants [accessoires de jeux]; Jeux de table; Ballons de jeu; Raquettes; Protège-genoux [articles de sport]; Rembourrages de protection [parties d'habillement de sport].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Društvene igre; Aparati za igre; Sprave za body building; Aparati za tjelovježbu; Rukavice [oprema za igru]; Društvene igre; Lopte za igre; Reketi; Sportski štitnici za koljena; Zaštitne ispune za sportsku odjeću [jastučići].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Társasjátékok; Berendezések játékokhoz; Testedző berendezések; Fitnesz gépek; Kesztyűk [játékok tartozékai]; Táblajátékok; Labdák játékokhoz; Ütők játékokhoz; Térdvédők [sportcikkek]; Védőpárnázatok, védőtömések [sportruházat részei].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Giochi di società; Apparecchi per giochi; Apparecchi per il culturismo; Attrezzi per esercizi fisici; Guanti [accessori per giochi]; Giochi da tavolo; Palloni da gioco; Racchette; Paraginocchia [articoli sportivi]; Imbottiture di protezione [parti dell'abbigliamento sportivo].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kambariniai žaidimai; Žaidimų aparatai; Fizinių pratimų prietaisai [kūnui treniruoti]; Fizinių pratimų prietaisai; Žaidimų pirštinės; Stalo žaidimai; Žaidimų kamuoliai; Raketės; Kelių apsaugos [sporto reikmenys]; Apsauginės pagalvėlės [sportinių kostiumų dalys].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Galda spēles; Spēļu automāti; Rehabilitācijas ierīces; Trenažieri; Spēļu cimdi; Galda spēles; Rotaļu baloni; Raketes; Ceļu sargi lietošanai atlētikā; Aizsargpolsteri [sporta apģērbu sastāvdaļa].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Logħob tad-dar; Logħob (Apparat għall -); Apparat għat-taħriġ tal-muskoli; Eżerċizzju fiżiku (Magni għall- -); Ingwanti għall-użu fil-logħob; Logħob tal-bord; Blalen għal-logħob; Rakketti; Protezzjoni għall-irkoppa għall-użu atletiku; Kuttunar protettiv [partijiet minn ilbies sportiv].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Gezelschapsspellen; Spelapparatuur; Fitnesstoestellen; Toestellen voor lichaamsoefeningen; Handschoenen [speeltoebehoren]; Bordspellen; Ballen voor spellen; Rackets; Kniebeschermers [sportartikelen]; Beschermende vullingen [delen van sportkleding].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Gry towarzyskie; Urządzenia do gier; Przyrządy stosowane do ćwiczeń fizycznych; Maszyny do ćwiczeń sprawnościowych; Rękawice do gier; Gry planszowe; Piłki do gier; Rakiety [rakietki]; Nakolanniki [artykuły sportowe]; Ochraniacze [części strojów sportowych].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Jogos de sociedade; Aparelhos para jogos, sem ser os adaptados para uso com um monitor; Aparelhos para o culturismo; Máquinas para exercício físico; Luvas [acessórios de jogos]; Jogos de tabuleiro; Bolas para jogos; Raquetas; Joelheiras [artigos de desporto]; Almofadas de proteção [partes de vestuário de desporto].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Jocuri de societate; Aparate pentru jocuri; Aparate pentru culturism; Aparate pentru exerciţii fizice; Mănuşi [accesorii de joc]; Jocuri de masă; Mingi pentru jocuri; Rachete; Apărători de genunchi [articole de sport]; Căptuşeli de protecţie [piese vestimentare de sport].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Spoločenské hry; Prístroje na hry; Posilňovacie stroje; Stroje na telesné cvičenia; Hracie rukavice; Stolové hry; Lopty na hranie; Rakety (športové náradie); Chrániče na kolená (športový tovar); Ochranné vypchávky (časti športových úborov).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Družabne igre; Igralni aparati; Naprave za telovadbo; Naprave za telesno vadbo; Rokavice za igre; Igre na deski; Žoge,večje; Loparji; Ščitniki za kolena [izdelki za šport]; Zaščitne blazinice [del športne opreme].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Sällskapsspel; Spelkonsoller; Träningsapparater; Maskiner för fysisk träning; Handskar för spel; Brädspel; Bollar för spel; Racketar; Knäskydd för idrott; Madrasseringar (skydds- -) [delar av idrottskläder].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/110</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/183</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082058</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>71845</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-27T18:04:17</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226522</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226522</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-23</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>GINSECCO by Gigi</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>32</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Минерална вода [напитка]; Газирана вода; Плодови напитки; Сокове; Безалкохолни напитки; Бира и пивоварни продукти; Ароматизирани газирани напитки; Препарати за приготвяне на безалкохолни напитки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Minerální vody [nápoje]; Perlivé vody; Ovocné nápoje; Ovocné šťávy; Nealkoholické nápoje; Pivo a pivovarnické výrobky; Ochucené sycené nápoje; Přípravky pro výrobu nápojů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Mineralvand [drikkevarer]; Kulsyreholdige vande; Frugtdrikke; Juice og saft; Softdrinks; Øl og bryggeriprodukter; Smagstilsatte, karbonerede drikkevarer; Ikke-alkoholholdige præparater til fremstilling af drikke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Mineralwässer; Kohlensäurehaltige Wässer; Fruchtgetränke; Fruchtsäfte; Alkoholfreie Getränke; Bier und Brauereiprodukte; Aromatisierte, kohlensäurehaltige Getränke; Alkoholfreie Präparate für die Zubereitung von Getränken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ύδατα μεταλλικά [ποτά]· Ύδωρ αεριούχο· Ποτά φρούτων· Χυμοί· Μη αλκοολούχα ποτά· Μπύρα και προϊόντα ζυθοποιίας· Αρωματισμένα ανθρακουχα ποτα· Παρασκευάσματα ποτοποιίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Mineral water [beverages]; Aerated water; Fruit drinks; Juices; Soft drinks; Beer and brewery products; Flavoured carbonated beverages; Non-alcoholic preparations for making beverages.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aguas minerales [bebidas]; Aguas gaseosas; Bebidas de frutas; Zumos; Bebidas refrescantes sin alcohol; Cervezas y sus derivados; Bebidas carbonatadas con sabores; Preparados para la elaboración de bebidas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mineraalvesi [jook]; Gaseeritud vesi, gaseervesi; Puuviljajoogid; Mahlad; Alkoholivabad karastusjoogid; Õlu ja pruulikojatooted; Maitsestatud gaseeritud joogid; Alkoholivabad jookide valmistamise preparaadid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kivennäisvesi; Hiilihappovesi; Hedelmäjuomat; Hedelmätuoremehut; Virvoitusjuomat; Oluet ja panimotuotteet; Maustetut hiilihappoiset juomat; Juomien valmistusaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Eaux minérales [boissons]; Eaux gazeuses; Boissons aux fruits; Jus; Boissons sans alcool; Bière et produits de brasserie; Boissons gazeuses aromatisées; Préparations pour faire des boissons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Mineralne vode [piće]; Gazirana voda; Voćna pića; Sokovi; Bezalkoholna pića; Pivo i pivarski proizvodi; Aromatizirana gazirana pića; Pripravci za pripremu pića.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ásványvíz [italok]; Szénsavas víz; Gyümölcsitalok; Gyümölcslevek; Üdítőitalok; Sörök és sörtermékek; Ízesített szénsavas italok; Készítmények italokhoz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Acque minerali [bevande]; Acque gassate; Bevande alla frutta; Succhi di frutta; Bevande non alcoliche; Birre e prodotti derivati; Bevande gassate aromatizzate; Preparati per fare bevande.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mineralinis vanduo [gėrimas]; Aeruotas vanduo; Vaisių gėrimai; Vaisių sultys; Nealkoholiniai gėrimai; Alus ir alaus produktai; Aromatizuoti gazuoti gėrimai; Gaiviųjų gėrimų gaminimo preparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Minerālūdeņi; Gāzēti ūdeņi; Augļu dzērieni; Sulas; Bezalkoholiski gāzētie dzērieni; Alus un alus darītavu produkti; Aromatizēti gāzēti dzērieni; Sastāvdaļas dzērienu pagatavošanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ilma minerali [xarbiet]; Ilma effervexxenti; Xarbiet tal-frott; Meraq; Xarbiet mhux alkoħoliċi; Birra u prodotti tal-birrerija; Xarbiet karbonati bit-togħma; Preparazzjonijiet biex isiru x-xarbiet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Mineraalwater [dranken]; Koolzuurhoudende dranken; Vruchtendranken; Vruchtensappen; Frisdrank; Bier en brouwerijproducten; Gearomatiseerde koolzuurhoudende dranken; Niet alcoholische preparaten voor de bereiding van dranken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Woda mineralna [napoje]; Woda gazowana; Napoje owocowe; Soki; Napoje bezalkoholowe; Piwo i produkty piwowarskie; Aromatyzowane napoje gazowane; Bezalkoholowe preparaty do produkcji napojów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Águas minerais [bebidas]; Águas gasosas; Bebidas de fruta; Sumos; Bebidas sem álcool; Cerveja e produtos de cervejaria; Bebidas gaseificadas com sabores; Preparações para fazer bebidas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Ape minerale [băuturi]; Apă gazoasă [sifon]; Băuturi de fructe; Sucuri; Băuturi nealcoolice; Bere și produse de bere; Băuturi carbogazoase aromatizate; Băuturi [preparate pentru fabricarea -lor].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Minerálne vody (nápoje); Sýtené vody; Ovocné nápoje; Ovocné džúsy; Nealkoholické nápoje; Pivo a pivovarnícke produkty; Ochutené sýtené nápoje; Prípravky na výrobu nápojov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Mineralna voda; Gazirana voda; Sadne pijače; Sokovi; Brezalkoholne pijače; Pivo in pivovarski proizvodi; Aromatizirane gazirane pijače; Preparati za izdelavo pijač.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Mineralvatten [dryck]; Kolsyrat vatten; Fruktdrycker; Fruktjuicer; Läskedrycker; Öl och bryggeriprodukter; Smaksatta kolsyrade drycker; Preparat för tillverkning av drycker.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>33</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Алкохолни напитки (с изключение на бира); Вино; Пенливи вина; Спиртни напитки; Ликьори; Коктейли; Алкохолни смеси за коктейли; Предварително смесени алкохолни напитки, с изключение на тези на базата на бира; Напитки със съдържание на вино [напитка от бяло вино и минерална вода]; Алкохолни заготовки за приготвяне на напитки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Alkoholické nápoje s výjimkou piva; Víno; Šumivá vína; Lihoviny [nápoje]; Likéry; Koktejly; Alkoholické koktejlové směsi; Předem namíchané alkoholické nápoje, s výjimkou nápojů na bázi piva; Nápoje obsahující víno (střiky); Alkoholické přípravky pro výrobu nápojů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Alkoholholdige drikke, undtagen øl; Vin; Mousserende vin; Spirituosa; Likører; Cocktails; Alkoholholdige cocktailblandinger; Færdigblandede alkoholholdige drikkevarer, andre end sådanne baseret på øl; Vinholdige drikke [spritzers]; Alkoholholdige præparater til fremstilling af drikke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Alkoholische Getränke, ausgenommen Bier; Weine; Schaumweine; Spirituosen; Liköre; Cocktails; Alkoholische Cocktailmischungen; Alkoholische Mischgetränke, ausgenommen Biermischgetränke; Weinhaltige Getränke [Weinschorlen]; Destillierte Spirituosen; Alkoholische Präparate für die Zubereitung von Getränken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αλκοολούχα ποτά (εκτός μπύρας)· Κρασί· Αφρώδη κρασιά· Αλκοολούχα δυνατά ποτά· Ηδύποτα· Κοκταίηλ· Μείγματα για οινοπνευματώδη κοκτέιλ· Προαναμεμειγμένα οινοπνευματώδη ποτά, εκτός από αυτά με βάση τον ζύθο· Ποτά που περιέχουν οίνο· Οινοπνευματώδη παρασκευάσματα για ποτά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Alcoholic beverages (except beer); Wine; Sparkling wines; Spirits [beverages]; Liqueurs; Cocktails; Alcoholic cocktail mixes; Pre-mixed alcoholic beverages, other than beer-based; Beverages containing wine [spritzers]; Alcoholic preparations for making beverages.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bebidas alcohólicas (excepto cervezas); Vinos; Vinos espumosos; Bebidas espirituosas; Licores; Cócteles; Mezclas con alcohol para cócteles; Bebidas alcohólicas premezcladas que no sean a base de cerveza; Bebidas que contienen vino [spritzers]; Preparados alcohólicos para elaborar bebidas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Alkoholjoogid, v.a õlu; Vein; Vahuveinid; Piiritusjoogid; Liköörid; Kokteilid; Alkoholiga kokteilisegud; Valmissegatud alkoholjoogid, v.a õllepõhised; Veini sisaldavad joogid [spritzerid]; Alkohoolsed joogivalmistusained.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Alkoholijuomat (paitsi oluet); Viinit; Kuohuviinit; Väkijuomat; Liköörit; Cocktailjuomat; Alkoholia sisältävät cocktailsekoitukset; Valmiiksi sekoitetut alkoholijuomat, muut kuin olutpohjaiset; Viinipitoiset juomat [viinijuomat]; Alkoholia sisältävät juomien valmistusaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Boissons alcoolisées à l'exception des bières; Vin; Vins effervescents; Spiritueux; Liqueurs; Cocktails; Mélanges alcoolisés pour cocktails; Boissons alcoolisées pré-mélangées autres qu'à base de bière; Boissons contenant du vin [spritzers]; Préparations alcooliques pour la fabrication de boissons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Alkoholna pića (osim piva); Vino; Pjenušava vina; Žestoka pića (napitci); Likeri; Kokteli; Alkoholne mješavine za koktele; Alkoholna pića (unaprijed pomiješana alkoholna pića, osim onih na bazi piva); Napitci s vinom [špriceri]; Alkoholni pripravci za pripremanje napitaka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Alkoholos italok (sörök kivételével); Borok; Habzóbor, pezsgő; Szeszes italok; Likőrök; Koktélok; Alkoholtartalmú koktélkeverékek; Kevert alkoholos italok, nem söralapú; Bort tartalmazó italok [fröccsök]; Alkoholos készítmények italok készítéséhez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Bevande alcoliche (eccetto le birre); Vino; Vini frizzanti; Alcoolici; Liquori; Cocktails; Miscele per cocktail alcolici; Bevande alcooliche premiscelate, tranne che a base di birra; Bevande contenenti vino [spritzer]; Preparati alcolici per fare bevande.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Svaigieji gėrimai [išskyrus alų]; Vynas; Putojantis vynas; Spiritiniai gėrimai; Likeriai; Kokteiliai; Alkoholiniai kokteiliniai mišiniai; Sumaišyti svaigieji gėrimai (išskyrus alaus gėrimus); Vyno gėrimai [baltas vynas su gazuotu mineraliniu vandeniu]; Alkoholiniai gėrimų gaminimo preparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Alkoholiskie dzērieni, izņemot alu; Vīni; Dzirkstošie vīni; Spirtotie dzērieni; Liķieri; Alkoholiskie kokteiļi; Alkoholiski kokteiļu maisījumi; Lietošanai gatavi alkoholiskie kokteiļi, kas nav uz alus bāzes; Vīnu saturošie dzērieni (vīns ar gāzētu ūdeni); Alkoholiskas sastāvdaļas dzērienu pagatavošanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xarbiet alkoħoliċi (minbarra birra); Inbid; Inbid frizzanti; Spirti [xorb]; Likur; Koktejls; Taħlitiet ta' koktejls alkoħoliċi; Xarbiet alkoħoliċi mħallta minn qabel, mingħajr dawk ibbażati fuq il-birra; Xarbiet li fihom l-inbid (spritzers); Preparazzjonijiet alkoħoliċi għat-tħejjija tax-xorb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Alcoholische dranken, uitgezonderd bier; Wijn; Mousserende wijnen; Spiritualiën; Likeuren; Cocktails; Alcoholmixen voor cocktails; Alcoholhoudende mixdranken, anders dan bier; Wijnhoudende dranken [wijn met spuitwater]; Alcoholische preparaten voor de bereiding van dranken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Napoje alkoholowe (z wyjątkiem piwa); Wino; Wina musujące; Alkohole wysokoprocentowe [napoje]; Likiery; Koktajle; Mieszanki koktajli alkoholowych; Gotowe napoje alkoholowe inne niż na bazie piwa; Napoje zawierające wino [szprycer]; Preparaty alkoholowe do sporządzania napojów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bebidas alcoólicas (excluindo cerveja); Vinho; Vinhos espumantes; Bebidas espirituosas; Licores; Cocktails; Cocktails alcoólicos preparados; Bebidas alcoólicas pré-misturadas, outras que não à base de cerveja; Bebidas que contêm vinho [spritzers]; Preparações alcoólicas para fazer bebidas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Băuturi alcoolice (cu excepția berii); Vin; Vinuri spumante; Băuturi spirtoase; Lichioruri; Cocteiluri; Amestecuri alcoolice pentru cocteiluri; Băuturi alcoolice pre-amestecate, altele decât cele bazate pe bere; Băuturi care conțin vin [șprițuri]; Preparate alcoolice pentru fabricarea băuturilor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Alkoholické nápoje okrem piva; Víno; Šumivá vína; Liehoviny; Likéry; Koktaily; Alkoholické kokteilové zmesi; Vopred pripravené miešané alkoholické nápoje (nie s pivom); Nápoje obsahujúce víno [vínne streky]; Alkoholické prípravky na výrobu nápojov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Alkoholne pijače (razen piva); Vino; Peneča vina; Žgane alkoholne pijače; Likerji; Koktajli; Mešanice za alkoholne koktajle; Vnaprej pripravljene mešanice alkoholnih pijač, ki niso na osnovi piva; Pijače, ki vsebujejo vino [mešana pijača z mineralno vodo ali sodavico]; Alkoholni pripravki za pripravo pijač.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Alkoholhaltiga drycker, inte öl; Viner; Mousserande viner; Sprit [drycker]; Likörer; Cocktailar; Alkoholhaltiga cocktailblandningar; Färdigblandade alkoholdrycker, andra än öl-baserade; Vin med läskedryck; Alkoholhaltiga preparat för framställning av drycker.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/077</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>40572</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>95662</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003126626</OppositionIdentifier>
+<OppositionDate>2020-07-23</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>018023928</ApplicationNumber>
+<ApplicationDate>2019-02-18</ApplicationDate>
+<RegistrationNumber>018023928</RegistrationNumber>
+<RegistrationDate>2019-08-22</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>GIGI EN PROVENCE</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>1107763</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>29070</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017730287</RecordIdentifier>
+<BasicRecordKind>Representative - Change of name and professional address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>95662</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-04-27</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

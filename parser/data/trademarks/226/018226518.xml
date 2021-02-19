@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-17T09:59:29</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226518</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226518</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-13</RegistrationDate>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SEYYAR</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162318690</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226518/000162318690.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.05.25</CategoryCode>
+          <CategoryCode>25.05.99</CategoryCode>
+          <CategoryCode>26.01.03</CategoryCode>
+          <CategoryCode>26.01.18</CategoryCode>
+          <CategoryCode>26.01.19</CategoryCode>
+          <CategoryCode>27.05.19</CategoryCode>
+          <CategoryCode>27.05.21</CategoryCode>
+          <CategoryCode>27.99.19</CategoryCode>
+          <CategoryCode>29.01.05</CategoryCode>
+          <CategoryCode>29.01.98</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за търговия на дребно в областите: храни; Онлайн продажба на дребно на хранителни продукти; Услуги на търговията на едро в областта на хранителните стоки; Осигуряване на онлайн пазар за покупко-продажби на стоки и услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Maloobchodní služby v oboru potravin; On-line maloobchod s potravinami; Velkoobchodní služby v oboru potravin; Provozování online trhu pro kupující a prodejce výrobků a služeb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Detailhandel med levnedsmidler; Postordrehandel online med levnedsmidler; Engroshandel med næringsmidler; Tilvejebringelse af en onlinemarkedsplads til købere og sælgere af varer og tjenesteydelser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Einzelhandelsdienstleistungen in den Bereichen Lebensmittel; Online-Versandhandelsdienstleistungen in Bezug auf Nahrungsmittel; Großhandelsdienstleistungen im Bereich Lebensmittel; Bereitstellen eines Online-Marktplatzes für Käufer und Verkäufer von Waren und Dienstleistungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες λιανικής πώλησης σε σχέση με τρόφιμα· Λιανική πώληση μέσω του Διαδικτύου σε σχέση με προϊόντα διατροφής· Υπηρεσίες χονδρικής πώλησης στον τομέα των τροφίμων· Παροχή χώρων αγορών επί γραμμής για αγοραστές και πωλητές προϊόντων και υπηρεσιών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Retailing in the fields of foodstuffs; Online retailing of foodstuffs; Wholesaling of foodstuffs; Provision of an on-line marketplace for buyers and sellers of goods and services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de venta minorista de alimentos; Venta al por menor por internet de productos de alimentación; Venta mayorista de alimentos; Suministro de espacios de venta en línea para vendedores y compradores de productos y servicios.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Järgmiste kaupade jaemüügiteenused: toiduained; Toidukaupade sidusjaemüük; Hulgikaubandusteenused toiduainete valdkonnas; Veebipõhise müügikeskkonna pakkumine kaupade ja teenuste ostjatele ning müüjatele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vähittäiskauppapalvelut elintarvikealalla; Elintarvikkeiden vähittäismyynti Internetin kautta; Tukkukauppapalvelut elintarvikkeiden alalla; Online-markkinapaikan tarjoaminen tavaroiden ja palvelujen ostajille ja myyjille.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de commerce de détail d'aliments; Services de vente au détail de produits alimentaires; Services de commerce de gros d'aliments; Mise à disposition d'espaces de vente en ligne pour acheteurs et vendeurs de produits et services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge prodaje na malo prehrambenih artikala; Maloprodaja prehrambenih proizvoda putem interneta; Veleprodajne usluge u području prehrambenih proizvoda; Pružanje internetskog tržišnog prostora za kupce i prodavatelje proizvoda i usluga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kiskereskedelmi szolgáltatások az élelmiszerek területén; Élelmiszertermékek online kiskereskedelme; Nagykereskedelmi szolgáltatások az élelmiszerek területén; Online piactér biztosítása áruk és szolgáltatások eladói és vásárlói részére.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di vendita al dettaglio nei settori degli alimenti; Servizi di vendita al dettaglio online in relazione a prodotti alimentari; Servizi di vendita all'ingrosso nel settore degli alimenti; Fornitura su mercato on-line di beni e servizi per acquirenti e venditori.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mažmeninė prekyba maisto produktais; internetinė mažmeninė prekyba maisto produktais; Didmeninė prekyba maisto produktais; Interneto prekyviečių teikimas prekių ir paslaugų pardavėjams bei pirkėjams.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mazumtirdzniecības pakalpojumi šādās jomās: pārtika; Pārtikas produktu mazumtirdzniecība internetā; Vairumtirdzniecības pakalpojumi saistībā ar pārtikas produktiem; Tiešsaistes tirgus nodrošināšana preču un pakalpojumu pārdevējiem un pircējiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' bejgħ bl-imnut fl-oqsma tal-ikel; Bejgħ bl-imnut onlajn ta' prodotti tal-ikel; Servizzi ta' negozju bl-ingrossa fil-qasam ta' ikel; Forniment ta' suq onlajn għal xerrejja u bejjiegħa ta' prodotti u servizzi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Detailhandelsdiensten op het gebied van levensmiddelen; Online detailhandelsdiensten op het gebied van levensmiddelen; Groothandelsdiensten op het gebied van levensmiddelen; Ter beschikking stellen van online verkoopplaats voor kopers en verkopers van goederen en diensten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi handlu detalicznego w zakresie żywności; Internetowa sprzedaż detaliczna artykułów spożywczych; Usługi handlu hurtowego w dziedzinie artykułów spożywczych; Zapewnianie platformy internetowej dla nabywców i sprzedawców towarów i usług.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de comércio retalhista de alimentos; Venda a retalho online de bens alimentares; Serviços de comércio grossista no sector alimentar; Disponibilização de um espaço de mercado on-line para compradores e vendedores de produtos e serviços.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de vânzare cu amănuntul în domeniile: alimente; Comerţ cu amănuntul online cu produse alimentare; Servicii de comerţ cu ridicata în domeniul alimentelor; Furnizarea unei pieţe online pentru cumpărătorii şi vânzătorii de bunuri şi servicii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Maloobchodné služby v oblastiach potraviny; Online maloobchod s potravinami; Veľkoobchodné služby v oblasti potravín; Online poskytovanie obchodného priestoru pre nákupcov a predajcov tovarov a služieb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Maloprodajne storitve na področju izdelkov, kot so živila; Internetna maloprodaja prehrambnih izdelkov; Veleprodajne storitve na področju živil; Zagotavljanje spletnega trga za kupce in prodajalce blaga in storitev.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Detaljhandelstjänster inom områdena livsmedel; Återförsäljartjänster via internet av livsmedel; Grosshandelstjänster avseende livsmedel; Tillhandahållande av en marknadsplats on-line för köpare och säljare av varor och tjänster.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>39</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за транспортиране на храна; Транспортни услуги; Услуги свързани с доставки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby v oblasti doručování potravin; Dopravní služby; Doručovací služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tjenester inden for udbringning af mad; Transporttjenesteydelser; Udbringningsvirksomhed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Transport von Nahrungsmitteln; Transportdienste; Versanddienste.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες μεταφοράς τροφίμων· Μεταφορικές υπηρεσίες· Υπηρεσίες παράδοσης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Food delivery services; Transport services; Delivery services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de entrega de alimentos; Servicios de transportes; Servicios de reparto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toidu kohaletoimetamise teenused; Veoteenused; Kohaletoimetamisteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Elintarvikkeiden toimituspalvelut; Kuljetuspalvelut; Jakelupalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de livraison d'aliments; Services de transport; Services de livraison.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge dostave hrane; Prijevozne usluge; Usluge dostave.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Étel házhozszállítás; Szállítási szolgáltatások nyújtása; Kézbesítési szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di consegna di prodotti alimentari; Servizi di trasporto; Spedizioni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Maisto pristatymo paslaugos; Vežimo paslaugos; Pristatymo paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ēdiena piegādes pakalpojumi; Pārvadājumi ar kravas automašīnām; Piegādes pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' kunsinna tal-ikel; Servizzi ta' trasport; Servizz ta' kunsinna.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Vervoer van levensmiddelen; Transportdiensten; Bezorgdiensten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Dostawa żywności; Usługi transportowe; Usługi dostawcze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de entrega de alimentos; Serviços de transporte; Serviços de entregas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de livrare a alimentelor; Servicii de transport; Servicii de livrare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Služby v oblasti prepravy potravín; Prepravné služby; Donáškové služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Dostava jedi; Prevozniške storitve; Dostavne storitve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Transport av livsmedel; Transporttjänster; Leveranstjänster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/084</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/154</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-14</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080439</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>73035</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

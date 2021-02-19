@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-17T08:58:59</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226138</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226138</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-13</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Tri-win Pandaman</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Дезинфектанти; Дезинфектанти за хигиенни цели; Хранителни добавки за медицински цели; Препарати за дезинфекция на ръце; Пестициди; Антисептици; Препарати за пречистване на въздуха; Дезинфектиращ сапун; Превръзки за очи за медицински цели; Превръзки [лечебни].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Dezinfekční přípravky; Dezinfekční prostředky pro hygienické účely; Výživové doplňky; Přípravky k dezinfekci rukou; Pesticidy; Antiseptika; Přípravky na čištění vzduchu; Dezinfekční mýdla; Pásky na oči pro léčebné účely; Krytí (zdravotnické potřeby).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Desinfektionsmidler; Desinfektionsmidler til hygiejniske formål; Næringstilskud; Præparater til hånddesinfektion; Pesticider; Antiseptiske midler; Luftrensepræparater; Desinficerende sæbe; Øjenklapper til medicinske formål; Forbindsmaterialer, medicinske.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Desinfektionsmittel; Desinfektionsmittel für hygienische Zwecke; Nahrungsergänzungsmittel; Handdesinfektionsmittel; Pestizide; Antiseptika; Luftreinigungsmittel; Desinfizierende Seifen; Augenklappen für medizinische Zwecke; Verbandmaterial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Απολυμαντικά· Απολυμαντικά για υγειονομική χρήση· Συμπληρώματα διατροφής· Παρασκευάσματα υγιεινής για τα χέρια· Φυτοφάρμακα· Αντισηπτικά· Αέρα (Προϊόντα διήθησης -)· Απολυμαντικά σαπούνια· Προστατευτικά καλύμματα ματιού για ιατρική χρήση· Υλικά επίδεσης, ιατρικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">disinfectants; disinfectants for hygiene purposes; nutritional supplements; hand-sanitizing preparations; pesticides; antiseptics; air purifying preparations; disinfectant soap; eyepatches for medical purposes; dressings, medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Desinfectantes; Desinfectantes para uso higiénico; Complementos nutricionales; Preparaciones para desinfectar las manos; Pesticidas; Antisépticos; Productos para purificar el aire; Jabones desinfectantes; Parches oculares para uso médico; Artículos para apósitos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Desinfektsioonivahendid; Hügieenilised desinfektsioonivahendid; Toidulisandid; Kätehügieeni preparaadid; Pestitsiidid; Antiseptikumid; Õhupuhastusained; Desinfitseeriv seep; Meditsiiniotstarbelised silmalapid; Meditsiinilised sidemed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Desinfiointiaineet; Desinfiointiaineet hygieenisiin tarkoituksiin; Lisäravintoaineet; Käsiendesinfiointivalmisteet; Tuholaistorjunta-aineet; Antiseptiset aineet; Ilmanpuhdistusvalmisteet; Desinfioiva saippua; Silmälaput lääkinnällisiin tarkoituksiin; Sidontatarvikkeet (Haavan -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Désinfectants; Désinfectants à usage hygiénique; Compléments nutritionnels; Préparations assainissantes pour les mains; Pesticides; Antiseptiques; Produits pour la purification de l'air; Savons désinfectants; Caches oculaires à usage médical; Pansements à usage médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dezinfekcijska sredstva; Dezinfekcijska sredstva za higijenske namjene; Hranjivi dodaci; Pripravci za dezinfekciju ruku; Pesticidi; Antiseptici; Zrak (proizvodi za pročišćavanje zraka); Dezinfekcijski sapuni; Štitnici za oči za medicinske potrebe; Medicinske obloge za rane.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fertőtlenítőszerek; Fertőtlenítőszerek higiéniai célokra; Táplálékkiegészítők; Kézfertőtlenítő készítmények; Rovarirtó szerek; Fertőtlenítőszerek, antiszeptikus készítmények; Légtisztító készítmények; Fertőtlenítő szappanok; Szemtapaszok gyógyászati célokra; Orvosi kötszerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Disinfettanti; Disinfettanti per uso igienico; Additivi nutrizionali per uso medico; Preparazioni per la disinfezione delle mani; Pesticidi; Antisettici; Prodotti per la purificazione dell'aria; Saponi disinfettanti; Mascherine oculari ad uso medico; Articoli per medicazioni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dezinfekavimo preparatai; Dezinfekavimo priemonės (higienos reikmėms); Mitybos papildai; Rankų antiseptiniai preparatai; Pesticidai; Antiseptikai [vaistai nuo pūlinės infekcijos]; Oro valymo preparatai; Dezinfekcinis muilas; Akių raiščiai medicinos reikmėms; Tvarsliava [medicininė].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dezinfekcijas līdzekļi; Dezinfekcijas līdzekļi higiēniskiem nolūkiem; Uztura bagātinātāji; Roku dezinficēšanas līdzekļi; Pesticīdi; Antiseptiskie līdzekļi; Gaisa attīrīšanas līdzekļi; Dezinficējošas ziepes; Acu pārsēji medicīniskiem nolūkiem; Pārsēji, medicīniski.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Diżinfettanti; Diżinfettanti għal skopijiet ta' iġjene; Supplimenti ta' nutrizzjoni; Preparazzjonijiet għas-sanitazzjoni tal-idejn; Pestiċidi; Antisettiċi; Preparazzjonijiet li jippurifikaw l-arja; Sapun diżinfettanti; Għata tal-għajnejn għal skopijiet mediċi; Ilbies għall-feriti, mediċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ontsmettingsmiddelen; Desinfecterende middelen voor hygiënisch gebruik; Voedingssupplementen; Steriliserende middelen voor de handen; Middelen ter verdelging van ongedierte; Antiseptische middelen; Luchtzuiveringsmiddelen; Desinfecterende zeep; Ooglapjes voor medisch gebruik; Verbandartikelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Środki odkażające; Środki dezynfekcyjne do celów higienicznych; Odżywcze suplementy diety; Preparaty do dezynfekcji rąk; Pestycydy; Antyseptyki; Środki do oczyszczania powietrza; Mydła dezynfekujące; Przepaski na oczy do celów medycznych; Materiały opatrunkowe, medyczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Desinfectantes; Desinfetantes para uso higiénico; Suplementos nutricionais; Preparações para desinfetar as mãos; Pesticidas; Antisséticos; Preparações para a purificação do ar; Sabão desinfetante; Palas oculares [oclusores] para uso médico; Pensos médicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dezinfectante; Dezinfectante folosite pentru igienă; Suplimente nutritive; Preparate pentru dezinfectarea mâinilor; Pesticide; Antiseptice; Aer (produse pentru purificarea -ului); Săpunuri dezinfectante; Bandaje de uz medical pentru ochi; Pansamente de uz medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Dezinfekčné prostriedky; Dezinfekčné prípravky na hygienické použitie; Výživové doplnky; Prípravky na dezinfekciu rúk; Pesticídy; Antiseptické prípravky, dezinfekčné prípravky; Prípravky na čistenie vzduchu; Dezinfekčné mydlá; Pásky na oči na lekárske použitie; Obväzový materiál.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Dezinfekcijska sredstva; Razkužila za higienske namene; Hranilni dodatki; Pripravki za dezinfekcijo rok; Pesticidi; Antiseptiki; Pripravki za čiščenje zraka; Dezinfekcijsko milo; Očesne blazinice za medicinske namene; Medicinske obveze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Desinfektionsmedel; Desinfektionsmedel för hygieniska ändamål; Näringstillskott; Handsprit; Pesticider; Antiseptiska medel; Luftreningspreparat; Desinficerande tvål; Ögonlappar för medicinska ändamål; Förband (medicinska).</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Санитарни маски за медицински цели; Ръкавици за медицински цели; Подложки за медицински цели; Маски за медицински персонал; Хирургически стерилни покривки за операции; Охлаждащи пластири за медицински цели; Облекло специално за операционни зали; Стоматологично оборудване; Бебешки шишета; Медицински апарати и инструменти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Hygienické masky pro lékařské účely; Rukavice pro lékařské účely; Podušky pro lékařské účely; Roušky pro lékařský personál; Operační roušky; Chladivé náplasti pro lékařské účely; Oděvy určené pro operační sály; Zařízení pro zubní lékařství; Dětské láhve; Lékařské přístroje a nástroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Sanitære masker til medicinske formål; Handsker til medicinske formål; Puder til medicinske formål; Masker til brug for medicinsk personel; Kirurgiske afdækningsstykker; Kølende plastre til medicinske formål; Beklædning specielt til operationsstuer; Tandlægeapparater og -instrumenter; Sutteflasker; Medicinske apparater og instrumenter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Mundschutz für medizinische Zwecke; Handschuhe für medizinische Zwecke; Kissen für medizinische Zwecke; Masken für medizinisches Personal; Operationstücher; Kühlpflaster für medizinische Zwecke; OP-Kleidung; Zahnärztliche Apparate und Instrumente; Babyflaschen; Medizinische Apparate und Instrumente.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μάσκες υγιεινής για ιατρική χρήση· Γάντια ιατρικής χρήσης· Μαξιλάρια για χρήση ιατρική· Μάσκες για το ιατρικό προσωπικό· Σεντόνια χειρουργικά· Ψυκτικά έμπλαστρα για ιατρική χρήση· Ενδύματα (Ειδικά για χειρουργεία -)· Οδοντιατρικός εξοπλισμός· Υποδοχείς για θήλαστρα· Ιατρικά (Συσκευές και όργανα -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">sanitary masks for medical purposes; gloves for medical purposes; cushions for medical purposes; masks for use by medical personnel; surgical drapes; cooling patches for medical purposes; clothing especially for operating rooms; dental apparatus and instruments; feeding bottles; medical apparatus and instruments.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Mascarillas sanitarias para uso médico; Guantes para uso médico; Cojines para uso médico; Mascarillas para personal médico; Sábanas quirúrgicas; Parches de enfriamiento para uso médico; Ropa especial para quirófano; Aparatos e instrumentos odontológicos; Biberones; Aparatos e instrumentos médicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiinilised hügieenilised maskid; Meditsiinilised kindad; Meditsiinilised padjad; Maskid meditsiinipersonalile; Kirurgilised steriilsed riided; Jahutavad meditsiinilised geelplaastrid; Eririietus operatsioonisaalides viibimiseks, operatsiooniriietus; Hambaraviseadmed ja -riistad; Lutipudelid; Meditsiiniseadmed ja -riistad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Saniteettinaamarit lääketieteellisiin tarkoituksiin; Käsineet lääketieteelliseen käyttöön; Tyynyt lääketieteellisiin tarkoituksiin; Suojanaamarit lääkintähenkilökuntaa varten; Leikkausliinat; Viilentävät tyynyt lääkintätarkoituksiin; Vaatteet leikkaussaleja varten, erikoisvalmisteiset; Hammaslääketieteelliset laitteet ja välineet; Tuttipullojen säilytysastiat; Lääketieteelliset laitteet ja välineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Masques hygiéniques à usage médical; Gants à usage médical; Coussins à usage médical; Masques utilisés par le personnel médical; Draps chirurgicaux; Patchs refroidissants à usage médical; Vêtements spéciaux pour salles d'opération; Appareils et instruments dentaires; Supports pour biberons; Appareils et instruments médicaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Sanitarne maske za medicinske svrhe; Rukavice za medicinsku uporabu; Jastuci za medicinske potrebe; Maske za medicinsko osoblje; Plahte za kirurške potrebe; Flasteri za hlađenje, za medicinske potrebe; Specijalna odjeća za operacijske dvorane; Stomatološka oprema; Spremnici dječjih bočica; Medicinski uređaji i instrumenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyógyászati célú egészségügyi maszkok; Kesztyűk gyógyászati használatra; Párnák gyógyászati használatra; Maszkok egészségügyi személyzet általi használatra; Sebészeti lepedők; Hűtőtapaszok gyógyászati célokra; Speciális műtőruházat; Fogászati berendezések; Cumisüvegtartók; Gyógyászati készülékek és eszközök.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Maschere igieniche per uso medico; Guanti per uso medico; Cuscini per uso medico; Maschere utilizzate dal personale medico; Lenzuola chirurgiche; Cerotti freddi per scopi medici; Vestiti speciali per sale operatorie; Apparecchi e strumenti dentari; Recipienti per biberon; Apparecchi e strumenti medici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Sanitarinės kaukės medicinos reikmėms; Pirštinės (medicinos reikmėms); Medicininės pagalvėlės; Kaukės medicinos personalui; Chirurginiai drabužiai; Vėsinantys pleistrai (medicinos reikmėms); Specialieji operaciniai drabužiai; Odontologijos aparatūra ir instrumentai; Žindymo buteliukai; Medicinos aparatai ir instrumentai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Sanitārās maskas medicīniskiem nolūkiem; Cimdi medicīniskiem nolūkiem; Medicīnā izmantojamie spilveni; Medicīnas personālam paredzētās maskas; Ķirurģiskie pārklāji; Atvēsinoši plāksteri medicīniskiem nolūkiem; Speciālie apģērbi operāciju zālēm; Zobārstniecības iekārtas; Barošanas pudelīšu turētāji; Medicīniskā aparatūra un instrumenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Maskri sanitarji għal skopijiet mediċi; Ingwanti għal skopijiet mediċi; Kuxxini għal skopijiet mediċi; Maskri għal personal mediku; Lożor bħala għata għal waqt operazzjonijiet kirurġiċi; Irqajja' tat-tkessiħ għal skopijiet mediċi; Ilbies speċjali għas-swali tal-operazzjonijiet; Tagħmir dentali; Reċipjenti bħala fliexken għat-tmigħ tat-trabi; Apparat u strumenti mediċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Hygiënische maskers voor medische doeleinden; Handschoenen voor medisch gebruik; Kussens voor medisch gebruik; Maskers te gebruiken door medisch personeel; Chirurgische lakens; Koelende patches voor medische doeleinden; Operatiekleding; Tandheelkundige apparaten en instrumenten; Reservoirs voor zuigflessen; Medische apparaten en instrumenten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maski sanitarne do celów medycznych; Rękawice do celów medycznych; Poduszki do celów medycznych; Maski stosowane przez personel medyczny; Okrycia chirurgiczne; Plastry chłodzące do celów medycznych; Odzież specjalna używana w salach operacyjnych; Przyrządy i przybory dentystyczne; Pojemniki na butelki do karmienia; Urządzenia i instrumenty medyczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máscaras higiénicas para uso médico; Luvas para uso médico; Almofadas para uso medicinal; Máscaras para pessoal médico; Lençóis para cirurgia; Bandas de resfriamento para uso clínico; Vestuário especial para salas de operação; Aparelhos e instrumentos dentários; Biberons [biberões]; Aparelhos e instrumentos médicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Măşti sanitare de uz medical; Mănuşi de uz medical; Perne de uz medical; Măşti utilizate de personalul medical; Cearceafuri chirurgicale; Bandaje de răcire pentru uz medical; Haine speciale pentru săli de operaţie; Echipament stomatologic; Recipiente pentru biberoane; Aparate şi instrumente medicale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Sanitárne masky na lekárske účely; Rukavice na lekárske použitie; Podušky na lekárske použitie; Rúška (pre nemocničný personál); Chirurgické plachty; Chladiace náplasti na lekárske účely; Odevy do operačných sál; Zubárske prístroje a nástroje; Detské fľaše; Lekárske prístroje a nástroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Higienske maske za medicinske namene; Rokavice za medicinske namene; Blazine za medicinske namene; Maske za medicinsko osebje; Kirurške rjuhe; Hladilni obliži za medicinske namene; Posebna oblačila za operacijske prostore; Zobozdravstveni aparati in instrumenti; Posodice za stekleničke za hranjenje; Medicinski aparati in instrumenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Sanitetsmasker för medicinska ändamål; Handskar för medicinska ändamål; Kuddar för medicinska ändamål; Munskydd för medicinsk personal; Kirurgiska skynken; Kylande plåster för medicinska ändamål; Kläder för användning i operationsrum; Dentala utrustningar; Nappflaskor; Medicinska apparater och instrument.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/083</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/155</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080349</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15039</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017786248</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15039</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-04-30</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017950422</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15039</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-05-27</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017949846</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15039</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-05-29</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

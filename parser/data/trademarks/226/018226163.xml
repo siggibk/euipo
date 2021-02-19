@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:34:33</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226163</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226163</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>PROUD, STRONG AND NOBLE</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>33</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Джин.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Gin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Gin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Gin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Τζιν.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Gin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Ginebra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Džinn, kadakamarjaviin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Gini.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Genièvre [eau-de-vie].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Klekovača [rakija].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Gin [acquavite].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Džinas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Džins.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ġinn.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Jenever.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Dżin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Gin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Rachiu de ienupăr.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Džin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Gin (žganje z okusom po brinovih jagodah).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Gin.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/078</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-17T10:50:17</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224158</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224158</ApplicationNumber>
+<ApplicationDate>2020-06-17</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="1">Application published</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>JIVA</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162190004</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224158/000162190004.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>02.01.23</CategoryCode>
+          <CategoryCode>02.01.95</CategoryCode>
+          <CategoryCode>24.17.01</CategoryCode>
+          <CategoryCode>26.01.24</CategoryCode>
+          <CategoryCode>26.01.98</CategoryCode>
+          <CategoryCode>27.03.02</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>24</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Кърпи, хавлии от текстил; Хавлиени кърпи; Текстилни изделия за баня; Чаршафи [текстил]; Спално бельо; Покривки за легла; Покривки за легла; Калъфки за възглавници; Олекотени завивки; Пухени завивки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Textilní ručníky; Froté ručníky; Koupelnový textil; Prostěradla [textilie]; Ložní prádlo a přikrývky; Prošívané postelové přehozy a přikrývky; Prošívané postelové přehozy a přikrývky; Povlaky na polštáře; Prošívané pokrývky; Peřiny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Håndklæder af tekstilmateriale; Frottéhåndklæder; Badelinned; Lagener af tekstilmateriale; Sengelinned; Sengetæpper; Sengetæpper; Pyntestykker til hovedpuder; Vattæpper til senge; Dyner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Textilhandtücher; Frottiertücher; Badwäsche; Tücher [Laken]; Bettwäsche und Decken; Tagesdecken für Betten; Tagesdecken für Betten; Kissenbezüge; Decken für Betten; Oberbetten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Πετσέτες· Τούρκικες πετσέτες· Λευκά είδη μπάνιου· Σεντόνια· Λευκά είδη κρεβατιού και κουβέρτες· Καλύμματα κρεβατιού· Καλύμματα κρεβατιού· Μαξιλαροθήκες· Παπλώματα για κρεβάτια· Παπλώματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Towels; terry towels; bath linen; bed sheets; bed linen; bed covers; bedspreads; pillow covers; comforters; duvets.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Toallas de materias textiles; Toallas turcas; Ropa de baño; Sábanas; Ropa de cama; Colchas; Colchas; Fundas decorativas para almohadones de cama; Cobertores (edredones); Edredones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Riidest käterätikud; Türgi rätikud (saunalinad); Vannilinad; Linad, voodilinad [tekstiil]; Voodipesu; Voodikatted; Voodikatted; Padjakatted, padjakotid; Vooderdatud voodikatted; Täidetud tekid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Pyyheliinat; Turkkilaiset pyyhkeet; Kylpytekstiilit; Lakanat [tekstiiliä]; Vuodevaatteet ja huovat; Vuodevaatteet; Vuodevaatteet; Tyynyliinat; Täkit; Untuvapeitot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Serviettes de toilette en matières textiles; Serviettes éponge; Linge de bain; Draps; Linge de lit; Couvre-lits; Housses d'oreillers; Édredons; Couettes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ručnici; Turski ručnik; Tekstil za kupaonicu; Plahte; Posteljina i deke; Popluni s paperjem; Popluni s paperjem; Jastučnice [navlake za jastuke]; Popluni; Popluni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Törölközők; Frottírtörölközők; Fürdőszobai vászonneműk; Lepedők; Ágyneműk és takarók; Ágyterítők, ágytakarók; Ágyterítők, ágytakarók; Párnahuzatok, vánkoshuzatok; Steppelt paplanok, paplanok; Pehelypaplanok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Asciugamani in materie tessili; Asciugamani turchi; Biancheria per il bagno; Lenzuola; Biancheria da letto; Trapunte; Trapunte; Fodere per guanciali; Piumoni per letti; Piumini.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Tekstiliniai rankšluosčiai; Frotiniai rankšluosčiai; Pirties baltiniai; Paklodės [tekstilinės]; Lovos baltiniai; Lovatiesės; Lovatiesės; Pagalvių užtiesalai; Šiltos antklodės; Antklodės (pūkinės).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dvieļi; Frotē dvieļi; Vannas veļa; Auduma palagi; Gultas veļa; Gultas pārklāji; Gultas pārklāji; Spilvenu pārvalki; Vatētas gultas segas; Vatētas segas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xugamani; Xugamani tat-terri; Bjankerija għall-kamra tal-banju; Lożor tas-sodda; Bjankerija tas-sodda u gvieret; Kutri kkuttunati [friex]; Kutri kkuttunati [friex]; Investi għall-imħaded; Kwilts; Duvets.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Handdoeken van textiel; Handdoeken van badstof; Badlinnen; Lakens; Beddengoed en dekens; Bedspreien; Bedspreien; Hoezen voor hoofdkussens; Gewatteerde dekens; Dekbedden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Ręczniki; Ręczniki tureckie; Tekstylne artykuły kąpielowe; Prześcieradła na łóżka; Bielizna pościelowa i koce; Narzuty na łóżka; Narzuty na łóżka; Poszewki na poduszki [poszwy na poduszki]; Kołdry [przykrycia]; Kołdry.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Toalhas em matérias têxteis; Toalhas turcas; Roupa de banho; Lençóis [tecidos]; Roupa de cama e cobertores; Cobertas para cama; Cobertas para cama; Fronhas de travesseiros; Edredões (mantas); Edredões.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Prosoape; Prosoape turcești; Materiale textile pentru baie; Cearșafuri; Huse (lenjerii) și pături pentru pat; Cuverturi matlasate (lenjerie de pat); Cuverturi matlasate (lenjerie de pat); Fețe de pernă; Cuverturi matlasate; Plăpumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Textilné uteráky; Froté uteráky; Kúpeľňový textil; Plachty; Posteľná bielizeň; Posteľné pokrývky; Posteľné pokrývky; Ozdobné obliečky na vankúše; Prešívané prikrývky, paplóny; Páperové prikrývky, periny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Brisače; Brisača iz frotirja; Kopalniško perilo; Posteljne rjuhe; Posteljno perilo in odeje; Posteljna pregrinjala; Posteljna pregrinjala; Prevleke za vzglavnike [prevleke za blazine]; Prešita prekrivala za postelje; Prešite odeje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Textilhanddukar; Frottéhanddukar; Badrumstextilier; Lakan [textil]; Sänglinne; Sängöverkast; Sängöverkast; Överdrag för kuddar; Vadderade täcken; Duntäcken.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/177</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-09-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079030</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>37120</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

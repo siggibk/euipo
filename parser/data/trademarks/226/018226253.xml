@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-17T09:29:41</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226253</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226253</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-13</RegistrationDate>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>WATCHTOWER SECURITY SOLUTIONS</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162303537</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226253/000162303537.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>24.01.03</CategoryCode>
+          <CategoryCode>24.01.20</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Устройства за сигурност, безопасност, защита и сигнализиране; Аларми и оборудване за предупреждение; Сигнални устройства; Защитно и предпазно оборудване; Охранителни видеокамери.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Bezpečnostní, zabezpečovací, ochranná a signalizační zařízení; Alarmy (poplašná zařízení) a výstražná zařízení; Signalizační přístroje; Ochranné a bezpečnostní prostředky; Bezpečnostní kamery.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Sikkerheds-, beskyttelses- og signaleringsindretninger; Alarmer og advarselsudstyr; Apparater til signalering; Beskyttende udstyr og sikkerhedsudstyr; Sikkerhedskameraer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Sicherungs-, Sicherheits-, Schutz- und Signalgeräte sowie -ausrüstung; Alarm- und Warnausrüstung; Signalapparate; Schutz- und Sicherheitsausrüstung; Sicherheitskameras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συσκευές ασφαλείας, προστασίας, προφύλαξης και σηματοδότησης· Συναγερμοί και εξοπλισμός προειδοποίησης· Συσκευές σηματοδότησης· Εξοπλισμός προστασίας και ασφάλειας· Κάμερες ασφαλείας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Safety, security, protection and signalling devices; Alarms and warning equipment; Signalling apparatus; Protective and safety equipment; Security cameras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Dispositivos de señalización, protección, seguridad y salvamento; Equipos de alarma y aviso; Aparatos de señalización; Equipos de protección y seguridad; Cámaras de seguridad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ohutus-, turva-, kaitse- ja signaalseadmed; Alarmid ja hoiatusseadmed; Signaliseerimisaparaadid; Kaitse- ja ohutusseadmed; Turvakaamerad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Turva-, turvallisuus-, suoja- ja merkinantolaitteet; Hälyttimet ja varoituslaitteet; Merkinantolaitteet; Suoja- ja turvavälineet; Turvakamerat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Dispositifs de sûreté, de sécurité, de protection et de signalisation; Alarmes et équipement d'alerte; Appareils de signalisation; Équipement de protection et de sécurité; Caméras de sécurité.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Uređaji za sigurnost, zaštitu i signalizaciju; Alarmi i uređaji za upozoravanje; Signalni uređaji; Zaštitna i sigurnosna oprema; Sigurnosne kamere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Biztonsági, védelmi és jelzőkészülékek; Riasztók és vészjelző berendezések; Jelzőberendezések; Védelmi és biztonsági berendezések; Biztonsági kamerák.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Dispositivi di salvataggio, sicurezza, protezione e segnalazione; Attrezzatura per l'allarme e per l'avviso di pericolo; Apparecchi di segnalazione; Attrezzatura protettiva e di sicurezza; Telecamere di sicurezza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Saugos, apsaugos ir signalizavimo prietaisai; Aliarmo ir įspėjamieji įrenginiai; Signaliniai aparatai; Apsaugos ir saugos įrenginiai; Saugos kameros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Drošības, aizsardzības un signalizācijas ierīces; Trauksmes signālierīces un brīdināšanas ierīces; Signālierīces; Aizsardzības un drošības ierīces; Drošības kameras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħmir għas-sigurtà, l-protezzjoni u s-sinjalar; Allarmi u tagħmir tal-allarm; Apparat għas-sinjalar; Tagħmir għall-protezzjoni u s-sigurtà; Kameras ta' sigurtà.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Veiligheids-, beveiligings-, bewakings- en signaleringstoestellen; Alarm- en waarschuwingsapparaten; Signaleringsapparaten; Beveiligings- en veiligheidstoestellen; beveiligingscamera's.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia zabezpieczające, ochronne i sygnalizacyjne; Alarmy i urządzenia ostrzegawcze; Aparatura sygnalizacyjna; Urządzenia zabezpieczające i ochronne; Kamery bezpieczeństwa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Dispositivos de proteção, segurança, defesa e sinalização; Alarmes e equipamentos de aviso; Aparelhos de sinalização; Equipamentos de proteção e segurança; Câmaras de segurança.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dispozitive pentru siguranţă, securitate, protecţie şi de semnalizare; Alarme şi echipamente de avertizare; Aparate de semnalizare; Echipamente de protecţie şi siguranţă; Camere video de securitate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Záchranné, bezpečnostné, ochranné a signalizačné zariadenia; Poplašné a výstražné zariadenia; Signalizačné zariadenia; Ochranné a bezpečnostné vybavenie; Bezpečnostné kamery.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Varnostne, varovalne, zaščitne in signalizacijske naprave; Alarmi in opozorilne naprave; Signalni aparati; Zaščitna in varnostna oprema; Varnostne kamere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Anordningar för säkerhet, skydd och signalering; Alarm- och varningsutrustning; Apparater för signalering; Skydds- och säkerhetsutrustning; Säkerhetskameror.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>12</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Граждански дронове; Дронове за безопасност; Безпилотни летателни апарати с камери.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Civilní drony; Drony pro ochranné použití; Drony s kamerou.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Civile droner; Droner til sikkerhedsformål; Kameradroner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Zivile Drohnen; Sicherheitsdrohnen; Kameradrohnen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Πολιτικά μη επανδρωμένα αεροσκάφη· Τηλεκατευθυνόμενα ιπτάμενα αντικείμενα για χρήση ασφαλείας· Τηλεκατευθυνόμενα αεροσκάφη (drone) με κάμερα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Civilian drones; Drones for security use; Camera drones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Drones para uso civil; Drones para fines de seguridad; Drones con cámara.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Droonid tsiviilkasutuseks; Turvadroonid; Kaameradroonid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kauko-ohjatut siviililentokoneet; Miehittämättömät ilma-alukset turvallisuuskäyttöön; Kameralennokit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Drones civils; Drones à usage sécuritaire; Drones caméras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Civilni dronovi; Dronovi za sigurnosnu uporabu; Bespilotne letjelice za kamere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Civil drónok; Drónok védelmi használatra; Kamerás drónok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Droni civili; Droni per applicazioni di sicurezza; Droni con macchina fotografica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Civiliniai bepiločiai orlaiviai; Dronai saugumo reikmėms; Radijo bangomis valdomi skraidymo aparatai su fotoaparatais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Civilie bezpilota gaisa kuģi; Droni drošības nolūkiem; Dronu kameras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Drones ċivili; Drones għal skopijiet ta' sigurtà; Drones bil-kameras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Drones voor civiel gebruik; drones voor beveiligingsgebruik; drones voorzien van een camera.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Drony cywilne; Drony do celów bezpieczeństwa; Drony wyposażone w kamerę.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Drones civis; Drones para uso de segurança; Drones com câmaras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Drone civile; Drone destinate utilizării în domeniul securității; Drone cu cameră.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Civilné dróny; Drony na zabezpečovacie použitie; Drony s kamerou.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Civilni brezpilotni zrakoplovi; Brezpilotnima letala za varnostno uporabo; Brezpilotna letala s kamero.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Civila drönare; Drönare för säkerhetsändamål; Kameradrönare.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>45</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги свързани със сигурността, спасяване, охраняване и правоприлагане.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Bezpečnostní služby, záchranné služby, služby ostrahy a vymáhací služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Trygheds-, rednings-, sikkerheds- og håndhævelsestjenesteydelser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Dienstleistungen im Bereich Sicherheit, Lebensrettung, Schutz und Vollzug.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες ασφάλειας, διάσωσης και αστυνόμευσης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Safety, rescue, security and enforcement services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de vigilancia, salvamento y seguridad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Turva-, pääste-, ohutusteenused ning õiguste jõustamise teenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Turvallisuus-, pelastus-, turvaamis- ja järjestyksenpitopalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de sûreté, de secours, de sécurité et de maintien de l'ordre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge spašavanja, sigurnosti i provedbe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Biztonságtechnikai, mentési, biztonsági és behajtói szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di sicurezza, salvataggio, soccorso ed assistenza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Apsaugos, gelbėjimo, saugumo užtikrinimo ir priverstinio vykdymo paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apsardzes, glābšanas, drošības un uzraudzības pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' sigurtà, salvataġġ u infurzar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diensten op het gebied van veiligheid, redding, bewaking en handhaving.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi w zakresie zapewniania bezpieczeństwa i ochrony osób i mienia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de proteção, salvamento, segurança e execução da lei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de siguranţă, salvare, securitate şi control.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Bezpečnostné, záchranné, strážne a vykonávacie služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve varnosti, reševanja, zaščite, izterjave, izvršbe in uveljavljanja predpisov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Trygghets-, räddnings-, säkerhets- och brottsförebyggande tjänster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/084</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/154</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-14</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080297</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>83821</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

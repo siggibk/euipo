@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-15T09:20:20</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229613</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229613</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-09-12</RegistrationDate>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>BCORD</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>18</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Чанти, а именно ръчни чанти, Чанти с дръжка за рамо, Пазарски чанти, Чанти за носене на колана, Ръчни чанти за мъже, Вечерни дамски чанти, Дамски чанти тип плик, Спортни чанти, раници и пътни чанти, Плажни чанти, Пазарски чанти на колела, Ученически раници и чанти, Чанти за облекло.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Tašky, jmenovitě kabelky, Brašny přes rameno, Nákupní tašky, Vaky připevnitelné k opasku, Příruční tašky pro muže, Večerní kabelky, Kabelky do ruky [bez ucha], Sportovní tašky, batohy a cestovní tašky, Plážové tašky, Nákupní tašky na kolečkách, Školní aktovky a tašky přes rameno, Tašky na oděvy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tasker, nemlig håndtasker, Skuldertasker, Bæreposer, Bæltetasker, Herretasker, Selskabstasker, Clutch-punge, Sportstasker, rygsække, rejsetasker, Strandtasker, Indkøbstasker på hjul, Skoletasker og skråtasker, Dragttasker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Taschen, nämlich Handtaschen, Schultertaschen, Tragetaschen, Gürteltaschen, Herrentaschen, Ausgehtaschen, Unterarmtaschen, Sporttaschen, Rucksäcke und Reisetaschen, Badetaschen, Einkaufstaschen mit Rollen, Schultaschen und Schulranzen, Kleidertragetaschen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Τσάντες, συγκεκριμένα γυναικείες τσάντες, Τσάντες με λουρί για τον ώμο, Τσάντες μεταφοράς, Τσαντάκια που προσαρμόζονται στη ζώνη, Ανδρικές τσάντες, Βραδινές τσάντες, Γυναικεία τσαντάκια χειρός, Αθλητικοί σάκοι, σακίδια, ταξιδιωτικοί σάκοι, Παραλία (τσάντες -ας), Τσάντες με ροδάκια για τα ψώνια, Σχολικές τσάντες και σάκοι, Σακούλες ρούχων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Bags, namely handbags, Shoulder bags, Carrier bags, Beltbags, Gentlemen's handbags, Evening handbags, Clutch bags, Sports bags, rucksacks and travelling bags, Beach bags, Wheeled shopping bags, School bags and satchels, Garment bags.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bolsas, en concreto bolsos, Bolsos para colgar al hombro, Bolsas de transporte, Bolsas cinturón, Bolsos de mano para caballero, Bolsos de noche, Bolsos de mano sin asas, Bolsas de deporte, mochilas y bolsas de viaje, Bolsas de playa, Bolsas de ruedas para la compra, Mochilas escolares, Bolsas para llevar ropa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kotid, nimelt käekotid, Õlakotid, Kandekotid, Vöökotid, Meeste käekotid, Õhtukotid, Naiste pidulikud käekotid, Spordikotid, seljakotid ja reisikotid, Rannakotid, Ratastega ostukotid, Koolikotid ja ranitsad, Rõivakotid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Laukut, nimittäin käsilaukut, Olkalaukut, Kantokassit, Vyölaukut, Käsilaukut miehille, Iltalaukut, Kainalokäsilaukut, Urheilukassit, selkäreput ja matkakassit, Rantalaukut, Pyörillä varustetut ostoslaukut, Koululaukut ja -kassit, Pukupussit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Sacs, à savoir sacs à main, sacs à bandoulière, cabas, sacs à porter à la ceinture, sacoches, pochettes [sacs à main de soirée], sacs pochettes, sacs de voyage, sacs à dos, sacs de sport, sacs de plage, sacs à roulettes, serviettes et sacs d'écoliers, sacs-housse pour vêtements.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Torbe odnosno ručne torbe, Torbe za nošenje preko ramena, Košare, Nosiljke za bebe, Muške ručne torbe, Večernje torbe, Torbice bez ručke, Sportske torbe, naprtnjače i putne torbe, Torbe za plažu, Torbe za kupovinu na kotačiće, Školske torbe i torbe za nošenje preko ramena, Putne torbe za odjeću.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Táskák, nevezetesen kézitáskák, Válltáskák, tarisznyák, Hordtáskák, Övtáskák, Férfi kézitáskák, aktatáskák, Alkalmi kistáskák, Retikülök, kézitáskák, Sporttáskák, hátizsákok és útitáskák, Strandtáskák, Kerekes bevásárlótáskák, szatyrok, Iskolatáskák és oldaltáskák, Ruhazsákok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Borse, ovvero borsette, Borse a spalla, Borse di carta, Marsupi, Borselli a mano da uomo, Borsette da sera, Borsetta a sacchetto, Sacche sportive, zaini e sacche da viaggio, Borse da spiaggia, Borse con ruote per la spesa, Borse e cartelle per la scuola, Borse porta abiti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Krepšiai, būtent rankinės, Rankinės per petį, Portfeliai, Diržiniai krepšiai, Vyriškos rankinės, Vakariniai rankinukai, Delninukės, Sportiniai krepšiai, kuprinės ir kelionmaišiai, Paplūdimio krepšeliai, Pirkinių krepšiai su ratukais, Mokykliniai portfeliai ir mokykliniai knygų krepšiai, Rūbų krepšiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Somas, proti, rokassomas, Plecu somas, Iepirkumu maisiņi, Pie jostām piestiprināmas somas, Vīriešu rokassomas, Vakarsomiņas, Plakanas sieviešu rokassomiņas, Sporta somas, mugursomas un ceļojumu somas, Pludmales somas, Iepirkumu somas ar ritentiņiem, Skolas somas un skolēnu somas, Somas apģērbam.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Basktijiet jiġifieri basktijiet tal-id, Basktijiet ta' fuq l-ispallejn, Basktijiet tal-ġarr, Basktijiet li jintlibsu maċ-ċinturin, Basktijiet tal-idejn għall-irġiel, Basktijiet tal-idejn ta' filgħaxija, Boroż tan-nisa ċatti u dojoq mingħajr għelielaq, Basktijiet għall-isport, barżakki u boroż għall-vjaġġi, Basktijiet tal-baħar, Basket tax-xiri bir-roti, Basket ta' l-iskola u saċil ta' l-iskola, Boroż tad-drapp.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Tassen, te weten handtassen, Schoudertassen, Draagtassen, Ceintuurtasjes, Handtassen voor mannen, Avondhandtassen, Enveloptasjes, Sporttassen, rugzakken en reistassen, Strandtassen, Boodschappentassen met wieltjes, Schooltassen en boekentassen, Kledingtassen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Torby, mianowicie torebki damskie, Torebki na ramię, Sklepowe torebki do pakowania zakupów, Torebki do noszenia w pasie, Saszetki męskie, Torebki wieczorowe, Małe damskie torebki bez rączki, Torby sportowe, plecaki i torby podróżne, Torby plażowe, Torby na zakupy na kółkach, Torby szkolne i torby na ramię, Torby na garderobę.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Sacos, especificamente sacos de mão, Sacos de tiracolo, Sacos de transporte, Sacos-cinto, Bolsas de mão para homem, Malas de senhora para cerimónia, Malinhas de mão, Sacos de desporto, mochilas e sacos de viagem, Sacos de praia, Sacos para compras, com rodas, Mochilas e pastas da escola, Sacos porta-fatos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Genţi, şi anume poşete, Genţi de umăr, Genti de transport, Genti de purtat la curea, Genţi de mână pentru bărbaţi, Genţi de seară, Portofele de purtat sub braţ, Saci de sport, rucsacuri și saci de voiaj, Genţi de plajă, Sacoşe de cumpărături cu roţi, Serviete pentru scolari si ghiozdane, Genţi pentru haine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Tašky, menovite kabelky, Plecniaky, Tašky na nosenie, Turistické taštičky, Pánske príručné taštičky, Večerné kabelky, Kabelky do ruky, Športové tašky, plecniaky a cestovné tašky, Plážové tašky, Tašky na kolieskach, Školské tašky a aktovky na jedno plece, Obaly na šatstvo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Torbe, in sicer ročne torbe, Naramne torbice, Nosilne vrečke, Obpasne torbe, Moške ročne torbice, Večerne torbice, Ženske torbice na zapenjanje, Športne torbe, nahrbtniki in potovalne torbe, Torbe za plažo, Nakupovalne torbe s koleščki, Šolske torbe in šolske torbe s poklopcem, Torbe za oblačila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Väskor, nämligen handväskor, Axelväskor, Bärkassar, Midjeväskor, Handväskor för herrar, Aftonväskor, Kuvertväskor, Sportbagar, ryggsäckar och resväskor, Strandväskor, Hjulförsedda shoppingväskor, Skolväskor med axelremmar, Påsar till klädförvaring.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>FR</PriorityCountryCode>
+<PriorityNumber>19 4595269</PriorityNumber>
+<PriorityDate>2019-10-31</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/105</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/176</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>19180</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>12823</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

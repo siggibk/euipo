@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:38</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226501</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226501</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>GRAZTER</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162311942</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226501/000162311942.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.25</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>7</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Косачки [машини]; Машини за разпръскване; Инструменти с механично действие; Циркуляри [машини]; Металорежещи машини; Инструменти [части за машини]; Пневматични инструменти [машини]; Помпи [машини]; Динамомашини; Двигатели, с изключение на такива за сухопътни превозни средства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Sekačky na trávu [stroje]; Rozmělňovače [stroje]; Ruční nástroje poháněné jinou než lidskou silou; Pily [stroje]; Řezací stroje; Nástroje [součásti strojů]; Pneumatické nástroje (stroje); Čerpadla [stroje]; Dynama; Motory, jiné než pro pozemní vozidla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Plæneklippere [motordrevne]; Sprøjtemaskiner; Håndværktøj, undtagen hånddrevne; Save [maskiner]; Skæremaskiner; Værktøj [dele af maskiner]; Pneumatiske værktøjer [maskiner]; Pumper [maskiner]; Dynamoer; Motorer, ikke til køretøjer til brug på land.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Rasenmäher [Maschinen]; Spritzmaschinen; Nicht handbetätigte Handwerkzeuge; Sägen [Maschinen]; Zuschneidemaschinen; Werkzeuge [Maschinenteile]; Pneumatische Werkzeuge für Maschinen; Pumpen [Maschinen]; Dynamos; Motoren, ausgenommen für Landfahrzeuge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χορτοκοπτικές μηχανές [μηχανοκίνητες]· Μηχανές ψεκασμού· Εργαλεία χειρός πλην των χειροκίνητων· Πριονιστικές μηχανές· Κοπής μηχανήματα· Εργαλεία [μέρη μηχανών]· Εργαλεία πεπιεσμένου αέρα [μηχανές]· Αντλίες [μηχανές]· Δυναμό· Κινητήρες πλην των χερσαίων οχημάτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Lawnmowers [machines]; Spraying machines; Hand-held tools, other than hand-operated; Saws [machines]; Cutting machines; Tools [parts of machines]; Pneumatic tools [machines]; Pumps [machines]; Dynamos; Motors, other than for land vehicles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cortadoras de césped [máquinas]; Máquinas pulverizadoras; Herramientas de mano que no sean accionadas manualmente; Sierras [máquinas]; Recortadoras; Herramientas [partes de máquinas]; Herramientas neumáticas para máquinas; Bombas [máquinas]; Dínamos; Motores que no sean para vehículos terrestres.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Muruniidukid [masinad]; Pihustusmasinad; Käsi-tööriistad, v.a käsitsi käitatavad; Saed [masinad]; Lõikemasinad, lõikurid; Tööriistad [masinaosad]; Pneumotööriistad [masinad]; Pumbad [masinad]; Dünamod, jõumootorid; Mootorid, v.a maismaasõidukite.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ruohonleikkurit [koneina]; Ruiskutuskoneet; Kädessä pidettävät työkalut, ei-käsikäyttöiset; Sahat [koneina]; Leikkurit [koneina]; Työkalut [koneiden osina]; Paineilmatyökalut [koneet]; Pumput [koneina]; Dynamot; Moottorit, paitsi maa-ajoneuvoihin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Tondeuses à gazon [machines]; Pulvérisateurs; Outils tenus à la main actionnés autrement que manuellement; Scies [machines]; Découpeuses; Outils [parties de machines]; Outils pneumatiques [machines]; Pompes [machines]; Dynamos; Moteurs autres que pour véhicules terrestres.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Strojevi za rezanje trave; Strojevi za prskanje; Ručni električni alati; Pile [strojevi]; Rezači [strojevi]; Alati [dijelovi strojeva]; Pneumatski alati [strojevi]; Pumpe [strojevi]; Dinamo uređaji; Motori [osim za kopnena vozila].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fűnyírók; Permetezőgépek; Nem kézzel működtetett, kézi szerszámok; Fűrészgépek; Vágógépek, vágószerszámok; Szerszámok [géprészek]; Pneumatikus szerszámok [gépek]; Szivattyúk [gépek]; Dinamók; Motorok, nem szárazföldi járművekhez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Tosaerba [macchine]; Polverizzatori; Utensili tenuti in mano azionati in altro modo che meccanicamente; Seghe [macchine]; Trancie; Utensili [parti di macchine]; Utensili pneumatici [macchine]; Pompe [macchine]; Dinamo; Motori diversi da quelli per veicoli terrestri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vejapjovės; Purškiamosios mašinos; Rankiniai įrankiai (ne rankinio valdymo); Pjūklai [mašinos]; Pjovimo mašinos; Pjovimo įrankiai [mašinų dalys]; Pneumatiniai įrankiai [mašinos]; Siurbliai [mašinos]; Nuolatinės srovės generatoriai; Ne antžeminio transporto priemonių varikliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Zālienu pļaujmašīnas; Mašīnas un iekārtas šķidrumu izsmidzināšanai; Rokas instrumenti, izņemot ar roku darbināmos instrumentus; Zāģēšanas mašīnas; Griešanas mašīnas; Rīki (mašīnu daļas); Pneimatiskie instrumenti [mašīnas]; Sūkņi (mašīnu daļas); Dinamomašīnas; Motori un dzinēji (izņemot sauszemes transporta līdzekļiem paredzētos).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Magni għall-qtugħ tal-ħaxix fil-lon; Magni tat-traxxix; Għodod li jinżammu fl-idejn, minbarra dawk li jitħaddmu bl-idejn; Segi [magni]; Għodda tal-qtugħ [magni]; Għodda [partijiet ta' magni]; Għodod pnewmatiċi [magni]; Pompi [magni]; Dajnamows; Muturi u magni (minbarra għal vetturi ta' fuq l-art).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Grasmaaimachines; Verstuivers [machines]; Handgereedschappen, mechanisch aangedreven; Zaagmachines; Afsnijmachines; Gereedschappen [machine-onderdelen]; Gereedschappen (pneumatische -) [machines]; Pompen [machines]; Dynamo's; Motoren, anders dan voor landvoertuigen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kosiarki; Maszyny rozpylające; Narzędzia ręczne o napędzie innym niż ręczny; Piły [maszyny]; Krajarki [maszyny]; Narzędzia [części maszyn]; Narzędzia pneumatyczne [maszyny]; Pompy [maszyny]; Prądnice prądu stałego; Silniki, inne niż do pojazdów lądowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máquinas cortadoras de relva; Máquinas pulverizadoras; Ferramentas, não sendo acionadas manualmente; Serras [máquinas]; Máquinas cortadoras; Ferramentas [partes de máquinas]; Ferramentas pneumáticas [máquinas]; Bombas [máquinas]; Dínamos; Motores, não sendo para veículos terrestres.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Tuns gazon (Mașini de -); Mașini de pulverizat; Scule manuale acționate în alt mod decât manual; Ferăstraie [mașini]; Tăiat (Mașini de -); Unelte [organe de mașini]; Unelte pneumatice [mașini]; Pompe [mașini]; Dinamuri; Motoare, altele decât cele pentru vehicule terestre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kosačky na trávniky (stroje); Rozprašovače (stroje); Ručné nástroje a náradie (nie na ručný pohon); Píly (stroje); Rezacie stroje; Nástroje (časti strojov); Pneumatické nástroje [stroje]; Čerpadlá, pumpy (stroje); Dynamá; Motory (nie do pozemných vozidiel).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kosilnice za travo; Stroji za razprševanje; Ročna orodja, ne za ročno upravljanje; Žage [stroji]; Rezalni stroji; Orodja [deli strojev]; Pnevmatsko orodje [stroji]; Črpalke [stroji]; Dinama; Motorji, razen za kopenska vozila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Gräsklippningsmaskiner; Maskiner för sprayning; Handverktyg, andra än handdrivna; Sågar [maskiner]; Skärmaskiner; Verktyg [maskindelar]; Pneumatiska verktyg [maskiner]; Pumpar [maskiner]; Dynamor; Motorer, andra än för landfordon.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>12</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Тротинетки [превозни средства]; Велосипеди; Електрически велосипеди; Коли [автомобили]; Мотоциклети; Гуми за моторни превозни средства; Външни гуми за велосипеди; Седалки за превозни средства; Велосипедни триколки; Триколки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Koloběžky [dopravní prostředky]; Jízdní kola; Elektrická jízdní kola; Automobily; Motocykly; Pneumatiky pro automobily; Pneumatiky na jízdní kola; Sedadla do vozidel; Dodávkové tříkolky; Tříkolky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Løbehjul [køretøjer]; Cykler; Elektriske cykler; Biler; Motorcykler; Automobildæk; Cykeldæk; Sæder til befordringsmidler; Ladcykler; Trehjulede cykler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Tretroller [Fahrzeuge]; Fahrräder; E-Bikes; Automobile; Motorräder; Autoreifen; Fahrradreifen; Fahrzeugsitze; Transportdreiräder; Dreiräder.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Πατίνια (οχήματα)· Δίκυκλα· Ηλεκτρικά ποδήλατα· Αυτοκίνητα· Μοτοσυκλέτες· Ελαστικά για μηχανοκίνητα οχήματα· Λάστιχα για ποδήλατα· Οχημάτων καθίσματα· Τρίκυκλα μεταφοράς· Τρίκυκλα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">push scooters [vehicles]; Bicycles; electric bicycles; cars; motorcycles; automobile tires; bicycle tires; vehicle seats; Delivery tricycles; tricycles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Patinetes [vehículos]; Bicicletas; Bicicletas eléctricas; Coches; Motocicletas; Neumáticos para automóviles; Neumáticos de bicicleta; Asientos de vehículos; Motocarros; Triciclos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Tõukerattad (sõidukid); Jalgrattad; Elektrilised jalgrattad; Autod; Mootorrattad; Autorehvid; Jalgrattarehvid; Sõidukiistmed; Kolmerattalised veojalgrattad; Kolmerattalised jalgrattad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Potkulaudat (kulkuneuvot); Polkupyörät; Sähkökäyttöiset polkupyörät; Autot; Moottoripyörät; Autonrenkaat; Ulkorenkaat polkupyöriin; Ajoneuvojen istuimet; Kuljetuskolmipyörät; Kolmipyörät.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Trottinettes [véhicules]; Bicyclettes; Bicyclettes électriques; Voitures; Motocyclettes; Pneus d'automobile; Pneus de bicyclette; Sièges de véhicules; Triporteurs; Tricycles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Romobili (vozila); Bicikli; Električni bicikli; Automobili; Motocikli; Pneumatici za motorna vozila; Gume za bicikle; Sjedala za vozila; Trokolice za dostavu robe; Tricikli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Lábbal hajtható rollerek [járművek]; Kerékpárok; Elektromos kerékpárok; Gépkocsik; Motorkerékpárok; Gumiabroncsok gépjárművekhez; Kerékpár abroncsok, gumik; Járműülések; Háromkerekű áruszállító kerékpárok; Triciklik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Monopattini [veicoli]; Biciclette; Biciclette elettriche; Autovetture; Motociclette; Pneumatici per automobili; Pneumatici per cicli; Sedili di veicoli; Furgoncini a triciclo; Tricicli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Paspirtukai [transporto priemonės]; Dviračiai; Elektriniai dviračiai; Lengvieji automobiliai; Motociklai; Automobilių padangos; Dviračių ratų padangos; Transporto priemonių sėdynės; Nešulių triračiai; Triratės transporto priemonės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Skrejriteņi (transportlīdzekļi); Velosipēdi; Elektriskie velosipēdi; Automobiļi; Motocikli; Motorizēto transportlīdzekļu riepas; Velosipēdu riepas; Transportlīdzekļu sēdekļi; Kravas velosipēdi ar trim riteņiem; Trīsriteņi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Skuters li jimxu b'imbottatura[vetturi]; Roti (biċikletti); Biċikletti elettriċi; Karozzi; Muturi; Tajers tal-karozzi; Tajers għar-roti, roti bil-mutur; Sedili ta' vetturi; Triċikletti għall-ġarr; Triċikletti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Steppen [voertuigen]; Fietsen; Elektrische fietsen; Voertuigen; Motorrijwielen; Autobanden; Fietsbanden; Voertuigzittingen; Bakfietsen; Driewielers [voertuigen].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Hulajnogi (pojazdy); Rowery; Rowery elektryczne; Samochody; Motocykle; Opony do pojazdów mechanicznych; Opony rowerowe; Siedzenia do pojazdów; Rowery trójkołowe dostawcze; Trycykle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Trotinetes/patinetes [veículos]; Bicicletas; Bicicletas elétricas; Viaturas [carros]; Motociclos; Pneus para automóveis; Pneus para bicicletas; Assentos para veículos; Triciclos para entregas; Triciclos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Trotinete electrice [vehicule]; Biciclete; Biciclete electrice; Mașini; Motociclete; Pneuri pentru autovehicule; Pneuri pentru vehicule pe două roți; Scaune de vehicule; Tricicluri cu cutie de transportat mărfuri; Tricicluri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kolobežky; Bicykle; Elektrické bicykle; Osobné automobily; Motocykle; Automobilové pneumatiky; Plášte na bicyklové kolesá; Sedadlá automobilov; Trojkolky na rozvoz tovaru; Trojkolky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Skiroji [vozila]; Kolesa; Električna kolesa; Avtomobili; Motorna kolesa; Pnevmatike za motorna vozila; Pnevmatike za kolesa; Sedeži za vozila; Dostavni tricikli; Tricikli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Sparkcyklar [fordon]; Cyklar; Elektriska cyklar; Bilar; Motoriserade cyklar; Däck för motorfordon och -farkoster; Cykeldäck; Fordons- och farkostssäten; Trehjuliga lastcyklar; Trehjulingar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080400</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>39103</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T11:10:25</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228809</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228809</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>KingYi The Smart Light</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162456895</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/228/018228809/000162456895.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Лампиони; Светлини, електрически, за коледни елхи; Осветителни крушки; Лампи; Електрически фенерчета; Лампиони; Чорапчета за газови лампи.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Lampiony; Elektrická osvětlení na vánoční stromky; Elektrické žárovky; Svítidla; Baterky (elektrické svítilny); Světelné řetězy pro slavnostní dekorace; Punčošky do lamp.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kulørte lygter af papir; Juletræslys, elektriske; Elektriske pærer; Lamper; Elektriske lygter; Kulørte lamper til festdekoration; Lamperør.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Lampions [Papierlaternen]; Elektrische Christbaumbeleuchtungen; Elektrische Glühbirnen; Beleuchtungslampen; Elektrische Taschenlampen; Lichterketten für die Festtagsdekoration; Lampenglühstrümpfe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λαμπιόνια χρωματιστά διακοσμητικά για γιορτινές διακοσμήσεις· Λαμπάκια ηλεκτρικά για δένδρα χριστουγεννιάτικα· Λαμπτήρες· Φωτισμός (λαμπτήρες -ού)· Ηλεκτρικοί φορητοί φανοί· Λαμπιόνια χρωματιστά διακοσμητικά για γιορτινές διακοσμήσεις· Αγωγοί λυχνιών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Chinese lanterns; lights, electric, for Christmas trees; light bulbs, electric; lamps; electric flashlights; fairy lights for festive decoration; lamp mantles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Farolillos; Luces eléctricas para árboles de Navidad; Bombillas eléctricas; Lámparas [aparatos de iluminación]; Linternas eléctricas; Guirnaldas de luces decorativas para fiestas; Manguitos de lámparas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Paberlaternad; Jõulupuu elektriküünlad; Elektripirnid; Lambid [valgustid]; Elektrilised taskulambid; Dekoreertuled, ehistuled, ilutuled pidulikuks kaunistamiseks; Lambi-hõõgsukad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Värilliset lamput koristeluun; Joulukuusten sähkövalaisimet; Hehkulamput; Lamput; Sähkökäyttöiset käsivalaisimet; Värilliset lamput koristeluun; Lamppujen kuoret.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Lampions; Lampes électriques pour arbres de Noël; Ampoules électriques; Lampes d'éclairage; Torches électriques; Guirlandes lumineuses pour décoration de fête; Manchons de lampes; Lampions.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Lampioni; Svjećice (električne svjećice za božićna drvca); Rasvjetne žaruljice; Rasvjetne svjetiljke; Električne baterijske svjetiljke; Lampioni za svečane dekoracije; Cijevi [tuljci] za svjetiljke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Lámpák, égők ünnepi díszkivilágításhoz; Lámpák karácsonyfákhoz, elektromos; Villanykörték; Lámpák; Elektromos zseblámpák; Lámpák, égők ünnepi díszkivilágításhoz; Lámpaüvegek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Lanterne cinesi; Lampadine elettriche per alberi di natale; Lampadine elettriche; Lampade per illuminazione; Torce elettriche; Ghirlande luminose decorative per le feste; Reticelle per lampade.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kiniški žibintai; Kalėdų eglučių elektros lemputės; Elektros lemputės; Lempos; Elektriniai žibintuvėliai; Šventinių lempučių girliandos; Lempų dangčiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Lampioni; Elektriskās spuldzītes Ziemassvētku eglītēm; Elektriskās spuldzes; Lampas; Elektriskie lukturīši; Lampiņu virtenes svētku dekorācijām; Spuldžu patronas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Lampi żgħar tat-tiżjin għad-dekorazzjoni festivi; Dwal elettriċi għas-siġar tal-Milied; Bozoz tad-dawl; Lampi; Torċi elettriċi; Lampi żgħar tat-tiżjin għad-dekorazzjoni festivi; Ċumniji tal-lampi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Lampions; Elektrische lampen voor kerstbomen; Elektrische gloeilampen; Lampen voor verlichting; Elektrische zaklampen; Lampions; Gloeikousjes voor lampen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kolorowe światełka do dekoracji świątecznych; Lampki elektryczne na choinki; Żarówki oświetleniowe; Lampy oświetleniowe; Latarki kieszonkowe, elektryczne; Kolorowe światełka do dekoracji świątecznych; Klosze do lamp [kominki].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Lanternas em papel [venezianas]; Lâmpadas elétricas para árvores de natal; Lâmpadas de iluminação, elétricas; Lâmpadas; Lanternas elétricas; Correntes de luzes para decorações festivas; Camisas de candeeiros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Ghirlande luminoase pentru decorațiuni festive; Instalații luminoase pentru pomul de Crăciun; Becuri de iluminat; Lămpi de iluminat; Lămpi electrice; Ghirlande luminoase pentru decorațiuni festive; Sticle de lampă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lampióny; Elektrické svetlá na vianočné stromčeky; Elektrické žiarovky; Lampy; Elektrické vreckové baterky; Dekoračné svetelné reťaze; Objímky na svietidlá.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Lučke za praznično okrasitev; Električne lučke za božična drevesca; Žarnice za razsvetljavo; Svetilke; Električne baterijske svetilke; Lučke za praznično okrasitev; Steklene cevi za luči.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kinesiska lanternor; Elektriska belysningar för julgranar; Glödlampor, elektriska; Lampor; Ficklampor; Ljusslingor för dekoration; Glödstrumpor för lampor.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/081</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-30</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/150</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1081969</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>39103</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

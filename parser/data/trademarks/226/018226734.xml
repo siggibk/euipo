@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:32</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226734</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226734</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>molzar</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162308062</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226734/000162308062.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.01.03</CategoryCode>
+          <CategoryCode>26.01.19</CategoryCode>
+          <CategoryCode>26.01.24</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Защитни тънкослойни покрития, пригодени за смартфони; Калъфи за смартфони; Калъфи за таблети; Поставки за видеокамери; Поставки, пригодени за мобилни телефони; Слушалки; Слушалки; Говорители; Безжични високоговорители; Зарядни устройства; Слушалки за слагане в уши; Слушалки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Ochranné fólie na chytré telefony; Pouzdra na chytré telefony (smartphony); Pouzdra na tabletové počítače; Stojany na videokamery; Stojany přizpůsobené pro mobilní telefony; Sluchátka; Sluchátka; Reproduktory; Bezdrátové reproduktory; Nabíječky; Pecky do uší; Sluchátka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beskyttelsesfilm tilpasset til smartphones; Etuier til smartphones; Etuier til tablet-computere; Stativer til videokameraer; Holdere til mobiltelefoner; Høretelefoner; Hovedtelefoner; Højttalere; Trådløse højttalere; Opladere; Øresnegle; Hovedtelefoner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Angepasste Schutzfolien für Smartphones; Schalen für Smartphones; Etuis für Tablet-Computer; Videokamerastative; Angepasste Halter für Mobiltelefone; Kopfhörer; Kopfhörer; Lautsprecher; Kabellose Lautsprecherboxen; Ladegeräte; Ohrhörer; Kopfhörer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Προστατευτικές μεμβράνες προσαρμοσμένες για έξυπνα τηλέφωνα· Θήκες για έξυπνα τηλέφωνα· Θήκες για φορητούς ηλεκτρονικούς υπολογιστές· Βάσεις στήριξης για μηχανές λήψης μαγνητοσκοπημένης εικόνας [βίντεο]· Βάσεις για κινητά τηλέφωνα· Ακουστικά· Κάσκες ακουστικών· Ηχεία· Ασύρματα μεγάφωνα· Φορτιστές μπαταριών· Ακουστικά· Ακουστικά κεφαλής με μικρόφωνο.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Protective films adapted for smartphones; protective cases for smartphones; protective cases for tablet computers; video camera stands; Stands adapted for mobile phones; earphones; headphones; audio speakers; Wireless audio speakers; chargers; Earbuds; Headsets.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Películas de protección para teléfonos inteligentes [smartphones]; Estuches para teléfonos inteligentes; Estuches para ordenadores tipo tablilla; Soportes para videocámaras; Soportes adaptados para teléfonos móviles; Auriculares intraurales; Auriculares; Altavoces; Altavoces de audio inalámbricos; Cargadores; Auriculares de botón; Cascos con micrófono.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Nutitelefonide kaitsekiled; Nutitelefonide ümbrised; Tahvelarvutite vutlarid; Videokaamerastatiivid; Mobiiltelefonide kohandatud alused; Kõrvaklapid; Kõrvaklapid; Kõlarid, valjuhääldid; Juhtmeta kõlarid; Akulaadurid; Kõrvatropid; Mikrofoniga kõrvaklapid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Älypuhelimille tarkoitetut suojakalvot; Älypuhelinten kuoret; Taulutietokoneille tarkoitetut kotelot; Kamerajalustat; Matkapuhelimille tarkoitetut telineet; Kuulokkeet; Kuulokkeet; Kaiuttimet; Langattomat kaiuttimet; Latauslaitteet; Korvanappikuulokkeet; Kuulokkeet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Films de protection conçus pour ordiphones [smartphones]; Étuis pour smartphones; Etuis pour tablettes électroniques; Supports pour caméras vidéo; Supports adaptés pour téléphones portables; Casques d'écoute; Casques à écouteurs; Haut-parleurs; Haut-parleurs sans fil; Chargeurs; Écouteurs-boutons; Casques d'écoute.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Zaštitne folije prilagođene za pametne telefone; Etuiji za pametne telefone; Futrole za tablet računala; Stalci za video kamere; Stalak za mobilne telefone; Slušalice; Slušalice; Zvučnici; Bežični zvučnici; Punjači; Slušalice; Slušalice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Védőfóliák okostelefonokhoz; Tokok okostelefonhoz; Tokok táblagépekhez; Állványok videokamerákhoz; Mobiltelefonokhoz kialakított állványok; Fejhallgatók; Fejhallgatók; Hangszórók, hangosbemondók, megafonok; Vezeték nélküli hangszórók; Töltők; Fülhallgatók; Fejhallgatók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pellicola protettiva adattata per smartphone; Custodie per smartphones; Custodie per tablet; Supporti per videocamere; Supporti per telefoni cellulari; Auricolari; Cuffie per la musica; Altoparlanti; Altoparlanti senza filo; Caricatori; Auricolari; Cuffie per la musica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Išmaniųjų telefonų ekranų apsauginės plėvelės; Išmaniųjų telefonų dėklai; Planšetinių kompiuterių dangteliai; Vaizdo kamerų stovai; Mobiliųjų telefonų laikikliai; Ausinės; Radijo ausinės; Garsiakalbiai; Belaidžiai garsiakalbiai; Įkrovikliai; Ausinės; Ausinės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Aizsargplēves, kas īpaši paredzētas viedtālruņiem; Viedtālruņu maciņi; Planšetdatoru futrāļi; Videokameras statīvi; Mobilajiem tālruņiem pielāgoti statīvi; Ieaušu austiņas; Austiņas; Skaļruņi; Bezvadu audio skaļruņi; Uzlādes ierīces; Ieauši (austiņas); Radioaustiņas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Films protettivi adattati għal smartfowns; Kaxxi għall-ismartphones; Kaxxetti għal kompjuters stil tablet; Stends tal-vidjowkameras; Stends adattati għal telefons ċellulari; Kuffji; Kuffji; Lawdspikers; Lawdspikers mingħajr fili; Ċarġers; Earbuds; Kuffji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Beschermende folie aangepast aan smartphones; Etuis voor smartphones; Hoezen voor tablets; Videocamera standaard; Standaards aangepast voor mobiele telefoons; Oortelefoons; Hoofdtelefoons; Luidsprekers; Draadloze audioluidsprekers; Laders; Oortjes; Hoofdtelefoons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Folie ochronne dostosowane do smartfonów; Etui na smartfony; Etui do tabletów; Stojaki do kamer wideo; Stojaki dostosowane do telefonów komórkowych; Słuchawki [douszne]; Słuchawki [zakładane na głowę]; Głośniki; Głośniki bezprzewodowe; Ładowarki; Słuchawki douszne; Słuchawki [zakładane na głowę].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Películas protetoras adaptadas para smartphones; Capas para smartphones; Malas concebidas para computadores "tablet"; Tripés para câmeras de vídeo; Suportes adaptados a telemóveis; Auriculares; Auriculares; Altifalantes; Altifalantes sem fio; Carregadores; Auriculares; Auriculares.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Folii de protecție adaptate pentru telefoane inteligente; Carcase pentru telefoane inteligente; Huse pentru calculatoare tabletă; Suporturi pentru camere video; Suporturi adaptate pentru telefoane mobile; Căști auriculare; Căști audio; Difuzoare; Difuzoare fără fir; Incarcatoare; Minicăști de urechi; Căști.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Ochranné fólie na smartfóny; Puzdrá na smartfóny; Puzdrá na tabletové počítače; Stojany pre videokamery; Stojany na mobilné telefóny; Slúchadlá; Slúchadlá; Reproduktory, amplióny; Bezdrôtové reproduktory; Nabíjačky; Slúchadlá do uší; Slúchadlá s mikrofónom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zaščitne folije, prilagojene za pametne telefone; Etuiji za pametne telefone; Etuiji za tablične računalnike; Stojala za video kamere; Stojala, prirejena za prenosne telefone; Slušalke; Slušalke; Zvočniki; Brezžični avdio zvočniki; Polnilci; Slušalke za v uho; Slušalke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Skyddsfilm för smartphones; Skal för smartphones; Fodral för surfplattor; Stativ till videokameror; Ställ för mobiltelefoner; Hörlurar; On-ear hörlurar; Högtalare; Trådlösa högtalare; Laddningsanordningar; Öronsnäckor; Headsets.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>85806</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

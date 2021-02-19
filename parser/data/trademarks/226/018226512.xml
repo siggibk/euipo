@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:39</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226512</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226512</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>GIVAL</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162316473</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226512/000162316473.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>17.02.02</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>14</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бижутерия; Бижута с изкуствени скъпоценни камъни; Скъпоценни камъни; Полускъпоценни камъни; Перли [бижутерия]; Пръстени [бижутерия]; Сватбени халки; Гривни; Верижки [бижутерия]; Огърлици [бижутерия]; Медальони с капаче [бижутерия]; Дребни бижутерийни украшения; Обици; Висулки [бижутерийни изделия]; Игли [бижутерия]; Ръчни часовници; Хронографи; Уреди за измерване на времето; Закопчалки за бижута; Приспособления за свързване и закрепване на бижутерийни изделия.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Šperky; Skleněná bižutérie (imitace drahokamů); Drahokamy; Polodrahokamy; Perly [šperky]; Prsteny [šperky]; Snubní prsteny; Ozdobné kroužky a náramky; Řetízky [šperky]; Náhrdelníky [šperky]; Medailónky [šperky]; Přívěsky [šperky]; Náušnice; Přívěšky na krk jako klenoty; Jehlice [šperky]; Hodinky; Chronografy; Chronometry; Bižuterní zapínání; Komponenty na výrobu šperků.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Juvelerarbejder; Similismykker; Ædelstene; Halvædelstene; Perler [smykker]; Ringe [smykker]; Vielsesringe; Armbånd; Kæder [smykker]; Halskæder [smykker]; Medaljoner [smykker]; Charms [smykkevedhæng]; Øreringe; Smykkevedhæng; Smykkenåle; Ure [armbåndsure]; Kronografer [ure]; Kronometre; Låse til smykker; Smykkedele til smykkefremstilling.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Juwelierwaren, Schmuckwaren; Strass [Edelsteinimitation]; Edelsteine; Halbedelsteine; Perlen [Schmuck]; Ringe [Schmuck]; Eheringe; Armbänder; Ketten [Schmuckwaren]; Halsketten [Schmuck]; Medaillons [Schmuck]; Schmuckanhänger; Ohrringe; Schmuckanhänger; Anstecknadeln [Schmuckwaren]; Taschen-/Armbanduhren; Chronografen [Uhren]; Chronometer [Zeitmesser]; Verschlüsse für Schmuck; Furnituren [Schmuckzubehör].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κοσμήματα· Στρας κοσμηματοποιίας· Λίθοι κοσμηματοποιίας· Πέτρες ημιπολύτιμες· Μαργαριτάρια [κοσμήματα]· Δακτυλίδια [κοσμήματα]· Βέρες· Βραχιόλια· Αλυσίδες [κοσμήματα]· Περιδέραια [κοσμήματα]· Μενταγιόν [κοσμήματα]· Κρεμαστά κοσμήματα· Σκουλαρίκια· Κρεμαστά κοσμήματα· Καρφίτσες [κοσμηματοποιία]· Ρολόγια τοίχου ή επιτραπέζια, κοσμήματα· Χρονογράφοι· Ωρολογιακές συσκευές· Κουμπώματα για κοσμήματα· Υλικά κατασκευής κοσμημάτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Jewellery; Paste jewellery; Precious stones; Semi-precious stones; Pearls [jewellery]; Rings [jewellery]; Wedding rings; Bracelets; Chains [jewellery]; Necklaces [jewellery]; Lockets [jewellery]; Jewellery charms; Earrings; Jewel pendants; Pins [jewellery]; Watches; Chronographs [watches]; Chronometers; Clasps for jewellery; Jewellery findings.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Joyería; Estrás; Piedras preciosas; Piedras semipreciosas; Perlas [joyería]; Anillos [joyería]; Alianzas de boda; Brazaletes y pulseras; Cadenas [joyería]; Collares [joyería]; Medallones [joyería]; Dijes [joyería]; Pendientes; Colgantes [joyas]; Alfileres [joyería]; Relojes de uso personal; Cronógrafos [relojes de pulsera]; Cronómetros; Cierres [broches] para joyería; Insumos de joyería.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Juveeltooted; Strassist juveeltooted; Vääriskivid; Poolvääriskivid; Pärlid [juveeltooted]; Sõrmused [juveeltooted]; Laulatussõrmused; Käe- ja jalavõrud; Ketid [juveeltooted]; Kaelakeed; Medaljonid [juveeltooted]; Ripatsid [juveeltooted]; Kõrvarõngad; Ripatsid [juveeltooted]; Ehisnõelad [juveeltooted]; Käe-, taskukellad; Kronograafid [käekellad]; Kronomeetrid; Ehete haagid; Ehete valmistamiseks kasutatavad tarvikud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Korut; Strassikorut; Korukivet; Puolijalokivet; Helmet [koruina]; Sormukset [korut]; Vihkisormukset; Rannerenkaat; Ketjut [korut]; Kaulakorut [korut]; Medaljongit [koruina]; Koruriipukset; Korvarenkaat; Koruriipukset; Koristeneulat [korut]; Kellot; Kronografi; Kronometrit; Lukot koruja varten; Koruntekotarvikkeet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Articles de bijouterie-joaillerie; Strass; Pierres précieuses; Pierres fines; Perles [bijouterie]; Bagues [bijouterie]; Alliances; Bracelets; Chaînes [bijouterie]; Colliers [bijouterie]; Médaillons [bijouterie]; Breloques pour la bijouterie; Boucles d'oreilles; Pendentifs [bijoux]; Épingles [bijouterie]; Montres; Chronographes [montres]; Chronomètres; Fermoirs pour la bijouterie; Apprêts pour la bijouterie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Nakit; Nakit od bižuterije; Kamenje za nakit; Poludrago kamenje; Biseri [nakit]; Prstenje [nakit]; Vjenčano prstenje; Narukvice; Lančići [nakit]; Ogrlice [nakit]; Medaljoni [nakit]; Privjesci za ogrlice i narukvice [nakit]; Naušnice; Privjesci za lančiće [nakit]; Broš igle [nakit]; Satovi, zidni; Kronografi; Kronometri [satovi]; Kopče za nakit; Artikli i pribor za nakit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ékszerek; Strassz [drágakő utánzat]; Ékkövek; Féldrágakövek; Gyöngyök [ékszerek]; Gyűrűk [ékszerek]; Jegygyűrűk, karikagyűrűk; Karperecek és karkötők; Láncok [ékszerek]; Nyakláncok [ékszerek]; Medálok [ékszerek]; Függők ékszerekhez; Fülbevalók; Ékszer függők; Dísztűk [ékszerek]; Órák; Kronográfok; Időmérők; Kapcsok ékszerkészítéshez; Ékszerkellékek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Gioielleria; bigiotteria; oreficeria; pietre preziose; pietre semipreziose; perle [gioielleria]; anelli [gioielleria]; fedi nuziali; braccialetti; catenine (gioielleria); collane [gioielleria]; medaglioni [gioielleria]; ciondoli per la gioielleria; orecchini; pendenti [gioielleria]; spille [gioielleria]; orologi [da polso e da tasca]; cronografi [orologi]; cronometri; chiusure per gioielleria; ganci per gioielleria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Juvelyriniai dirbiniai; Strazai; Brangakmeniai; Pusbrangiai akmenys; Perlų juvelyriniai dirbiniai; Žiedai [juvelyriniai dirbiniai]; Vestuvių žiedai; Apyrankės; Grandinėlės [juvelyriniai dirbiniai]; Karoliai [juvelyriniai dirbiniai]; Medalionai [juvelyriniai dirbiniai]; Juvelyriniai karuliai; Auskarai; Pakabukai [juvelyriniai dirbiniai]; Smeigtukai [juvelyriniai dirbiniai]; Laikrodžiai [kišeniniai, rankiniai]; Chronografai [laikrodžiai]; Chronometrai; Juvelyrinių dirbinių užsegimai; Juvelyrinių dirbinių jungiamosios detalės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Juvelierizstrādājumi; Strasi (stikla juvelierizstrādājumi); Dārgakmeņi; Pusdārgakmeņi; Pērles (juvelierizstrādājumi); Gredzeni (juvelierizstrādājumi); Laulību gredzeni; Rokassprādzes; Ķēdītes (juvelierizstrādājumi); Kaklarotas (juvelierizstrādājumi); Medaljoni (juvelierizstrādājumi); Juvelierizstrādājumu piekariņi; Auskari; Dārgakmeņu karekļi; Piespraudes (juvelierizstrādājumi); Rokas un kabatas pulksteņi; Hronogrāfi, kurus izmanto kā pulksteņus; Hronometri; Sprādzes juvelierizstrādājumiem; Rotaslietu piederumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ġojjelli; Ġojjellerija falza; Ħaġar għall-ġojjelli; Ħaġar semi-prezzjuż; Perli [ġojjellerija]; Ċrieket [ġojjellerija]; Ċrieket tat-tieġ; Brazzuletti / Ċpiepet; Ktajjen [ġojjellerija]; Kullani [ġojjellerija]; Lokits [ġojjellerija]; Pendenti tal-ġojjellerija; Imsielet tal-widnejn; Pendenti tal-ġojjelli; Labar [ġojjellerija]; Arloġġi ta' l-id; Kronografi; Arloġġi; Għeluq għall-ġojjellerija; Sejbiet ta' ġojjelli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Juwelen; Stras; Edelstenen; Halfedelstenen; Parels [juwelierswaren]; Ringen [juwelierswaren]; Trouwringen; Arm- en enkelbanden; Kettingen [juwelierswaren]; Halskettingen [juwelierswaren]; Medaillons [juwelierswaren]; Bedeltjes; Oorbellen; Juwelen hangertjes; Spelden [bijouterieën]; Horloges; Chronografen [horloges]; Chronometers; Sluitinkjes voor juwelierswaren; Onderdelen voor juwelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Biżuteria i wyroby jubilerskie; Biżuteria ze szkła sztrasowego; Kamienie jubilerskie; Kamienie półszlachetne; Perły [biżuteria]; Pierścionki [biżuteria]; Obrączki ślubne; Bransolety; Łańcuszki [biżuteria]; Naszyjniki [biżuteria]; Medaliony [biżuteria]; Zawieszki [biżuteria]; Kolczyki; Wisiorki [klejnoty]; Szpilki [biżuteria]; Zegarki; Chronografy; Czasomierze [zegarki]; Zapięcia do biżuterii; Akcesoria do wyrobu biżuterii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Jóias; Strass [bijuteria]; Pedras preciosas; Pedras semi-preciosas; Pérolas [joalharia]; Anéis [joalharia]; Alianças de casamento; Pulseiras; Correntes [joalharia]; Colares [joalharia]; Medalhões [joalharia]; Amuletos em jóias; Brincos para orelhas; Pendentes de joalharia; Alfinetes [joalharia]; Relógios de pulso; Cronógrafos [relógios]; Cronómetros; Fechos para joalharia; Elementos de joalharia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Bijuterii; Ștrasuri; Pietre prețioase; Pietre semiprețioase; Perle [bijuterii]; Inele [bijuterii]; Verighete; Brățări; Lanțuri [bijuterii]; Coliere [bijuterii]; Medalioane [bijuterii]; Pandantive; Cercei; Bijuterii-pandantive; Broșe [bijuterii]; Brățară (Ceasuri cu -); Cronografe; Ceasornice; Închizători pentru bijuterii; Accesorii pentru bijuterii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Šperky; Štras (brúsené olovnaté sklo); Drahé kamene; Polodrahokamy; Korálky (klenotnícke výrobky); Prstene (klenotnícke výrobky); Snubné prstene; Náramky; Retiazky (klenotnícke výrobky); Náhrdelníky (klenotnícke výrobky); Medailóny (klenotnícke výrobky); Prívesky (klenotnícke výrobky); Náušnice; Prívesky na krk [šperky]; Ihlice (klenotnícke výrobky); Hodinky; Chronografy (hodinky); Chronometre; Šperkárske uzávery; Komponenty šperkov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Nakit; Bižuterija; Kamni za nakit; Poldragi kamni; Biseri [nakit]; Prstani [nakit]; Poročni prstani; Zapestnice; Verižice [nakit]; Ogrlice [nakit]; Medaljoni [nakit]; Obeski [nakit]; Uhani; Obeski z dragulji; Okrasne igle [nakit]; Ročne ure; Kronografi; Merilci časa; Sponke za nakit; Potrebščine za izdelavo nakita.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Juvelerarvaror; Oäkta smycken; Smyckesstenar; Halvädelstenar; Pärlor [smycken]; Ringar [smycken]; Vigselringar; Armringar; Kedjor [smycken]; Halsband [smycken]; Medaljonger [smycken]; Berlocker [smycken]; Örhängen; Hängsmycken [juveler]; Pins [smycken]; Ur; Kronografer; Kronometer; Smyckesknäppen; Uppsättningar för smyckestillverkning.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080425</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11599</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-08T07:36:59</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226162</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226162</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="1">Application published</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-08</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>RAVEN</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>7</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Селскостопански машини, А именно сеялки, Пулверизатори, И сандъци за растения.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zemědělské stroje, Jmenovitě rozsévače, Rozprašovače, A sázecí stroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Landbrugsmaskiner, Nemlig såmaskiner, Sprøjteanordninger, Og plantemaskiner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Landwirtschaftliche Maschinen, Nämlich Sämaschinen, Zerstäuber, Und Pflanzmaschinen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Γεωργικές μηχανές, Συγκεκριμένα σπαρτικές μηχανές, Ψεκαστήρες, Και μηχανές φύτευσης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Agricultural machines, namely seeders, sprayers, and planters.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Máquinas agrícolas, Concretamente sembradoras, Pulverizadores, Y jardineras para plantas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Põllutöömasinad, Nimelt külviseadmed, Pulverisaatorid (masinad), Ja istutusseadmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Maanviljelyskoneet, Nimittäin kylvökoneet, Ruiskuttimet, Ja istutuskoneet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Machines agricoles, À savoir semoirs, Vaporisateurs, Et jardinières.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Poljoprivredni strojevi, I to poljoprivredni strojevi za sjetvu, Raspršivači, I sijačice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Mezőgazdasági gépek, Nevezetesen vetőgépek, Porlasztók (gépek), És virágtartók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Macchine agricole, Ovvero seminatrici, Vaporizzatori, E piantatrici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Žemės ūkio mašinos, Būtent sėjamosios, Purkštuvai, Ir sodintojai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Lauksaimniecības mašīnas, Proti, sējmašīnas, Izsmidzināšanas iekārtas, Un puķu podi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Magni għall-agrikoltura, Jiġifieri apparat għat-tferrix taż-żrieragħ, Magni tat-traxxix, U qsari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Landbouwmachines, Te weten zaaimachines, Sproeiers, En pootmachines.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maszyny rolnicze, Mianowicie siewniki, Rozpylacze (maszyny), I sadzarki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máquinas agrícolas, Especificamente semeadores, Pulverizadores, E plantadores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Utilaje agricole, Și anume semănători, Pulverizatoare de apă, Și mașini de plantat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poľnohospodárske stroje, Menovite sejačky, Rozprašovacie stroje, A stroje na sadenie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kmetijski stroji, In sicer sejalniki, Škropilnice, In stroji za sajenje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Jordbruksmaskiner, Nämligen såningsmaskiner, Sprutanordningar, Och planteringsspadar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Компютърен хардуер и записан софтуер за контрол на селскостопанска техника, наблюдение на селскостопански операции и планиране на селскостопански полета; Апарати за управление чрез сателит; Електронни системи за глобално позициониране; Глобални системи за позициониране (GPS) за местоположение и евакуация на автомобила; Радарни апарати; Метеорологични балони; Метеорологични балони; Високопланински балони за изследване.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Počítačový hardware a nahraný software pro ovládání zemědělských strojů, monitorování zemědělských operací a zemědělské polní plánování; Satelitní navigační přístroje; Elektronické GPS systémy; Systémy globálního určování polohy (GPS) pro lokalizaci a vyhledávání vozidel; Radary; Meteorologické balóny; Meteorologické balóny; Výškové výzkumné balóny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Computerhardware og optaget software til styring af landbrugsmaskiner, overvågning af landbrugsdrift og planlægning af landbrugsmarker; Satellitnavigationsapparater; Elektroniske globale positioneringssystemer; Globale positioneringssystemer (GPS) til lokalisering og genfinding af køretøjer; Radarapparater; Meteorologiske balloner; Meteorologiske balloner; Balloner til søgning i store højder.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Computerhardware und gespeicherte Software zur Steuerung von landwirtschaftlichen Maschinen, Überwachung des landwirtschaftlichen Betriebs und Planung landwirtschaftlicher Flächen; Satellitennavigationsgeräte; Elektronische globale Ortungssysteme; Globale Ortungssysteme (GPS) zur Fahrzeugortung und -bergung; Radargeräte; Meteorologische Ballons; Meteorologische Ballons; Höhenforschungsballons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υλικό ηλεκτρονικών υπολογιστών και εγγεγραμμένο λογισμικό για έλεγχο γεωργικών μηχανημάτων, παρακολούθηση αγροτικών εργασιών και προγραμματισμό αγροτικών εκτάσεων· Πλοήγησης (Συσκευές -) μέσω δορυφόρου· Παγκόσμια ηλεκτρονικά συστήματα προσδιορισμού θέσης· Παγκόσμια συστήματα προσδιορισμού θέσης (GPS) για εκμίσθωση και ανάκτηση οχημάτων· Ραντάρ· Αερόστατα μετεωρολογικά· Αερόστατα μετεωρολογικά· Ερευνητικά μπαλόνια μεγάλου υψόμετρου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Computer hardware and recorded software for control of agricultural machinery, monitoring agricultural operations and agricultural field planning; satellite navigational systems; global positioning systems (GPS); global positioning systems (GPS) for vehicle location and recovery; radar apparatus; weather balloons; meteorological balloons; high altitude research balloons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Hardware y software grabado para controlar la maquinaria agrícola, supervisar las operaciones agrícolas y planificar los campos de cultivo; Aparatos de navegación por satélite; Sistemas electrónicos de posicionamiento global; Sistemas electrónicos de posicionamiento global para la ubicación y la recuperación de vehículos; Radares; Globos meteorológicos; Globos meteorológicos; Globos de investigación de gran altitud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Põllumajandustehnika juhtimise, põllumajandustoimingute seire ja põldude planeerimise arvutiriistvara ja salvestatud tarkvara; Satelliitnavigatsiooniaparatuur; Elektroonilised GPS-süsteemid; Globaalsed positsioneerimissüsteemid (GPS) sõidukite asukoha tuvastamiseks ja leidmiseks; Radarid, raadiolokaatorid; Meteoroloogilised sondpallid; Meteoroloogilised sondpallid; Suure lennukõrgusega uuringuõhupallid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tietokonelaitteistot ja tallennetut ohjelmistot maatalouskoneiden hallintaan, maatalouden toimintojen seurantaan ja maatalouden peltojen suunnitteluun; Satelliittinavigointilaitteet; Elektroniset maailmanlaajuiset paikannusjärjestelmät; Maailmanlaajuinen paikannusjärjestelmä (GPS) ajoneuvojen paikannukseen ja löytämiseen; Tutkalaitteet; Säähavaintopallot; Säähavaintopallot; Korkeudessa käytettävät ilmapallot tutkimiseen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Matériel informatique et logiciels enregistrés pour la commande de machines agricoles, la surveillance d'exploitations agricoles et la planification de terrains agricoles; Appareils de navigation par satellite; Systèmes électroniques de localisation mondiale [GPS]; Systèmes de positionnement mondial (GPS) pour la localisation et la récupération de véhicules; Radars; Ballons météorologiques; Ballons météorologiques; Ballons de recherche en haute altitude.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Računalni hardver i snimljeni softver za upravljanje poljoprivrednim strojevima, nadzor poljoprivrednih aktivnosti i poljoprivredne planiranje sadnje; Satelitski navigacijski uređaji; Elektronički sustavi za globalnu navigaciju; Sustavi za globalno pozicioniranje (GPS) za lokacije vozila i oporavak; Radarski aparati; Meteorološki baloni; Meteorološki baloni; Baloni za visinsko istraživanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Számítógépes hardverek és rögzített szoftverek a mezőgazdasági gépesítés irányításához, a mezőgazdasági folyamatok megfigyeléséhez és a mezőgazdasági földtervezéshez; Műholdas navigációs készülékek; Elektronikus globális helymeghatározó rendszerek; Általános helyzetmeghatározó rendszerek (GPS-ek) járművek helymeghatározásához és előkerítéséhez; Radarkészülékek; Meteorológiai léggömbök; Meteorológiai léggömbök; Nagy magasságú meteorológiai léggömbök.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Hardware e software registrati per il controllo di macchine agricole, il monitoraggio di operazioni agricole e la pianificazione di campi agricoli; Apparecchi di navigazione satellitare; Sistemi elettronici globali per la determinazione della posizione; Sistemi di posizionamento globale (GPS) per la localizzazione e il recupero del veicolo; Apparecchi radar; Palloni meteorologici; Palloni meteorologici; Palloni aerostatici per la ricerca ad alta quota.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kompiuterių aparatinė ir įrašyta programinė įranga žemės ūkio mašinų valdymui, žemės ūkio operacijų stebėjimui ir žemės ūkio lauko planavimui; Navigacinė palydovų aparatūra; Elektroninės globalinės padėties nustatymo sistemos; Visuotinės padėties nustatymo sistemos (GPS), skirtos transporto priemonės buvimo vietai nustatyti ir atkurti; Radarai [radiolokatoriai]; Meteorologiniai balionai; Meteorologiniai balionai; Aukšto aukščio tyrimų balionai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Datoru aparatūra un ierakstīta programmatūra lauksaimniecības tehnikas kontrolei, lauksaimniecības darbību uzraudzībai un lauksaimniecības lauka plānošanai; Satelītnavigācijas iekārtas; Elektroniskas globālās pozicionēšanas sistēmas (GPS); Globālās pozicionēšanas sistēmas [GPS] transportlīdzekļu atrašanās vietas noteikšanai un atjaunošanai; Radara ierīces; Meteoroloģiskās zondes; Meteoroloģiskās zondes; Liela augstuma pētījumu baloni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Hardware tal-kompjuter u software rreġistrat għall-kontroll ta' makkinarju agrikolu, il-monitoraġġ ta' operazzjonijiet agrikoli u l-ippjanar tal-qasam agrikolu; Apparat tan-navigazzjoni bis-satellita; Sistemi elettroniċi għas-sejba tal-pożizzjoni fid-dinja; Sistemi elettroniċi għas-sejba tal-pożizzjoni fid-dinja (GPS) għal-lokalizzazzjoni u l-irkupru ta' vetturi; Apparat tar-radar; Bżieżaq meteoroloġiċi; Bżieżaq meteoroloġiċi; Bżieżaq tar-riċerka tal-altitudni għolja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Hardware en geregistreerde software voor de bediening van landbouwmachines, de bewaking van landbouwwerkzaamheden en de planning van landbouwvelden; Satellietnavigatie-apparatuur; Elektronische plaatsbepalingsystemen (wereldwijd); Gps-systemen (wereldwijde plaatsbepalingssystemen) voor het lokaliseren en terughalen van voertuigen; Radars; Weerballonnen; Weerballonnen; Ballonnen voor onderzoek op grote hoogte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Sprzęt komputerowy i nagrane oprogramowanie do kontrolowania maszyn rolniczych, monitorowania prac rolniczych i planowania terenów rolniczych; Urządzenia do nawigacji satelitarnej; Elektroniczne globalne systemy nawigacyjne; Systemy do globalnego pozycjonowania (GPS) do lokalizowania i odzyskiwania pojazdów; Radary; Balony meteorologiczne; Balony meteorologiczne; Balony do badań na dużych wysokościach.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Hardware de computador e software gravado para controlo de máquinas agrícolas, monitorização de operações agrícolas e planeamento de campos agrícolas; Aparelhos de navegação por satélite; Sistemas eletrónicos de posicionamento global; Sistemas de posicionamento global (GPS) para localização e recuperação de veículos; Radares; Balões meteorológicos; Balões meteorológicos; Balões de investigação de alta altitude.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Hardware de calculator și software înregistrat pentru controlul utilajelor agricole, monitorizarea operațiunilor agricole și plantarea pe teren agricol; Dispozitive de navigat prin satelit; Sisteme de poziționare globală electronice; Sisteme de localizare globală (GPS) pentru localizarea și recuperarea vehiculelor; Radare; Baloane meteorologice; Baloane meteorologice; Baloane pentru căutare la mare altitudine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Počítačový hardvér a nahratý softvér na ovládanie poľnohospodárskych strojov, monitorovanie poľnohospodárskej prevádzky a plánovanie poľnohospodárskych plodín; Satelitné navigačné prístroje; Elektronické GPS systémy; GPS systémy na vyhľadávanie polohy vozidiel; Radary; Meteorologické balóny; Meteorologické balóny; Výskumné balóny vo vysokých nadmorských výškach.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Računalniška strojna oprema in posneta programska oprema za nadzor kmetijskih strojev, nadzor kmetijskih postopkov in kmetijskega sejanja na polju; Satelitski navigacijski aparati; Elektronski sistemi globalnega določanja lege (GPS); Sistemi globalnega pozicioniranja (GPS) za lociranje in pridobivanje vozil; Radarji; Meteorološki baloni; Meteorološki baloni; Raziskovalni baloni za visoke višine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Datormaskinvara och inspelad programvara för kontroll av jordbruksmaskiner, övervakning av jordbruksarbeten och planering av jorbruksfält; Satellitnavigeringsutrustningar; Elektroniska globala positioneringssystem; GPS-system för fordonslokalisering och -återställande; Radarapparater; Meteorologiska ballonger; Meteorologiska ballonger; Höghöjds forskningsballonger.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>12</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Модули за управление за сухопътни превозни средства и части за тях; Балони с горещ въздух; Дирижабли.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Řídicí ústrojí pro pozemní vozidla a jejich části; Horkovzdušné balóny; Řiditelné balóny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Styreenheder til befordringsmidler på land samt dele hertil; Varmluftsballoner; Styrbare balloner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Lenkeinheiten für Landfahrzeuge und deren Teile; Heißluftballons; Luftschiffe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συστήματα διεύθυνσης για χερσαία οχήματα και μέρη αυτών· Αερόστατα· Αερόπλοια.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Steering units for land vehicles and parts thereof; hot air balloons; dirigible balloons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Unidades de dirección para vehículos terrestres y sus partes; Globos aerostáticos; Globos dirigibles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Maismaasõidukite rooliseadmed ja nende osad; Kuumaõhupallid; Dirižaablid, õhulaevad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ohjausyksiköt maa-ajoneuvoihin sekä niiden osat; Kuumailmapallot; Ilmalaivat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Systèmes de direction pour véhicules terrestres et leurs pièces; Montgolfières; Ballons dirigeables.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Upravljači za kopnena vozila i njihovi dijelovi; Baloni na vrući zrak; Cepelini.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kormányegységek szárazföldi járművekhez és ezek alkatrészei; Hőlégballonok; Léghajók [kormányozható].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Dispositivi di sterzo per veicoli terrestri e loro parti; Mongolfiere; Palloni dirigibili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Sausumos transporto priemonių vairavimo sistemos blokai ir dalys; Oro balionai; Valdomieji balionai [dirižabliai].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Stūrēšanas bloki sauszemes transportlīdzekļiem un to daļām; Gaisa baloni; Gaisa kuģi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Unitajiet tal-istering għall-vetturi ta' fuq l-art u partijiet għalihom; Blalen kbar li jintnefħu b' arja sħuna; Diriġibbli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Stuurinrichtingen voor voertuigen en onderdelen daarvoor; Heteluchtballons; Bestuurbare ballons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia kierownicze do pojazdów lądowych oraz części do nich; Balony na gorące powietrze; Sterowce.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Unidades de direcção para veículos terrestres e respectivas peças; Balões de ar quente; Dirigíveis (zeppelins).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Unităţi de direcţie pentru vehicule terestre, şi piese pentru acestea; Baloane cu aer cald; Dirijabile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Riadiace prvky pre pozemné vozidlá a ich časti; Teplovzdušné balóny; Riaditeľné balóny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Krmila za kopenska vozila in deli zanje; Toplozračni baloni; Vodljivi baloni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Styrenheter till fordon och delar därtill; Luftballonger; Luftskepp.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>17</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Пластмасови фолия за покриване на селскостопанска техника и земеделска земя; Гео лайнери; Промишлени опаковъчни пластмасови филми; Пластмасово фолио за строителство; Филм за покриване от пластмасови материали.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Plastové fólie pro zakrývání zemědělského vybavení a zemědělských pozemků; Geo membrány; Průmyslové obalové plastové fólie; Plastové fólie pro výstavbu; Ochranné fólie z plastických hmot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Plasticfolie til overdækning af landbrugsudstyr og landbrugsland; Geobeklædning; Plasticfilm til industriel emballeringsbrug; Plasticfolie til byggevirksomhed; Overdækninger af plastic.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kunststofffolien zum Abdecken von landwirtschaftlichen Geräten und landwirtschaftlichen Flächen; Geoliner; Kunststofffolien für Industrieverpackungen; Kunststofffolien für das Bauwesen; Abdeckfolie aus Kunststoff.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Πλαστικές μεμβράνες για κάλυψη γεωργικού εξοπλισμού και αγροτικών γαιών· Επενδύσεις γεωμεμβράνης· Πλαστική μεμβράνη βιομηχανικής συσκευασίας· Πλαστικές μεμβράνες για κατασκευές· Πλαστικές μεμβράνες κάλυψης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Plastic films for covering agricultural equipment and agricultural land; geo liners; industrial packaging plastic films; plastic film for construction; plastic film covers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Películas de materias plásticas para cubrir equipos agrícolas y terrenos agrícolas; Geomembranas; Películas de materias plásticas para embalajes industriales; Película de plástico para la construcción; Películas de cobertura de materia plástica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Põllumajandusseadmete ja põllumajandusmaa katmise plastkiled; Geovoodrid; Tööstusliku pakendamise plastkiled; Ehituse plastkiled; Plastikust kattekiled.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Muovikalvot maatalouslaitteiden ja maatalousmaan kattamiseen; Geovuoraukset; Muovikalvot teolliseen pakkaamiseen; Muovikalvot rakentamiseen; Muoviset peitekalvot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Protections en film plastique pour équipements agricoles et terres agricoles; Revêtements de géomembranes; Films plastiques pour le conditionnement industriel; Film plastiques pour la construction; Films de couverture en matière plastique.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Plastične folije za pokrivanje poljoprivredne opreme i poljoprivrednog zemljišta; Navlake za tlo; Plastične folije za industrijsko pakiranje; Plastične folije za građevinu; Folije za prekrivanje od plastičnih materijala.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Műanyag fóliaburkolatok mezőgazdasági berendezések és földterületek lefedésére; Geobetét; Ipari műanyag fóliás csomagolás; Műanyag fólia építkezésekhez; Takarófóliák műanyagból.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Teli di plastica per la copertura di attrezzature agricole e terreni agricoli; Geo-liner; Pellicole in plastica per imballaggio industriale; Pellicola in plastica per costruzioni; Pellicole di rivestimento in materie plastiche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Plastikinės plėvelės žemės ūkio įrangai ir žemės ūkio naudmenoms padengti; Geo paklotai; Pramoninės pakavimo plastikinės plėvelės; Plastikinė plėvelė statyboms; Plastikinė dengimo plėvelė.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Plastmasas plēves lauksaimniecības tehnikas un lauksaimniecības zemes pārklāšanai; Ģeogrāfiskais ieliktnis; Rūpnieciskā iepakojuma plastmasas plēves; Plastmasas plēve celtniecībai; Pārklāšanas plēves no plastikāta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Materjal irqiq tal-plastik għall-kisi ta' tagħmir agrikolu u ta' art agrikola; Kisi ġeoloġiku; Materjal irqiq tal-plastik għall-ippakkjar industrijali; Materjal irqiq tal-plastik għall-kostruzzjoni; Films ta' kisi bil-plastik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Plasticfolie voor het afdekken van landbouwuitrusting en landbouwgrond; Voeringen van geokunststoffen; Plasticfolie voor industriële verpakkingen; Plasticfolie voor de bouw; Afdekfolie van plastic.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Folie z tworzyw sztucznych do przykrywania sprzętu rolniczego i terenów rolniczych; Geowłókniny; Przemysłowe folie z tworzyw sztucznych do pakowania; Folie z tworzyw sztucznych do budownictwa; Folie do przykrywania z tworzyw sztucznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Películas plásticas para cobertura de equipamentos agrícolas e terrenos agrícolas; Revestimentos geotêxteis; Películas plásticas de embalagem para uso industrial; Películas plásticas para a construção; Películas de cobertura em matérias plásticas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Folii din plastic pentru acoperirea echipamentelor agricole și terenului agricol; Căptușeli geologice; Folii industriale din plastic pentru ambalat; Folie din plastic pentru construcții; Folii de acoperire din material plastic.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Plastové fólie na zakrývanie poľnohospodárskych zariadení a pozemkov; Geomembránové výplne; Priemyselné plastové obalové fólie; Plastové fólie na stavebné účely; Umelohmotné krycie fólie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Plastične folije za pokrivanje kmetijske opreme in kmetijske zemlje; Geo-podlage; Industrijske pakirne plastične folije; Plastična folija za gradnjo; Prekrivni filmi iz umetnih snovi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Plastfilm för täckning av jordbruksutrustning och jordbruksmark; Geofoder; Industriell plastfilm för förpackning; Plastfilm för konstruktion; Plastfilm för maskering.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>US</PriorityCountryCode>
+<PriorityNumber>88647810</PriorityNumber>
+<PriorityDate>2019-10-09</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/171</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-09-08</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080392</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>69930</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018405525</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>69930</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-08-28</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

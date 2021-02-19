@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:04:17</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222702</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222702</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-08</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>picogrill</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>4</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Запалки за грилове; Горива за барбекю.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Podpalovače na grily; Palivo na grilování.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tændbriketter til grill; Brændsel til udendørs griller.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Grillanzünder; Grillbrennstoffe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Προσανάμματα για ψησταριές· Καύσιμα για χρήση σε ψησταριές.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Firelighters for grills; Fuel for use in barbecues.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Encendedores de barbacoa; Combustible para su uso en barbacoas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Süütetabletid grillidele; Grillkütus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sytykkeet grilleihin; Polttoaineet grillaukseen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Allume-feux pour grills; Combustibles pour barbecues.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kocke za potpalu roštilja; Gorivo za roštilje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Grillgyújtós; Tüzelőanyag barbecue-hoz, kerti grillekhez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Accendifuoco per griglie; Combustibili per barbecue.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kepsninių prakurai; Degalai, skirti naudoti kepsninėse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Iekuri griliem; Grila kurināmie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Qabbada tan-nar għall-grillijiet; Karburanti għall-użu fil-barbikju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Aanmaakblokjes voor grills; Brandstoffen voor gebruik in barbecues.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Podpałki do grilla; Paliwo do grilla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Acendalhas para grelhadores; Combustível para usar em churrascos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aprinzătoare pentru grătare; Combustibil pentru grătare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zapaľovače na grily; Palivo na použitie pri barbecue.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Vžigalna sredstva za žare; Goriva za žar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tändbriketter för grillar; Bränsle för användning i utomhusgrillar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Горелки, отоплителни котли и нагреватели; Грилове за барбекю; Уреди за готвене на хранителни продукти; Отоплителни апарати за храни.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Hořáky, kotle a ohřívače vody; Venkovní grily; Přístroje a zařízení na vaření potravin; Zařízení pro ohřev potravin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Brændere, kedler og varmere; Udendørs grill; Apparater til madlavning; Installationer til opvarmning af fødevarer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Brenner, Boiler und Heizgeräte; Grills; Geräte zum Kochen von Nahrungsmitteln; Geräte zum Erhitzen von Nahrungsmitteln.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καυστήρες, λέβητες και θερμάστρες· Μπάρμπεκιου· Συσκευές μαγειρέματος τροφίμων· Συσκευές θέρμανσης τροφίμων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Burners, boilers and heaters; Barbecues; Appliances for cooking foodstuffs; Installations for heating foodstuffs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Quemadores, calderas y calentadores; Barbacoas; Máquinas para cocinar alimentos; Instalaciones para calentar alimentos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Põletid, boilerid, aurukatlad ja kütteseadmed ja soojendid; Barbeque-ahjud; Toiduvalmistamisseadmed; Seadmed toiduainete soojendamiseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Polttimet, boilerit ja lämmittimet; Ulkogrillit; Koneet elintarvikkeiden valmistukseen; Laitteet elintarvikkeiden lämmittämiseen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Brûleurs, chaudières et réchauffeurs; Barbecues; Appareils de cuisson d'aliments; Appareils à réchauffer les aliments.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Plamenici, bojleri i grijači; Roštilji na ugljen; Aparati za kuhanje hrane; Aparati za zagrijavanje hrane.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Égők, kazánok és fűtő/melegítőkészülékek; Grillezők, grillsütők; Készülékek élelmiszerek főzéséhez; Melegítő berendezések élelmiszerekhez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Bruciatori, bollitori e caloriferi; Barbecues; Macchine per cuocere alimenti; Apparecchi per il riscaldamento di alimenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Degikliai, katilai ir šildytuvai; Kepimo rėmai; Maisto gaminimo reikmenys; Maisto šildymo aparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Degļi, sildītāji un apkures katli; Barbekjū; Pārtikas termiskās apstrādes iekārtas; Ēdiena sildīšanas aparāti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Berners, bojlers u hiters; Barbikjus; Apparat għat-tisjir tal-ikel; Installazzjonijiet biex issaħħan oġġetti tal-ikel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Branders, ketels, boilers en verwarmingsapparaten; Barbecues; Apparaten voor het koken van voedsel; Apparaten voor het verwarmen van voedingsmiddelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Palniki, bojlery i podgrzewacze; Grill; Urządzenia do gotowania żywności; Instalacje do podgrzewania żywności.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Queimadores, caldeiras e aquecedores; Churrasqueiras; Máquinas para cozinhar alimentos; Instalações para aquecimento de alimentos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Arzătoare, boilere şi încălzitoare; Grătare mari în aer liber; Aparate pentru gătirea alimentelor; Instalaţii pentru încălzirea mâncării.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Horáky, ohrievače a vyhrievače; Rošty na opekanie mäsa; Zariadenia na varenie potravín; Zariadenia na ohrievanie potravín.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Gorilniki, kotli in grelniki; Ražnji za uporabo na prostem (ne električni); Naprave za kuhanje živil; Inštalacije za segrevanje živil.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Brännare, pannor och värmare; Utomhusgrillar; Apparater för tillagning av livsmedel; Installationer för uppvärmning av livsmedel.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>21</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Щипки за барбекю; Вилици за барбекю; Прибори за обръщане на храна за барбекю; Стойки за грил; Кухненски ръкавици; Скари [прибори за готвене]; Стъргалки за грил [почистващи средства]; Четки за почистване за скари на барбекюта; Неелектрически тигани за печене; Неелектрически тигани за печене; Грил скари от дърво.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kleště na grilování; Vidličky na grilování; Grilovací obracečky; Stojany na grily, grilovací rošty; Chňapky (rukavice); Kuchyňské rošty na pečení; Škrabky na gril [čisticí prostředky]; Kartáče na čištění roštů na opékání masa; Neelektrické grily; Neelektrické grily; Dřevěná grilovací prkénka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Grilltænger; Grillgafler; Grillspatler; Stativer til stegeriste; Ovnhandsker; Grillriste [køkkenredskaber]; Grillskrabere [rengøringsartikler]; Børster til rengøring af udendørs grill; Ikke-elektriske bageplader; Ikke-elektriske bageplader; Grillbrætter af træ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Grillzangen; Grillgabeln; Grillwender; Grillständer; Grillhandschuhe; Grillroste [Küchengeräte]; Grillkratzer [Reinigungsartikel]; Reinigungsbürsten für Grillgeräte; Nicht elektrische Grillplatten; Nicht elektrische Grillpfannen; Grillbretter aus Holz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λαβίδες ψησίματος στη σχάρα· Πιρούνια ψησίματος, για χρήση κατά το ψήσιμο στη σχάρα· Εργαλεία για το γύρισμα των τροφίμων κατά το ψήσιμο στη σχάρα· Σχάρες (φορείς -ων)· Γάντια φούρνου χωρίς χωρίσματα για τα δάκτυλα· Ψηστιέρες [μαγειρικά σκεύη]· Ξύστρες σχάρας [είδη καθαρισμού]· Βούρτσες για καθαρισμό της σχάρας ψησταριάς· Μη ηλεκτρικές πλάκες ψησίματος· Μη ηλεκτρικές πλάκες ψησίματος· Σανίδες ψησίματος από ξύλο.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Barbecue tongs; Barbecue forks; Barbecue turners; Gridiron supports; Oven mitts; Griddles [cooking utensils]; Grill scrapers [cleaning articles]; Cleaning brushes for barbecue grills; Non-electric griddles; Non-electric griddles; Grilling planks of wood.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Pinzas para barbacoa; Tenedores trinchantes para barbacoa; Volteadores para barbacoa; Soportes para parrillas; Manoplas de cocina; Parrillas [utensilios de cocina]; Raspadores de parrilla [artículos de limpieza]; Cepillos para limpiar parrillas de barbacoas; Planchas para tostar no eléctricas; Planchas para tostar no eléctricas; Tablas de cocina de madera utilizadas para asar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Grilltangid; Grillikahvlid; Grillilabidad; Grillitoendid, -alused; Pajakindad; Grillid [köögiriistad]; Grillikaabitsad [puhastustarbed]; Grillipuhastusharjad; Mitteelektrilised grillplaadid; Mitteelektrilised grillplaadid; Puidust grillialused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Grillipihdit; Grillihaarukat; Grillikääntimet; Halstarituet; Patakintaat; Parilat [ruoanlaittovälineinä]; Grillikaapimet [puhdistustuotteet]; Grillien puhdistusharjat; Ei-sähköiset paistolaatat; Ei-sähköiset paistolaatat; Puiset grillauslankut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Pinces pour barbecue; Fourchettes pour barbecue; Tourneurs pour barbecue; Supports pour grils; Gants de cuisine; Grils [ustensiles de cuisson]; Grattoirs pour grills [articles de nettoyage]; Brosses pour nettoyer les grilles de barbecue; Grils non électriques; Grils non électriques; Planches de cuisson en bois pour grillades.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Hvataljke za roštilj; Vilice za roštilj; Pribor za okretanje hrane na roštilju; Postolja za rešetke roštilj; Kuhinjske rukavice; Ploče za pečenje [kuhinjska oprema]; Strugalice za roštilj (predmeti za čišćenje); Četke za čišćenje rešetke roštilja; Neelektrične ploče za pečenje; Neelektrične ploče za pečenje; Drvene ploče za gril.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Grill fogók, csipeszek; Grillező villák; Grill lapátok; Grillállványok; Grillkesztyűk; Grillek, rostélyok [sütőeszközök]; Kaparók grillsütőkhöz [tisztítócikkek]; Tisztítókefék grillsütőkhöz; Grillserpenyők (nem elektromos); Grillserpenyők (nem elektromos); Fából készült grill lapok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pinze per barbecue; Forchette per barbecue; Palette da barbecue; Supporti di graticole; Guanti da forno; Graticole; Raschietti per griglie (articoli per la pulizia); Spazzole per la pulizia di griglie di barbecue; Griglie non elettriche; Griglie non elettriche; Tavole da cucina di legno per grigliare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kepsninės žnyplės; Kepsninės šakės; Grilio mentelės; Kepimo gardelės; Orkaitės pirštinės; Keptuvai [griliai]; Kepsninių šveistukai [valymo reikmenys]; Kepsninių valymo šepečiai; Ne elektrinės kepimo plokštumos; Ne elektrinės kepimo plokštumos; Medžio plokštės, skirtos kepti ant grotelių.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Grila standziņas; Grila dakšiņas; Grila lāpstiņas; Grilu statīvi; Grila cimdi; Grili (virtuves piederumi); Grila skrāpji [tīrīšanas līdzekļi]; Birstes grilu restu tīrīšanai; Neelektriski grili (restes cepšanai); Neelektriski grili (restes cepšanai); Koka dēlīši grilēšanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tnaljetti tal-barbikju; Frieket tal-barbikju; Paletti tal-barbikju; Appoġġ għall-gradilji fuq xiex jinxtwew il-ħut jew laħam; Ingwanti tal-forn; Pjanċi għat-tisjir jew għall-ħami ta' kejkijiet ċatti [utensili tat-tisjir]; Barraxa għall-gradilji [oġġetti għat-tindif]; Xkupilji tat-tindif għall-grills tal-barbikju; Pjanċa tal-metall għat-tisjir (mhux tal-elettriku); Pjanċa tal-metall għat-tisjir (mhux tal-elettriku); Pjanċi tax-xiwi tal-injam.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Barbecuetangen; Barbecuevorken; Wentelaars voor het barbecueën; Roostersteunen; Ovenhandschoenen; Braadroosters; Grillschrapers [schoonmaakartikelen]; Reinigingsborstels voor barbecuegrills; Niet-elektrische grills; Niet-elektrische grills; Grilplanken van hout.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Szczypce do grilla; Widelce do grilla; Łopatki do grillowania; Elementy podtrzymujące ruszt; Rękawice kuchenne; Ruszty [kuchenne]; Skrobaki do grilla [artykuły czyszczące]; Szczotki do czyszczenia grillów; Nieelektryczne blachy do pieczenia na wolnym ogniu; Nieelektryczne blachy do pieczenia na wolnym ogniu; Deski drewniane do grillowania.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Pinças para churrasco; Garfos para churrasco; Utensílios para virar alimentos em churrasqueiras; Suportes para grelhas; Luvas para forno; Grelhas [utensílios para cozinhar]; Raspadores para grelhas [artigos de limpeza]; Escovas de limpeza para churrasqueiras; Grelhadores não elétricos; Grelhadores não elétricos; Tábuas de madeira para grelhar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cleşti pentru grătar; Furculiţe pentru grătar; Spatule pentru grătar; Grătare (Suporturi de -); Mănuşi de bucătărie; Grătare [ustensile pentru gătit]; Răzuitoare pentru grătar [produse pentru curăţare]; Perii de curăţare a grătarelor; Grătare [neelectrice]; Grătare [neelectrice]; Scânduri din lemn pentru grătar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Grilovacie kliešte; Grilovacie vidličky; Grilovacie obracačky; Stojany na grily; Kuchynské rukavice, chňapky; Grily, rošty (potreby na opekanie); Škrabky na gril (čistiace potreby); Kefy na čistenie barbecue grilov; Neelektrické platne na grilovanie; Neelektrické platne na grilovanie; Drevené grilovacie doštičky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Klešče za žar; Vilice za žar; Pribor za obračanje hrane za žar; Stojala za ražnje; Rokavice za žar; Železne plošče za pečenje (pripomočki za kuhanje); Strgala za žar [čistilni pripomočki]; Krtače za čiščenje ražnjev; Neelektrične rešetke za peko; Neelektrične rešetke za peko; Lesene deske za žar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tänger till utomhusgrillar; Gafflar till utomhusgrillar; Stekspadar för grillar; Grillstöd; Grillvantar; Pannkakslaggar; Grillskrapor [artiklar för rengöringsändamål]; Borstar för rengöring av utegrillar; Pannkakslaggar, inte elektriska; Pannkakslaggar, inte elektriska; Grillplankor av trä.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/079</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1078983</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>84544</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

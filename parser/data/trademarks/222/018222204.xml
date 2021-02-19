@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-28T09:52:44</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222204</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222204</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<RegistrationDate>2020-07-28</RegistrationDate>
+<ApplicationLanguageCode>sv</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-08</ExpiryDate>
+<MarkCurrentStatusCode milestone="12" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SUPPORT YOUR ARTIST 2020</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162187183</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/222/018222204/000162187183.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>02.01.09</CategoryCode>
+          <CategoryCode>02.01.16</CategoryCode>
+          <CategoryCode>02.01.23</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Облекло; Обувки; Украшения за глава, шапки; Части от облекло, обувки, шапки и принадлежности за глава.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Oděvy; Obuv; Pokrývky hlavy; Části oděvů, obuvi a pokrývek hlavy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beklædningsgenstande; Fodtøj; Hovedbeklædning; Dele af beklædningsgenstande, fodtøj og hovedbeklædning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bekleidungsstücke; Schuhwaren; Kopfbedeckungen; Teile von Bekleidungsstücken, Schuhwaren und Kopfbedeckungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ενδύματα· Υποδήματα· Είδη πιλοποιίας· Μέρη ενδυμάτων, υποδημάτων και ειδών πιλοποιίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Clothing; Footwear; Headgear; Parts of clothing, footwear and headgear.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Prendas de vestir; Calzado; Artículos de sombrerería; Partes de indumentaria, calzado y sombrerería.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Rõivad; Jalatsid; Peakatted; Rõivaste, jalatsite ja peakatete osad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vaatteet; Jalkineet; Päähineet; Vaatteiden, jalkineiden ja päähineiden osat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vêtements; Chaussures; Chapellerie; Parties de vêtements, articles chaussants et articles de chapellerie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Odjeća; Obuća; Pokrivala za glavu; Dijelovi odjeće, obuće i pokrivala za glavu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ruházati cikkek; Lábbelik; Kalapáruk; Ruházat, lábbelik és fejfedők részei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Abbigliamento; Calzature; Cappelleria; Parti di abbigliamento, calzature e articoli di cappelleria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Drabužiai, apranga; Apavas; Galvos apdangalai; Drabužių, avalynės ir galvos apdangalų dalys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apģērbi; Apavi; Galvassegas; Apģērbu, apavu un galvassegu daļas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ilbies; Xedd is-saqajn; Xedd ir-ras; Partijiet minn ħwejjeġ, xedd is-saqajn u xedd ir-ras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kleding; Schoeisel; Hoofddeksels; Delen van kleding, schoeisel en hoofdbedekking.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odzież; Obuwie; Nakrycia głowy; Części odzieży, obuwia i nakryć głowy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vestuário; Calçado; Chapelaria; Partes de vestuário, calçado e chapelaria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Articole de îmbrăcăminte; Articole de încălțăminte; Articole pentru acoperirea capului; Părți de îmbrăcăminte, încălțăminte și articole pentru acoperirea capului.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Odevy; Obuv; Pokrývky hlavy; Časti oblečenia, obuvi a pokrývok hlavy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oblačila; Obutev; Pokrivala; Deli oblačil, obutve in pokrival.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kläder; Fotbeklädnader; Huvudbonader; Delar av kläder, fotbeklädnader och huvudbonader.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за търговия на дребно във връзка с облекло; Услуги за продажба на дребно във връзка с аксесоари за облекло; Услуги за търговия на дребно във връзка с чанти; Услуги за търговия на дребно във връзка с бижута; Услуги за търговия на дребно във връзка с умни часовници; Услуги за търговия на дребно във връзка със сервизи и прибори за хранене; Услуги за търговия на дребно във връзка с чаши; Услуги за продажба на дребно, свързани с тектстил за дома; Услуги за търговия на дребно във връзка с игри; Услуги за търговия на дребно във връзка с печатни изделия; Разпространение на рекламни, маркетингови и промоционални материали.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Maloobchodní prodej oblečení; Maloobchodní služby v oblasti oděvních doplňků; Maloobchodní prodej vaků; Maloobchodní prodej šperků; Maloobchodní služby týkající se chytrých hodinek; Maloobchodní prodej nádobí; Maloobchodní prodej hrnků a sklenic; Maloobchodní služby zaměřené na bytové textilie; Maloobchodní prodej her; Maloobchodní prodej tiskovin; Rozšiřování reklamních marketingových a propagačních materiálů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Detailhandel med beklædning; Detailhandel med beklædningstilbehør; Detailhandel med tasker; Detailhandel med smykker; Detailhandel med intelligente armbåndsure; Detailhandel med bordservice; Detailhandel med kopper og glas; Detailhandel med boligtekstiler; Detailhandel med spil; Detailhandel med tryksager; Distribution af annonce-, marketing- og Promotionmateriale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Einzelhandelsdienstleistungen in Bezug auf Bekleidungsstücke; Einzelhandelsdienstleistungen in Bezug auf Bekleidungsaccessoires; Einzelhandelsdienstleistungen in Bezug auf Taschen; Einzelhandelsdienstleistungen in Bezug auf Schmuckwaren; Einzelhandelsdienstleistungen in Bezug auf Smartwatches; Einzelhandelsdienstleistungen in Bezug auf Geschirr; Einzelhandelsdienstleistungen in Bezug auf Tassen und Gläser; Einzelhandelsdienstleistungen in Bezug auf Heimtextilien; Einzelhandelsdienstleistungen in Bezug auf Spiele; Einzelhandelsdienstleistungen in Bezug auf Drucksachen; Verteilung von Werbe-, Marketing- und verkaufsfördernden Materialien.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες λιανικής πώλησης σε σχέση με ενδύματα· Υπηρεσίες λιανικής πώλησης σε σχέση με αξεσουάρ ένδυσης· Υπηρεσίες λιανικής πώλησης σε σχέση με τσάντες· Υπηρεσίες λιανικής πώλησης σε σχέση με κοσμήματα· Υπηρεσίες λιανικής πώλησης σε σχέση με έξυπνα τηλέφωνα· Υπηρεσίες λιανικής πώλησης σε σχέση με επιτραπέζια σκεύη· Υπηρεσίες λιανικής πώλησης σε σχέση με κούπες και ποτήρια· Υπηρεσίες λιανικής πώλησης σε σχέση με υφάσματα οικιακής χρήσης· Υπηρεσίες λιανικής πώλησης σε σχέση με παιχνίδια· Υπηρεσίες λιανικής πώλησης σε σχέση με έντυπο υλικό· Διανομή διαφημιστικού, εμπορικού και προωθητικού υλικού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Retail services in relation to clothing; Retail services in relation to clothing accessories; Retail services in relation to bags; Retail services in relation to jewellery; Retail services in relation to smartwatches; Retail services in relation to tableware; Retail services in relation to cups and glasses; Retail services relating to home textiles; Retail services in relation to games; Retail services in relation to printed matter; Distribution of advertising, marketing and promotional material.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de venta al por menor relacionados con ropa; Servicios de venta al por menor en relación con complementos de vestir; Servicios de venta al por menor de bolsos; Servicios de venta al por menor relacionados con joyería; Servicios de venta al por menor en relación con relojes inteligentes; Servicios de venta al por menor de vajillas; Servicios de venta al por menor en relación con tazas y vasos; Servicios de venta al por menor relacionados con textiles para el hogar; Servicios de venta al por menor de juegos; Servicios de venta al por menor relacionados con material impreso; Distribución de publicidad, marketing y material con fines promocionales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Rõivaste jaemüügiteenused; Rõiva aksessuaaride jaemüügiteenused; Kottide jaemüügiteenused; Ehete jaemüügiteenused; Nutikellade jaemüügiteenused; Lauanõude jaemüügiteenused; Tasside ja klaaside jaemüügiteenused; Kodutekstiilide jaemüügiteenused; Mängude jaemüügiteenused; Trükiste jaemüügiteenused; Reklaam- ja turundusmaterjalide laialijaotamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vaatteisiin liittyvät vähittäismyyntipalvelut; Asusteiden vähittäismyyntipalvelut; Laukkuihin liittyvät vähittäismyyntipalvelut; Koruihin liittyvät vähittäismyyntipalvelut; Älykelloihin liittyvät vähittäismyyntipalvelut; Ruokailuvälineisiin liittyvät vähittäismyyntipalvelut; Kuppeihin ja laseihin liittyvät vähittäismyyntipalvelut; Kodintekstiilejä koskevat vähittäismyyntipalvelut; Peleihin liittyvät vähittäismyyntipalvelut; Painotuotteisiin liittyvät vähittäismyyntipalvelut; Mainos-, markkinointi- ja myynninedistämismateriaalin jakelu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de vente au détail concernant les vêtements; Services de vente au détail en rapport avec les accessoires vestimentaires; Services de vente au détail concernant les sacs; Services de vente au détail concernant les bijoux; Services de vente au détail concernant les montres intelligentes; Services de vente au détail concernant la vaisselle; Services de vente au détail de tasses et verres à boire; Services de vente au détail liés aux tissus d’ameublement; Services de vente au détail concernant les jeux; Services de vente au détail concernant les produits de l'imprimerie; Distribution de matériel publicitaire, de commercialisation et promotionnel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Maloprodajne usluge vezane uz odjeću; Maloprodajne usluge u vezi s odjevnim dodacima; Maloprodajne usluge u vezi s torbama; Maloprodajne usluge vezane uz nakit; Maloprodajne usluge u vezi s pametnim satovima; Maloprodajne usluge u vezi sa stolnim posuđem; Maloprodajne usluge u vezi sa šalicama i čašama; Maloprodajne usluge u vezi s tekstilom za kućanstvo; Maloprodajne usluge u vezi s igrama; Maloprodajne usluge vezane uz tiskani materijal; Distribucija oglasnog, marketinškog i promotivnog materijala.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ruházkodással kapcsolatos kiskereskedelmi szolgáltatások; Ruházati kiegészítőkkel kapcsolatos kiskereskedelmi szolgáltatások; Táskákkal kapcsolatos kiskereskedelmi szolgáltatások; Ékszerekkel kapcsolatos kiskereskedelmi szolgáltatások; Kiskereskedelmi szolgáltatások okosórákkal kapcsolatban; Étkészletekkel kapcsolatos kiskereskedelmi szolgáltatások; Csészékkel és poharakkal kapcsolatos kiskereskedelmi szolgáltatások; Kiskereskedelmi szolgáltatások otthoni textíliákhoz kapcsolódóan; Játékokkal kapcsolatos kiskereskedelmi szolgáltatások; Nyomtatott anyagokkal kapcsolatos kiskereskedelmi szolgáltatások; Reklám, marketing és promóciós anyagok terjesztése.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi al dettaglio in relazione all'abbigliamento; Servizi di vendita al dettaglio di accessori per abbigliamento; Servizi al dettaglio in relazione a borse; Servizi al dettaglio in relazione a gioielleria; Servizi al dettaglio in relazione a smartwatch; Servizi al dettaglio in relazione a stoviglie; Servizi di vendita al dettaglio in relazione a tazze e bicchieri; Servizi di vendita al dettaglio di tessuti per la casa; Servizi al dettaglio in relazione a giochi; Servizi al dettaglio in relazione a stampe; Distribuzione di materiale pubblicitario, di ricerche di mercato e promozionale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mažmeninė prekyba drabužiais; Mažmeninė prekyba drabužių aksesuarais; Mažmeninė prekyba krepšiais; Mažmeninė prekyba juvelyriniais dirbiniais; Mažmeninė prekyba išmaniais laikrodžiais; Mažmeninė prekyba valgomaisiais reikmenimis; Mažmeninė prekyba puodeliais ir stiklinėmis; Mažmeninė prekyba namų apyvokos audiniais; Mažmeninė prekyba žaidimais; Mažmeninė prekyba spaudiniais; Reklaminės, rinkodaros ir pardavimų skatinimo medžiagos platinimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mazumtirdzniecības pakalpojumi saistībā ar apģērbiem; Apģērbu aksesuāru mazumtirdzniecības pakalpojumi; Mazumtirdzniecības pakalpojumi saistībā ar somām; Mazumtirdzniecības pakalpojumi saistībā ar juvelierizstrādājumiem; Mazumtirdzniecības pakalpojumi saistībā ar viedpulksteņiem; Galda piederumu mazumtirdzniecības pakalpojumi; Tasīšu un glāžu mazumtirdzniecības pakalpojumi; Mājas tekstilizstrādājumu mazumtirdzniecības pakalpojumi; Mazumtirdzniecības pakalpojumi saistībā ar spēlēm; Mazumtirdzniecības pakalpojumi saistībā ar iespiedprodukciju; Reklāmas, tirgvedības un preču noieta veicināšanas materiālu izplatīšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' bejgħ bl-imnut fir-rigward ta' ilbies; Servizzi ta' bejgħ bl-imnut fir-rigward ta' aċċessorji tal-ħwejjeġ; Servizzi ta' bejgħ bl-imnut fir-rigward tal-bagalji; Servizzi ta' bejgħ bl-imnut fir-rigward ta' ġojjellerija; Servizzi ta' bejgħ bl-imnut fir-rigward arloġġi tal-idejn tat-tip smart; Servizzi ta' bejgħ bl-imnut fir-rigward tal-oġġetti tal-mejda; Servizzi ta' bejgħ bl-imnut relatati ma' kikkri u tazzi tax-xorb; Servizzi ta' bejgħ bl-imnut relatati ma' tessuti tad-dar; Servizzi ta' bejgħ bl-imnut fir-rigward tal-logħob; Servizzi ta' bejgħ bl-imnut fir-rigward ta' materjal stampat; Distribuzzjoni ta' materjal tar-reklamar, marketing u promozzjonali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Detailhandelsdiensten op het gebied van kleding; Detailhandelsdiensten op het gebied van kledingaccessoires; Detailhandelsdiensten op het gebied van tassen; Detailhandelsdiensten op het gebied van juwelen; Detailhandel met betrekking tot slimme horloges (smartwatches); Detailhandelsdiensten op het gebied van serviesgoed; Detailhandelsdiensten op het gebied van kopjes en glazen; Detailhandelsdiensten op het gebied van woontextiel; Detailhandelsdiensten op het gebied van spellen; Detailhandelsdiensten op het gebied van drukwerken; Verspreiding van advertentie-, marketing en promotiemateriaal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi sprzedaży detalicznej w związku z odzieżą; Usługi handlu detalicznego w odniesieniu do akcesoriów odzieżowych; Usługi sprzedaży detalicznej w związku z torbami; Usługi sprzedaży detalicznej w związku z biżuterią; Usługi sprzedaży detalicznej dotyczące smartwatchów; Usługi sprzedaży detalicznej w związku z zastawą stołową; Usługi handlu detalicznego związane z filiżankami i szklankami; Usługi handlu detalicznego dotyczące tekstyliów domowych; Usługi sprzedaży detalicznej w związku z grami; Usługi sprzedaży detalicznej w związku z drukami; Dystrybucja materiałów reklamowych, marketingowych i promocyjnych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços retalhistas relacionados com vestuário; Serviços de venda a retalho relacionados com acessórios de vestuário; Serviços retalhistas relacionados com sacos; Serviços retalhistas relacionados com joalharia; Serviços retalhistas relacionados com relógios inteligentes; Serviços retalhistas relacionados com talheres; Serviços de venda a retalho de chávenas e copos; Serviços de venda a retalho relacionados com têxteis para o lar; Serviços retalhistas relacionados com jogos; Serviços retalhistas relacionados com material impresso impressões; Distribuição de material publicitário, de marketing e promocional.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de vânzare cu amănuntul în legătură cu îmbrăcăminte; Servicii de vânzare cu amănuntul în legătură cu accesorii pentru haine; Servicii de vânzare cu amănuntul în legătură cu genți; Servicii de vânzare cu amănuntul în legătură cu bijuterii; Servicii de vânzare cu amănuntul în legătură cu ceasuri inteligente; Servicii de vânzare cu amănuntul în legătură cu veselă; Servicii de comerț cu amănuntul în legătură cu căni și pahare; Servicii de vânzare cu amănuntul referitoare la materiale textile pentru casă; Servicii de vânzare cu amănuntul în legătură cu jocuri; Servicii de vânzare cu amănuntul în legătură cu materiale tipărite; Distribuirea de materiale publicitare, de marketing și materiale promoționale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Maloobchodné služby s odevami; Maloobchodné služby v oblasti odevných doplnkov; Maloobchodné služby s taškami; Maloobchodné služby s klenotníckymi výrobkami; Maloobchodné služby týkajúce sa smart hodiniek; Maloobchodné služby so stolovým riadom; Maloobchodné služby v súvislosti s hrnčekmi a pohármi; Maloobchodné služby týkajúce sa bytových textílií; Maloobchodné služby s hrami; Maloobchodné služby s tlačovami; Rozširovanie reklamných a propagačných materiálov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve prodaje na drobno v zvezi z oblačili; Maloprodajne storitve v zvezi z oblačilnimi dodatki; Storitve prodaje na drobno v zvezi s torbami; Storitve prodaje na drobno v zvezi z nakitom; Storitve prodaje na drobno v zvezi s pametnimi urami; Storitve prodaje na drobno v zvezi z namiznim priborom; Maloprodajne storitve v zvezi s skodelicami in kozarci; Maloprodajne storitve v zvezi s tekstilom za dom; Storitve prodaje na drobno v zvezi z igrami; Storitve prodaje na drobno v zvezi s tiskovinami; Distribucija oglaševalskega, tržnega in promocijskega materiala.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Återförsäljning avseende kläder; Återförsäljning avseende accessoarer för kläder; Återförsäljartjänster avseende väskor; Återförsäljning avseende juvelerarvaror; Återförsäljning avseende smarta klockor; Återförsäljning avseende bordsserviser; Återförsäljning avseende koppar och dricksglas; Återförsäljning avseende hemtextilier; Återförsäljning avseende spel; Återförsäljning avseende trycksaker; Distribution av annons-, marknadsförings- och reklammaterial.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>36</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Набиране на средства и финансово спонсориране; Организиране на благотворителни колекции [за трети лица]; Организиране на бизнес дейности за набиране на средства за благотворителност; Уреждане на набиране на средства; Благотворително събиране на средства посредством развлекателни мероприятия.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Získávání finančních prostředků a finanční sponzorování; Organizování dobročinných sbírek pro třetí osoby; Řízení obchodních činností za účelem získání finančních prostředků; Pořádání dobročinných sbírek; Získávání prostředků na charitativní účely formou zábavních akcí.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Fundraising og finansiel sponsorering; Arrangering af velgørenhedsindsamlinger [for andre]; Arrangering af erhvervsrettede fundraisingaktiviteter; Arrangering af fundraising; Indsamlinger til velgørenhed ved hjælp af underholdningsarrangementer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Fundraising und finanzielles Sponsoring; Durchführung von Sammlungen für Wohltätigkeitszwecke für Dritte; Organisation von Fundraising-Aktivitäten für Unternehmen; Organisation von Spendensammlungen; Gemeinnütziges Spendensammeln durch Unterhaltungsveranstaltungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συγκέντρωση χρημάτων και οικονομική χορηγία· Διοργάνωση φιλανθρωπικών εράνων [για λογαριασμό τρίτων]· Οργάνωση επιχειρηματικών δραστηριοτήτων για τη συγκέντρωση κεφαλαίων· Διοργάνωση εκδηλώσεων για τη συγκέντρωση κεφαλαίων· Φιλανθρωπικοί έρανοι μέσω ψυχαγωγικών εκδηλώσεων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Fundraising and financial sponsorship; Arranging charitable collections [for others]; Arranging business fundraising activities; Arranging fundraising; Charitable fundraising by means of entertainment events.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Recaudación de fondos y patrocinio financiero; Organización de recaudaciones de beneficencia para terceros; Organización de actividades comerciales de recaudación de fondos de beneficencia; Organización de recaudación de fondos; Recaudación de fondos con fines benéficos mediante la celebración de eventos de entretenimiento.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Korjandused ja finantssponsorlus; Heategevuslike korjanduste korraldamine teenusena; Ärikorjanduste korraldamine; Korjanduste korraldamine; Meelelahutusürituste abil toimuvad heategevuskorjandused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Varainkeruu ja taloudellinen sponsorointi; Hyväntekeväisyyskeräysten järjestäminen [muille]; Liiketoiminnan varainkeruutoimien järjestäminen; Varainkeruun järjestäminen; Varojen keräys hyväntekeväisyyteen ajanvietetapahtumien avulla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Collecte de fonds et parrainage financier; Organisation de collectes de fonds caritatives pour le compte de tiers; Organisation d’activités commerciales de collecte de fonds; Organisation de collectes de fonds; Collectes de fonds de bienfaisance par le biais d'évènements de divertissement.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Prikupljanje financijskih sredstava i financijsko pokroviteljstvo; Organiziranje humanitarnih prikupljanja [za druge]; Organizacija poslovnih aktivnosti za prikupljanje sredstava u dobrotvorne svrhe; Organizacija prikupljanja sredstava u dobrotvorne svrhe; Usluge prikupljanja sredstava u dobrotvorne svrhe putem zabavnih događanja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Adománygyűjtés és pénzügyi szponzorálás; Jótékonysági gyűjtések szervezése; Üzleti adománygyűjtési tevékenységek szervezése; Adománygyűjtés szervezése; Szórakoztató rendezvények révén történő jótékonysági célú gyűjtések.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Raccolta di fondi e sponsorizzazione finanziaria; Organizzazione di collette di beneficenza [per conto terzi]; Organizzazione di attività per la raccolta di fondi per imprese; Organizzazione della raccolta di fondi; Raccolta fondi a scopo benefico tramite spettacoli di intrattenimento.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Lėšų rinkimas ir finansinė parama; Labdaringos rinkliavos tvarkymas [kitiems]; Lėšų rinkimas verslui finansuoti; Lėšų rinkimo organizavimas; Labdaros lėšų rinkimas rengiant pramoginius renginius.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Līdzekļu vākšana un finansiāla sponsorēšana; Labdarības līdzekļu vākšana (trešajām pusēm); Uzņēmumu līdzekļu piesaistes pasākumu rīkošana; Līdzekļu vākšanas pasākumu organizēšana; Labdarības līdzekļu vākšana izklaides pasākumos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ġbir ta' fondi u sponsorizzazzjoni finanzjarja; Arranġament ta' ġbir ta' karità [għall-oħrajn]; L-organizzazzjoni ta' attivitajiet ta' ġbir ta' fondi għan-negozji; L-organizzazzjoni ta' ġbir ta' fondi; Ġbir ta' fondi għall-karità permezz ta' avvenimenti ta' divertiment.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Fondsenwerving en financiële sponsoring; Liefdadigheidscollectes [voor derden]; Het organiseren van fondsenwervingsactiviteiten voor zakelijke doeleinden; Het organiseren van fondsenwerving; Charitatieve fondsenwerving door middel van entertainment evenementen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Gromadzenie funduszy i sponsorowanie finansowe; Organizowanie zbiórek charytatywnych [na rzecz osób trzecich]; Organizowanie działań mających na celu zbieranie funduszy na cele biznesowe; Organizowanie zbierania funduszy; Gromadzenie funduszy na cele charytatywne za pomocą imprez rozrywkowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Angariação de fundos e patrocínio financeiro; Organização de coletas de beneficência para terceiros; Organização de atividades de angariação de fundos para empresas; Organização de fundos de beneficência; Angariação de fundos de caridade através de eventos de entretenimento.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Strângere de fonduri și sponsorizare financiară; Organizare de colecte de binefacere [pentru terți]; Coordonarea activităților de strângere de fonduri în scopuri comerciale; Coordonarea strângerilor de fonduri; Colecte de fonduri de binefacere în cadrul evenimentelor de divertisment.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Získavanie finančných prostriedkov a finančné sponzorstvo; Organizovanie dobročinných zbierok pre klientov; Zabezpečovanie činností na získanie finančných prostriedkov pre podniky; Zabezpečovanie získavania finančných prostriedkov; Organizovanie dobročinných zbierok prostredníctvom zábavných podujatí.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zbiranje sredstev in finančno sponzoriranje; Organiziranje dobrodelnega zbiranja sredstev [za druge]; Prirejanje poslovnih dejavnosti za zbiranje sredstev; Organizacija zbiranja sredstev; Zbiranje sredstev za dobrodelne namene na razvedrilnih prireditvah.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Penninginsamlingar och sponsring; Anordnande av ekonomiska välgörenhetsinsamlingar [för andra]; Anordnande av aktiviteter för kapitalanskaffning för företag; Anordnande av finansiella insamlingar; Insamling av penningmedel för välgörenhetsinrättningar genom underhållningsevenemang.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/073</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10936</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

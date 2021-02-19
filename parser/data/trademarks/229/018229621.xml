@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-15T17:20:28</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229621</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229621</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-24</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>INDIGO SUITE</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162504878</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229621/000162504878.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.25</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Информационнoтехнологично и аудиовизуално оборудване; Всички горепосочени услуги, ограничени в областта на бизнес софтуер.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zařízení v oblasti informačních technologií a audiovizuální zařízení; Všechny výše uvedené služby omezené na obor obchodního softwaru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Informationsteknologisk og audiovisuelt udstyr; Idet alle førnævnte tjenester er begrænset til forretningssoftwareområdet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Informationstechnologische und audiovisuelle Geräte; Alle vorgenannten Dienstleistungen nur im Bereich Unternehmenssoftware.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Τεχνολογία των πληροφοριών και οπτικοακουστικός εξοπλισμός· Στο σύνολό τους οι προαναφερόμενες υπηρεσίες αποκλειστικά στον τομέα του επιχειρηματικού λογισμικού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Information technology and audiovisual equipment; All the aforementioned services limited in the field of business software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Equipos audiovisuales y de información tecnológica; Todos los servicios anteriormente mencionados limitados al ámbito del software comercial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Infotehnoloogia- ja audiovisuaalseadmed; Kõik eelnimetatud teenused on kasutamiseks ainult majandustarkvara valdkonnas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tietotekniset ja audiovisuaaliset laitteet; Kaikki edellä mainitut palvelut yksinomaan liiketoimintaohjelmistojen alalla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Équipement audiovisuel et de technologie de l'information; Tous les services précités limités au domaine des logiciels commerciaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Oprema za informacijsku tehnologiju i audiovizualna oprema; Sve gore spomenute usluge ograničene su na područje poslovnog softvera.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Információtechnológia és audiovizuális berendezések; Az összes fent említett szolgáltatás az üzleti szoftverek területére korlátozva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Attrezzature informatiche ed audiovisivi; Tutti i suddetti servizi esclusivamente in materia di software aziendali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Informacinių technologijų ir audiovizualinė įranga; Visos pirmiau minėtos paslaugos, susijusios tik verslo programine įranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Informācijas tehnoloģiju un audiovizuālās ierīces; Visi iepriekš minētie pakalpojumi ir ierobežoti tikai uzņēmējdarbības programmatūras jomā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħmir għall-informazzjoni teknoloġika u awdjoviżwali; Fejn is-servizzi kollha msemmija hawn qabel huma limitati għall-qasam tas-softwer relatat man-negozju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Informatietechnologische en audiovisuele apparatuur; Alle voornoemde diensten beperkt tot het gebied van zakelijke software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia technologii informacyjnej i audiowizualne; Wszystkie wyżej wymienione usługi wyłącznie w dziedzinie oprogramowania na rzecz działalności gospodarczych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Equipamento de tecnologia de informação e audiovisuais; Todos os serviços atrás referidos limitados ao domínio do software empresarial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Echipamente din domeniul tehnologiei informaţionale şi audiovizualului; Toate serviciile susmenționate limitate la domeniul software-ului pentru firme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zariadenia informačných technológií a audiovizuálne zariadenia; Všetky vyššie uvedené služby sa obmedzujú výlučne na oblasť obchodného softvéru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Informacijska tehnologija in avdiovizualna oprema; Vse navedene storitve so omejene na področje poslovne programske opreme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Utrustning för informationsteknologi samt audiovisuella varor; Alla nämnda tjänster begränsade till området företagsprogramvara.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бизнес анализи и информационни услуги, и проучване на пазара; Търговско подпомагане, търговско управление и административни услуги; Предоставяне на търговска информация и съвети за клиенти [център за потребителски съвети]; Всички горепосочени услуги единствено в областта на бизнес софтуера.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Obchodní analýzy, informační služby a průzkumy trhu; Pomoc v obchodní a podnikatelské činnosti, management a administrativní služby; Obchodní informace a rady pro spotřebitele [poradna pro spotřebitele]; Všechny výše uvedené služby pouze v oboru podnikového softwaru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Forretningsanalyse- og informationstjenester og markedsforskning; Bistand ved forretningsudførelse, -ledelse og -administration; Kommerciel information og rådgivning til forbrugere [forbrugerrådgivning]; Alle førnævnte tjenesteydelser udelukkende til anvendelse inden for software til forretningsvirksomhed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Unternehmensanalyse- und -informationsdienste sowie Marktforschung; Hilfe in Geschäftsangelegenheiten, Geschäftsführung und administrative Dienstleistungen; Erteilung von Auskünften [Information] und Beratung für Verbraucher in Handels- und Geschäftsangelegenheiten [Verbraucherberatung]; Alle vorstehend genannten Dienstleistungen nur im Bereich Unternehmenssoftware.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες επιχειρηματικής ανάλυσης και πληροφοριών και έρευνα αγοράς· Επιχειρηματική υποστήριξη, υπηρεσίες διοίκησης και διαχείρισης· Παροχή εμπορικών πληροφοριών και παροχή συμβουλών σε καταναλωτές [καταστήματα παροχής συμβουλών σε καταναλωτές]· Στο σύνολό τους οι προαναφερόμενες υπηρεσίες αποκλειστικά στον τομέα του επιχειρηματικού λογισμικού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Business analysis and information services, and market research; Business assistance, management and administrative services; Commercial information and advice for consumers [consumer advice shop]; all the aforementioned services only in the field of business software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de análisis e información empresarial e investigación de mercados; Servicios de asistencia, dirección y administración de negocios; Información y asesoramiento comerciales al consumidor en la selección de productos y servicios; Todos los servicios mencionados solamente en relación con software de negocios.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ärianalüüsi- ja teabeteenused ning turu-uuringud; Ärijuhtimisteenused ja ärialane abi; Äriteave ja klientide äriline nõustamine [klientide nõustamise keskus]; Kõik eelnimetatud teenused ainult ärivaldkonnas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Liiketoiminta-analyysit ja tiedotuspalvelut sekä markkinatutkimukset; Yritystoiminnan avustamis-, liikkeenjohto- ja hallintopalvelut; Kaupallinen tiedotus ja kuluttajaneuvonta; Kaikki edellä mainitut palvelut yksinomaan liiketoimintaohjelmistojen alalla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services d’analyse et d’information commerciale, et études de marché; Services d'aide et de gestion des affaires et services administratifs; Informations et conseils commerciaux aux consommateurs; Tous les services précités se rapportant exclusivement au domaine des logiciels commerciaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge poslovnog analiziranja i informiranja te istraživanja tržišta; Usluge poslovne pomoći, upravljanja i administracije; Potrošači [pružanje komercijalni savjeta i informacija potrošačima]; Sve prethodno navedene usluge samo u području poslovnog softvera.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Üzleti elemzés és információs szolgáltatások, illetve piackutatás; Üzleti segítségnyújtás, menedzseri és adminisztratív szolgáltatások; Kereskedelmi információ és tanácsadás fogyasztóknak [fogyasztói tanácsadás]; Az összes előbbi szolgáltatás csak üzleti szoftverek területén.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di analisi e d'informazione commerciale e ricerche di mercato; Assistenza negli affari, servizi gestionali ed amministrativi; Informazioni e consulenza commerciale ai consumatori; Tutti i suddetti servizi esclusivamente in materia di software aziendali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Verslo analizės ir informacinės paslaugos bei rinkos tyrimai; Verslo pagalba, vadyba ir administravimas; Komercinė informacija ir patarimai vartotojams [konsultacijų teikimas]; Visos pirmiau minėtos paslaugos, susijusios tik verslo programine įranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Uzņēmējdarbības analīzes un informācijas pakalpojumi, kā arī tirgus izpēte; Atbalsta, pārvaldības un biroju administratīvie pakalpojumi uzņēmējdarbībai; Komerciāla informācija un padomi patērētājiem; Visi iepriekš minētie pakalpojumi ir saistīti tikai ar uzņēmējdarbības programmatūras jomu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Analiżi tan-negozju u servizzi ta' informazzjoni, kif ukoll riċerka tas-suq; Servizzi ta' assistenza, ġestjoni u amministrazzjoni fin-negozju; Konsumaturi (Tagħrif kummerċjali u pariri għal -) [ċentru ta' pariri lill-konsumatur]; Is-servizzi kollha msemmija li qegħdin biss fil-qasam ta' softwer tan-negozju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bedrijfsanalyse- en -informatiediensten, en marktonderzoek; Commercieel-zakelijke assistentie, commercieel-zakelijk beheer en administratieve diensten; Handelsinformatie en -adviezen voor consumenten; Alle voornoemde diensten uitsluitend op het gebied van zakelijke software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi analizy i informacji biznesowej oraz badania rynkowe; Pomoc w prowadzeniu działalności gospodarczej, zarządzanie i administrowanie działalnością gospodarczą; Handlowe informacje i porady udzielane konsumentom [punkty informacji konsumenckiej]; Wszystkie wyżej wymienione usługi wyłącznie w dziedzinie oprogramowania dla firm.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de informação e análise comercial, e estudo de mercado; Serviços de assistência, gestão e administração de negócios; Serviços de aconselhamento e informação comercial aos consumidores [loja do consumidor]; Todos os serviços atrás referidos relacionados exclusivamente com software empresarial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Analiză comercială, servicii de informare și cercetare de piață; Asistenţă în afaceri, management şi servicii administrative; Informaţii şi asistenţă comerciale pentru consumatori; Toate serviciile susmenţionate doar în domeniul software-ului de afaceri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Obchodná analýza, informačné služby a prieskum trhu; Pomoc pri podnikaní, riadenie podniku a obchodná správa; Obchodné informácie a rady spotrebiteľom pri výbere tovarov a služieb; Všetky vyššie uvedené služby súvisia výlučne s oblasťou obchodného softvéru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve poslovnih analiz in informacijske storitve ter tržne raziskave; Poslovna asistenca, poslovno vodenje in administrativne storitve; Komercialne informacije in svetovanje za potrošnike (poslovalnica za svetovanje potrošnikom); Vse omenjene storitve so samo s področja poslovne programske opreme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Företagsanalys- och informationstjänster samt marknadsundersökningar; Företagsassistans, -ledning och -administration; Rådgivning för konsumenter (kommersiell information och -) [konsumentrådgivningsbutik]; Alla nämnda tjänster endast avseende företagsprogramvara.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>39</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Опаковане и съхраняване на стоки; Информационни услуги в областта на складирането; Всички горепосочени услуги единствено в областта на бизнес софтуера.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Balení a skladování zboží; Informace o skladování; Všechny výše uvedené služby pouze v oboru podnikového softwaru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Pakning og opbevaring af varer; Information vedrørende opbevaring; Alle førnævnte tjenesteydelser udelukkende til anvendelse inden for software til forretningsvirksomhed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Verpackung und Lagerung von Waren; Erteilung von Auskünften über Lagerhaltung; Alle vorstehend genannten Dienstleistungen nur im Bereich Unternehmenssoftware.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συσκευασία και αποθήκευση εμπορευμάτων· Πληροφόρηση για αποθήκευση· Στο σύνολό τους οι προαναφερόμενες υπηρεσίες αποκλειστικά στον τομέα του επιχειρηματικού λογισμικού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Packaging and storage of goods; Storage information; all the aforementioned services only in the field of business software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Embalaje y almacenamiento de mercancías; Información sobre almacenamiento; Todos los servicios mencionados solamente en relación con software de negocios.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kaupade pakendamine ja ladustamine; Ladustusteave, -info; Kõik eelnimetatud teenused ainult ärivaldkonnas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tavaroiden pakkaus ja varastointi; Varastointineuvonta; Kaikki edellä mainitut palvelut yksinomaan liiketoimintaohjelmistojen alalla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Emballage et entreposage de marchandises; Informations en matière d'entreposage; Tous les services précités se rapportant exclusivement au domaine des logiciels commerciaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ambaližiranje i skladištenje proizvoda; Informacije u svezi skladištenja; Sve prethodno navedene usluge samo u području poslovnog softvera.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Áruk csomagolása és raktározása; Raktározási információk; Az összes előbbi szolgáltatás csak üzleti szoftverek területén.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Imballaggio e deposito di merci; Informazioni in materia di immagazzinamento; Tutti i suddetti servizi esclusivamente in materia di software aziendali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Prekių pakavimas ir sandėliavimas; Informacija apie sandėliavimą; Visos pirmiau minėtos paslaugos, susijusios tik verslo programine įranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Preču iesaiņošana un uzglabāšana; Informācija par uzglabāšanu; Visi iepriekš minētie pakalpojumi ir saistīti tikai ar uzņēmējdarbības programmatūras jomu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">L-ippakkjar u l-ħażna ta' oġġetti; Servizzi tal-informazzjoni dwar il-ħażna; Is-servizzi kollha msemmija li qegħdin biss fil-qasam ta' softwer tan-negozju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Verpakking en opslag van goederen; Informatie op het gebied van opslag; Alle voornoemde diensten uitsluitend op het gebied van zakelijke software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Pakowanie i składowanie towarów; Informacja o składowaniu; Wszystkie wyżej wymienione usługi wyłącznie w dziedzinie oprogramowania dla firm.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Embalagem e entreposto de mercadorias; Informações sobre armazenamento, depósito; Todos os serviços atrás referidos relacionados exclusivamente com software empresarial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Ambalarea şi depozitarea mărfurilor; Informaţii în domeniul depozitării; Toate serviciile susmenţionate doar în domeniul software-ului de afaceri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Balenie a skladovanie tovaru; Informácie o skladovaní; Všetky vyššie uvedené služby súvisia výlučne s oblasťou obchodného softvéru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pakiranje in skladiščenje blaga; Informacije o skladiščenju; Vse omenjene storitve so samo s področja poslovne programske opreme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Emballering/paketering och förvaring av gods; Information avseende magasinering; Alla nämnda tjänster endast avseende företagsprogramvara.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Информационно-технологични услуги; Научни и технологични услуги; Всички горепосочени услуги единствено в областта на бизнес софтуера.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby v oblasti informačních technologií; Vědecké a technologické služby; Všechny výše uvedené služby pouze v oboru podnikového softwaru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">IT tjenesteydelser; Videnskabelige og teknologiske tjenesteydelser; Alle førnævnte tjenesteydelser udelukkende til anvendelse inden for software til forretningsvirksomhed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">IT-Dienstleistungen; Wissenschaftliche und technologische Dienstleistungen; Alle vorstehend genannten Dienstleistungen nur im Bereich Unternehmenssoftware.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες τεχνολογιών της πληροφορικής· Επιστημονικές και τεχνολογικές υπηρεσίες· Στο σύνολό τους οι προαναφερόμενες υπηρεσίες αποκλειστικά στον τομέα του επιχειρηματικού λογισμικού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">IT services; Science and technology services; all the aforementioned services only in the field of business software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de tecnologías de la información; Servicios científicos y tecnológicos; Todos los servicios mencionados solamente en relación con software de negocios.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">IT-teenused; Teadus- ja tehnoloogiateenused; Kõik eelnimetatud teenused ainult ärivaldkonnas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">IT-palvelut; Tieteelliset ja teknologiset palvelut; Kaikki edellä mainitut palvelut yksinomaan liiketoimintaohjelmistojen alalla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services des technologies de l'information; Services scientifiques et technologiques; Tous les services précités se rapportant exclusivement au domaine des logiciels commerciaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge informacijske tehnologije; Usluge znanosti i tehnologije; Sve prethodno navedene usluge samo u području poslovnog softvera.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Információtechnológiai [IT] szolgáltatások; Tudományos és technológiai szolgáltatások; Az összes előbbi szolgáltatás csak üzleti szoftverek területén.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi informatici; Servizi di scienza e tecnologia; Tutti i suddetti servizi esclusivamente in materia di software aziendali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Informacinių technologijų paslaugos; Mokslo ir technologijų paslaugos; Visos pirmiau minėtos paslaugos, susijusios tik verslo programine įranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Informācijas tehnoloģiju pakalpojumi; Zinātniskie un tehnoloģiskie pakalpojumi; Visi iepriekš minētie pakalpojumi ir saistīti tikai ar uzņēmējdarbības programmatūras jomu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi tal-IT; Servizzi xjentifiċi u teknoloġiċi; Is-servizzi kollha msemmija li qegħdin biss fil-qasam ta' softwer tan-negozju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">IT-diensten; Wetenschappelijke en technologische diensten; Alle voornoemde diensten uitsluitend op het gebied van zakelijke software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi w zakresie technologii informacyjnych; Usługi naukowe i technologiczne; Wszystkie wyżej wymienione usługi wyłącznie w dziedzinie oprogramowania dla firm.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de TI (tecnologias de informação); Serviços de ciência e tecnologia; Todos os serviços atrás referidos relacionados exclusivamente com software empresarial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii IT; Servicii în domeniul ştiinţei şi tehnologiei; Toate serviciile susmenţionate doar în domeniul software-ului de afaceri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Informačné technológie; Vedecké a technologické služby; Všetky vyššie uvedené služby súvisia výlučne s oblasťou obchodného softvéru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve informacijske tehnologije; Znanstvene in tehnološke storitve; Vse omenjene storitve so samo s področja poslovne programske opreme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">IT-tjänster; Vetenskapliga och tekniska tjänster; Alla nämnda tjänster endast avseende företagsprogramvara.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/095</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>705709</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>73713</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003126676</OppositionIdentifier>
+<OppositionDate>2020-07-24</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Identity of marks and G&amp;S
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>ES</EarlierMarkCountryCode>
+<ApplicationNumber>M4041209</ApplicationNumber>
+<ApplicationDate>2019-10-30</ApplicationDate>
+<RegistrationNumber>M4041209</RegistrationNumber>
+<RegistrationDate>2020-04-20</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>indigo</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>ES</EarlierMarkCountryCode>
+<ApplicationNumber>M4041209</ApplicationNumber>
+<ApplicationDate>2019-10-30</ApplicationDate>
+<RegistrationNumber>M4041209</RegistrationNumber>
+<RegistrationDate>2020-04-20</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>indigo</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>1108034</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>14844</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+<Opposition>
+<OppositionIdentifier>003128276</OppositionIdentifier>
+<OppositionDate>2020-08-12</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion
+Unfair advantage /detriment to distinctiveness or repute</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>013031869</ApplicationNumber>
+<ApplicationDate>2014-03-27</ApplicationDate>
+<RegistrationNumber>013031869</RegistrationNumber>
+<RegistrationDate>2016-09-24</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>INDIGO</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>013031869</ApplicationNumber>
+<ApplicationDate>2014-03-27</ApplicationDate>
+<RegistrationNumber>013031869</RegistrationNumber>
+<RegistrationDate>2016-09-24</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>INDIGO</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>735211</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>44725</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+<Opposition>
+<OppositionIdentifier>003129138</OppositionIdentifier>
+<OppositionDate>2020-08-21</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>017950002</ApplicationNumber>
+<ApplicationDate>2018-09-03</ApplicationDate>
+<RegistrationNumber>017950002</RegistrationNumber>
+<RegistrationDate>2019-01-09</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>INDIGO BLUE</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>948900</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>84076</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

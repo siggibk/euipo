@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-11-05T17:30:22</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063184-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063184-0001</DesignIdentifier>
+<ApplicationNumber>001063184</ApplicationNumber>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-01-22</PublicationDate>
+<ApplicationReference>CD-27/08</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2018-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2019-11-01</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061756067</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063184_0001/001063184_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061756068</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063184_0001/001063184_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061756069</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063184_0001/001063184_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061756070</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063184_0001/001063184_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061756071</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063184_0001/001063184_0001_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061756072</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063184_0001/001063184_0001_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061756073</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063184_0001/001063184_0001_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Дръжки за врати</IndicationProduct>
+       <IndicationProduct languageCode="cs">Kliky ke dveřím</IndicationProduct>
+       <IndicationProduct languageCode="da">Håndgreb og dørklinker</IndicationProduct>
+       <IndicationProduct languageCode="de">Türgriffe und -klinken</IndicationProduct>
+       <IndicationProduct languageCode="el">Χειρολαβές για πόρτες</IndicationProduct>
+       <IndicationProduct languageCode="en">Handles for doors</IndicationProduct>
+       <IndicationProduct languageCode="es">Manecillas para puertas</IndicationProduct>
+       <IndicationProduct languageCode="et">Ukselingid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Ovenrivat</IndicationProduct>
+       <IndicationProduct languageCode="fr">Poignées pour portes</IndicationProduct>
+       <IndicationProduct languageCode="hu">Ajtófoggantyúk</IndicationProduct>
+       <IndicationProduct languageCode="it">Maniglie per porte</IndicationProduct>
+       <IndicationProduct languageCode="lt">Durų rankenos</IndicationProduct>
+       <IndicationProduct languageCode="lv">Durvju rokturi</IndicationProduct>
+       <IndicationProduct languageCode="mt">Mankijiet tal-bibien</IndicationProduct>
+       <IndicationProduct languageCode="nl">Hendels voor deuren</IndicationProduct>
+       <IndicationProduct languageCode="pl">Klamki do drzwi</IndicationProduct>
+       <IndicationProduct languageCode="pt">Puxadores para portas</IndicationProduct>
+       <IndicationProduct languageCode="ro">Mânere de uşi</IndicationProduct>
+       <IndicationProduct languageCode="sk">Kľučky na dvere</IndicationProduct>
+       <IndicationProduct languageCode="sl">Kljuke za vrata</IndicationProduct>
+       <IndicationProduct languageCode="sv">Dörrhandtag</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>08.06</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/013</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-22</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/081</PublicationIdentifier>
+        <PublicationSequenceNumber>263536</PublicationSequenceNumber>
+        <PublicationSection>A.3.2</PublicationSection>
+        <PublicationDate>2009-05-04</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/192</PublicationIdentifier>
+        <PublicationSequenceNumber>312304</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2009-09-25</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/203</PublicationIdentifier>
+        <PublicationSequenceNumber>315551</PublicationSequenceNumber>
+        <PublicationSection>A.3.2</PublicationSection>
+        <PublicationDate>2009-10-09</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/001</PublicationIdentifier>
+        <PublicationSequenceNumber>1126966</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2014-01-03</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2019/210</PublicationIdentifier>
+        <PublicationSequenceNumber>101480953</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2019-11-05</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>190959</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>13007</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003440447</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>312304</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-09-25</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003796889</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2010-02-17</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006984623</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1126966</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-03</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003345885</RecordIdentifier>
+<BasicRecordKind>Relative Errors on Part A on Design</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>315551</PublicationSequenceNumber>
+           <PublicationSection>A.3.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-10-09</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003130022</RecordIdentifier>
+<BasicRecordKind>Relative Errors on Part A on Design</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>263536</PublicationSequenceNumber>
+           <PublicationSection>A.3.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-05-04</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

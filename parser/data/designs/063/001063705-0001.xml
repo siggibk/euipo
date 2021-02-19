@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:49</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063705-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-26</ReceivingOfficeDate>
+<DesignIdentifier>001063705-0001</DesignIdentifier>
+<ApplicationNumber>001063705</ApplicationNumber>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-26</ApplicationDate>
+<RegistrationDate>2008-12-26</RegistrationDate>
+<PublicationDate>2009-04-08</PublicationDate>
+<ApplicationReference/>
+<DesignDescription>true</DesignDescription>
+<VerbalElementText>GESECO SECURITY</VerbalElementText>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-26</ExpiryDate>
+<EffectiveDate>2008-12-26</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061715137</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063705_0001/001063705_0001_1.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>26.99.03</CategoryCode>
+     <CategoryCode>27.05.01</CategoryCode>
+     <CategoryCode>29.01.01</CategoryCode>
+     <CategoryCode>29.01.02</CategoryCode>
+     <CategoryCode>29.01.08</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Графични символи</IndicationProduct>
+       <IndicationProduct languageCode="cs">Grafické symboly</IndicationProduct>
+       <IndicationProduct languageCode="da">Grafiske symboler</IndicationProduct>
+       <IndicationProduct languageCode="de">Grafische Symbole</IndicationProduct>
+       <IndicationProduct languageCode="el">Γραφικά σύμβολα</IndicationProduct>
+       <IndicationProduct languageCode="en">Graphic symbols</IndicationProduct>
+       <IndicationProduct languageCode="es">Símbolos gráficos</IndicationProduct>
+       <IndicationProduct languageCode="et">Graafilised sümbolid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Graafiset merkit</IndicationProduct>
+       <IndicationProduct languageCode="fr">Symboles graphiques</IndicationProduct>
+       <IndicationProduct languageCode="hu">Grafikus jelek/szimbólumok</IndicationProduct>
+       <IndicationProduct languageCode="it">Simboli grafici</IndicationProduct>
+       <IndicationProduct languageCode="lt">Grafiniai simboliai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Grafiskie simboli</IndicationProduct>
+       <IndicationProduct languageCode="mt">Simboli grafiċi</IndicationProduct>
+       <IndicationProduct languageCode="nl">Grafische symbolen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Symbole graficzne</IndicationProduct>
+       <IndicationProduct languageCode="pt">Símbolos gráficos</IndicationProduct>
+       <IndicationProduct languageCode="ro">Simboluri grafice</IndicationProduct>
+       <IndicationProduct languageCode="sk">Grafické symboly</IndicationProduct>
+       <IndicationProduct languageCode="sl">Grafični simboli</IndicationProduct>
+       <IndicationProduct languageCode="sv">Grafiska symboler</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>32.00</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/066</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-04-08</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/081</PublicationIdentifier>
+        <PublicationSequenceNumber>260341</PublicationSequenceNumber>
+        <PublicationSection>B.9.2</PublicationSection>
+        <PublicationDate>2009-05-04</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2010/156</PublicationIdentifier>
+        <PublicationSequenceNumber>460261</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2010-07-16</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325820</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>25608</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003124108</RecordIdentifier>
+<BasicRecordKind>Appointment Replacement and Deletion of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>260341</PublicationSequenceNumber>
+           <PublicationSection>B.9.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-05-04</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>004139378</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>460261</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2010-07-16</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

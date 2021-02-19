@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-17T09:29:38</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224759</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224759</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-08-13</RegistrationDate>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>XENDEE</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Предоставяне за временно използване на неподлежащ на сваляне софтуер за производство на финансови модели, технически модели и инженерни модели, използвани в областта на енергетиката; Предоставяне за временно използване на неподлежащ на сваляне софтуер за икономическо оптимизиране на технологии в областта на енергетиката.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Poskytování dočasného použití softwaru bez možnosti stažení pro produkci finančních modelů, technických modelů a inženýrských modelů používaných v oboru energií; Poskytování dočasného použití softwaru bez možnosti stažení pro ekonomickou optimalizaci technologií v oboru energií.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Udbydelse af midlertidig brug af software, der ikke kan downloades, til fremstilling af finansielle modeller, tekniske modeller og ingeniørmodeller til brug inden for energi; Udbydelse af midlertidig anvendelse af software, der ikke kan downloades, til økonomisk optimering af teknologier inden for energi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bereitstellung der zeitweiligen Nutzung von nicht herunterladbarer Software für die Erstellung von Finanzmodellen, technischen Modellen und Ingenieurmodellen zur Verwendung im Energiebereich; Bereitstellung der zeitweiligen Nutzung von nicht herunterladbarer Software für die wirtschaftliche Optimierung von Technologien im Energiebereich.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παροχή της δυνατότητας προσωρινής χρήσης μη τηλεφορτώσιμου λογισμικού για δημιουργία χρηματοπιστωτικών μοντέλων, τεχνικών μοντέλων και μηχανικών μοντέλων για χρήση στον ενεργειακό τομέα· Παροχή της δυνατότητας προσωρινής χρήσης μη τηλεφορτώσιμου λογισμικού για οικονομική βελτιστοποίηση τεχνολογιών στον ενεργειακό τομέα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Providing temporary use of non-downloadable software for producing financial models, technical models, and engineering models used in the energy field; providing temporary use of non-downloadable software for economic optimization of technologies in the energy field.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Facilitación del uso temporal de software no descargable para producir modelos financieros, modelos técnicos, y modelos de ingeniería utilizados en el ámbito de la energía; Facilitación del uso temporal de software no descargable para la optimización económica de tecnologías en el ámbito de la energía.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mitteallalaaditava, energiavaldkonnas kasutatavate finantsmudelite, tehniliste mudelite ja insenerimudelite pakkumiseks mõeldud tarkvara ajutise kasutuse võimaldamine; Energiavaldkonna tehnoloogiate ökonoomse optimeerimise allalaadimatu tarkvara ajutise kasutuse pakkumine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Muiden kuin ladattavien ohjelmistojen tilapäisen käyttömahdollisuuden tarjoaminen energia-alalla käytettävien rahoitusmallien, teknisten mallien ja koneteknisten mallien tuottamiseen; Muiden kuin ladattavien ohjelmistojen tilapäisen käyttömahdollisuuden tarjoaminen teknologioiden taloudelliseen optimointiin energia-alalla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Fourniture d'accès temporaire à des logiciels non téléchargeables pour la production de modèles financiers, modèles techniques et modèles d'ingénierie destinés au domaine de l'énergie; Fourniture d'accès temporaire à des logiciels non téléchargeables pour l'optimisation économique de technologies dans le domaine de l'énergie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pružanje privremene uporabe softvera koji se ne može preuzimati za proizvodnju financijskih modela, tehničkih modela i inženjerskih modela koji se koriste u području energetike; Pružanje privremene uporabe softvera koji se ne može preuzimati za ekonomsko optimiziranje tehnologija u području energetike.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Nem letölthető szoftverek ideiglenes használatának biztosítása az energia területén használt pénzügyi modellek, műszaki modellek és műszaki modellek előállításához; Nem letölthető szoftverek ideiglenes használatának biztosítása az energetikai technológiák gazdasági optimalizálása céljából.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Fornitura di uso temporaneo di software non scaricabili per la produzione di modelli finanziari, modelli tecnici e modelli ingegneristici utilizzati in campo energetico; Fornitura di uso temporaneo di software non scaricabili per l'ottimizzazione economica delle tecnologie in campo energetico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Neatsisiunčiamos programinės įrangos laikino naudojimo teikimas energijos modeliams, techniniams ir inžineriniams modeliams gaminti; Laikino neatsisiunčiamos programinės įrangos naudojimo ekonominiam technologijų energetikos srityje optimizavimui teikimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Nelejupielādējamas programmatūras pagaidu lietošanas nodrošināšana finanšu modeļu, tehnisko modeļu un inženiertehnisko modeļu ražošanai enerģijas jomā; Nelejupielādējamas programmatūras pagaidu lietošanas nodrošināšana enerģētikas tehnoloģiju ekonomiskai optimizācijai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Provvista ta' użu temporanju ta' softwer li ma jistax jitniżżel għall-produzzjoni ta' mudelli finanzjarji, mudelli tekniċi, u mudelli ta' inġinerija użati fil-qasam tal-enerġija; Provvista ta' użu temporanju ta' softwer li ma jistax jitniżżel għall-ottimizzazzjoni ekonomika ta' teknoloġiji fil-qasam tal-enerġija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Het tijdelijk ter beschikking stellen van niet-downloadbare software voor het maken van financiële modellen, technische modellen en ingenieursmodellen op het gebied van energie; het tijdelijk ter beschikking stellen van niet-downloadbare software voor economische technologie-optimalisatie op het gebied van energie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Umożliwianie tymczasowego użytkowania oprogramowania nie do pobrania do generowania modeli finansowych, modeli technicznych i modeli inżynieryjnych wykorzystywanych w dziedzinie energii; Umożliwianie tymczasowego użytkowania oprogramowania nie do pobrania do optymalizacji ekonomicznej technologii w dziedzinie energii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Fornecimento de acesso temporário a software não descarregável para produção de modelos financeiros, modelos técnicos e modelos de engenharia utilizados no domínio da energia; Fornecimento de acesso temporário a software não descarregável para otimização económica de tecnologias no domínio da energia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Furnizarea accesului temporar la software nedescărcabil pentru producerea de modele financiare, modele tehnice și modele inginerești folosite în domeniul energiei; Furnizarea accesului temporar la software nedescărcabil pentru optimizarea economică a tehnologiilor din domeniul energiei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poskytovanie dočasného používania softvéru bez možnosti stiahnutia na výrobu finančných modelov, technických modelov a inžinierskych modelov na použitie v oblasti energie; Poskytovanie dočasného používania softvéru bez možnosti stiahnutia na ekonomickú optimalizáciu technológií v oblasti energie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Nudenje začasne uporabe neprenosljive programske opreme za izdelavo finančnih modelov, tehničnih modelov in inženirskih modelov, ki se uporabljajo na področju energije; Nudenje začasne uporabe neprenosljive programske opreme za gospodarsko optimizacijo tehnologij na področju energije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Upplåtande av tillfällig användning av ej nedladdningsbar programvara för framställning av finansiella modeller, tekniska modeller, och ingenjörstekniska modeller för användning inom energiområdet; Upplåtande av tillfällig amvändning av ej nedladdningsbar programvara för ekonomisk optimering av teknik inom energiområdet.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>US</PriorityCountryCode>
+<PriorityNumber>88690326</PriorityNumber>
+<PriorityDate>2019-11-13</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/084</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/154</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-14</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079262</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>26095</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017745830</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>26095</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-04-22</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

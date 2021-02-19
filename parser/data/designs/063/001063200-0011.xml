@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:45</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063200-0011</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063200-0011</DesignIdentifier>
+<ApplicationNumber>001063200</ApplicationNumber>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-04-08</PublicationDate>
+<ApplicationReference>44721</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061755816</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0011/001063200_0011_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755817</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0011/001063200_0011_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755818</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0011/001063200_0011_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755819</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0011/001063200_0011_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755820</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0011/001063200_0011_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755821</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0011/001063200_0011_6.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Скари (за печене)</IndicationProduct>
+       <IndicationProduct languageCode="cs">Grily</IndicationProduct>
+       <IndicationProduct languageCode="da">Griller</IndicationProduct>
+       <IndicationProduct languageCode="de">Grillapparate</IndicationProduct>
+       <IndicationProduct languageCode="el">Σχάρες</IndicationProduct>
+       <IndicationProduct languageCode="en">Grills</IndicationProduct>
+       <IndicationProduct languageCode="es">Parrillagrills</IndicationProduct>
+       <IndicationProduct languageCode="et">Grillrestid või -ahjud</IndicationProduct>
+       <IndicationProduct languageCode="fi">Grillit</IndicationProduct>
+       <IndicationProduct languageCode="fr">Grils</IndicationProduct>
+       <IndicationProduct languageCode="hu">Rostélyok</IndicationProduct>
+       <IndicationProduct languageCode="it">Graticole</IndicationProduct>
+       <IndicationProduct languageCode="lt">Keptuvai (griliai)</IndicationProduct>
+       <IndicationProduct languageCode="lv">Grili</IndicationProduct>
+       <IndicationProduct languageCode="mt">Gradilji</IndicationProduct>
+       <IndicationProduct languageCode="nl">Grills</IndicationProduct>
+       <IndicationProduct languageCode="pl">Grile</IndicationProduct>
+       <IndicationProduct languageCode="pt">Grelhadores</IndicationProduct>
+       <IndicationProduct languageCode="ro">Grătare</IndicationProduct>
+       <IndicationProduct languageCode="sk">Grily</IndicationProduct>
+       <IndicationProduct languageCode="sl">Žari</IndicationProduct>
+       <IndicationProduct languageCode="sv">Grillar</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>07.02</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/066</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-04-08</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325758</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/029</PublicationIdentifier>
+        <PublicationSequenceNumber>928998</PublicationSequenceNumber>
+        <PublicationSection>B.9.2</PublicationSection>
+        <PublicationDate>2013-02-11</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>51414</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>62060</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006645133</RecordIdentifier>
+<BasicRecordKind>Appointment Replacement and Deletion of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>928998</PublicationSequenceNumber>
+           <PublicationSection>B.9.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-02-11</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

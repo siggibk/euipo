@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2018-11-30T08:07:37</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063093-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063093-0001</DesignIdentifier>
+<ApplicationNumber>001063093</ApplicationNumber>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-02-05</PublicationDate>
+<ApplicationReference>081224/002</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<VerbalElementText>MAGIC TWISTY</VerbalElementText>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-11-29</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061756131</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063093_0001/001063093_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061756132</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063093_0001/001063093_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061756133</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063093_0001/001063093_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061756134</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063093_0001/001063093_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061756135</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063093_0001/001063093_0001_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061756136</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063093_0001/001063093_0001_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061756137</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063093_0001/001063093_0001_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Щандове за излагане на стоки</IndicationProduct>
+       <IndicationProduct languageCode="bg">Щандове за излагане на стоки</IndicationProduct>
+       <IndicationProduct languageCode="cs">Vystavovací stojany</IndicationProduct>
+       <IndicationProduct languageCode="cs">Výstavní stojánky</IndicationProduct>
+       <IndicationProduct languageCode="da">Udstillingsstande</IndicationProduct>
+       <IndicationProduct languageCode="da">Udstillingsstande</IndicationProduct>
+       <IndicationProduct languageCode="de">Schaugestelle</IndicationProduct>
+       <IndicationProduct languageCode="de">Schaugestelle</IndicationProduct>
+       <IndicationProduct languageCode="el">Βάσεις παρουσίασης</IndicationProduct>
+       <IndicationProduct languageCode="el">πάγκοι παρουσίασης</IndicationProduct>
+       <IndicationProduct languageCode="en">Display stands</IndicationProduct>
+       <IndicationProduct languageCode="en">Display stands</IndicationProduct>
+       <IndicationProduct languageCode="es">Expositores</IndicationProduct>
+       <IndicationProduct languageCode="es">Expositores</IndicationProduct>
+       <IndicationProduct languageCode="et">Väljapanekualused</IndicationProduct>
+       <IndicationProduct languageCode="et">Vitriinid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Esittelykojut</IndicationProduct>
+       <IndicationProduct languageCode="fi">esittelytelineet</IndicationProduct>
+       <IndicationProduct languageCode="fr">Présentoirs</IndicationProduct>
+       <IndicationProduct languageCode="fr">Présentoirs</IndicationProduct>
+       <IndicationProduct languageCode="hu">Kiállító/bemutató standok és állványok</IndicationProduct>
+       <IndicationProduct languageCode="hu">kirakati állvány</IndicationProduct>
+       <IndicationProduct languageCode="it">Espositori</IndicationProduct>
+       <IndicationProduct languageCode="it">Espositori</IndicationProduct>
+       <IndicationProduct languageCode="lt">Parodų stendai</IndicationProduct>
+       <IndicationProduct languageCode="lt">Išdėstymo stendai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Izstāžu statņi</IndicationProduct>
+       <IndicationProduct languageCode="lv">Displeja statīvi</IndicationProduct>
+       <IndicationProduct languageCode="mt">Stands tal-wiri</IndicationProduct>
+       <IndicationProduct languageCode="mt">Stends tal-wiri</IndicationProduct>
+       <IndicationProduct languageCode="nl">Uitstalstandaards</IndicationProduct>
+       <IndicationProduct languageCode="nl">Displaystandaarden</IndicationProduct>
+       <IndicationProduct languageCode="pl">Standy wystawowe</IndicationProduct>
+       <IndicationProduct languageCode="pl">Stojaki wystawowe</IndicationProduct>
+       <IndicationProduct languageCode="pt">Expositores</IndicationProduct>
+       <IndicationProduct languageCode="pt">Prateleiras para exposição</IndicationProduct>
+       <IndicationProduct languageCode="ro">Standuri de prezentare</IndicationProduct>
+       <IndicationProduct languageCode="ro">Standuri de prezentare</IndicationProduct>
+       <IndicationProduct languageCode="sk">Výstavné stojany</IndicationProduct>
+       <IndicationProduct languageCode="sk">Vystavovacie stojany</IndicationProduct>
+       <IndicationProduct languageCode="sl">Razstavna stojala</IndicationProduct>
+       <IndicationProduct languageCode="sl">Reklamna stojala</IndicationProduct>
+       <IndicationProduct languageCode="sv">Skyltställ</IndicationProduct>
+       <IndicationProduct languageCode="sv">Skyltställ</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>20.02</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/024</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-02-05</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2012/176</PublicationIdentifier>
+        <PublicationSequenceNumber>850523</PublicationSequenceNumber>
+        <PublicationSection>B.2.2</PublicationSection>
+        <PublicationDate>2012-09-13</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/127</PublicationIdentifier>
+        <PublicationSequenceNumber>1016994</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2013-07-09</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/228</PublicationIdentifier>
+        <PublicationSequenceNumber>100785056</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2018-11-30</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>348244</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>18322</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006167807</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>850523</PublicationSequenceNumber>
+           <PublicationSection>B.2.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2012-09-13</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006985653</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1016994</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-07-09</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012442242</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100785056</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-11-30</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T09:10:14</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225680</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225680</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>da</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>LIFEAKG</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>1</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Химически и органични смеси за употреба при производството на храни, напитки и хранителни добавки, и витамини; Химически субстанции, химически материали и химически препарати, и природни елементи; Агенти против стареене за употреба като съставка в производството на храни, напитки и хранителни добавки, и витамини; Химически съединения, съдържащи алфа-кетоглутарат за употреба като съставка при производство на храни, напитки и хранителни добавки, и витамини.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Chemické a organické směsi k použití při výrobě potravin, nápojů a výživových doplňků a vitaminů; Chemické látky, chemické materiály a chemické přípravky a přírodní chemické prvky; Činidla proti stárnutí k použití jako přísada při výrobě potravin, nápojů a výživových doplňků a vitaminů; Chemické směsi obsahující alpha ketoglutaráty k použití jako přísada při výrobě potravin, nápojů a výživových doplňků a vitaminů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kemiske og organiske sammensætninger til brug ved fremstilling af fødevarer, drikkevarer, næringstilskud og vitaminer; Kemiske substanser, kemiske materialer og kemiske præparater, samt naturlige grundstoffer; Anti-aging midler til brug som ingrediens i forbindelse med fremstilling af fødevarer, drikkevarer, næringstilskud og vitaminer; Kemiske forbindelser, der indeholder alfaketoglutarat til brug som ingredienser til fremstilling af fødevarer, drikkevarer, næringstilskud og vitaminer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Chemische und organische Verbindungen zur Verwendung bei der Herstellung von Lebensmitteln, Getränken und Nahrungsergänzungsmitteln und Vitaminen; Chemische Substanzen, chemische Materialien und chemische Präparate sowie natürliche Elemente; Anti-Aging-Mittel zur Verwendung als Inhaltsstoff bei der Herstellung von Lebensmitteln, Getränken und Nahrungsergänzungsmitteln und Vitaminen; Chemische Verbindungen mit Alpha-Ketoglutarat zur Verwendung als Inhaltsstoff bei der Herstellung von Lebensmitteln, Getränken und Nahrungsergänzungsmitteln und Vitaminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χημικές και οργανικές συνθέσεις για χρήση στην παρασκευή τροφίμων, ποτών, και θρεπτικών συμπληρωμάτων και βιταμινών· Χημικές ουσίες, χημικά υλικά και χημικά παρασκευάσματα και φυσικά στοιχεία· Αντιγηραντικοί παράγοντες για χρήση ως συστατικά στην παρασκευή τροφίμων, ποτών, και συμπληρωμάτων διατροφής και βιταμινών· Χημικές ενώσεις που περιέχουν α-κετογλουταρικό για χρήση ως συστατικό στην παρασκευή τροφίμων, ποτών, και θρεπτικών συμπληρωμάτων και βιταμινών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Chemical and organic compositions for use in the manufacture of food, beverages, and nutritional supplements and vitamins; Chemical substances, chemical materials and chemical preparations, and natural elements; Anti-aging agents for use as an ingredient in the manufacture of food, beverages, and nutritional supplements and vitamins; Chemical compounds containing alpha-ketoglutarate for use as an ingredient in the manufacture of food, beverages, and nutritional supplements and vitamins.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Composiciones químicas y orgánicas para su uso en la fabricación de alimentos, bebidas y suplementos nutricionales y vitaminas; Substancias químicas, materias químicas y preparaciones químicas, y elementos naturales; Agentes antiedad para su uso como ingrediente en la fabricación de alimentos, bebidas y suplementos nutricionales y vitaminas; Composiciones químicas que contienen alfa-ceto-glutarato para su uso como ingrediente en la fabricación de alimentos, bebidas y suplementos nutricionales y vitaminas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toitude, jookide ja toitelisandite ning vitamiinide valmistamisel kasutatavad keemilised ja orgaanilised ühendid; Keemilised ained, materjalid ja preparaadid ning looduslikud algained; Toitude, jookide ja toitelisandite ning vitamiinide valmistamisel koostisainena kasutatavad vananemisvastased ained; Toitude, jookide ja toitelisandite ning vitamiinide valmistamisel kasutatavad keemilised ühendid, mis sisaldavad koostisainena alfa-ketoglutaraate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kemialliset ja orgaaniset koostumukset käytettäväksi elintarvikkeiden, juomien ja ravintolisäaineiden ja vitamiinien valmistuksessa; Kemialliset ainesosat, aineet ja valmisteet sekä luonnossa esiintyvät alkuaineet; Ikääntymistä estävät aineet ainesosina käytettäväksi elintarvikkeiden, juomien ja ravintolisäaineiden ja vitamiinien valmistuksessa; Kemialliset yhdisteet, jotka sisältävät alfa-ketoglutaraattia ainesosina käytettäväksi elintarvikkeiden, juomien ja ravintolisäaineiden ja vitamiinien valmistuksessa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Compositions chimiques et organiques destinées à la fabrication d'aliments, boissons, compléments nutritionnels et vitamines; Substances chimiques, matières chimiques et produits chimiques, et éléments naturels; Agents anti-vieillissement utilisés comme ingrédients dans la fabrication d'aliments, boissons, compléments nutritionnels et vitamines; Composés chimiques contenant de l'alpha-cétoglutarate utilisés comme ingrédients dans la fabrication d'aliments, boissons, compléments nutritionnels et vitamines.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kemijski i organski spojevi za uporabu u proizvodnji hrane, pića i dodataka prehrani te vitamina; Kemijske tvari, kemijski materijali i kemijski pripravci te prirodni elementi; Sredstva protiv kvarenja za uporabu kao dodatak u proizvodnji hrane, pića i dodataka prehrani te vitamina; Kemijski spojevi koji sadrže alfa ketoglutarat za uporabu kao dodatak u proizvodnji hrane, pića i dodataka prehrani te vitamina.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Vegyi és szerves készítmények ételek, italok, étrend-kiegészítők és vitaminok gyártásához; Vegyi alkotórészek, vegyi anyagok és készítmények, természetes elemek; Öregedésgátló szerek ételek, italok, étrend-kiegészítők és vitaminok gyártásában alkotóelemként történő felhasználásra; Alfa-ketoglutarátot tartalmazó kémiai vegyületek élelmiszerek, italok, étrend-kiegészítők és vitaminok gyártásában összetevőként történő felhasználásra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Composti chimici e organici per l'uso nella fabbricazione di alimenti, bevande, integratori nutrizionali e vitamine; Sostanze chimiche, materiali e preparati chimici, ed elementi naturali; Agenti antinvecchiamento per l'uso come ingrediente nella fabbricazione di alimenti, bevande, integratori nutrizionali e vitamine; Composti chimici contenenti alfa chetoglutarato per l'uso come ingrediente nella fabbricazione di alimenti, bevande, integratori nutrizionali e vitamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Cheminės ir organinės medžiagos, naudojamos gaminant maistą, gėrimus, maisto papildus ir vitaminus; Cheminės medžiagos, preparatai bei natūralieji elementai; Senėjimą stabdančios medžiagos, skirtos naudoti kaip maisto, gėrimų, maisto papildų ir vitaminų gamybos komponentai; Cheminiai junginiai, kurių sudėtyje yra alfa-ketoglutarato, skirti naudoti kaip maisto, gėrimų, maisto papildų ir vitaminų ingredientas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ķīmiskās un organiskās kompozīcijas izmantošanai pārtikas, dzērienu, uztura bagātinātāju un vitamīnu ražošanā; Ķīmiskās vielas, ķīmiskie materiāli un ķīmiskie preparāti un dabiskie elementi; Pretnovecošanas līdzekļi, ko izmanto kā sastāvdaļu pārtikas, dzērienu, uztura bagātinātāju un vitamīnu ražošanā; Ķīmiskie savienojumi, kas satur alfa ketoglutarātu, izmantošanai par sastāvdaļu pārtikas, dzērienu, uztura bagātinātāju un vitamīnu ražošanā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kompożizzjonijiet kimiċi u organiċi għall-użu fil-manifattura ta' ikel, xarbiet, u supplimenti u vitamini nutrizzjonali; Sustanzi kimiċi, materjali kimiċi u preparazzjonijiet kimiċi, u elementi naturali; Aġenti għal kontra x-xjuħija għall-użu bħala ingredjent fil-manifattura tal-ikel, xarbiet, u supplimenti u vitamini nutrizzjonali; Komposti kimiċi li fihom l-alfaketoglutarate għall-użu bħala ingredjent fil-manifattura ta' ikel, xarbiet, u supplimenti u vitamini nutrizzjonali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Chemische en organische samenstellingen voor gebruik bij de bereiding van voedsel, dranken en voedingssupplementen en vitaminen; Chemische substanties, chemische materialen en chemische preparaten en natuurlijke elementen; Antiverouderingsmiddelen voor gebruik als ingrediënt bij de bereiding van voedsel, dranken en voedingssupplementen en vitaminen; Chemische samenstellingen met alfaketoglutaraat voor gebruik als ingrediënt bij de bereiding van voedsel, dranken en voedingssupplementen en vitaminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Mieszaniny chemiczne i organiczne do użytku w produkcji żywności, napojów oraz suplementów odżywczych i witamin; Substancje, materiały i preparaty chemiczne oraz surowce naturalne; Czynniki zapobiegające starzeniu się do użytku jako składniki w produkcji żywności, napojów oraz suplementów odżywczych i witamin; Mieszaniny chemiczne zawierające AKG do użytku jako składniki w produkcji żywności, napojów oraz suplementów odżywczych i witamin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Compostos químicos e orgânicos para o fabrico de alimentos, bebidas, suplementos nutricionais e vitaminas; Substâncias químicas, materiais químicos e preparações químicas e elementos naturais; Agentes antienvelhecimento para uso como ingrediente no fabrico de alimentos, bebidas, suplementos nutricionais e vitaminas; Compostos químicos contendo alfa-cetoglutarato para uso como ingrediente no fabrico de alimentos, bebidas, suplementos nutricionais e vitaminas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Compoziții chimice și organice destinate utilizării la fabricarea de alimente, de băuturi și de suplimente nutritive și vitamine; Substanţe, produse şi preparate chimice şi elemente naturale; Agenți antiîmbătrânire destinați utilizării ca un ingredient la fabricarea de alimente, de băuturi și de suplimente nutritive și vitamine; Compuși chimici care conțin alfa ketoglutarat destinați utilizării ca un ingredient la fabricarea de alimente, de băuturi și de suplimente nutritive și vitamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Chemické a organické zlúčeniny na použitie pri výrobe jedla, nápojov a výživových doplnkov a vitamínov; Chemické látky, chemické materiály a chemické prípravky a prírodné prvky; Činidlá proti starnutiu na použitie ako prísady pri výrobe jedla, nápojov, a výživových doplnkov; Chemické zmesi obsahujúce alfa-ketoglutarát na použitie ako prísady pri výrobe jedla, nápojov a výživových doplnkov a vitamínov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kemične in organske spojine za uporabo v proizvodnji hrane, pijač in prehranskih dopolnil ter vitaminov; Kemične snovi, kemični materiali in preparati in naravni kemijski elementi; Sredstva proti staranju za uporabo kot sestavina v proizvodnji hrane, pijač in prehranskih dopolnil ter vitaminov; Kemične spojine, ki vsebujejo alfa-ketoglutarat za uporabo kot sestavina v proizvodnji hrane, pijač in prehranskih dopolnil ter vitaminov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kemiska och organiska sammansättningar för användning i samband med tillverkning av livsmedel, drycker och näringstillskott och vitaminer; Kemiska substanser, kemiska material och kemiska preparat, samt naturliga ämnen; Föryngringsagenser för användning som en ingrediens i framställning av livsmedel, drycker och näringstillskott och -vitaminer; Kemiska sammansättningar som innehåller alfaketoglutarat för användning som en ingrediens i framställning av mat, dryck och näringstillskott och vitaminer.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>US</PriorityCountryCode>
+<PriorityNumber>88746219</PriorityNumber>
+<PriorityDate>2020-01-03</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1003852</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>31827</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

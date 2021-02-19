@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-10T23:01:27</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224935</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224935</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="6">Application under examination</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-04-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>STERILPRO</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162207481</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224935/000162207481.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>24.13.01</CategoryCode>
+          <CategoryCode>25.05.01</CategoryCode>
+          <CategoryCode>27.05.05</CategoryCode>
+          <CategoryCode>29.01.01</CategoryCode>
+          <CategoryCode>29.01.04</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Детергенти, с изключение на такива за употреба в производствени операции и за медицински цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Čisticí prostředky, jiné než pro použití při výrobních procesech a pro lékařské účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Rensemidler, ikke til brug i fabrikationsprocesser eller til medicinsk brug.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Detergenzien, ausgenommen zur Verwendung in Herstellungsverfahren und für medizinische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Απορρυπαντικά, όχι για κατασκευαστικές εργασίες ούτε για ιατρική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Detergents, other than for use in manufacturing operations and for medical purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Detergentes que no sean para procesos de fabricación ni para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Puhastusvahendid, v.a meditsiinilised ja tööstuslikud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Pesuaineet, paitsi teollisiin ja lääketieteellisiin tarkoituksiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Détergents [détersifs] autres que ceux utilisés au cours d'opérations de fabrication et ceux à usage médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Deterdženti [osim onih za medicinske potrebe ili za proizvodnju].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Mosószerek/tisztítószerek, nem gyártási műveletekhez és nem gyógyászati használatra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Detergenti, eccetto quelli utilizzati nei procedimenti di fabbricazione e quelli per uso medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Plovikliai (detergentai) (ne pramonės ir medicinos reikmėms).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mazgāšanas līdzekļi, izņemot ražošanas procesiem un medicīniskiem nolūkiem paredzētos līdzekļus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Diterġenti, minbarra għal użu f'ħidmiet tal-manifattura u skopijiet mediċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Detergentia, anders dan voor gebruik tijdens fabricageprocessen of voor geneeskundig gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Detergenty, inne niż do użytku w procesach produkcyjnych oraz inne niż do celów medycznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Detergentes, sem ser para processos de fabrico nem para fins medicinais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Detergenți, alții decât cei folosiți în timpul proceselor de fabricație și decât cei de uz medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Detergenty (nie na použitie vo výrobnom procese a na lekárske použitie).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Detergenti, razen za uporabo v proizvodnji in za medicinske namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Rengöringsmedel, inte för användning i industriprocesser eller för medicinska ändamål.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Дезинфектанти и антисептици; Лечебни и хигиенизиращи сапуни и детергенти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Dezinfekční a antiseptické přípravky; Léčebná a dezinfekční mýdla a čisticí přípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Desinficerende og antiseptiske midler; Medicinske og desinficerende sæber og rensemidler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Desinfektionsmittel und Antiseptika; Medizinische und desinfizierende Seifen sowie Detergenzien.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Απολυμαντικά και αντισηπτικά· Φαρμακευτικά και απολυμαντικά σαπούνια και απορρυπαντικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Disinfectants and antiseptics; Medicated and sanitising soaps and detergents.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Desinfectantes y antisépticos; Jabones y detergentes medicinales y desinfectantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Desinfektsioonivahendid ja antiseptikumid; Ravitoimega ja desinfitseerivad seebid ja pesuained.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Desinfiointiaineet ja antiseptiset aineet; Lääkeaineita sisältävät ja desinfioivat saippuat ja puhdistusaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Désinfectants et antiseptiques; Savons et détergents désinfectants et médicinaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dezinfekcijska i antiseptička sredstva; Medicinski i dezinfekcijski sapuni i deterdženti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fertőtlenítők és fertőzésgátlók; Gyógyszeres és fertőtlenítő szappanok és tisztítószerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Disinfettanti ed antisettici; Saponi e detergenti medicinali e igienizzanti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dezinfekantai ir antiseptikai; Gydomieji ir dezinfekciniai muilai bei plovikliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dezinfekcijas un antiseptiskie līdzekļi; Ārstnieciskās un dezinficējošās ziepes un mazgāšanas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Diżinfettanti u antisettiċi; Sapunijiet u deterġenti li jimmedikaw u jtejbu l-iġjene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ontsmettingsmiddelen en antiseptica; Medicinale en steriliserende zepen en detergenten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Środki dezynfekcyjne i antyseptyczne; Mydła i detergenty lecznicze i odkażające.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Desinfetantes e antissépticos; Sabões e detergentes higiénicos e medicinais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dezinfectanți și antiseptice; Săpunuri și detergenți medicinali și dezinfectanți.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Dezinfekčné a antiseptické prípravky; Mydlá a detergenty s liečivými a dezinfekčnými účinkami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Dezinfekcijska in antiseptična sredstva; Mila in detergenti z zdravilnimi in razkuževalnimi učinkovinami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Desinfektions- och antiseptiska medel; Medicinska och desinficerande tvålar och rengöringsmedel.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Маски и оборудване за изкуствено дишане; Защитни шлемове за лице за хирургична употреба; Щит за лице за медицинска употреба; Маски за дишане за медицинска употреба; Анестезиологични маски; Облекло, шапки и принадлежности за глава, обувки, шини и опори за медицински цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Masky a zařízení pro umělé dýchání; Obličejové štíty k chirurgickému použití; Obličejové štíty k lékařskému použití; Respirační masky k lékařskému použití; Anesteziologické masky; Oděvy, pokrývky hlavy a obuv, ortézy a podpěry pro lékařské účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Masker og udstyr til kunstigt åndedræt; Ansigtsskærme til kirurgiske formål; Ansigtsskærme til medicinske formål; Åndedrætsværn til medicinske formål; Bedøvelsesmasker; Beklædningsgenstande, hovedbeklædning og fodtøj og støtteanordninger til medicinske formål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Masken und Ausrüstung für die künstliche Beatmung; Gesichtsschirme für chirurgische Zwecke; Gesichtsschirme für medizinische Zwecke; Atemmasken für medizinische Zwecke; Narkosemasken; Bekleidung, Kopfbedeckungen und Schuhwaren sowie Schienen und Stützen für medizinische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μάσκες και εξοπλισμός για τεχνητή αναπνοή· Προσωπίδες για χειρουργική χρήση· Προστατευτικές μάσκες για ιατρικές χρήσεις· Αναπνευστικές μάσκες για ιατρικές χρήσεις· Αναισθητικές μάσκες· Ενδύματα, είδη πιλοποιίας και υποδήματα, τιράντες και διατάξεις στήριξης, για ιατρική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Masks and equipment for artificial respiration; Face shields for surgical use; Face shields for medical use; Respiratory masks for medical purposes; Anaesthetic masks; Clothing, headgear and footwear, braces and supports, for medical purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Mascarillas y equipos para respiración artificial; Pantallas faciales para uso quirúrgico; Pantallas faciales para uso médico; Mascarillas respiratorias para uso médico; Mascarillas de anestesia; Prendas de vestir, artículos de sombrerería y calzado, tirantes y soportes, con fines médicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kunstliku hingamise maskid ja vahendid; Kirurgilised näokaitsmed; Meditsiinilised näokaitsed; Meditsiinilised hingamismaskid; Anesteesiamaskid; Meditsiiniotstarbelised rõivad, peakatted ja jalatsid, klambrid ja toed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Maskit ja välineet tekohengitykseen; Kasvosuojat kirurgiseen käyttöön; Kasvosuojukset lääketieteelliseen käyttöön; Hengitysnaamarit lääkinnällisiin tarkoituksiin; Anesteettiset maskit; Vaatteet, päähineet ja jalkineet, kannattimet ja tuet lääketieteellisiin tarkoituksiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Masques et équipements de respiration artificielle; Écrans faciaux à usage chirurgical; Écrans faciaux à usage médical; Masques respiratoires à usage médical; Masques anesthésiques; Vêtements, articles de chapellerie et articles chaussants, appareils orthopédiques et appareils de soutien, à usage médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Maske i oprema za umjetno disanje; Štitnici za lice za kiruršku uporabu; Štitnici za lice za medicinsku uporabu; Maske za disanje za medicinske namjene; Maske za anesteziju; Odjeća, pokrivala za glavu i obuća, ortoze i potpore za medicinske potrebe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Maszkok és berendezések mesterséges lélegeztetéshez; Arcvédő pajzsok sebészeti használatra; Arcvédő pajzsok orvosi használatra; Légzőmaszkok orvosi célokra; Altató maszkok; Ruházat, fejfedők és lábbelik, sínek és tartók gyógyászati célokra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Maschere e apparecchi per respirazione artificiale; Maschere facciali per uso chirurgico; Maschere facciali per uso medico; Maschere respiratorie per uso medico; Maschere anestetiche; Capi d'abbigliamento, articoli di cappelleria e calzature, bretelle e sostegni, per uso medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kaukės ir dirbtinio kvėpavimo įranga; Chirurginiai antveidžiai; Medicininiai antveidžiai; Kvėpavimo kaukės medicinos reikmėms; Anestezijos (nejautros) kaukės; Apranga, galvos apdangalai ir avalynė, atramos ir įtvarai medicinos reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Maskas un aprīkojums mākslīgajai elpošanai; Sejas aizsargi ķirurģiskiem nolūkiem; Sejas aizsargi medicīniskiem nolūkiem; Elpošanas maskas medicīniskiem nolūkiem; Anestēzijas maskas; Apģērbi, galvassegas un apavi, ortozes un balsti medicīniskiem nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Maskri u tagħmir għar-respirazzjoni artifiċjali; Ilqugħ tal-wiċċ għall-użu kirurġiku; Ilqugħ protettiv tal-wiċċ għall-użu mediku; Maskri respiratorji għal skopijiet mediċi; Maskri tal-loppju; Ħwejjeġ, xedd ir-ras u xedd is-saqajn, maqfel u sapporti, għal skopijiet mediċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Maskers en uitrusting voor kunstmatige beademing; Gezichtsschermen voor chirurgisch gebruik; Gezichtsschermen voor medisch gebruik; Ademhalingsmaskers voor medische doeleinden; Verdovingsmaskers; Kleding, hoofdbedekking en schoeisel, beugels en steunen, voor medische doeleinden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maski i sprzęt do sztucznego oddychania; Osłony na twarz do użytku chirurgicznego; Osłony na twarz do użytku medycznego; Maski oddechowe do celów medycznych; Maski anestezjologiczne; Odzież, nakrycia głowy i obuwie, aparaty i podpory do celów medycznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máscaras e equipamento para a respiração artificial; Proteções faciais para uso cirúrgico; Proteções faciais para uso médico; Máscaras respiratórias para uso médico; Máscaras anestésicas; Vestuário, artigos de chapelaria e calçado, suspensórios e artigos de apoio, para uso medicinal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Măști și echipament pentru respirație artificială; Ecrane de protecție pentru față, de uz chirurgical; Ecrane de protecție pentru față, de uz medical; Măști respiratorii de uz medical; Măști de anestezie; Îmbrăcăminte, articole pentru acoperirea capului și încălțăminte, susținătoare și suporturi de uz medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Masky a vybavenie na umelé dýchanie; Štíty na tvár na chirurgické použitie; Štíty na tvár na lekárske použitie; Respiračné masky na lekárske účely; Anestéziologické masky; Odevy, pokrývky hlavy a obuv, ortézy a podpery na lekárske účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Maske in oprema za umetno dihanje; Ščitniki za obraz za kirurško uporabo; Ščitniki za obraz za medicinsko uporabo; Dihalne maske za medicinske namene; Anestezijske maske; Oblačila, pokrivala in obutev, opornice in opore za medicinske namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Masker och utrustning för konstgjord andning; Ansiktsskydd för kirurgiskt bruk; Ansiktsskärmar för medicinskt bruk; Andningsmasker för medicinska ändamål; Narkosmasker; Kläder, huvudbonader och fotbeklädnader, stödanordningar, för medicinska ändamål.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

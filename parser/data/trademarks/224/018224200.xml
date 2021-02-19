@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-28T09:22:44</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224200</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224200</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-28</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="12" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>MorySkin</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Немедицински козметични средства; Немедицинска козметика и козметични тоалетни принадлежности; Нелечебни средства за почистване на зъби; Парфюмерия; Етерични масла; Перилни препарати; Избелващи препарати.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Neléčivá kosmetika; Neléčivé kosmetické a toaletní přípravky; Neléčivé přípravky na čištění zubů; Parfémy; Éterické oleje; Přípravky pro praní prádla; Bělicí přípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Ikke-medicinske kosmetiske præparater; Ikke-medicinsk kosmetik og toiletartikler; Ikke-medicinsk tandpasta; Parfumerivarer; Æteriske olier; Vaskemidler; Blegemidler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Nicht medizinische Kosmetika; Nicht medizinische Kosmetika und Mittel für Körper- und Schönheitspflege; Nicht medizinische Zahnputzmittel; Parfümeriewaren; Ätherische Öle; Waschmittel; Bleichmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μη φαρμακευτικά καλλυντικά· Μη φαρμακευτικά καλλυντικά και παρασκευάσματα ατομικής περιποίησης· Μη φαρμακευτικές οδοντόκρεμες· Αρωματισμού (Προϊόντα -)· Αιθέρια (Έλαια -)· Προιόντα πλυσίματος· Λευκαντικά παρασκευάσματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Non-medicated cosmetics; Non-medicated cosmetics and toiletry preparations; Non-medicated dentifrices; Perfumery; Ethereal oils; Laundry preparations; Bleaching preparations.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cosméticos que no sean medicinales; Productos cosméticos y preparaciones de tocador no medicinales; Dentífricos no medicinales; Productos de perfumería; Aceites esenciales; Preparaciones para lavar la ropa; Preparaciones para blanquear.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ravitoimeta kosmeetikavahendid; Ravitoimeta kosmeetika- ja tualett-tarbed; Ravitoimeta hambapuhastusained; Parfümeeriatooted; Eeterlikud õlid; Pesupesemisained; Pleegitusvahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lääkeaineita sisältämättömät kosmeettiset tuotteet; Lääkeaineita sisältämättömät kosmeettiset ja peseytymisvalmisteet; Lääkeaineita sisältämättömät hampaidenpuhdistusaineet; Hajuvedet; Eteeriset öljyt; Pyykinpesuaineet; Valkaisutuotteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Cosmétiques autres qu'à usage médical; Produits cosmétiques et préparations de toilette non médicamenteux; Dentifrices autres qu'à usage médical; Produits de parfumerie; Huiles essentielles; Préparations pour blanchisseries; Préparations décolorantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Nemedicinska kozmetika; Nemedicinska kozmetika i toaletni pripravci; Nemedicinski preparati za oralnu higijenu; Mirisi; Esencijalna ulja; Pripravci za pranje rublja; Pripravci za izbjeljivanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Nem gyógyhatású kozmetikumok; Nem gyógyhatású kozmetikumok és piperekészítmények; Nem gyógyhatású fogkrémek; Illatszer készítmények; Esszenciális olajok; Mosodai készítmények; Fehérítő készítmények.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cosmetici non medicati; Cosmetici e preparati per la toeletta non medicati; Dentifrici non medicati; Prodotti di profumeria; Oli essenziali; Prodotti di sbianca [bucato]; Preparati per la sbiancatura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Negydomoji kosmetika; Negydomoji kosmetika ir tualetiniai preparatai; Negydomieji dantų priežiūros preparatai; Kvepalai; Eteriniai aliejai; Plovimo preparatai; Balinimo preparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medikamentus nesaturoši kosmētiskie līdzekļi; Nemedicīniski kosmētikas un tualetes līdzekļi; Medikamentus nesaturoši zobu kopšanas līdzekļi; Smaržas; Ēteriskās eļļas; Veļas mazgāšanas līdzekļi; Balināšanas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kosmetiċi mhux medikati; Kożmetiċi mhux medikati u preparazzjonijiet tat-twaletta; Dentifriċi mhux medikati; Prodotti ta' fwejjaħ; Żjut meħudin minn pjanti; Preparazzjonijiet tal-ħasil; Preparazzjonijiet ta' bliċ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Cosmetische middelen (Niet-medicinale -); Niet-medicinale cosmetica en toiletpreparaten; Niet-medicinale tandpasta; Parfumerieën; Etherische oliën; Wasmiddelen; Middelen voor het bleken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kosmetyki nielecznicze; Kosmetyki nielecznicze i preparaty toaletowe; Nielecznicze środki do mycia zębów; Produkty perfumeryjne; Olejki eteryczne; Preparaty do prania; Preparaty do wybielania.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cosméticos não medicinais; Preparações cosméticas e de higiene pessoal, não medicinais; Dentífricos não medicinais; Produtos de perfumaria; Óleos essenciais; Produtos de lavandaria; Preparações para branquear.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cosmetice nemedicinale; Cosmetice și produse de toaletă nemedicinale; Produse nemedicinale pentru curățarea dinților; Parfumerie (Produse de -); Uleiuri eterice; Preparate pentru spălare; Produse pentru decolorare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Neliečivé kozmetické prípravky; Neliečivé kozmetické prípravky a toaletné výrobky; Neliečivé prípravky na čistenie zubov; Voňavkárske výrobky; Esenciálne (éterické) oleje; Pracie prostriedky; Bielidlá.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kozmetični izdelki brez zdravilnih učinkovin; Kozmetični izdelki brez zdravilnih učinkovin in toaletni pripravki; Sredstva za čiščenje zob brez zdravilnih učinkovin; Parfumerijski izdelki; Eterična olja; Pralna sredstva; Belilni pripravki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Icke medicinsk kosmetika; Icke-medicinsk kosmetika och icke-medicinska toalettpreparat; Icke-medicinska tandpulver; Parfymerivaror; Flyktiga oljor; Preparat för tvätt; Blekningspreparat.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Фармацевтични препарати; Медицински препарати; Хигиенни препарати за медицински цели; Диетични храни за лечебни цели; Диетични препарати, адаптирани за медицински цели; Диетични добавки за хора; Пластири, превързочни материали; Превръзки [лечебни]; Дезинфектанти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Farmaceutika; Lékařské přípravky; Hygienické přípravky k léčebným účelům; Dietetické potraviny pro léčebné účely; Dietetické přípravky upravené k lékařskému použití; Dietní potravinové doplňky pro lidskou potřebu; Náplasti, obvazový materiál; Krytí (zdravotnické potřeby); Dezinfekční přípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Farmaceutiske præparater; Medicinske præparater; Sanitære præparater til medicinske formål; Diætetiske næringsmidler tilpasset medicinske formål; Diætetiske præparater tilpasset til medicinsk brug; Diættilskud til mennesker; Plastre, forbindsstoffer; Forbindsmaterialer, medicinske; Desinfektionsmidler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Pharmazeutische Erzeugnisse; Medizinische Präparate; Hygienepräparate für medizinische Zwecke; Diätetische Lebensmittel für medizinische Zwecke; Diätetische Erzeugnisse für medizinische Zwecke; Nahrungsergänzungsmittel für Menschen; Pflaster; Verbandmaterial; Desinfektionsmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φαρμακευτικά (Προϊόντα -)· Ιατρικά ιδιοσκευάσματα· Παρασκευάσματα υγιεινής για ιατρικές χρήσεις· Τροφές διαιτητικές για ιατρική χρήση· Διαιτητικά προϊόντα για ιατρική χρήση· Συμπληρώματα διατροφής για ανθρώπους· Λευκοπλάστης με γάζα· Υλικά επίδεσης, ιατρικά· Απολυμαντικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Pharmaceuticals; Medical preparations; Sanitary preparations for medical purposes; Dietetic foods adapted for medical purposes; Dietetic preparations adapted for medical use; Dietary supplements for humans; Plasters, materials for dressings; Dressings, medical; Disinfectants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Productos farmacéuticos; Productos médicos; Productos higiénicos y sanitarios para uso médico; Alimentos dietéticos para uso médico; Preparaciones dietéticas para uso médico; Suplementos dietéticos para humanos; Emplastos, material para apósitos; Artículos para apósitos; Desinfectantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Farmaatsiapreparaadid; Meditsiinilised preparaadid; Meditsiinilised hügieenitarbed; Meditsiinilised dieettoidud; Meditsiiniliseks kasutamiseks kohandatud dieedipreparaadid; Toidulisandid inimestele; Plaastrid, sidemematerjalid; Meditsiinilised sidemed; Desinfektsioonivahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Farmaseuttiset valmisteet; Lääketieteelliset valmisteet; Terveydenhoitovalmisteet lääkinnälliseen käyttöön; Dieettiravintoaineet lääkinnälliseen käyttöön; Dieettivalmisteet lääketieteelliseen käyttöön; Lisäravinteet ihmisille; Laastarit, sidontatarvikkeet; Sidontatarvikkeet (Haavan -); Desinfiointiaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Produits pharmaceutiques; Préparations médicales; Produits hygiéniques à usage médical; Aliments diététiques à usage médical; Préparations diététiques à usage médical; Compléments alimentaires propres à la consommation humaine; Emplâtres, matériel pour pansements; Articles pour pansements; Désinfectants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Farmaceutski pripravci; Medicinski pripravci; Higijenski pripravci za medicinsku uporabu; Dijetetska hrana prilagođena za medicinske potrebe; Dijetetski pripravci prilagođeni za medicinsku uporabu; Dijetalni dodaci ljudskoj prehrani; Flasteri, zavojni materijali; Medicinske obloge za rane; Dezinfekcijska sredstva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyógyszerészeti készítmények; Orvosi készítmények; Higiéniai termékek gyógyászati célokra; Diétás ételek gyógyászati célokra; Diétás készítmények gyógyászati használatra; Humán étrendkiegészítők; Tapaszok, kötszeranyagok; Orvosi kötszerek; Fertőtlenítőszerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Prodotti farmaceutici; Preparazioni mediche; Prodotti igienici per scopi medici; Alimenti dietetici per uso medico; Preparati dietetici adattati ad uso medico; Alimenti complementari nel regime alimentare degli esseri umani; Cerotti [medicazioni]; Articoli per medicazioni; Disinfettanti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vaistai; Gydomieji preparatai; Higienos preparatai medicinos reikmėms; Dietinis maistas (medicinos reikmėms); Dietiniai preparatai (medicinos reikmėms); Maisto papildai žmonėms; Pleistrai, tvarsliava; Tvarsliava [medicininė]; Dezinfekantai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Farmaceitiskie produkti; Ārstniecības līdzekļi; Higiēnas līdzekļi medicīniskiem nolūkiem; Diētiskā pārtika medicīniskiem nolūkiem; Medicīniskiem nolūkiem paredzēti diētiskie preparāti; Uztura bagātinātāji cilvēkam; Plāksteri, pārsienamie materiāli; Medicīniskie pārsēji; Dezinfekcijas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preparazzjonijiet farmaċewtiċi; Preparazzjonijiet mediċi; Preparazzjonijiet sanitarji għal skopijiet mediċi; Ikel djetetiku addattat għal skopijiet mediċi; Preparazzjonijiet tad-dieta adattati għall-użu mediku; Supplimenti dijetetiċi għall-bnedmin; Impjastri; Ilbies għall-feriti, mediċi; Diżinfettanti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Farmaceutische producten; Medische substanties; Hygiënische producten voor medisch gebruik; Dieetvoedingsmiddelen voor medisch gebruik; Diëtische producten voor medisch gebruik; Dieetsupplementen voor mensen; Pleisters, verbandmiddelen; Verbandartikelen; Desinfectiemiddelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Preparaty farmaceutyczne; Preparaty medyczne; Preparaty higieniczne do celów medycznych; Dietetyczna żywność przystosowana do celów medycznych; Preparaty dietetyczne do użytku medycznego; Suplementy diety dla ludzi; Plastry, materiały opatrunkowe; Materiały opatrunkowe, medyczne; Środki odkażające.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Produtos farmacêuticos; Preparações médicas; Produtos higiénicos para uso médico; Alimentos dietéticos para uso medicinal; Produtos dietéticos para uso medicinal; Suplementos alimentares para consumo humano; Emplastros; Artigos para pensos; Desinfetantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Preparate farmaceutice; Preparate medicale; Produse igienice pentru medicină; Alimente dietetice de uz medical; Preparate dietetice adaptate pentru scopuri medicale; Suplimente dietetice pentru consumul uman; Plasturi, materiale pentru pansamente; Pansamente de uz medical; Dezinfectante.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Farmaceutické prípravky; Lekárske prípravky; Hygienické prípravky na lekárske použitie; Diétne potraviny na lekárske použitie; Diétne látky na lekárske použitie; Diétne potravinové doplnky pre ľudí; Náplasti, obväzový materiál; Obväzový materiál; Dezinfekčné prípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Farmacevtski pripravki; Medicinski preparati; Sanitarni pripravki za medicinske namene; Dietetična hrana, prilagojena za medicinske namene; Dietetični pripravki za medicinsko uporabo; Prehranski dodatki za ljudi; Obliži, obvezilni material; Medicinske obveze; Razkužila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Läkemedel; Läkemedelspreparat; Hygieniska preparat för medicinska ändamål; Dietiska födoämnespreparat anpassade för medicinska ändamål; Dietiska preparat anpassade för medicinska ändamål; Kosttillskott för personer; Plåster, förbandsmaterial; Förband (medicinska); Desinfektionsmedel.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>44</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Медицински услуги; Грижа за красотата за хора; Грижи за хигиената за хора.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zdravotní péče; Kosmetická péče pro lidi; Hygienická péče o lidské jedince.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Medicinske tjenesteydelser; Skønhedspleje til mennesker; Sundhedspleje til mennesker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Medizinische Dienstleistungen; Schönheitspflege für Menschen; Gesundheitspflege für Menschen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ιατρικές υπηρεσίες· Φροντίδα ομορφιάς για ανθρώπους· Φροντίδα υγιεινής για ανθρώπους.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Medical services; Beauty care for human beings; Hygienic care for human beings.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios médicos; Servicios de cuidados de belleza para personas; Cuidados de higiene para personas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiiniteenused; Iluhooldus inimestele; Inimeste hügieeniline hooldamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lääkinnälliset palvelut; Kauneudenhoito ihmisille; Ihmisten hygienian hoito.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services médicaux; Services de soins de beauté pour personnes; Services de soins hygiéniques pour personnes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Medicinske usluge; Kozmetička njega za ljude; Održavanje higijene za ljude.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Orvosi szolgáltatások; Szépségápolás emberek részére; Higiéniai szolgáltatások emberek számára.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi medici; Servizi di bellezza per persone; Trattamenti igienici per persone.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Medicinos paslaugos; Žmonių grožio priežiūra; Žmonių higieninė priežiūra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medicīniskie pakalpojumi; Skaistumkopšanas pakalpojumi cilvēkiem; Cilvēku higiēniskā aprūpe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi mediċi; Kura tas-sbuħija għall-bnedmin; Kura iġjenika għall-bnedmin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Medische diensten; Schoonheidsverzorging voor mensen; Hygiënische verzorging voor mensen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi medyczne; Pielęgnacja urody dla ludzi; Zabiegi higieniczne dla ludzi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços médicos; Cuidados de beleza para pessoas; Cuidados de higiene para pessoas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii medicale; Îngrijire cosmetică pentru persoane; Îngrijiri de igienă pentru oameni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lekárske služby; Starostlivosť o krásu pre ľudí; Hygienická starostlivosť o ľudí.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zdravstvene storitve; Lepotilna nega za ljudi; Higienska nega za ljudi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Medicinska tjänster; Skönhetsvård för människor; Hygienisk vård för människor.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/073</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1075989</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>95520</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

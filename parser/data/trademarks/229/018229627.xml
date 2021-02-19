@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T08:41:23</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229627</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229627</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Loolinn</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162506383</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229627/000162506383.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>01.01.03</CategoryCode>
+          <CategoryCode>01.01.99</CategoryCode>
+          <CategoryCode>27.05.05</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>28</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Пъзели за подреждане и сглобяване; Умалени модели на превозни средства; Пъзели; Главоблъсканици [игри]; Дървени играчки; Модели на летателни апарати; Сглобяеми умалени модели [играчки]; Колички [играчки]; Дронове [играчки]; Играчки коли; Играчки самолети; Строителни кубчета [играчки]; Модели на превозни средства; Мозаечни пъзели; Играчки, изработени от дърво.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Manipulační hlavolamy; Modely vozidel; Puzzle; Skládačky; Dřevěné hračky; Zmenšené modely letadel; Stavebnice modelů [hračky]; Autíčka na hraní; Drony [hračky]; Autíčka na hraní; Letadla na hraní; Stavebnicové kostky [hračky]; Modely vozidel; Mozaikové skládačky; Hračky vyrobené ze dřeva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Puslespil, som udføres med håndgreb; Målestoktro modeller af befordringsmidler; Puslespil; Puslespil; Legetøj af træ; Modelfly; Skalamodelsæt [legetøj]; Legetøjsbiler; Droner [legetøj]; Legetøjskøretøjer; Legetøjsflyvemaskiner; Byggeklodser [legetøj]; Modelkøretøjer; Mosaikpuslespil; Legetøj fremstillet af træ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Knobelspiele; Verkleinerte Fahrzeugmodelle; Puzzles; Puzzles; Holzspielwaren; Modellflugzeuge; Modellbausätze [Spielwaren]; Spielzeugautos; Drohnen [Spielwaren]; Spielzeugfahrzeuge; Spielflugzeuge; Bauklötze [Spielwaren]; Fahrzeugmodelle; Mosaikpuzzles; Spielzeug aus Holz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παιχνίδια στρατηγικής, παζλ στρατηγικής· Οχήματα σε μικρογραφία· Συναρμολόγησης παιχνίδια [παζλ]· Παζλ· Ξύλινα παιχνίδια· Μοντέλα αεροσκαφών· Σετ δημιουργίας μοντέλων κλίμακας [ατομικά παιχνίδια]· Αυτοκινητάκια [παιχνίδια]· Τηλεκατευθυνόμενα αεροσκάφη [είδη παιχνιδιών]· Αυτοκινητάκια (παιχνίδια)· Αεροσκάφη - παιχνίδια· Κύβοι κατασκευών [παιχνίδια]· Μοντέλα οχημάτων (υπό κλίμακα)· Μωσαϊκά παζλ· Ξύλινα παιχνίδια.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Manipulative puzzles; Scale-model vehicles; jigsaw puzzles; puzzles; wooden toys; scale model cars [toys]; scale model airplanes; scale model kits [toys]; toy cars; drones [toys]; toy vehicles; toy airplanes; building blocks [toys]; Model vehicles; Mosaic puzzles; Toys made of wood.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Rompecabezas manipulativos; Modelos de vehículos a escala; Rompecabezas [puzles]; Juegos de ingenio; Juguetes de madera; Modelos a escala de aviones; Kits de modelos a escala [juguetes]; Coches de juguete; Drones [juguetes]; Vehículos de juguete; Aviones de juguete; Bloques de construcción [juguetes]; Maquetas de vehículos; Rompecabezas de mosaicos; Juguetes hechos de madera.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kokkupandavad pusled; Sõidukimudelid, mudelsõidukid; Pusled; Pusled; Puidust mänguasjad; Lennukimudelid, mudellennukid; Kokkupandavad mudelid [mänguasjad]; Mänguautod; Mängudroonid; Mängusõidukid; Mängulennukid; Ehitusklotsid [mänguasjad]; Sõidukimudelid; Mosaiikpusled; Puidust valmistatud mänguasjad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Päättelypalapelit; Pienoismalliajoneuvot; Palapelit; Pulmapelit; Puulelut; Lentokoneiden pienoismallit; Pienoismallisarjat [leluina]; Leluautot; Radio-ohjattavat lentokoneet [lelut]; Leluautot; Lelulentokoneet; Rakennuspalikat [leluina]; Ajoneuvojen pienoismallit; Mosaiikkipalapelit; Puusta tehdyt lelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Puzzles à manipuler; Modèles réduits de véhicules; Puzzles; Casse-tête [jeux]; Jouets en bois; Avions miniatures; Modèles réduits prêts-à-monter [jouets]; Voitures en tant que jouets; Drones [jouets]; Véhicules [jouets]; Avions [jouets]; Blocs de construction [jouets]; Modèles réduits de véhicules; Casse-tête sous forme de mosaïque; Jouets en bois.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Mehaničke slagalice (mozgalice); Makete vozila; Slagalice; Puzzle; Drvene igračke; Makete zrakoplova; Makete [kompleti za izradu maketa]; Autići [igračke]; Bespilotne letjelice [igračke]; Autići - igračke; Zrakoplovi - igračke; Kocke za slaganje [igračke]; Modeli vozila za igru; Slagalice – mozaici; Drvene igračke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Manipulatív rejtvények, fejtörők, kirakós játékok; Méretarányos járműmodellek; Kirakós játékok [puzzle]; Kirakós játékok [puzzle]; Fajátékok; Méretarányos repülőgép modellek; Méretarányos modell készletek [játékok]; Játékautók; Drónok [játékszerek]; Játékautók; Játékrepülőgépek; Építőkockák [játékok]; Modelljárművek; Mozaik rejtvények; Fából készült játékok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Puzzle di manipolazione; Modellini di veicoli; Puzzle; Giocattoli in forma di puzzle; Giocattoli in legno; Modellini di aeroplani; Kit per creare modellini in scala [giocattoli]; Automobili giocattolo; Droni [giochi]; Veicoli [giocattoli]; Aeroplani giocattolo; Blocchi per costruzioni [giocattoli]; Modellini di veicoli; Puzzle; Giocattoli in legno.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Manipuliaciniai galvosūkiai; Sumažinti transporto priemonių modeliai; Dėstiniai [žaidimai]; Galvosūkiai; Mediniai žaislai; Lėktuvų modeliai; Sumažintų modelių rinkiniai [žaislai]; Žaisliniai automobiliai; Bepiločiai orlaiviai [žaislai]; Žaislinės transporto priemonės; Žaisliniai lėktuvai; Konstrukciniai kubeliai [žaislai]; Transporto priemonių modeliai; Mozaikinės dėlionės; Žaislai iš medžio.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Manipulējamas spēles; Transportlīdzekļu modeļi; Lauzīši (puzles); Puzles; Koka rotaļlietas; Lidmašīnu modeļi; Mēroga modeļu veidošanas komplekti rotaļām; Rotaļu automobiļi; Rotaļu droni; Rotaļu automašīnas; Rotaļu lidmašīnas; Rotaļu klucīši [konstruktori]; Transportlīdzekļu modelīši; Mozaīku lauzīši (puzles); Rotaļlietas, kas izgatavotas no koka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Logħob manipulattiv ta' taħbil il-moħħ; Mudelli ta' vetturi fi proporzjon fiss għad-daqs reali; Logħob tat-taħbil il-moħħ (jigsaw puzzles); Logħob tat-taħbil il-moħħ; Ġugarelli tal-injam; Mudelli ta' ajruplani (fuq proporzjon fiss għad-daqs reali); Kittijiet ta' mudelli fi proporzjon fiss għad-daqs reali [ġugarelli]; Karozzi tal-logħob; Drones [ġugarelli]; Vetturi tal-logħob; Ajruplani bħala ġugarelli; Blokki għal bini ta' kostruzzjonijiet [ġugarelli]; Mudelli tal-vetturi; Pażils tal-mużajk; Ġugarelli magħmula mill-injam.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Manipulatieve puzzels; Schaalmodellen van voertuigen; Legpuzzels; Puzzels; Houten speelgoederen; Wiegmobielen, speelgoedmobielen; Schaalmodellen [bouwdozen]; Speelgoedauto' s; Drones [speelgoed]; Voertuigen [speelgoed]; Speelgoedvliegtuigen; Bouwblokken [speelgoed]; Modelvoertuigen; Mozaïekpuzzels; Houten speelgoed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Łamigłówki; Modele pojazdów w zmniejszonej skali; Układanki [puzzle]; Puzzle; Zabawki drewniane; Modele samolotów w zmniejszonej skali; Zestawy modeli w zmniejszonej skali do składania [zabawki]; Samochody do zabawy; Drony (zabawki); Samochody do zabawy; Samoloty do zabawy; Klocki do zabawy [konstrukcyjne]; Modele pojazdów; Puzzle mozaikowe; Zabawki wykonane z drewna.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Puzzles manipuláveis; Modelos de veículos à escala; Puzzles; Puzzles; Brinquedos de madeira; Modelos de aeronaves em miniatura; Kits de modelos de montar em miniatura [brinquedos]; Carros de brincar; Drones [brinquedos]; Veículos de brinquedo; Aeronaves de brincar; Blocos de construção [brinquedos]; Modelos de veículos; Quebra-cabeças de mosaicos; Brinquedos em madeira.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Puzzle-uri de manipulat; Modele de vehicule la scară redusă [miniaturi]; Puzzle-uri; Jucării sub formă de puzzle-uri; Jucării din lemn; Modele de aeronave la scară redusă; Kituri de asamblat machete la scară [jucării]; Vehicule [jucării]; Drone [jucării]; Vehicule [jucării]; Avioane de jucărie; Blocuri de construcție [jucării]; Machete de vehicule; Puzzle-uri mozaic; Jucării de lemn.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Manipulačné rébusy a hlavolamy; Modely automobilov; Hlavolamy (puzzle); Puzzle; Drevené hračky; Zmenšené modely lietadiel; Skladacie modely (hračky); Vozidlá (hračky); Dróny (hračky); Vozidlá (hračky); Hračkárske lietadlá; Stavebnicové kocky (hračky); Modely vozidiel; Mozaikové puzzle; Hračky z dreva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Manipulativne sestavljanke; Modeli vozil v merilu; Sestavljanke (na kocke zrezane slike); Igrače v obliki sestavljank; Lesene igrače; Modeli letal v merilu; Kompleti modelov za sestavljanje [igračke]; Avtomobilčki; Brezpilotni zrakoplovi [igrače]; Avtomobilčki; Letala (igrače); Kocke [igrače]; Modelčki vozil; Mozaične sestavljanke; Igrače iz lesa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Problemlösningspussel; Skalmodeller av fordon och farkoster; Figursågat pussel; Pussel; Träleksaker; Modellflygplan; Skalmodellset (leksaker); Leksaksbilar; Drönare [leksaker]; Leksaksfordon och -farkoster; Leksaksflygplan; Byggklossar [leksaker]; Modellfordon; Mosaikpussel; Leksaker tillverkade av trä.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082741</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>85806</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

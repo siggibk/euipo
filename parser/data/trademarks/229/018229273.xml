@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-07T08:44:44</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229273</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229273</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-09-02</RegistrationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SWEETUNES</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162458984</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229273/000162458984.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>03.05.01</CategoryCode>
+          <CategoryCode>03.05.20</CategoryCode>
+          <CategoryCode>03.05.24</CategoryCode>
+          <CategoryCode>24.17.12</CategoryCode>
+          <CategoryCode>27.03.11</CategoryCode>
+          <CategoryCode>27.03.15</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>28</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Играчки, игри; Игри, които се играят на табло.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Hračky, hry a žertovné předměty; Deskové hry.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Legetøj, spil og festartikler; Brætspil.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Spielwaren, Spiele, Spielzeug und Kuriositäten; Brettspiele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παιδικά παιχνίδια, παιχνίδια, αθύρματα και παιχνίδια ενηλίκων (γκάτζετς)· Παιχνίδια επιτραπέζια.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Toys, games, playthings and novelties; Board games.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Juguetes, juegos, artículos para jugar y baratijas; juegos de mesa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mänguasjad, mängud ja peotarbed, pilakaubad; Lauamängud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lelut, pelit, leikkivälineet, karnevaali- ja pilailutarvikkeet; Lautapelit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Jouets, jeux et cotillons; Jeux de table.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Igračke, igre, predmeti za igranje i zabavu; Društvene igre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Játékok, játékszerek és ajándéktárgyak; Táblajátékok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Giochi, giocattoli, balocchi e ninnoli; Giochi da tavolo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Žaislai, žaidimai, žaisliukai ir niekučiai (dovanėlės); Stalo žaidimai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Rotaļlietas, spēles, spēļlietas un suvenīru rotaļlietas; Galda spēles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ġugarelli, logħob, oġġetti tal-logħob u novitajiet; Logħob tal-bord.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Speelgoed, spellen, speelgoederen en feestartikelen; Bordspellen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Gry, zabawki i akcesoria do zabawy; Gry planszowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Brinquedos, jogos, artigos de brincar e de festa; Jogos de tabuleiro.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Jucării, jocuri, articole de joacă şi articole pentru petrecere; Jocuri de masă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Hračky, hry, stavebnice a drobný hračkársky tovar; Stolové hry.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Igrače, igre, predmeti za zabave in trike; Igre na deski.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Leksaker, spel och skämtartiklar; Brädspel.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Рекламиране и рекламни услуги; Услуги за насърчаване на продажбите на игри и играчки, изделия за игра, дрънкулки и настолни игри; Услуги за внос и износ на игри и играчки, изделия за игра, дрънкулки и настолни игри; Услуги продажба в магазини на дребно и на едро или по каталог за продажба по пощата, или с електронни средства, или чрез уебсайтове, или предавания за телевизионна продажба на игри и играчки, изделия за игра, дрънкулки и настолни игри; Съдействие по търговско управление на фирма във връзка с франчайз.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Propagace; Podpora prodeje her a hraček, herního vybavení, tretek a stolních her; Dovoz a vývoz her a hraček, herního vybavení, tretek a stolních her; Maloobchodní a velkoobchodní prodej v obchodech, prostřednictvím katalogu, poštou nebo prostřednictvím elektronických médií nebo webových stránek nebo teleshoppingu zaměřený na hry a hračky, herní vybavení, tretky a stolní hry; Pomoc při provozování obchodního podniku v režimu franšíz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Reklamevirksomhed; Salgsmæssigt fremme af spil og legetøj, spilleartikler, nipsgenstande og brætspil; Import og eksport af spil og legetøj, spilleartikler, nipsgenstande og brætspil; Engros- og detailsalg i forretninger, via salgskataloger, postordre eller elektroniske medier eller websteder eller via teleshopping af spil og legetøj, spilleartikler, nipsgenstande og brætspil; Bistand ved drift af franchisevirksomheder.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Werbung; Verkaufsförderung von Spielen und Spielzeug, Spielwaren, Scherzartikeln und Brettspielen; Import und Export von Spielen und Spielzeug, Spielwaren, Scherzartikeln und Brettspielen; Einzel- und Großhandelsverkauf in Geschäften oder Verkauf über Verkaufskataloge, durch Versandhandel oder über elektronische Medien oder Websites oder Teleshopping-Sendungen von Spielen und Spielzeug, Spielwaren, Scherzartikeln und Brettspielen; Unterstützung beim Betrieb von Franchiseunternehmen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διαφήμιση· Υπηρεσίες προώθησης των πωλήσεων παιχνιδιών και αθυρμάτων, ειδών για παιχνίδι, κοσμημάτων μικρής αξίας και επιτραπέζιων παιχνιδιών· Υπηρεσίες εισαγωγών και εξαγωγών παιχνιδιών και αθυρμάτων, ειδών για παιχνίδι, κοσμημάτων μικρής αξίας και επιτραπέζιων παιχνιδιών· Υπηρεσίες λιανικής πώλησης και χονδρικού εμπορίου σε εμπορικά καταστήματα, ή μέσω καταλόγων πωλήσεων, ή μέσω ταχυδρομικών παραγγελιών, ή με ηλεκτρονικά μέσα, ή μέσω διαδικτυακών τόπων ή εκπομπών τηλεπωλήσεων, οι οποίες αφορούν παιχνίδια και αθύρματα, είδη για παιχνίδι, κοσμήματα μικρής αξίας και επιτραπέζια παιχνίδια· Υπηρεσίες παροχής υποστήριξης στην εκμετάλλευση εμπορικής επιχείρησης υπό καθεστώς δικαιόχρησης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Advertising; Sales promotion of games, toys and playthings, play articles, novelties and board games; Import and export of games, toys and playthings, play articles, novelties and board games; Retailing and wholesaling in shops, or sale via mail order catalogues, via electronic media or via websites or teleshopping programmes of games, toys and playthings, play articles, novelties and board games; Commercial management assistance in relation to franchising.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de publicidad; servicios de promoción de ventas de juegos y juguetes, artículos para jugar, baratijas y juegos de mesa; servicios de importación y exportación de juegos y juguetes, artículos para jugar, baratijas y juegos de mesa; servicios de venta en comercios al por menor y al por mayor, o por medio de catálogos de venta por correo, o por medios electrónicos o por medio de sitios web o de emisiones de tele venta de juegos y juguetes, artículos para jugar, baratijas y juegos de mesa; servicios de ayuda a la explotación de una empresa comercial en régimen de franquicias.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Reklaam; Mängude ja mänguasjade, mänguvahendite, nipsasjade ja lauamängude müügiedendus; Mängude ja mänguasjade, mänguvahendite, nipsasjade ja lauamängude import ja eksport; Mängude ja mänguasjade, mänguvahendite, nipsasjade ja lauamängude jae- ja hulgimüük kauplustes, kataloogi- ja postimüük või müük elektroonilisel teel, nt veebilehtede või telepoe kaudu; Abistamisteenused frantsiisiettevõtte majandamise vallas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Mainonta; Pelien ja lelujen, leikkivälineiden, rihkamakorujen ja lautapelien myynninedistämispalvelut; Pelien ja lelujen, leikkivälineiden, rihkamakorujen ja lautapelien tuonti- ja vientipalvelut; Pelien ja lelujen, leikkivälineiden, rihkamakorujen ja lautapelien vähittäis- ja tukkumyyntipalvelut liikkeissä tai postimyyntiluettelojen tai elektronisten välineiden tai WWW-sivustojen tai teleostoslähetysten välityksellä; Franchising-järjestelmään kuuluvan liikeyrityksen hoidon tukipalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Publicité; Services de promotion des ventes de jeux et jouets, articles pour jouer, bibelots et jeux de société; Services d'import-export de jeux et jouets, articles pour jouer, bibelots et jeux de société; Services de vente dans des magasins au détail et en gros, ou par catalogues de vente par correspondance, ou par le biais de supports électroniques ou de sites web ou émissions de téléachat de jeux et jouets, articles pour jouer, bibelots et jeux de société; Services d'aide à l'exploitation d'une entreprise commerciale sous régime de franchise.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Oglašavanje; Usluge promocije prodaje igara i igračaka, predmeta za igranje i zabavu te društvenih igara; Usluge uvoza i izvoza igara i igračaka, predmeta za igranje i zabavu te društvenih igara; Usluge maloprodaje i veleprodaje igara i igračaka, predmeta za igranje i zabavu te društvenih igara u trgovinama ili putem kataloga za prodaju putem pošte ili putem elektroničkih medija ili mrežnih stranica ili televizijskih emisija; Usluge pomoći u radu komercijalnog poduzeća u franšiznom sustavu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Hirdetési- és reklámszolgáltatások; Játékok és játékszerek, játékkészülékek, apró dísztárgyak és társasjátékok promóciója; Játékok és játékszerek, játékkészülékek, apró dísztárgyak és társasjátékok importja és exportja; Játékok és játékszerek, játékkészülékek, apró dísztárgyak és társasjátékok bolti nagy- és kiskereskedelme vagy értékesítési katalógusokon, postai úton vagy elektronikus eszközökön vagy webhelyeken vagy távértékesítésen keresztül történő kereskedelme; Franchise rendszerű kereskedelmi vállalatok irányításához segítségnyújtás.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pubblicità; Servizi di promozione della vendita di giochi e giocattoli, articoli per giocare, ciondoli e giochi da tavolo; Servizi d'import-export di giochi e giocattoli, articoli per giocare, ciondoli e giochi da tavolo; Servizi di vendita in negozi al dettaglio e all'ingrosso, o tramite cataloghi di vendita per corrispondenza, o tramite mezzi elettronici, o tramite siti web o programmi di televendite di prodotti di giochi e giocattoli, articoli per giocare, ciondoli e giochi da tavolo; Assistenza nella gestione d'imprese commerciali che operano in franchising.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Reklama; Žaidimų ir žaislų, žaidimų įrangos, niekučių ir stalo žaidimų pardavimų skatinimo paslaugos; Žaidimų ir žaislų, žaidimų įrangos, niekučių ir stalo žaidimų importo ir eksporto paslaugos; Mažmeninės ir didmeninės prekybos parduotuvėse, per prekybos katalogus, paštu, per elektronines priemones arba internetinius puslapius, per televizijos programas žaidimais ir žaislais, žaidimų įranga, niekučiais ir stalo žaidimais paslaugos; Pagalbininko paslaugos naudojant komercines patalpas frančizės sąlygomis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Reklāma; Spēļu un rotaļlietu, spēļlietu, suvenīru rotaļlietu un galda spēļu tirdzniecības veicināšanas pakalpojumi; Spēļu un rotaļlietu, spēļlietu, suvenīru rotaļlietu un galda spēļu importa un eksporta pakalpojumi; Spēļu un rotaļlietu, spēļlietu, suvenīru rotaļlietu un galda spēļu mazumtirdzniecības un vairumtirdzniecības pakalpojumi veikalos vai ar kataloga starpniecību, izmantojot pasta pakalpojumus, ar elektrisko saziņas līdzekļu vai tīmekļa vietņu, vai teleiepirkšanās raidījumu starpniecību; Tirdzniecības uzņēmuma darbības atbalsta pakalpojumi franšīzu jomā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Reklamar; Servizzi ta' promozzjoni ta' bejgħ ta' logħob u ġugarelli, oġġetti għal-logħob, novitajiet u logħob tal-mejda; Servizzi ta' importazzjoni u esportazzjoni ta' logħob u ġugarelli, oġġetti għal-logħob, novitajiet u logħob tal-mejda; Servizzi ta' bejgħ fi ħwienet bl-imnut u bl-ingrossa, jew permezz ta' katalgi ta' bejgħ bil-posta, jew permezz ta' mezzi elettroniċi jew permezz ta' siti web jew ta' programmi tat-telebejgħ ta' logħob u ġugarelli, oġġetti għal-logħob, novitajiet u logħob tal-mejda; Servizzi ta' għajnuna fil-ħidma ta' intrapriża kummerċjali b'sistema ta' franchise.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Publiciteit; Verkooppromotie voor spellen en speelgoederen, speelgoedartikelen, snuisterijen en bordspellen; Import en export van spellen en speelgoederen, speelgoedartikelen, snuisterijen en bordspellen; Detail- en groothandelverkoop of verkoop per postorder via catalogi, via elektronische middelen, websites of televerkoopprogramma's van spellen en speelgoederen, speelgoedartikelen, snuisterijen en bordspellen; Hulp bij de exploitatie van een commerciële franchiseonderneming.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Reklama; Usługi promocji sprzedaży gier i zabawek, artykułów do zabawy, bibelotów i gier planszowych; Usługi importu i eksportu gier i zabawek, artykułów do zabawy, bibelotów i gier planszowych; Usługi sprzedaży detalicznej i hurtowej prowadzonej w sklepach, za pośrednictwem katalogów sprzedaży wysyłkowej, mediów elektronicznych, witryn internetowych lub poprzez programy telesprzedaży w zakresie gier i zabawek, artykułów do zabawy, bibelotów i gier planszowych; Usługi doradcze przy zarządzaniu przedsiębiorstwem handlowym na zasadach franczyzy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços publicitários; Serviços de promoção de vendas de jogos e brinquedos, artigos para brincar, bugigangas e jogos de mesa; Serviços de importação e exportação de jogos e brinquedos, artigos para brincar, bugigangas e jogos de mesa; Serviços de venda a retalho e por grosso em lojas, por catálogos de venda por correio, através de meios eletrónicos, de sítios Web ou de emissões de televendas de jogos e brinquedos, artigos para brincar, bugigangas e jogos de mesa; Serviços de apoio na exploração de uma empresa comercial em regime de franquias.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Publicitate; Servicii de promovare de vânzări de jocuri şi jucării, articole de joacă, gablonzuri şi jocuri de masă; Servicii de import şi export de jocuri şi jucării, articole de joacă, gablonzuri şi jocuri de masă; Servicii de vânzare în magazine cu amănuntul şi cu ridicata, sau prin intermediul cataloagelor de vânzare prin poştă, sau prin mijloace electronice sau prin intermediul site-urilor web sau al emisiunilor de televânzare de jocuri şi jucării, articole de joacă, gablonzuri şi jocuri de masă; Servicii de sprijin in exploatarea unei intreprinderi comerciale in regim de franciza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Reklama; Podpora predaja týchto výrobkov: hry, hračky a veci na hranie, drobný hračkársky tovar a spoločenské hry; Dovoz a vývoz týchto výrobkov: hry, hračky a veci na hranie, drobný hračkársky tovar a spoločenské hry; Maloobchodný a veľkoobchodný predaj alebo predaj prostredníctvom predajných katalógov, elektronických prostriedkov, webových stránok alebo prostredníctvom televíznych prenosov v oblasti týchto výrobkov: hry, hračky a veci na hranie, drobný hračkársky tovar a spoločenské hry; Služby pre pomoc v prevádzke obchodnej spoločnosti v oblasti licencií.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oglaševanje in oglaševalske storitve; Storitve pospeševanja prodaje iger in igrač, izdelkov za igro, dragotin in iger na ploščah; Storitve uvoza in izvoza iger in igrač, izdelkov za igro, dragotin in iger na ploščah; Storitve prodaje v maloprodajnih in veleprodajnih trgovinah ali prek prodajnih katalogov po pošti, prek elektronskih medijev, spletnih mest ali oddaj za televizijsko prodajo, in sicer iger in igrač, izdelkov za igro, dragotin in iger na ploščah; Storitve pomoči pri upravljanju trgovskega podjetja v franšiznem režimu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Reklam; Säljfrämjande verksamhet för spel och leksaker, lekutrustning, prydnadsföremål och brädspel; Import och export av spel och leksaker, lekutrustning, prydnadsföremål och brädspel; Grossist- och detaljförsäljning i butik, eller via försäljningskataloger, post eller via elektroniska hjälpmedel eller genom webbsajter eller teleshoppingsändningar avseende försäljning av spel och leksaker, lekutrustning, prydnadsföremål och brädspel; Hjälptjänster vid drift av ett affärsföretag i form av franchisingföretag.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за разработване и проучване на технически проекти и планове за разработване на игри и играчки; Индустриален, промишлен дизайн; Услуги за проектиране и разработване на прототипи на игри и играчки; Професионални консултации, свързани с разработване и проектиране на игри и играчки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Tvorba a studie technických projektů a plánů pro vývoj her a hraček; Průmyslové navrhování (design); Navrhování a vývoj prototypů her a hraček; Odborné konzultace týkající se vývoje a navrhování her a hraček.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Udarbejdelse og undersøgelse af tekniske projekter og planer til udvikling af spil og legetøj; Industriel design; Design og udvikling af prototyper vedrørende spil og legetøj; Professionel rådgivning om udvikling og design af spil og legetøj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Ausarbeitung und Durchführung von technischen Projektstudien und Zeichnungen für die Entwicklung von Spielen und Spielzeug; Dienstleistungen eines Industriedesigners; Entwurf und Entwicklung von Prototypen für Spiele und Spielzeug; Fachliche Beratung in Bezug auf die Entwicklung und den Entwurf von Spielen und Spielzeug.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες εκπόνησης και μελέτης τεχνικών σχεδίων και προγραμμάτων ενόψει της ανάπτυξης παιχνιδιών και αθυρμάτων· Υπηρεσίες βιομηχανικού σχεδίου· Υπηρεσίες σχεδιασμού και ανάπτυξης πρωτοτύπων παιχνιδιών και αθυρμάτων· Παροχή επαγγελματικών συμβουλών σχετικά με την ανάπτυξη και τον σχεδιασμό παιχνιδιών και αθυρμάτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Drafting and study of technical projects and plans for developing games, toys and playthings; Industrial design; Design and development of prototypes of games, toys and playthings; Professional consultancy relating to developing and designing games, toys and playthings.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de elaboración y estudio de proyectos técnicos y planos para el desarrollo de juegos y juguetes; servicios de dibujo (diseño industrial); servicios de diseño y desarrollo de prototipos de juegos y juguetes; consultas profesionales relativas al desarrollo y diseño de juegos y juguetes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mängude ja mänguasjade arendamisega seotud tehniline projekteerimine ja planeerimine; Tööstusdisain; Mängude ja mänguasjade prototüüpide projekteerimine ning arendamine; Mängude ja mänguasjade projekteerimise ning arendamisega seotud spetsialistikonsultatsioonid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Teknisten hankkeiden ja teknisten piirustusten laatiminen ja tutkimus lelujen ja pelien kehittämisen alalla; Teolliset suunnittelupalvelut; Pelien ja lelujen prototyyppien suunnittelu- ja kehittämispalvelut; Pelien ja lelujen kehittämiseen ja suunnitteluun liittyvä ammattimainen konsultointi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services d'élaboration et d'étude de projets techniques et plans pour le développement de jeux et jouets; Services de conception (dessin) industriel; Services de conception et de développement de prototypes de jeux et jouets; Consultations professionnelles liées au développement et à la conception de jeux et jouets.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge razrade i studija tehničkih projekata i planova za razvoj igara i igračaka; Industrijski dizajn; Usluge koncepcije i razvoja prototipova igara i igračaka; Stručno savjetovanje u vezi s razvojem i koncepcijom igara i igračaka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Műszaki tervtanulmányok és tervek kidolgozása és készítése játékok és játékszerek fejlesztésével kapcsolatban; Ipari formatervezés; Játékok és játékszerek prototípusainak tervezése és fejlesztése; Játékok és játékszerek tervezésével és fejlesztésével kapcsolatos szakmai konzultáció.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di elaborazione e studio di progetti tecnici e piani per lo sviluppo di giochi e giocattoli; Design e disegno industriale; Servizi di progettazione e sviluppo di prototipi di giochi e giocattoli; Consulenze professionali inerenti lo sviluppo e la progettazione di giochi e giocattoli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Techninių projektų ir planų kūrimo bei studijų paslaugos žaidimų ir žaislų kūrimo reikmėms; Pramoninio dizaino (projektavimo) paslaugos; Žaidimų ir žaislų prototipų projektavimo bei tobulinimo paslaugos; Profesionalų paslaugos žaidimų ir žaislų projektavimo bei tobulinimo klausimais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Spēļu un rotaļlietu izstrādes tehnisko projektu un plānu izstrādes un izpētes pakalpojumi; Industriālo rasējumu (projektēšanas) pakalpojumi; Spēļu un rotaļlietu prototipu projektēšanas un izstrādes pakalpojumi; Profesionālās konsultācijas saistībā ar spēļu un rotaļlietu izstrādi un projektēšanu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' tħejjija u studju ta' proġetti tekniċi u pjanijiet għall-iżvilupp ta' logħob u ġugarelli; Servizz ta' disinn industrijali; Servizzi ta' disinn u żvilupp ta' prototipi ta' logħob u ġugarelli; Konsulenza professjonali marbuta mal-iżvilupp u d-disinn ta' logħob u ġugarelli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ontwikkeling en onderzoek met betrekking tot technische projecten en planning voor de ontwikkeling van spellen en speelgoederen; Industrieel ontwerp en tekenen; Het ontwerpen en ontwikkelen van prototypen van spellen en speelgoederen; Professionele consultancy met betrekking tot het ontwikkelen en ontwerpen van spellen en speelgoederen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi sporządzania i opracowywania projektów technicznych i planów w zakresie prac rozwojowych dotyczących gier i zabawek; Usługi obrazowania (wzornictwa) przemysłowego; Usługi w zakresie projektowania i opracowywania prototypów gier i zabawek; Wyspecjalizowane konsultacje dotyczące opracowywania i projektowania gier i zabawek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de elaboração e estudo de projetos técnicos e planos para o desenvolvimento de jogos e brinquedos; Serviços de desenho industrial; Serviços de conceção e desenvolvimento de protótipos de jogos e brinquedos; Consultadoria profissional relacionada com o desenvolvimento e a conceção de jogos e brinquedos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de elaborare şi studiu de proiecte tehnice şi planuri pentru dezvoltarea de jocuri şi jucării; Servicii de desen tehnic; Servicii de proiectare şi dezvoltare de prototipuri de jocuri şi jucării; Consultanţă profesională referitoare la dezvoltarea şi proiectarea de jocuri şi jucării.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vypracovanie a štúdie technických projektov a plánov v oblasti vývoja hier a hračiek; Priemyselný dizajn; Návrh a vývoj prototypov hier a hračiek; Odborné poradenské služby so zameraním na vývoj a návrh hier a hračiek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve izdelave in preučevanja tehničnih projektov in načrtov za razvoj iger in igrač; Storitve industrijskega risanja (oblikovanja); Storitve oblikovanja in razvoja prototipov iger in igrač; Profesionalno svetovanje v zvezi z razvojem in oblikovanjem iger in igrač.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Utarbetande och studier av tekniska projekt och planer för utveckling av spel och leksaker; Industriell formgivning och ritning; Utformning och utveckling av prototyper för spel och leksaker; Yrkesmässiga konsultationer avseende utveckling och design av spel och leksaker.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/098</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-26</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/169</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>860023</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>46806</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017891444</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>46806</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-05-25</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

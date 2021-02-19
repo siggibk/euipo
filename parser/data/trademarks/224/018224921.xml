@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-29T08:53:02</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224921</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224921</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162203006</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224921/000162203006.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>28.03</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>12</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Външни гуми за колела на превозни средства; Гуми за моторни превозни средства; Вътрешни гуми за пневматични гуми; Пневматични гуми; Вериги гъсеничен тип за трактори; Шипове за външни гуми; Външни гуми за пневматични гуми; Външни гуми за превозни средства; Външни гуми за велосипеди; Външни гуми.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pneumatiky pro kola vozidel; Pneumatiky pro automobily; Duše do pneumatik; Pneumatiky; Pásy pro pásová vozidla; Hroty do pneumatik; Pláště pneumatik (plněných vzduchem); Pneumatiky na kola; Pneumatiky na jízdní kola; Pneumatiky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Dæk til hjul til befordringsmidler; Automobildæk; Slanger til pneumatiske dæk; Luftgummidæk; Bæltetræk til befordringsmidler; Søm til pigdæk; Slidbaner til automobildæk; Luftringe til køretøjer; Cykeldæk; Dæk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Reifen für Fahrzeugräder; Autoreifen; Schläuche für Reifen; Reifen [Pneus]; Raupenketten für Fahrzeuge; Spikes für Reifen; Laufmäntel für Luftreifen; Fahrzeugreifen; Fahrradreifen; Reifen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ελαστικά για τροχούς οχημάτων· Ελαστικά για μηχανοκίνητα οχήματα· Αέρα (Θάλαμοι -) για ελαστικά· Ελαστικά με αεροθαλάμους· Ερπυστριες [τρακτέρ] για οχήματα· Καρφιά ελαστικών· Επενδύσεις ελαστικών· Ελαστικά οχημάτων· Λάστιχα για ποδήλατα· Ελαστικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Tires for vehicle wheels; Tyres for vehicle wheels; Automobile tires [tyres]; Inner tubes for pneumatic tires [tyres]; Pneumatic tires [tyres]; Treads for vehicles [roller belts]; Spikes for tires [tyres]; Casings for pneumatic tires [tyres]; Vehicle wheel tires [tyres]; Bicycle tires [tyres].; Tyres.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cubiertas de neumáticos para vehículos; Neumáticos para automóviles; Cámaras de aire para neumáticos; Neumáticos; Orugas para vehículos; Clavos para neumáticos; Cubiertas para neumáticos; Neumáticos para vehículos; Neumáticos de bicicleta; Llantas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Sõidukirehvid; Autorehvid; Õhkrehvide sisekummid [lohvid]; Õhkrehvid, pneumorehvid; Sõidukiroomikud [lindid], roomikud traktori tüüpi sõidukitele; Rehvinaastud; Õhkrehvide, pneumorehvide väliskummid; Sõidukirehvid; Jalgrattarehvid; Rehvid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ulkorenkaat ajoneuvojen pyöriin; Autonrenkaat; Sisäkumit ilmarenkaisiin; Ilmarenkaat; Kulutuspinnat ajoneuvojen renkaisiin; Nastat renkaisiin; Ulkorenkaat; Kulkuneuvojen ulkorenkaat; Ulkorenkaat polkupyöriin; Autonrenkaat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Bandages de roues pour véhicules; Pneus d'automobile; Chambres à air pour pneumatiques; Pneus; Chenilles pour véhicules; Clous pour pneus; Enveloppes [pneumatiques]; Pneumatiques pour véhicules; Pneus de bicyclette; Pneus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kotači (vanjske gume za kotače vozila); Pneumatici za motorna vozila; Zračnice za pneumatske gume; Pneumatske gume; Gusjenice vozila (tipa transportne trake); Čavli za gume; Gumeni kotači [vanjski omotači gumenih kotača]; Gume za vozila; Gume za bicikle; Pneumatici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gumiabroncsok járműkerekekhez; Gumiabroncsok gépjárművekhez; Belső gumiabroncstömlők; Tömör gumiabroncsok járműkerekekhez; Futófelületek járművekhez [szíjgörgők]; Abroncstüskék, abroncsszegek; Gumiabroncs köpenyek; Járműabroncsok; Kerékpár abroncsok, gumik; Gumiabroncsok, abroncsgumik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cerchioni di ruote per veicoli; Pneumatici per automobili; Camere d'aria per pneumatici; Pneumatici; Cingoli per veicoli; Chiodi per pneumatici; Copertoni per pneumatici; Pneumatici per motoveicoli; Pneumatici per cicli; Pneumatici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Transporto priemonių padangos; Automobilių padangos; Pneumatinių padangų kameros; Pneumatinės padangos; Transporto priemonių vikšrai [traktoriniai]; Padangų dygliai; Pneumatinių padangų karkasai; Transporto priemonių padangos; Dviračių ratų padangos; Padangos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Transportlīdzekļu riteņu riepas; Motorizēto transportlīdzekļu riepas; Riepu kameras; Pneimatiskās riepas; Kāpurķēdes transportlīdzekļiem; Riepu radzes; Pneimatisko riepu pārvalki; Riepas transportlīdzekļiem; Velosipēdu riepas; Riepas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tajers għar-roti tal-vetturi, pnewmatiċi; Tajers tal-karozzi; Tubi interni għal tajers pnewmatiċi [tajers]; Tajers solidi għal roti ta' vetturi; Ċineg kontinwi għall-vetturi [bħal ta' trakter]; Pernijiet imqabbżin għat-tajers; Għata għat-tajers; Tajers għar-roti tal-vetturi, pnewmatiċi; Tajers għar-roti, roti bil-mutur; Tajers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Wielbanden voor voertuigen; Autobanden; Binnenbanden; Luchtbanden; Rupsbanden voor voertuigen; Spijkers voor spijkerbanden; Buitenbanden; Voertuigbanden; Fietsbanden; Banden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Opony do pojazdów; Opony do pojazdów mechanicznych; Dętki do opon pneumatycznych; Opony pneumatyczne; Gąsienicowy układ bieżny do pojazdów [taśmy gąsienicowe]; Kolce do opon; Korpusy opon; Opony do pojazdów; Opony rowerowe; Opony.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Pneus para jantes de veículos; Pneus para automóveis; Câmaras-de-ar para pneumáticos; Pneus [pneumáticos]; Lagartas para veículos [tração]; Picos para pneus; Lonas para pneumáticos; Pneus de veículos; Pneus para bicicletas; Pneumáticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Bandaje de roți pentru vehicule; Pneuri pentru autovehicule; Camere de aer pentru pneuri; Pneuri [anvelope]; Șenile pentru vehicule; Crampoane pentru pneuri; Anvelope [pneuri]; Anvelope pentru vehicule; Pneuri pentru vehicule pe două roți; Pneuri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Plášte na kolesá vozidiel; Automobilové pneumatiky; Duše pneumatík; Pneumatiky; Pásy na pásové vozidlá; Hroty na pneumatiky; Pneumatikové plášte; Pneumatiky pre vozidlá; Plášte na bicyklové kolesá; Pneumatiky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pnevmatike za kolesa vozil; Pnevmatike za motorna vozila; Zračnice za pnevmatike; Trde pnevmatike za vozila; Gosenice za vozila [transportni trakovi]; Žeblji za pnevmatike; Plašči za pnevmatike; Pnevmatike za vozila; Pnevmatike za kolesa; Pnevmatike.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Däck för fordonshjul; Däck för motorfordon och -farkoster; Innerslangar för pneumatiska däck; Pneumatiska däck; Larvfötter för fordon; Dobbar för däck; Hjulhus; Däck för fordon och farkoster; Cykeldäck; Däck.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/141</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-07-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>505521</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15039</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017950422</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15039</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-05-27</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

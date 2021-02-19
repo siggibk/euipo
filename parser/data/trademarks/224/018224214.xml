@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T17:01:29</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224214</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224214</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Sanilla</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162208336</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224214/000162208336.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>01.15.14</CategoryCode>
+          <CategoryCode>01.15.15</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Дезинфектанти; Дезинфектиращ сапун; Дезинфектанти за хигиенни цели; Дезинфектанти за медицинска употреба; Дезинфекциращи средства за измиване на ръце; Всички горепосочени стоки не за използване в областта на инконтиненция.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Dezinfekční přípravky; Dezinfekční mýdla; Dezinfekční prostředky pro hygienické účely; Dezinfekční přípravky pro lékařské použití; Dezinfekční prostředky na mytí rukou; Žádné výše uvedené výrobky nejsou určeny pro použití v souvislosti s inkontinencí.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Desinfektionsmidler; Desinficerende sæbe; Desinfektionsmidler til hygiejniske formål; Desinfektionsmidler til medicinske formål; Desinficerende håndvaskemidler; Alle førnævnte varer dog ikke til anvendelse inden for inkontinens.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Desinfektionsmittel; Desinfizierende Seifen; Desinfektionsmittel für hygienische Zwecke; Desinfektionsmittel für medizinische Zwecke; Desinfizierende Handwaschmittel; Alle vorstehend genannten Waren nicht zur Verwendung im Bereich der Inkontinenz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Απολυμαντικά· Απολυμαντικά σαπούνια· Απολυμαντικά για υγειονομική χρήση· Απολυμαντικά για ιατρικούς σκοπούς· Απολυμαντικά σαπούνια χεριών· Τα προαναφερόμενα είδη στο σύνολό τους όχι για χρήση στον τομέα της ακράτειας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Disinfectants; Disinfectant soap; Disinfectants for hygiene purposes; Disinfectants for medical use; Disinfecting handwash; all the aforementioned goods not for the use in the field of incontinence.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Desinfectantes; Jabones desinfectantes; Desinfectantes para uso higiénico; Desinfectantes para uso médico; Producto desinfectante para lavar las manos; Ninguno de estos artículos sirve para su uso en el ámbito de la incontinencia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Desinfektsioonivahendid; Desinfitseeriv seep; Hügieenilised desinfektsioonivahendid; Meditsiinilised desinfektsiooniained; Desinfitseerivad kätepesuvahendid; Kõik eespool nimetatud kaubad, mis ei ole kasutuseks põiepidamatuse valdkonnas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Desinfiointiaineet; Desinfioiva saippua; Desinfiointiaineet hygieenisiin tarkoituksiin; Desinfiointiaineet lääketieteellisiin tarkoituksiin; Desinfioivat käsihuuhteet; Mitään edellä mainituista tavaroista ei ole tarkoitettu käytettäväksi inkontinenssin alalla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Désinfectants; Savons désinfectants; Désinfectants à usage hygiénique; Désinfectants à usage médical; Produit lavant désinfectant pour les mains; Aucun des produits précités n'étant utilisé en rapport avec l'incontinence.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dezinfekcijska sredstva; Dezinfekcijski sapuni; Dezinfekcijska sredstva za higijenske namjene; Dezinficijensi za primjenu u medicini; Dezinfekcijsko sredstvo za pranje ruku; Nijedan od navedenih proizvoda nije namijenjen za upotrebu u području inkontinencije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fertőtlenítőszerek; Fertőtlenítő szappanok; Fertőtlenítőszerek higiéniai célokra; Fertőtlenítő szerek gyógyászati használatra; Fertőtlenítő kézmosó; Az összes fent említett áru, nem az inkontinencia területén történő felhasználásra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Disinfettanti; Saponi disinfettanti; Disinfettanti per uso igienico; Disinfettanti per uso medico; Disinfettanti per il lavaggio delle mani; Tutti i suddetti prodotti non da usare in relazione all'incontinenza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dezinfekantai; Dezinfekcinis muilas; Dezinfekavimo priemonės (higienos reikmėms); Dezinfekavimo preparatai medicinos reikmėms; Dezinfekuojantys rankų plovikliai; Visos pirmiau minėtos prekės nėra skirtos naudoti šlapimo nelaikymo srityje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dezinfekcijas līdzekļi; Dezinficējošās ziepes; Dezinfekcijas līdzekļi higiēniskiem nolūkiem; Dezinficējoši līdzekļi medicīniskai izmantošanai; Dezinficējoši roku mazgāšanas līdzekļi; Neviena no iepriekšminētajām precēm nav paredzēta lietošanai nesaturēšanas jomā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Diżinfettanti; Sapun diżinfettanti; Diżinfettanti għal skopijiet ta' iġjene; Diżinfettanti għal skopijiet mediċi; Sapun likwidu tal-idejn diżinfettanti; L-oġġetti kollha msemmija qabel mhumiex għall-użu fil-qasam tal-inkontinenza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Desinfectiemiddelen; Desinfecterende zeep; Desinfecterende middelen voor hygiënisch gebruik; Ontsmettingsmiddelen voor medische doeleinden; Handreinigingsmiddelen (Desinfecterende -); Geen van de voornoemde is voor gebruik op het gebied van incontinentie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Środki odkażające; Mydła dezynfekujące; Środki dezynfekcyjne do celów higienicznych; Środki dezynfekcyjne do celów medycznych; Odkażający preparat do mycia rąk; Wszystkie wyżej wymienione towary nie do użytku w dziedzinie inkontynencji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Desinfetantes; Sabão desinfetante; Desinfetantes para uso higiénico; Desinfetantes para uso médico; Desinfetante para lavar as mãos; Nenhum dos produtos atrás referidos para uso no domínio da incontinência.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dezinfectante; Săpunuri dezinfectante; Dezinfectante folosite pentru igienă; Dezinfectanți de uz medical; Produse dezinfectante pentru spălarea mâinilor; Niciunele din toate produsele menționate mai sus sunt utilizate în domeniul incontinenței.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Dezinfekčné prípravky; Dezinfekčné mydlá; Dezinfekčné prípravky na hygienické použitie; Dezinfekčné prípravky na lekárske účely; Dezinfekčný prípravok na umývanie rúk; Žiadne z vyššie uvedených výrobkov nie sú určené na použitie v oblasti inkontinencie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Razkužila; Dezinfekcijsko milo; Razkužila za higienske namene; Dezinfekcijska sredstva za medicinsko uporabo; Dezinfekcijska sredstva za umivanje rok; Vsi navedeni izdelki niso za uporabo na področju inkontinence.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Desinfektionsmedel; Desinficerande tvål; Desinfektionsmedel för hygieniska ändamål; Desinfektionsmedel för medicinskt bruk; Desinficerande handtvätt; Inga tidigare nämnda varor är ämnade för användning i samband med inkontinens.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Дезинфекционни апарати за медицински цели; Дезинфекционни дозатори за умивални; Дезинфекциращи дозаторни устройства за тоалетни; Дезинфектиращи съдомиални машини за промишлени цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Dezinfekční přístroje pro lékařské účely; Dávkovače dezinfekčních přípravků do umýváren; Výdejníky dezinfekčních prostředků na toalety; Přístroje a zařízení na dezinfekci nádobí k průmyslovému použití.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Desinfektionsapparater til medicinske formål; Dispenser til desinfektionsmiddel til badeværelser; Desinficerende spredere til toiletter; Apparater til desinficering af service til industrielle formål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Desinfektionsapparate für medizinische Zwecke; Desinfektionsmittelspender für Waschräume; Desinfektionsmittelspender für Toiletten; Geschirrdesinfektionsapparate für gewerbliche Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συσκευές απολύμανσης για ιατρική χρήση· Διανομείς απολυμαντικών για αποχωρητήρια· Απολυμαντικών (Διανομείς -) για τουαλέτες· Συσκευές απολύμανσης πιάτων για βιομηχανική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Disinfectant apparatus for medical purposes; Disinfectant dispensers for washrooms; Disinfectant dispensers for toilets; Dish disinfectant apparatus for industrial purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aparatos de desinfección para uso médico; Dispensadores de desinfectantes para aseos; Distribuidores de desinfectante para baños; Aparatos de desinfección de vajilla para uso industrial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiinilised desinfitseerimisseadmed; Desinfektsioonivahendidosaatorid tualettruumide jaoks; WC-de desinfektsioonivahendijaoturid; Tööstuslikud nõude desinfitseerimisseadmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Desinfiointilaitteet lääkinnällisiin tarkoituksiin; Desinfiointiaineiden annostelulaitteet pesuhuoneisiin; Desinfiointiaineiden jakelulaitteet WC-käyttöön; Astioiden desinfiointilaitteet teollisiin tarkoituksiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Appareils de désinfection à usage médical; Distributeurs de désinfectants pour cabinets de toilette; Distributeurs de désinfectants pour toilettes; Appareils destinés à la désinfection de la vaisselle à usage industriel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Uređaji za dezinfekciju za medicinsku upotrebu; Raspršivači dezinficijensa za praonice; Raspršivaći raskužnih proizvoda za zahode; Uređaj za dezinfekciju posuđa za industrijske svrhe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fertőtlenítő készülékek gyógyászati használatra; Fertőtlenítőszer-adagolók mosdókhoz; Fertőtlenítőszer-adagolók toalettekhez, WC-khez; Edényfertőtlenítő készülékek ipari használatra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Apparecchi per disinfettare per uso medico; Dosatori di disinfettante per bagni; Disinfettanti (Distributori di -) per W.C.; Distributori di disinfettanti per w.c.; Apparecchi disinfettanti per le stoviglie per uso industriale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dezinfekavimo aparatai (medicinos reikmėms); Dezinfekavimo priemonių dalytuvai išviečių reikmėms; Dezinfekavimo priemonių dalytuvai (tualetams); Indų dezinfekavimo aparatai pramonės reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dezinfekcijas ierīces medicīniskiem nolūkiem; Dezinficējošo vielu dozatori tualetēm; Dezinfekcijas līdzekļu dozatori tualetēm; Šķīvju dezinfekcijas aparāti rūpnieciskām vajadzībām.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Apparat diżinfettant għal skopijiet mediċi; Dispensers tad-diżinfettanti għall-kmamar tal-ħasil; Aċċessorji li jxerrdu d-diżinfettant għat-tojlits; Apparat għad-diżinfettar tal-platti għal skopijiet industrijali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Desinfectieapparatuur voor medische doeleinden; Afgifteapparaten voor ontsmettingsmiddelen voor wasruimten; Afgifte-inrichtingen voor ontsmettingsmiddelen voor toiletten; Desinfectietoestellen voor het ontsmetten van de vaat voor industriële doeleinden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenie dezynfekujące do celów medycznych; Dozowniki środków dezynfekujących do łazienek; Dozowniki środków odkażających w toaletach; Urządzenia do dezynfekcji naczyń do celów przemysłowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aparelhos de desinfeção para fins médicos; Distribuidores de desinfetante para lavabos; Distribuidores de desinfetantes para "toilettes"; Aparelhos de desinfeção de louça para uso industrial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aparate de dezinfectare de uz medical; Dozatoare de dezinfectante pentru băi; Distribuitoare de dezinfectante pentru toalete; Aparate pentru dezinfectarea veselei de uz industrial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Dezinfekčné zariadenia na lekárske použitie; Dávkovače dezinfekčných prípravkov pre umyvárne; Dávkovače dezinfekčných prípravkov na toalety; Prístroje na dezinfekciu riadu na priemyselné účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Naprave za razkuževanje za medicinske namene; Dozirniki za dezinfekcijska sredstva za stranišča; Dozirniki razkužila za stranišča; Naprave za razkuževanje posode, za industrijske namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Desinficeringsapparater för medicinska ändamål; Desinfektionsmedelsdispenser för tvättrum; Desinfektionsmedelsdistributörer för toaletter; Diskdesinficeringsapparater för industriella ändamål.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1004684</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>16957</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018090731</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>16957</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-06-29</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

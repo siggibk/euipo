@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-28T12:48:49</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226287</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226287</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-25</RegistrationDate>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>AppMask</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Защитни устройства за лично ползване за защита при злополуки, а именно маски.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Osobní ochranné prostředky proti nehodám, jmenovitě masky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beskyttelsesindretninger til personlig brug mod ulykker, nemlig masker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Unfallschutzvorrichtungen für den persönlichen Gebrauch, nämlich Masken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διατάξεις ατομικής προστασίας από ατυχήματα, και συγκεκριμένα, μάσκες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Protection devices for personal use against accidents namely masks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Dispositivos de protección personal contra accidentes, concretamente máscaras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Isikukaitsevahendid, nimelt maskid õnnetusjuhtumite vältimiseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Henkilökohtaiset suojavälineet onnettomuuksien varalle, nimittäin maskit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Dispositifs de protection personnelle contre les accidents à savoir masques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Uređaji za osobnu zaštitu od nezgoda, i to maske.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Baleset elleni személyi védőeszközök, nevezetesen maszkok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Dispositivi di protezione personale contro gli infortuni, ovvero maschere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Asmeninės apsaugos priemonės nuo nelaimingų atsitikimų, būtent kaukės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Personīgās aizsardzības sistēmas pret nelaimes gadījumiem, proti, maskas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħmir għall-protezzjoni personali kontra l-inċidenti jiġifieri maskri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Toestellen voor de bescherming van personen tegen ongevallen, te weten maskers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Przyrządy ochrony osobistej zabezpieczające przed wypadkami, a mianowicie maski.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Dispositivos de proteção pessoal contra acidentes, especificamente máscaras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dispozitive de protecție personală contra accidentelor, și anume măști.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Osobné prostriedky na ochranu pred nehodami alebo úrazmi, menovite masky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Priprave za osebno zaščito pred nesrečami, in sicer maske.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Personliga skyddsanordningar mot olyckor, nämligen masker.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хирургически маски.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Chirurgické masky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Operationsmasker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Chirurgischer Mundschutz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χειρουργικές μάσκες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Surgical masks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Mascarillas quirúrgicas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kirurgimaskid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kirurgin naamarit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Masques chirurgicaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kirurške maske.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sebészeti maszkok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Mascherine chirurgiche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Chirurginės kaukės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ķirurģiskās maskas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Maskri kirurġiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Gezichtsmaskers voor chirurgisch gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maski chirurgiczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máscaras cirúrgicas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Măşti chirurgicale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Chirurgické masky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kirurške maske.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Operationsmasker.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/091</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/163</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080407</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>42983</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

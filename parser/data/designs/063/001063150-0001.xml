@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:45</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063150-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063150-0001</DesignIdentifier>
+<ApplicationNumber>001063150</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-01-19</PublicationDate>
+<ApplicationReference>D22018EUA</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<VerbalElementText>C&amp;BINET</VerbalElementText>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061755990</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063150_0001/001063150_0001_1.JPG</ViewURI>
+<ViewCategory>
+    <CategoryCodeDetails>
+     <CategoryCode>24.17.97</CategoryCode>
+    </CategoryCodeDetails>
+   </ViewCategory>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Лого надписи</IndicationProduct>
+       <IndicationProduct languageCode="cs">Loga</IndicationProduct>
+       <IndicationProduct languageCode="da">Logoer</IndicationProduct>
+       <IndicationProduct languageCode="de">Logos</IndicationProduct>
+       <IndicationProduct languageCode="el">Λογότυπα</IndicationProduct>
+       <IndicationProduct languageCode="en">Logos</IndicationProduct>
+       <IndicationProduct languageCode="es">Logotipos</IndicationProduct>
+       <IndicationProduct languageCode="et">Logod</IndicationProduct>
+       <IndicationProduct languageCode="fi">Logot</IndicationProduct>
+       <IndicationProduct languageCode="fr">Logos</IndicationProduct>
+       <IndicationProduct languageCode="hu">Logok</IndicationProduct>
+       <IndicationProduct languageCode="it">Loghi</IndicationProduct>
+       <IndicationProduct languageCode="lt">Emblemos</IndicationProduct>
+       <IndicationProduct languageCode="lv">Logotipi</IndicationProduct>
+       <IndicationProduct languageCode="mt">Logos</IndicationProduct>
+       <IndicationProduct languageCode="nl">Logo's</IndicationProduct>
+       <IndicationProduct languageCode="pl">Logo</IndicationProduct>
+       <IndicationProduct languageCode="pt">Logótipos</IndicationProduct>
+       <IndicationProduct languageCode="ro">Logotipuri</IndicationProduct>
+       <IndicationProduct languageCode="sk">Logá</IndicationProduct>
+       <IndicationProduct languageCode="sl">Logotipi</IndicationProduct>
+       <IndicationProduct languageCode="sv">Logotyper</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>32.00</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/010</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-19</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2011/107</PublicationIdentifier>
+        <PublicationSequenceNumber>584128</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2011-05-13</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325784</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>355407</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>10626</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>004816058</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>584128</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2011-05-13</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

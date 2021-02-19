@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-15T09:20:12</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228824</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228824</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-09-12</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>HYZON</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>12</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Вилични кари високоповдигачи; Омнибуси; Омнибуси; Камиони; Камиони; Ремаркета [превозни средства]; Каруци, талиги; Фургони [превозни средства]; Хладилни превозни средства; Коли [автомобили]; Коли [автомобили]; Коли [автомобили]; Камиони за сметосъбиране; Камиони за сметосъбиране.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zdvihací vozíky vidlicové; Autobusy; Autokary; Kamiony; Kamiony; Přívěsy [vozidla]; Vagony; Užitkové vozy; Chladírenská vozidla; Automobily; Automobily; Automobily; Vozy pro odvoz odpadků; Vozy pro odvoz odpadků.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Løftevogne; Busser; Rutebiler; Lastvogne; Lastvogne; Påhængsvogne; Minevogne; Varevogne [befordringsmidler]; Kølevogne; Biler; Biler; Biler; Skraldebiler; Skraldebiler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Hubstapler; Autobusse; Reiseomnibusse; Lastwagen; Lastwagen; Anhänger [Fahrzeuge]; Loren; Lastkraftwagen [geschlossen]; Kühlfahrzeuge; Automobile; Automobile; Automobile; Müllfahrzeuge; Müllfahrzeuge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Περονοφόρα οχήματα· Λεωφορεία τουριστικά· Λεωφορεία τουριστικά· Φορτηγά· Φορτηγά· Ρυμουλκά [οχήματα]· Αμαξίδια· Φορτηγάκια [οχήματα]· Οχήματα-ψυγεία· Αυτοκίνητα· Αυτοκίνητα· Αυτοκίνητα· Απορριματοφόρα φορτηγά· Απορριματοφόρα φορτηγά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">forklift trucks; motor buses; motor coaches; lorries; trucks; trailers [vehicles]; mine cars; vans [vehicles]; refrigerated vehicles; cars; automobiles; motor cars; rubbish trucks; garbage trucks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Carretillas elevadoras; Autobuses; Autocares; Camiones; Camiones; Remolques [vehículos]; Vagonetas de mina; Furgones [vehículos]; Vehículos frigoríficos; Coches; Coches; Coches; Camiones de basura; Camiones de basura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kahveltõstukid; Autobussid; Reisibussid; Veoautod; Veoautod; Treilerid, raskeveohaagised; Lahtised veovagunid, kaubavagunid; Furgoonid, pakiautod; Külmutusautod, külmikautod; Autod; Autod; Autod; Prügiautod; Prügiautod.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Haarukkatrukit; Bussit; Bussit; Kuorma-autot; Kuorma-autot; Perävaunut; Kaivosvaunut; Pakettiautot; Kylmäkuljetusajoneuvot; Henkilöautot; Henkilöautot; Henkilöautot; Jätekuorma-autot; Jätekuorma-autot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Chariots élévateurs; Autobus; Autocars; Camions; Camions; Remorques [véhicules]; Wagonnets; Fourgonnettes; Véhicules frigorifiques; Voitures; Voitures; Voitures; Camions à ordures; Camions à ordures.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kolica, utovarna s podizačem; Autobusi; Autobusi; Motorna teretna vozila; Motorna teretna vozila; Prikolice [vozila]; Kolica [seoska kolica bez osovine]; Kamioneti; Vozila-hladnjače; Automobili; Automobili; Automobili; Kamioni za odvoz smeća; Kamioni za odvoz smeća.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Villás targoncák; Távolsági autóbuszok; Távolsági autóbuszok; Tehergépkocsik, teherautók, kamionok; Tehergépkocsik, teherautók, kamionok; Pótkocsik, utánfutók [járművek]; Kétkerekű kocsik, taligák; Furgonok [járművek]; Hűtőjárművek; Gépkocsik; Gépkocsik; Gépkocsik; Szemetesautók; Szemetesautók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Carrelli elevatori; Autobus; Autocarri; Camions; Camions; Rimorchi [veicoli]; Vagoncini; Camioncini; Veicoli frigoriferi; Autovetture; Autovetture; Autovetture; Camion per la spazzatura; Camion per la spazzatura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Šakiniai krautuvai; Tolimojo susisiekimo autobusai; Tolimojo susisiekimo autobusai; Sunkvežimiai; Sunkvežimiai; Priekabos [transporto priemonės]; Vagonėliai; Furgonai [transporto priemonės]; Transporto priemonės su šaldymo įrenginiais; Lengvieji automobiliai; Lengvieji automobiliai; Lengvieji automobiliai; Šiukšlių išvežimo mašinos; Šiukšlių išvežimo mašinos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Autoiekrāvēji; Autobusi; Starppilsētu autobusi; Kravas automobiļi; Kravas automobiļi; Transportlīdzekļu piekabes; Rati; Kravas automašīnas; Refrižeratorautomobīlis; Automobiļi; Automobiļi; Automobiļi; Atkritumu vešanas kravas automašīnas; Atkritumu vešanas kravas automašīnas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Trakkijiet tal-forklifter; Xarabanks; Kowċijiet; Trakkijiet; Trakkijiet; Karrijiet [vetturi]; Karrettuni; Vannijiet [vetturi]; Vetturi b'tagħmir ta' refriġerazzjoni; Karozzi; Karozzi; Karozzi; Trakkijiet tal-iskart; Trakkijiet tal-iskart.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Vorkheftrucks; Autobussen; Touringcars; Vrachtauto's; Vrachtauto's; Aanhangwagens [voertuigen]; Mijnwagentjes; Bestelauto's; Koelwagens; Voertuigen; Voertuigen; Voertuigen; Vuilniswagens; Vuilniswagens.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Wózki jezdniowe widłowe; Autokary; Autokary; Ciężarówki; Ciężarówki; Przyczepy [pojazdy]; Wozy kopalniane; Furgony [pojazdy]; Pojazdy-chłodnie; Samochody; Samochody; Samochody; Śmieciarki; Śmieciarki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Empilhadoras; Autocarros; Camionetas; Camiões (tratores); Camiões (tratores); Reboques [veículos]; Carrinhos de mina; Furgonetas [carrinhas, camionetes, furgões, veículos comerciais]; Veículos frigoríficos; Viaturas [carros]; Viaturas [carros]; Viaturas [carros]; Camiões para recolha de lixo; Camiões para recolha de lixo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Camioane motostivuitoare; Autocare; Autocare; Camioane; Camioane; Remorci [vehicule]; Căruţe; Furgonete; Vehicule frigorifice; Maşini; Maşini; Maşini; Camioane de gunoi; Camioane de gunoi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zdvíhacie vozíky; Autobusy; Autobusy; Nákladné autá, kamióny; Nákladné autá, kamióny; Vlečné vozidlá, ťahače; Vagóny; Nákladné dodávkové autá; Chladiarenské vozidlá; Automobily; Automobily; Automobily; Smetiarske nákladné autá; Smetiarske nákladné autá.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Viličarji; Avtobusi; Avtobusi; Tovornjaki; Tovornjaki; Prikolice [vozila]; Cize; Kombiji [vozila]; Hladilna vozila; Avtomobili; Avtomobili; Avtomobili; Tovornjaki za odvoz smeti; Tovornjaki za odvoz smeti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Gaffeltruckar; Omnibussar; Omnibussar; Lastbilar; Lastbilar; Släpvagnar; Gruvvagnar; Skåpbilar; Kylfordon; Automobiler; Automobiler; Automobiler; Sopbilar; Sopbilar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/105</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/176</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082052</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>71845</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:34:32</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226765</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226765</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>BRONCHOGRIP JUNIOR</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Медицински и фармацевтични препарати за човешка употреба и препарати за лечение на кашлица; Аналгетици; Препарати за лечение на настинки, с изключение на препарати за лечение на кашлица; Препарати за лечение на симптоми на вирусни заболявания с изключение на препарати за лечение на кашлица.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Léky a farmaceutické přípravky k lidské spotřebě s výjimkou léků a přípravků pro léčbu kašle; Analgetika; Přípravky pro léčbu nachlazení s výjimkou přípravků pro léčbu kašle; Přípravky pro léčbu symptomů virových onemocnění s výjimkou přípravků pro léčbu kašle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Medicin og farmaceutiske præparater til mennesker, dog ikke medicin og præparater til behandling af hoste; Analgetica; Præparater til behandling af forkølelse, dog ikke præparater til behandling af hoste; Præparater til behandling af symptomer på virussygdomme, dog ikke præparater til behandling af hoste.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Arzneimittel und pharmazeutische Präparate zur Anwendung beim Menschen ausgenommen Arzneimittel und Präparate zur Behandlung von Husten; Analgetika; Präparate zur Behandlung von Erkältungen ausgenommen Präparate zur Behandlung von Husten; Präparate zur Behandlung von Symptome von Viruserkrankungen ausgenommen Präparate zur Behandlung von Husten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φάρμακα και φαρμακευτικά παρασκευάσματα για χρήση από τον άνθρωπο εκτός από φάρμακα και παρασκευάσματα θεραπείας του βήχα· Αναλγητικά· Παρασκευάσματα για την αντιμετώπιση κρυολογημάτων εκτός από παρασκευάσματα θεραπείας του βήχα· Παρασκευάσματα για την αντιμετώπιση των συμπτωμάτων ιογενών ασθενειών εκτός από παρασκευάσματα θεραπείας του βήχα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Medicines and pharmaceutical preparations for human use except medicines and preparations for the treatment of cough; analgesics; preparations for the treatment of colds except preparations for the treatment of cough; preparations for the treatment of symptoms of viral diseases except preparations for the treatment of cough.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Medicamentos y preparados farmacéuticos para uso humano excepto medicamentos y preparados para el tratamiento de la tos; Analgésicos; Preparados para el tratamiento de resfriados excepto preparados para el tratamiento de la tos; Preparados para el tratamiento de síntomas de enfermedades víricas excepto preparados para el tratamiento de la tos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ravimid ja farmaatsiapreparaadid inimkasutuseks, v.a köharavimid ja -ravipreparaadid; Analgeetikumid, valuvaigistid; Külmetushaiguste ravipreparaadid, v.a köharavipreparaadid; Viirushaiguste sümptomite ravipreparaadid, v.a köharavipreparaadid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lääkkeet ja farmaseuttiset valmisteet ihmisten käyttöön, paitsi lääkkeet ja farmaseuttiset valmisteet yskän hoitoon; Kivunlievitysaineet; Valmisteet vilustumisen hoitoon, paitsi valmisteet yskän hoitoon; Valmisteet virussairauksien oireiden hoitoon, paitsi valmisteet yskän hoitoon.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Médicaments et produits pharmaceutiques à usage humain, à l'exception des médicaments et produits pour le traitement de la toux; Analgésiques; Produits pour le traitement des rhumes, à l'exception des produits pour le traitement de la toux; Produits pour le traitement des symptômes de maladies virales, à l'exception des produits pour le traitement de la toux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Lijekovi i farmaceutski preparati za ljudsku uporabu osim lijekova i preparata za liječenje kašlja; Analgetici; Preparati za liječenje prehlada osim preparata za liječenje kašlja; Preparati za liječenje simptoma virusnih bolesti osim preparata za liječenje kašlja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyógyszerek és gyógyászati készítmények emberi felhasználásra, kivéve a gyógyszerészeti készítményeket a köhögés kezelésére; Fájdalomcsillapítók; Készítmények a megfázás kezelésére, a köhögés kezelésére szolgáló készítmények kivételével; Készítmények a vírusos betegségek kezelésére, a köhögés kezelésére szolgáló készítmények kivételével.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Medicine e prodotti farmaceutici per uso umano, tranne medicine e prodotti contro la tosse; Analgesici; Preparati per la cura di raffreddore, tranne preparati per la cura della tosse; Preparati per cura dei sintomi di malattie virali, tranne preparati per la cura della tosse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vaistai ir farmaciniai ir medicininiai preparatai žmonėms gydyti, išskyrus vaistus ir preparatus kosuliui gydyti; Analgetikai [skausmą malšinantys vaistai]; Preparatai peršalimui gydyti, išskyrus preparatus kosuliui gydyti; Preparatai virusų ligų simptomams gydyti, išskyrus preparatus, skirtus kosuliui gydyti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Zāles un farmaceitiskie preparāti cilvēku ārstēšanai, izņemot medikamentus un preparātus klepus ārstēšanai; Pretsāpju līdzekļi; Preparāti saaukstēšanās ārstēšanai, izņemot preparātus klepus ārstēšanai; Preparāti vīrusu slimību simptomu ārstēšanai, izņemot preparātus klepus ārstēšanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Mediċini u preparazzjonijiet farmaċewtiċi għall-użu mill-bniedem minbarra preparazzjonijiet għat-trattament tas-sogħla; Analġeżiċi; Preparazzjonijiet għat-trattament ta' rjiħat minbarra preparazzjonijiet għat-trattament tas-sogħla; Preparazzjonijiet għat-trattament ta' sintomi ta' mard virali minbarra preparazzjonijiet għat-trattament tas-sogħla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Medicijnen en farmaceutische preparaten voor humaan gebruik, uitgezonderd medicijnen en preparaten tegen het hoesten; Pijnstillende middelen; Preparaten voor behandeling van verkoudheid, uitgezonderd preparaten tegen het hoesten; Preparaten voor het behandelen van symptomen van virale ziektes, uitgezonderd preparaten tegen het hoesten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Lekarstwa i produkty farmaceutyczne do stosowania u ludzi, z wyjątkiem lekarstw i produktów do leczenia kaszlu; Środki przeciwbólowe; Produkty do leczenia przeziębień, z wyjątkiem produktów do leczenia kaszlu; Produkty do leczenia objawów chorób wirusowych, z wyjątkiem produktów do leczenia kaszlu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Medicamentos e produtos farmacêuticos para uso humano, excluindo medicamentos e produtos para o tratamento da tosse; Analgésicos; Produtos para o tratamento de constipações, excluindo produtos para o tratamento da tosse; Produtos para o tratamento dos sintomas de doenças virais, excluindo produtos para o tratamento da tosse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Medicamente şi preparate farmaceutice, de uz uman, cu excepţia medicamentelor şi preparatelor pentru tratamentul tusei; Analgezice; Preparate pentru tratamentul răcelilor, cu excepţia preparatelor pentru tratamentul tusei; Preparate pentru tratamentul simptomelor bolilor virale, cu excepţia preparatelor pentru tratamentul tusei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lieky a farmaceutické prípravky pre ľudí okrem liekov a prípravkov na liečenie kašľa; Analgetiká; Prípravky na liečenie prechladnutia okrem prípravkov na liečenie kašľa; Prípravky na liečenie symptómov vírových ochorení okrem prípravkov na liečenie kašľa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zdravila in farmacevtski pripravki za ljudi, razen zdravil in pripravkov za zdravljenje kašlja; Analgetiki; Pripravki za zdravljenje prehlada, razen pripravkov za zdravljenje kašlja; Pripravki za zdravljenje simptomov virusnih bolezni, razen pripravkov za zdravljenje kašlja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Medicin och farmaceutiska preparat för användning av människor och preparat för behandling av hosta; Smärtstillande medel; Preparat för behandling av förkylningar, ej preparat för behandling av hosta; Preparat för behandling av symptomen i virussjukdomar, ej preparat för behandling av hosta.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/078</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>519513</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>72306</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

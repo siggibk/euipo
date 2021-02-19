@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:22</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224428</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224428</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>hu</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SALVIN SALus per VINum, SALus per VINaceum</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162205135</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224428/000162205135.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>03.11.02</CategoryCode>
+          <CategoryCode>03.11.03</CategoryCode>
+          <CategoryCode>27.03.15</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Препарати за почистване на тялото и за грижа за красотата; Козметични тоалетни принадлежности; Натурална козметика.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Přípravky pro osobní hygienu a kosmetické přípravky; Toaletní přípravky; Přírodní kosmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Præparater til rengøring af kroppen og skønhedspleje; Toiletartikler; Naturkosmetik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Körperreinigungs- und Körperpflegepräparate; Körperpflegemittel; Natürliche Kosmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παρασκευάσματα καθαρισμού σώματος και φροντίδας ομορφιάς· Καλλυντικά· Φυσικά καλλυντικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Body cleaning and beauty care preparations; Toiletries; Natural cosmetics.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Preparaciones para la limpieza y cuidado del cuerpo; Artículos de tocador; Cosméticos naturales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Puhastus- ja iluhooldustooted kehale; Tualett-tarbed; Looduskosmeetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vartalon puhdistus- ja kauneudenhoitovalmisteet; Kosmeettiset ja peseytymisvalmisteet; Luonnonkosmetiikka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Préparations de nettoyage corporel et de soins de beauté; Produits de toilettes; Produits cosmétiques naturels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pripravci za čišćenje i njegu tijela; Toaletni proizvodi; Prirodna kozmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Testápolási és szépségápolási készitmények; Testápolási cikkek; Természetes kozmetikumok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Preparati per la pulizia del corpo e per la cura della bellezza; Toiletteria; Cosmetici naturali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kūno valomieji ir grožio priežiūros preparatai; Tualeto reikmenys; Natūrali kosmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ķermeņa kopšanas un skaistumkopšanas līdzekļi; Personiskās tualetes līdzekļi; Dabīgi kosmētikas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preparazzjonijiet għat-tindif tal-ġisem u għall-kura tas-sbuħija; Preparazzjonijiet tat-twaletta; Kosmetiċi naturali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Reinigings- en schoonheidspreparaten voor het lichaam; Preparaten voor de toiletverzorging; Natuurlijke cosmetica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Preparaty do mycia i pielęgnacji ciała; Środki toaletowe; Kosmetyki naturalne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Produtos para limpeza corporal e cuidados de beleza; Produtos de toilette; Cosméticos naturais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Preparate pentru curățarea și îngrijirea corpului; Produse pentru toaletă; Produse cosmetice naturale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Telové čistiace prípravky a skrášľovacie prípravky; Kozmetické výrobky; Prírodná kozmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Preparati za čiščenje telesa in lepotilno nego; Toaletna sredstva; Naravna kozmetična sredstva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Preparat för kroppsrengöring och skönhetsvård; Toalettartiklar; Naturkosmetika.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>43</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за дегустация на вина [осигуряване на напитки]; Сомелиерски услуги; Домове за възрастни хора.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby ochutnávky vín (zajištění nápojů); Služby sommelierů; Domovy pro seniory.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Vinsmagningsvirksomhed (fremskaffelse af drikke); Kypervirksomhed; Tjenester ydet af alderdomshjem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Durchführung von Weinproben [Verpflegung von Gästen mit Getränken]; Dienstleistungen von Sommeliers; Dienstleistungen von Alten- und Seniorenheimen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες οινογευσίας (παροχή ποτών)· Υπηρεσίες σομελιέ· Ευγηρίας οίκοι.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Wine tasting services (provision of beverages); Sommelier services; Retirement home services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de degustación de vino (suministro de bebidas); Servicios de sumiller; Servicios de residencias para la tercera edad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Veinidegusteerimisteenused (jookide pakkumine); Sommeljeeteenused; Vanadekoduteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Viininmaistelupalvelut (juomien järjestäminen); Viinintuntijan palvelut; Vanhainkodit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de dégustation de vins [fourniture de boissons]; Services d'un sommelier; Services de maisons de retraite pour personnes âgées.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge kušanja vina (pružanje napitaka); Usluge sommeliera; Usluge staračkog doma.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Borkóstolási szolgáltatások (italok biztosítása); Sommelier-szolgáltatások; Nyugdíjasotthonok, időskorúak otthona.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Degustazione vini (fornitura di bevande); Servizi di sommelier; Servizi di case di riposo per persone anziane.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Gėrimų (vyno) parūpinimas degustavimo reikmėms; Someljė paslaugos; Senelių namų paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Vīnu degustācijas pakalpojumi (dzērienu nodrošināšana); Vīnziņu pakalpojumi; Veco ļaužu pansionātu pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' dewqan ta' nbejjed (provvista ta' xorb); Servizzi ta' wejter tal-inbid; Djar tal-irtirar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Verstrekken van dranken in het kader van wijnproeverijen; Diensten van sommeliers; Diensten van bejaardentehuizen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi degustacji win (dostarczanie napojów); Usługi doradców w zakresie win; Domy opieki dla osób w podeszłym wieku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de degustação de vinhos (fornecimento de bebidas); Serviços de escanção; Serviços de casas de retiro para a terceira idade.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de degustare de vinuri (furnizare de băuturi); Servicii de somelier; Cămine de bătrâni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poskytovanie nápojov formou ochutnávky vín; Someliérske služby; Domovy dôchodcov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve degustacije vin (nudenje pijač); Storitve sommelierja; Domovi upokojencev.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Vinprovningstjänster (upplåtande av drycker); Sommeliertjänster; Seniorboende.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>44</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги на салони за красота; Консултация във връзка с разкрасителни процедури; Медицински консултации; Медицински спа услуги; Услуги за медицинско лечение, осигурявани от спа центрове; Алтернативни медицински услуги; Предоставяне на информация относно медицински услуги; Медицински и здравни услуги; Консултантски и информационни услуги във връзка с медицински продукти; Консултантски и информационни услуги във връзка с фармацевтични продукти; Сауна услуги; Масаж; Терапевтични услуги; Грижа за здравето, свързана с терапевтичен масаж.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Salony krásy; Poradenství v oblasti kosmetické péče; Lékařské poradenské služby; Lékařské lázeňské služby; Služby lékařské péče poskytované lázněmi; Alternativní medicína; Poskytování informací vztahujících se k lékařským službám; Lékařské služby; Konzultační a informační služby týkající se lékařských výrobků; Konzultační a informační služby týkající se farmaceutických výrobků; Sauny; Masáže; Terapeutické služby; Zdravotní péče v oblasti terapeutických masáží.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tjenester ydet af skønhedssaloner; Rådgivning om skønhed; Medicinsk rådgivningsvirksomhed; Medicinsk spavirksomhed; Medicinsk behandling leveret via en helsespa; Alternativ sundhedsbehandling; Formidling af medicinske oplysninger; Medicinske- og sundhedsmæssige services; Konsulentbistand og information vedrørende medicinske produkter; Konsulentbistand og information vedrørende farmaceutiske produkter; Saunavirksomhed; Massage; Terapivirksomhed; Sundhedspleje i forbindelse med terapeutisk massage.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Dienstleistungen von Schönheitssalons; Schönheitspflegeberatung; Medizinische Beratungsdienste; Betrieb von medizinischen Heilbädern; Medizinische Behandlungsdienstleistungen von Kurbädern; Dienstleistungen auf dem Gebiet der Alternativmedizin; Zurverfügungstellen von Informationen in Bezug auf medizinische Dienstleistungen; Medizinische Dienstleistungen und Gesundheitspflege; Beratungs- und Informationsdienstleistungen zu medizinischen Produkten; Beratungs- und Informationsdienste bezüglich pharmazeutischen Produkten; Saunadienstleistungen; Durchführung von Massagen; Therapiedienste; Gesundheitspflege im Zusammenhang mit therapeutischen Massagen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αισθητικής ινστιτούτα· Παροχή συμβουλών αισθητικής· Ιατρική εξέταση, γνωμάτευση και παροχή ιατρικών συμβουλών· Υπηρεσίες ιατρικών ιαματικών λουτρών· Υπηρεσίες ιατρικής θεραπείας παρεχόμενες από κέντρα ιαματικών λουτρών [σπα]· Υπηρεσίες εναλλακτικές ιατρικής· Παροχή πληροφοριών σε σχέση με ιατρικές υπηρεσίες· Υπηρεσίες ιατρικής και υγειονομικής περίθαλψης· Υπηρεσίες παροχής συμβουλών και πληροφοριών σχετικά με ιατρικά προϊόντα· Υπηρεσίες παροχής συμβουλών και πληροφοριών σε σχέση με φαρμακευτικά προϊόντα· Υπηρεσίες ατμόλουτρων φινλανδικού τύπου· Μασάζ· Θεραπευτικές υπηρεσίες· Υπηρεσίες ιατρικής περίθαλψης σε σχέση με θεραπευτική χειρομάλαξη (μασάζ).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Beauty salon services; Beauty consultancy; Medical consultations; Medical spa services; Medical treatment services provided by a health spa; Alternative medicine services; Providing information relating to medical services; Medical and healthcare services; Consultancy and information services relating to medical products; Consultancy and information services relating to pharmaceutical products; Sauna services; Massage; Therapy services; Health care relating to therapeutic massage.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de salones de belleza; Consultoría y asesoramiento en materia de estética; Consultas médicas; Servicios de balneario médico; Servicios de tratamientos médicos prestados por balnearios; Servicios de medicina alternativa; Suministro de información sobre servicios médicos; Servicios médicos y de atención sanitaria; Servicios de información y consultoría en productos médicos; Servicios de información y consultoría en productos farmacéuticos; Servicios de sauna; Masajes; Servicios terapéuticos; Asistencia sanitaria relacionada con masajes terapéuticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ilusalongiteenused; Ilukonsultatsioon; Meditsiinikonsultatsioonid; Ravispaa-teenused; Vesiravilate meditsiinilised raviteenused; Alternatiivmeditsiiniteenused; Meditsiiniteenuste teabe pakkumine; Meditsiini- ja tervishoiuteenused; Meditsiinitoodetega seotud nõustamis- ja teabeteenused; Farmaatsiatoodetega seotud nõustamis- ja infoteenused; Saunateenused; Massaaž; Teraapiateenused; Terapeutiline massaaž [tervishoid].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kauneussalongit; Kauneuteen liittyvä neuvonta; Lääketieteelliset konsultaatiot; Lääketieteelliset kylpyläpalvelut; Terveyskylpylöiden tarjoamat lääketieteelliset hoitopalvelut; Vaihtoehtoisen lääketieteen palvelut; Lääketieteellisiin palveluihin liittyvien tietojen tarjoaminen; Lääketieteelliset ja terveydenhuoltopalvelut; Lääketieteellisiin tuotteisiin liittyvät konsultointi- ja tiedotuspalvelut; Farmaseuttisiin tuotteisiin liittyvät konsultointi- ja tiedotuspalvelut; Saunapalvelut; Hieronta; Terapiapalvelut; Terapeuttiseen hierontaan liittyvä terveydenhoito.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de salons de beauté; Consultation en matière de beauté; Services de consultations médicales; Services de cures thermales médicalisées; Services de traitement médical fournis par des stations thermales; Services de médecine alternative; Mise à disposition d'informations dans le domaine des services médicaux; Services médicaux et de soins de santé; Services de conseils et d'information en matière de produits médicaux; Services de conseils et d'information en matière de produits pharmaceutiques; Services de saunas; Massage; Services thérapeutiques; Services sanitaires liés aux massages thérapeutiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Saloni za uljepšavanje; Kozmetičko savjetovanje; Medicinske konzultacije; Medicinske usluge toplica; Usluge liječenja koje pružaju lječilišta; Usluge alternativne medicine; Pružanje informacija o medicinskim uslugama; Medicinske usluge i usluge zdravstvene njege; Konzultantske i informativne usluge koje se odnose na medicinske proizvode; Konzultantske i informativne usluge koje se odnose na farmaceutske proizvode; Usluge sauna; Masaža; Terapeutske usluge; Zdravstvene usluge u svezi s terapeutskim masažama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szépségápolási kezelések; Szépségápolási tanácsadás; Gyógyászati tanácsadási szolgáltatások; Gyógyfürdő szolgáltatások; Gyógyfürdők által nyújtott gyógyászati kezelési szolgáltatások; Alternatív gyógyászati szolgáltatások; Gyógyászati szolgáltatásokkal kapcsolatos tájékoztatás nyújtása; Gyógyászati és egészségügyi szolgáltatások; Gyógyászati termékekkel kapcsolatos tanácsadási és tájékoztatási szolgáltatások; Gyógyszerészeti termékekkel kapcsolatos tanácsadási és tájékoztatási szolgáltatások; Szauna szolgáltatások; Masszázs szolgáltatások; Terápiás szolgáltatások; Terápiás masszázzsal kapcsolatos egészségügyi szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di saloni di bellezza; Consulenza in materia di estetica; Visita medica; Servizi offerti da centri medico-termali; Servizi di trattamenti medici forniti da centri spa; Servizi di medicina alternativa; Fornitura di informazioni in tema di servizi medici; Servizi medici e di assistenza sanitaria; Servizi di consulenza e informazioni in tema di prodotti medici; Servizi di consulenza e informazione in tema di prodotti farmaceutici; Servizi di sauna; Massaggi; Servizi terapeutici; Servizi sanitari relativi a massaggi terapeutici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Grožio salonų paslaugos; Grožio konsultacijos; Medicininės konsultacijos; Medicininių SPA centrų paslaugos; Spa sveikatingumo centro teikiamos medicininių procedūrų paslaugos; Alternatyviosios medicinos paslaugos; Su medicinos paslaugomis susijusios informacijos teikimas; Medicininės ir sveikatos priežiūros paslaugos; Konsultacinės ir informacinės paslaugos, susijusios su medicinos produktais; Su farmacijos produktais susijusios konsultacinės ir informacinės paslaugos; Saunų paslaugos; Masažas; Gydymo paslaugos; Sveikatos priežiūra, susijusi su terapiniu masažu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Skaistumkopšanas salonu pakalpojumi; Skaistumkopšanas konsultācijas; Medicīnisko konsultāciju sniegšana; Medicīniski spa pakalpojumi; Ārstnieciskie SPA pakalpojumi; Alternatīvās medicīnas pakalpojumi; Informācijas nodrošināšana par medicīniskajiem pakalpojumiem; Medicīniskās un veselības aprūpes pakalpojumi; Konsultāciju un informācijas pakalpojumi saistībā ar medicīnas produktiem; Konsultācijas un informācijas pakalpojumi saistībā ar farmācijas produktiem; Saunu pakalpojumi; Masāžas pakalpojumi; Terapijas pakalpojumi; Veselības aprūpe ar ārstniecisko masāžu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Salon tas-sbuħija; Konsultazzjoni dwar is-sbuħija; Konsultazzjonijiet mediċi; Servizzi ta' spa mediku; Servizzi ta' trattamenti mediċi pprovduti minn spa tas-saħħa; Servizzi ta' mediċina alternattiva; Provvista ta' informazzjoni relatata mas-servizzi mediċi; Kura medika u iġenika; Servizzi ta' konsulenza u informazzjoni relatati mal-prodotti mediċi; Servizzi ta' konsulenza u informazzjoni relatati mal-prodotti farmaċewtiċi; Servizzi ta' sawna; Massaġġi; Servizzi ta' terapija; Kura tas-saħħa relatata ma' massaġġi terapewtiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diensten van schoonheidssalons; Schoonheidsadvisering; Medische consultatie; Medische kuuroorden; Medische behandelingen door een kuuroord; Alternatieve geneeskunst; Het verstrekken van informatie met betrekking tot medische diensten; Medische- en gezondheidszorgdiensten; Advisering en voorlichting met betrekking tot medische producten; Advisering en voorlichting met betrekking tot farmaceutische producten; Diensten van sauna's; Massage; Therapeutische diensten; Gezondheidszorg in verband met therapeutische massage.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Salony piękności; Doradztwo w zakresie urody; Konsultacje medyczne; Usługi spa medycznych; Usługi opieki medycznej świadczone przez uzdrowiska [spa]; Usługi medycyny alternatywnej; Udzielanie informacji związanych z usługami medycznymi; Opieka medyczna i zdrowotna; Usługi doradcze i informacyjne dotyczące produktów medycznych; Usługi doradcze i informacyjne związane z produktami farmaceutycznymi; Usługi saun; Masaż; Usługi terapeutyczne; Opieka zdrowotna w zakresie masaży terapeutycznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de salões de beleza; Aconselhamento em matéria de beleza; Consultas médicas; Serviços médico-termais; Serviços de tratamentos médicos prestados por spas; Serviços de medicina alternativa; Disponibilização de informação relacionada com serviços médicos; Serviços médicos e sanitários; Serviços de consultoria e informação em produtos médicos; Serviços de consultoria e informação em produtos farmacêuticos; Serviços de sauna; Massagistas; Serviços de terapia; Cuidados de saúde relacionados com massagens terapêuticas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Saloane de frumusețe; Consultanță cu privire la frumusețe; Consultații medicale; Servicii medicale de stațiuni balneare; Servicii de tratamente medicale oferite de un centru SPA; Servicii de medicină alternativă; Furnizare de informații despre servicii medicale; Servicii medicale și de sănătate; Consultanță și servicii de informații despre produse medicale; Consultanță și servicii de informații referitoare la produse farmaceutice; Servicii de saună; Masaj; Servicii de terapie; Asistență sanitară în legătură cu masaje terapeutice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Salóny krásy; Poradenské služby v oblasti starostlivosti o krásu; Lekárske poradenské služby; Lekárske kúpeľné služby; Služby v oblasti lekárskeho ošetrovania, poskytované v kúpeľoch; Alternatívna medicína; Poskytovanie informácií v oblasti lekárskych služieb; Lekárske a zdravotnícke služby; Konzultačné a informačné služby v oblasti lekárskych výrobkov; Konzultačné a informačné služby v oblasti farmaceutických výrobkov; Sauny (služby); Masáže; Terapeutické služby; Terapeutické masáže (zdravotnícka starostlivosť).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Lepotilni saloni; Lepotno svetovanje; Medicinsko posvetovanje; Medicinske zdraviliške storitve; Storitve medicinskega zdravljenja, ki jih nudijo zdravilišča; Storitve alternativne medicine; Nudenje informacij v zvezi z medicinskimi storitvami; Medicinske storitve in storitve zdravstvenega varstva; Svetovalne in informacijske storitve v zvezi z medicinskimi proizvodi; Svetovalne in informacijske storitve v zvezi s farmacevtskimi proizvodi; Storitve savn; Masaža; Terapevtske storitve; Zdravstvena nega v zvezi s terapevtsko masažo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Skönhetssalonger; Konsultation och rådgivning avseende skönhet; Medicinska konsultationer; Medicinska hälsobadstjänster; Tjänster avseende medicinsk behandling som tillhandahålls av hälsohem; Alternativmedicinska tjänster; Tillhandahållande av information avseende medicinska tjänster; Medicinska tjänster och hälsovårdstjänster; Rådgivnings- och informationstjänster avseende medicinska preparat; Rådgivnings- och informationstjänster avseende läkemedel; Bastutjänster; Massage; Terapitjänster; Hälsovård relaterad till terapeutisk massage.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079098</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>28331</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

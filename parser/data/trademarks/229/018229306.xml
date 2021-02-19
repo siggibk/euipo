@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-22T11:40:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229306</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229306</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-25</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>PERSONA</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Компютърен софтуер за използване при работа на оборудване за обработка на кръв и плазма.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Počítačový software pro použití při provozování vybavení pro zpracování krve a krevní plazmy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Computersoftware til anvendelse ved drift af udstyr til behandling af blodplasma.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Computersoftware zur Verwendung beim Betrieb von Blut- und Blutplasmaverarbeitungsgeräten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λογισμικό ηλεκτρονικών υπολογιστών για χρήση στη λειτουργία εξοπλισμού επεξεργασίας αίματος και πλάσματος αίματος.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Computer software for use in operation of blood and blood plasma processing equipment.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Software informático para su uso en el manejo de equipos de tratamiento de la sangre y del plasma sanguíneo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Vere ja vereplasma töötlemise seadmete käitamise arvutitarkvara.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tietokoneohjelmistot käytettäväksi veren ja veriplasman käsittelyvälineiden toiminnassa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Logiciels informatiques pour le fonctionnement d'équipements de traitement de plasma sanguin et de sang.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Računalni softver za uporabu u radu opreme za obradu krvi i krvne plazme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Vér és vérplazma-feldolgozó berendezések működtetéséhez használt számítógépes szoftver.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Software per computer per il funzionamento delle apparecchiature per il trattamento del sangue e del plasma sanguigno.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kompiuterių programinė įranga, naudojama eksploatuojant kraują ir kraujo plazmos perdirbimo įrangą.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Datoru programmatūra izmantošanai asins un asins plazmas apstrādes iekārtu darbībā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Softwer tal-kompjuter għall-użu fit-tħaddim ta' tagħmir tal-ipproċessar tad-demm u tal-plażma tad-demm.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Software voor gebruik bij de bediening van apparaten voor de verwerking van bloed en bloedplasma.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oprogramowanie komputerowe do obsługi sprzętu do przetwarzania krwi i osocza krwi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Software de computador destinado à operação de equipamento de processamento de sangue e de plasma sanguíneo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Software de calculator destinat utilizării la operarea echipamentului de prelucrare a sângelui și plasmei sangvine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Počítačový softvér na použitie pri prevádzke zariadení na spracovanie krvi a krvnej plazmy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Računalniška programska oprema za upravljanje avtomatske opreme za kri in krvno plazmo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Programvara för användning i drift av blod- och blodplasmebehandlingsutrustning.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Оборудване за обработка на кръв и кръвна плазма за медицинска употреба.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vybavení pro zpracování krve a krevní plazmy pro léčebné použití.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Udstyr til behandling af blod og blodplasma til medicinske formål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Blut- und Blutplasmaverarbeitungsgeräte für medizinische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εξοπλισμός επεξεργασίας αίματος και πλάσματος αίματος για ιατρική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Blood and blood plasma processing equipment for medical use.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Equipos de tratamiento de la sangre y del plasma sanguíneo para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiinilised vere ja vereplasma töötlemise seadmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Veren ja veriplasman käsittelyvälineet lääketieteelliseen käyttöön.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Équipements de traitement de plasma sanguin et de sang à usage médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Oprema za obradu krvi i krvne plazme za medicinsku uporabu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Vér és vérplazmafeldolgozó berendezések orvosi használatra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Apparecchiature per il trattamento del sangue e del plasma sanguigno per uso medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kraujo ir kraujo plazmos apdorojimo įranga medicinos reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Asins un asins plazmas apstrādes aprīkojums medicīniskai lietošanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħmir għall-ipproċesar tad-demm u tal-plażma tad-demm għall-użu mediku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Apparaten voor de verwerking van bloed en bloedplasma voor medisch gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Sprzęt do przetwarzania krwi i osocza krwi do użytku medycznego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Equipamento de processamento de sangue e de plasma sanguíneo para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Echipamente de prelucrare a sângelui și plasmei sangvine, pentru uz medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zariadenia na spracovanie krvi a krvnej plazmy na lekárske použitie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oprema za obdelavo krvi in krvne plazme za medicinsko uporabo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Blod- och blodplasmebehandlingsutrustning för medicinsk användning.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>US</PriorityCountryCode>
+<PriorityNumber>88798813</PriorityNumber>
+<PriorityDate>2020-02-14</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/091</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/163</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>26416</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10577</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

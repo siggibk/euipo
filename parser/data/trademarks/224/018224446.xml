@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-29T09:52:42</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224446</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224446</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Jet 70</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>7</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Прахосмукачки (Автоматизирани -); Миялни машини за домакински цели; Външни охладителни тела, А именно, Кондензатори за външен въздух за климатици; Перални машини за битови нужди; Прахосмукачки; Торбички за прахосмукачки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Robotické vysavače; Myčky na nádobí pro domácnost; Venkovní kondenzátory, Jmenovitě, Venkovní vzduchové kondenzátory pro klimatizační přístroje; Pračky pro domácnost; Vysavače; Sáčky do vysavačů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Robotstøvsugere; Opvaskemaskiner til husholdningsbrug; Udendørskondensatorer, Nemlig, Udendørs luftkondenseringsapparater til luftkonditioneringsenheder; Vaskemaskiner til husholdningsbrug; Støvsugere; Støvsugerposer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Staubsaugerroboter; Geschirrspülmaschinen für den Haushalt; Außenkondensatoren, Nämlich, Außenluftkondensatoren für Klimaanlagen; Waschmaschinen für den Haushalt; Staubsauger; Staubsaugerbeutel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ρομποτικές ηλεκτρικές σκούπες· Πλυντήρια πιάτων για οικιακή χρήση· Συμπυκνωτές εξωτερικού χώρου, Συγκεκριμένα, Πυκνωτές αέρα εξωτερικού χώρου για συσκευές κλιματισμού· Πλυντήρια οικιακής χρήσης· Μηχανές καθαρισμού με αναρρόφηση [ηλεκτρικές σκούπες]· Σακκούλες για ηλεκτρικές σκούπες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Robotic vacuum cleaners; Dish washing machines for household purposes; Outdoor condensers, namely, outdoor air condensers for air conditioners; washing machines for household purposes; vacuum cleaners; vacuum cleaner bags.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aspiradoras robotizadas; Máquinas lavavajillas para uso doméstico; Condensadores exteriores, En concreto, Condensadores de aire exterior para aparatos de aire acondicionado; Lavadoras domésticas; Aspiradoras; Bolsas para aspiradoras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Robottolmuimejad; Majapidamises kasutatavad nõudepesumasinad; Välistingimustes kasutatavad kondensaatorid, Nimelt, Kliimaseadmete välisõhu kondensaatorid; Majapidamises kasutatavad pesumasinad; Tolmuimejad; Tolmuimeja kotid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Robottipölynimurit; Astianpesukoneet kotitalouskäyttöön; Kondensaattorit ulkokäyttöön, Nimittäin, Ulkoilman lauhdutinlaitteet ilmastointilaitteita varten; Pesukoneet kotitalouskäyttöön; Pölynimurit; Pölynimureissa käytettävät pussit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Aspirateurs robotisés; Machines lave-vaisselle à usage ménager; Condenseurs d'extérieur, À savoir, Condenseurs à air d'extérieur pour appareils de climatisation; Machines à laver à usage domestique; Aspirateurs; Sacs pour aspirateurs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Robotizirani usisavači; Perilice za suđe za kućanstvo; Vanjski kondenzatori, Odnosno, Vanjski kondenzatori zraka za klimatizacijske uređaje; Kućanske perilice; Usisavači prašine; Vrećice za usisavače.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Robotizált porszívók; Mosogatógépek háztartási célokra; Kültéri kondenzátorok, Nevezetesen, Légkondicionálókhoz használatos kültéri légkondenzátorok; Háztartási mosógépek; Porszívók; Zsákok porszívókhoz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Aspirapolvere robotizzati; Lavastoviglie per uso domestico; Condensatori per esterni, Ovvero, Condensatori ad aria da esterni per condizionatori d'aria; Lavatrici per uso domestico; Aspirapolvere; Sacchi per aspirapolvere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Robotizuoti dulkių siurbliai; Buitinės indaplovės; Lauko kondensatoriai, Būtent,, Lauko oro kondensatoriai oro kondicionieriams; Buitinės skalbimo mašinos; Dulkių siurbliai; Dulkių siurblių maišeliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Robotizēti putekļu sūcēji; Trauku mazgājamās mašīnas mājsaimniecības nolūkiem; Āra kondensatori, Proti, Āra gaisa kondensēšanas ierīces gaisa kondicionieriem; Mājsaimniecības mazgājamās mašīnas; Putekļu sūcēji; Putekļu sūcēju maisiņi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Vacuum cleaners robotiċi; Magni li jaħslu l-platti u l-borom għal skopijiet domestiċi; Kondensaturi għal barra, Jiġifieri, Kondensaturi tal-arja ta' barra għall-kondizzjonaturi tal-arja; Magni tal-ħasil għal skopijiet tad-dar; Vacuum cleaners; Boroż għal vacuum cleaners.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Stofzuigers (Robot -); Vaatwasmachines voor huishoudelijke doeleinden; Koelers voor gebruik buitenshuis, Te weten, Buitenluchtwarmtewisselaars voor klimaatregelingsinstallaties; Wasmachines voor huishoudelijk gebruik; Stofzuigers; Zakken voor stofzuigers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odkurzacze roboty; Zmywarki do naczyń do użytku domowego; Kondensatory zewnętrzne, Zn, Zewnętrzne kondensatory powietrza do klimatyzatorów; Pralki do użytku domowego; Odkurzacze; Torby do odkurzaczy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aspiradores robóticos; Máquinas de lavar louça para uso doméstico; Condensadores de exterior, Nomeadamente, Condensadores de ar para uso exterior para aparelhos de ar condicionado; Máquinas de lavar para uso doméstico; Aspiradores; Sacos para aspiradores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aspiratoare automate; Maşini de spălat vase de uz casnic; Condensatoare de exterior, Şi anume, Condensatoare de aer de exterior pentru aparate de aer condiționat; Maşini de spălat de uz casnic; Aspiratoare; Saci pentru aspiratoare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Robotické vysávače; Umývačky riadu do domácnosti; Vonkajšie kondenzátory, T.z, Vonkajšie vzduchové kondenzátory pre klimatizačné prístroje; Práčky pre domácnosť; Vysávače; Vrecká do vysávačov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Robotski vakuumski sesalniki; Pomivalni stroji za gospodinjske namene; Zunanji kondenzatorji, Sicer, Zunanji zračni kondenzatorji za klimatske naprave; Pralni stroji za gospodinjske namene; Vakuumski sesalci; Vrečke za vakuumske sesalce.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Robotdammsugare; Diskmaskiner för hushållsändamål; Utomhuskondensorer, Nämligen, Utomhusluftkondensatorer för luftkonditionsapparater; Tvättmaskiner för hushållsändamål; Dammsugare; Dammsugarpåsar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/141</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>25371</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10787</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

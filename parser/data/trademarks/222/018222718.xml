@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-28T09:52:38</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222718</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222718</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<RegistrationDate>2020-07-28</RegistrationDate>
+<ApplicationLanguageCode>pl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-08</ExpiryDate>
+<MarkCurrentStatusCode milestone="12" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>BB TECH</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162189568</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/222/018222718/000162189568.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.04.01</CategoryCode>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.08</CategoryCode>
+          <CategoryCode>26.04.09</CategoryCode>
+          <CategoryCode>26.04.18</CategoryCode>
+          <CategoryCode>26.04.22</CategoryCode>
+          <CategoryCode>26.04.24</CategoryCode>
+          <CategoryCode>26.04.99</CategoryCode>
+          <CategoryCode>26.11.01</CategoryCode>
+          <CategoryCode>26.11.06</CategoryCode>
+          <CategoryCode>26.11.12</CategoryCode>
+          <CategoryCode>27.05.21</CategoryCode>
+          <CategoryCode>27.99.02</CategoryCode>
+          <CategoryCode>29.01.01</CategoryCode>
+          <CategoryCode>29.01.96</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за продажба на дребно във връзка с автомобилни аксесоари; Услуги за търговия на дребно, свързани с акумулатори; Услуги за търговия на дребно във връзка с превозни средства; Услуги за търговия на дребно във връзка със смазочни материали; Услуги за търговия на дребно във връзка с метални железарски изделия; Услуги по продажба на дребно във връзка с автомобилни аксесоари; Услуги по продажба на дребно във връзка с автомобилни части; Услуги за търговия на едро във връзка с превозни средства; Услуги за търговия на едро във връзка със смазочни материали; Услуги за търговия на едро във връзка с метални железарски изделия; Услуги по продажба на едро във връзка с автомобилни части; Услуги по продажба на едро във връзка с автомобилни аксесоари.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Maloobchodní služby v oblasti příslušenství k autům; Maloobchodní služby související s akumulátory; Maloobchodní prodej vozidel; Maloobchodní prodej mazacích olejů; Maloobchodní prodej kovového zboží; Maloobchodní služby týkající se automobilového příslušenství; Maloobchodní služby týkající se automobilových dílů; Velkoobchodní prodej vozidel; Velkoobchodní prodej mazacích olejů; Velkoobchodní prodej kovového zboží; Velkoobchodní služby v oblasti automobilových dílů; Velkoobchodní služby v oblasti automobilového příslušenství.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Detailhandel med tilbehør til biler; Detailhandel med akkumulatorer; Detailhandel med køretøjer; Detailhandel med smøremidler; Detailhandel med metalvarer; Detailhandel med tilbehør til biler; Detailhandel med reservedele til biler; Engroshandel med køretøjer; Engroshandel med smøremidler; Engroshandel med metalvarer; Engroshandel med reservedele til biler; Engroshandel med tilbehør til biler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Einzelhandelsdienstleistungen in Bezug auf Kraftfahrzeugzubehör; Einzelhandelsdienstleistungen in Bezug auf Akkumulatoren; Einzelhandelsdienstleistungen in Bezug auf Fahrzeuge; Einzelhandelsdienstleistungen in Bezug auf Schmierstoffe; Einzelhandelsdienstleistungen in Bezug auf Kleineisenwaren; Einzelhandelsdienstleistungen in Bezug auf Autozubehör; Einzelhandelsdienstleistungen in Bezug auf Autoteile; Großhandelsdienstleistungen in Bezug auf Fahrzeuge; Großhandelsdienstleistungen in Bezug auf Schmiermittel; Großhandelsdienstleistungen in Bezug auf Kleineisenwaren; Großhandelsdienstleistungen in Bezug auf Autoteile; Großhandelsdienstleistungen in Bezug auf Autozubehör.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες λιανικής πώλησης σε σχέση με αξεσουάρ αυτοκινήτων· Υπηρεσίες λιανικής πώλησης σε σχέση με συσσωρευτές· Υπηρεσίες λιανικής πώλησης σε σχέση με οχήματα· Υπηρεσίες λιανικής πώλησης σε σχέση με λιπαντικά· Υπηρεσίες λιανικής πώλησης σε σχέση με μεταλλικά είδη σιδηροπωλείου· Υπηρεσίες λιανικής πώλησης για εξαρτήματα αυτοκινήτων· Υπηρεσίες λιανικής πώλησης για μέρη αυτοκινήτων· Υπηρεσίες χονδρικής πώλησης σε σχέση με οχήματα· Υπηρεσίες χονδρικής πώλησης σε σχέση με λιπαντικά· Υπηρεσίες χονδρικής πώλησης σε σχέση με μεταλλικά είδη σιδηροπωλείου· Υπηρεσίες χονδρικής πώλησης για μέρη αυτοκινήτων· Υπηρεσίες χονδρικής πώλησης για εξαρτήματα αυτοκινήτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Retail services in relation to car accessories; Retail services relating to accumulators; Retail services in relation to vehicles; Retail services in relation to lubricants; Retail services in relation to metal hardware; Retail services relating to automobile accessories; Retail services relating to automobile parts; Wholesale services in relation to vehicles; Wholesale services in relation to lubricants; Wholesale services in relation to metal hardware; Wholesale services relating to automobile parts; Wholesale services relating to automobile accessories.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de venta al por menor en relación con accesorios para vehículos; Servicios de venta al por menor en relación con acumuladores; Servicios de venta al por menor de vehículos; Servicios de venta al por menor de lubricantes; Servicios de venta al por menor relacionados con ferretería metálica; Servicios de venta minorista de accesorios de automóviles; Servicios de venta minorista de piezas de automóviles; Servicios de venta al por mayor de vehículos; Servicios de venta al por mayor de lubricantes; Servicios de venta al por mayor relacionados con ferretería metálica; Servicios de venta mayorista de piezas de automóviles; Servicios de venta mayorista de accesorios de automóviles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Autotarvikute jaemüügiteenused; Akude jaemüügi teenused; Sõidukite jaemüügiteenused; Määrdeainete jaemüügiteenused; Rauakaupade jaemüügiteenused; Autotarvikute jaemüügiteenused; Autoosade jaemüügiteenused; Sõidukite hulgimüügiteenused; Määrdeainete hulgimüügiteenused; Rauakaupade hulgimüügiteenused; Autoosade hulgimüügiteenused; Autotarvikute hulgimüügiteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Autotarvikkeiden vähittäismyyntipalvelut; Akkuihin liittyvät vähittäismyyntipalvelut; Ajoneuvoihin liittyvät vähittäismyyntipalvelut; Voiteluaineisiin liittyvät vähittäismyyntipalvelut; Metalliesineisiin liittyvät vähittäismyyntipalvelut; Autojen lisävarusteisiin liittyvät vähittäiskauppapalvelut; Autonosiin liittyvät vähittäiskauppapalvelut; Ajoneuvoihin liittyvät tukkumyyntipalvelut; Voiteluaineisiin liittyvät tukkumyyntipalvelut; Metalliesineisiin liittyvät tukkumyyntipalvelut; Autonosiin liittyvät tukkukauppapalvelut; Autojen lisävarusteisiin liittyvät tukkukauppapalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de vente au détail en rapport avec les accessoires pour voitures; Services de vente au detail en rapport avec les accumulateurs; Services de vente au détail concernant les véhicules; Services de vente au détail concernant les lubrifiants; Services de vente au détail concernant la quincaillerie métallique; Services de vente au détail d'accessoires d'automobiles; Services de vente au détail de parties d'automobiles; Services de vente en gros concernant les véhicules; Services de vente en gros concernant les lubrifiants; Services de vente en gros concernant la quincaillerie métallique; Services de vente en gros de parties d'automobiles; Services de vente en gros d'accessoires d'automobiles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Maloprodajne usluge u vezi s dodatnom opremom za automobile; Usluge maloprodaje povezane s akumulatorima; Maloprodajne usluge u vezi s vozilima; Maloprodajne usluge u vezi s lubrikantima; Maloprodajne usluge vezane uz metalnu robu; Maloprodajne usluge povezane s dodatnom opremom za automobile; Maloprodajne usluge povezane s automobilskim dijelovima; Veleprodajne usluge u vezi s vozilima; Veleprodajne usluge u vezi s lubrikantima; Veleprodajne usluge vezane uz metalnu robu; Veleprodajne usluge povezane s automobilskim dijelovima; Veleprodajne usluge povezane s dodatnom opremom za automobile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Autós kiegészítőkkel kapcsolatos kiskereskedelmi szolgáltatások; Akkumulátorokhoz kapcsolódó kiskereskedelmi szolgáltatások; Járművekkel kapcsolatos kiskereskedelmi szolgáltatások; Kenőanyagokkal kapcsolatos kiskereskedelmi szolgáltatások; Fémárukkal kapcsolatos kiskereskedelmi szolgáltatások; Gépjárműtartozékokkal kapcsolatos kiskereskedelmi szolgáltatások; Gépjárműalkatrészekkel kapcsolatos kiskereskedelmi szolgáltatások; Járművekkel kapcsolatos nagykereskedelmi szolgáltatások; Kenőanyagokkal kapcsolatos nagykereskedelmi szolgáltatások; Fémárukkal kapcsolatos nagykereskedelmi szolgáltatások; Gépjárműalkatrészekkel kapcsolatos nagykereskedelmi szolgáltatások; Gépjárműtartozékokkal kapcsolatos nagykereskedelmi szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di vendita al dettaglio relativi ad accessori per automobili; Servizi di vendita al dettaglio relativi ad accumulatori; Servizi al dettaglio in relazione a veicoli; Servizi al dettaglio in relazione a lubrificanti; Servizi al dettaglio in relazione a chincaglieria metallica; Servizi di vendita al dettaglio di accessori per automobili; Servizi di vendita al dettaglio di parti per automobili; Servizi all'ingrosso in relazione a veicoli; Servizi all'ingrosso in relazione a lubrificanti; Servizi all'ingrosso in relazione a chincaglieria metallica; Servizi di vendita all'ingrosso di parti per automobili; Servizi di vendita all'ingrosso di accessori per automobili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mažmeninė prekyba automobilių aksesuarais; Mažmeninės prekyba akumuliatoriais; Mažmeninė prekyba transporto priemonėmis; Mažmeninė prekyba tepalais; Mažmeninė prekyba metalo dirbiniais; Mažmeninė prekyba automobilių priedais; Mažmeninė prekyba automobilių dalimis; Didmeninė prekyba transporto priemonėmis; Didmeninė prekyba tepalais; Didmeninė prekyba metalo dirbiniais; Didmeninė prekyba automobilių dalimis; Didmeninė prekyba automobilių priedais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Automašīnu aksesuāru mazumtirdzniecības pakalpojumi; Akumulatoru mazumtirdzniecības pakalpojumi; Mazumtirdzniecības pakalpojumi saistībā ar transportlīdzekļiem; Mazumtirdzniecības pakalpojumi saistībā ar smērvielām; Mazumtirdzniecības pakalpojumi saistībā ar metāla būvapkalumiem; Mazumtirdzniecības pakalpojumi, kas attiecas uz automobiļu aprīkojumu; Mazumtirdzniecības pakalpojumi, kas attiecas uz automobiļu detaļām; Vairumtirdzniecības pakalpojumi saistībā ar transportlīdzekļiem; Vairumtirdzniecības pakalpojumi saistībā ar smērvielām; Vairumtirdzniecības pakalpojumi saistībā ar metāla būvapkalumiem; Vairumtirdzniecības pakalpojumi, kas attiecas uz automobiļu detaļām; Vairumtirdzniecības pakalpojumi, kas attiecas uz automobiļu aprīkojumu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' bejgħ bl-imnut relatati ma' aċċessorji tal-karozzi; Servizzi tal-bejgħ bl-imnut relatati ma' akkumulaturi; Servizzi ta' bejgħ bl-imnut fir-rigward tal-vetturi; Servizzi ta' bejgħ bl-imnut fir-rigward tal-lubrikanti; Servizzi ta' bejgħ bl-imnut fir-rigward ta' ħardwer tal-metall; Servizzi fil-livell tal-konsumaturi relatati ma' aċċessorji tal-karozzi; Servizzi fil-livell tal-konsumaturi relatati ma' parts tal-karozzi; Servizzi ta' bejgħ bl-ingrossa fir-rigward tal-vetturi; Servizzi ta' bejgħ bl-ingrossa fir-rigward tal-lubrikanti; Servizzi ta' bejgħ bl-ingrossa fir-rigward ta' ħardwer tal-metall; Servizzi fil-livell tal-operaturi relatati ma' parts tal-karozzi; Servizzi fil-livell tal-operaturi relatati ma' aċċessorji tal-karozzi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Detailhandelsdiensten op het gebied van autoaccessoires; Detailhandel in accu's; Detailhandelsdiensten op het gebied van voertuigen; Detailhandelsdiensten op het gebied van smeermiddelen; Detailhandelsdiensten op het gebied van ijzerwaren; Detailhandelsdiensten op het gebied van autoaccessoires; Detailhandelsdiensten op het gebied van auto-onderdelen; Groothandelsdiensten op het gebied van voertuigen; Groothandelsdiensten op het gebied van smeermiddelen; Groothandelsdiensten op het gebied van ijzerwaren; Groothandelsdiensten op het gebied van auto-onderdelen; Groothandelsdiensten op het gebied van autoaccessoires.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi handlu detalicznego w związku z akcesoriami samochodowymi; Usługi handlu detalicznego w zakresie akumulatorów; Usługi sprzedaży detalicznej w związku z pojazdami; Usługi sprzedaży detalicznej w związku ze smarami; Usługi sprzedaży detalicznej w związku z akcesoriami metalowymi; Usługi sprzedaży detalicznej w zakresie akcesoriów samochodowych; Usługi sprzedaży detalicznej w zakresie części samochodowych; Usługi sprzedaży hurtowej w związku z pojazdami; Usługi sprzedaży hurtowej w związku ze smarami; Usługi sprzedaży hurtowej w związku z akcesoriami metalowymi; Usługi sprzedaży hurtowej w zakresie części samochodowych; Usługi sprzedaży hurtowej w zakresie akcesoriów samochodowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de venda a retalho relacionados com acessórios para automóveis; Serviços de venda a retalho relacionados com acumuladores; Serviços retalhistas relacionados com veículos; Serviços retalhistas relacionados com lubrificantes; Serviços retalhistas relacionados com ferragens metálicas; Dos serviços de retalho relacionados com acessórios para automóveis; Serviços de venda a retalho relativos a peças de automóveis; Serviços grossistas relacionados com veículos; Serviços grossistas relacionados com lubrificantes; Serviços grossistas relacionados com ferragens metálicas; Serviços de venda por grosso relativos a peças de automóveis; Serviços de venda por grosso relativos a acessórios para automóveis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de vânzare cu amănuntul în legătură cu accesorii pentru automobile; Servicii de vânzare cu amănuntul în legătură cu acumulatori; Servicii de vânzare cu amănuntul în legătură cu vehicule; Servicii de vânzare cu amănuntul în legătură cu lubrifianţi; Servicii de vânzare cu amănuntul în legătură cu articole de feronerie; Servicii de vânzare cu amănuntul referitoare la accesorii pentru automobile; Servicii de vânzare cu amănuntul referitoare la piese pentru automobile; Servicii de vânzare cu ridicata în legătură cu vehicule; Servicii de vânzare cu ridicata în legătură cu lubrifianţi; Servicii de vânzare cu ridicata în legătură cu articole de feronerie; Servicii de vânzare cu ridicata referitoare la piese pentru automobile; Servicii de vânzare cu ridicata referitoare la accesorii pentru automobile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Maloobchodné služby v oblasti automobilového príslušenstva; Maloobchodné služby v oblasti akumulátorov; Maloobchodné služby s vozidlami; Maloobchodné služby s mazadlami; Maloobchodné služby so železiarskym tovarom; Maloobchodné služby súvisiace s automobilovým príslušenstvom; Maloobchodné služby súvisiace s náhradnými dielmi do automobilov; Veľkoobchodné služby s vozidlami; Veľkoobchodné služby so zameraním na lubrikanty; Veľkoobchodné služby so železiarskym tovarom; Veľkoobchodné služby súvisiace s náhradnými dielmi do automobilov; Veľkoobchodné služby súvisiace s automobilovým príslušenstvom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Maloprodajne storitve v zvezi z dodatki za avtomobile; Maloprodajne storitve v zvezi z akumulatorji; Storitve prodaje na drobno v zvezi z vozili; Storitve prodaje na drobno v zvezi z mazivi; Storitve prodaje na drobno v zvezi s kovinskimi izdelki; Maloprodajne storitve v zvezi z avtomobilsko opremo; Maloprodajne storitve v zvezi z avtomobilskimi deli; Storitve prodaje na debelo v zvezi z vozili; Storitve prodaje na debelo v zvezi z mazivi; Storitve prodaje na debelo v zvezi s kovinskimi izdelki; Veleprodajne storitve v zvezi z avtomobilskimi deli; Veleprodajne storitve v zvezi z avtomobilsko opremo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Återförsäljning avseende biltillbehör; Detaljhandel avseende ackumulatorer; Återförsäljartjänster avseende fordon; Återförsäljartjänster avseende smörjmedel; Återförsäljartjänster avseende metallhårdvara; Detaljhandelstjänster avseende biltillbehör; Detaljhandelstjänster avseende reservdelar till bilar; Partihandelstjänster avseende fordon; Partihandelstjänster avseende smörjmedel; Grossisttjänster avseende metallvaror; Grossisthandelstjänster avseende reservdelar till bilar; Grossisthandelstjänster avseende biltillbehör.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/073</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079018</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>49287</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

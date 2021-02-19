@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T08:41:15</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229277</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229277</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Better Elements</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Препарати за опушване [парфюми].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vykuřovací přípravky [parfémy].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Røgelsespræparater [parfume].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Räuchermittel [Duftstoffe].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καπνού εκπομπή (προϊόντα για -) [αρώματα].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Fumigation preparations [perfumes].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Productos de fumigación [perfumes].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Suitsutusained [parfüümid, lõhnaained].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Desinfioivat parfyymit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Produits pour fumigations [parfums].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Proizvodi za fumigaciju [mirisi].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Füstölő készítmények [illatszerek].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Prodotti per fumigazioni [profumi].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Smilkalai [kvapniosios medžiagos].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kvēpināmie līdzekļi (smaržas).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preparazzjonijiet ta' fumigazzjoni [fwejjaħ].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Berookmiddelen [parfums].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Preparaty do odymiania [perfumy].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Preparações para fumigações [perfumes].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Fumigație (produse pentru -) [parfumuri].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vydymovacie prípravky (parfumy).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Fumigacijska sredstva [parfumi].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Rökelsepreparat [parfymer].</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Хранителни добавки за медицински цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Výživové doplňky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Næringstilskud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Nahrungsergänzungsmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συμπληρώματα διατροφής.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Nutritional supplements.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Complementos nutricionales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toidulisandid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lisäravintoaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Compléments nutritionnels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Hranjivi dodaci.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Táplálékkiegészítők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Additivi nutrizionali per uso medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mitybos papildai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Uztura bagātinātāji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Supplimenti ta' nutrizzjoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Voedingssupplementen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odżywcze suplementy diety.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Suplementos nutricionais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suplimente nutritive.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Výživové doplnky na lekárske použitie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Hranilni dodatki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Näringstillskott.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082031</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

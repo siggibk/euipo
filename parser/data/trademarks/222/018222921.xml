@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-05T15:24:09</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222921</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222921</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-04</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>HOOT AUDIO</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Мобилни приложения, които се състоят в социална мрежа предназначена за създаване и споделяне на аудиокниги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Mobilní aplikace spočívající v sociální síti určené pro vytváření a sdílení audioknih.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Mobile applikationer bestående af sociale netværk til design og deling af lydbøger.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Mobile App in Form eines sozialen Netzwerks zur Erstellung und gemeinsamen Nutzung von Hörbüchern.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κινητή εφαρμογή που συνίσταται σε ένα κοινωνικό δίκτυο σχεδιασμένο για τη δημιουργία και τον επιμερισμό ηχογραφημένων βιβλίων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Mobile application consisting of a social network designed to create and share audio books.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aplicación móvil que consiste en una red social diseñada para crear y compartir audiolibros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mobiilirakendus, mis koosneb suhtlusvõrgustikust, mis on loodud heliraamatute loomiseks ja jagamiseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Langaton sovellus, joka koostuu äänikirjojen luomiseen ja jakamiseen tarkoitetusta sosiaalisesta verkosta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Application mobile sous forme de réseau social conçu pour créer et partager des livres audio.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Mobilna aplikacija koja se sastoji od društvene mreže namijenjena za kreiranje i dijeljenje audioknjiga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Egy közösségi hálóból álló mobil applikáció, amelyet hangos könyvek megalkotására és megosztására terveztek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Applicazione mobile consistente in un social network progettato per creare e condividere audiolibri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mobilioji programa, susidedanti iš socialinio tinklo, skirta kurti ir dalintis audio knygomis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mobilā lietotne uz sociālā tīkla bāzes ar mērķi izveidot un koplietot audiogrāmatas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Applikazzjoni tal-mowbajl li tikkonsisti f'netwerk soċjali ddisinjata biex toħloq u taqsam kotba awdjo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Mobiele applicatie bestaande uit een sociaal netwerk dat is ontworpen om audioboeken te creëren en te delen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Aplikacja mobilna w formie sieci społecznościowej zaprojektowanej do tworzenia i dzielenia się audiobookami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aplicação móvel que consiste numa rede social concebida para criar e partilhar audiolivros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aplicație mobilă care constă dintr-o rețea socială concepută pentru crearea și partajarea de cărți audio.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Mobilné aplikácie, ktoré spočívajú v sociálnej sieti navrhnutej na tvorbu a zdieľanie audiokníh.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Mobilne aplikacije, sestavljene iz družbenega omrežja, namenjenega ustvarjanju in skupni uporabi avdio knjig.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Mobil applikations om består av ett socialt nät designat för att skapa och dela ljudböcker.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за публикуване и издаване на аудиокниги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Publikování a vydávání audioknih.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Publikation og udgivelse af lydbøger.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Veröffentlichung und Herausgabe von Hörbüchern.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες δημοσίευσης και έκδοσης ηχογραφημένων βιβλίων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Publication and editing of audio books.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de publicación y edición de audiolibros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Heliraamatute kirjastamise ja kirjastamise teenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Äänikirjojen julkaisu- ja kustannuspalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de publication et d'édition de livres audio.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge objavljivanje i izdavanja audioknjiga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Hangos könyvek publikálása és kiadása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di pubblicazione ed edizione di audiolibri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Garso knygų leidybos ir leidybos paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Audiogrāmatu publicēšanas un rediģēšanas pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' pubblikazzjoni u editjar ta' kotba awdjo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Het publiceren en redigeren van audioboeken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi publikowania i edycji audiobooków.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de publicação e edição de audiolivros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de publicare și editare de cărți audio.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Publikovanie a editovanie audiokníh.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve objavljanja in publikacij avdio knjig.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Utgivning och publicering av ljudböcker.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079011</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>58417</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003127515</OppositionIdentifier>
+<OppositionDate>2020-08-04</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion
+Unfair advantage /detriment to distinctiveness or repute</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>WO</EarlierMarkCountryCode>
+<DesignatedCountryDetails>
+           <DesignatedCountryCode>EM</DesignatedCountryCode>
+          </DesignatedCountryDetails>
+<ApplicationNumber>1290088</ApplicationNumber>
+<ApplicationDate>2015-12-22</ApplicationDate>
+<RegistrationNumber>1290088</RegistrationNumber>
+<RegistrationDate>2015-12-22</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>TWO HOOTS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>WO</EarlierMarkCountryCode>
+<DesignatedCountryDetails>
+           <DesignatedCountryCode>EM</DesignatedCountryCode>
+           <DesignatedCountryCode>GB</DesignatedCountryCode>
+          </DesignatedCountryDetails>
+<ApplicationNumber>1290088</ApplicationNumber>
+<ApplicationDate>2015-12-22</ApplicationDate>
+<RegistrationNumber>1290088</RegistrationNumber>
+<RegistrationDate>2015-12-22</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>TWO HOOTS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>GB</EarlierMarkCountryCode>
+<ApplicationNumber>UK00003141454</ApplicationNumber>
+<ApplicationDate>2015-12-18</ApplicationDate>
+<RegistrationNumber>UK00003141454</RegistrationNumber>
+<RegistrationDate>2016-04-08</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>TWO HOOTS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>GB</EarlierMarkCountryCode>
+<ApplicationNumber>UK00003141454</ApplicationNumber>
+<ApplicationDate>2015-12-18</ApplicationDate>
+<RegistrationNumber>UK00003141454</RegistrationNumber>
+<RegistrationDate>2016-04-08</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>TWO HOOTS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>684410</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>44725</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

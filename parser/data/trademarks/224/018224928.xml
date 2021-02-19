@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-10T08:16:23</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224928</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224928</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="1">Application published</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-10</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>KLÖBER</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162204763</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224928/000162204763.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.13.25</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Подложка на бодила на костите [медицински инструменти].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Sedadla na podpěru páteře (lékařská zařízení).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Medicinske anordninger i form af sæder til brug for rygraden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Medizinische wirbelsäulengerechte Stühle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καθίσματα για τη σπονδυλική στήλη [ιατρικές συσκευές].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Spine seats [medical apparatus].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Asientos para la columna [aparatos médicos].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Selgroogu toetavad istmed [meditsiiniseadmed].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Selkärankatuet [lääketieteelliset välineet].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Assises pour colonne vertébrale à usage médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Stolice za kralježnicu [medicinski uređaji].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gerinckímélő székek [orvosi készülék].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Supporti per la colonna vertebrale [dispositivi medici].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Stuburui pritaikytos kėdės [medicininiai aparatai].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mugurkaula sēdekļi (medicīnas aparatūra).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħmir għas-sostenn tas-sinsla tad-dahar [apparat mediku].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Wervelkolom stoelen [medische toestellen].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Siedziska do korekcji kręgosłupa [przyrządy medyczne].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Assentos para a coluna vertebral [instrumentos médicos].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Scaune pentru coloana vertebrală [aparate medicale].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Spinálne sedadlá ako lekárske zariadenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Sedeži za hrbtenico [medicinski aparati].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Medicinska anordningar i form av säten för ryggraden.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>17</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Плакати и пръчици от пластмасови полу-тънки материали.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Částečně zpracované desky a lišty z plastických hmot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Plader og stave af halvforarbejdet plastic.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Platten, Stangen und Halbfabrikate aus Kunststoffen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Πλάκες και βέργες από ημικατεργασμένα πλαστικά υλικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Sheets and rods of semi-finished plastics.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Planchas y varillas de materias plásticas semiacabadas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Pooltöödeldud plastmaterjalidest plaadid ja rullid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Muovikalvot ja -sauvat puolivalmisteina.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">plaques et baguettes en matières plastiques semi-finies.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Plastične ploče i šipke (poluproizvodi).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Félkész lemezek és csíkok műanyagból.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Lastre e bacchette in materie plastiche semifinite.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Plastikinės pusiau apdirbtos plokštės ir vamzdžiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Plēves, plāksnes un stienīši no plastikāta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Pjanċi u vireg tal-plastik semi-fabbrikati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Platen en lijsten van halfbewerkte plastic materialen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Płytki i pręty z tworzyw sztucznych półskończonych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Placas e ripas em matérias plásticas semi-acabadas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Plăci şi baghete din materiale plastice semifinite.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Polospracované plastové doštičky a lišty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Plošče in palice kot polizdelki iz umetnih snovi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Skivor och stänger av plast (halvfabrikat).</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>19</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Акустични панели, неметални.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nekovové akustické panely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Akustiske paneler, ikke af metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Akustikpaneele, nicht aus Metall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μη μεταλλικά ηχομονωτικά φατνώματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Acoustic panels, not of metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Paneles acústicos no metálicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Akustilised paneelid, v.a metallist.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Akustiikkapaneelit, muut kuin metalliset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Panneaux acoustiques non métalliques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Nemetalni akustični paneli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Nem fém akusztikus panelek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pannelli acustici non metallici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Ne metalinės akustinės plokštės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Akustiskie paneļi, kas nav no metāla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Pannelli akustiċi mhux tal-metall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Akoestische panelen, niet van metaal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Panele akustyczne niemetalowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Painéis acústicos não metálicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Panouri acustice, nemetalice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nekovové akustické panely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Akustične plošče, nekovinske.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Akustikpaneler, inte av metall.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Седалки; Дизайнерски столове, а именно столове за посетители, конференции и офиси; Кресла с падаща облегалка [столове]; Офис мебели, столове; Столове за чертане; Столове с колелца; Столове за преговори; Ергономични офис столове; Столове за чертане; Подложки за столове; Фотьойли-торби с пълнеж, върху които се сяда; Мебели за сядане; Офис кресла; Контурни столове; Мека мебел, По-специално кресла; Мебели и мебелни части, по-специално офисни и мебели за сядане; Шезлонги; Маси [мебели]; Пейки [мебелировка]; Ергономични столове за седящ масаж; Табуретки за крака; Рафтове за складове; Рафтове за складове; Стенни закачалки за дрехи; Панели за разделяне; Маси; Мебели от оформена вълна; Мебели от пластмаса; Панели, Пръти и полуготови изделия от пластмаса, за производство на мебели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Židle; Designové židle, jmenovitě návštěvnické, konferenční a kancelářské židle; Polohovací křesla (židle); Židle jako kancelářský nábytek; Projektantské židle; Židle s natáčecími kolečky; Židle pro jednání; Ergonomické kancelářské židle; Projektantské židle; Sedáky na židle; Sedací vaky; Nábytek na sezení; Kancelářská křesla; Anatomicky tvarované židle; Čalouněný nábytek, Zejména křesla do salonů; Nábytek a nábytkové části, zejména kancelářský a sedací nábytek; Sofa; Stoly (nábytek); Lavice [nábytek]; Ergonomická křesla pro masáž v sedě; Stoličky; Regály [nábytek]; Regály [nábytek]; Věšáky; Dělící panely; Stoly; Nábytek z tvarovaného filcu; Plastový nábytek; Panely, Tyče a polotovary z plastické hmoty, pro výrobu nábytku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Stole; Designerstole, nemlig gæstestole, konference- og kontorstole; Lænestole [stole]; Stole i form af kontormøbler; Justerbare kontorstole; Stole med hjul; Stole til mødelokaler; Ergonomiske kontorstole; Justerbare kontorstole; Stolehynder; Sækkestole; Siddemøbler; Kontorstole med armlæn; Konturstole; Polstrede møbler, Især lounge-lænestole; Møbler og møbeldele, især kontor- og siddemøbler; Sofaer; Borde [møbler]; Bænke [møbler]; Ergonomiske stole til siddende massage; Taburetter; Reoler [møbler]; Reoler [møbler]; Knagerækker; Skillepaneler; Borde; Møbler af formet fleece; Møbler af plastik; Paneler, Stænger og halvfavbrikata af plastic, til møbelproduktion.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Stühle; Designerstühle, nämlich Besucher-, Konferenz- und Bürostühle; Ruhesessel [Stühle]; Stühle als Büromöbel; Bürodrehstühle; Stühle mit Lenkrollen; Besprechungsstühle; ergonomische Bürostühle; Stühle für Wohnräume; Stuhlkissen; gefüllte Sitzkissen; Sitzmöbel; Sitzmöbel für Büros; konturgeformte Sessel; Polstermöbel, insbesondere Loungesessel; Möbel und Möbelteile, insbesondere Büro- und Sitzmöbel; Sofas; Tische [Möbel]; Bänke [Möbel]; ergonomische Stühle für Sitzmassagen; Hocker; Regale; Regalelemente; Garderoben; Trennwände; Tische; Möbel aus Formvlies; Möbel aus Kunststoff; Platten, Stangen und Halbfabrikate aus Kunststoffen, für die Möbelherstellung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καθίσματα· Καρέκλες ειδικού σχεδιασμού, συγκεκριμένα καρέκλες επισκεπτών, συνεδρίου και γραφείου· Ανακλινόμενες καρέκλες (καρέκλες)· Καρέκλες ως έπιπλα γραφείου· Καρέκλες σχεδιαστηρίου· Καρέκλες με τροχούς· Καρέκλες συνεδριάσεων· Εργονομικές καρέκλες γραφείου· Καρέκλες σχεδιαστηρίου· Μαξιλάρια καθίσματος· Μαλακά πουφ· Καθίσματα [έπιπλα]· Καρέκλες γραφείου· Καρέκλες προσαρμοσμένες στο περίγραμμα του σώματος· Ταπετσαρισμένα έπιπλα, Ειδικότερα πολυθρόνες αίθουσας για κοκτέιλ· Έπιπλα και μέρη επίπλων, ειδικότερα έπιπλα γραφείου και καθίσματα· Ξαπλώστρες [σεζ-λονγκ]· Τραπέζια (έπιπλα)· Πάγκοι [έπιπλα]· Εργονομικές καρέκλες για μασάζ σε καθιστή θέση· Σκαμπό· Ράφια για αποθήκευση· Ράφια για αποθήκευση· Κρεμάστρες για πανωφόρια· Διαχωριστικά πλαίσια· Τραπέζια· Έπιπλα από μη υφασμένο μορφοποιημένο υλικό· Έπιπλα από πλαστικά υλικά· Φατνώματα, Ράβδοι και ημικατεργασμένα προϊόντα για την κατασκευή επίπλων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Seats; Designer chairs, namely visitor, conference and office chairs; Recliners [chairs]; Chairs being office furniture; Drafting chairs; Chairs with castor wheels; Meeting room chairs; Ergonomic office chairs; Drafting chairs; Chair pads; Bean bags; Seating furniture; Office armchairs; Contour chairs; Upholstered furniture, In particular lounge chairs; Furniture and parts of furniture, in particular office furniture and seating; Sofas; Tables [furniture]; Benches [furniture]; Ergonomic chairs for seated massage; Stools; Racks [furniture]; Racks [furniture]; Coat racks; Dividing panels; Tables; Furniture of formed fleece; Furniture of plastic materials; Panels, Rods and plastics in extruded form for use in manufacture, for manufacturing furniture.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Sillas [asientos]; Sillas de diseño, en concreta sillas para visitantes, para conferencias y para oficina; Reclinables [sillas]; Muebles de oficina, especialmente sillas; Sillas de dibujo; Sillas con ruedas giratorias; Sillas para reuniones; Sillas ergonómicas de oficina; Sillas de dibujo; Almohadillas de asiento; Sillones rellenos de bolitas de poliestireno [pufs]; Asientos [muebles]; Sillones de oficina; Sillones anatómicos; Muebles tapizados, En particular sillones para salones; Muebles y sus partes, en particular muebles de oficina y asientos; Sofás; Mesas [muebles]; Bancos [muebles]; Sillas ergonómicas para masajes en posición sentada; Taburetes; Estantes [muebles]; Estantes [muebles]; Perchas para abrigos; Paneles divisores; Mesas; Muebles de materiales no tejidos conformados; Muebles de materias plásticas; Paneles, Barras y materiales plásticos extruidos para su uso en la fabricación de muebles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toolid [istmed]; Disaineritoolid, nimelt külastaja-, konverentsi- ja kontoritoolid; Reguleeritava seljatoega tugitoolid; Kontorimööbel, nimelt toolid; Joonestustoolid; Rullikutega toolid; Koosolekutoolid; Ergonoomilised kontoritoolid; Joonestustoolid; Istmepadjad; Kott-toolid; Istumismööbel; Kontoriistmed; Ergonoomilised toolid; Pehme mööbel, Eelkõige salongitoolid; Mööbel ja mööbliosad, eelkõige kontori- ja istumismööbel; Sohvad, diivanid; Lauad [mööbel]; Pingid [mööbel]; Ergonoomilised istuvas asendis masseerimise toolid; Taburetid; Väikesed riiulid [mööbel]; Väikesed riiulid [mööbel]; Riidevarnad [mööbel]; Vaheseinad; Lauad; Vormitud fliismööbel; Plastikmööbel; Paneelid, Vardad ja plastist pooltooted, mööbli tootmiseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tuolit; Designtuolit, nimittäin vierailija-, konferenssi- ja toimistotuolit; Istuimet, joiden selkänojaa voidaan säätää [tuolit]; Tuolit toimistokalusteina; Piirustustuolit; Rullilla varustetut tuolit; Neuvottelutuolit; Ergonomiset toimistotuolit; Piirustustuolit; Tuolinpehmusteet; Säkkituolit; Istuimet huonekaluina; Toimistotuolit; Muotoillut tuolit; Pehmustetut huonekalut, Erityisesti nojatuolit; Huonekalut ja huonekalujen osat, erityisesti toimistokalusteet ja istuimet; Sohvat; Pöydät [huonekalut]; Penkit [huonekalut]; Ergonomiset tuolit hierontaan istuma-asennossa; Jakkarat; Hyllyt [kaluste]; Hyllyt [kaluste]; Vaatenaulakot [huonekalut]; Tilanjakajapaneelit; Pöydät; Muotokuidusta valmistetut kalusteet; Muoviset huonekalut; Paneelit, Tangot ja puolivalmisteet muoveista, huonekalujen valmistukseen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Chaises [sièges]; Sièges de designer, à savoir sièges de visiteurs, de conférence et de bureau; Fauteuils inclinables [sièges]; Chaises en tant que meubles de bureau; Chaises de dessinateur; Chaises à roulettes pivotantes; Chaises pour visiteurs; Chaises de bureau ergonomiques; Chaises de dessinateur; Coussins de chaise; Poufs poires; Meubles d'assise; Fauteuils de bureau; Chaises ergonomiques; Meubles tapissés, En particulier fauteuils de salon; Meubles et pièces de meubles, en particulier bureaux et sièges; Sofas; Tables [mobilier]; Bancs [meubles]; Chaises ergonomiques pour massages assis; Tabourets; Rayonnages [meubles]; Rayonnages [meubles]; Portemanteaux muraux; Cloisons auto-portantes [meubles]; Tables; Meubles en molleton moulé; Meubles en matières plastiques; Panels, Barres et produits semi-finis en plastiques, pour la fabrication de meubles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Stolice; Dizajnerske stolice, posebno stolice za posjetitelje, za konferencije i urede; Naslonjači [stolice]; Stolice kao uredski namještaj; Industrijske stolice; Stolice s kotačima; Stolice za sastanke; Ergonomske stolice za urede; Industrijske stolice; Jastučići za sjedala; Vreće za sjedenje; Namještaj za sjedenje; Uredske stolice; Ergonomske stolice; Tapecirani namještaj, Posebno fotelje za dnevni boravak; Namještaj i dijelovi namještaja, posebno uredski namještaj i namještaj za sjedenje; Sofe; Stolovi [namještaj]; Klupe; Ergonomske stolice za masažu; Klupica za noge; Stalci; Stalci; Stojeće vješalice; Pregrade; Stolovi; Namještaj od oblikovane netkane tkanine; Namještaj napravljen od plastike; Paneli, Plastične šipke i poluproizvodi za proizvodnju namještaja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Székek [ülések]; Formatervezett székek, mégpedig látogató-, konferencia- és irodai székek; Dönthető támlájú székek; Székek mint irodabútorok; Irodai forgószékek tervezéshez; Székek görgős kerekekkel; Tárgyalószékek; Ergonomikus irodai székek; Irodai forgószékek tervezéshez; Székpárnák; Babzsák fotelek; Ülőbútorok; Irodai székek; Relax fotelek; Kárpitozott bútor, Különösen klubfotelek; Bútorok és bútor elemek, különösen irodai és ülőbútorok; Kanapék; Asztalok [bútor]; Padok [bútorok]; Ergonomikus székek ülőmasszázshoz; Zsámolyok; Állványok, polcok; Állványok, polcok; Kabátfogasok; Elválasztófalak, paravánok; Asztalok; Bútorok formázott flízből; Műanyag bútorok; Panelek (pl. deszkalapok), Rudak és műanyag félkész termékek, bútorgyártáshoz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Sedie [sedili]; Sedie da designer, ovvero sedie per le sale d'aspetto, sedie per conferenze e sedie da ufficio; Sedie con schienale reclinabile [sedie]; Sedie, ovvero mobili per ufficio; Sedie da disegno; Sedie munite di rotelle; Sedie per colloqui; Sedie da ufficio ergonomiche; Sedie da disegno; Imbottiture per sedili; Pouf; Mobili per sedersi; Poltrone da ufficio; Sedie anatomiche; Mobili imbottiti, In particolare chaise longue; Mobili e parti di mobili, in particolare mobili da ufficio e sedute; Sofà; Tavoli [mobili]; Banchi [mobili]; Sedie ergonomiche per massaggio da seduti; Sgabelli; Scaffalature; Scaffalature; Attaccapanni a muro; Pannelli divisori; Tavole; Mobili in pile modellato; Mobili in materie plastiche; Pannelli, Barre e semilavorati in materie plastiche per la produzione di mobili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Sėdynės; Dizainerių sukurtos kėdės, būtent lankytojų, konferencijų ir biuro kėdės; Atlošiamieji krėslai; Kėdės (biuro baldai); Braižytojų kėdės; Kėdės su ratukais; Aptarimų patalpų kėdės; Ergonominės biuro kėdės; Braižytojų kėdės; Sėdimųjų vietų minkšti pamušai; Sėdmaišiai; Sėdimieji baldai; Biuro krėslai; Kūno linijas atitinkančios kėdės; Minkštųjų baldų komplektai, Ypač ištaigingi krėslai; Baldai ir baldų dalys, ypač biuro ir sėdimieji baldai; Sofos; Stalai [baldai]; Suolai [baldai]; Ergonominės sėdimojo masažo kėdės; Taburetės; Lentynos [baldai]; Lentynos [baldai]; Paltų kabyklos [baldai]; Pertvaros; Stalai; Baldai iš fasoninės formos veltinio; Plastikiniai baldai; Plokštės, Strypai ir pusgaminiai iš plastikų, naudojami baldams gaminti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Krēsli (sēdekļi); Dizaina krēsli, jo īpaši apmeklētājiem, konferencēm un birojiem; Guļamkrēsli; Krēsli (biroja mēbeles); Rasēšanas ķebļi; Krēsli ar ritenīšiem; Pārrunu krēsli; Ergonomiski biroja krēsli; Rasēšanas ķebļi; Sēdekļu polsteri; Sēžamie maisi; Mēbeles sēdēšanai; Biroja krēsli ar roku balstiem; Ergonomiskie zviļņi; Polsterētas mēbeles, Jo īpaši atpūtas telpu krēsli ar atzveltni; Mēbeles un mēbeļu daļas, jo īpaši biroju mēbeles un sēdmēbeles; Sofas; Galdi [mēbeles]; Soli; Ergonomiski krēsli masāžai; Taburetes; Sastatņu plaukti (mēbeles); Sastatņu plaukti (mēbeles); Mēteļu pakaramie; Atdalošas starpsieniņas; Galdi; Mēbeles no veidotas vilnas; Plastmasas mēbeles; Paneļi, Stangas un plastmasas pusfabrikāti mēbeļu ražošanas nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Sedili; Siġġijiet magħmula minn disinjaturi, jiġifieri siġġijiet tal-viżitaturi, konferenzi u tal-uffiċċju; Pultruni tal-mistrieħ [siġġijiet]; Siġġijiet bħala għamara tal-uffiċċju; Siġġijiet għad-disinjar; Siġġijiet b'roti żgħar iduru; Siġġijiet għal konsultazzjonijiet; Siġġijiet tal-uffiċċju ergonomiċi; Siġġijiet għad-disinjar; Kuxxinetti tas-siġġijiet; Pultruni mimlijin b'boċċi [bean bag / pouf]; Għamara biex wieħed ipoġġi; Pultruni tal-uffiċċju; Siġġijiet bil-kurvi; Għamara miksija bit-tapizzerija, Speċjalment pultruni ta' salotti; Għamara u partijiet ta' għamara, speċjalment għamara tal-uffiċċju u sedili; Sufani; Mwejjed [għamara]; Bankijiet [għamara]; Siġġijiet ergonomiċi għall-massaġġi bilqiegħda; Banketti; Xkafef; Xkafef; Stendijiet ta' kowtijiet; Pannelli diviżorji; Mwejjed; Għamara tas-suf iffurmat; Għamara ta' materjal tal-plastik; Pannelli, Vireg u oġġetti tal-plastik parzjalment ipproċessati, għall-manifattura tal-għamara.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Stoelen; Designstoelen, te weten bezoekers-, conferentie- en kantoorstoelen; Ligstoelen [stoelen]; Stoelen zijnde kantoormeubelen; Stoelen voor tekentafels; Stoelen met zwenkwielen; Vergaderstoelen; Ergonomische kantoorstoelen; Stoelen voor tekentafels; Kussentjes voor stoelen; Zitzakken; Zitmeubelen; Bureaustoelen; Ergonomische stoelen; Gestoffeerde meubelen, Met name loungestoelen; Meubelen en meubelonderdelen, met name kantoor- en zitmeubelen; Sofa's; Tafels [meubelen]; Banken [meubelen]; Ergonomische stoelen voor stoelmassage; Zitkrukjes; Rekken [stellingen]; Rekken [stellingen]; Rekken voor mantels; Scheidingspanelen; Tafels; Meubelen van vormvlies; Meubelen gemaakt van plastics; Panelen, Stangen en halfbewerkte plastic producten, voor het vervaardigen van meubels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Krzesła; Krzesła designerskie, mianowicie krzesła biurowe, konferencyjne i biurowe; Krzesła, fotele z ruchomym oparciem; Krzesła [fotele] biurowe; Krzesła kreślarskie; Krzesła na kółkach; Krzesła biurowe; Ergonomiczne krzesła biurowe; Krzesła kreślarskie; Poduszki na krzesła; Pufy typu sako; Meble do siedzenia; Fotele biurowe; Fotele dopasowane do kształtu ciała [contour chair]; Meble tapicerowane, W szczególności fotele; Meble i elementy meblowe, w szczególności meble biurowe i meble do siedzenia; Kanapy; Stoły [meble]; Ławy [meble]; Fotele ergonomiczne z funkcją masażu na siedząco; Taborety; Stojaki, półki; Stojaki, półki; Wieszaki do płaszczy; Panele rozdzielające [przegrody]; Stoły; Meble wykonane z formowanego filcu z wełny; Meble wykonane z tworzyw sztucznych; Płyty, Pręty i półfabrykaty z tworzyw sztucznych, do produkcji mebli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cadeiras [assentos]; Cadeiras de design, especificamente cadeiras para visitas, cadeiras de conferência e cadeiras de escritório; Cadeiras reclináveis; Cadeiras sendo mobiliário de escritório; Cadeiras de desenhador; Cadeiras com rodas giratórias; Cadeiras para salas de reuniões; Cadeiras de escritório ergonómicas; Cadeiras de desenhador; Almofadas de cadeiras; Pufes; Cadeiras; Cadeiras para escritório; Cadeiras anatómicas; Mobiliário estofado, Em especial cadeiras de braços para lounges; Mobiliário e peças de mobiliário, em especial mobiliário de escritório e assentos; Sofás; Mesas [móveis]; Bancos [mobiliário]; Cadeiras ergonómicas para massagens na posição sentada; Tamboretes; Estantes [mobiliário]; Estantes [mobiliário]; Cabides para casacos; Painéis divisórios; Mesas; Móveis em material não-tecido; Mobiliário em matérias plásticas; Painéis, Varetas e produtos semiacabados em matérias plásticas, para fabrico de mobiliário.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Scaune; Scaune de designer, şi anume scaune de vizitator, de conferinţă şi de birou; Mobilier rabatabil pentru șezut; Scaune ca mobilier de birou; Scaune pentru desenatori; Scaune cu roți pivotante; Scaune pentru şedinţe; Scaune de birou ergonomice; Scaune pentru desenatori; Perne pentru scaune; Fotolii umplute cu polistiren (fotolii pară, fotolii puf); Mobilier pentru șezut; Scaune de birou; Scaune ergonomice; Mobilier capitonat, În special scaune de hol; Mobilier şi piese de mobilier, în special mobilier de birou şi de şezut; Șezlonguri pentru transatlantice; Mese [mobilier]; Bănci [mobile]; Scaune ergonomice pentru masajul pe scaun; Taburete; Polițe; Polițe; Cuiere de haine; Panouri separatoare; Mese; Mobile din materiale textile nețesute fasonate; Mobilier din materiale plastice; Panouri, Bare și semifabricate din materiale plastice, pentru fabricarea de mobile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Stoličky; Dizajnérske stoličky, menovite stoličky pre návštevníkov, konferenčné a kancelárske stoličky; Polohovateľné a sklápacie kreslá, stoličky a lehátka; Stoličky ako kancelársky nábytok; Projektantské stoličky; Stoličky s kolieskami; Stoličky pre porady; Ergonomické kancelárske stoličky; Projektantské stoličky; Vankúšové podložky na stoličky; Sedacie vaky (pufy); Nábytok na sedenie; Kancelárske kreslá; Anatomicky tvarované stoličky; Čalúnený nábytok, Predovšetkým lounge kreslá; Nábytok a nábytkové prvky, predovšetkým kancelársky nábytok a nábytok na sedenie; Sofy; Stoly [nábytok]; Lavičky (nábytok); Ergonomické masážne kreslá; Taburetky; Police (samostatne stojaci nábytok); Police (samostatne stojaci nábytok); Vešiakové stojany na kabáty [nábytok]; Rozdeľovacie panely (priečky); Stoly; Nábytok z formovaného netkaného rúna; Nábytok z plastových materiálov; Panely, Tyče a polotovary z plastov, na výrobu nábytku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Stoli; Dizajnerski stoli, in sicer stoli za obiskovalce, konference in pisarne; Naslonjači [stoli]; Stoli, ki se uporabljajo kot pisarniško pohištvo; Risarski stoli; Stoli z vrtljivimi kolesci; Konferenčni stoli; Ergonomični pisarniški stoli; Risarski stoli; Blazine za sedenje, za stole; Sedežne vreče; Sedežno pohištvo; Pisarniški naslonjači; Oblikovani ergonomski stoli; Oblazinjeno pohištvo, Zlasti klubski naslanjači; Pohištvo in pohištveni deli, zlasti pisarniško in sedežno pohištvo; Zofe; Mize [pohištvo]; Klopi [pohištvo]; Ergonomski stoli za masažo v sedečem položaju; Pručke; Stojala; Stojala; Stojala za plašče [pohištvo]; Razdelilni paneli; Mize; Pohištvo iz oblikovanega netkanega tekstila; Pohištvo iz plastičnih materialov; Opažne plošče, Palice in polizdelki iz plastike za izdelavo pohištva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Stolar; Designade stolar, nämligen besöks- konferens- och kontorsstolar; Vilstolar; Stolar (kontorsmöbler); Justerbara kontorsstolar; Stolar med länkrullar; Konferensstolar; Ergonomiska kontorsstolar; Justerbara kontorsstolar; Stolsdynor; Sacco-säckar; Sittmöbler; Kontorsfåtöljer; Stolar med skålad sits; Stoppade möbler, Speciellt loungefåtöljer; Möbler och möbeldelar, speciellt kontors- och sittmöbler; Soffor; Bord [möbler]; Bänkar [möbler]; Ergonomiska stolar för sittmassage; Pallar; Ställ [möbler]; Ställ [möbler]; Klädhängare; Skiljeväggar; Bord; Möbler av formbart kardflor; Plastmöbler; Paneler, Stänger och halvfabrikat av plast, för möbeltillverkning.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Проектиране и разработка на мебели, по-специално столове; Проектантски услуги и обзавеждане; Разработка на мебели и системи за обзавеждане; Планиране на офис обзавеждане.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Navrhování a vývoj nábytku, zejména židlí; Navrhování nábytku; Vývoj nábytku a zařizovacích systémů; Plánování kancelářského vybavení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Design og udvikling af møbler, især stole; Møbeldesign; Udvikling af møbler og indretningssystemer; Projektering af kontorindretning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Entwurf und Entwicklung von Möbeln, insbesondere Stühlen; Design von Möbeln; Entwickeln von Möbeln und Einrichtungssystemen; Planung von Büroeinrichtungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σχεδιασμός και ανάπτυξη επίπλων, ειδικότερα καθισμάτων· Σχεδιασμός επίπλων· Ανάπτυξη συστημάτων επίπλων και διαρρύθμισης· Σχεδιασμός εξοπλισμού γραφείου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Design and development of furniture, in particular chairs; Design services for furniture; Development of furniture and furnishing systems; Planning of office equipment.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Diseño y desarrollo de muebles, en sillas; Servicios de diseño de muebles; Desarrollo de muebles y sistemas de equipamiento; Planificación de instalaciones de oficinas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mööbli, eelkõige toolide projekteerimine ja arendamine; Mööblidisain; Mööbli ja sisustussüsteemide arendamine; Büroosisustuse planeerimine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kalusteiden, erityisesti istuinten, suunnittelu ja kehittäminen; Huonekalusuunnittelu; Huonekalujen ja sisustusjärjestelmien kehittäminen; Toimistokalusteiden suunnittelu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Conception et développement de meubles, en particulier de chaises; Services de conception de meubles; Développement de meubles et de systèmes d'aménagement; Planification d'équipements de bureau.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dizajn i razvoj namještaja, posebno stolica; Usluge dizajna namještaja; Razvoj namještaja i sustava za uređenje; Planiranje uređenja ureda.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Bútorok, különösen székek tervezése és fejlesztése; Bútortervezői szolgáltatások; Bútorok és berendezésrendszerek fejlesztése; Irodai berendezések tervezése.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Progettazione e sviluppo di mobili, in particolare sedie; Servizi di progettazione di arredamenti; Sviluppo di mobili e sistemi per arredamento; Progettazione d'arredamento d'uffici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Baldų, ypač kėdžių, projektavimas ir tobulinimas; Baldų dizaino paslaugos; Baldų ir įrenginių sistemų tobulinimas; Biuro įrengimo planavimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mēbeļu, jo īpaši krēslu projektēšana un izstrāde; Mēbeļu projektēšanas pakalpojumi; Mēbeļu un iekārtošanas sistēmu izveide; Biroja iekārtu plānošana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Disinn u żvilupp ta' għamara, speċjalment siġġijiet; Servizzi ta' disinn ta' għamara; Disinn ta' għamara u tagħmir għall-kmamar; Ippjanar ta' għamara tal-uffiċċju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ontwerpen en ontwikkelen van meubelen, met name stoelen; Ontwerp van meubelen en meubilair; Ontwikkelen van meubelen en inrichtingssystemen; Planning van kantoorinrichtingen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Projektowanie i rozwój mebli, w szczególności krzeseł; Usługi projektowania w zakresie umeblowania; Opracowywanie mebli i systemów wyposażeniowych; Planowanie wyposażenia biurowego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Conceção e desenvolvimento de mobiliário, em especial de cadeiras; Serviços de design de mobiliário; Concepção de móveis e de mobiliário integrado; Planeamento de móveis para escritório.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Proiectarea şi dezvoltarea mobilierului, în special a scaunelor; Design de mobilier; Dezvoltare de mobilier şi sisteme de amenajări interioare; Planificare de elemente de amenajare pentru birou.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Návrh a vývoj nábytku, predovšetkým stoličiek; Dizajn bytového zariadenia; Vývoj nábytku a zariaďovacích systémov; Plánovanie kancelárskych zariadení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Koncipiranje in razvoj pohištva, zlasti stolov; Storitve oblikovanja za pohištvo; Razvoj pohištva in opremljevalnih sistemov; Načrtovanje pisarniške opreme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Planering och utveckling av möbler, speciellt stolar; Formgivning av inredning; Utveckling av möbler och inredningssystem; Planering av kontorsinredningar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/173</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-09-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>324448</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>60801</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

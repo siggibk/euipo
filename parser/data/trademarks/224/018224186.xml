@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-19T10:29:42</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224186</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224186</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-08-15</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-19</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Lighting ams</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162204907</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224186/000162204907.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.05.95</CategoryCode>
+          <CategoryCode>26.11.01</CategoryCode>
+          <CategoryCode>26.11.12</CategoryCode>
+          <CategoryCode>27.05.12</CategoryCode>
+          <CategoryCode>29.01.04</CategoryCode>
+          <CategoryCode>29.01.08</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Светлини на автомобили; Отражатели за автомобили; Автомобили (Противозаслепяващи устройства за -) [приспособления за фарове]; Лампи с нажежаема жичка за пътепоказатели за превозни средства; Лампи за пътепоказатели на моторни превозни средства; Фарове за автомобили; Лампи за регистрационни табели на автомобили; Комбиниран задни фарове за автомобили; Стоп фарове за автомобили; Резервни фарове за автомобили; Светлини против мъгла за превозни средства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Světla pro automobily; Reflektory na automobily; Prostředky proti oslnění pro automobily [příslušenství ke světlům]; Žárovky pro směrová světla vozidel; Lampy pro směrové signály (směrovky); Světlomety pro automobily; Světla na registrační značky automobilů; Zadní kombinované světlomety do automobilů; Brzdící světla pro automobily; Couvací světla pro automobily; Mlhové světlomety pro automobily.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Lygter til automobiler; Reflekser til automobiler; Blændfri anordninger til biler [lampearmaturer]; Pærer til blinklys til automobiler; Elektriske pærer til automobilers retningsblink; Forlygter til biler; Lygter til bilnummerplader; Kombinationsbaglygter til biler; Stoplygter til biler; Baklygter til biler; Tågelygter til automobiler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Leuchten für Kraftfahrzeuge; Reflektoren für Kraftfahrzeuge; Blendschutzvorrichtungen für Kraftfahrzeuge [Lampenzubehör]; Lampen für Fahrtrichtungsanzeiger von Kraftfahrzeugen; Lampen für Fahrtrichtungsanzeiger von Kraftfahrzeugen; Scheinwerfer für Kraftfahrzeuge; Lampen für Autokennzeichen; Heck-Kombileuchten für Kraftfahrzeuge; Bremsleuchten für Kraftfahrzeuge; Rückfahrscheinwerfer für Kraftfahrzeuge; Nebelscheinwerfer für Fahrzeuge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Οχημάτων φανάρια· Ανακλαστήρες για αυτοκίνητα· Αντιθαμβωτικοί μηχανισμοί για οχήματα [εξαρτήματα λαμπτήρων]· Λυχνίες ενδεικτικές κατεύθυνσης για αυτοκίνητα· Λαμπτήρες για σήματα διεύθυνσης [φλας] αυτοκινήτων· Προβολείς για αυτοκίνητα· Λαμπτήρες για πινακίδες κυκλοφορίας αυτοκινήτων· Οπίσθια πολλαπλά φώτα οχημάτων· Φώτα φρένων για αυτοκίνητα· Εφεδρικοί λαμπτήρες για αυτοκίνητα· Για λαμπτήρες για αυτοκίνητα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Automobile lights; Reflectors for automobiles; Anti-dazzle devices for automobiles [lamp fittings]; Lamps for directional signals of automobiles; Light bulbs for directional signals of automobiles; Headlights for automobiles; Lamps for Licenseplate of automobiles; Rear combination lamps for automobiles; Stop lamps for automobiles; Back up lamps for automobiles; Fog lamps for automobiles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Luces para automóviles; Reflectores para automóviles; Dispositivos antideslumbrantes para automóviles [accesorios para lámparas]; Bombillas para intermitentes de automóviles; Bombillas de indicadores de dirección para automóviles; Faros para automóviles; Luces de matrícula para automóviles; Luces traseras combinadas para automóviles; Luces de freno para automóviles; Luces de marcha atrás para automóviles; Lámparas anti-niebla para coches.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Autolaternad; Autode reflektorid; Autode pimestusvastased seadmed [lambitarindid]; Autode suunatulelambid; Suunatulelambid (autode); Autode esilaternad; Autode numbrimärgituled; Autode ühendtagatuled; Autode stopptuled; Autode tagurdamistuled; Autode udulambid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ajoneuvojen valaisimet; Heijastimet autoihin; Autojen häikäisynestolaitteet [lamppujen osina]; Hehkulamput ajoneuvojen suuntavilkkuihin; Autojen suuntavilkkujen valot; Ajovalaisimet autoihin; Autojen rekisterikilpien lamput; Autojen takavalojen lamppuyhdistelmät; Autojen pysähtymisvalot; Autojen peruutuslamput; Autojen sumuvalot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Feux pour automobiles; Réflecteurs pour automobiles; Dispositifs antiéblouissants pour automobiles [garnitures de lampes]; Ampoules d'indicateurs de direction pour automobiles; Ampoules d'indicateurs de direction pour automobiles; Phares pour automobiles; Lampes pour plaques d'immatriculation de véhicules automobiles; Feux arrière combinés pour véhicules automobiles; Feux de stop pour véhicules automobiles; Feux de recul pour véhicules automobiles; Feux antibrouillard pour voitures.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Svjetla za automobile; Reflektori za automobile; Protuzasljepljujuće naprave za automobile [dodatna oprema za svjetla]; Svjetla za pokazivanje smjera na vozilima; Žaruljice pokazivača smjera vožnje za vozila; Farovi za vozila; Žarulje za registarske tablice automobila; Stražnja kombinirana svjetla za automobile; Kočiona svjetla za automobile; Rezervne žarulje za automobile; Maglenke za automobile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Lámpák járművekhez; Prizmák gépkocsikhoz; Fénytompító szerkezetek járművekhez [lámpa szerelvények]; Irányjelző izzólámpák járművekhez; Irányjelző izzólámpák járművekhez; Fényszórók, reflektorok gépkocsikhoz; Lámpák gépjárművek rendszámához; Hátsó kombinált lámpa személygépkocsihoz; Autók féklámpái; Gépkocsik biztonsági lámpái; Ködlámpák járművekhez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Fanali per automobili; Riflettori per automobili; Dispositivi antiabbaglianti per automobili [guarnizioni per lampade]; Lampadine per indicatori di direzione per automobili; Lampadine per indicatori di direzione per automobili; Fari per automobili; Fanali per la targa d'immatricolazione di automobili; Combinazione di fanali posteriori per automobili; Fanali di arresto per automobili; Fanali posteriori per automobili; Fanali antinebbia per automobili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Automobilių žibintai; Automobilių atšvaitai; Automobilių įtaisai nuo akinimo [žibintų įtaisai]; Automobilių krypties signalizatorių lempos; Lempos (automobilių krypties signalizatorių --- ); Priekiniai automobilių žibintai; Automobilių valstybinių numerių lempos; Galinių automobilio žibintų komplektas; Automobilių stabdymo lempos; Automobilių atsarginės lempos; Priešrūkiniai automobilių žibintai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Transporta līdzekļu gaismas; Atstarotāji automobiļiem; Automobiļu pretapžilbšanas ierīces (lampu piederumi); Automobiļiem paredzētas pagrieziena signāllampas; Automobiļiem paredzētas pagrieziena signāllampas; Automašīnu priekšējie lukturi; Automašīnu numura zīmju apgaismojums; Aizmugures kombinētās gaismas automašīnām; Automašīnu bremžu lukturi; Automobiļu atpakaļgaitas lukturi; Miglas lukturi automašīnām.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Dwal għall-vetturi; Rifletturi għall-karozzi; Tagħmir kontra l-leħħa għal vetturi (tagħmir tal-lampi); Bozoz tad-dawl għal sinjali tad-direzzjoni għal vetturi; Lampi għall-indikaturi tad-direzzjoni tat-triq għall-vetturi kbar; Fanali ta' quddiem għall-użu fil-karozzi; Bozoz għall-pjanċi tal-liċenzja tal-karozzi; Taħlita flimkien ta' fanali ta' wara għal karozza; Bozoz tas-sinjali ta' waqfien għall-karozzi; Bozoz ta' avviż ta' riversjar minn karozzi; Dwal għal kontra ċ-ċpar għall-karozzi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Lichten voor automobielen; Reflectoren voor automobielen; Antiverblindingsinrichtingen voor automobielen [toebehoren voor lampen]; Lampjes voor richtingaanwijzers van automobielen; Lampjes voor richtingaanwijzers van automobielen; Koplampen voor automobielen; Lampen voor kentekenplaten van auto's; Achterlicht-unit voor motorvoertuigen; Remlichten voor automobielen; Achteruitrijlampen voor automobielen; Mistlampen voor auto's.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Światła do pojazdów; Reflektory do samochodów; Przeciwoślepieniowe urządzenia do samochodów [osprzęt do lamp]; Żarówki do kierunkowskazów w pojazdach; Lampy kierunkowskazów do samochodów; Reflektory samochodowe; Światła do tablic rejestracyjnych do samochodów; Kombinacje tylnych świateł do samochodów; Światła stopu do samochodów; Oświetlenie awaryjne do samochodów; Światła przeciwmgłowe do samochodów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Luzes para automóveis; Refletores para automóveis; Dispositivos antiencandeantes para automóveis [guarnições de lâmpadas]; Lâmpadas indicadoras de direção para automóveis; Lâmpadas indicadoras de direcção para automóveis; Faróis para automóveis; Luzes de chapa de matrícula para automóveis; Conjunto de faróis traseiros para automóveis; Luzes de travagem para automóveis; Luzes de marcha-atrás para automóveis; Faróis de nevoeiro para automóveis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aparate de iluminat pentru vehicule; Reflectoare pentru automobile; Antiorbire (dispozitive - pentru vehicule) [armături de lămpi]; Automobile (Becuri indicatoare de direcţie pentru -); Lămpi pentru semnalizarea direcţiei automobilelor; Automobile (Faruri pentru -); Becuri pentru plăcuțe de înmatriculare ale automobilelor; Becuri de marșarier combinate pentru automobile; Becuri de stop pentru automobile; Faruri de rezervă pentru automobile; Faruri de ceaţă pentru maşini.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Osvetľovacie zariadenia na dopravné prostriedky; Reflektory pre automobily; Zariadenia do automobilov proti oslneniu (súčasti svietidiel); Žiarovky do automobilových smeroviek; Žiarovky do smeroviek automobilov; Automobilové reflektory; Lampy pre držiaky evidenčných čísiel automobilov; Zadné kombinované svetlo na automobil; Brzdové svetlá pre automobily; Cúvacie svetlá pre automobily; Hmlové svetlá pre automobily.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Naprave za osvetlitev za vozila; Žarometi za avtomobile; Naprave proti bleščanju za avtomobile [oprema za luči]; Žarnice za smerne kazalce pri vozilih; Luči za smerne kazalce avtomobilov; Žarometi za avtomobile; Luči za registrske tablice avtomobilov; Zadnje kombinirane luči za avtomobile; Zavorne luči za avtomobile; Rezervne luči za avtomobile; Meglenke za avtomobile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Billyktor; Reflektorer för bilar; Bländskyddsanordningar för bilar [lamparmaturer]; Lampor för körriktningsvisare för bilar; Lampor för körriktningsvisare på bilar; Strålkastare för bilar; Lampor för registreringsskyltar för bilar; Kombinationsstrålkastare (bak) till bil; Stopplampor för bilar; Backningslampor för bilar; Dimlyktor för bilar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>12</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Пътепоказатели за високопроходими спортни превозни средства; Пътепоказатели за пътнически автомобили; Пътепоказатели за мотоциклети; Пътепоказатели за автомобили.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Směrové signály pro sportovní užitková vozidla; Směrové signály pro osobní auta; Směrové signály pro motocykly; Směrová světla do automobilů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Retningsvisere til SUV-køretøjer; Retningsvisere til passagerbiler; Retningsvisere til motorcykler; Vejskilte til biler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Fahrtrichtungsanzeiger für Geländesportwagen; Fahrtrichtungsanzeiger für Personenkraftwagen; Fahrtrichtungsanzeiger für Motorräder; Fahrtrichtungsanzeiger für Kraftfahrzeuge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Δείκτες αλλαγής πορείας (φλας) για σπορ οχήματα πολλαπλών χρήσεων (SUV)· Δείκτες αλλαγής πορείας (φλας) για επιβατηγά οχήματα· Δείκτες αλλαγής πορείας (φλας) για μοτοσυκλέτες· Σήματα διεύθυνσης [φλας] για αυτοκίνητα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Directional signals for sports utility vehicles; Directional signals for passengers cars; Directional signals for motorcycles; Directional signals for automobiles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Luces de cambio de dirección para vehículos utilitarios deportivos; Luces de cambio de dirección para coches; Indicadores de dirección para motocicletas; Indicadores de dirección para automóviles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Linnamaasturite suunatuled; Sõiduautode suunatuled; Mootorrataste suunatuled; Autode suunatuled.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Katumaastureiden suuntavalot; Henkilöautojen suuntavalot; Moottoripyörien suuntavalot; Autojen suuntasignaalit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Indicateurs de direction pour véhicules utilitaires sportifs [SUV]; Indicateurs de direction pour voitures de passagers; Indicateurs de direction pour motocyclettes; Signaux indicateurs de direction pour véhicules automobiles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pokazivači smjera za sportska rekreativna vozila; Pokazivači smjera za putničke automobile; Pokazivači smjera za motocikle; Pokazivački smjera za automobile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Irányjelzők sporthaszonjárművekhez; Irányjelzők személygépkocsikhoz; Irányjelzők motorkerékpárokhoz; Irányjelzők autókhoz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Segnali direzionali per veicoli utilitari sportivi; Segnali direzionali per autovetture; Segnali direzionali per motocicli; Indicatori di direzione per automobili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Krypties signalai, skirti naudingoms sportinėms transporto priemonėms; Keleivinių automobilių kryptiniai signalai; Motociklų kryptiniai signalai; Automobilių posūkio žibintai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Virziena signāli sporta transportlīdzekļiem; Virziena signāli vieglajām automašīnām; Virziena signāli motocikliem; Automobiļu pagrieziena signāllampas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Sinjali direzzjonali għal vetturi ta' utilità sportivi; Sinjali direzzjonali għall-karozzi tal-passiġġieri; Sinjali direzzjonali għall-muturi; Sinjali tad-direzzjoni għall-karozzi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Richtingaanwijzers voor SUV's; Richtingaanwijzers voor passagiersvoertuigen; Richtingaanwijzers voor motorrijwielen; Richtingaanwijzers voor auto´s.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kierunkowskazy do samochodów sportowo-użytkowych; Kierunkowskazy do samochodów osobowych; Kierunkowskazy do motocykli; Kierunkowskazy do samochodów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Sinais de direção para veículos utilitários de desporto; Sinais de direção para automóveis de passageiros; Sinais de direção para motociclos; Indicadores de direção para automóveis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Semnalizatoare de direcție pentru vehicule sport utilitare; Semnalizatoare de direcție pentru mașini de pasageri; Semnalizatoare de direcție pentru motociclete; Semnale de direcţie pentru automobile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Smerová signalizácie pre športové úžitkové vozidlá; Smerová signalizácia pre osobné vozidlá; Smerová signalizácia pre motocykle; Smerové signalizačné svietidlá pre automobily.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Smerniki za športna terenska vozila; Smerniki za potniške avtomobile; Smerniki za motorna kolesa; Smerni signali za avtomobile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Körriktningsvisare för sportnyttofordon; Körriktningsvisare för passagerarbilar; Körriktningsvisare för motorcyklar; Körriktningsvisare för bilar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/086</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-08</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/156</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-18</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079086</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10793</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

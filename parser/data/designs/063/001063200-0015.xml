@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:45</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063200-0015</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063200-0015</DesignIdentifier>
+<ApplicationNumber>001063200</ApplicationNumber>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-04-08</PublicationDate>
+<ApplicationReference>44721</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061755840</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0015/001063200_0015_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755841</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0015/001063200_0015_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755842</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0015/001063200_0015_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755843</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0015/001063200_0015_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755844</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0015/001063200_0015_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755845</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0015/001063200_0015_6.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Тостери</IndicationProduct>
+       <IndicationProduct languageCode="cs">Toastovače</IndicationProduct>
+       <IndicationProduct languageCode="da">Brødrister</IndicationProduct>
+       <IndicationProduct languageCode="de">Toaster</IndicationProduct>
+       <IndicationProduct languageCode="el">Φρυγανιέρες</IndicationProduct>
+       <IndicationProduct languageCode="en">Toasters</IndicationProduct>
+       <IndicationProduct languageCode="es">Tostadoras de pan</IndicationProduct>
+       <IndicationProduct languageCode="et">Leivaröstrid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Leivänpaahdin</IndicationProduct>
+       <IndicationProduct languageCode="fr">Toasteurs</IndicationProduct>
+       <IndicationProduct languageCode="hu">Kenyérpirítók</IndicationProduct>
+       <IndicationProduct languageCode="it">Tostapane</IndicationProduct>
+       <IndicationProduct languageCode="lt">Duonos skrudintuvai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Tosteri</IndicationProduct>
+       <IndicationProduct languageCode="mt">Towsters</IndicationProduct>
+       <IndicationProduct languageCode="nl">Broodrooster</IndicationProduct>
+       <IndicationProduct languageCode="pl">Toster</IndicationProduct>
+       <IndicationProduct languageCode="pt">Torradeiras</IndicationProduct>
+       <IndicationProduct languageCode="ro">Aparat de prăjit pâine</IndicationProduct>
+       <IndicationProduct languageCode="sk">Hriankovače</IndicationProduct>
+       <IndicationProduct languageCode="sl">Opekači kruha</IndicationProduct>
+       <IndicationProduct languageCode="sv">Brödrostar</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>07.02</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/066</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-04-08</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325759</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/029</PublicationIdentifier>
+        <PublicationSequenceNumber>929005</PublicationSequenceNumber>
+        <PublicationSection>B.9.2</PublicationSection>
+        <PublicationDate>2013-02-11</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>51414</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>62060</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006645133</RecordIdentifier>
+<BasicRecordKind>Appointment Replacement and Deletion of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>929005</PublicationSequenceNumber>
+           <PublicationSection>B.9.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-02-11</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

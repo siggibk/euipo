@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T09:10:12</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224443</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224443</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Vizzii</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Обезопасяващо, защитно и предпазно оборудване; Защитни костюми, Защитно облекло, Предпазни маски за защита от злополуки или наранявания, Предпазители за зъби, Защитни маски за лице, Защитни очила.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Bezpečnostní, zabezpečovací a ochranné vybavení; Ochranné obleky, Ochranné oblečení, Ochranné masky na ochranu proti úrazům a zraněním, Chrániče zubů, Obličejové štíty, Bezpečnostní brýle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Sikrings-, sikkerheds- og beskyttelsesudstyr; Beskyttelsesdragter, Beskyttelsesbeklædning, Beskyttelsesmasker til beskyttelse mod ulykker eller skader, Tandbeskyttere, Ansigtsbeskyttende visirer, Beskyttelsesbriller.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Sicherungs-, Sicherheits- und Schutzausrüstung; Schutzanzüge, Schutzkleidung, Schutzmasken zum Schutz vor Unfällen und Verletzungen, Mundschutz, Gesichtsschutz, Augenschutzbrillen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εξοπλισμός ασφάλισης, ασφαλείας και προστασίας· Προστατευτικές στολές, Προστατευτικά ενδύματα, Προστατευτικές μάσκες για προστασία από ατυχήματα και τραυματισμούς, Δοντιών (Προστατευτικά -), Προστατευτικές προσωπίδες, Προστατευτικά γυαλιά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Security, safety and protective equipment; Protective suits, Protective clothing, Protective masks for protection against accident or injury, Teeth protectors, Face-protection shields, Goggles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Dispositivos de protección, seguridad y salvamento; Trajes de protección, Ropa de protección, Máscaras de protección contra accidentes y lesiones, Protectores dentales, Protectores faciales, Gafas protectoras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ohutus -, turva - ja kaitsevarustus; Kaitseülikonnad, Kaitserõivad, Kaitsemaskid õnnetuste ja vigastuste eest kaitsmiseks, Hambakaitsmed, Näokatted, Ohutusprillid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Turva-, turvallisuus- ja suojavarusteet; Suojapuvut, Suojavaatteet, Tapaturmilta ja vammoilta suojaavat suojamaskit, Hammassuojat, Kasvosuojat, Turvasuojalasit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Dispositif de sûreté, sécurité et protection; Combinaisons de protection, Vêtements de protection, Masques de protection pour protéger contre des accidents et blessures, Protège-dents, Protections pour le visage, Lunettes de protection.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Oprema za osiguranje, sigurnosna i zaštitna oprema; Zaštitni kombinezoni, Zaštitna odjeća, Zaštitne maske za zaštitu od nezgoda i ozljeda, Štitnici za zube, Štitnici za lice, Zaštitne naočale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Lopásgátló, biztonsági és védőfelszerelések; Védőöltözékek, Védőruházat, Védőmaszkok balesetek és sérülések elleni védelem céljából, Fogvédők, Arcvédők, Védőszemüvegek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Attrezzature di salvaguardia, di sicurezza e di protezione; Tute protettive, Indumenti protettivi, Maschere protettive per la protezione contro gli incidenti e gli infortuni, Paradenti, Mascherine, Occhiali di protezione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Saugumo, saugos ir apsaugos įrenginiai; Apsaugos kombinezonai, Apsauginiai drabužiai, Apsauginės kaukės, skirtos saugoti nuo nelaimingų atsitikimų ir sužalojimų, Apsauginiai dantų įtaisai, Apsauginiai veido skydeliai,, Apsauginiai akiniai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Drošības aprīkojums; Aizsargkostīmi, Aizsargtērpi, Aizsargmaskas aizsardzībai pret nelaimes gadījumiem un ievainojumiem, Zobu aizsargi, Sejas aizsegi, Brilles acu aizsardzībai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħmir tas-sikurezza, sigurtà u protezzjoni; Ilbies protettiv, Ħwejjeġ protettivi, Maskri protettivi għall-protezzjoni minn inċidenti u korrimenti, Oġġetti li jipproteġu s-snien, Ilqugħ protettiv għall-wiċċ, Nuċċalijiet protettivi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Beveiligings-, veiligheids- en beschermende uitrusting; Beschermende pakken, Beschermende kleding, Veiligheidsmaskers ter bescherming tegen ongevallen of letsel, Gebitsbeschermers, Gezichtsbeschermers, Beschermende brillen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Sprzęt bezpieczeństwa, zabezpieczający i ochronny; Kombinezony ochronne, Odzież ochronna, Maski ochronne do ochrony przed wypadkami i urazami, Ochraniacze zębów, Osłony twarzy, Okulary ochronne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Equipamento de segurança, proteção; Fatos de protecção, Vestuário de proteção, Máscaras de proteção contra acidentes ou lesões, Protetores de dentes, Protecções para o rosto, Óculos de proteção.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Echipamente de securitate, de siguranță și de protecție; Costume de protectie, Îmbrăcăminte de protecţie, Măști de protecție pentru protecție împotriva accidentelor și vătămărilor, Dispozitive de protecţie pentru dinţi, Măşti, Ochelari de protecţie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zabezpečovacie, bezpečnostné a ochranné vybavenie; Ochranné kombinézy, Ochranné odevy, Ochranné masky na ochranu pred nehodami a zraneniami, Chrániče zubov, Ochranné štíty, Bezpečnostné okuliare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Varovalna, varnostna in zaščitna oprema; Varovalne obleke, Zaščitna oblačila, Zaščitne maske za zaščito pred nesrečami in poškodbami, Ščitniki za zobe, Obrazni zasloni, Zaščitni naočniki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Skydds-, säkerhets- och skyddsutrustning; Skyddsdräkter, Skyddskläder, Skyddsmasker för skydd mot olyckor och skador, Tandskydd, Ansiktsskydd, Skyddsglasögon.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Маски за лице за медицинска употреба за предпазване от предаване на заболявания чрез капкова инфекция, маски за лице за медицински персонал и пациенти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Obličejové masky pro lékařské účely k ochraně proti přenosu chorob kapénkovou infekcí, obličejové masky pro zdravotnický personál a pacienty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Ansigtsmasker til medicinske formål til beskyttelse mod transmission af sygdomme gennem dråbeinfektion, ansigtsmasker til medicinsk personale og patienter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Gesichtsmasken für medizinische Zwecke zum Schutz vor Krankheitsübertragung durch Tröpfcheninfektion, Gesichtsmasken für medizinisches Personal und Patienten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μάσκες προσώπου για ιατρική χρήση, για την προστασία από μετάδοση ασθενειών με σταγονίδια, μάσκες προσώπου για ιατρικό προσωπικό και ασθενείς.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Face masks for medical use for protection against disease transmission via infection by droplets, face masks for medical personnel and patients.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Mascarillas de uso médico para la protección contra el contagio de enfermedades que se propagan a través de gotículas, mascarillas para personal sanitario y pacientes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiinilised näomaskid, et kaitsta haigusi piiskade nakatumise eest, näomaskid meditsiinitöötajatele ja patsientidele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kasvomaskit lääketieteellisiin tarkoituksiin suojaamaan pisaratartuntojen aiheuttamilta taudeilta, kasvomaskit hoitohenkilökuntaa ja potilaita varten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Masques faciaux à usage médical pour protéger contre la transmission de maladies par infection de gouttelettes, masques faciaux pour personnel médical et patients.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Maske za lice za medicinske potrebe za zaštitu od prijenosa bolesti uzrokovanih kapljičnom infekcijom, maske za lice za medicinsko osoblje i pacijente.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Arcmaszkok orvosi célokra cseppfertőzés útján terjedő betegségek elleni védelmül, arcmaszkok orvosi személyzet és betegek számára.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Maschere per uso medico per la protezione dalla trasmissione di malattie a causa di infezioni tropicali, maschere per personale medico e pazienti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Veido kaukės medicinos reikmėms, skirtos saugoti nuo ligos plitimo oro lašeliniu būdu, veido kaukės, skirtos medicinos personalui ir pacientams.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Sejas maskas medicīniskai lietošanai, lai aizsargātu pret slimības pārnešanu ar pilienu infekciju, sejas maskas medicīnas personālam un pacientiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Maskri tal-wiċċ għal skopijiet mediċi għall-protezzjoni kontra t-trażmissjoni ta' mard permezz ta' infezzjoni fil-qtar, maskri tal-wiċċ għall-persunal mediku u pazjenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Gezichtsmaskers voor medisch gebruik ter bescherming tegen ziekteoverdracht door druppelbesmetting, gezichtsmaskers voor medisch personeel en patiënten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maski na twarz do celów medycznych do ochrony przez zarażeniem się chorobą drogą kropelkową, maski na twarz dla personelu medycznego i pacjentów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máscaras faciais para fins médicos para proteção contra a transmissão de doenças por infeção por gotículas, máscaras faciais para pessoal médico e pacientes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Măști de față de uz medical pentru protecție împotriva transmiterii bolilor prin infectare cu picături, măști de față pentru personal medical și pacienți.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Tvárové masky na lekárske účely na ochranu pred prenosom chorôb prostredníctvom kvapôčkovej infekcie, tvárové masky pre lekársky personál a pacientov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Obrazne maske za medicinske namene za zaščito pred prenosom bolezni s kapljično okužbo, obrazne maske za medicinsko osebje in paciente.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Ansiktsmasker för medicinska ändamål för skydd mot sjukdomssmitta genom droppinfektion, Ansiktsmasker för medicinsk personal och patienter.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Дрехи, шапки за глава; Всекидневно облекло, Работно облекло, Облекло за еднократна употреба.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Oděvy, kloboučnické zboží; Neformální oblečení, Pracovní oděvy, Jednorázové oblečení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Beklædningsgenstande, hovedbeklædning; Fritidstøj, Arbejdstøj, Engangstøj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bekleidungsstücke, Kopfbedeckungen; Freizeitkleidung, Arbeitskleidung, Einwegbekleidung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ενδύματα, είδη πιλοποιίας· Ενδύματα για καθημερινό ντύσιμο, Ενδύματα εργασίας, Ενδύματα μιας χρήσης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Clothing, headgear; Casualwear, Work clothes, Disposable apparel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Prendas de vestir, sombrerería; Ropa informal, Ropa de trabajo, Prendas de vestir desechables.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Rõivad, peakatted; Argiriietus, Tööriietus, Ühekordse kasutusega rõivad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vaatteet, päähineet; Vapaa-ajanvaatteet, Työvaatteet, Kertakäyttövaatteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vêtements, chapellerie; Vêtements décontractés, Vêtements à usage professionnel, Vêtements jetables.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Odjevni predmeti, pokrivala za glavu; Ležerna odjeća, Radna odjeća, Jednokratna odjeća.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ruhák, kalapáruk; Hétköznapi, utcai viselet, Munkaruházati cikkek, Egyszer használatos ruhadarabok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Articoli d'abbigliamento, cappelleria; Abbigliamento casual, Abbigliamento da lavoro, Indumenti monouso.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Apranga, galvos apdangalai; Kasdieniniai drabužiai, Darbo drabužiai, Vienkartiniai drabužiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apģērbi, galvassegas; Apģērbi, kas paredzēti valkāšanai ikdienā, Darba apģērbi, Vienreiz lietojamie apģērbi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ħwejjeġ, xedd ir-ras; Ilbies mhux formali, Artikli ta' ħwejjeġ tax-xogħol, Ħwejjeġ li jintremgħu wara li jintużgħu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kledingstukken, hoofddeksels; Vrijetijdskleding, Werkkleding, Wegwerpkleding.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odzież, nakrycia głowy; Ubrania codzienne, Odzież robocza, Odzież jednorazowa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vestuário, chapelaria; Vestuário informal, Vestuário de trabalho, Vestuário descartável.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Articole de imbracaminte, articole de acoperit capul; Ţinută stil casual, Uniforme de lucru, Îmbrăcăminte de unică folosinţă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Odevy, klobučnícky tovar; Vychádzkové oblečenie, Pracovné odevy, Jednorazové oblečenie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oblačila, pokrivala; Oblačila za vsak dan, Delovna oblačila, Oblačila za enkratno uporabo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kläder, huvudbonader; Vardagskläder, Arbetskläder, Engångskläder.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за търговия на едро и дребно във връзка с оборудване за сигурност, безопасност и защита, маски за лице за медицински цели за предпазване от предаване на болести чрез капкова инфекция, маски за лице за медицински персонал и пациенти, работно облекло.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Velkoobchodní a maloobchodní prodej zaměřený na bezpečnostní, zabezpečovací a ochranné vybavení, obličejové masky pro lékařské účely k ochraně proti přenosu chorob kapénkovou infekcí, obličejové masky pro zdravotnický personál a pacienty, pracovní oděvy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Engros- og detailhandel i forbindelse med sikrings-, sikkerheds- og beskyttelsesudstyr, ansigtsmasker til medicinske formål til beskyttelse mod transmission af sygdomme gennem dråbeinfektion, ansigtsmasker til medicinsk personale og patienter, arbejdsbeklædning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Groß- und Einzelhandelsdienstleistungen in Bezug auf Sicherungs-, Sicherheits- und Schutzausrüstung, Gesichtsmasken für medizinische Zwecke zum Schutz vor Krankheitsübertragung durch Tröpfcheninfektion, Gesichtsmasken für medizinisches Personal und Patienten, Arbeitskleidung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες χονδρικής και λιανικής πώλησης σε σχέση με εξοπλισμό ασφάλισης, ασφαλείας και προστασίας, μάσκες προσώπου για ιατρική χρήση, για την προστασία από μετάδοση ασθενειών με σταγονίδια, μάσκες προσώπου για ιατρικό προσωπικό και ασθενείς, ενδύματα εργασίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Wholesaling and retailing relating to security, safety and protective equipment, face masks for medical use for protection against disease transmission via infection by droplets, face masks for medical personnel and patients.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de venta mayorista y de venta minorista de dispositivos de protección, seguridad y salvamento, mascarillas de uso médico para la protección contra el contagio de enfermedades que se propagan a través de gotículas, mascarillas para personal sanitario y pacientes, ropa de trabajo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Hulgi- ja jaemüügiteenused seoses turva-, ohutus- ja kaitsevahenditega, meditsiinilised näomaskid, et kaitsta haigusi piisknakkuse kaudu, meditsiinitöötajate ja patsientide näomaskid, tööriided.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tukku- ja vähittäiskauppapalvelut, jotka koskevat seuraavia tavaroita: turva-, turvallisuus- ja suojavarusteet, kasvomaskit lääketieteellisiin tarkoituksiin suojaamaan pisaratartuntojen aiheuttamilta taudeilta, kasvomaskit hoitohenkilökuntaa ja potilaita varten, työvaatteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de vente en gros et au détail en relation avec des dispositifs de sûreté, sécurité et protection, masques faciaux à usage médical pour protéger contre la transmission de maladies par infection de gouttelettes, masques faciaux pour personnel médical et patients, vêtements de travail.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge veleprodaje i maloprodaje u vezi s opremom za osiguranje, sigurnosnom i zaštitnom opremom, maskama za lice za medicinske potrebe za zaštitu od prijenosa bolesti uzrokovanih kapljičnom infekcijom, maskama za lice za medicinsko osoblje i pacijente, radnom odjećom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Nagy- és kiskereskedelmi szolgáltatások lopásgátló, biztonsági és védőfelszerelések, arcmaszkok orvosi célokra cseppfertőzés útján terjedő betegségek elleni védelmül, arcmaszkok orvosi személyzet és betegek számára, munkaruhák vonatkozásában.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di vendita all'ingrosso e servizi di vendita al dettaglio in relazione ad attrezzature di salvaguardia, sicurezza e di protezione, maschere per uso medico per la protezione dalla trasmissione di malattie a causa di infezioni tropicali, maschere per personale medico e pazienti, indumenti da lavoro.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Didmeninės ir mažmeninės prekybos paslaugos, susijusios su saugumo, saugos ir apsaugos įrenginiais, veido kaukėmis medicinos reikmėms, skirtomis saugoti nuo ligos plitimo oro lašeliniu būdu, veido kaukėmis, skirtomis medicinos personalui ir pacientams.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Vairumtirdzniecības un mazumtirdzniecības pakalpojumi saistībā ar drošības, aizsardzības un aizsardzības līdzekļiem, sejas maskām medicīniskām vajadzībām aizsardzībai pret slimību pārnešanu ar pilienu infekciju, sejas maskām medicīnas personālam un pacientiem, kā arī darba apģērbu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Bejgħ bl-ingrossa u bl-imnut b'rabta ma' tagħmir tas-sikurezza, sigurtà u protezzjoni, maskri tal-wiċċ għal skopijiet mediċi għall-protezzjoni kontra t-trażmissjoni ta' mard permezz ta' infezzjoni fil-qtar, maskri tal-wiċċ għall-persunal mediku u pazjenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Groot- en detailhandelsdiensten met betrekking tot beveiligings-, veiligheids- en beschermende uitrusting, gezichtsmaskers voor medisch gebruik ter bescherming tegen ziekteoverdracht door druppelbesmetting, gezichtsmaskers voor medisch personeel en patiënten, werkkleding.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi handlu hurtowego i detalicznego w odniesieniu do towarów, takich jak sprzęt bezpieczeństwa, zabezpieczający i ochronny, maski na twarz do celów medycznych do ochrony przez zarażeniem się chorobą drogą kropelkową, maski na twarz dla personelu medycznego i pacjentów, odzież robocza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de comércio grossista e retalhista relacionado com equipamento de segurança, proteção, máscaras faciais para fins médicos para proteção contra a transmissão de doenças por infeção por gotículas, máscaras faciais para pessoal médico e pacientes, vestuário de trabalho.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de vânzare cu amănuntul și cu ridicata în legătură cu echipamente de securitate, de siguranță și de protecție, măști de față de uz medical pentru protecție împotriva transmiterii bolilor prin infectare cu picături, măști de față pentru personal medical și pacienți, îmbrăcăminte de lucru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Veľkoobchodné a maloobchodné služby, týkajúce sa zabezpečovacieho, bezpečnostného a ochranného vybavenia, tvárových masiek na lekárske účely na ochranu pred prenosom chorôb prostredníctvom kvapôčkovej infekcie, tvárových masiek pre lekársky personál a pacientov, pracovných odevov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Veleprodajne in maloprodajne storitve v zvezi z varovalno, varnostno in zaščitno opremo, obraznimi maskami za medicinske namene za zaščito pred prenosom bolezni s kapljično okužbo, obraznimi maskami za medicinsko osebje in paciente.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Gross- och detaljhandelstjänster avseende skydds-, säkerhets- och skyddsutrustning, Ansiktsmasker för medicinska ändamål för skydd mot sjukdomssmitta genom droppinfektion, Ansiktsmasker för medicinsk personal och patienter, arbetskläder.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079135</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>74589</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

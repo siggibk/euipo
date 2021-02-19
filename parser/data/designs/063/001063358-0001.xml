@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-11-05T11:31:23</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063358-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063358-0001</DesignIdentifier>
+<ApplicationNumber>001063358</ApplicationNumber>
+<ApplicationLanguageCode>fi</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-01-29</PublicationDate>
+<ApplicationReference>MASTERMARK</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2018-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2019-11-01</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061781812</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063358_0001/001063358_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061781813</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063358_0001/001063358_0001_2.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Рефлектори</IndicationProduct>
+       <IndicationProduct languageCode="cs">Reflektory</IndicationProduct>
+       <IndicationProduct languageCode="da">Reflektorer</IndicationProduct>
+       <IndicationProduct languageCode="de">Reflektoren</IndicationProduct>
+       <IndicationProduct languageCode="el">Ανακλαστήρες</IndicationProduct>
+       <IndicationProduct languageCode="en">Reflectors</IndicationProduct>
+       <IndicationProduct languageCode="es">Reflectores</IndicationProduct>
+       <IndicationProduct languageCode="et">Reflektorid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Heijastimet</IndicationProduct>
+       <IndicationProduct languageCode="fr">Réflecteurs</IndicationProduct>
+       <IndicationProduct languageCode="hu">Fényszórók</IndicationProduct>
+       <IndicationProduct languageCode="it">Riflettori</IndicationProduct>
+       <IndicationProduct languageCode="lt">Reflektoriai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Reflektori</IndicationProduct>
+       <IndicationProduct languageCode="mt">Rifletturi</IndicationProduct>
+       <IndicationProduct languageCode="nl">Reflectoren</IndicationProduct>
+       <IndicationProduct languageCode="pl">Reflektory</IndicationProduct>
+       <IndicationProduct languageCode="pt">Reflectores</IndicationProduct>
+       <IndicationProduct languageCode="ro">Reflectoare</IndicationProduct>
+       <IndicationProduct languageCode="sk">Reflektory</IndicationProduct>
+       <IndicationProduct languageCode="sl">Reflektorji</IndicationProduct>
+       <IndicationProduct languageCode="sv">Reflektorer</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>26.05</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/019</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-29</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/197</PublicationIdentifier>
+        <PublicationSequenceNumber>1060254</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2013-10-16</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2019/210</PublicationIdentifier>
+        <PublicationSequenceNumber>101481264</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2019-11-05</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>23860</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>25113</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006994887</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1060254</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-10-16</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:33</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226759</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226759</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>FiiMoo</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162316304</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226759/000162316304.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.22</CategoryCode>
+          <CategoryCode>27.99.06</CategoryCode>
+          <CategoryCode>27.99.09</CategoryCode>
+          <CategoryCode>27.99.13</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Филтри за компютърни екрани; Филтри против отблясъци за телевизионни приемници; Защитни тънкослойни покрития, пригодени за смартфони; Калъфи за смартфони; Калъфи за смартфони; Калъфи за таблети; Поставки за охлаждане на преносими компютри; Подложки за китки при работа с компютърни мишки; Печатарски шрифтове с възможност за изтегляне от интернет; Докинг станции за лаптопи; Поставки за видеокамери; Филтри против отблясъци за компютърни екрани; Телескопи; Джойстици за компютри, различни от тези за видеоигри; Стойки за фотографска апаратура; Очила за плуване; Предпазни очила за сняг; Водолазни очила; Очила за гмуркане; Поставки за микрофони.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Filtry na počítačové obrazovky; Antireflexní filtry na televizory; Ochranné fólie na chytré telefony; Pouzdra na chytré telefony (smartphony); Kryty na chytré telefony (smartphony); Pouzdra na tabletové počítače; Chladicí podložky pod notebooky; Opěrky zápěstí pro uživatele počítačových myší; Fonty ke stažení; Dokovací stanice pro laptopy; Stojany na videokamery; Antireflexní filtry na počítačové monitory; Teleskopy; Joysticky pro počítače, jiné než pro videohry; Stativy pro fotografické přístroje; Plavecké brýle; Lyžařské brýle; Potápěčské brýle; Brýle pro potápěče; Stojany na mikrofony.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Skærmfiltre til computerskærme; Antirefleks-skærmfiltre til fjernsyn; Beskyttelsesfilm tilpasset til smartphones; Etuier til smartphones; Covers til smartphones; Etuier til tablet-computere; Køleunderlag til notebook-computere; Håndledsstøtter til brugere af computermus; Skrifttyper, der kan downloades; Dockingstationer til bærbare computere; Stativer til videokameraer; Antirefleks-skærmfiltre til computerskærme; Teleskoper; Joysticks til brug med computere, andre end til videospil; Trebenede stativer til kameraer; Svømmebriller; Snebriller; Dykkerbriller; Dykkermasker; Mikrofonstativer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Filterschirme für Computerbildschirme; Antireflexfilter für Fernseher; Angepasste Schutzfolien für Smartphones; Schalen für Smartphones; Hüllen für Smartphones; Etuis für Tablet-Computer; Kühlkissen für Notebooks; Handgelenkauflagen für Computermausbenutzer; Herunterladbare Druckerschriften; Dockingstationen für Laptops; Videokamerastative; Antireflexfilter für Computermonitoren; Teleskope; Joysticks für Computer, ausgenommen für Videospiele; Stative für Kameras; Schwimmbrillen; Skibrillen; Taucherbrillen; Brillen für Gerätetaucher; Mikrofonständer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φίλτρα για οθόνες ηλεκτρονικών υπολογιστών· Αντιθαμβωτικά φίλτρα για τηλεοράσεις· Προστατευτικές μεμβράνες προσαρμοσμένες για έξυπνα τηλέφωνα· Θήκες για έξυπνα τηλέφωνα· Καλύμματα για έξυπνα τηλέφωνα· Θήκες για φορητούς ηλεκτρονικούς υπολογιστές· Βάση ψύξης για φορητούς ηλεκτρονικούς υπολογιστές· Στηρίγματα καρπού για χρήστες ποντικιού ηλεκτρονικών υπολογιστών· Τηλεφορτώσιμες γραμματοσειρές εκτύπωσης· Σταθμοί [βάσεις] υποδοχής φορητών ηλεκτρονικών υπολογιστών· Βάσεις στήριξης για μηχανές λήψης μαγνητοσκοπημένης εικόνας [βίντεο]· Αντιθαμβωτικά φίλτρα για οθόνες ηλεκτρονικών υπολογιστών· Τηλεσκόπια· Χειριστήρια τύπου μοχλού για ηλεκτρονικούς υπολογιστές, εκτός αυτών για χρήση με βιντεοπαιχνίδια· Τρίποδα φωτογραφικών μηχανών· Προστατευτικά γυαλιά κολύμβησης· Προστατευτικά γυαλιά για το χιόνι· Προστατευτικά γυαλιά για καταδύσεις· Προστατευτικά γυαλιά για αυτόνομες καταδύσεις με αναπνευστική συσκευή· Βάσεις μικροφώνου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Computer screen filters; anti-glare filters for televisions; protective films adapted for smartphones; cases for smartphones; covers for smartphones; protective cases for tablet computers; notebook computer cooling pads; wrist rests for computer mouse users; downloadable printing fonts; laptop docking stations; video camera stands; anti-glare filters for computer monitors; telescopes; joysticks for use with computers, other than for video games; tripods for cameras; swim goggles; ski goggles; diving goggles; scuba goggles; microphone stands.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Filtros para pantallas de ordenador; Filtros antirreflejo para televisores; Películas de protección para teléfonos inteligentes [smartphones]; Estuches para teléfonos inteligentes; Carcasas para teléfonos inteligentes; Estuches para ordenadores tipo tablilla; Bases de refrigeración para ordenadores portátiles; Apoyamuñecas para usuarios de ratón de ordenador; Fuentes de impresión descargables; Estaciones de acoplamiento para ordenadores portátiles; Soportes para videocámaras; Filtros antirreflejo para monitores de ordenador; Telescopios; Palancas de mando [joysticks] de ordenador, que no sean para videojuegos; Trípodes para cámaras fotográficas; Gafas de natación; Gafas especiales para la nieve; Gafas de buceo; Gafas de buceo autónomo; Soportes para micrófonos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Arvuti ekraanifiltrid; Telerite peegeldusvastased filtrid; Nutitelefonide kaitsekiled; Nutitelefonide ümbrised; Nutitelefonide katted; Tahvelarvutite vutlarid; Sülearvuti jahutusseadised; Randmetoed arvutihiire kasutajaile; Allalaaditavad trükifondid; Sülearvutite dokkimisalused; Videokaamerastatiivid; Arvutiekraanide peegeldusvastased filtrid; Teleskoobid; Arvutijuhtkangid, v.a videomängudele; Kaamerate kolmjalad, statiivid; Ujumisprillid; Suusatajate kaitseprillid; Sukeldumisprillid; Akvalangistiprillid; Mikrofonistatiivid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tietokonenäyttöjen suodattimet; Televisioiden häikäisynestosuodattimet; Älypuhelimille tarkoitetut suojakalvot; Älypuhelinten kuoret; Älypuhelinten suojukset; Taulutietokoneille tarkoitetut kotelot; Kannettavien tietokoneiden jäähdytysalustat; Rannetuet tietokonehiiren käyttäjille; Ladattavat painokirjasimet; Kannettavien tietokoneiden telakointiasemat; Kamerajalustat; Häikäisynsuodattimet tietokonenäyttöjä varten; Kaukoputket; Tietokoneiden kanssa käytettävät ohjainsauvat muuta kuin videopelejä varten; Kolmijalat kameroille; Uimalasit; Lumella käytettävät suojalasit; Sukelluslasit; Sukelluslasit laitesukellukseen; Mikrofonitelineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Filtres d'écrans d'ordinateurs; Filtres antireflets pour téléviseurs; Films de protection conçus pour ordiphones [smartphones]; Étuis pour smartphones; Coques pour smartphones; Etuis pour tablettes électroniques; Tapis de refroidissement pour ordinateurs portables; Repose-poignet pour utilisateurs de souris d'ordinateur; Polices d'impression téléchargeables; Stations d'accueil pour ordinateurs portables; Supports pour caméras vidéo; Filtres antireflets pour moniteurs d'ordinateurs; Télescopes; Leviers de commande à utiliser avec un ordinateur autres que pour jeux vidéo; Trépieds pour appareils photographiques; Lunettes de natation; Lunettes de neige; Lunettes de plongée; Lunettes de plongée autonome; Supports pour microphones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Filteri za računalne zaslone; Antirefleksivni filtri za televizore; Zaštitne folije prilagođene za pametne telefone; Etuiji za pametne telefone; Navlake za pametne telefone; Futrole za tablet računala; Podložak za hlađenje prijenosnih računala; Odmorišta za ručni zglob za korisnike računalnog miša; Fontovi za tisak koji se mogu preuzimati; Priključne stanice za prijenosna računala; Stalci za video kamere; Antirefleksivni filtri za zaslone računala; Teleskopi; Džojstik za uporabu s računalima, osim za videoigre; Foto tronošci; Naočale za plivanje; Naočale za snijeg; Naočale za ronioce; Naočale za ronjenje; Stalci za mikrofone.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Monitorszűrők számítógép képernyőkhöz; Tükröződéscsökkentő szűrők televíziókhoz; Védőfóliák okostelefonokhoz; Tokok okostelefonhoz; Tokok okostelefonokhoz; Tokok táblagépekhez; Hűtő alátétek notebookokhoz; Csuklótámaszok számítógépes egerek használatához; Letölthető betűtípusok; Dokkoló állomások laptopokhoz; Állványok videokamerákhoz; Tükröződéscsökkentő szűrők számítógép monitorokhoz; Teleszkópok; Botkormányok számítógépekhez, nem videojátékokhoz; Háromlábú állványok fényképezőgépekhez; Úszószemüvegek; Síszemüvegek; Búvárszemüvegek; Búvárszemüvegek; Mikrofonállványok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Filtri per schermi per computer; Filtri antiriflesso per televisori; Pellicola protettiva adattata per smartphone; Custodie per smartphones; Copertine per smartphone; Custodie per tablet; Basi di raffreddamento per computer portatili; Poggia-polsi per l'uso del mouse; Caratteri da stampa scaricabili; Docking station per computer portatili; Supporti per videocamere; Filtri antiriflesso per monitor di computer; Telescopi; Barre di comando da utilizzare con computer, non per video-giochi; Treppiedi per apparecchi fotografici; Occhialini per nuotatori; Occhiali da neve; Occhiali protettivi per immersioni; Occhialini per subacquei; Supporti per microfoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kompiuterių monitorių filtriniai ekranai; Televizorių filtrai nuo akinimo; Išmaniųjų telefonų ekranų apsauginės plėvelės; Išmaniųjų telefonų dėklai; Išmaniųjų telefonų dangteliai; Planšetinių kompiuterių dangteliai; Knyginių kompiuterių aušinamieji padėklai; Kompiuterio pelės naudotojų riešų atramos; Parsisiunčiami spausdinimo šriftai; Skreitinių kompiuterių prijungimo stotys; Vaizdo kamerų stovai; Kompiuterių monitorių filtrai nuo akinimo; Teleskopai; Kompiuterių vairasvirtės (ne vaizdo žaidimams); Filmavimo ir fotografavimo aparatų trikojai; Plaukiojimo akiniai; Apsauginiai akiniai nuo sniego; Apsauginiai narų akiniai; Apsauginiai nardymo akiniai; Mikrofonų stovai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Datoru ekrānu filtri; Pretapžilbināšanas filtri, kas paredzēti televizoriem; Aizsargplēves, kas īpaši paredzētas viedtālruņiem; Viedtālruņu maciņi; Viedtālruņu vāciņi; Planšetdatoru futrāļi; Piezīmjdatoru atdzesēšanas paliktņi; Plaukstas locītavu balsti datoru peļu lietotājiem; Lejupielādējami drukāšanas fonti; Dokstacijas klēpjdatoriem; Videokameras statīvi; Datoru monitoru filtri pret apžilbšanu; Teleskopi; Kursorsviras datoriem, izņemot videospēlēm paredzētās kursorsviras; Fotoaparātu, kinokameru un videokameru statīvi; Peldbrilles; Sniega aizsargbrilles; Niršanas brilles; Akvalangistu brilles; Mikrofonu statīvi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Skrins bħala filtri għall-iskrins tal-kompjuter; Filtri għal kontra d-dawl qawwi għat-televiżjonijiet; Films protettivi adattati għal smartfowns; Kaxxi għall-ismartphones; Kavers għal smartfowns; Kaxxetti għal kompjuters stil tablet; Peds għat-tkessiħ ta' kompjuter tat-tip nowtbuk; Tagħmir għas-serħan tal-polz għall-utenti tal-maws tal-kompjuters; Fonts tal-istampar li jistgħu jitniżżlu; Stazzjonijiet tad-dokk tal-kompjuter; Stends tal-vidjowkameras; Filtri għal kontra d-dawl qawwi għall-wiri moniters tal-kompjuter; Teleskopji; Ġojstikks għall-użu ma' kompjuters, għajr għall-vidjowgejms; Apparat għaż-żamma ta' apparat fotografiku; Nuċċalijiet għall-għawm; Nuċċalijiet għas-silġ; Nuċċalijiet tal-għaddasa; Nuċċalijiet tal-għaddasa; Stends għall-mikrofoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Filterschermen voor computerschermen; Antireflectiefilters voor televisies; Beschermende folie aangepast aan smartphones; Etuis voor smartphones; Hoezen voor smartphones; Hoezen voor tablets; Koelende elementen voor notepads; Polssteunen voor muisgebruikers; Downloadbare fonts; Dockingstations voor laptops; Videocamera standaard; Antireflectiefilters voor computerschermen; Telescopen; Joysticks voor gebruik met computers, anders dan voor videospellen; Driepoten voor fototoestellen; Zwembrillen; Sneeuwbrillen; Duikbrillen; Duikbrillen [scuba]; Microfoonstandaards.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Filtry do ekranów komputerowych; Filtry antyrefleksyjne do telewizorów; Folie ochronne dostosowane do smartfonów; Etui na smartfony; Pokrowce na smartfony; Etui do tabletów; Podkładki chłodzące do notebooków; Podpórki pod nadgarstki dla użytkowników myszy komputerowych; Czcionki drukarskie do pobrania; Stacje dokujące do laptopów; Stojaki do kamer wideo; Filtry antyrefleksyjne do monitorów komputerowych; Teleskopy; Dżojstiki do użytku z komputerami, inne niż do gier wideo; Statywy do aparatów fotograficznych; Gogle do pływania; Gogle zimowe; Gogle dla nurków; Okulary ochronne do nurkowania; Stojaki do mikrofonów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Filtros para ecrãs de computador; Filtros antirreflexo para televisores; Películas protetoras adaptadas para smartphones; Capas para smartphones; Coberturas para smartphones; Malas concebidas para computadores "tablet"; Bases de arrefecimento para computadores portáteis; Apoios para os pulsos para utilizadores de ratos de computador; Tipos de letra de impressão para download; Estações de acoplamento para computadores portáteis; Tripés para câmeras de vídeo; Filtros antirreflexo para monitores de computador; Telescópios; Joysticks para uso com computadores, sem ser para videojogos; Tripés para câmaras fotográficas; Máscaras para natação; Óculos para a neve; Óculos de mergulho; Óculos de proteção para mergulho autónomo; Suportes para microfones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Filtre pentru ecrane de calculator; Filtre anti-reflex pentru televizoare; Folii de protecție adaptate pentru telefoane inteligente; Carcase pentru telefoane inteligente; Huse pentru telefoane inteligente; Huse pentru calculatoare tabletă; Suporturi pentru răcirea laptopurilor; Dispozitive de sprijin pentru încheietura mâinii folosite de utilizatorii de mouse-uri de calculator; Fonturi descărcabile; Stații de andocare pentru laptop; Suporturi pentru camere video; Filtre anti-reflex pentru ecrane de calculator; Telescoape; Joystick-uri pentru calculatoare, nu pentru jocuri video; Trepiede pentru aparate fotografice; Ochelari de înot; Ochelari de protecție pentru zapadă; Ochelari pentru scufundare liberă; Ochelari pentru scafandri; Suporturi pentru microfoane.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Filtre pre počítačové obrazovky; Filtre pre televízory zabraňujúce odleskom; Ochranné fólie na smartfóny; Puzdrá na smartfóny; Kryty na smartfóny; Puzdrá na tabletové počítače; Podložky pod notebook s chladením; Opierky zápästia pre používateľov počítačových myší; Typy písmen s možnosťou prevzatia; Dokovacie stanice pre laptopy; Stojany pre videokamery; Filtre pre počítačové monitory zabraňujúce odleskom; Teleskopy; Ovládače k počítačom (džojstiky), nie na počítačové hry; Trojnožky na fotoaparáty; Plavecké okuliare; Lyžiarske okuliare; Okuliare pre potápačov; Potápačské okuliare; Stojany na mikrofóny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Filtri računalniških ekranov; Filtri proti bleščanju, za televizijske sprejemnike; Zaščitne folije, prilagojene za pametne telefone; Etuiji za pametne telefone; Ohišja za pametne telefone; Etuiji za tablične računalnike; Hladilne podloge za prenosne računalnike; Počivala za zapestje za uporabnike računalniških mišk; Naložljive tiskalniške pisave; Polnilno-priklopne postaje za prenosne računalnike; Stojala za video kamere; Filtri proti bleščanju, za računalniške zaslone; Teleskopi; Kontrolne ročice za uporabo z računalniki razen za video igre; Stojala za fotografske aparate; Plavalna očala; Smučarska očala; Potapljaška očala; Očala za športno potapljanje; Stojala za mikrofone.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Filterskärmar för datorskärmar; Bländningsfilter till tv-apparater; Skyddsfilm för smartphones; Skal för smartphones; Fodral för smartphones; Fodral för surfplattor; Kylningsdynor till portabla datorer; Handledsstöd för datormusanvändare; Nedladdningsbara tryckfonter; Dockningsstationer för bärbara datorer; Stativ till videokameror; Bländningsfilter till datorbildskärmar; Teleskop; Joysticks för användning med datorer, inte för videospel; Trebenta stativ för kameror; Simglasögon; Snöglasögon; Glasögon för dykare; Dykarglasögon; Mikrofonstativ.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080417</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>85806</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

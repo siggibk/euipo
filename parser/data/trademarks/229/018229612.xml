@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-14T12:28:16</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229612</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229612</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Duo Touch</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Легла, дюшеци, матраци, възглавници и декоративни възглавници; Възглавници; Възглавници за подпиране на врат; Възглавнички за подпиране на врат; Намотки за врата, различни от тези за медицинска или хирургическа употреба; Подматрачни рамки за легла; Подложки за матраци.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Postele a lůžka, lůžkoviny, matrace, polštáře a podušky; Polštáře (na spaní); Krční polštáře (nikoliv pro zdravotnické nebo chirurgické účely); Podušky podpírající krk, nikoliv pro léčebné nebo chirurgické účely; Krční válečky (jiné než pro zdravotnické nebo chirurgické použití); Postelové rošty; Podložky na matrace.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Senge, sengeudstyr, madrasser, puder og hynder; Hovedpuder; Nakkestøttepuder; Nakkehynder; Nakkepuder, dog ikke til medicinske eller kirurgiske formål; Lamelbunde til senge; Topmadrasser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Betten, Bettzeug, Matratzen, Kissen und Polster; Kopfkissen; Nackenstützkissen; Nackenstützpolster; Nackenrollen (ausgenommen für medizinische oder chirurgische Zwecke); Lattenroste für Betten; Matratzenauflagen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κρεβάτια, υποστρώματα, στρώματα, διακοσμητικά μαξιλάρια και προσκέφαλα· Μαξιλάρια ύπνου· Μαξιλάρια με διατάξεις υποστήριξης αυχένα· Μαξιλάρια αυχένα μη προοριζόμενα για ιατρική ή χειρουργική χρήση· Κύλινδροι αυχένα όχι για ιατρική ή χειρουργική χρήση· Βάσεις κρεβατιών με τάβλες· Επιστρώματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Beds, bedding, mattresses, pillows and cushions; Pillows; Neck-supporting pillows; Neck support cushions; Neckrolls other than for medical or surgical use; Slatted bases for beds; Mattress toppers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Camas, colchones, almohadas y cojines; Almohadas; Almohadas cervicales; Cojines cervicales; Rodillos de cuello [que no sean médicos o fines quirúrgicos]; Somieres de listones; Protectores de colchones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Voodid, vooditarbed, madratsid ja padjad; Padjad; Kaela toetavad padjad; Kaelatoed [padjad]; Kaelarullid, v.a meditsiinilised või kirurgilised; Liistudest voodipõhjad; Kattemadratsid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sängyt, sänkytarvikkeet, patjat, tyynyt ja pielukset; Tyynyt; Niskaa tukevat tyynyt; Niskatukityynyt; Niskatukityynyt muuhun kuin lääketieteelliseen tai kirurgiseen käyttöön; Vuoteiden pohjasäleiköt; Sijauspatjat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Lits, literie, matelas, oreillers et coussins; Oreillers; Oreillers de confort cervical; Coussins de confort cervical; Coussins sous forme de rouleaux pour la nuque autres qu'à usage médical ou chirurgical; Sommiers à lattes pour lits; Surmatelas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kreveti, posteljina, madraci i jastuci; Uzglavlja; Jastuci za vrat; Jastučići za vrat; Podupirni jastučići za vrat osim za medicinsku ili kiruršku uporabu; Rešetkaste baze za krevete; Nadmadraci.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ágyak, ágyneműk, matracok, párnák, díszpárnák; Párnák, fejpárnák; Nyakpárnák [nem gyógyászati vagy sebészeti használatra]; Nyakpárnák [nem gyógyászati vagy sebészeti használatra]; Nyakpárnák [kivéve orvosi vagy sebészeti használatra]; Ágyrácsok; Matracvédők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Letti, materassi, guanciali e cuscini; Guanciali; Guanciali di supporto per il collo; Cuscini di supporto per il collo; Cuscini collari non per uso medico o chirurgico; Reti a doghe per letti; Coprimaterasso.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Lovos, patalynė (išskyrus skalbinius), čiužiniai, pagalvės ir pagalvėlės; Pagalvės; Kaklo pagalvėlės [ne medicininės ar chirurginės]; Atraminės kaklo pagalvėlės; Pagalvė-volelis [ne medicinos ar chirurgijos reikmėms]; Groteliniai lovų pagrindai; Čiužinių užtiesimai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Gultas, gultas piederumi, matrači un spilveni; Spilveni; Kakla atbalsta spilveni; Polsteri kakla atbalstam; Kakla atbalsta ruļļi, kas nav paredzēta medicīniskiem vai ķirurģiskiem nolūkiem; Gultu pamatnes ar gultu līstēm; Virsmatrači.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Sodod, friex, saqqijiet, imħaded u kuxxini; Mħaded; Mħaded li jappoġġjaw l-għonq; Kuxxini għal appoġġ tal-għonq; Kuxxini ta' madwar l-għonq minbarra dawk għall-użu mediku jew kirurġiku; Bażijiet tas-sodda magħmula minn strixxi; Tagħmir għall-għata ta' saqqijiet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bedden, beddengoed, matrassen, hoofdkussens en kussens; Hoofdkussens; Nekondersteunende kussens; Neksteunkussens; Nekrollen, anders dan voor medisch of chirurgisch gebruik; Lattenbodems; Matrastoppers [dekmatrassen].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Łóżka, pościel, materace, poduszki; Wezgłowia; Poduszki wspierające szyję; Poduszki pod kark; Wałki pod kark, inne niż do użytku medycznego lub chirurgicznego; Listwowe podstawy łóżek (stelaże); Nakładki wierzchnie na materace.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Camas, estruturas de cama, colchões, travesseiros e almofadas; Almofadas de cama; Travesseiros para apoio do pescoço; Almofadas para apoio do pescoço; Almofada de viagem para o pescoço, sem ser para uso médico ou cirúrgico; Estrados de ripas para camas; Capas para colchões.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Paturi, aşternuturi, saltele şi perne; Perne; Perne cervicale; Perne de susţinere a gâtului; Perne pentru gât [altele decât cele pentru uz medical sau chirurgical]; Somiere pentru paturi; Huse matlasate de saltele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Postele, lôžkoviny, madrace, vankúše a podušky; Vankúše; Vankúše na oporu krku; Oporné podušky na krk; Opory krku (nie na lekárske alebo chirurgické účely); Lamelové rošty do postelí; Podložky na ochranu matracu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Postelje, ležišča, vzmetnice, blazine in vzglavniki; Vzglavne blazine; Vzglavniki za podporo vratu; Blazine za podporo vratu; Blazine za oporo vratu, ne za medicinsko ali kirurško uporabo; Rebrasti posteljni pod; Nadvložki za vzmetnice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Sängar, bäddar, madrasser, kuddar och dynor; Kuddar; Kuddar för användning som nackstöd; Dynor för användning som nackstöd; Halskuddar, inte för medicinska eller kirurgiska ändamål; Spjälbottnar för sängar; Bäddmadrasser.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/104</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>8507</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>12611</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003129773</OppositionIdentifier>
+<OppositionDate>2020-08-28</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>000544858</ApplicationNumber>
+<ApplicationDate>1997-05-19</ApplicationDate>
+<RegistrationNumber>000544858</RegistrationNumber>
+<RegistrationDate>2000-08-16</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>DUO</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>684420</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10591</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

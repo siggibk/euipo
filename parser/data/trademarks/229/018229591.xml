@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-15T09:20:01</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229591</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229591</ApplicationNumber>
+<ApplicationDate>2020-04-26</ApplicationDate>
+<RegistrationDate>2020-09-11</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-26</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>YUDOXN</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Санитарни прибори; Щифтове за изкуствени зъби; Оборудване за физиотерапия; Слухови апарати; Ръкавици за медицински цели; Биберони за храна; Секс играчки; Гърди (Изкуствени -); Колани за ортопедични цели; Патерици.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pomůcky na kojení; Čepy pro umělé zuby; Fyzioterapeutické přístroje; Naslouchátka; Rukavice pro lékařské účely; Krmící síťky pro batolata; Erotické hračky; Umělá poprsí; Ortopedické pásy; Berle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Redskaber til brug ved amning; Stifter til kunstige tænder; Udstyr til fysisk terapi; Hjælpemidler for hørelsen; Handsker til medicinske formål; Spisenet med håndtag; Sexlegetøj; Brystproteser; Ortopædiske bælter; Krykker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Apparate zum Säugen; Zahnstifte; Geräte für physikalische Therapie; Hörgeräte; Handschuhe für medizinische Zwecke; Schnuller zum Füttern von Säuglingen; Sexspielzeug; Brustprothesen; Gürtel, orthopädische; Krücken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Θηλασμού (Συσκευές -)· Οδοντικές σφήνες· Εξοπλισμός φυσικοθεραπείας· Βοηθήματα ακοής· Γάντια ιατρικής χρήσης· Πιπίλες για το τάισμα των βρεφών· Σεξουαλικά παιχνίδια· Τεχνητές προσθήκες στήθους· Ζώνες για ορθοπαιδική χρήση· Δεκανίκια αναπήρων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">nursing appliances; pins for artificial teeth; physiotherapy apparatus; hearing aids; gloves for medical purposes; baby feeding dummies; sex toys; artificial breasts; orthopaedic belts; crutches.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aparatos para la lactancia; Pins para dientes artificiales; Equipos de terapia física; Audífonos de corrección auditiva; Guantes para uso médico; Chupetes alimentadores para bebés; Juguetes sexuales; Prótesis mamarias; Correas con una finalidad ortopédica; Muletas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Põetusvahendid; Kunsthambatihvtid; Füsioteraapiaseadmed; Kuuldeaparaadid; Meditsiinilised kindad; Imikute toidulutid; Sekslelud; Rinnaproteesid; Ortopeedilised vööd; Kargud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Imetyslaitteet; Tekohampaiden kiinnikkeet; Fysioterapiassa käytettävät välineet; Kuulolaitteet; Käsineet lääketieteelliseen käyttöön; Vauvojen tuttipullojen tuttiosat; Seksilelut; Tekorinnat; Vyöt ortopedisiin tarkoituksiin; Kainalosauvat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Appareils pour l'allaitement; Pivots dentaires; Équipement de thérapie physique; Appareils auditifs; Gants à usage médical; Tétines d'alimentation pour bébés; Jouets sexuels; Seins artificiels; Sangles à usage orthopédique; Béquilles pour infirmes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Naprave za dojenje; Zubne nadogradnje; Oprema za fizikalnu terapiju; Slušna pomagala; Rukavice za medicinsku uporabu; Dude za hranjenje dojenčadi; Seksualne igračke; Umjetne dojke; Remeni za ortopedske svrhe; Štake.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szoptatáshoz használt készülékek; Csapok műfogakhoz; Fizikoterápiás készülékek; Hallókészülékek; Kesztyűk gyógyászati használatra; Babaetető cumik; Szexuális játékszerek; Műmellek; Övek ortopédiai célokra; Mankók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Apparecchi per l'allattamento; Perni dentari; Attrezzatura per terapie fisiche; Sussidi per l'udito; Guanti per uso medico; Ciucciotti per l'alimentazione dei bebé; Giocattoli del sesso [sex toys]; Seni artificiali; Cinghie per uso ortopedico; Stampelle per invalidi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Slaugymo reikmenys; Dirbtinių dantų kaiščiai; Fizioterapijos įranga; Klausos aparatai; Pirštinės (medicinos reikmėms); Kūdikių maitinimo žindukai; Sekso žaislai; Krūtų protezai; Ortopediniai diržai; Ramentai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Zīdīšanas ierīces; Mākslīgo zobu tapas; Fizikālās terapijas iekārtas; Dzirdes aparāti; Cimdi medicīniskiem nolūkiem; Knupji mazuļu barošanai; Seksa rotaļlietas; Krūts protēzes; Ortopēdiskās jostas; Kruķi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħmir tat-treddigħ; Labar għal snien artifiċjali; Tagħmir għat-terapija fiżika; Mezzi għall-għajnuna fis-smigħ; Ingwanti għal skopijiet mediċi; Gażażi għat-tmigħ tat-trabi; Ġugarelli tas-sess; Sider artifiċjali; Ċinturini għal skopijiet ortopediċi; Krozzi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Apparaten voor het zogen; Tandstiften; Apparaten voor lichamelijke behandeling; Hoorapparaten; Handschoenen voor medisch gebruik; Voedingsspenen voor baby's; Seksspeeltjes; Borstprothesen; Riemen voor orthopedische doeleinden; Krukken voor invaliden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia do karmienia piersią; Sztyfty dentystyczne do sztucznych zębów; Urządzenia i przyrządy do fizjoterapii; Aparaty słuchowe; Rękawice do celów medycznych; Smoczki do karmienia niemowląt; Zabawki erotyczne; Sztuczne piersi; Pasy do celów ortopedycznych; Kule inwalidzkie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aparelhos para aleitação; Pivots dentários; Equipamento de fisioterapia; Auxiliares auditivos; Luvas para uso médico; Tetinas para biberons; Brinquedos sexuais; Seios artificiais; Cintas para fins ortopédicos; Muletas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aparate pentru alăptat; Pivoţi dentari; Echipament pentru exerciţii fizice; Dispozitive auditive; Mănuşi de uz medical; Tetine pentru hrănirea sugarilor; Jucării erotice; Proteze mamare; Centuri pentru uz ortopedic; Cârje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Pomôcky pri dojčení; Čapy na umelé zuby; Fyzioterapeutické zariadenia; Načúvacie pomôcky; Rukavice na lekárske použitie; Cumlíky na kŕmenie bábätiek; Erotické pomôcky; Umelé prsníky; Ortopedické pásy; Barly.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Aparati za dojenje; Nosilci za umetne zobe; Naprave za fizikalno terapijo; Slušni pripomočki; Rokavice za medicinske namene; Dude za hranjenje dojenčkov; Spolni pripomočki; Umetne dojke; Pasovi za ortopedske namene; Bergle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Amningsapparater; Stift för konstgjorda tänder; Utrustning för fysioterapi; Hörselhjälpmedel; Handskar för medicinska ändamål; Smakportionsnappar för småbarn; Sexleksaker; Bröstproteser; Bälten för ortopediska ändamål; Kryckor.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>16</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Книжки; Пломбиращи уреди за офиси; Папки за книжа; Изделия за изтриване [гуми]; Мастилници; Тампони за печати; Пособия за писане; Залепваща се тъкан за канцеларски цели; Линии за чертежи; Архитектурни макети.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Brožury; Zatavovací kancelářské stroje; Desky na dokumenty; Výrobky sloužící k mazání; Inkoustové kameny [zásobníky inkoustu užívané v čínském umění, kde je smíchán suchý inkoust s vodou]; Polštářky pro razítka; Psací potřeby; Pogumované látky pro kancelářské účely; Rýsovací pravítka; Architektonické modely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Pjecer [tryksager]; Forseglingsmaskiner til kontorbrug; Charteques [dokumentomslag]; Radervand; Blækhuse; Stempelpuder; Skriveredskaber; Gummieret lærred til kontorbrug; Tegnelinealer; Arkitekturmodeller.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Broschüren; Siegelmaschinen für Bürozwecke; Aktenhüllen; Radierartikel; Tintenfässer; Stempelkissen für Siegel; Schreibbedarf; Gummitücher [Schreibbedarf]; Lineale für technisches Zeichnen; Architekturmodelle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φυλλάδια· Σφράγισης (Μηχανές -) γραφείου· Καλύμματα εγγράφων· Γόμες· Μελανοδοχεία· Μελανωτήρες σφραγίδων· Γραφή (όργανα -ής)· Αυτοκόλλητες (Μεμβράνες -) χαρτοπωλείου· Χάρακες σχεδίου· Μοντέλα αρχιτεκτονικής.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">pamphlets; sealing machines for offices; jackets for papers; erasing products; inkwells; stamp pads; writing instruments; gummed cloth for stationery purposes; drawing rulers; architects' models.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Folletos; Máquinas de sellado para oficinas; Fundas para documentos; Productos para borrar; Tinteros; Almohadillas para sellos; Instrumentos de escritura; Telas engomadas de papelería; Reglas de dibujo; Maquetas de arquitectura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Pisitrükised, brošüürid; Pitseerimismasinad, pitseermasinad [kantseleitarbed]; Paberitaskud; Radeerimisvahendid, radeervahendid; Tindipotid; Templipadjad; Kirjutusvahendid; Kummeeritud riie [kantseleitarve]; Joonlauad; Arhitektuursed maketid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kirjaset; Sinetöintilaitteet toimistotarkoituksiin; Asiakirjakuoret; Radeeraustuotteet; Mustepullot; Leimatyynyt; Kirjoitusvälineet; Liimakangas toimistotarkoituksiin; Luonnosviivaimet; Arkkitehtoniset pienoismallit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Brochures; Machines à cacheter de bureau; Chemises pour documents; Produits pour effacer; Encriers; Tampons pour sceaux; Instruments d'écriture; Toiles gommées destinées à la papeterie; Règles à dessin; Modèles architecturaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Brošure; Uredski strojevi za pečaćenje; Košuljice za spise; Proizvodi za brisanje; Posude za tintu; Jastučići za pečate; Oprema za pisanje; Gumirano planto za papirnate proizvode; Ravnala za nacrte; Građevinske makete.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Könyvecskék, brosúrák; Irodai bélyegzőgépek; Iratgyűjtők, dossziék; Törlésre szolgáló termékek; Tinta- és tolltartó állványok; Bélyegzőpárnák, festékpárnák; Íróeszközök; Öntapadós textil [írószer és papíráru]; Vonalzók műszaki rajzokhoz; Építészeti makettek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Opuscoli; Macchine per sigillare da ufficio; Cartelle per documenti; Prodotti per cancellare; Calamai; Tamponi per sigilli; Strumenti per scrivere; Tele gommate per la cartoleria; Righello da disegno; Bozzetti di architettura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Brošiūros; Antspaudavimo mašinos (raštinės reikmėms); Popieriaus segtuvai; Trintukai; Rašalinės [įtaisai]; Rašalinės pagalvėlės; Rašikliai; Gumuotas audinys (raštinės reikmėms); Braižymo liniuotės; Architektūriniai maketai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Pamfleti; Zīmogošanas mašīnas birojiem; Apvāki papīram; Dzēšamrīki; Tintnīcas; Zīmogu spilventiņi; Rakstāmpiederumi; Gumijoti audumi kancelejas nolūkiem; Lineāli (rasēšanai); Maketi (arhitektūras).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kotba żgħar; Magni li jissiġillaw għal uffiċċji; Tagħmir għat-tiwi tal-karti; Prodotti li jħassru; Kontenituri għal-linka; Kuxxinetti tal-linka; Strumenti għall-kitba; Tejp taċ-ċelluloża jew plastik għal skopijiet ta' kartoleriji; Rigi wżati għat-tpinġija; Mudelli tal-arkitettura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Brochures; Zegelmachines voor kantoorgebruik; Documentenmappen; Radeermiddelen; Inktpotten; Zegelstempels; Schrijfinstrumenten; Gegomd doek voor kantoorgebruik; (Teken) Linialen; Maquettes [bouwkundige schaalmodellen].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Broszury; Biurowe maszyny do stemplowania; Skoroszyty na dokumenty; Wyroby przeznaczone do wymazywania; Kałamarze; Poduszki do stempli, pieczęci; Przyrządy do pisania; Tkanina klejąca do materiałów piśmiennych; Linijki rysownicze [kreślarskie]; Makiety architektoniczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Panfletos [brochuras]; Máquinas de selar para escritórios; Capas para papéis; Produtos para apagar; Tinteiros; Almofadas para carimbos; Instrumentos de escrita; Telas gomadas para papelaria; Réguas para desenhar; Maquetes arquitetónicas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Broşuri; Sigilat (maşini de - de birou); Mape pentru documente; Ştergere (Produse pentru -); Călimări; Tuşiere; Instrumente de scris; Pânze gumate pentru papetărie; Rigle pentru desen tehnic; Machete arhitecturale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Brožúry; Kancelárske pečatné stroje; Obaly na doklady; Pomôcky na vymazávanie; Kalamáre; Napustené pečiatkovacie podušky; Písacie nástroje; Pogumované plátno pre papiernictvo; Pravítka (Rysovacie -); Architektonické modely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Knjižice; Pečatni stroji za pisarne; Mape za papirje; Izdelki za radiranje; Črnilniki; Blazinice za štampiljke; Pisalni pripomočki; Gumirane krpe za pisarniške namene; Ravnila za skiciranje; Arhitekturne makete.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Häften; Förseglingsmaskiner för kontor; Aktomslag; Raderprodukter; Bläckhorn; Stämpeldynor; Skrivredskap; Gummerad väv för kontorsändamål; Skisslinjaler; Arkitektmodeller.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>28</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Игри; Игри (Апарати за -); Играчки; Къщи за кукли; Дистанционно управлявани играчки колички; Макети играчки; Дронове [играчки]; Мишени; Наколенки [спортни артикули]; Украшения за коледни елхи [с изключение на предмети за илюминации и сладкарски изделия].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Hry; Zařízení na hry; Hračky; Domečky pro panenky; Autíčka na dálkové ovládání [hračky]; Modely [hračky]; Drony [hračky]; Terče; Kolení chrániče [sportovní potřeby]; Ozdoby na vánoční stromeček, s výjimkou osvětlení a cukrovinek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Spil; Apparater til spil; Legetøj; Dukkestuer; Fjernstyrede legetøjskøretøjer; Legetøjsmodeller; Droner [legetøj]; Skydeskiver; Knæbeskyttere til atletik; Juletræspynt, undtagen lysartikler og konfekturevarer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Spiele; Geräte für Spiele; Spielzeug; Puppenstuben; Ferngesteuerte Fahrzeuge [Spielzeuge]; Spielzeugmodelle; Drohnen [Spielwaren]; Schießscheiben; Knieschützer [Sportartikel]; Christbaumschmuck [ausgenommen Beleuchtungsgeräte und Zuckerwaren].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παιχνίδια/Αθύρματα· Συσκευές για παιχνίδια· Ατομικά παιχνίδια· Κουκλόσπιτα· Τηλεκατευθυνόμενα οχήματα παιχνίδια· Μοντέλα παιχνιδιών· Τηλεκατευθυνόμενα αεροσκάφη [είδη παιχνιδιών]· Στόχοι σκοποβολής· Επιγονατίδες για αθλητική χρήση· Διακοσμητικά χριστουγεννιάτικων δέντρων, με εξαίρεση τα είδη φωτισμού και τα είδη ζαχαροπλαστικής.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">games; apparatus for games; toys; dolls' rooms; remote-controlled toy vehicles; toy models; drones [toys]; targets; knee guards [sports articles]; ornaments for Christmas trees, except illumination articles and confectionery.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Juegos; Aparatos para juegos; Juguetes; Cuartos de muñecas; Vehículos de control remoto; Modelos [juguetes]; Drones [toys]; Dianas; Rodilleras [artículos de deporte]; Adornos para árboles de Navidad, excepto artículos de iluminación y golosinas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mängud; Mänguseadmed; Mänguasjad; Nukutoad; Kaugjuhtimisega mängusõidukid; Mudelmänguasjad; Mängudroonid; Märklauad; Põlvekaitsmed sportimisel kasutamiseks; Jõulupuuehted, v.a valgustusvahendid ja maiustused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lelut; Pelilaitteet; Lelut; Nukketalot; Radio-ohjattavat leikkiajoneuvot; Lelumallit; Radio-ohjattavat lentokoneet [lelut]; Maalitaulut; Polvisuojukset [urheiluun]; Joulukuusenkoristeet [paitsi valaisimet ja makeiset].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Jeux; Appareils pour jeux; Jouets; Chambres de poupées; Véhicules télécommandés [jouets]; Maquettes [jouets]; Drones [jouets]; Cibles; Protège-genoux [articles de sport]; Décorations pour arbres de Noël excepté les articles d'éclairage et les sucreries.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Igračke; Aparati za igre; Igračke; Kućice za lutke; Vozila na daljinsko upravljanje [igračke]; Makete za igru; Bespilotne letjelice [igračke]; Mete za gađanje [ciljevi]; Sportski štitnici za koljena; Ukrasi za božićna drvca [osim rasvjetnih tijela i slastica].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Játékok; Berendezések játékokhoz; Játékszerek; Babaházak; Távvezérlésű játékjárművek; Játékmodellek; Drónok [játékszerek]; Céltáblák; Térdvédők [sportcikkek]; Karácsonyfadíszek, a világítási cikkek és édességek kivételével.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Giochi; Apparecchi per giochi; Giocattoli; Camere per bambole; Veicoli giocattolo telecomandati; Modellini ovvero giocattoli; Droni [giocattoli]; Bersagli; Paraginocchia [articoli sportivi]; Decorazioni per alberi di natale eccetto gli articoli per illuminazione e di dolciumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Žaislai; Žaidimų aparatai; Žaislai; Lėlių namai; Nuotolinio valdymo žaislinės transporto priemonės; Žaisliniai modeliai; Bepiločiai orlaiviai [žaislai]; Taikiniai; Kelių apsaugos [sporto reikmenys]; Kalėdų eglučių papuošalai (išskyrus apšvietimo reikmenis ir konditerijos gaminius).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Spēles; Spēļu automāti; Rotaļlietas; Leļļu mājas; Radiovadāmi rotaļu transportlīdzekļi; Lietu samazināta mēroga modeļi rotaļām; Bezpilota lidmašīnas [rotaļlietas]; Mērķi; Ceļu sargi lietošanai atlētikā; Eglīšu rotājumi, izņemot apgaismes ierīces un saldumus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ġugarelli; Logħob (Apparat għall -); Ġugarelli; Kmamar tal-pupi; Vetturi tal-logħob ikkontrollati b'mod remot; Mudelli bħala ġugarelli; Drones [ġugarelli]; Bersalli; Protezzjoni għall-irkoppa għall-użu atletiku; Ornamenti għas-siġar tal-Milied, minbarra oġġetti li jixegħlu u ħelu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Spellen; Spelapparatuur; Speelgoed; Poppenkamers; Voertuigen, radiografisch bestuurd [speelgoed]; Modellen zijnde speelgoed; Drones [speelgoed]; Schietschijven; Kniebeschermers [sportartikelen]; Kerstboomversieringen, uitgezonderd verlichtingsartikelen en suikerwerk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Gry; Urządzenia do gier; Zabawki; Domki dla lalek; Pojazdy zdalnie sterowane do zabawy; Modele będące zabawkami; Drony (zabawki); Tarcze strzelnicze; Nakolanniki [artykuły sportowe]; Ozdoby choinkowe [z wyjątkiem artykułów oświetleniowych i słodyczy].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Jogos; Aparelhos para jogos, sem ser os adaptados para uso com um monitor; Brinquedos; Quartos de bonecas; Veículos de brincar telecomandados; Maquetes de brincar; Drones [brinquedos]; Alvos; Joelheiras [artigos de desporto]; Decorações para árvores de natal, exceto iluminação e confeitaria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Jocuri; Aparate pentru jocuri; Jucării; Case de păpuşi; Vehicule de jucărie cu telecomandă; Machete sub formă de jucării; Drone [jucării]; Ţinte; Apărători de genunchi [articole de sport]; Ornamente pentru pomul de Crăciun [cu excepţia articolelor de iluminat şi a dulciurilor].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Hračky; Prístroje na hry; Hračky; Domčeky pre bábiky; Diaľkovo ovládané vozidlá (hračky); Hračkárske modely; Dróny (hračky); Terče; Chrániče na kolená (športový tovar); Ozdoby na vianočné stromčeky (okrem osvetľovacích telies a cukroviniek).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Igrače; Igralni aparati; Igrače; Hišice za punčke; Vozila na daljinsko vodenje [igrače]; Modeli kot igrače; Brezpilotni zrakoplovi [igrače]; Tarče; Ščitniki za kolena [izdelki za šport]; Okraski za božično drevo, razen izdelkov za osvetljavo in sladkarij.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Spel; Spelkonsoller; Leksaker; Dockhus; Radiostyrda leksaksbilar; Modeller utgörande leksaker; Drönare [leksaker]; Måltavlor; Knäskydd för idrott; Julgransprydnader, inte belysningsartiklar eller konfektyrer.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/103</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-03</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/176</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082580</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>71845</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

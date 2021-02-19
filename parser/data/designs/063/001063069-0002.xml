@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-08-17T11:36:50</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063069-0002</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063069-0002</DesignIdentifier>
+<ApplicationNumber>001063069</ApplicationNumber>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-03-19</PublicationDate>
+<ApplicationReference>MO8215/08LC/CA</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-07-05</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061755698</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063069_0002/001063069_0002_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755699</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063069_0002/001063069_0002_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755700</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063069_0002/001063069_0002_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755701</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063069_0002/001063069_0002_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755702</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063069_0002/001063069_0002_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755703</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063069_0002/001063069_0002_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755704</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063069_0002/001063069_0002_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Предни брони за мотоциклет</IndicationProduct>
+       <IndicationProduct languageCode="cs">Přední blatníky na motocykly</IndicationProduct>
+       <IndicationProduct languageCode="da">Forskærme til motorcykler</IndicationProduct>
+       <IndicationProduct languageCode="de">Vordere Schutzbleche für Motorräder</IndicationProduct>
+       <IndicationProduct languageCode="el">Εμπρόσθιοι λασπωτήρες για μοτοσυκλέτες</IndicationProduct>
+       <IndicationProduct languageCode="en">Front fenders for motorcycle</IndicationProduct>
+       <IndicationProduct languageCode="es">Guardabarros frontales para motocicletas</IndicationProduct>
+       <IndicationProduct languageCode="et">Mootorrataste esiporitiivad</IndicationProduct>
+       <IndicationProduct languageCode="fi">Moottoripyörien etusuojukset</IndicationProduct>
+       <IndicationProduct languageCode="fr">Carénages avant pour motocyclettes</IndicationProduct>
+       <IndicationProduct languageCode="hu">Elülső sárvédők motokerékpárhoz</IndicationProduct>
+       <IndicationProduct languageCode="it">Parafanghi anteriori per motocicli</IndicationProduct>
+       <IndicationProduct languageCode="lt">Priekiniai motociklų gaubtai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Motociklu priekšējie spārni</IndicationProduct>
+       <IndicationProduct languageCode="mt">Partijiet ta' quddiem għal motoċikeltti</IndicationProduct>
+       <IndicationProduct languageCode="nl">Voorspatschermen voor motorfietsen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Błotniki przednie do motocykli</IndicationProduct>
+       <IndicationProduct languageCode="pt">Guarda-lamas dianteiros para motociclos</IndicationProduct>
+       <IndicationProduct languageCode="ro">Apărătoare faţă pentru motociclete</IndicationProduct>
+       <IndicationProduct languageCode="sk">Predné blatníky na motocykle</IndicationProduct>
+       <IndicationProduct languageCode="sl">Sprednji blatniki za motorna kolesa</IndicationProduct>
+       <IndicationProduct languageCode="sv">Främre stänkskydd för motorcykel</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>12.11</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PriorityDetails>
+       <Priority>
+        <PriorityCountryCode>JP</PriorityCountryCode>
+        <PriorityNumber>2008-16714</PriorityNumber>
+        <PriorityDate>2008-06-30</PriorityDate>
+        <PriorityStatusCode>Claimed</PriorityStatusCode>
+       </Priority>
+      </PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/051</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-03-19</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2010/039</PublicationIdentifier>
+        <PublicationSequenceNumber>384276</PublicationSequenceNumber>
+        <PublicationSection>B.2.2</PublicationSection>
+        <PublicationDate>2010-02-19</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2011/005</PublicationIdentifier>
+        <PublicationSequenceNumber>525223</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2011-01-07</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/156</PublicationIdentifier>
+        <PublicationSequenceNumber>1036005</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2013-08-20</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/127</PublicationIdentifier>
+        <PublicationSequenceNumber>100561572</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2018-07-09</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2019/031</PublicationIdentifier>
+        <PublicationSequenceNumber>100907807</PublicationSequenceNumber>
+        <PublicationSection>B.2.2</PublicationSection>
+        <PublicationDate>2019-02-14</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>172551</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>12783</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012552832</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100907807</PublicationSequenceNumber>
+           <PublicationSection>B.2.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2019-02-15</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003791328</RecordIdentifier>
+<BasicRecordKind>Change Names Addresses of Owners</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>384276</PublicationSequenceNumber>
+           <PublicationSection>B.2.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2010-02-19</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>004513606</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>525223</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2011-01-07</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012442237</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100561572</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-07-09</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006985729</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1036005</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-08-20</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

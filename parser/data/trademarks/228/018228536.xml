@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-10T08:16:28</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228536</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228536</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-09-08</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-10</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>DOLOMIA</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>12</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Рамки за велосипеди; Части за велосипеди, Т.е. вилици, Кормила на велосипеди, Предавателни кутии, Вериги, Главини за колела, Седалки, Спирачки, Джанти за коли, Лост на педали, Педали; Багажници за велосипеди и мотопеди; Колички за велосипеди.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Rámy jízdních kol; Náhradní díly pro jízdní kola, Jmenovitě vidlice, Řídítka, Řadicí páky, Řetězy, Hlavy kol, Objímky, prstence (kovové), Brzdy, Poklice, Pedálová ústrojí, Pedály; Zavazadlové nosiče na jízdní kola; Vozíky pro jízdní kola.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Cykelstel; Cykeldele, Nemlig cykelgafler, Styrestænger, Gearskiftere til køretøjer, Kæder, Nav, Sadler, Bremser, Fælge [til hjul], Pedalarme, Pedaler; Bagagebærere til cykler; Cykelvogne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Fahrradrahmen; Ersatzteile für Fahrräder, Nämlich Gabeln, Lenkstangen, Schaltknäufe, Ketten, Naben, Sättel, Bremsen, Felgen, Tretkurbeln, Pedale; Gepäckträger für Fahrräder; Fahrradanhänger.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ποδηλάτων πλαίσια· Μέρη ποδηλάτων, Συγκεκριμένα περόνες, Ράβδοι τιμονιών, Μοχλοί αλλαγής ταχυτήτων, Αλυσσίδες, Πλήμνες (κεντρικά τμήματα τροχών), Σέλες, Πέδες, Ζάντες, Μανιβέλες πεταλιού, Πηδάλια· Σχάρες ποδηλάτων· Καροτσάκια για ποδήλατα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Frames for bicycles, cycles; Bicycle parts, Namely forks, Handlebars, Gear shifts, Chains, Hubs, Saddles, Brakes, Wheel trims, Pedal cranks, Pedals; Luggage carriers for cycles; Bicycle carts.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cuadros de ciclo; Piezas de bicicletas, En concreto horquillas, Manillares, Mandos de caja de cambios, Cadenas, Cubos, Sillas de montar, Frenos, Embellecedores de ruedas, Manivelas, Pedales; Portaequipajes para bicicletas; Cochecitos para bicicletas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Jalgrattaraamid; Jalgratta varuosad, Nimelt hargid, Lenkstangid, juhtrauad, Käigukangid, Ketid, Rummud, Kaitserõngad (metallist), Pidurid, Ratta ilukilbid, Vändapöiad, Pedaalid; Jalgrataste pakiraamid; Jalgrattakärud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Rungot polkupyöriin; Polkupyörän osat, Toisin sanoen haarukat, Ohjaustangot, Vaihteet, Ketjut, Navat, Satulat, Jarrut, Pyöränvanteet, Polkimet, Polkimet; Polkupyörien tavaratelineet; Polkupyörien perävaunut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Cadres de bicyclette; Pièces de bicyclettes, À savoir fourches, Guidons, Leviers de vitesse, Chaînes, Moyeux, Selles, Freins, Jantes de roue, Pédaliers, Pédales; Porte-bagages pour cycles; Chariots pour les vélos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Okviri za bicikle; Dijelovi za bicikle, I to vilice, Upravljači, Ručice mjenjača brzina, Lanci, Glavine, Sjedala, Kočnice, Naplatci kotača, Šipke pedala, Papučice; Nosači prtljage za bicikle; Kolica za bicikle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kerékpárvázak; Kerékpárok pótalkatrészei, Pontosabban villák, Kormányok, Sebességváltók, Láncok, Kerékagyak, Bilincsek, Fékek, Kerékperemek, Pedál, hajtókar, pedáltengely, lánckerék egysége, Pedálok; Csomagtartók kerékpárokhoz; Kocsik kerékpárokhoz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">telai per biciclette; parti di biciclette, vale a dire forcelle, manubri, cambi, catene, mozzi, sellini, freni, cerchi, pedivelle, pedali; portapacchi per biciclette; carrelli per biciclette.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dviračių rėmai; Atsarginės dviračių dalys, Būtent šakės, Vairai (dviračių, motociklų), Pavaros perjungikliai, Grandinės, Įvorės, Apsauginiai žiedai (metaliniai --- ), Stabdžiai, Ratlankiai, Pedalai, Pedalai; Dviračių bagažinės; Dviračių vežimėliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Velosipēdu rāmji; Velosipēdu rezerves daļas, Proti, dakšas, Stūres stieņi, Ātruma pārslēdzēji, Ķēdes, Riteņu rumbas, Sēdekļi, Bremzes, Riteņu diski, Pedāļu mehānismi, Pedāļi; Velosipēdu bagāžnieki; Velosipēdu ratiņi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Oqfsa tar-roti; Partijiet tar-roti, Jiġifieri frieket, Manubriji, Livers biex jibdlu l-gerijiet, Ktajjen, Buttun ta' rota, Klampi, Brejkijiet, Raqam ta roti, Kranks tal-biċikletti, Pedali; Xtillieri tal-basktijiet għall-vetturi b'żewġ roti; Karrijiet tal-biċikletti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Rijwielframes; Onderdelen voor fietsen, Te weten vorken, Stuurstangen, Schakelingen, Kettingen, Naven, Zadels, Remmen, Sierstrips voor wielen, Cranks, Pedalen; Bagagedragers voor rijwielen; Fietskarren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Ramy do rowerów; Części do rowerów, Mianowicie widełki, Kierownice [rowerowa, motocyklowa], Przekładnie zmiany biegów, Łańcuchy, Piasty, Okucia metalowe, Hamulce, Kołpaki do kół, Pedały, Pedały; Bagażniki do rowerów; wózki rowerowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Quadros de velocípedes; Peças de bicicletas, Especificamente forquetas, Guiadores, Comandos de caixas de velocidades, Correntes, Cubos de rodas, Gualdrapas, Travões, Jantes para rodas, Manivelas, Pedais; Bagageiras para velocípedes; Carrinhos para bicicletas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cadre pentru vehicule pe două roţi; Piese pentru biciclete, Și anume furci, Ghidoane, Schimbătoare de viteze, Lanţuri, Butuci de roată, Sei, Frâne, Jante pentru roţi, Manivela de pedale, Pedale; Portbagaje pentru biciclete; Cărucioare pentru biciclete.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Bicyklové rámy; Náhradné diely pre bicykle, Menovite vidlice, Riadidlá, Radiace páky, Reťaze, Náboje kolies, Objímky, prstence, Brzdy, Ozdoby kolies, Prevody, Pedály; Nosiče batožiny na bicykle; Vozíky na bicykel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Okvirji za kolesa; Nadomestni deli za dvokolesa, In sicer vilice, Krmila, Ročice menjalnikov hitrosti, Verige, Peste, Sedeži, Zavore, Platišča koles, Pogonski mehanizmi, Pedali; Nosilci za prtljago za kolesa; Vozički za kolesa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Motorcykelramar; Cykeldelar, Dvs. gafflar, Styrstänger, Växelspakar, Kedjor, Nav, Sadlar, Bromsar, Hjulfälgar, Pedalarmar, Pedaler; Pakethållare för cyklar; Cykelkärror.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/101</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/173</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082060</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>14918</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

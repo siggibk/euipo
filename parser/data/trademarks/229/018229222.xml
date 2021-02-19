@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-28T12:49:12</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229222</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229222</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-25</RegistrationDate>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>CROMADEX</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Софтуер, който позволява на потребителите да търсят и да избират цветове на боя и покрития.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Software, který umožňuje uživateli vyhledávat a vybírat barvy nátěrů a laků.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Software, der gør det muligt for brugere at søge og vælge farven på maling og belægninger.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Software, die es den Nutzern ermöglicht, Farbtöne von Farben und Anstrichmitteln zu suchen und auszuwählen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λογισμικό που παρέχει στους χρήστες τη δυνατότητα αναζήτησης και επιλογής χρωμάτων βαφής και επίστρωσης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Software which enables users to search and select paint and coatings colors.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Software que permite a los usuarios buscar y seleccionar colores de pinturas y recubrimientos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Tarkvara, mis võimaldab kasutajatel otsida ja valida värve ja kattevärve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ohjelmistot, joiden avulla käyttäjät voivat hakea ja valita maali- ja pinnoitevärejä.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Logiciels permettant aux utilisateurs de rechercher et sélectionner des couleurs de peinture et de revêtement.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Softver koji korisnicima omogućuje pretraživanje i odabir boja za ličenje i premaz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szoftver, amely lehetővé teszi a felhasználók számára a festék és a bevonat színeinek keresését és kiválasztását.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Software che consente agli utenti di cercare e selezionare i colori dei rivestimenti e delle vernici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Programinė įranga, leidžianti vartotojams ieškoti ir pasirinkti dažų ir dangų spalvas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Programmatūra, kas lietotājiem ļauj meklēt un atlasīt krāsas un pārklājuma krāsas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Softwer tal-kompjuter li jippermetti l-utenti jfittxu u jagħżlu ż-żebgħa u l-kuluri tal-kisi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Software waarmee gebruikers verf- en coatingskleuren kunnen zoeken en selecteren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oprogramowanie umożliwiające użytkownikom wyszukiwanie i wybieranie kolorów farb i powłok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Software que permite ao utilizador pesquisar e selecionar cores de tintas e de revestimentos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Software care permite utilizatorilor să caute și să aleagă culorile la vopsea și straturi de acoperire.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Softvér umožňujúci používateľom vyhľadávať a vyberať farby náterov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Programska oprema, ki uporabnikom omogoča iskanje in izbiranje barv ter barv za premaze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Programvara som gör det möjligt för användarna att söka efter och välja ut färger för målarfärg och beläggningar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/092</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-18</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/163</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>7339</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>900937</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

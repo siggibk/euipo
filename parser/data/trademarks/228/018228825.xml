@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-03T01:13:29</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228825</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228825</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>EQUEO</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Препарати за грижа за тоалета на животни; Етерични масла и ароматни екстракти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kosmetické přípravky pro péči o zvířata; Vonné oleje a aromatické výtažky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Plejemidler til dyr; Æteriske olier og aromatiske udtræk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Tierpflegemittel; Ätherische Öle und aromatische Extrakte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παρασκευάσματα για την περιποίηση ζώων· Αιθέρια έλαια και αρωματικά εκχυλίσματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Animal grooming preparations; Essential oils and aromatic extracts.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Productos para el cuidado y limpieza de animales; Aceites esenciales y extractos aromáticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Tooted loomade karvastiku hoolduseks; Eeterlikud õlid ja aroomiekstraktid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Siistimisvalmisteet eläimille; Eteeriset öljyt ja aromaattiset uutteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Préparations pour le toilettage d'animaux; Huiles essentielles et extraits aromatiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pripravci za njegu životinja; Esencijalna ulja i aromatični ekstrakti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Állatápolási készítmények; Olajesszenciák és aromakivonatok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Prodotti per la toilette degli animali; Olii essenziali ed estratti aromatici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Gyvūnų higieninės ir grožio priežiūros preparatai; Eteriniai aliejai ir aromatiniai ekstraktai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kopšanas līdzekļi dzīvniekiem; Ēteriskās eļļas un aromātiskie ekstrakti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preparazzjonijiet għat-tindif ta' l-annimali; Żjut essenzjali u estratti aromatiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Producten voor cosmetische dierenverzorging; Essentiële oliën en aromatische extracten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Preparaty do pielęgnacji zwierząt; Olejki esencjonalne i ekstrakty aromatyczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Produtos para tratamento (limpeza, etc.) de animais; Óleos essenciais e extratos aromáticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Preparate pentru îngrijirea animalelor; Uleiuri esențiale și extracte aromatice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Toaletné prípravky pre zvieratá; Éterické oleje a aromatické výťažky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pripravki za nego živali; Eterična olja in aromatični ekstrakti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Preparat för pälsvård; Eteriska oljor och aromatiska extrakt.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Репелентни форми за животни; Репеленти против насекоми за употреба върху животни.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Repelentní přípravky pro zvířata; Přípravky na odpuzování hmyzu pro použití na zvířatech.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Præparater til fordrivelse af dyr; Insektfordrivende midler til anvendelse på dyr.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Tierabwehrmittel; Insektenvertreibungsmittel zur Anwendung an Tieren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συνθέσεις παρασκευασμάτων απώθησης ζώων· Εντομοαπωθητικά για χρήση σε ζώα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Repellents for animals; Insect repellents for use on animals.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Fórmulas repelentes para animales; Repelentes de insectos para su uso en animales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Putukatõrjevahendid loomadele; Loomadel kasutatavad putukatõrjevahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Eläinkarkoteyhdisteet; Hyönteiskarkotteet eläimille.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Préparations répulsives pour éloigner les animaux; Insectifuges à utiliser sur des animaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Sredstva za odbijanje životinja; Sredstva za odbijanje insekata za primjenu na životinjama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Állatok távoltartására szolgáló, állatriasztó készítmények; Rovarriasztók állatokon való használatra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Prodotti repellenti per animali; Repellenti per insetti per l'uso su animali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Gyvūnų repelentų preparatai; Vabzdžių repelentai gyvūnams.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dzīvnieku atbaidīšanai paredzēti līdzekļi (repelenti); Dzīvniekiem paredzēti līdzekļi kukaiņu atbaidīšanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Elementi kimiċi li jbegħdu l-annimali; Sustanzi li jbiegħdu l-insetti għall-użu fuq l-annimali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Afstotende middelen voor dieren; Insectenwerende middelen voor gebruik op dieren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Środki odstraszające zwierzęta; Środki odstraszające owady dla zwierząt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Repelentes para animais; Repelentes de insetos para uso em animais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Produse pentru îndepărtarea animalelor; Produse insectifuge pentru utilizare pe animale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Prípravky na odpudzovanie zvierat; Prípravky na odpudzovanie hmyzu pre použitie na zvieratách.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pripravki za odganjanje živali; Sredstva za odganjanje žuželk za uporabo na živalih.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Insektsmedel för djur; Insektsavvisande medel för användning på djur.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>715385</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003126319</OppositionIdentifier>
+<OppositionDate>2020-07-17</OppositionDate>
+<ProceedingLanguageCode>de</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>002836401</ApplicationNumber>
+<ApplicationDate>2002-09-03</ApplicationDate>
+<RegistrationNumber>002836401</RegistrationNumber>
+<RegistrationDate>2004-01-22</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>equo</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>499155</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>3832</Identifier>
+</RepresentativeKey>
+<RepresentativeKey>
+<Identifier>63061</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

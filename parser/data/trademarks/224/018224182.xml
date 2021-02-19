@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-02T14:32:56</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224182</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224182</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-06-18</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>PrimaAqua</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Горелки, отоплителни котли и нагреватели; Електрически резервоари за топла вода; Водонагреватели с топлоакумулатор; Електрически уреди за затопляне на вода.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Hořáky, kotle a ohřívače vody; Elektricky ohřívané nádrže na teplou vodu; Zásobníkové ohřívače vody; Elektrické přístroje a zařízení na ohřívání vody.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Brændere, kedler og varmere; Elektriske varmtvandsbeholdere; Varmtvandsbeholdere; Elektriske apparater til opvarmning af vand.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Brenner, Boiler und Heizgeräte; Elektrisch beheizte Warmwasserspeicher; Warmwasserspeicher; Elektrische Wassererwärmungsgeräte..</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καυστήρες, λέβητες και θερμάστρες· Ηλεκτρικά θερμαινόμενες δεξαμενές ζεστού νερού· Θερμοσυσσωρευτές ύδατος· Ηλεκτρικές συσκευές για τη θέρμανση του νερού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Burners, boilers and heaters; Electrically heated hot water tanks; Storage water heaters; Electric water heating apparatus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Quemadores, calderas y calentadores; Depósitos de agua caliente calentados eléctricamente; Calentadores de agua por acumulación; Aparatos eléctricos para el calentamiento de agua.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Põletid, boilerid, aurukatlad ja kütteseadmed ja soojendid; Elektrisoojendusega kuumaveepaagid; Soojaveeboilerid; Elektrilised veekuumutusseadmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Polttimet, boilerit ja lämmittimet; Sähkölämmitteiset lämminvesivaraajat; Lämminvesivaraajat; Sähkökäyttöiset laitteet veden lämmittämiseen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Brûleurs, chaudières et réchauffeurs; Réservoirs d'eau chaude chauffés électriquement; Chauffe-eau à accumulation; Chauffe-eau électiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Plamenici, bojleri i grijači; Električno zagrijavani spremnici vruće vode; Grijači vode; Električni aparati za grijanje vode.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Égők, kazánok és fűtő/melegítőkészülékek; Elektromosan melegített forróvizes tartályok; Tárolós vízmelegítők; Elektromos vízmelegítő készülékek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Bruciatori, bollitori e caloriferi; Serbatoi per l'acqua calda elettrici; Scalda acqua ad accumulo; Apparecchi elettrici per riscaldare acqua.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Degikliai, katilai ir šildytuvai; Elektra šildomos karšto vandens talpyklos; Akumuliaciniai vandens šildytuvai; Elektriniai vandens šildymo aparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Degļi, sildītāji un apkures katli; Elektriski sildāmas karstā ūdens tvertnes; Uzkrātā ūdens sildītāji; Elektriskās ūdens sildīšanas ierīces.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Berners, bojlers u hiters; Tankijiet għall-ilma sħun imsaħħna bl-elettriku; Ħiters għall-ħzin tal-ilma; Apparat għat-tisħin tal-ilma jaħdem bl-elettriku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Branders, ketels, boilers en verwarmingsapparaten; Elektrisch verwarmde warmwaterreservoirs; Heetwaterreservoir; Elektrische apparaten voor het verwarmen van water.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Palniki, bojlery i podgrzewacze; Elektrycznie podgrzewane zbiorniki na gorącą wodę; Akumulacyjne ogrzewacze wody; Elektryczne urządzenia do ogrzewania wody.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Queimadores, caldeiras e aquecedores; Depósitos de água quente elétricos; Aquecedores de água para armazenamento; Aparelhos elétricos para aquecer água.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Arzătoare, boilere și încălzitoare; Rezervoare de apă fierbinte încălzite electric; Boilere; Aparate acționate electric pentru încălzirea apei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Horáky, ohrievače a vyhrievače; Elektricky vyhrievané nádrže na horúcu vodu; Zásobné ohrievače vody; Elektrické zariadenia na ohrievanie vody.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Gorilniki, kotli in grelniki; Električno ogrevani rezervoarji za vročo vodo; Akumulacijski grelniki vode; Električni aparati za ogrevanje vode.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Brännare, pannor och värmare; Elektriskt uppvärmda varmvattentankar; Varmvattenberedare; Elektriskt drivna anordningar för uppvärmning av vatten.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/073</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>111160</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>81676</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003124409</OppositionIdentifier>
+<OppositionDate>2020-06-18</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>PT</EarlierMarkCountryCode>
+<ApplicationNumber>535866</ApplicationNumber>
+<ApplicationDate>2014-09-18</ApplicationDate>
+<RegistrationNumber>535866</RegistrationNumber>
+<RegistrationDate>2016-02-22</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>PRIMEAQUA</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>638772</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>12644</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+<Opposition>
+<OppositionIdentifier>003126318</OppositionIdentifier>
+<OppositionDate>2020-07-17</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>018024541</ApplicationNumber>
+<ApplicationDate>2019-02-19</ApplicationDate>
+<RegistrationNumber>018024541</RegistrationNumber>
+<RegistrationDate>2019-08-30</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>PRIMA</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>FR</EarlierMarkCountryCode>
+<ApplicationNumber>4238289</ApplicationNumber>
+<ApplicationDate>2016-01-06</ApplicationDate>
+<RegistrationNumber>4238289</RegistrationNumber>
+<RegistrationDate>2016-05-13</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>PRIMA</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>630541</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>14855</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229288</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229288</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>RALPH'S CLUB</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Козметични средства; Парфюмерия; Одеколон; Лични дезодоранти; Препарати за бръснене; Лосиони за след бръснене; Препарати за коса и за третиране на окосмяването; Етерични масла.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kosmetické přípravky; Parfémy; Toaletní voda; Osobní deodoranty; Holicí přípravky; Přípravky po holení; Přípravky pro péči o vlasy; Éterické oleje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kosmetik; Parfumer; Eau de toilette [lotioner til toiletbrug]; Kropsdeodoranter; Præparater til barbering; Aftershavepræparater; Præparater til hår og behandling af hår; Æteriske olier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kosmetika; Parfüms; Toilettewasser; Deodorants für den persönlichen Gebrauch; Rasiermittel; Rasierwasser; Haarpräparate und Haarkuren; Ätherische Öle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καλλυντικά· Αρωματισμού (Προϊόντα -)· Κολώνιες· Αποσμητικά σώματος· Ξυρίσματος (Προϊόντα -)· Προϊόν για μετά το ξύρισμα (after shave)· Παρασκευάσματα για την περιποίηση και τη θεραπεία των μαλλιών· Αιθέρια (Έλαια -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Cosmetics; Perfumes; Toilet water; Personal deodorants; Shaving preparations; After-shave preparations; Hair preparations and treatments; Ethereal oils.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cosméticos; Perfumes; Aguas de tocador; Desodorantes personales; Productos de afeitar; Preparaciones para después del afeitado; Preparaciones y tratamientos para el cabello; Aceites esenciales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kosmeetikavahendid; Parfüümid, lõhnaõlid; Tualettvesi; Deodorandid isiklikuks kasutamiseks; Raseerained; Habemeajamisjärgsed näoveed; Juuksehooldus- ja -töötlusvahendid; Eeterlikud õlid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kosmetiikka; Hajuvedet; Kölninvesi; Deodorantit henkilökohtaiseen käyttöön; Parranajovalmisteet; After shave -valmisteet; Hiusten hoito- ja käsittelyvalmisteet; Eteeriset öljyt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Cosmétiques; parfums; eaux de toilette; déodorants corporels; produits de rasage; préparations après rasage; préparations et traitements capillaires; huiles essentielles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kozmetički proizvodi; Mirisi; Kolonjska voda; Dezodoransi za osobnu uporabu; Proizvodi za brijanje; Losioni za upotrebu poslije brijanja; Pripravci i tretmani za kosu; Esencijalna ulja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kozmetikai szerek; Illatszer készítmények; Kölnivíz; Dezodorok személyes használatra; Készítmények borotválkozáshoz; Borotválkozás utáni arcszeszek; Hajápoló készítmények; Esszenciális olajok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cosmetici; Profumi; Acque da toilette; Deodoranti personali; Prodotti per la rasatura; Lozioni dopobarba; Preparati e trattamenti per i capelli; Oli essenziali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kosmetika; Kvepalai; Tualetinis vanduo; Dezodorantai asmeninėms reikmėms; Skutimosi preparatai; Preparatai po skutimosi; Plaukų priežiūros preparatai; Eteriniai aliejai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kosmētikas līdzekļi; Smaržas; Tualetes ūdens; Dezodoranti personīgai lietošanai; Skūšanās līdzekļi; Pēcskūšanās līdzekļi; Līdzekļi matu kopšanai un ārstēšanai; Ēteriskās eļļas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kożmetiċi; Prodotti ta' fwejjaħ; Ilma mfewwaħ għall-użu fuq il-ġilda; Deodoranti għall-użu personali; Preparazzjonijiet għat-tqaxxir tal-leħja; Lozjonijiet ta' wara t-tqaxxir tal-leħja; Preparazzjonijiet u trattamenti għax-xagħar; Żjut meħudin minn pjanti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Cosmetica; Parfums; Eau de toilette; Persoonlijke deodorants; Producten voor het scheren; After-shave lotions; Haarverzorgingsproducten en haarbehandelingsproducten; Etherische oliën.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kosmetyki; Produkty perfumeryjne; Woda kolońska; Dezodoranty do użytku osobistego; Preparaty do golenia; Środki stosowane po goleniu; Preparaty do włosów; Olejki eteryczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cosméticos; Perfumes; Águas de toilette; Desodorizantes para uso pessoal; Preparações para barbear; Loções pós-barba [after-shave]; Produtos e tratamentos para o cabelo; Óleos essenciais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cosmetice; Parfumerie (Produse de -); Apă de colonie; Deodorante de uz personal; Bărbierit (Produse pentru -); Loțiune după bărbierit; Preparate și tratamente pentru păr; Uleiuri eterice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kozmetické prípravky; Parfumy; Toaletné vody; Dezodoranty na osobné použitie; Prípravky na holenie; Prípravky po holení; Vlasová kozmetika a prípravky na ošetrenie vlasov; Esenciálne (éterické) oleje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kozmetični izdelki; Parfumerijski izdelki; Kolonjska voda; Osebni dezodoranti; Pripravki za britje; Vodica za po britju; Sredstva za nego in obdelavo las; Eterična olja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kosmetika; Parfymer; Eau-de-toilette; Deodoranter för personligt bruk; Rakpreparat; Aftershave; Preparat för behandling och vård av hår; Flyktiga oljor.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>38512</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>79776</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

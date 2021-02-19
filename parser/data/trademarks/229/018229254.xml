@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-10T08:16:15</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229254</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229254</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-09-08</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-10</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>N&amp;U</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162457775</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229254/000162457775.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Лекарства за хуманни цели; Бактериални препарати с медицинско и ветеринарно приложение; Фармацевтични препарати; Химико-фармацевтични препарати; Биологични препарати за медицински цели; Фармацевтични препарати за рани; Антибиотици; Необработени лекарства; Китайски традиционни лечебни билки; Лечебни шампоани; Лосиони за капиляри (за медицински цели); Препарати за баня за медицински цели; Препарати за лечение на акне; Диетични вещества за медицински цели; Минерални хранителни добавки; Хранителни добавки за медицински цели; Храна за бебета; Превръзки [лечебни]; Хирургични превръзки; Марля за превръзки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Humánní léčiva; Bakteriální přípravky pro lékařské a veterinární účely; Farmaceutické přípravky; Chemicko-farmaceutické přípravky; Biologické přípravky pro léčebné účely; Farmaceutické přípravky na rány; Antibiotika; Léčiva v surovém stavu; Tradiční čínské léčivé byliny; Šampóny s léčivými přísadami; Vlasové vody (lotiony) s léčivými přísadami; Přípravky do koupelí pro léčebné účely; Přípravky na léčbu akné; Dietetické látky pro léčebné účely; Minerální potravinové doplňky; Výživové doplňky; Potraviny pro kojence a batolata; Krytí (zdravotnické potřeby); Chirurgické krytí; Gáza na krytí.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Humanmedicin; Bakteriepræparater til medicinsk og veterinær brug; Farmaceutiske præparater; Kemisk-farmaceutiske præparater; Biologiske præparater til medicinske formål; Farmaceutiske præparater til sår; Antibiotika; Uforarbejdede lægemidler; Traditionelle kinesiske medicinske urter; Medicinsk shampoo; Medicinske hårlotioner; Badepræparater til medicinsk brug; Præparater til aknebehandling; Diætetiske substanser tilpasset medicinsk brug; Mineralsk kosttilskud; Næringstilskud; Næringsmidler til spædbørn; Forbindsmaterialer, medicinske; Kirurgiske forbindsmaterialer; Gaze til forbinding.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Arzneimittel für humanmedizinische Zwecke; Bakterienpräparate für medizinische oder tierärztliche Zwecke; Pharmazeutische Präparate; Chemisch-pharmazeutische Erzeugnisse; Biologische Präparate für medizinische Zwecke; Pharmazeutische Wundpräparate; Antibiotika; Unraffinierte medizinische Präparate; Traditionelle chinesische Heilkräuter; Medizinische Shampoos; Medizinische Haarwässer; Badezusätze für medizinische Zwecke; Mittel für die Behandlung von Akne; Diätische Substanzen für medizinische Zwecke; Mineralische Nahrungsergänzungsmittel; Nahrungsergänzungsmittel; Babynahrungsmittel; Verbandmaterial; Verbandstoffe; Verbandgaze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φάρμακα θεραπευτικά για ανθρώπινη χρήση· Βακτηριακά παρασκευάσματα για χρήση ιατρική ή κτηνιατρική· Φαρμακευτικά (Προϊόντα -)· Χημικοφαρμακευτικά προϊόντα· Βιολογικά παρασκευάσματα για ιατρική χρήση· Φαρμακευτικά παρασκευάσματα για τραύματα· Αντιβιοτικά· Ακατέργαστα φάρμακα· Παραδοσιακά κινέζικα φαρμακευτικά βότανα· Φαρμακευτικά σαμπουάν· Λοσιόν για τα τριχοειδή αγγεία (Φαρμακούχες -)· Παρασκευάσματα για το μπάνιο για ιατρική χρήση· Παρασκευάσματα για τη θεραπεία της ακμής· Διαιτητικές ουσίες προσαρμοσμένες για ιατρικές χρήσεις· Μεταλλικά συμπληρώματα διατροφής· Συμπληρώματα διατροφής· Βρεφικές/Παιδικές τροφές· Υλικά επίδεσης, ιατρικά· Επίδεσης υλικά χειρουργικά· Γάζα επιδέσμων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">medicines for human purposes; bacterial preparations for medical and veterinary use; pharmaceutical preparations; chemico-pharmaceutical preparations; biological preparations for medical purposes; pharmaceutical preparations for wounds; antibiotics; crude drugs; Chinese traditional medicinal herbs; medicated shampoos; medicated hair lotions; bath preparations for medical purposes; acne treatment preparations; dietetic substances adapted for medical use; mineral food supplements; nutritional supplements; food for babies; dressings, medical; surgical dressings; gauze for dressings.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Medicamentos para uso médico; Preparaciones bacterianas para uso médico o veterinario; Preparaciones farmacéuticas; Preparaciones químico-farmacéuticas; Preparaciones biológicas para uso médico; Preparados farmacéuticos para las heridas; Antibióticos; Medicinas crudas; Hierbas medicinales tradicionales chinas; Champús medicinales; Lociones capilares medicinales; Preparaciones de baño para uso médico; Preparaciones para el tratamiento del acné; Sustancias dietéticas para uso médico; Complementos alimenticios minerales; Complementos nutricionales; Alimentos para bebés; Artículos para apósitos; Telas para apósitos; Gasa para apósitos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ravimid inimestele, inimeste raviks; Meditsiinilised ja veterinaarsed bakterpreparaadid; Farmatseutilised preparaadid; Kemofarmakonid; Meditsiinilised biopreparaadid; Haavaravis kasutatavad farmaatsiapreparaadid; Antibiootikumid; Toorravimid; Traditsioonilised hiina ravimtaimed; Ravišampoonid; Kapillaaride losjoonid (ravitoimelised); Meditsiinilised vannipreparaadid; Akneravipreparaadid; Meditsiinilised dieetained; Mineraalsed toidulisandid; Toidulisandid; Imikutoit; Meditsiinilised sidemed; Kirurgilised sidemed; Marli haava sidumiseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lääkkeet ihmisille; Bakteerivalmisteet lääkinnällisiin ja eläinlääkinnällisiin tarkoituksiin; Farmaseuttiset valmisteet; Kemiallis-farmaseuttiset valmisteet; Biologiset valmisteet lääkinnällisiin tarkoituksiin; Farmaseuttiset valmisteet haavojen hoitamiseen; Antibiootit; Jalostamattomat lääkkeet; Perinteiset kiinalaiset yrttilääkkeet; Lääkeaineita sisältävät shampoot; Lääkinnälliset hiusvedet; Kylpyvalmisteet lääkinnällisiin tarkoituksiin; Aknenhoitovalmisteet; Dieettivalmisteet lääkinnälliseen käyttöön; Kivennäisravintolisäaineet; Lisäravintoaineet; Vauvanruoat; Sidontatarvikkeet (Haavan -); Kirurgiset sidontatarvikkeet; Harsokangas haavansidontaan.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Médicaments pour la médecine humaine; Préparations bactériennes à usage médical ou vétérinaire; Préparations pharmaceutiques; Produits chimico-pharmaceutiques; Préparations biologiques à usage médical; Préparations pharmaceutiques pour les blessures; Antibiotiques; Médicaments bruts; Herbes médicinales traditionnelles chinoises; Shampooings médicamenteux; Lotions capillaires médicamenteuses; Préparations pour le bain à usage médical; Préparations pour traitements antiacnéiques; Substances diététiques à usage médical; Suppléments alimentaires minéraux; Compléments nutritionnels; Aliments pour bébés; Pansements à usage médical; Étoffes pour pansements; Pansements de gaze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Lijekovi za ljudske potrebe; Bakterijski preparati za medicinske ili veterinarske potrebe; Farmaceutski pripravci; Kemijsko-farmaceutski proizvodi; Biološki preparati za medicinske potrebe; Farmaceutski pripravci za rane; Antibiotici; Sirovi pripravci lijekova; Tradicionalne kineske ljekovite trave; Medicinski šampon; Medicinski losioni za kosu; Pripravci za kupanje za medicinske svrhe; Pripravci za liječenje akni; Dijetne tvari za medicinske potrebe; Mineralni dodaci prehrani; Hranjivi dodaci; Hrana za bebe; Medicinske obloge za rane; Kirurški zavoji; Gaza za previjanje rana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyógyszerek humángyógyászati használatra; Bakteriális készítmények orvosi és állatgyógyászati használatra; Gyógyszerészeti készítmények; Gyógyszervegyészeti készítmények; Biológiai készítmények orvosi célokra; Gyógyszerkészítmények sebekhez; Antibiotikumok; Természetes, nyers gyógyszerek; Hagyományos kínai gyógynövények; Gyógyanyagokat tartalmazó samponok; Gyógyhatású hajszeszek, hajra való folyadékok; Fürdőkészítmények gyógyászati használatra; Pattanások kezelésére szolgáló készítmények; Diétás anyagok gyógyászati használatra; Ásványi élelmiszer-kiegészítők; Táplálékkiegészítők; Bébiételek; Orvosi kötszerek; Sebészeti kötözőanyagok; Kötözőgéz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Medicamenti per la medicina umana; Preparazioni batteriche per uso medico o veterinario; Preparazioni farmaceutiche; Prodotti chimico-farmaceutici; Prodotti biologici per uso medico; Preparati farmaceutici per le ferite; Antibiotici; Medicine non lavorate; Erbe della medicina tradizionale cinese; Shampoo medicamentosi; Lozioni medicamentose per capelli; Preparati per il bagno ad uso medico; Preparazioni per il trattamento contro l'acne; Sostanze dietetiche per uso medico; Integratori alimentari minerali; Additivi nutrizionali per uso medico; Alimenti per bambini (neonati); Articoli per medicazioni; Stoffe per medicazioni; Garza per medicazioni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vaistai (žmonėms); Bakteriniai preparatai (medicinos ir veterinarijos reikmėms); Farmaciniai preparatai; Cheminiai farmaciniai preparatai; Biologiniai preparatai (medicinos reikmėms); Farmaciniai preparatai žaizdoms gydyti; Antibiotikai; Natūralūs neapdoroti vaistai; Kiniškos tradicinės vaistažolės; Gydomieji šampūnai; Gydomieji plaukų losjonai; Vonių preparatai (medicinos reikmėms); Aknės gydymo preparatai; Dietinės medžiagos (medicinos reikmėms); Mineraliniai maisto papildai; Mitybos papildai; Kūdikių maistas; Tvarsliava [medicininė]; Chirurginė tvarsliava; Tvarstomoji marlė.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Cilvēkiem paredzēti medikamenti; Bakteriāli preparāti medicīniskiem un veterināriem nolūkiem; Farmaceitiskie preparāti; Ķīmiski farmaceitiskie preparāti; Bioloģiskie preparāti medicīniskiem nolūkiem; Farmaceitiski preparāti brūcēm; Antibiotikas; Neizstrādāti medikamenti; Ķīniešu tradicionālās ārstniecības augi; Ārstnieciskie šampūni; Ārstnieciskie matu losjoni; Medicīniski vannas līdzekļi; Pūtīšu ārstēšanas līdzekļi; Diētiskas vielas medicīniskiem nolūkiem; Minerālvielas kā uztura bagātinātāji; Uztura bagātinātāji; Uzturs zīdaiņiem un maziem bērniem; Pārsēji, medicīniski; Ķirurģijā izmantojami pārsienamie materiāli; Marle pārsiešanas vajadzībām.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Mediċini għal skopijiet umani; Preparazzjonijiet batteriċi għal użu mediku u veterinarju; Preparazzjonijiet farmaċewtiċi; Preparazzjonijiet kimiko-farmaċewtiċi; Preparazzjonijiet bijoloġiċi għal skopijiet mediċi; Preparazzjonijiet farmaċewtiċi għall-feriti; Antibijotiċi; Mediċini mhux raffinati; Ħxejjex mediċinali tradizzjonali Ċiniżi; Xampus immedikati; Lozjonijiet kapillari [immedikati]; Preparazzjonijiet tal-banju għal finijiet mediċi; Preparazzjonijiet għat-trattament tal-akne; Sustanzi djetetiċi addattati għall-użu mediku; Supplimenti ta' ikel minerali; Supplimenti ta' nutrizzjoni; Ikel għat-trabi; Ilbies għall-feriti, mediċi; Infaxxar kirurġiku ta' feriti; Garżi għall-infaxxar ta' feriti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Geneesmiddelen voor menselijk gebruik; Bacteriënpreparaten voor medisch of veterinair gebruik; Farmaceutische producten; Chemisch-farmaceutische producten; Biologische preparaten voor medisch gebruik; Farmaceutische wondpreparaten; Antibiotica; Ruwe medicijnen; Traditionele Chinese geneeskrachtige kruiden; Medicinale shampoo; Haarlotions (Medicinale -); Badpreparaten voor medisch gebruik; Preparaten voor de behandeling van acne; Diëtische substanties voor medisch gebruik; Minerale voedingssupplementen; Voedingssupplementen; Babyvoeding; Verbandartikelen; Verbandstoffen; Verbandgaas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Leki dla ludzi; Preparaty bakteryjne do celów medycznych lub weterynaryjnych; Preparaty farmaceutyczne; Preparaty chemiczno-farmaceutyczne; Biologiczne preparaty do celów medycznych; Preparaty farmaceutyczne do ran; Antybiotyki; Nieoczyszczone leki w naturalnej formie; Tradycyjne chińskie zioła lecznicze; Szampony lecznicze; Lecznicze płyny do włosów; Preparaty do kąpieli do celów medycznych; Preparaty do leczenia trądziku; Dietetyczne substancje przystosowane do celów medycznych; Mineralne suplementy diety; Odżywcze suplementy diety; Żywność dla niemowląt; Materiały opatrunkowe, medyczne; Chirurgiczne materiały opatrunkowe; Gaza opatrunkowa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Medicamentos para a medicina humana; Preparações bacterianas para uso médico ou veterinário; Preparações farmacêuticas; Produtos químico-farmacêuticos; Produtos biológicos para uso medicinal; Preparações farmacêuticas para feridas; Antibióticos; Medicamentos em estado bruto; Ervas medicinais tradicionais chinesas; Champôs medicinais; Loções medicamentosas capilares; Preparações de banho com fins medicinais; Preparações para o tratamento da acne; Substâncias dietéticas para uso medicinal; Suplementos alimentares minerais; Suplementos nutricionais; Alimentos para bebés; Pensos médicos; Tecidos para pensos cirúrgicos; Gaze para pensos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Remedii pentru medicina umană; Bacteriene (preparate - de uz medical sau veterinar); Preparate farmaceutice; Farmaceutice (Produse chimico -); Biologice (preparate - de uz medical); Preparate farmaceutice pentru răni; Antibiotice; Medicamente în stare brută; Ierburi medicinale tradiţionale chinezeşti; Şampoane medicinale; Loțiuni de păr medicamentoase; Preparate pentru baie de uz medical; Preparate pentru tratarea acneei; Dietetice (substanţe - de uz medical); Suplimente alimentare pe bază de minerale; Suplimente nutritive; Alimente pentru bebeluşi; Pansamente de uz medical; Pansamente chirurgicale; Tifon pentru pansamente.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lieky pre humánnu medicínu; Bakteriálne prípravky na lekárske a zverolekárske použitie; Farmaceutické prípravky; Chemickofarmaceutické prípravky; Biologické prípravky na lekárske použitie; Farmaceutické prípravky na rany; Antibiotiká; Lieky v surovom stave; Tradičné čínske liečivé rastliny; Šampóny s liečivými účinkami; Vlasové vody s liečivými účinkami; Prípravky do kúpeľa na lekárske použitie; Prípravky na liečbu akné; Diétne látky na lekárske použitie; Minerálne výživové doplnky; Výživové doplnky; Potraviny pre dojčatá; Obväzový materiál; Chirurgické obväzy; Obväzová gáza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zdravila za ljudi; Bakterijski pripravki za medicinsko in veterinarsko uporabo; Farmacevtski pripravki; Kemijsko-farmacevtski pripravki; Biološki preparati za medicinske namene; Farmacevtski pripravki za oskrbo ran; Antibiotiki; Naravna, neprečiščena zdravila; Tradicionalna kitajska zdravilna zelišča; Šamponi z zdravilnimi učinkovinami; Losjoni za kapilare z zdravilnimi učinkovinami; Pripravki za kopanje za medicinske namene; Pripravki za zdravljenje aken; Dietetične snovi za medicinsko uporabo; Mineralni dodatki za živila; Hranilni dodatki; Hrana za dojenčke; Medicinske obveze; Kirurške obveze; Gaza za obveze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Läkemedel för humana ändamål; Bakteriepreparat för medicinsk och veterinär användning; Farmaceutiska preparat; Kemisk-farmaceutiska preparat; Biologiska preparat för medicinska ändamål; Farmaceutiska preparat för sår; Antibiotika; Obehandlade läkemedel; Traditionella kinesiska medicinalörter; Medicinskt schamponeringsmedel; Kapillära lotioner (medicinska); Badpreparat för medicinska ändamål; Preparat för behandling av akne; Dietiska ämnen för medicinska ändamål; Mineraliska födoämnestillskott; Näringstillskott; Spädbarnsmat; Förband (medicinska); Kirurgiska förband; Gasväv för förband.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/101</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/173</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1081987</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>956</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

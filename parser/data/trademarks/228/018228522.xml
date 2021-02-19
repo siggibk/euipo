@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228522</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228522</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>MONFLUENCE</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Мобилни приложения.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Mobilní aplikace.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Mobilapplikationer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Mobile Apps.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εφαρμογές κινητών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Mobile apps.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aplicaciones de móviles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mobiilirakendused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Mobiilisovellukset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Applications logicielles pour téléphones mobiles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Mobilne aplikacije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Mobil alkalmazások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Applicazioni per cellulari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mobiliųjų įrenginių taikomoji programinė įranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mobilas lietotnes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Applikazzjoni tat-tagħmir ċellulari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Mobiele applicaties.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Mobilne aplikacje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aplicações móveis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aplicatii mobile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Mobilné aplikácie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Mobilna aplikacija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Mobilappar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Осигуряване на онлайн пазар за покупко-продажби на стоки и услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Provozování online trhu pro kupující a prodejce výrobků a služeb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tilvejebringelse af en onlinemarkedsplads til købere og sælgere af varer og tjenesteydelser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bereitstellen eines Online-Marktplatzes für Käufer und Verkäufer von Waren und Dienstleistungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παροχή χώρων αγορών επί γραμμής για αγοραστές και πωλητές προϊόντων και υπηρεσιών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Provision of an online marketplace for buyers and sellers of goods and services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Suministro de espacios de venta en línea para vendedores y compradores de productos y servicios.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Veebipõhise müügikeskkonna pakkumine kaupade ja teenuste ostjatele ning müüjatele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Online-markkinapaikan tarjoaminen tavaroiden ja palvelujen ostajille ja myyjille.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Mise à disposition d'espaces de vente en ligne pour acheteurs et vendeurs de produits et services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pružanje internetskog tržišnog prostora za kupce i prodavatelje proizvoda i usluga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Online piactér biztosítása áruk és szolgáltatások eladói és vásárlói részére.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Fornitura di un mercato online per acquirenti e venditori di beni e servizi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Interneto prekyviečių teikimas prekių ir paslaugų pardavėjams bei pirkėjams.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Tiešsaistes tirgus nodrošināšana preču un pakalpojumu pārdevējiem un pircējiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Forniment ta' suq onlajn għal xerrejja u bejjiegħa ta' prodotti u servizzi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ter beschikking stellen van online verkoopplaats voor kopers en verkopers van goederen en diensten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Zapewnianie platformy internetowej dla nabywców i sprzedawców towarów i usług.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Disponibilização de um espaço de mercado online para compradores e vendedores de produtos e serviços.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Furnizarea unei piețe online pentru cumpărătorii și vânzătorii de bunuri și servicii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Online poskytovanie obchodného priestoru pre nákupcov a predajcov tovarov a služieb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zagotavljanje spletnega trga za kupce in prodajalce blaga in storitev.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tillhandahållande av en marknadsplats online för köpare och säljare av varor och tjänster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082014</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

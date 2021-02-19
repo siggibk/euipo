@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-26T08:48:13</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229224</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229224</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>EM3</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Медицински апарати и уреди, по-специално медицински апарати за обдишване и уреди за поддръжка на дишането; С изключение на медицински; Части от горепосочените апарати, уреди и компресори.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Lékařská zařízení a přístroje, zejména lékařské dýchací přístroje a přístroje na podporu dýchání; Kompresory pro lékařské účely; Části výše uvedených zařízení, přístrojů a kompresorů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Medicinske apparater og anordninger, især medicinsk respirationsudstyr og udstyr til støtte af åndedrættet; Kompressorer til medicinsk brug; Dele af førnævnte apparater, instrumenter og kompressorer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Medizinische Apparate und Geräte, insbesondere medizinische Beatmungsgeräte und Atmungsunterstützungsgeräte; Kompressoren für medizinische Zwecke; Teile vorstehend genannter Apparate, Geräte und Kompressoren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ιατρικές συσκευές και όργανα, ειδικότερα ιατρικές συσκευές αναπνοής και συσκευές υποστήριξης της αναπνοής· Συμπιεστές για ιατρική χρήση· Μέρη όλων των προαναφερόμενων συσκευών, εξοπλισμού και συμπιεστών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Medical apparatus and equipment, in particular medical respiratory apparatus and respiratory support apparatus; Compressors for medical use; Parts for the aforesaid apparatus, equipment and compressors.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aparatos y equipos médicos, en particular aparatos médicos de respiración artificial y de respiración asistida; Compresores para uso médico; Partes de los aparatos, dispositivos y compresores anteriores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiinilised aparaadid ja seadmed, eelkõige meditsiinilised hingamisseadmed ja hingamise abiseadmed; Kompressorid meditsiiniliseks otstarbeks; Eespool nimetatud aparaatide, seadmete ja kompressorite osad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lääketieteelliset laitteet ja kojeet, erityisesti lääketieteelliset hengityslaitteet ja hengityksen tukilaitteet; Kompressorit lääketieteelliseen käyttöön; Edellä mainittujen laitteiden, kojeiden ja kompressorien osat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Appareils et instruments médicaux , en particulier respirateurs et appareils d'aide respiratoire médicaux; Compresseurs à usage médical; Pièces de ces appareils, dispositifs et compresseurs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Medicinski aparati i uređaji, posebno medicinski respiratori i uređaji za pomoć pri respiraciji; Kompresori za medicinsku upotrebu; Dijelovi prethodno navedenih aparata, uređaja i kompresora.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Orvosi készülékek és eszközök, különösen orvosi lélegeztetőgépek és légzéssegítő készülékek; Kompresszorok gyógyászati használatra; Fent nevezett készülékek, eszközök és kompresszorok alkatrészei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Apparecchi e strumenti medici, in particolare apparecchi per la respirazione artificiale e di ausilio alla respirazione; Compressori per uso medico; Parti dei suddetti apparecchi, strumenti e compressori.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Medicininiai aparatai ir instrumentai, ypač medicininiai gaivinimo prietaisai ir kvėpavimą palaikantys prietaisai; Kompresoriai medicinos reikmėms; Aukščiau išvardytų aparatų, prietaisų ir kompresorių dalys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medicīniski aparāti un ierīces, īpaši medicīniskas elpināšanas ierīces un elpošanas palīgierīces; Kompresori, izmantošanai medicīnā; Iepriekš nosaukto aparātu, ierīču un kompresoru detaļas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Apparat u tagħmir mediku, speċjalment tagħmir respitatorju mediku u apparat għall-assistenza respiratorja; Kumpressuri għal skopijiet mediċi; Partijiet ta' l-apparat, tagħmir u kumpressuri msemmija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Medische apparaten en toestellen, met name medische beademingsapparaten en ademhalingsondersteunende apparaten; Compressoren voor medisch gebruik; Onderdelen van de voornoemde apparaten, toestellen en compressoren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Aparatura i urządzenia medyczne, zwłaszcza medyczne respiratory i urządzenia wspierające oddychanie; Kompresory do celów medycznych; Części wyżej wymienionych aparatów, urządzeń i kompresorów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aparelhos e equipamentos médicos, em especial aparelhos medicinais de respiração artificial e para auxiliar a respiração; Compressores para uso medicinal; Partes dos aparelhos, equipamentos e compressores atrás referidos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Aparate şi echipamente medicale, în special aparate medicale de respirat şi pentru susţinerea respiraţiei; Compresoare de uz medical; Piese pentru aparatele, echipamentele şi compresoarele menţionate anterior.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lekárske zariadenia a prístroje, najmä medicínske dýchacie prístroje a prístroje podporujúce dýchanie; Kompresory na medicínske účely; Časti uvedených zariadení, prístroje a kompresory.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Medicinski aparati in naprave, zlasti medicinske dihalne naprave in naprave za spodbujanje dihanja; Kompresorji za medicinske namene; Deli omenjenih aparatov, naprav in kompresorjev.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Medicinska apparater och anordningar, speciellt medicinska respiratorer och apparater för andningsstöd; Kompressorer för medicinskt bruk; Delar till nämnda apparater, anordningar och kompressorer.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/081</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-30</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/150</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/203</PublicationIdentifier>
+        <PublicationSection>C.3.6</PublicationSection>
+        <PublicationDate>2020-10-23</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1032746</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>70122</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

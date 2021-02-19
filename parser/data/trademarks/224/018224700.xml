@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-01T09:34:45</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224700</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224700</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-09-29</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-10-01</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Trexcelerator</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Електронни книги; Софтуерни приложения с възможност за изтегляне; Мобилни приложения.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Elektronické knihy; Softwarové aplikace ke stažení; Mobilní aplikace.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Elektroniske bøger; Downloadable applikationssoftware; Mobilapplikationer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Elektronische Bücher; Herunterladbare Software-Anwendungen; Mobile Apps.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ηλεκτρονικά βιβλία· Τηλεφορτώσιμες εφαρμογές λογισμικού· Εφαρμογές κινητών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">E-books; Downloadable software applications; Mobile apps.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Libros electrónicos; Aplicaciones de software descargables; Aplicaciones de móviles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Elektroonilised raamatud; Allalaaditavad tarkvararakendused; Mobiilirakendused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sähköiset kirjat; Ladattavat ohjelmistosovellukset; Mobiilisovellukset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Livres électroniques; Applications logicielles téléchargeables; Applications logicielles pour téléphones mobiles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">E-knjige; Softverske aplikacije koje se mogu preuzeti; Mobilne aplikacije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Elektronikus könyvek; Letölthető szoftveralkalmazások; Mobil alkalmazások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Ebook; Applicazioni software scaricabili; Applicazioni per cellulari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Elektroninės knygos; Parsisiunčiama taikomoji programinė įranga; Mobiliųjų įrenginių taikomoji programinė įranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Elektroniskās grāmatas; Lejupielādējamas programmatūras lietotnes; Mobilas lietotnes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kotba elettroniċi; Applikazzjonijiet ta' softwer li jista' jitniżżel; Applikazzjoni tat-tagħmir ċellulari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Elektronische boeken; Downloadbare softwareapplicaties; Mobiele applicaties.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">E-booki; Aplikacje do pobrania; Mobilne aplikacje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Livros electrónicos; Software aplicacional descarregável; Aplicações móveis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cărţi electronice; Aplicaţii software descărcabile; Aplicatii mobile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Elektronické knihy; Stiahnuteľné softvérové aplikácie; Mobilné aplikácie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Elektronske knjige; Naložljive aplikacije programske opreme; Mobilna aplikacija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">E-böcker; Nedladdningsbara programvaruapplikationer; Mobil-appar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бизнес консултантски услуги; Консултантски и съветнически услуги в областта на търговското управление; Услуги, свързани с планиране на бизнес стратегии; Консултации в областта на търговското управление; Услуги, свързани с бизнес консултации; Услуги за управление на общност от консултанти и практици; Бизнес консултантски услуги; Консултантски услуги във връзка с бизнес анализ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Obchodní konzultační služby; Vedení podniků (poradenství); Služby v oblasti obchodní strategie a plánování; Poradenství v oblasti řízení obchodní činnosti; Obchodní konzultační služby; Manažerské služby komunity poradců a praktiků; Obchodní konzultační služby; Poradenské služby týkající se analýzy hospodářské činnosti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Forretningsmæssig rådgivningsvirksomhed; Konsulenttjenester og rådgivning vedrørende forretningsledelse; Forretningsstrategi og -planlægning; Rådgivning vedrørende forretningsledelse; Professionel rådgivning vedrørende forretningsvirksomhed; Administration af et fællesskab med rådgivere og praktikere; Forretningsmæssig rådgivningsvirksomhed; Rådgivningstjenester vedrørende erhvervsanalyse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Unternehmensberatungsdienste; Geschäftsführung, Unternehmensberatung; Geschäftsplanungs- und Geschäftsstrategiedienste [Unternehmensberatung]; Unternehmens- und Managementberatung; Beratungsdienste in Geschäftsangelegenheiten; Managementdienste einer Berater- und Praktiker-Community; Beratung in Geschäftsangelegenheiten; Beratungsdienste in Bezug auf Geschäftsanalysen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες συμβουλευτικής επιχειρήσεων· Υπηρεσίες εμπειρογνώμονα και συμβουλευτική σε θέματα διαχείρισης επιχειρήσεων· Υπηρεσίες στρατηγικής και σχεδιασμού επιχειρήσεων· Υπηρεσίες συμβούλων διοίκησης επιχειρήσεων· Υπηρεσίες συμβουλευτικής επιχειρήσεων· Υπηρεσίες διαχείρισης παρεχόμενες από κοινότητα συμβούλων και εργαζομένων· Υπηρεσίες συμβουλευτικής επιχειρήσεων· Συμβουλευτικές υπηρεσίες σε θέματα επιχειρηματικής ανάλυσης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Business consulting; Business management consultancy and advisory services; Business strategy and planning services; Business management consulting; Professional business consulting; Management of a community of consultants and practitioners; Business consulting; Advisory services relating to business analysis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Consultoría comercial; Asesoramiento y consultoría en materia de dirección de empresas; Servicios de estrategia y planificación de negocios; Consultoría en dirección de negocios; Consultoría profesional en negocios; Servicios de gestión de una comunidad de asesores y prácticos; Consultoría comercial; Servicios de asesoría relacionados con el análisis empresarial.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ärialane nõustamine; Ärijuhtimise alased konsultatsioonid ja nõustamine; Äristrateegia ja planeerimise väljatöötamine; Ärijuhtimiskonsultatsioonid; Ärialased konsultatsioonid (Spetsialisti); Konsultantide ja praktikute kogukonna juhtimisteenused; Ärialane nõustamine; Ärianalüüsiga seotud nõustamisteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Yrityskonsultointipalvelut; Liikkeenjohdon konsultointi- ja neuvontapalvelut; Liiketoiminnan strategia- ja suunnittelupalvelut; Liikkeenjohdon konsultointi; Liiketoiminnan konsultointipalvelut; Neuvonantaja- ja ammatinharjoittajayhteisön hallintapalvelut; Yrityskonsultointipalvelut; Liiketoiminta-analyyseihin liittyvät neuvontapalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de conseillers d'affaires; Services de conseillers et de conseils en gestion d'entreprises; Services de planification et de stratégie commerciales; Consultation pour la direction des affaires; Consultation professionnelle d'affaires; Services de management d'une communauté de conseillers et praticiens; Services de conseillers d'affaires; Services de conseil en matière d'analyse commerciale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Poslovno savjetovanje; Konzultantske i savjetodavne usluge za poslovno upravljanje; Usluge strateškog i poslovnog planiranja; Konzultantske usluge za poslovno upravljanje; Stručne poslovne konzultacije; Usluge upravljanja zajednicom savjetnika i praktičara; Poslovno savjetovanje; Savjetodavne usluge koje se odnose na poslovnu analizu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Üzleti konzultációs szolgáltatások; Üzletvezetési konzultációs és tanácsadó szolgáltatások; Üzleti stratégiai és tervezési szolgáltatások; Üzletvezetési konzultáció; Üzleti konzultációs szolgáltatások; Tanácsadók és szakemberek közösségének menedzsmentszolgáltatásai; Üzleti konzultációs szolgáltatások; Üzleti elemzéssel kapcsolatos tanácsadási szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di consulenza aziendale; Servizi di consulenza per l'organizzazione aziendale; Servizi di strategia aziendale e pianificazione; Consulenza per la gestione degli affari; Consultazione professionale di affari; Servizi di gestione di una comunità di consulenti e operatori; Servizi di consulenza aziendale; Servizi di consulenza in materia di analisi aziendali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Verslo konsultacijos; Konsultavimas ir patarimai verslo vadybos klausimais; Verslo strategija ir planavimas; Verslo vadybos konsultacijos; Verslo specialistų konsultacijos; Konsultantų ir praktikuojančių specialistų bendruomenių valdymo paslaugos; Verslo konsultacijos; Verslo analizės patarėjų paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Uzņēmējdarbības konsultāciju pakalpojumi; Konsultācijas un padomu sniegšana darījumu vadīšanas jomā; Uzņēmējdarbības stratēģijas un plānošanas pakalpojumi; Uzņēmējdarbības vadības konsultāciju pakalpojumi; Uzņēmējdarbības konsultāciju pakalpojumi; Vadības pakalpojumi konsultantu un praktiķu kopienai; Uzņēmējdarbības konsultāciju pakalpojumi; Padomu sniegšana saistībā ar uzņēmējdarbības analīzi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Konsulenza dwar negozju; Servizzi ta' pariri u konsulenza dwar ġestjoni tan-negozju; Servizzi ta' strateġiji w ippjanar ta' negozju; Konsulenza dwar il-ġestjoni tan-negozju; Servizzi ta' konsulenza dwar in-negozju; Servizzi ta' ġestjoni ta' komunità ta' konsulenti u prattikanti; Konsulenza dwar negozju; Servizzi ta' konsulenza dwar analiżi tan-negozju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Zakelijke consultancy; Bedrijfsorganisatorische consultancy en advisering; Strategie (Diensten met betrekking tot zakelijke -) en planning; Advisering inzake bedrijfsvoering; Professionele consultatie op het gebied van zaken; Managementdiensten van een gemeenschap van adviseurs en practici; Zakelijke consultancy; Adviesdiensten met betrekking tot bedrijfsorganisatorische analyse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Doradztwo biznesowe; Usługi doradcze i konsultingowe w zakresie zarządzania działalnością gospodarczą; Usługi w zakresie planowania i ustalania strategii działalności gospodarczej; Doradztwo w zakresie zarządzania biznesem; Usługi doradztwa w zakresie działalności gospodarczej; Usługi zarządzania społecznością doradców i praktyków; Doradztwo biznesowe; Usługi doradcze w zakresie analizy biznesowej.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Consultoria empresarial; Serviços de consultoria e assessoria para gestão de negócios comerciais; Serviços de estratégia e planeamento de negócios comerciais; Consultoria de gestão de negócios comerciais; Consultadoria profissional em negócios comerciais; Serviços de gestão de uma comunidade de consultores e profissionais; Consultoria empresarial; Serviços de assessoria relacionados com análise de negócios comerciais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Consultanţă în afaceri; Servicii de consultanţă şi consiliere în managementul afacerilor; Servicii pentru strategia şi planul de afaceri; Consultanţă privind managementul afacerilor; Consultanţă în afaceri; Servicii de management ale unei comunități de consultanți și practicieni; Consultanţă în afaceri; Servicii de consiliere privind analiza activităţii economice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Obchodné poradenstvo; Konzultačné služby a poradenstvo v oblasti obchodného manažmentu; Služby v oblasti obchodných stratégií a plánovania; Poradenstvo pri riadení podnikov; Odborné obchodné alebo podnikateľské poradenstvo; Riadiace služby komunity v súvislosti s poradenstvom a aplikáciou; Obchodné poradenstvo; Poradenské služby súvisiace s podnikovými analýzami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve poslovnega svetovanja; Storitve poslovodnega posvetovanja in svetovanja; Storitve poslovne strategije in načrtovanja; Storitve poslovodnega svetovanja; Storitve na področju poslovnega svetovanja; Storitve upravljanja skupnosti svetovalcev in izvajalcev; Storitve poslovnega svetovanja; Svetovalne storitve v zvezi s poslovnimi analizami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Företagskonsultation; Konsulttjänster och rådgivning avseende företagsledning; Tjänster avseende företagsstrategi och -planering; Konsultation avseende företagsledning; Företagskonsultation; Ledningstjänster för en rådgivnings- och praktikergrupp; Företagskonsultation; Rådgivningstjänster gällande företagsanalyser.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Онлайн публикуване на електронни книги и периодични издания; Осигуряване на услуги за обучение.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Online vydávání elektronických knih a časopisů; Zajišťování vzdělávacích služeb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Online publicering af elektroniske bøger og tidsskrifter; Formidling af undervisning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Online-Publikation von elektronischen Büchern und Zeitschriften; Durchführung von Trainingsdienstleistungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">On-line δημοσίευση ηλεκτρονικών βιβλίων και περιοδικών· Παροχή υπηρεσιών επιμόρφωσης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Publication of electronic books and journals online; Provision oftraining services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Publicación en línea de libros y revistas especializadas en formato electrónico; Prestación de servicios de formación.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Elektronraamatute ja -ajakirjade kirjastamine arvutivõrgus; Koolitusteenuste pakkumine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Elektronisten kirjojen ja lehtien julkaiseminen online-periaatteella; Valmennuspalveluiden tarjoaminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Publication en ligne de livres et revues spécialisées électroniques; Services de services pédagogiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Online objavljivanje elektroničkih knjiga i časopisa; Pružanje usluga obuke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Elektronikus könyvek és folyóiratok online megjelentetése; Képzési szolgáltatások biztosítása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pubblicazione elettronica di libri e periodici online; Formazione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Elektroninių knygų ir žurnalų tiesioginis publikavimas; Mokymo paslaugų teikimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Elektronisko grāmatu un laikrakstu publicēšana tiešsaistē; Mācību pakalpojumu nodrošināšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' pubblikazzjoni ta' kotba u gazzetti elettroniċi onlajn; Provvista ta' servizzi ta' taħriġ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Online-publicatie van elektronische boeken en tijdschirften (niet-downloadbaar); Het aanbieden van opleiding.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Publikowanie książek i czasopism elektronicznych online; Świadczenie usług szkoleniowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Publicação online de livros e revistas eletrónicos; Prestação de serviços de formação.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Publicare de cărți și periodice electronice online; Prestarea de servicii de pregătire.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vydávanie kníh a časopisov v elektronickej forme online; Poskytovanie tréningových služieb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Objavljanje elektronskih knjig in časopisov na spletu; Nudenje storitev usposabljanja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Publicering online av elektroniska böcker och tidskrifter; Tillhandahållande av utbildningstjänster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/115</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-19</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/187</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-30</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079122</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>70120</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-28T12:48:57</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229803</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229803</ApplicationNumber>
+<ApplicationDate>2020-04-26</ApplicationDate>
+<RegistrationDate>2020-08-25</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-26</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>URONE</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162491556</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229803/000162491556.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>02.09.01</CategoryCode>
+          <CategoryCode>27.03.02</CategoryCode>
+          <CategoryCode>27.05.05</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>14</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Кутии за бижута [ковчежета]; Сребърни нишки [бижутерия]; Гривни [бижутерийни изделия]; Дребни бижутерийни украшения; Огърлици [бижутерия]; Бижутерия; Пръстени [бижутерийни изделия]; Обици; Часовници; Благородни метали и техните сплави; Висулки [бижутерийни изделия].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Šperkovnice; Stříbrné nitě [šperky]; Náramky [šperky]; Přívěsky [šperky]; Náhrdelníky [šperky]; Šperky; Prsteny [šperky]; Náušnice; Hodinky; Vzácné kovy a jejich slitiny; Přívěšky na krk jako klenoty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Smykkeskrin; Sølvtråd [smykker]; Armbånd (smykker); Smykkevedhæng; Halskæder [smykker]; Juvelerarbejder; Ringe (smykker); Øreringe; Armbåndsure; Ædle metaller og legeringer heraf; Smykkevedhæng.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schmuckschatullen; Silberdrähte [Schmuck]; Armbänder [Schmuck]; Schmuckanhänger; Halsketten [Schmuck]; Juwelierwaren, Schmuckwaren; Ringe [Schmuck]; Ohrringe; Armbanduhren; Edelmetalle und deren Legierungen; Schmuckanhänger.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κοσμηματοθήκες· Κλωστή από άργυρο (κοσμήματα)· Βραχιόλια [κοσμήματα]· Κρεμαστά κοσμήματα· Περιδέραια· Κοσμήματα· Δακτυλίδια [κοσμήματα]· Σκουλαρίκια· Ρολόγια χειρός· Πολύτιμα μέταλλα και κράματα αυτών· Κρεμαστά κοσμήματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Jewelry boxes; silver thread jewelry; bracelets [jewelry]; jewellery charms; necklaces [jewelry]; jewellery; rings [jewelry]; earrings; wristwatches; precious metals and their alloys; Jewel pendants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Joyeros; Hilos de plata [joyería]; Pulseras [joyería]; Dijes [joyería]; Collares [joyería]; Artículos de joyería; Anillos [joyería]; Pendientes; Relojes de pulsera; Metales preciosos y sus aleaciones; Colgantes [joyas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ehtekarbid; Hõbeniit [juveeltoode]; Käevõrud [juveeltooted]; Ripatsid [juveeltooted]; Kaelakeed; Juveeltooted; Sõrmused [juveeltooted]; Kõrvarõngad; Käekellad, randmekellad; Väärismetallid ja nende sulamid; Ripatsid [juveeltooted].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Korurasiat; Hopealangat [korut]; Rannerenkaat [korut]; Koruriipukset; Kaulakorut [korut]; Korut; Sormukset [korut]; Korvarenkaat; Kellot; Jalometallit ja niiden seokset; Koruriipukset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Boîtes à bijoux; Fils d'argent [bijouterie]; Bracelets [bijouterie]; Breloques pour la bijouterie; Colliers; Joaillerie; Bagues [bijouterie]; Boucles d'oreilles; Montres-bracelets; Métaux précieux et leurs alliages; Pendentifs [bijoux].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kutijice za nakit; Srebrne niti [nakit]; Narukvice [nakit]; Privjesci za ogrlice i narukvice [nakit]; Ogrlice [nakit]; Nakit; Prstenje [nakit]; Naušnice; Ručni satovi; Plemeniti metali i njihove legure; Privjesci za lančiće [nakit].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ékszerdobozok; Ezüst szálak [ékszerek]; Karkötők [ékszerek]; Függők ékszerekhez; Nyakláncok [ékszerek]; Ékszerek; Gyűrűk [ékszerek]; Fülbevalók; Órák; Nemesfémek és ötvözeteik; Ékszer függők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Scatole per gioielli; Fili d'argento [gioielleria]; Braccialetti [gioielleria]; Ciondoli per la gioielleria; Collane [gioielleria]; Oreficeria; Anelli [gioielleria]; Orecchini; Orologi da polso; Metalli preziosi e loro leghe; Pendenti [gioielleria].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Brangenybių dėžutės; Sidabro siūlai [juvelyriniai dirbiniai]; Apyrankės [juvelyriniai dirbiniai]; Juvelyriniai karuliai; Karoliai [juvelyriniai dirbiniai]; Juvelyriniai dirbiniai; Žiedai [juvelyriniai dirbiniai]; Auskarai; Laikrodžiai [kišeniniai, rankiniai]; Brangieji metalai ir jų lydiniai; Pakabukai [juvelyriniai dirbiniai].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dārglietu kārbiņas; Sudraba diegi (juvelierizstrādājumi); Rokassprādzes (juvelierizstrādājumi); Juvelierizstrādājumu piekariņi; Kaklarotas [juvelierizstrādājumi]; Juvelierizstrādājumi; Gredzeni (juvelierizstrādājumi); Auskari; Rokas pulksteņi; Dārgmetāli un to sakausējumi; Dārgakmeņu karekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kaxxi għall-ġojjelli; Ħajt tal-fidda [ġojjellerija]; Brazzuletti [ġojjellerija]; Pendenti tal-ġojjellerija; Kullani [ġojjellerija]; Ġojjelli; Ċrieket [ġojjellerija]; Imsielet tal-widnejn; Arloġġi tal-polz; Metalli prezzjużi u l-ligi tagħhom; Pendenti tal-ġojjelli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Juwelenkistjes; Zilverdraad [juwelierswaren]; Armbanden [juwelierswaren]; Hangertjes [b.v. aan horlogekettingen]; Halskettingen [juwelierswaren]; Juwelen; Ringen [juwelierswaren]; Oorbellen; Polshorloges; Edele metalen en hun legeringen; Juwelen hangertjes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kasetki na biżuterię [szkatułki]; Srebrne nici [biżuteria]; Bransoletki [biżuteria]; Zawieszki [biżuteria]; Naszyjniki [biżuteria]; Biżuteria i wyroby jubilerskie; Pierścionki [biżuteria]; Kolczyki; Zegarki; Metale szlachetne i ich stopy; Wisiorki [klejnoty].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Caixas para joias; Fios de prata [joalharia]; Pulseiras [bijutaria]; Amuletos em jóias; Colares [joalharia]; Jóias; Anéis [joalharia]; Brincos para orelhas; Relógios de pulso; Metais preciosos e suas ligas; Pendentes de joalharia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Casete de bijuterii; Fire de argint [bijuterii]; Brăţări [bijuterii]; Pandantive; Coliere [bijuterii]; Bijuterii; Inele [bijuterii]; Cercei; Ceasuri de mână; Metale prețioase și aliajele acestora; Bijuterii-pandantive.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Šperkovnice; Strieborná niť (klenotnícke výrobky); Náramky (klenotnícke výrobky); Prívesky (klenotnícke výrobky); Náhrdelníky (klenotnícke výrobky); Šperky; Prstene (klenotnícke výrobky); Náušnice; Hodinky; Drahé kovy a ich zliatiny; Prívesky na krk [šperky].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Škatle za nakit; Srebrne niti [nakit]; Zapestnice [nakit]; Obeski [nakit]; Ogrlice [nakit]; Nakit; Prstani [nakit]; Uhani; Zapestne ure; Žlahtne kovine in njihove zlitine; Obeski z dragulji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Smyckeskrin; Silvertråd [smycken]; Armband [smycken]; Berlocker [smycken]; Halsband [smycken]; Juvelerarvaror; Ringar (juvelerarvaror); Örhängen; Ur; Ädla metaller och deras legeringar; Hängsmycken [juveler].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/091</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/163</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082590</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>26721</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

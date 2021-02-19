@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T08:41:07</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229804</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229804</ApplicationNumber>
+<ApplicationDate>2020-04-26</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-26</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Repetitool</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бази данни; Софтуер; Записано медийно съдържание.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Databáze; Počítačový software; Obsah médií.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Databaser; Software; Medieindhold.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Datenbanken; Software; Bespielte Medien.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Βάσεις δεδομένων· Λογισμικό· Περιεχόμενο πολυμέσων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Databases; Software; Media content.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bancos de datos; Software; Contenidos multimedia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Arvutite andmebaasid; Arvutitarkvara; Meediasisu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tietokonetietokannat; Ohjelmistot; Mediatallenteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Bases de données; Logiciel; Contenu de médias.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Baze podataka; Softver; Medijski sadržaj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Adatbázisok; Szoftverek; Média tartalmak.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Banche dati; Software; Contenuti per mezzi di comunicazione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Duomenų bazės (programinė įranga); Programinė įranga; Masinės Informacijos priemonių turinys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Datubāzes; Programmatūra; Audio, video un multivides materiāli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Banek tad-data; Softwer; Kontenut tal-midja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Computerdatabases; Software; Media content.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Komputerowe bazy danych; Oprogramowanie; Muzyka, filmy i inne rodzaje elektronicznych publikacji tekstowych i obrazowych utrwalone na nośnikach.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bases de dados; Software; Conteúdos de média.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Baze de date computerizate; Software; Conținut media.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Počítačové databázy; Softvér; Záznamy na nosičoch.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Podatkovne baze; Programska oprema; Medijske posnete vsebine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Databaser; Mjukvaror; Medieinnehåll.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за образование и обучение.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vzdělávací a školicí služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Uddannelses- og undervisningsvirksomhed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bildung, Erziehung und Unterricht.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες εκπαίδευσης και διδασκαλίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Education and instruction services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de educación e instrucción.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Haridus- ja õpetusteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Koulutus- ja opetuspalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services d’éducation et d’instruction.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge obrazovanja i podučavanja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Oktatási és képzési szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi relativi a educazione e istruzione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Švietimo ir instruktavimo paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Izglītības un instruēšanas pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' edukazzjoni u ta' tagħlim.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diensten met betrekking tot opvoeding en opleiding.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi edukacyjne i instruktażowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de educação e formação.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii educative și de instruire.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Výchovné a vzdelávacie služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve izobraževanja in poučevanja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Utbildnings- och undervisningstjänster.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Разработване, програмиране и внедряване на компютърен софтуер.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vývoj softwaru, programování a implementace softwaru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Udvikling af software, programmering og implementering.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Entwicklung, Programmierung und Implementierung von Software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ανάπτυξη, προγραμματισμός και εφαρμογή λογισμικού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Software development, programming and implementation.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Desarrollo, programación e implementación de software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Arvutitarkvaraarendus ja -teostus, programmeerimine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tietokoneohjelmistojen kehittäminen, ohjelmointi ja toteutus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Développement, programmation et implémentation de logiciels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Razvoj, programiranje i implementacija softvera.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szoftverfejlesztés, programozás és kivitelezés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Sviluppo, programmazione ed implementazione di software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Programinės įrangos tobulinimas, programavimas ir įdiegimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Programmatūras izstrāde, programmēšana un ieviešana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Żvilupp tas-softwer, programmar u implimentazzjoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ontwikkeling, programmering en implementatie van software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Rozwój, programowanie i wdrażanie oprogramowania komputerowego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Desenvolvimento, programação e implementação de software.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dezvoltare software, programare și implementare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vývoj softvéru, programovanie a zavádzanie programov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Razvoj programske opreme, programiranje in uvajanje programske opreme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Mjukvaruutveckling, -programmering och –implementering.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

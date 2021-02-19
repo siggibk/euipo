@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T11:10:14</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222719</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222719</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-08</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>VIROSTIL</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>1</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Химически препарати за санитарни цели; Химически продукти на основата на етанол; Химически продукти за индустрията.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Chemické přípravky pro sanitární účely; Chemické výrobky na bázi etanolu; Průmyslové chemické látky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kemiske præparater til sundhedspleje; Kemiske produkter fremstillet på basis af ætanol; Kemiske produkter til industrielle formål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Chemische Erzeugnisse für die Gesundheitspflege; Chemische Erzeugnisse auf der Basis von Ethanol; Chemische Erzeugnisse für gewerbliche Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χημικά προϊόντα για την υγιεινή· Χημικά προϊόντα με βάση την αιθανόλη· Χημικά για τη βιομηχανία.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Chemical preparations for sanitary purposes; Ethanol-based chemical preparations; Chemicals used in industry.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Productos químicos para cuidados de la salud; Productos químicos a base de etanol; Productos químicos utilizados en la industria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Keemiapreparaadid hügieenitarvetena; Etanooli põhised kemikaalid; Tööstuskemikaalid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kemikaalit terveydenhoitoon; Etanolipohjaiset kemikaalit; Teollisuuskemikaalit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Produits chimiques à usage hygiénique; Produits chimiques à base d'éthanol; Produits chimiques destinés à l'industrie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kemijski preparati za sanitarne svrhe; Kemijski proizvodi na bazi etanola; Kemijska sredstva za uporabu u industriji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Vegyi készítmények higiéniai célokra; Etanol alapú vegyi készítmények; Vegyszerek ipari használatra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Prodotti chimici per uso igienico; Prodotti chimici a base di etanolo; Prodotti chimici per l'industria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Cheminiai preparatai sanitarijos reikmėms; Chemijos produktai etanolio pagrindu; Cheminės medžiagos (pramonės reikmėms).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ķīmiskie preparāti sanitārai lietošanai; Ķīmiski izstrādājumi uz etanola bāzes; Ķimikālijas rūpnieciskiem nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preparazzjonijiet kimiċi għal skopijiet sanitarji; Prodotti kimiċi magħmula fuq bażi ta' etanol; Sustanzi kimiċi użati fl-industrija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Chemische producten voor hygiënisch gebruik; Chemische producten op basis van ethanol; Chemische producten voor industrieel gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Preparaty chemiczne do celów sanitarnych; Produkty chemiczne na bazie etanolu; Środki chemiczne dla przemysłu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Produtos químicos para fins higiénicos; Produtos químicos à base de etanol; Produtos químicos destinados à indústria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Preparate chimice de uz sanitar; Produse chimice pe bază de etanol; Produse chimice folosite în industrie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Chemické prípravky na hygienické účely; Chemikálie na báze etanolu; Priemyselné chemikálie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kemični pripravki za higienske namene; Kemični proizvodi na osnovi etanola; Kemikalije, ki se uporabljajo v industriji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kemiska produkter för hälsovård; Kemikalier baserade på etanol; Industrikemikalier.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Антисептици; Дезинфектанти; Дезинфектанти за хигиенни цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Antiseptika; Dezinfekční přípravky; Dezinfekční prostředky pro hygienické účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Antiseptiske midler; Desinfektionsmidler; Desinfektionsmidler til hygiejniske formål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Antiseptika; Desinfektionsmittel; Desinfektionsmittel für hygienische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αντισηπτικά· Απολυμαντικά· Απολυμαντικά για υγειονομική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Antiseptics; Disinfectants; Disinfectants for hygiene purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Antisépticos; Desinfectantes; Desinfectantes para uso higiénico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Antiseptikumid; Desinfektsioonivahendid; Hügieenilised desinfektsioonivahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Antiseptiset aineet; Desinfiointiaineet; Desinfiointiaineet hygieenisiin tarkoituksiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Antiseptiques; Désinfectants; Désinfectants à usage hygiénique.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Antiseptici; Dezinfekcijska sredstva; Dezinfekcijska sredstva za higijenske namjene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fertőtlenítőszerek, antiszeptikus készítmények; Fertőtlenítőszerek; Fertőtlenítőszerek higiéniai célokra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Antisettici; Disinfettanti; Disinfettanti per uso igienico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Antiseptikai [vaistai nuo pūlinės infekcijos]; Dezinfekavimo preparatai; Dezinfekavimo priemonės (higienos reikmėms).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Antiseptiskie līdzekļi; Dezinfekcijas līdzekļi; Dezinfekcijas līdzekļi higiēniskiem nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Antisettiċi; Diżinfettanti; Diżinfettanti għal skopijiet ta' iġjene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Antiseptische middelen; Ontsmettingsmiddelen; Desinfecterende middelen voor hygiënisch gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Antyseptyki; Środki odkażające; Środki dezynfekcyjne do celów higienicznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Antisséticos; Desinfectantes; Desinfetantes para uso higiénico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Antiseptice; Dezinfectante; Dezinfectante folosite pentru igienă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Antiseptické prípravky, dezinfekčné prípravky; Dezinfekčné prostriedky; Dezinfekčné prípravky na hygienické použitie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Antiseptiki; Dezinfekcijska sredstva; Razkužila za higienske namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Antiseptiska medel; Desinfektionsmedel; Desinfektionsmedel för hygieniska ändamål.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/081</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-30</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/150</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>797862</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>87067</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

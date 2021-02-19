@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-31T08:41:08</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224208</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224208</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-08-28</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-31</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>TROLLGRIP</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>6</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Железарски изделия, По-специално захващащи скоби, Обли дръжки от метал, Дръжки от метал; Врати, порти, прозорци и покрития (напр. капаци) за прозорци от метал, По-специално дръжки (топки) от метал, Дръжки от метал за задействане на плъзгащи се механизми; Конструкции и прозрачни конструкции от метал, по-специално дръжки от метал за душове.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Drobné kovové železářské zboží, Zejména upevňovací kleště, Kovové kulaté úchyty (držadla), Kovové kliky; Kovové dveře, vrata, okna a okenní kryty, Zejména rukojeti (knoflíky) z kovu, Kovové okenní úchyty; Konstrukce a přenosné stavební konstrukce z kovu, zejména upevňovací tyče z kovu pro sprchy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Små genstande af metal (isenkramvarer), Især skruetvinger med greb, Kuglegreb af metal, Støttegreb af metal; Døre, porte, vinduer og vinduesafskærmninger af metal, Især kuglegreb af metal, Løfteenheder til metalliske vinduesrammer; Bygninger og transportable bygninger af metal, især gribestænger af metal til brusekabiner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kleineisenwaren, insbesondere Griffzwingen, Griffe (Knöpfe) aus Metall, Griffstangen aus Metall; Türen, Tore, Fenster und Fensterabdeckungen aus Metall, insbesondere Griffe (Knöpfe) aus Metall, Griffe für Schiebefenster aus Metall; Bauten und transparente Bauten aus Metall, insbesondere Griffstangen aus Metall für Duschen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μεταλλικός εξοπλισμός (είδη σιδηροπωλείου), Ειδικότερα δακτύλιοι για λαβές, Πόμολα μεταλλικά, Χειρολισθητήρες από μέταλλο· Πόρτες, εξώπορτες, παράθυρα και μεταλλικά καλύμματα παραθύρων, Ειδικότερα λαβές (πόμολα) από μέταλλο, Μεταλλικοί ανυψωτικοί μηχανισμοί για συρόμενα πλαίσια· Κατασκευές και διάφανες κατασκευές από μέταλλο, ειδικότερα λαβές στήριξης από μέταλλο για ντουζιέρες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Metal hardware, In particular ferrules of metal for handles, Knobs of metal, Grab rails of metal; Doors, gates, windows and window coverings of metal, In particular knobs of metal, Metal sash lifts; Buildings and transportable buildings of metal, in particular grab rails of metal for showers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Artículos de ferretería metálicos, En particular virolas para mangos, Pomos [tiradores] metálicos, Agarraderos de metal; Puertas, verjas, ventanas y cubre ventanas, todos ellos de metal, En particular pomos (tiradores) metálicos, Ganchos de elevación metálicos; Edificaciones y construcciones transparentes de metal, en particular agarraderos de metal para duchas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Metallkaubad, Eelkõige käepidemete kaitsevõrud, Metallist nupud, Metallist tugikäepidemed; Metallist uksed, väravad, aknad ja aknakatted, Eelkõige metallist käepidemed (nupud), Tõstandakna metallist käepidemed; Ehitised ja läbipaistvad metallehitised, eelkõige metallist käepidemed duššidele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Metallitarvikkeet, Erityisesti tartuntakiinnikkeet, Ovennupit, metalliset, Metalliset tarttumatangot; Metalliset ovet, portit, ikkunat ja ikkunasäleiköt ja -luukut, Erityisesti metalliset kädensijat (ovennupit), Metalliset nostokahvat; Rakennukset ja siirrettävät rakennukset metallista, erityisesti metalliset suihkujen tukitangot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Quincaillerie métallique, En particulier viroles, Boutons [poignées] en métal, Barres d'appui métalliques; Portes, portails, fenêtres et revêtements de fenêtre métalliques, En particulier poignées (boutons) en métal, Poignées métalliques pour soulever le châssis d'une fenêtre; Constructions et constructions transparentes en métal, en particulier barres de poignées en métal pour douches.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Metalna roba, Posebno gumeni koluti na kraju alatne hvataljke, Metalne kvake, Metalne drške; Vrata, ulazna vrata, prozori i pokrovi za prozore od metala, Posebno metalne ručke (kugle), Metalne ručke za podizanje prozorskih okvira; Metalne konstrukcije i transparentne konstrukcije, posebno metalni rukohvati za tuševe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fémáruk, Különösen szorítópántok nyelekhez, Gombkilincsek, gombfogantyúk fémből, Fém falikorlátok; Fémből készült ajtók, kapuk, ablakok és árnyékolók, Különösen fogantyúk (gombfogantyúk) fémből, Fém ablakemelő fogantyúk; Épületek és átlátszó fémszerkezetek, különösen zuhanyzók fém kapaszkodói.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Ferramenta metallica, In particolare ghiere per maniglie, Pomelli [maniglie] in metallo, Barre di appiglio in metallo; Porte, cancelli, finestre e guarnizioni di finestre in metallo, In particolare maniglie (pomelli) in metallo, Dispositivi di sollevamento in metallo per telai a ghigliottina; Costruzioni e costruzioni trasparenti in metallo, in particolare corrimano in metallo per docce.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Metalo gaminiai, Ypač rankenų apkabos, Metalinės rankenos, Metaliniai turėklai; Metalinės durys, vartai, langai ir langų uždangos, Ypač metalinės rankenos (apvalios), Metalinės pakeliamųjų langų rankenos; Metaliniai statiniai ir kilnojamieji statiniai, ypač pailgos dušų rankenos iš metalo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Metāla izstrādājumi, Jo īpaši satveramās spailes, Metāla rokturi, Metāla atbalsta stieņi; Durvis, vārti, logi un logu aizsegi no metāla, Jo īpaši metāla rokturi (pogas), Logu rāmju pacelšanas rokturi no metāla; Būvelementi un caurspīdīgi būvelementi no metāla, jo īpaši metāla rokturi dušas aprīkojumam.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Oġġetti tal-metall, Speċjalment klamps tal-qbid, Pumijiet tal-metall, Vireg bħala poġġamani tal-metall; Bibien, xtiebi, twieqi u għata tat-twieqi tal-metall, Speċjalment mankijiet (pumijiet) tal-metall, Mankijiet tal-metall biex jitwaħħlu ma' twieqi b' tilar tal-ħġieġ; Strutturi u strutturi trasparenti tal-metall, speċjalment vireg puġġamani għad-doċoċ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kleinijzerwaren, Met name metalen ringen voor heften, Knoppen [handvatten] van metaal, Grijpleuningen van metaal; Deuren, portalen, vensters en raambeslag van metaal, Met name knoppen (handvatten) van metaal, Hefinrichtingen van metaal voor schuiframen; Constructies en transparante constructies van metaal, met name grijpstangen van metaal voor douches.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Drobne wyroby metalowe, W szczególności zaciski, Gałki [uchwyty] metalowe, Uchwyty, poręcze metalowe; Metalowe drzwi, bramy, okna i osłony okienne, W szczególności uchwyty (gałki) metalowe, Metalowe uchwyty do podnoszenia okien; Konstrukcje budowlane i przenośne metalowe konstrukcje budowlane, w szczególności uchwyty z metalu do pryszniców.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Ferragens metálicas, Em especial ponteiros [anilhas] para cabos, Maçanetas metálicas, Barras de apoio metálicas; Portas, portões, janelas e revestimentos de janela (metálicos), Em especial puxadores em metal, Puxadores metálicos para levantar janelas; Construções e construções transparentes metálicas, em especial barras de apoio metálicas para chuveiros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Articole de fierărie, În special inele de siguranță pentru mânere, Mânere sferice din metal, Şine de susţinere din metal; Uşi, porţi, ferestre şi jaluzele pentru ferestre din metal, În special mânere (mânere sferice) metalice, Mânere metalice pentru ferestre cu cadru mobil; Construcții și construcții transportabile metalice, în special bare de prindere metalice pentru dușuri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Železiarsky tovar z kovu, Predovšetkým kovové krúžky na rukoväte, Kovové držadlá, kľučky, Kovové držadlá; Kovové dvere, brány, okná a okenice, Predovšetkým držadlá (gombíky) z kovu, Kovové zdvíhacie držadlá okien; Stavby a prenosné stavby z kovu, predovšetkým kovové držadlá do spŕch.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Drobni železni predmeti, Zlasti kapice za ročaje, Okrogli ročaji iz kovine, Kovinske oprijemalne prečke; Vrata, okna in deli za zastiranje oken, kovinski, Zlasti ročaji (gumbi) iz kovine, Kovinski ročaji za dviganje oken; Zgradbe in prenosne zgradbe iz kovine, zlasti držala v obliki palic iz kovine za prhe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Metallvaror, Speciellt skoningar av metall för handtag, Knoppar (handtag) av metall, Gripstänger av metall; Dörrar, grindar, fönster och skydd för fönster av metall, Speciellt handtag (knoppar) av metall, Lyftanordningar av metall för fönster; Byggnader och transparenta byggnader av metall, speciellt gripstänger av metall för duschar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>8</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Ръчно задвижвани уреди и инструменти за обработка на материали, както и за дейности по строителство, ремонт и поддръжка, по-специално дръжки и държачи за уреди и инструменти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nářadí a nástroje s ručním pohonem pro zpracování materiálů, jakož i pro stavebnictví, opravy a údržbu, zejména upevnění a držáky pro přístroje a nástroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Håndværktøj og redskaber (hånddrevne) til materialebearbejdning samt til bygge-, reparations- og vedligeholdelsesarbejde, især greb og holdere til redskaber og værktøj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">handbetätigte Geräte und Werkzeuge zur Materialbearbeitung sowie für Bau-, Reparatur- und Instandhaltungsarbeiten, insbesondere Griffe und Halter für Geräte und Werkzeuge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χειροκίνητες συσκευές και εργαλεία για την επεξεργασία υλικών καθώς και για εργασίες κατασκευής, επισκευής και διατήρησης σε καλή κατάσταση, ειδικότερα λαβές και στηρίγματα για συσκευές και εργαλεία.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Hand-operated tools and equipment for the treatment of materials, and for building, repair and maintenance, in particular grips and holders for equipment and tools.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aparatos y herramientas accionados manualmente para tratamiento de materiales, así como para trabajos de construcción, reparación y conservación, en particular mangos y soportes para aparatos y herramientas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Materjalitöötluse ning ehitus-, remondi- ja hooldustööde käsiseadmed ja käsi-tööriistad, eelkõige seadmete ja tööriistade käepidemed ja hoidikud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Käsikäyttöiset välineet ja työkalut materiaalien käsittelyyn sekä rakennus-, korjaus- ja kunnossapitotöihin, erityisesti laitteiden ja työkalujen kahvat ja pidikkeet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Equipements et outils à actionnement manuel pour traitement de matériaux ainsi que pour travaux de construction, réparation et entretien, en particulier poignées et supports pour équipements et outils.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ručno pokretani uređaji i alati za obradu materijala kao i za poslove gradnje, popravka i održavanja, posebno ručke i držači za uređaje i alate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kézi működtetésű eszközök és szerszámok anyagmegmunkáláshoz, valamint építési, javítási és karbantartási munkákhoz, különösen fogantyúk és tartók eszközökhöz és szerszámokhoz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Strumenti e utensili manuali per il trattamento di materiali nonché lavori di costruzione, riparazione e manutenzione, in particolare maniglie e supporti per strumenti e utensili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Rankiniai medžiagų apdirbimo bei statybos, taisymo (remonto) ir techninės patikros prietaisai ir įrankiai, ypač prietaisų ir įrankių rankenos ir laikikliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Manuālas ierīces un darbarīki materiālu apstrādei, kā arī būvniecības, remonta un uzturēšanas darbiem, jo īpaši aparātu un darbarīku rokturi un spali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħmir u għodda mħaddma bl-idejn għat-trattament ta' materjali kif ukoll għal xogħlijiet ta' bini, tiswija u manutenzjoni, speċjalment mankijiet u appoġġi għal tagħmir u għodda.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Handgereedschappen en -instrumenten, met de hand te bedienen, voor de behandeling van materialen alsmede voor bouw-, reparatie- en onderhoudswerkzaamheden, met name handvatten en houders voor toestellen en gereedschappen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Narzędzia i przyrządy ręczne (o napędzie ręcznym) do obróbki materiałów oraz do prac budowlanych, naprawczych i konserwacyjnych, w szczególności uchwyty i uchwyty do przyrządów i narzędzi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Instrumentos e ferramentas manuais para o tratamento de materiais, assim como para trabalhos de construção, reparação e manutenção, em especial punhos e suportes para instrumentos e ferramentas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Scule și instrumente de mână acționate manual pentru tratament de materiale, precum și pentru lucrări de construcție, de reparații și de întreținere, în special mânere și suporturi pentru instrumente și scule.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Ručné náradie a ručné nástroje na spracovanie a úpravu materiálov, ako aj pre stavebníctvo, opravárenské služby a údržbu, predovšetkým rúčky a držadlá pre náradie a nástroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Ročne naprave in orodje za obdelavo materiala ter za gradbena dela, popravljalna in vzdrževalna dela, zlasti ročaji in držala za naprave in orodje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Handdrivna anordningar och verktyg för materialbearbetning samt för bygg-, reparations- och underhållsarbeten, speciellt handtag och hållare för anordningar och verktyg.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Дръжки от пластмасови материали за кухини; Пръти, стълбове, неметални, По-специално дръжки за вани, Пръти за стълби от пластмаса, Пръти за мрежови завеси и завеси за баня; Обков за врати, порти и прозорци, не от метал, по-специално топки (ръкохватки) не от метал, по-специално за врати, за мебели, за чекмеджета, за плъзгащи прозоци.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Držadla z plastových materiálů na servírovací nádobí; Kůly, ne kovové, Zejména madla pro koupelové vany, Plastové tyče na uchycení schodišťového koberce, Tyče na žaluzie a sprchové závěsy; Dveřní, vratová a okenní kování, nekovová, zejména rukojeti (rukověti) nekovové, zejména pro dveře, pro nábytek, pro zásuvky, pro posuvná okna.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Håndtag af plasticmaterialer til bordservice; Stænger, ikke af metal, Især gribestænger til badekar, Trappestænger af plastik, Stænger til stores og bruseforhæng; Beslag til døre, porte og vinduer, ikke af metal, især kuglegreb, ikke af metal, især til døre, til møbler, tilskuffer og til skydevinduer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Griffe aus Kunststoff für Hohlwaren; Stangen nicht aus Metall, insbesondere Griffstangen für Badewannen, Stangen für Treppenstufen aus Kunststoff, Stangen für Stores und Duschvorhänge; Tür-, Tor- und Fensterbeschläge, nicht aus Metall, insbesondere Knöpfe (Griffe) nicht aus Metall, insbesondere für Türen, für Möbel, für Schubladen, für Schiebefenster.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λαβές από πλαστικό για κοίλα σκεύη· Κοντάρια μη μεταλλικά, Ειδικότερα λαβές στήριξης για μπανιέρες, Ράβδοι για τη στερέωση ταπήτων σε κλίμακες από πλαστικό, Βέργες για στόρια και παραπετάσματα για ντουζιέρες· Προσαρτήματα θυρών, πυλών και παραθύρων, όχι από μέταλλο, ειδικότερα λαβές (πόμολα), όχι από μέταλλο, ειδικότερα για θύρες, για έπιπλα, για συρτάρια, για συρόμενα παράθυρα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Handles of plastics materials for hollowware; Poles, not of metal, In particular bath rails, Stair rods of plastic, Rods for net curtains and shower curtains; Door, gate and window fittings, not of metal, in particular knobs not of metal, in particular for doors, for furniture, for drawers, for window sashes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Mangos de materiales plásticos para piezas huecas de vajillas; Barras no metálicas, En particular barras de sujeción para bañeras, Varillas de plástico para escaleras, Varillas para visillos y cortinas de ducha; Accesorios no metálicos para puertas, verjas y ventanas, en particular pomos [tiradores] no metálicos, en particular para puertas, muebles, cajones, ventanas de guillotina.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Hõbenõude plastmaterjalidest käepidemed; Ridvad, teibad, v.a metallist, Eelkõige vannikäepidemed, Plastist trepivaibavardad, Võrkkardinate ja dušikardinate vardad; Ukse-, värava- ja aknamanused, v.a metallist, eelkõige nupud (käepidemed), v.a metallist, eelkõige ustele, mööblile, sahtlitele, lükandakendele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Onttojen astiatavaroiden muoviset kädensijat; Pylväät, ei-metalliset, Erityisesti kylpyammeiden kahvatangot, Portaiden muoviset mattotangot, Harsokankaiden ja suihkuverhojen tangot; Ovi-, portti- ja ikkunahelat muusta kuin metallista, erityisesti nupit (pidikkeet) muusta kuin metallista, erityisesti oviin, huonekaluihin, laatikoihin ja liukuikkunoihin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Poignées en matières plastiques pour vaisselle creuse; Perches non métalliques, En particulier barres de poignées pour baignoires, Tringles en matières plastiques pour escaliers, Tringles pour stores et rideaux de douche; Ferrures de portes, portails et fenêtres, non métalliques, en particulier boutons (poignées) non métalliques, en particulier pour portes, pour meubles, pour tiroirs, pour fenêtres coulissantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ručke od plastičnih materijala za posuđe; Motke, nemetalne, Posebno rukohvati za kade, Plastične šipke za pričvršćivanje tepiha, Šipke za prozirne zavjese i zastore za tuševe; Okovi vrata, velikih vrata i prozora, nemetalni, posebno nemetalne kugle (ručke), posebno za vrata, za namještaj, za ladice, za klizne prozore.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Edényáruk műanyag fogantyúi; Rudak, póznák, nem fémből, Különösen kapaszkodók kádakhoz, Műanyag rögzítő rudak lépcsőszőnyegekhez, Függöny karnisok és zuhanyfüggöny karnisok; Ajtó-, kapu- és ablakszerelvények, nem fémből, különösen gombok (fogantyúk, nyelek) nem fémből, különösen ajtókhoz, bútorokhoz, fiókokhoz, tolóablakokhoz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Manici in materie plastiche per vasellame; Pertiche non metalliche, In particolare corrimano per vasche da bagno, Fermatappeto in plastica, Aste per tendine e tende per doccia; Guarnizioni per porte, portoni e finestre, non in metallo, in particolare pomelli (maniglie) non in metallo, in particolare per porte, per mobili, per cassetti, per finestre scorrevoli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Plastikinės gilių indų rankenos; Ne metaliniai stulpai, Ypač vonių ranktūriai, Plastikiniai laiptų kilimo strypai [laikikliai], Dieninių ir dušo užuolaidų karnizai; Durų, vartų ir langų apkalos, ne metalo, ypač apvalios rankenos, ne metalo, ypač durų, baldų, stalčių, slankiųjų langų.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Rokturi no plastmasas dziļajiem virtuves traukiem; Nemetāliskas kārtis (stieņi), Jo īpaši rokturi vannām, Kāpņu paklāju stieņi no plastmasas, Aizkaru un dušas aizkaru stieņi; Durvju, vārtu un logu furnitūra, nav no metāla, jo īpaši pogas (rokturi) kas nav no metākla, it īpaši durvīm, mēbelēm, atvilktnēm, bīdāmiem logiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Mankijiet magħmula minn materjali tal-plastik għall-kontenituri u reċipjenti tal-mejda; Arbli, mhux tal-metall, Speċjalment vireg puġġamani għal vaski tal-banju, Vireg għat-tapiti tat-taraġ, tal-plastik, Vireg għall-purtieri tax-xibka u purtieri tad-doċċa; Fitings ta' bibien, gradi u twieqi, mhux tal-metall, speċjalment pumi (mankijiet)mhux tal-metall, speċjalment għal bibien, għall-għamara, għal kxaxen, għal twieqi li jiżżerżqu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Handgrepen van plastic materialen voor potten en pannen; Staken, niet van metaal, Met name handgrepen voor ligbaden, Traploperroeden van plastic, Gordijnroedes voor vitrage en douchegordijnen; Deur-, poort- en raambeslag, niet van metaal, met name knoppen (handgrepen), niet van metaal, met name voor deuren, voor meubelen, voor lades, voor schuiframen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Rączki z materiałów z tworzyw sztucznych do głębokich naczyń kuchennych; Żerdzie niemetalowe, W szczególności uchwyty do wanien, Pręty z tworzyw sztucznych do mocowania chodników na schodach, Karnisze do firanek i zasłon prysznicowych; Okucia drzwiowe, bramowe i okienne, niemetalowe, w szczególności gałki (uchwyty), nie z metalu, w szczególności do drzwi, do mebli, do szuflad, do okien podnoszonych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Pegas em matérias plásticas para louça côncava; Varões, não metálicos, Em especial pegas de apoio para banheiras, Varões de plástico para passadeiras de escadas, Varões para cortinas de rede e cortinados de duche; Guarnições de portas, portões e janelas, não metálicas, em especial puxadores não metálicos, em especial para portas, para móveis, para gavetas, para janelas de correr.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Mânere din materiale de plastic pentru castroane (de la serviciu de masă); Prăjini nemetalice, În special bare de prindere pentru căzi de baie, Bare de plastic pentru scări, Bare pentru storuri și perdele de duș; Fitinguri nemetalice pentru uși, porți și ferestre, în special mânere sferice (mânere) nemetalice, în special pentru uși, mobile, sertare, ferestre glisante.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Plastové rúčky na kuchynské riady; Nekovové tyče, Predovšetkým držadlá pre vane, Plastové tyče na upevnenie schodišťových kobercov, Tyče pre závesy a sprchové závesy; Nekovové kovania dvier, brán a okien, predovšetkým nekovové gombíky (rúčky), predovšetkým na dvere, pre nábytok, pre zásuvky, pre posuvné okná.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Plastični ročaji za posodo; Drogovi, nekovinski, Zlasti držala v obliki palic za kopalne kadi, Okrasne palice za stopniščne tekače, iz plastike, Palice za trgovine in zavese za prho; Okovje za vrata, vhodna vrata in okna, nekovinsko, zlasti gumbi (ročaji), nekovinski, zlasti za vrata, za pohištvo, za predalnike, za drsna okna.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Handtag av plastmaterial för kökskärl; Stänger, inte av metall, Speciellt gripstänger för badkar, Trappstänger av plast, Stavar för nätgardiner och duschförhängen; Dörr-, port- och fönsterbeslag, ej av metall, speciellt knoppar (handtag) ej av metall, speciellt för dörrar, till möbler, till utdragslådor, till skjutfönster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/095</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/165</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-31</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>758323</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>20408</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

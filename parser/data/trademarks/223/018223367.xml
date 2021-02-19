@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-12T23:01:00</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018223367</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018223367</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="1">Application published</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-11-09</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Social Dry Gin</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>33</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Джин; Алкохолни заготовки за приготвяне на напитки; Алкохолни напитки (с изключение на бира); Плодови екстракти [с алкохол]; Алкохолни есенции; Алкохолни екстракти; Спиртни напитки; Предварително смесени алкохолни напитки; Аперитиви; Коктейли; Дестилирани алкохолни напитки на основата на зърнени култури; Ниско алкохолни напитки; Дижестив; Дестилатни напитки; Ферментирал алкохол; Джин; Алкохол, годен за пиене.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Gin; Alkoholické přípravky pro výrobu nápojů; Alkoholické nápoje s výjimkou piva; Alkoholické výtažky z ovoce; Alkoholové esence; Alkoholové výtažky; Lihoviny [nápoje]; Předpřipravené alkoholické nápoje; Aperitivy; Koktejly; Destilované alkoholické nápoje z obilí; Nízkoalkoholické nápoje; Žaludeční kořalky; Destilované nápoje; Fermentované lihoviny; Gin; Lihové nápoje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Gin; Alkoholholdige præparater til fremstilling af drikke; Alkoholholdige drikke, undtagen øl; Frugtekstrakter, alkoholiske; Alkoholholdige essenser; Alkoholholdige ekstrakter; Spirituosa; Færdigblandede alkoholholdige drikkevarer; Aperitifs; Cocktails; Destillerede alkoholholdige drikke baseret på korn; Drikke med lavt alkoholindhold; Snaps til gavn for fordøjelsen; Destillerede drikke; Gæret spirituosa; Gin; Drikbare spiritusser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Gin; Alkoholische Präparate für die Zubereitung von Getränken; Alkoholische Getränke, ausgenommen Bier; Alkoholhaltige Fruchtextrakte; Alkoholische Essenzen; Alkoholische Extrakte; Spirituosen; Alkoholische Mixgetränke; Aperitifs; Cocktails; Destillierte alkoholische Getränke auf Getreidebasis; Getränke mit geringem Alkoholgehalt; Verdauungsschnaps; Destillierte Getränke; Fermentierte Spirituosen; Wacholderbranntwein; Trinkspirituosen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Τζιν· Οινοπνευματώδη παρασκευάσματα για ποτά· Αλκοολούχα ποτά (εκτός μπύρας)· Εκχυλίσματα φρούτων, οινοπνευματώδη· Αλκοολούχα αποστάγματα· Αλκοολούχα εκχυλίσματα· Αλκοολούχα δυνατά ποτά· Προαναμεμιγμένα αλκοολούχα ποτά· Απεριτίφ· Κοκταίηλ· Αλκοολούχα ποτά από απόσταγμα σπόρων· Ποτά με χαμηλή περιεκτικότητα σε οινόπνευμα· Σναπς για τη χώνευση· Αποσταγμένα ποτά· Οινοπνευματώδη ποτά που έχουν υποστεί ζύμωση· Τζιν· Δυνατά οινοπνευματώδη ποτά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Gin; Alcoholic preparations for making beverages; Alcoholic beverages (except beer); Fruit extracts, alcoholic; Alcoholic essences; Alcoholic extracts; Spirits [beverages]; Pre-mixed alcoholic beverages; Aperitifs; Cocktails; Grain-based distilled alcoholic beverages; Low alcoholic drinks; Digesters (spirits); Distilled beverages; Fermented spirit; Gin; Potable spirits.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Ginebra; Preparados alcohólicos para elaborar bebidas; Bebidas alcohólicas (excepto cervezas); Extractos de frutas con alcohol; Esencias alcohólicas; Extractos alcohólicos; Bebidas espirituosas; Bebidas alcohólicas premezcladas; Aperitivos; Cócteles; Bebidas alcohólicas destiladas a base de grano; Bebidas con bajo contenido de alcohol; Aguardiente digestivo; Bebidas destiladas; Licor fermentado; Ginebra; Bebidas espirituosas para la alimentación humana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Džinn, kadakamarjaviin; Alkohoolsed joogivalmistusained; Alkoholjoogid, v.a õlu; Alkohoolsed puuviljaekstraktid; Piiritusessentsid; Piiritusekstraktid; Piiritusjoogid; Valmissegatud alkoholjoogid; Aperitiivid; Kokteilid; Teraviljapõhised destilleeritud alkohoolsed joogid; Vähese alkoholisisaldusega joogid; Digestiivid; Destilleerimise teel saadud joogid, aetised, destilleeritud joogid; Kääritatud piiritusjoogid; Džinn, kadakamarjaviin; Piiritusjoogid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Gini; Alkoholia sisältävät juomien valmistusaineet; Alkoholijuomat (paitsi oluet); Hedelmäuutteet [alkoholipitoiset]; Alkoholiesanssit; Alkoholiuutteet; Väkijuomat; Valmiiksi sekoitetut alkoholijuomat; Aperitiivit; Cocktailjuomat; Viljapohjaiset tislatut alkoholijuomat; Miedot alkoholijuomat; Ruoansulatusta edistävät snapsit; Juomat, tislatut; Käyneet viinat; Gini; Tislatut juomat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Genièvre [eau-de-vie]; Préparations alcooliques pour la fabrication de boissons; Boissons alcoolisées à l'exception des bières; Extraits de fruits avec alcool; Essences alcooliques; Extraits alcooliques; Spiritueux; Boissons alcooliques pré-mélangées; Apéritifs; Cocktails; Boissons d'alcool distillé à base de céréales; Boissons à faible teneur en alcool; Alcools digestifs; Boissons distillées; Spiritueux fermentés; Genièvre [eau-de-vie]; Spiritueux pour la consommation humaine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Klekovača [rakija]; Alkoholni pripravci za pripremanje napitaka; Alkoholna pića (osim piva); Alkoholni ekstrakti voća; Alkoholne esencije; Alkoholni ekstrakti; Žestoka pića (napitci); Izmiješana alkoholna pića; Aperitivi; Kokteli; Destilirana alkoholna pića na bazi žitarica; Niskoalkoholična pića; Digestiv; Destilirana pića; Fermentirano žestoko piće; Klekovača [rakija]; Pitka žestoka pića.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gin; Alkoholos készítmények italok készítéséhez; Alkoholos italok (sörök kivételével); Alkoholos gyümölcskivonatok; Alkoholos esszenciák; Alkoholos kivonatok; Szeszes italok; Előre kikevert szeszesitalok; Aperitifek; Koktélok; Gabonaalapú desztillált alkoholos italok; Alacsony alkoholtartalmú italok; Emésztéssegítő pálinka; Égetett szeszesitalok; Erjesztett szeszes ital; Gin; Iható szeszek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Gin [acquavite]; Preparati alcolici per fare bevande; Bevande alcoliche (eccetto le birre); Estratti di frutta con alcool; Essenze alcooliche; Estratti alcoolici; Alcoolici; Bevande alcoliche premiscelate; Aperitivi; Cocktails; Bevande alcoliche distillate a base di cereali; Bevande a bassa gradazione alcolica; Acquaviti digestive; Bevande distillate; Liquori fermentati; Gin [acquavite]; Bevande alcoliche per l’alimentazione umana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Džinas; Alkoholiniai gėrimų gaminimo preparatai; Svaigieji gėrimai [išskyrus alų]; Vaisių ekstraktai [spiritiniai]; Spiritinės esencijos; Spiritiniai ekstraktai; Spiritiniai gėrimai; Sumaišyti svaigieji gėrimai; Aperityvai; Kokteiliai; Distiliuoti spiritiniai grūdų gėrimai; Silpni svaigieji gėrimai; Degtinė virškinimui gerinti; Distiliuoti gėrimai; Fermentuoti spiritiniai gėrimai; Džinas; Geriamieji spiritiniai alkoholiniai gėrimai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Džins; Alkoholiskas sastāvdaļas dzērienu pagatavošanai; Alkoholiskie dzērieni (izņemot alu); Alkoholiskie augļu ekstrakti; Alkoholisko dzērienu esences; Spirta ekstrakti; Spirtotie dzērieni; Iepriekš sajaukti alkoholiskie dzērieni; Aperitīvi; Alkoholiskie kokteiļi; Destilēti alkoholiskie dzērieni uz graudu bāzes; Dzērieni ar zemu alkohola saturu; Aperitīvi gremošanas veicināšanai; Destilēti dzērieni; Raudzēti alkoholiskie dzērieni; Džins; Dzeramais spirts.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ġinn; Preparazzjonijiet alkoħoliċi għat-tħejjija tax-xorb; Xarbiet alkoħoliċi (minbarra birra); Estratti tal-frott, alkoħoliċi; Essenzi alkoħoliċi; Estratti alkoħoliċi; Spirti [xorb]; Xorb alkoħoliku imħallat minn qabel; Aperitivi; Koktejls; Xorb alkoħoliku distillat ibbażat fuq il-qamħ; Xorb b'livell baxx ta' alkoħol; Diġestivi; Xorb distillat; Spirtu ffermentat; Ġinn; Spirti tajbin għax-xorb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Jenever; Alcoholische preparaten voor de bereiding van dranken; Alcoholische dranken, uitgezonderd bier; Alcoholhoudende vruchtenextracten; Alcoholhoudende essences; Alcoholhoudende extracten; Spiritualiën; Voorgemengde alcoholhoudende dranken; Aperitieven; Cocktails; Gedistilleerde alcoholische dranken op basis van granen; Laag alcoholpercentage bevattende dranken; Digestieve jenever; Gedistilleerde dranken; Spiritualiën (Gefermenteerde -); Jenever; Drinkbare sterke drank.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Dżin; Preparaty alkoholowe do sporządzania napojów; Napoje alkoholowe (z wyjątkiem piwa); Alkoholowe ekstrakty owocowe; Alkoholowe (Esencje -); Alkoholowe (Ekstrakty -); Alkohole wysokoprocentowe [napoje]; Wymieszane napoje alkoholowe; Aperitify; Koktajle; Destylowane napoje alkoholowe na bazie zbóż; Napoje alkoholowe niskoprocentowe; Digestify; Destylowane napoje; Sfermentowane alkohole wysokoprocentowe; Dżin; Pitne alkohole wysokoprocentowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Gin; Preparações alcoólicas para fazer bebidas; Bebidas alcoólicas (excluindo cerveja); Extratos de fruta com álcool; Essências alcoólicas; Extratos alcoólicos; Bebidas espirituosas; Bebidas alcoólicas pré-misturadas; Bebidas aperitivas; Cocktails; Bebidas alcoólicas destiladas à base de grãos; Bebidas com baixo teor alcoólico; Aguardentes digestivas; Bebidas destiladas; Bebidas alcoólicas fermentadas; Gin; Bebidas espirituosas potáveis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Rachiu de ienupăr; Preparate alcoolice pentru fabricarea băuturilor; Băuturi alcoolice (cu excepția berii); Extracte din fructe cu alcool; Esențe alcoolice; Extracte alcoolice; Băuturi spirtoase; Băuturi alcoolice pre-amestecate; Băuturi aperitiv; Cocteiluri; Băuturi alcoolice distilate pe bază de cereale; Băuturi slab alcoolizate; Ţuică digestivă; Băuturi distilate; Băutură spirtoasă fermentată; Rachiu de ienupăr; Băuturi alcoolice spirtoase.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Džin; Alkoholické prípravky na výrobu nápojov; Alkoholické nápoje okrem piva; Alkoholické výťažky z ovocia; Liehové esencie; Alkoholové extrakty (tinktúry); Liehoviny; Vopred pripravené miešané alkoholické nápoje; Aperitívy; Koktaily; Obilninové destilované alkoholické nápoje; Nízkoalkoholické nápoje; Pálenky na trávenie; Destilované nápoje; Fermentované liehoviny; Džin; Pitné liehoviny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Gin (žganje z okusom po brinovih jagodah); Alkoholni pripravki za pripravo pijač; Alkoholne pijače (razen piva); Sadni ekstrakti, alkoholni; Alkoholni izvlečki; Alkoholni ekstrakti; Žgane alkoholne pijače; Predhodno zmešane alkoholne pijače; Aperitivi; Koktajli; Destilirane alkoholne pijače na osnovi žitaric; Pijače z nizko vsebnostjo alkohola; Žganja za prebavo; Žgane pijače (narejene z destilacijo); Fermentirane žgane pijače; Gin (žganje z okusom po brinovih jagodah); Pitne žgane pijače.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Gin; Alkoholhaltiga preparat för framställning av drycker; Alkoholhaltiga drycker, inte öl; Alkoholhaltiga fruktextrakt; Alkoholhaltiga essenser; Alkoholhaltiga extrakt; Sprit [drycker]; Färdigblandade alkoholhaltiga drycker; Aperitifer; Cocktailar; Spannmålsbaserade destillerade alkoholhaltiga drycker; Drinkar med låg alkoholhalt; Snaps som underlättar matsmältningen; Destillerade drycker; Fermenterad sprit; Gin; Drickbar sprit.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/213</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-11-09</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079033</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

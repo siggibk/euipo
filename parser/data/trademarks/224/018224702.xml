@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-18T13:29:25</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224702</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224702</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<ApplicationLanguageCode>pl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Bed Concept</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162206704</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224702/000162206704.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.05.95</CategoryCode>
+          <CategoryCode>26.04.02</CategoryCode>
+          <CategoryCode>26.04.09</CategoryCode>
+          <CategoryCode>29.01.08</CategoryCode>
+          <CategoryCode>29.01.96</CategoryCode>
+          <CategoryCode>29.01.98</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Подматрачни рамки за легла; Легла; Дървени легла; Дюшеци; Метални рамки за легла; Легла, включващи матражи с вътрешна пружина; Легла с основи за матрак; Дивани, които стават на легла; Сглобки за легла, неметални; Летви за матраци; Скари за легла; Предпазни решетки за легло; Рамки за легла; Метални рамки за легла; Сгъваеми легла; Пружинни матраци; Пружини за легла; Закачалки за дрехи, стойки за дрехи [мебели] и закачалки за дрехи с куки; Стойки за дрехи; Закачалки за дрехи [закачалки за палта]; Щендери за дрехи; Мебели; Мебели, които се трансформират в легла; Мебели, с вградени легла; Мебелни модули; Дивани; Шезлонги; Складови етажерки; Тапицирани сгъваеми мебели; Стенни модули [мебели]; Основи за матрак; Дивани със свободно място за складиране.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Postelové rošty; Postele; Postele ze dřeva; Matrace; Kovové rámy postelí; Lůžka s pružinovými matracemi; Lůžka s rámem pohovky; Postele s úložným prostorem; Kování k postelím, ne kovová; Rámy pod matrace; Základy postelí; Postelové zábrany; Pelesti postelí dřevěné; Kovové kostry postelí; Skládací postele; Pružinové matrace; Pružiny do postelí; Věšáky na oděvy, stojany na oděvy [nábytek] a ramínka na oděvy; Stojany na šaty; Věšáky na oděvy (věšáky na šaty); Stojany na oděv; Nábytek; Nábytek přestavitelný na postele; Nábytek s vestavěnými postelemi; Nábytkové moduly; Divany; Pohovky (kratší s opěradlem); Skladovací regály a police; Čalouněný přizpůsobitelný nábytek; Části nábytkových stěn; Rámy pohovek; Pohovky s úložným prostorem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Lamelbunde til senge; Senge; Senge af træ; Madrasser; Sengestel af metal; Senge med springmadrasser; Boxmadrasser; Divansenge; Sengebeslag, ikke af metal; Sengebunde; Sengebunde; Sengeheste; Sengestel af træ; Sengestel af metal; Sammenklappelige senge; Fjedermadrasser; Madrasfjedre; Tøjbøjler, tøjstativer [møbler] og tøjknager; Tøjstandere; Frakkeknager; Bøjlestænger til tøj; Møbler; Møbler, der kan laves om til senge; Møbler med indbyggede senge; Møbelmoduler; Divaner; Laugbænke; Opbevaringsstativer; Polstrede, konvertible møbler; Vægmoduler [møbler]; Sokler til divaner; Divaner med indbygget opbevaringsplads.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Lattenroste für Betten; Betten [Möbel]; Betten aus Holz; Matratzen; Bettrahmen aus Metall; Betten mit Innenfedermatratzen; Schlafdivans; Diwane zum Schlafen; Bettbeschläge, nicht aus Metall; Lattenroste für Matratzen; Lattenroste; Bettgitter; Bettgestelle; Bettgestelle aus Metall; Schrankbetten; Bettfederrahmen; Bettfederungen; Kleiderbügel, Kleiderständer [Möbel] und Kleiderhaken; Kleiderständer; Kleideraufhänger; Kleiderstangen; Möbel; Zu Betten umbaubare Möbelstücke; Möbel mit eingebauten Betten; Möbelstück; Sofas [Diwane]; Kanapees; Lagerregale; Ausklappbare Polstermöbel; Schrankwände [Möbel]; Unterteile für Liegen; Liegesofas mit Stauraum.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Βάσεις κρεβατιών με τάβλες· Κλίνες· Κρεβάτια από ξύλο· Στρώματα· Μεταλλικά πλαίσια κρεβατιών· Κρεβάτια με ενσωματωμένα στρώματα με εσωτερικά ελατήρια· Κρεβάτια με ενσωματωμένα ντιβάνια· Καναπέδες-κρεβάτια· Κλινών εξαρτήματα [μη μεταλλικά]· Βάσεις στρώματος· Βάσεις κρεβατιού· Κάγκελα για κρεβάτια· Ξύλινα πλαίσια κρεβατιών· Μεταλλικά πλαίσια κρεβατιών· Πτυσσόμενα κρεβάτια· Ελατήρια· Σομιέ· Κρεμάστρες ενδυμάτων, καλόγεροι (έπιπλα) και άγκιστρα για ενδύματα· Κρεμάστρες (καλόγεροι)· Κρεμάστρες για ενδύματα και κρεμάστρες για παλτά· Κρεμάστρες ρούχων με ροδάκια· Έπιπλα· Έπιπλα μετατρεπόμενα σε κρεβάτια· Έπιπλα με ενσωματωμένα κρεβάτια· Είδη επίπλωσης· Ντιβάνια· Ξαπλώστρες [σεζ-λονγκ]· Ράφια φύλαξης· Έπιπλα με ταπετσαρία· Μονάδες τοίχου (έπιπλα)· Βάσεις για ντιβάνια· Ντιβάνια με ενσωματωμένο αποθηκευτικό χώρο.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Slatted bases for beds; Beds; Wooden beds; Mattresses; Bed frames of metal; Beds incorporating inner sprung mattresses; Beds incorporating divan bases; Divan beds; Bed fittings, not of metal; Mattress bases; Bed bases; Bed rails; Bed frames; Metal bedsteads; Foldaway beds; Box springs; Bedsprings; Clothes hangers, clothes stands [furniture] and clothes hooks; Clothes stands; Garment hangers [coat hangers]; Garment rails; Furniture; Furniture being convertible into beds; Furniture incorporating beds; Furniture units; Divans; Settees; Storage racks; Upholstered convertible furniture; Wall units [furniture]; Divan bases; Divans incorporating storage space.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Somieres de listones; Camas; Camas de madera; Colchones; Armazones metálicos para camas; Camas que incorporan colchones con muelles interiores; Camas que incorporan bases de canapé; Camas con canapés; Guarniciones no metálicas para camas; Somieres para colchones; Bases de camas; Barreras para camas; Armazones de cama; Somieres de cama metálicos; Camas plegables; Colchones de muelles (box springs); Muelles de colchón; Perchas para ropa, colgadores de ropa [muebles] y ganchos de ropa; Colgadores de ropa; Percheros y perchas para la ropa; Rieles para ropa; Piezas de mobiliario; Muebles que se convierten en camas; Muebles con camas; Muebles modulares; Divanes; Canapés [sillones]; Estanterías de almacenamiento; Mobiliario convertible tapizado; Unidades de pared (muebles); Bases de divanes; Divanes que incorporan espacio de almacenamiento.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Liistudest voodipõhjad; Voodid; Puidust voodiraamid; Madratsid; Metallist voodiraamid; Vedrumadratsitega voodid; Diivanipõhjaga voodid; Hoiusahtlite, panipaikadega voodid; Voodimanused, v.a metallist; Madratsiraamid; Voodipõhjad; Voodipiirded; Voodiraamid; Metallist voodiraamid; Klappvoodid; Vedrumadratsid; Voodivedrud; Riidepuud, riidevarnad [mööbel] ja riidenagid; Riidevarnad; Riidepuud; Riidestanged; Mööbel; Vooditeks muudetavad mööbliesemed; Mööbel, sh voodid; Sektsioonmööbel; Diivanid; Istesohvad; Ladustamisriiulid; Konverteeritav polsterdatud mööbel; Seinasektsioonid [mööbel]; Diivanipõhjad; Panipaigaga diivanid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vuoteiden pohjasäleiköt; Sängyt; Puiset sängyt; Patjat; Sängynrungot metallista; Jousitetulla sisäpatjalla varustetut sängyt; Runkopatjalla varustetut sängyt (divaani); Vuodesohvat; Sänkyvarusteet, ei-metalliset; Patjanrungot; Sänkyjen rungot; Sängynkaiteet; Sängynrungot; Metalliset sängynrungot; Kokoontaitettavat sängyt; Patjanjouset; Sängynjouset; Vaateripustimet, vaatenaulakot [huonekalut] ja vaatekoukut; Vaaterekit; Vaateripustimet [takinripustimet]; Vaatetangot; Huonekalut; Sängyksi muutettavat huonekalut; Huonekalut, joihin sisältyvät sängyt; Huonekaluelementit; Divaanit; Sohvat; Varastointitelineet; Verhoillut muunneltavat huonekalut; Seinäyksiköt (huonekalut); Leposohvarungot; Divaanit, joissa on säilytystilaa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Sommiers à lattes pour lits; Lits; Lits en bois; Matelas; Cadres de lits métalliques; Lits dotés de matelas à ressorts intérieurs; Lits comprenant des sommiers avec rangement; Lits à rangement; Garnitures de lits non métalliques; Sommiers pour matelas; Bases de lits; Barrières de lits; Cadres de lit; Cadres de lit métalliques; Lits escamotables; Sommiers à ressorts; Ressorts de sommiers; Cintres pour vêtements, valets [meubles] et patères pour vêtements; Portemanteaux; Portemanteaux [cintres]; Portants à vêtements; Meubles; Meubles convertibles en lits; Meubles lits; Unités de meubles; Divans; Canapés; Étagères de rangement; Meubles convertibles tapissés; Éléments muraux [meubles]; Bases de divan; Divans avec espace de rangement incorporé.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Rešetkaste baze za krevete; Kreveti; Drveni kreveti; Madraci; Metalni okviri za krevete; Kreveti koji sadrže madrace s oprugama; Kreveti s postoljem za kauče; Sofa kreveti; Oprema za krevete, nemetalna; Podloge za madrace; Podnice za krevete; Ograde kreveta; Okviri za krevete; Metalni okviri za krevete; Sklopivi kreveti; Opruge za madrace; Opruge za krevet; Vješalice, stalci [namještaj] i kuke za odjeću; Stalci za odjeću; Vješalice za odjeću; Stalci za odjeću; Namještaj; Namještaj koji se može preinačiti u ležajeve; Namještaj koji sadržava krevete; Elementi namještaja; Divani; Sofe; Police za skladištenje; Tapecirani konvertibilni namještaj; Zidni elementi [namještaj]; Baze za divane; Divani koji sadrže prostor za spremanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ágyrácsok; Ágyak; Fából készült ágyak; Matracok; Fém ágykeretek; Ágyak belső rugózású matracokkal; Heverő alapú ágyak; Díványágyak, ágyneműtartós ágyak; Ágyszerelvények, nem fémből; Matrac alapok; Ágyalapok; Ágyrácsok, ágykorlátok; Ágykeretek; Fém ágykeretek; Felhajtható ágyak; Rugós matracok; Ágyrugók; Vállfák, ruhaállványok [bútorzat] és ruhaakasztók; Ruhaállványok, ruhafogasok; Ruhafogasok [kabátakasztók]; Ruhatartó állványok; Bútorok; Ággyá alakítható bútorok; Bútorok beépített ággyal; Bútoregységek; Díványok, kerevetek; Kanapék; Tároló állványok; Kárpitozott átalakítható bútorok; Fali egységek [bútorok]; Dívány alapok; Ágyneműtartós díványok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Reti a doghe per letti; Letti; Letti di legno; Materassi; Strutture metalliche per letti; Letti comprendenti materassi con molle interne; Letti comprendenti basi a divano; Divani letto; Accessori per letti non metallici; Basi per materassi; Basi per letti; Sponde del letto; Telai di letti; Strutture per letti in metallo; Letti pieghevoli; Reti a molle; Molle per letti; Appendiabiti, attaccapanni a stelo [mobili] e grucce per indumenti; Appendiabiti; Grucce per abiti [appendiabiti]; Stand appendiabiti su rotelle; Mobilia; Mobili trasformabili in letti; Mobili comprendenti letti; Mobili componibili [mobili]; Divani; Canapè; Scaffalature per magazzini; Mobili trasformabili imbottiti; Mobili componibili da parete [mobili]; Basi per divani; Divani comprendenti uno spazio per riporre oggetti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Groteliniai lovų pagrindai; Lovos; Medinės lovos; Čiužiniai ir matracai; Metaliniai lovų rėmai; Lovos su spyruokliniais čiužiniais; Lovos su sofos pagrindais; Lovos su stalčiais; Ne metalinė lovų furnitūra; Čiužinių pagrindai; Lovų rėmai; Lovų barjerai; Lovų rėmai; Metaliniai lovos rėmai; Sulankstomos lovos; Spyruokliniai čiužinių pagrindai; Lovos spyruoklės; Drabužių kabyklos, drabužių stovai [baldai] ir drabužių kabliukai; Drabužių stovai; Drabužių pakabos [apsiaustų pakabos]; Drabužių kabyklos; Baldai; Baldai, pertvarkomi į lovas; Baldai su įtaisytomis lovomis; Sekciniai baldai; Kanapos; Sofos; Sandėliavimo stelažai; Sudedamieji minkšti baldai; Sieniniai komplektai [baldai]; Sofų pagrindai; Kanapos su saugojimo vietomis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Gultu pamatnes ar gultu līstēm; Gultas; Koka gultas; Matrači; Gultas rāmji no metāla; Gultas ar atsperu matračiem; Gultas ar iekļautu dīvānu pamatni; Dīvāngultas; Nemetāliski gultu piederumi; Matraču pamatnes; Gultu rāmji; Gultas margas; Gultu rāmji; Metāla gultu rāmji; Saliekamās gultas; Atsperu gultas; Gultu atsperes; Apģērbu pakaramie, statīvi (mēbeles) un āķi apģērbiem; Stieņi apģērbu pakarināšanai; Drēbju pakaramie; Statīvi apģērba pakarināšanai; Mēbeles; Mēbeles, ko var pārveidot par gultām; Mēbeles, kurās iebūvētas gultas; Mēbeļu komplekti; Dīvāni; Nelieli dīvāniņi; Uzglabāšanas plaukti; Polsterētas pārveidojamas mēbeles; Skapju sienas; Dīvānu pamatnes; Dīvāni ar kasti mantu glabāšanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Bażijiet tas-sodda magħmula minn strixxi; Sodod; Sodod tal-injam; Saqqijiet; Frejms tas-sodod magħmula mill-metall; Sodod li fihom saqqijiet bil-molol fuq ġewwa; Sodod li fihom bażijiet ta' sufanijiet; Sodod baxxi li jixbħu lid-divani; Tagħmir tas-sodod, mhux tal-metall; Bażijiet għas-saqqijiet; Bażijiet għas-sodod; Vireg tas-sodda; Frejms tas-sodda; Frejms tas-sodda tal-metall; Sodod li jingħalqu; Molol tas-saqqijiet; Molol tas-sodod; Spallieri tal-ħwejjeġ, stends tal-ħwejjeġ [għamara] u ganċijiet tal-ħwejjeġ; Stends tal-ħwejjeġ; Spallieri tal-ħwejjeġ u spallieri tal-kowtijiet; Vireg għall-ħwejjeġ; Għamara; Għamara li tista' tinbidel f'sodda; Għamara li jinkorporaw is-sodod; Unitajiet ta' għamara; Divanijiet; Sufani; Xtillieri tal-ħażna; Għamara konvertibbli, miksija bit-tapizzerija; Armarju ta' mal-ħajt [għamara]; Il-qiegħ tad-divani; Divani li fihom spazju għall-ħażna.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Lattenbodems; Bedden; Bedden van hout; Matrassen; Bedframes van metaal; Bedden met binnenveringsmatrassen; Bedden met ingebouwde divanbodems; Slaapbanken; Garnituren, niet van metaal, voor bedden; Matrasbodems; Beddenbodems; Bedrelingen; Bedframes; Metalen bedframes; Opklapbedden; Boxsprings; Spiraalbodems voor bedden; Klerenhangers, kledingrekken [meubilair] en kledinghaken; Kledingrekken; Kleerhangers; Kledingstangen; Meubelen; Meubelen die kunnen worden omgebouwd tot bedden; Meubelen met ingebouwde bedden; Meubeleenheden; Divans; Canapés; Opbergrekken; Verwisselbare beklede meubelen; Kastenwanden [meubelen]; Onderstellen voor divans; Divans met ingebouwde opslagruimte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">listwowe podstawy łóżek (stelaże); łóżka; łóżka drewniane; materace; metalowe ramy łóżek; łóżka zawierające materace z wkładem sprężynowym; łóżka zawierające stelaże do tapczanów; łóżka ze schowkiem [szufladami]; osprzęt niemetalowy do łóżek; podstawy pod materace; podstawy łóżek; poręcze do łóżek; ramy do łóżek; ramy łóżek z metalu; składane łóżka; sprężynowa podstawa materaca [box spring]; sprężyny do łóżek; wieszaki na ubrania, wieszaki stojące do ubrań [meble] i haczyki na ubrania; wieszaki stojące do ubrań; wieszaki na części garderoby; stojaki na ubrania; meble; meble z opcją zmieniania w łóżka; meble zawierające łóżka; meblościanki; kanapo-tapczany; kanapy; regały do przechowywania; rozkładane meble z obiciem; segmenty mebli ściennych; stelaże tapczanów; tapczany posiadające miejsce do przechowywania.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Estrados de ripas para camas; Camas; Camas de madeira; Colchões; Armações de camas em metal; Camas com colchões de molas incorporadas; Camas com bases de divã; Divãs-cama; Acessórios, não metálicos, para camas; Bases para colchões; Bases para camas; Grades para camas; Armações de camas; Armações de camas metálicas; Camas rebatíveis; Colchões de molas; Estrados de molas para camas; Bengaleiros e cabides para roupa [móveis] e ganchos para a roupa; Cabideiro; Cabides para roupas [cabides para casacos]; Varões para vestuário; Mobiliário; Mobiliário convertível em camas; Móveis com camas incorporadas; Unidades de mobiliário; Divãs; Canapés [cadeirões]; Estantes de armazenamento; Mobiliário estofado convertível; Acessórios de parede [mobiliário]; Bases de divã; Divãs com espaço para armazenamento.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Somiere pentru paturi; Paturi; Paturi din lemn; Saltele; Cadre de pat metalice; Paturi prevăzute cu saltele cu arcuri interioare; Paturi care includ şi divane; Paturi divan; Garnituri nemetalice pentru paturi; Cadre pentru saltele; Cadre de paturi; Bariere de protecţie pentru pat; Structuri pentru paturi; Cadre de pat metalice; Paturi pliante; Somiere cu arcuri; Arcuri de pat; Umeraşe şi cuiere pentru haine, suporturi pentru haine [mobilier] şi cârlige pentru îmbrăcăminte; Suporturi pentru haine; Umeraşe pentru haine [umeraşe pentru paltoane]; Suporturi cu bare pentru haine; Piese de mobilier; Mobile care se pot transforma în pat; Mobilă cu pat încorporat; Unităţi de mobilier; Canapele (care sunt extensibile); Şezlonguri pentru transatlantice; Rafturi de depozitare; Mobilier convertibil tapiţat; Unităţi pentru perete [mobilier]; Cadre pentru divane; Divane cu spaţii de depozitare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lamelové rošty do postelí; Postele; Drevené postele; Matrace; Posteľové rámy z kovu; Postele s matracom s vnútornými pružinami; Postele s gaučovým základom; Postele s úložným priestorom; Nekovové posteľové vybavenie; Rošty, základne pre matrace; Rámy postelí; Posteľové zábrany; Posteľné rámy; Kovové posteľné rámy; Sklápacie postele; Matracové konštrukcie s pružinami; Posteľné pružiny; Vešiaky, remienka na odevy, stojany na šaty [nábytok], háčiky na odevy; Stojany na šaty; Vešiaky na odevy [rám na vešanie šiat]; Šatníkové stojany na vešiaky; Nábytok; Nábytok prestaviteľný na posteľ; Nábytok v sebe obsahujúci postele; Časti nábytkových sektorov; Divány; Ležadlá (Rozkladacie -); Regály a police na skladovanie; Čalúnený zmeniteľný nábytok; Časti nábytkových stien [nábytok]; Základy divánov; Pohovky s úložným priestorom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Rebrasti posteljni pod; Postelje; Lesene postelje; Vzmetnice; Posteljni okvirji iz kovine; Postelje, ki vsebujejo vzmetnice z notranjim vzmetenjem; Postelje, ki vsebujejo podnožja divanov; Raztegljivi divani; Oprema za posteljo, nekovinska; Podloge za vzmetnice; Ogrodja za postelje; Posteljne varovalne ograje; Okvirji za postelje; Kovinski posteljni okvirji; Zložljive postelje; Vzmeti za žimnice; Posteljne vzmeti; Obešalniki za oblačila, stojala za oblačila [pohištvo] in kavlji za obešanje oblačil; Stojala za obleke; Obešalniki za oblačila (obešalniki za plašče); Garderobna stojala za obešanje oblačil; Pohištvo; Pohištvo, ki se lahko spremeni v posteljo; Pohištvo, vključno s posteljami; Pohištvene enote; Divani; Zofe; Stojala za shranjevanje (regali); Oblazinjeno spremenljivo pohištvo; Stenske enote [pohištvo]; Ogrodja divanov; Divani z vgrajenim prostorom za shranjevanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Spjälbottnar för sängar; Sängar; Sängar av trä; Madrasser; Sängramar av metall; Sängar med resårmadrasser; Dagbäddar; Divansängar; Sängbeslag, inte av metall; Madrassramar; Sängstommar; Sängräcken; Sängramar; Sängstommar av metall; Hopfällbara sängar; Resårmadrasser; Sängfjädrar; Klädhängare, klädställ [möbler] och klädkrokar; Klädställ; Klädhängare och rockhängare; Klädstänger; Möbler; Möbler som kan göras om till sängar; Möbler innehållande sängar; Kombimöbler; Divaner; Fåtöljer; Förvaringshyllor; Klädda omvandlingsbara möbler; Väggenheter [möbler]; Divansocklar; Divaner med lagringsutrymme.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/090</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-14</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>745762</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>41831</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003127855</OppositionIdentifier>
+<OppositionDate>2020-08-06</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion
+Unfair advantage /detriment to distinctiveness or repute</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>ES</EarlierMarkCountryCode>
+<ApplicationNumber>M3007788</ApplicationNumber>
+<ApplicationDate>2011-11-25</ApplicationDate>
+<RegistrationNumber>M3007788</RegistrationNumber>
+<RegistrationDate>2012-04-12</RegistrationDate>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BED'S</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>ES</EarlierMarkCountryCode>
+<ApplicationNumber>M3007788</ApplicationNumber>
+<ApplicationDate>2011-11-25</ApplicationDate>
+<RegistrationNumber>M3007788</RegistrationNumber>
+<RegistrationDate>2012-04-12</RegistrationDate>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BED'S</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>ES</EarlierMarkCountryCode>
+<ApplicationNumber>M3518201</ApplicationNumber>
+<ApplicationDate>2014-07-03</ApplicationDate>
+<RegistrationNumber>M3518201</RegistrationNumber>
+<RegistrationDate>2014-11-18</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BED'S</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>ES</EarlierMarkCountryCode>
+<ApplicationNumber>M3518201</ApplicationNumber>
+<ApplicationDate>2014-07-03</ApplicationDate>
+<RegistrationNumber>M3518201</RegistrationNumber>
+<RegistrationDate>2014-11-18</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BED'S</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>119510</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>13007</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018830326</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>41831</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-11-18</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-13T08:10:19</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229622</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229622</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>el</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>WUIZ</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Записано съдържание; Информационно-технологични и аудиовизуални, мултимедийни и фотографски устройства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nahraný obsah (počítačové programy, data a informace); Informační technologie a audiovizuální, multimediální a fotografické přístroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Optaget indhold; Informationsteknologiske, audiovisuelle og fotografiske apparater, samt apparater til multimedie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Aufgezeichnete Daten; Informationstechnologische, audiovisuelle, multimediale und fotografische Geräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ηχογραφημένα περιεχόμενα· Τεχνολογία της πληροφορίας και συσκευές οπτικοακουστικές, πολυμέσων και φωτογραφικές.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Recorded content; Information technology and audio-visual, multimedia and photographic devices.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Grabaciones; Equipos de tecnología de la información, audiovisuales, multimedia y fotográficos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Salvestised; Infotehnoloogia- ning audiovisuaal-, multimeedia- ja fotoseadmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tallenteet; Tietotekniset laitteet sekä audiovisuaaliset, multimedia- ja valokuvauslaitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Contenu enregistré; Dispositifs de la technologie de l’information, audiovisuels, multimédias et photographiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Snimljeni sadržaj; Informacijska tehnologija te uređaji za reprodukciju zvučnih zapisa, videozapisa i multimedijskih sadržaja te uređaji za fotografiranje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Rögzített tartalmak; Informatikai és audio-, vizuális, multimédiás és fényképészeti készülékek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Contenuti registrati; Tecnologie dell’informazione e dispositivi audiovisivi, multimediali e fotografici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Įrašytas turinys; Informacinių technologijų ir garso, vaizdo, daugialypės terpės ir fotografijos prietaisai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ierakstu materiāli; Informācijas tehnoloģijas un audiovizuālo materiālu, multivides un fotografēšanas ierīces.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kontenut irrekordjat; Teknoloġija tal-informatika u tagħmir awdjo-viżwali, multimedjali u fotografiku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Opgenomen content; Informatietechnologische, audiovisuele, multimedia- en fotografische toestellen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Utrwalone na nośnikach informacje i dane; Urządzenia technologii informacyjnej i audiowizualne, multimedialne i fotograficzne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Conteúdo gravado; Tecnologia da informação e dispositivos audiovisuais, multimédia e fotográficos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Materiale înregistrate; Dispozitive pentru tehnologia informației, audio-vizuale, multimedia și fotografice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nahrávky a záznamy; Zariadenia informačných technológií a audiovizuálne, multimediálne a fotografické zariadenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Posnete vsebine; Naprave za informacijsko tehnologijo, avdiovizualne in večpredstavnostne vsebine ter fotografiranje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Inspelningar; Informationsteknologiska anordningar, ljudanordningar, visuella anordningar, multimedieanordningar och fotografiska anordningar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>38</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Телекомуникационни услуги; Осигуряване и отдаване под наем на телекомуникационни средства и оборудване.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Telekomunikační služby; Poskytování a pronájem telekomunikačních zařízení a vybavení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Telekommunikation; Tilvejebringelse og udlejning af telekommunikationsfaciliteter og -udstyr.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Telekommunikationsdienstleistungen; Verleih und Vermietung von Telekommunikationsanlagen und -geräten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες τηλεπικοινωνίας· Παροχή και ενοικίαση εγκαταστάσεων και εξοπλισμού τηλεπικοινωνιών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Telecommunication services; Provision and rental of telecommunications facilities and equipment.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de telecomunicaciones; Suministro y alquiler de instalaciones y equipamientos de telecomunicaciones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Sideteenused; Sidevahendite ja -seadmete pakkumine ja rent.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kaukoviestintä; Kaukoviestintävälineiden ja -laitteiden tarjoaminen ja vuokraus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de télécommunications; Fourniture et location d'installations et d'équipement de télécommunication.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Telekomunikacijske usluge; Pružanje i iznajmljivanje telekomunikacijskih instalacija i opreme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Távközlési szolgáltatások; Távközlési szolgáltatások és berendezések biztosítása és bérbeadása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di telecomunicazione; Fornitura ed affitto di strumenti ed apparecchi di telecomunicazione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Telekomunikacijų paslaugos; Telekomunikacijos įtaisų ir įrenginių teikimas ir nuoma.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Telesakaru pakalpojumi; Telesakaru iekārtu un ierīču nodrošināšana un iznomāšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi tat-telekommunikazzjoni; Provvista u kiri ta' faċilitajiet u tagħmir tat-telekommunikazzjonijiet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Telecommunicatiediensten; Verschaffing en verhuur van telecommunicatiefaciliteiten en -uitrustingen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi telekomunikacyjne; Dostarczanie i wynajem infrastruktury i sprzętu telekomunikacyjnego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de telecomunicações; Fornecimento e aluguer de equipamentos e instalações de telecomunicações.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de telecomunicații; Furnizarea și închirierea de instalații și echipamente de telecomunicații.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Telekomunikačné služby; Poskytovanie a prenájom telekomunikačných zariadení a príslušenstva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Telekomunikacijske storitve; Zagotavljanje in oddajanje telekomunikacijskih zmogljivosti in opreme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Telekommunikationstjänster; Upplåtande och uthyrning av telekommunikationsfaciliteter och -utrustningar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Образование, развлечение и спорт; Издателска дейност, репортажи и писане на текстове; Услуги за резервация и резервация на билети за образователни, развлекателни и спортни дейности и събития; Услуги за образование, развлечение и спорт.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Výchova, vzdělávání, zábava a sportovní činnost; Zveřejňování, oznamování a psaní textů; Rezervace vstupenek na vzdělávací, zábavní a sportovní aktivity a akce a související rezervační služby; Služby v oblasti vzdělávání, zábavy a sportu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Uddannelsesvirksomhed, underholdningsvirksomhed og sportsarrangementer; Publicering, journalistvirksomhed og tekstforfatning; Reservation af billetter og booking af aktiviteter og arrangementer vedrørende uddannelse, underholdning og sport; Uddannelsesvirksomhed, underholdningsvirksomhed og sportsydelser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bildung, Erziehung, Unterhaltung und sportliche Aktivitäten; Verlagsdienstleistungen und Berichterstattung sowie Verfassen von Texten; Ticketreservierung und -buchung für Bildungs- und Unterhaltungsveranstaltungen sowie für sportliche Veranstaltungen und Äktivitäten; Bildung, Erziehung, Unterhaltung und sportliche Aktivitäten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εκπαίδευση, ψυχαγωγία και σπορ· Υπηρεσίες έκδοσης, αναφοράς, και σύνταξης κειμένων· Υπηρεσίες κράτησης εισιτηρίων και θέσεων για εκπαιδευτικές, ψυχαγωγικές και αθλητικές δραστηριότητες και εκδηλώσεις· Υπηρεσίες εκπαίδευσης, ψυχαγωγίας και αθλητισμού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Education, entertainment and sports; Publishing, reporting, and writing of texts; Ticket reservation and booking services for education, entertainment and sports activities and events; Education, entertainment and sport services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Educación, entretenimiento y actividades deportivas; Publicación, edición de reportajes y redacción de textos; Servicios de reserva de entradas para actividades y eventos de educación, entretenimiento y deporte; Servicios de educación, entretenimiento y de actividades deportivas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Haridus, meelelahutus ja spordialane tegevus; Kirjastamine, reporteriteenused ja tekstide kirjutamine; Haridus-, meelelahutus- ja sporditegevuste ja -ürituste piletite reserveerimise ja broneerimise teenused; Haridus-, meelelahutus- ja sporditeenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Koulutus, ajanviete ja urheilu; Tekstien julkaisu, raportointi ja kirjoittaminen; Lippujen varauspalvelut koulutus-, viihde- ja urheilutoimintaan ja -tilaisuuksiin; Koulutus-, ajanviete- ja urheilupalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Éducation, loisirs et sports; Édition, établissement de rapports et rédaction de textes; Services de réservation et de préréservation de billets concernant les activités et les événements dans les domaines de l’éducation, du divertissement et des sports; Services d’éducation, de divertissement et de sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Obrazovanje, zabava i sport; Objavljivanje, izvještavanje i pisanje tekstova; Predbilježba i rezervacija ulaznica za događanja i aktivnosti u području obrazovanja, zabave i sporta; Obrazovne, zabavne i sportske usluge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Oktatás, szórakozás és sport; Kiadói és híradói, beszámolói szolgáltatások, illetve szövegek írása; Jegyfoglalás és foglalási szolgáltatások oktatási, szórakoztató és sporttevékenységekhez, illetve -rendezvényekhez; Oktatási, szórakoztatási és sportszolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Educazione, intrattenimento e sport; Pubblicazione, comunicazione e redazione di testi; Servizi di prenotazione di biglietti per attività ed eventi in ambito educativo, ricreativo e sportivo; Servizi relativi a educazione, divertimento e sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Švietimas, pramogos ir sportinė veikla; Tekstų leidyba, reportažų rengimas ir tekstų rašymas; Bilietų į mokomuosius, pramoginius ir sporto renginius ir užsiėmimus rezervavimo ir užsakymo paslaugos; Švietimo, pramogų ir sporto paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Audzināšanas, izpriecu un sporta pakalpojumi; Tekstu rakstīšana, publicēšana un reportāžu sagatavošana; Biļešu rezervēšanas un pasūtīšanas pakalpojumi izglītības, izklaides un sporta nodarbībām un pasākumiem; Izglītības, izklaides un sporta pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Edukazzjoni, divertiment u sports; Il-pubblikazzjoni, ir-rapportaġġ u l-kitba ta' testi; Servizzi ta' riservazzjoni u riservazzjoni ta' biljetti għall-edukazzjoni, id-divertiment u l-attivitajiet sportivi u eventi; Servizzi ta' edukazzjoni, ta' divertiment u ta' sports.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Opvoeding, ontspanning en sport; Publiceren, rapporteren en schrijven van teksten; Ticketreserverings- en boekingsdiensten voor onderwijs-, entertainment- en sportactiviteiten en -evenementen; Diensten op het gebied van opvoeding, ontspanning en sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Edukacja, rozrywka i sport; Publikowanie, sprawozdawczość i pisanie tektów; Usługi rezerwacji biletów na atrakcje i wydarzenia edukacyjne, rozrywkowe i sportowe; Usługi edukacyjne, rozrywkowe i sportowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Educação, entretenimento e desporto; Publicação, relato e redação de textos; Serviços de reserva de bilhetes para atividades e eventos educativos, de entretenimento e desportivos; Serviços de educação, entretenimento e desporto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Educație, divertisment și sport; Editare, întocmire de rapoarte și redactare de texte; Servicii de rezervare de bilete în domeniul educației, divertismentului și sportului; Servicii educative, de divertisment și sportive.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vzdelávanie, zábavná a športová činnosť; Uverejňovanie, oznamovanie a písanie textov; Rezervácia vstupeniek a rezervačné služby v oblasti vzdelávacích, zábavných a športových činností a podujatí; Služby v oblasti vzdelávania, zábavy a športu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Izobraževanje, razvedrilo in šport; Objava, priprava poročil in pisanje besedil; Storitve rezervacije vstopnic za izobraževalne, razvedrilne in športne dejavnosti in dogodke; Izobraževalne, razvedrilne in športne storitve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Utbildning, underhållning och sport; Publicering, rapportering och författande av texter; Reservation och bokning av biljetter för aktiviteter och evenemang inom utbildning, underhållning och sport; Tjänster avseende utbildning, underhållning och sport.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Информационно-технологични услуги; Дизайнерски услуги; Научни и технологични услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby v oblasti informačních technologií; Návrhářství; Vědecké a technologické služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">IT tjenesteydelser; Designtjenesteydelser; Videnskabelige og teknologiske tjenesteydelser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">IT-Dienstleistungen; Designdienstleistungen; Wissenschaftliche und technologische Dienstleistungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες τεχνολογιών της πληροφορικής· Υπηρεσίες σχεδιασμού· Επιστημονικές και τεχνολογικές υπηρεσίες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">IT services; Design services; Science and technology services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de tecnologías de la información; Servicios de diseño; Servicios científicos y tecnológicos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">IT-teenused; Disainiteenused; Teadus- ja tehnoloogiateenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">IT-palvelut; Suunnittelupalvelut; Tieteelliset ja teknologiset palvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services des technologies de l'information; Services de conception; Services scientifiques et technologiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge informacijske tehnologije; Usluge dizajna; Usluge znanosti i tehnologije.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Információtechnológiai [IT] szolgáltatások; Tervezési szolgáltatások; Tudományos és technológiai szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi informatici; Servizi di progettazione; Servizi di scienza e tecnologia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Informacinių technologijų paslaugos; Dizaino paslaugos; Mokslo ir technologijų paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Informācijas tehnoloģiju pakalpojumi; Dizaina pakalpojumi; Zinātniskie un tehnoloģiskie pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi tal-IT; Servizzi tal-Iddisinjar; Servizzi xjentifiċi u teknoloġiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">IT-diensten; Ontwerpdiensten; Wetenschappelijke en technologische diensten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi w zakresie technologii informacyjnych; Usługi projektowania; Usługi naukowe i technologiczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de TI (tecnologias de informação); Serviços de design; Serviços de ciência e tecnologia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii IT; Servicii de proiectare; Servicii în domeniul științei și tehnologiei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Informačné technológie; Návrhárske služby; Vedecké a technologické služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve informacijske tehnologije; Oblikovalske storitve; Znanstvene in tehnološke storitve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">IT-tjänster; Designtjänster; Vetenskapliga och tekniska tjänster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/153</PublicationIdentifier>
+        <PublicationSection>C.3.6</PublicationSection>
+        <PublicationDate>2020-08-13</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082708</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-17T09:59:28</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229814</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229814</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-13</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Laofuzi</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162497001</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229814/000162497001.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бельо; Ризи, блузи; Облекло; Комплекти за новородени [дрехи]; Гимнастическо облекло; Дъждобрани; Театрални костюми; Обувки; Железни принадлежности за обувки и ботуши; Пантофи; Подметки за обувки; Ботинки; Туристически обувки [обувки за катерене]; Гумени обувки за дъжд; Шапки и принадлежности за глава; Трикотаж; Ръкавици; Шалчета; Кожени колани [облекло]; Сватбени дълги рокли.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Spodní prádlo; Košile; Oděvy; Výbavy pro novorozence [oděvy]; Gymnastické oděvy; Pláště do deště (nepromokavé); Divadelní kostýmy; Obuv; Kovové obuvní kování; Domácí obuv; Podrážky k obuvi; Kotníková obuv; Horolezecké boty (horolezecká obuv); Obuv do deště; Pokrývky hlavy; Punčochové zboží; Rukavice [oděvy]; Šátky a šály; Kožené pásky (oděvy); Svatební šaty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Undertøj; Skjorter; Beklædningsgenstande; Babytøj; Gymnastiktøj; Regnfrakker; Teaterkostumer; Fodtøj; Beslag af metal til fodtøj; Hjemmesko; Såler til fodtøj; Ankelstøvler; Bjergstøvler [til bjergbestigning]; Regnsko; Hattemagervarer; Trikotagevarer; Handsker [beklædning]; Tørklæder; Læderbælter [beklædningsgenstande]; Brudekjoler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Leibwäsche; Hemden; Bekleidungsstücke; Babywäsche; Gymnastikbekleidung; Regenmäntel; Theaterkostüme; Schuhwaren; Schuhbeschläge aus Metall; Pantoffeln; Schuhsohlen; Stiefeletten; Kletterstiefel [Bergsteigerstiefel]; Regenschuhe; Hüte; Wirkwaren [Bekleidung]; Handschuhe [Bekleidung]; Schals; Aus Leder hergestellte Gürtel; Hochzeitskleider.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εσώρουχα· Πουκάμισα· Ενδύματα· Μωρουδιακά· Ενδύματα γυμναστικής· Αδιάβροχα· Κοστούμια θεάτρου· Υποδήματα· Μεταλλικά εξαρτήματα για υποδήματα· Παντόφλες· Σόλες υποδημάτων· Μποτάκια μέχρι τον αστράγαλο· Μπότες ορειβασίας [μπότες ορειβασίας]· Αδιάβροχα παπούτσια· Είδη πιλοποιίας· Πλεκτά είδη· Γάντια· Μαντήλια για το λαιμό· Δερμάτινες ζώνες [είδη ένδυσης]· Νυφικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">underwear; shirts; clothing; layettes [clothing]; clothing for gymnastics; raincoats; Theatrical costumes; footwear; fittings of metal for footwear; slippers; soles for footwear; ankle boots; Climbing boots [mountaineering boots]; Rain shoes; hats; hosiery; gloves [clothing]; scarves; Leather belts [clothing]; Wedding dresses.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Ropa interior; Camisas; Prendas de vestir; Ajuares de bebé [prendas de vestir]; Ropa de gimnasia; Capas de lluvia; Trajes de teatro; Calzado; Herrajes para el calzado; Pantuflas; Suelas [calzado]; Botines; Botas de montaña [botas de montañismo]; Calzado de lluvia; Sombreros; Prendas de calcetería; Guantes [prendas de vestir]; Fulares; Cinturones de cuero; Vestidos de novia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Alusrõivad, -riided, -pesu; Särgid, päevasärgid, särkpluusid; Rõivad; Imikupesu; Võimlemisrõivad; Vihmamantlid; Teatrikostüümid; Jalatsid; Jalatsite metallgarnituurid; Sussid, tuhvlid; Jalatsitallad; Poolsaapad; Mägironimissaapad; Vihmakingad; Kübarad, vormimütsid; Trikookaubad, trikotaaž; Kindad (rõivad); Sallid; Nahkrihmad (rõivad); Pulmakleidid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Alusvaatteet; Paidat; Vaatteet; Vauvanvaatteet; Vaatteet (Voimistelu -); Sadetakit; Teatteripuvut; Jalkineet; Metalliosat jalkineisiin; Tohvelit; Kenkien sisäpohjalliset; Nilkkurit; Kiipeilykengät [vuorikiipeilyyn]; Sadekengät; Päähineet; Sukkatuotteet; Käsineet; Huivit; Nahkavyöt [vaatteisiin]; Hääpuvut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Sous-vêtements; Chemises; Vêtements; Layettes; Vêtements de gymnastique; Manteaux de pluie; Costumes de théâtre; Chaussures; Ferrures de chaussures; Pantoufles; Semelles; Bottines; Chaussures d'alpinisme; Chaussures de pluie; Chapeaux; Bonneterie; Gants [habillement]; Foulards; Ceintures en cuir [vêtements]; Robes de mariée.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Donje rublje; Košulje; Odjeća; Oprema za bebe; Gimnastička odjeća; Kabanice; Kazališni kostimi; Obuća; Metalni dijelovi za obuću; Papuče; Potplati; Gležnjače; Čizme za penjanje [planinarske čizme]; Cipele za kišu; Pokrivala za glavu; Artikli iz grupe čarapa; Rukavice; Rupci [fulari]; Kožni remeni [odjeća]; Vjenčanice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Alsóruházat, fehérneműk; Ingek; Ruházati cikkek; Csecsemőkelengyék, babakelengyék; Tornaruházat; Esőkabátok; Színházi jelmezek; Lábbelik; Fém cipőkellékek; Papucsok; Talpak lábbelikhez; Bokacsizmák; Hegymászó bakancsok [túrabakancsok]; Esőcipők; Kalapáruk; Harisnyaáruk, kötöttáruk; Kesztyűk; Sálak; Bőrövek [ruházat]; Menyasszonyi ruhák.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Biancheria intima; Camicie; Abbigliamento; Corredini da neonato; Abbigliamento per ginnastica; Impermeabili; Costumi teatrali; Calzature; Ferramenti per calzature; Pantofole; Suole; Tronchetti; Scarponi da montagna [scarponi da montagna]; Scarpe da pioggia; Cappelli; Maglieria; Guanti [abbigliamento]; Foulards [fazzoletti]; Cinture in pelle [abbigliamento]; Abiti da sposa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Apatiniai marškiniai; Marškiniai; Drabužiai, apranga; Kraiteliai [kūdikių drabužiai]; Gimnastikos apranga; Lietpalčiai; Teatriniai kostiumai; Apavas; Metaliniai avalynės apvadai; Šliurės; Avalynės padai; Aulinukai; Laipiojimo batai [alpinizmo batai]; Batai nuo lietaus; Galvos apdangalai; Trikotažo gaminiai; Pirštinės [drabužiai]; Šalikai; Odiniai diržai [apranga]; Vestuvinės suknelės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apakšveļa; Krekli; Apģērbi; Zīdaiņu pūriņi (apģērbs); Vingrošanas apģērbi; Lietusmēteļi; Teātra kostīmi; Apavi; Apavu furnitūra no metāla; Čības; Apavu pazoles; Īsie zābaciņi; Apavi alpīnistiem; Lietus apavi; Cepures; Adījumi (apģērbi); Cimdi; Šalles; Ādas jostas apģērbam; Kāzu kleitas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ħwejjeġ ta' taħt; Qomos; Ilbies; Il-ġhieżi tat-trabi (ilbies); Ilbies tal-ġinnastika; Kowtijiet u inċirati tax-xita; Kostumi tat-teatru; Xedd is-saqajn; Tagħmir tal-metall għax-xedd tas-saqajn; Papoċċi; Suletti għal xedd is-saqajn; Stivali sal-għaksa; Żraben għat-tlugħ ma' muntanji [stvali għall-mixi fil-muntanji]; Żraben tax-xita; Xedd ir-ras; Maljerija; Ingwanti; Xalpi; Ċinturini tal-ġilda (ħwejjeġ); Lbiesi tat-tieġ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ondergoed; Hemden; Kleding; Baby-uitzet [kleding]; Gymnastiekkleding; Regenjassen of -mantels; Toneelkleding; Schoeisel; Ijzerbeslag voor schoeisel; Pantoffels; Zolen; Enkellaarzen; Bergschoenen [bergschoenen]; Regenschoenen; Hoofddeksels; Breigoederen; Handschoenen [kleding]; Halsdoeken; Lederen ceintuurs [kledingstukken]; Bruidsjaponnen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Bielizna osobista; Koszule; Odzież; Wyprawki dziecięce [odzież]; Odzież gimnastyczna; Płaszcze przeciwdeszczowe; Kostiumy teatralne; Obuwie; Okucia metalowe do obuwia; Pantofle domowe; Podeszwy butów; Buty za kostkę; Buty do wspinaczki [buty do wspinaczki górskiej]; Obuwie przeciwdeszczowe; Nakrycia głowy; Wyroby pończosznicze; Rękawiczki; Szaliki; Paski skórzane [odzież]; Suknie ślubne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Roupa interior; Camisas; Vestuário; Enxovais [vestuário]; Vestuário para ginástica; Casacos para a chuva [Impermeáveis]; Fatos para teatro; Calçado; Acessórios em metal para calçado; Pantufas; Solas para calçado; Botas de cano curto; Botas de escalada [botas de montanhismo]; Calçado de chuva; Chapéus; Meias de malha; Luvas [vestuário]; Cachecóis; Cintos em couro (vestuário); Vestidos de noiva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Lenjerie de corp; Cămăși; Articole de îmbrăcăminte; Trusouri [articole de îmbrăcăminte]; Echipament de gimnastică; Haine de ploaie; Costume de teatru; Articole de încălțăminte; Accesorii metalice pentru încălțăminte; Papuci de casă; Branțuri; Ghete; Încălțăminte pentru munte [cizme de alpinism]; Încălțăminte de ploaie; Articole pentru acoperirea capului; Tricotaje; Mănuși [articole de îmbrăcăminte]; Eșarfe; Curele din piele [îmbrăcăminte]; Rochii de mireasă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Spodná bielizeň; Košele; Odevy; Oblečenie pre bábätká; Telocvičné úbory; Pláštenky; Divadelné kostýmy; Obuv; Kovové časti na obuv; Papuče; Podošvy na obuv; Nízke čižmy; Horolezecké topánky; Obuv do dažďa; Pokrývky hlavy; Pleteniny; Rukavice; Šatky, šály; Kožené opasky (súčasť oblečenia); Svadobné šaty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Spodnje perilo; Moške srajce; Oblačila; Oblačila za novorojenčke; Oblačila za gimnastiko; Dežni plašči; Gledališki kostumi; Obutev; Kovinski deli za obutev; Copati; Podplati za obutev; Gležnarji; Plezalni škornji [planinski škornji]; Čevlji za dež; Pokrivala; Nogavice; Rokavice; Ovratne rute; Usnjeni pasovi [oblačila]; Poročne obleke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Underkläder; Skjortor; Kläder; Babyutstyrslar [kläder]; Kläder för gymnastik; Regnkappor; Teaterkostymer; Fotbeklädnader; Beslag av metall för fotbeklädnader; Tofflor; Sulor för fotbeklädnader; Ankelboots; Klätterskor [bergsbestigningskängor]; Regnskor; Hattar; Strumpvaror; Handskar; Scarves; Livremmar av läder [kläder]; Brudklänningar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/084</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/154</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-14</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>89731</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-30T21:20:08</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225933</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225933</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-14</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>GU</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162306359</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/225/018225933/000162306359.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.99.07</CategoryCode>
+          <CategoryCode>27.99.21</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>18</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Кожа и имитация на кожа; Необработени кожи; Куфари и пътни чанти; Чадъри и слънчобрани и части за тях; Бастуни; Камшици, хамути и сарашки стоки; Bсекидневни чанти; Кесии за пари; Дамски чантички за тоалетни принадлежности [неокомплектовани]; Превръзка през рамо за носене на бебета; Рамки за ръчни дамски чанти; Рамки за портмонета; Контейнери от кожа за промишлено опаковане; Дрехи за домашни любимци; Бастуни; Метални части на бастуни; Дръжки на бастуни и подпорки; Портмонета и портфейли; Багажи, Ръчни куфари, Ръчни дамски чанти, Чантички за ключове; Портмонета и портфейли от благороден метал.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kůže a imitace kůže; Zvířecí kůže, usně; Kufry a cestovní tašky; Deštníky a slunečníky a jejich části; Vycházkové hole; Biče, jezdecké postroje a sedla; Tašky; Sáčky; Toaletní kufříky, nevybavené; Závěsná nosítka na nošení dětí; Rámy kabelek; Rámy peněženek; Kožené kontejnery pro účely průmyslového balení; Oblečky pro domácí zvířata; Hole; Kovové části holí a vycházkových holí; Rukojeti holí a vycházkových holí; Peněženky a náprsní tašky; Zavazadla, Zavazadla, Kabelky, Pouzdra na klíče; Náprsní tašky a peněženky z vzácných kovů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Læder og læderimitationer; Skind, huder; Kufferter og rejsetasker; Paraplyer og parasoller samt dele hertil; Spadserestokke; Piske, seletøj og sadelmagervarer; Tasker; Poser; Toilettasker, ikke indbyggede; Bæreseler til spædbørn; Stel til håndtasker; Stel til tasker; Emballagebeholdere af læder til industrielle formål; Beklædning til kæledyr; Spadserestokke; Metaldele til stokke og spadserestokke; Håndtag til stokke og spadserestokke; Punge og tegnebøger; Bagage, Kufferter, Håndtasker, Nøgleetuier; Punge og tegnebøger af ædle metaller.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Leder und Lederimitationen; Häute und Felle; Reise- und Handkoffer; Regenschirme und Sonnenschirme und deren Teile; Spazierstöcke; Peitschen, Pferdegeschirre und Sattlerwaren; Freizeittaschen; Täschchen; Kosmetikkoffer; Babytragetücher zum Umhängen; Handtaschenkarkassen; Rahmen für Geldbörsen; Verpackungsbehälter aus Leder für gewerbliche Zwecke; Bekleidungsstücke für Tiere; Gehstöcke; Metallteile von Gehstöcken und Spazierstöcken; Griffe von Gehstöcken und Spazierstöcken; Geldbörsen und Brieftaschen; Gepäck, Handkoffer, Handtaschen, Schlüsseletuis; Geldbörsen und Brieftaschen aus Edelmetall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Δέρμα και απομιμήσεις δέρματος· Δέρματα ζώων· Κιβώτια και βαλίτσες ταξιδίου· Ομπρέλες και αλεξήλια και μέρη αυτών· Ράβδοι περιπάτου· Μαστίγια, ιπποσκευές και είδη σελοποιίας· Τσάντες για ανεπίσημο ντύσιμο· Πουγγιά· Βαλιτσάκια για είδη καλλωπισμού, χωρίς χωρίσματα· Μάρσιποι αγκαλιάς σε σχήμα τσάντας-θήκης όπου χωρά ολόκληρο το σώμα του νηπίου· Σκελετοί για τσάντες χεριού· Σκελετοί για γυναικεία πορτοφόλια και τσαντάκια· Bιομηχανικά δοχεία συσκευασίας από δέρμα· Καλύμματα για κατοικίδια ζώα· Ράβδοι περιπάτου· Μεταλλικά μέρη μπαστουνιών και ράβδων περιπάτου· Λαβές μπαστουνιών και ράβδων περιπάτου· Πορτοφόλια για κέρματα και πορτοφόλια· Αποσκευές, Βαλίτσες, Τσάντες, Θήκες με τη μορφή πορτοφολιών για κλειδιά· Πορτοφόλια για κέρματα και πορτοφόλια από πολύτιμα μέταλλα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Leather and imitations of leather; animal skins, hides; trunks and travelling bags; umbrellas and parasols and their parts; walking sticks; whips, harness and saddlery; bags; pouches; vanity cases (not fitted); sling bags for carrying infants; handbag frames; purse frames; industrial packaging containers of leather; clothing for domestic pets; canes; metal parts of canes and walking-sticks; handles of canes and walking-sticks; purses and wallets; luggage, suitcases, handbags, key cases; purses and wallets of precious metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cuero e imitaciones de cuero; Pieles de animales; Baúles y maletas; Paraguas y sombrillas y sus partes; Bastones; Fustas y artículos de guarnicionería; Bolsas; Bolsitos; Estuches para artículos de tocador; Bandoleras portabebés de cuero; Armazones de bolsos; Armazones para bolsos; Recipientes de cuero para embalaje industrial; Ropa para animales de compañía; Bastones; Piezas metálicas de cañas y bastones; Empuñaduras de bastones; Monederos y carteras de bolsillo; Equipajes, Maletas, Bolsos de mano, Carteras para llaves; Monederos y billeteras de metales preciosos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Nahk ja kunstnahk; Loomanahad; Reisikohvrid ja -kotid; Vihmavarjud ja päikesevarjud ja nende osad; Jalutuskepid; Piitsad, hobuseriistad ja sadulsepatooted; Vaba aja kotid; Kukrud, kotid, kotikesed; Lahtriteta kosmeetikakotid, -karbid; Kotid väikelaste kandmiseks; Käekotiraamid, käekotiraamistik; Käekotiraamid, käekotiraamistik; Tööstuslikud nahast pakkemahutid; Lemmikloomade rõivad; Jalutuskepid; Keppide ja jalutuskeppide metallosad; Keppide ja jalutuskeppide käepidemed; Rahakotid ja rahataskud; Reisikirstud, Kohvrid, Käekotid, Võtmetaskud; Väärismetallist rahakotid ja rahataskud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Nahat ja nahan jäljitelmät; Eläinten nahat, vuodat; Matka-arkut ja -laukut; Sateenvarjot ja päivänvarjot ja niiden osat; Kävelykepit; Piiskat, valjaat ja satulavarusteet; Vapaa-ajanlaukut; Pussukat; Meikkilaukut [varustamattomina]; Vauvareput vauvojen kantamiseen; Rungot käsilaukkuihin; Rungot käsilaukkuihin; Nahasta valmistetut teolliset pakkausastiat; Vaatteet lemmikkieläimille; Kävelykepit; Keppien ja kävelykeppien metalliosat; Keppien ja kävelykeppien kädensijat; Kukkarot ja lompakot; Matkatavaralaukut, Matkalaukut, Laukut (Käsi -), Avainkotelot; Jalometalliset kukkarot ja lompakot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Cuir et imitations cuir; Peaux d'animaux; Malles et valises; Parapluies, parasols et leurs pièces; Cannes; Fouets et sellerie; Sacs de tous les jours; Petits sacs; Coffrets destinés à contenir des articles de toilette dits "vanity cases"; Porte-bébés hamac; Carcasses de sacs à main; Montures de sacs; Récipients industriels en cuir pour l'emballage; Habits pour animaux de compagnie; Cannes; Pièces et parties métalliques des cannes à marcher; Poignées de cannes à marcher; Porte-monnaie et portefeuilles; Bagages, Valises, Sacs à main, Étuis à clés; Portefeuilles et porte-monnaies en métaux précieux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Koža i umjetna koža; Životinjske kože; Kovčezi i putne torbe; Kišobrani i suncobrani i njihovi dijelovi; Štapovi za hodanje; Bičevi, hamovi i sedlarski proizvodi; Torbe; Vrećaste torbice; Prazne kozmetičke torbice; Torbe za nošenje beba na jedno rame; Okviri novčanika; Okviri novčanika; Spremnici za industrijsko pakiranje od kože; Odjeća za životinje; Štapovi za hodanje; Metalni dijelovi štapova i štapova za hodanje; Drške štapova i štapova za hodanje; Torbice i lisnice; Prtljaga, Putni koferi, Ručne torbe, Futrole za ključeve; Torbice i novčanici od plemenitih metala.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Bőrök és műbőrök; Állatbőrök és irhák; Utazótáskák és bőröndök; Esernyők és napernyők és azok alkatrészei; Sétapálcák; Ostorok, hámok, nyergek és lószerszámok; Hétköznapi, utcai táskák; Erszények, bugyellárisok; Piperetáskák üresen; Oldalhordozó táskák csecsemők hordozására; Kézitáska vázak; Erszénykeretek; Ipari csomagolótartályok bőrből; Ruhák állatoknak; Sétapálcák; Sétabotok és sétapálcák fém alkatrészei; Sétabotok és sétapálcák fogantyúi; Pénztárcák és levéltárcák; Poggyász, Bőröndök, Kézitáskák, Kulcstartó tokok; Nemesfémből készült erszények és levéltárcák.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pelle e finta pelle; Pelli di animali; Bauli e valigie; Ombrelli e ombrelloni e relativi componenti; Bastoni da passeggio; Fruste e articoli di selleria; Borse casual; Sacchetto; Bauletti destinati a contenere articoli da toilette detti vanity cases; Imbracatura a tracolla per portare neonati; Telai per borse a mano; Telai per borsellini; Recipienti da imballaggio industriali di pelle; Abiti per animali da compagnia; Bastoni da passeggio; Parti metalliche per bastoni da passeggio; Manici per bastoni da passeggio; Borsellini e portafogli; Bagagli, Valigie, Borsette, Astucci portachiavi; Portafogli e portamonete in metalli preziosi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Oda ir dirbtinė oda; Gyvūnų odos, kailiai; Lagaminai, kelioniniai krepšiai; Lietaus ir saulės skėčiai ir jų dalys; Lazdos (kriukiai); Rimbai, botagai, pakinktai ir balnojimo reikmenys; Kasdieniai krepšiai; Krepšeliai; Kišeninės tualetinės reikmeninės [tuščios]; Vaikjuostės; Rankinukų karkasai; Rankinukų karkasai; Pramoninės pakavimo pakuotės, pagamintos iš odos; Kambarinių gyvūnėlių apdarai; Lazdos (kriukiai); Lazdų ir pasivaikščiojimo lazdelių metalinės dalys; Pasivaikščiojimo lazdų ir pasivaikščiojimo lazdelių rankenos; Piniginės ir sulenkiamosios piniginės; Bagažas, Maži lagaminai, Rankinukai, Raktų dėklai; Piniginės ir dėklai iš brangiųjų metalų.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Āda un ādas imitācijas; Dzīvnieku ādas; Ceļasomas un čemodāni; Lietussargi un saulessargi, un to daļas; Spieķi; Pātagas, zirglietas un seglinieku izstrādājumi; Somas; Maisveida somas; Tualetes maciņi, bez tualetes piederumiem; Ķengursomas mazuļu pārnēsāšanai; Karkasi rokassomām; Rokassomiņu ietvari; Rūpnieciski iesaiņošanas konteineri no ādas; Dzīvnieku apģērbi; Spieķi; Metāla daļas un spieķiem un pastaigu spieķiem; Spieķu rokturi; Naudasmaki un kabatas portfeļi; Bagāžas somas un čemodāni, Ceļasomas, Rokassomas, Atslēgu maciņi; Kabatas portfeļi un naudasmaki, kas izgatavoti no dārgmetāliem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ġilda u imitazzjoni tal-ġilda; Ġlud ta' l-annimali, ġlud ħoxnin; Bagolli u basktijiet ta' l-ivvjaġġar; Umbrelel u parasols u l-partijiet tagħhom; Bsaten; Frosti, xedd ta' żiemel jew ta' bhima oħra u oġġetti tas-sarrâġ; Basktijiet ta' kuljum; Boroż żgħar; Kaxxetti tal-kożmetiċi, mhux mgħammra; Ċrienen b'ċineg mal-ispallejn għall-ġarr tat-tfal żgħar; Oqfsa tal-basktijiet tal-id; Oqfsa tal-portmonijiet; Kontenituri tal-imballaġġ industrijali tal-ġilda; Għata għall-annimali; Bsaten; Partijiet tal-metall għall-qasab u l-bsaten; Mankijiet tal-qasab u bsaten; Portmonis u portafolli; Valiġġi, Bagalji [suitcases], Basktijiet tal-id, Portafolli taċ-ċwievet; Portmonijiet u portafolli ta' metall prezzjuż.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Leder en kunstleder; Dierenhuiden; Reiskoffers en koffers; Paraplu' s en parasols en onderdelen daarvoor; Wandelstokken; Zwepen en zadelmakerswaren; Vrijetijdstassen; Buidels; Beauty-cases [leeg]; Draagzakken voor het dragen van kinderen; Geraamten voor handtassen; Geraamten voor portemonnees; Houders van leder voor industriële verpakkingen; Kleding voor dieren; Wandelstokken; Metalen onderdelen van wandelstokken; Handvatten van wandelstokken; Portemonnees en portefeuilles; Bagage, Koffers, Handtassen, Sleuteletuis; Portemonnees en portefeuilles van edelmetaal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Skóra i imitacja skóry; Skóry zwierzęce, skóry surowe; Walizy i torby podróżne; Parasolki i parasole (duże) oraz części do nich; Laski; Bicze, uprzęże i wyroby rymarskie; Torby; Worki, sakiewki; Kosmetyczki bez wyposażenia; Nosidełka dla niemowląt do noszenia na ciele; Bigle do torebek; Bigle do portmonetek; Przemysłowe pojemniki opakowaniowe ze skóry; Okrycia dla zwierząt; Laski, kijki marszowe i trekkingowe; Metalowe części laseczek i lasek do chodzenia; Rączki laseczek i lasek; Portmonetki i portfele; Bagaż, Walizki, Torebki, Etui na klucze; Portmonetki i portfele z metali szlachetnych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Couro e imitação de couro; Peles de animais; Malas e maletas de viagem; Chapéus-de-chuva, chapéus-de-sol e suas peças; Bengalas; Chicotes e selaria; Sacos de lazer; Bolsas; Estojos para maquilhagem, sem conteúdo; Alcofas para transportar crianças; Armações para sacos de mão; Armações de malas de mão; Recipientes industriais de embalagem de couro; Vestuário para animais; Bengalas; Peças metálicas de bengalas e bastões; Cabos de bengalas; Porta-moedas e carteiras; Malas para uso em viagem, Malas de viagem, Sacos de mão, Estojos para chaves [marroquinaria]; Porta-moedas e carteiras em metais preciosos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Piele sau imitaţie de piele; Piei de animale; Geamantane şi valize; Umbrele şi umbrele de soare şi piese pentru acestea; Bastoane; Bice şi articole de şelărie; Genţi; Săculeţe; Casete pentru accesorii de frumuseţe; Portbebeuri [marsupii tip faşă sau hamuri]; Structuri pentru genţi de mână; Cadre pentru poşete; Recipiente industriale din piele pentru ambalare; Îmbrăcăminte pentru animale; Bastoane; Piese metalice pentru bastoane şi cârje; Mânere pentru bastoane şi cârje; Portmonee şi portofele; Articole de voiaj, Geamantane, Poşete, Portchei; Portmonee si portofele din metale pretioase.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Koža a imitácie kože; Kožušiny, surové kože; Kufre a cestovné tašky; Dáždniky a slnečníky a ich časti; Vychádzkové palice; Biče, postroje a sedlárske výrobky; Tašky; Vrecká a vrecúška; Kufrík na toaletné potreby (prázdny); Tašky na nosenie detí na tele; Rámy na kabelky; Peňaženkové rámy; Kožené obalové kontajnery pre priemysel; Oblečenie pre zvieratá chované v domácnosti; Vychádzkové palice; Kovové časti palíc a vychádzkových palíc; Rúčky na palice a na vychádzkové palice; Peňaženky a náprsné tašky; Batožina, Cestovná batožina, Kabelky, Puzdrá na kľúče; Pánske peňaženky a dámske peňaženky z drahých kovov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Usnje in imitacije usnja; Živalske kože; Kovčki in potovalne torbe; Dežniki in sončniki ter deli zanje; Sprehajalne palice; Biči, konjska zaprega in sedlarski izdelki; Torbe; Mošnjički; Kozmetični kovčki (prazni); Vreče za nošenje dojenčkov; Okvirji za ročne torbice; Okvirji za torbice; Vsebniki za industrijsko pakiranje iz usnja; Pokrivala za živali; Sprehajalne palice; Kovinski deli sprehajalnih palic; Ročaji za palice in sprehajalne palice; Torbice in denarnice; Prtljaga, Kovčki, Ročne torbice, Etuiji za ključe; Žepne listnice in denarnice iz žlahtnih kovin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Läder och läderimitationer; Djurhudar och pälsskinn; Koffertar och resväskor; Paraplyer och parasoller och deras delar; Promenadkäppar; Piskor, seldon och sadelmakerivaror; Fritidsväskor; Påsar; Beautyboxar (oinredda); Remmar för att bära spädbarn; Handväskstommar; Väskstommar; Industriella förpackningsbehållare av läder; Kläder för husdjur; Promenadkäppar; Metalldelar till spatser- och promenadkäppar; Handtag till promenadkäppar; Portmonnäer och plånböcker; Resekoffertar, Resväskor, Handväskor, Nyckelfodral; Portmonnäer och plånböcker av ädelmetall.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/077</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>442287</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10005</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003126046</OppositionIdentifier>
+<OppositionDate>2020-07-14</OppositionDate>
+<ProceedingLanguageCode>es</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>018199789</ApplicationNumber>
+<ApplicationDate>2020-02-23</ApplicationDate>
+<RegistrationNumber>018199789</RegistrationNumber>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>GU</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>1065345</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>97252</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

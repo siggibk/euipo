@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-24T15:55:04</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226487</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226487</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="6">Application under examination</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-04-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162308234</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226487/000162308234.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>02.01.97</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Магнити; Говорители; Слушалки; Слънчеви очила; Очила; USB памет; Софтуер; Калъфи за смартфони; Външни батерии; Периферни устройства, пригодени за употреба с компютри и други смарт устройства; Компютърни софтуерни приложения, за сваляне; Високоговорителни системи; Компютри стикове.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Magnety; Reproduktory; Sluchátka; Sluneční brýle; Brýle; USB flash disky; Počítačový software; Pouzdra na chytré telefony (smartphony); Napájecí bloky; Periferní zařízení přizpůsobená k použití s počítači a jinými chytrými zařízeními; Stahovatelné počítačové aplikace; Systémy reproduktorů; Kapesní minipočítače.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Magneter; Højttalere; Hovedtelefoner; Solbriller; Briller; USB flash drivere; Software; Etuier til smartphones; Power banks; Perifere enheder tilpasset til brug med computere og andre intelligente enheder; Softwareapplikationer til computere, downloadable; Højttalerinstallationer; Stick pc’ere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Magnete; Lautsprecher; Kopfhörer; Sonnenbrillen; Brillen; USB-Sticks; Software; Schalen für Smartphones; Powerbanks; An Computer und andere intelligente Geräte angepasste Peripheriegeräte; Herunterladbare Software-Anwendungen für Computer; Lautsprecheranlagen; Stick-Computer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ηλεκτρομαγνητικά πηνία· Ηχεία· Κάσκες ακουστικών· Γυαλιά ηλίου· Διόπτρες· Οδηγοί USB (καθολικού σειριακού αγωγού)· Λογισμικό· Θήκες για έξυπνα τηλέφωνα· Τροφοδοτικά ισχύος· Περιφερειακά προσαρμοσμένα για χρήση με ηλεκτρονικούς υπολογιστές και άλλες έξυπνες συσκευές· Εφαρμογές λογισμικού ηλεκτρονικών υπολογιστών, μεταφορτώσιμες· Μεγαφωνικά συστήματα· Ηλεκτρονικοί υπολογιστές σε μορφή στικ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Magnets; Speakers; Headphones; Sunglasses; Eyeglasses; USB sticks; Software; Cases for smartphones; Power banks; Peripherals adapted for use with computers and other smart devices; Software applications; Loudspeaker systems; Stick computers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Imanes; Altavoces; Auriculares; Gafas de sol; Gafas [óptica]; Memorias USB; Software; Estuches para teléfonos inteligentes; Bancos de energía; Periféricos adaptados para su uso con ordenadores y otros dispositivos inteligentes; Aplicaciones informáticas descargables; Sistema de altavoces; Mini ordenadores en stick (PC-on-a-stick).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Magnetid; Kõlarid, valjuhääldid; Kõrvaklapid; Päikeseprillid; Prillid [optika]; USB-mälupulgad; Arvutitarkvara; Nutitelefonide ümbrised; Energiapangad; Arvutite ja muude nutiseadmetega kasutuseks kohandatud välisseadmed; Allalaaditavad arvutitarkvararakendused; Valjuhääldisüsteemid; Pulkarvutid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Käämit, sähkömagneettiset; Kaiuttimet; Kuulokkeet; Aurinkolasit; Silmälasit; USB-muistit; Ohjelmistot; Älypuhelinten kuoret; Virtapankit; Oheislaitteet, jotka soveltuvat käytettäväksi tietokoneiden ja muiden älylaitteiden kanssa; Ladattavat tietokoneohjelmistosovellukset; Kaiutinlaitteistot; Tikkutietokoneet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Aimants; Haut-parleurs; Casques à écouteurs; Lunettes de soleil; Lunettes [optique]; Clés USB; Logiciel; Étuis pour smartphones; Batteries externes; Périphériques adaptés pour être utilisés avec des ordinateurs et d’autres dispositifs intelligents; Applications logicielles informatiques téléchargeables; Haut-parleurs; Clés USB.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Elektromagnetni svici; Zvučnici; Slušalice; Sunčane naočale; Naočale; USB uređaji [USB stickovi]; Softver; Etuiji za pametne telefone; Vanjski punjači baterija; Periferni uređaji prilagođeni za uporabu s računalima i drugim pametnim uređajima; Aplikacije za računalne programe koje se mogu preuzeti s Interneta; Sustavi zvučnika; Računala u obliku štapića.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Elektromágneses tekercsek; Hangszórók, hangosbemondók, megafonok; Fejhallgatók; Napszemüvegek; Szemüvegek; USB pendrive-ok; Szoftverek; Tokok okostelefonhoz; Tápbankok; Számítógépekkel és egyéb okoseszközökkel való használatra kialakított perifériák; Számítógépes szoftveralkalmazások, letölthető; Hangszóró rendszerek; Stick számítógépek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Magneti; Altoparlanti; Cuffie per la musica; Occhiali da sole; Occhiali [ottica]; Chiavi USB; Software; Custodie per smartphones; Batterie esterne; Periferiche concepite per essere utilizzate con i computer e altri dispositivi intelligenti; Applicazioni per computer software, scaricabili; Sistemi di altoparlanti; Computer su chiavetta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Magnetai; Garsiakalbiai; Radijo ausinės; Saulės akiniai; Akiniai; Atmintukai [USB]; Programinė įranga; Išmaniųjų telefonų dėklai; Išorinės baterijos; Išoriniai įrenginiai, pritaikyti naudoti su kompiuteriais ir kitais išmaniaisiais įrenginiais; Parsisiunčiamoji kompiuterių programinė įranga; Garsiakalbių sistemos; Mini kompiuteriai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Magnēti; Skaļruņi; Austiņas; Saulesbrilles; Brilles; USB zibatmiņas; Programmatūra; Viedtālruņu maciņi; Ārējās baterijas; Perifērās ierīces, kas pielāgotas lietošanai ar datoriem un citām viedajām ierīcēm; Lejupielādējamas datorprogrammu lietotnes; Skaļruņu sistēmas; USB zibatmiņas izmēra datori.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kolji elettromanjetiċi; Lawdspikers; Kuffji; Nuċċalijiet tax-xemx; Nuċċalijiet; Flash drives tal-USB; Softwer; Kaxxi għall-ismartphones; Stazzjonijiet tal-enerġija; Tagħmir periferali adattat għall-użu ma' kompjuters u tagħmir tat-tip smart ieħor; Applikazzjonijiet ta' softwer tal-kompjuter, li jitniżżlu; Sistemi ta' lawdspiker; Kompjuters f'forma ta' stikka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Elektromagnetische spoelen; Luidsprekers; Hoofdtelefoons; Zonnebrillen; Brillen [optiek]; USB-sticks; Software; Etuis voor smartphones; Voedingsbanken (stroom); Randapparatuur voor gebruik met computers en andere intelligente toestellen; Downloadbare computersoftware-applicaties; Luidsprekersystemen; Stick-computers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Cewki elektromagnetyczne; Głośniki; Słuchawki [zakładane na głowę]; Okulary przeciwsłoneczne; Okulary; Pamięci zewnętrzne USB; Oprogramowanie; Etui na smartfony; Banki energii; Urządzenia peryferyjne dostosowane do użytku z komputerami i innymi urządzeniami inteligentnymi; Aplikacje komputerowe do pobrania; Systemy głośnikowe; Minikomputery przenośne [PC on stick].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Ímanes; Altifalantes; Auriculares; Óculos de sol; Óculos [ótica]; Unidades de disco amovível [USB flash drives]; Software; Capas para smartphones; Baterias externas; Periféricos adaptados para uso com computadores e outros dispositivos inteligentes; Aplicações de software informático descarregáveis; Sistemas de altifalantes; Computadores em stick (PC-on-a-stick).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Magneți; Difuzoare; Căști audio; Ochelari de soare; Ochelari; Memorii USB; Software; Carcase pentru telefoane inteligente; Baterii externe; Periferice adaptate pentru a fi folosite cu calculatoare și dispozitive inteligente; Aplicații software de calculator, descărcabile; Sisteme de difuzoare; Microcalculator stick.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Magnety; Reproduktory, amplióny; Slúchadlá; Slnečné okuliare; Okuliare; USB kľúče; Softvér; Puzdrá na smartfóny; Externé akumulátory; Periférne zariadenia prispôsobené na použitie s počítačmi a inými smart zariadeniami; Počítačové softvérové aplikácie (sťahovateľné); Reproduktorové systémy; Minipočítače vo forme USB kľúčov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Elektromagnetne tuljave; Zvočniki; Slušalke; Sončna očala; Očala; USB ključki; Programska oprema; Etuiji za pametne telefone; Hranilnice električne energije; Periferne naprave, prirejene za računalnike in druge pametne naprave; Računalniška programska oprema, naložljiva preko računalniške mreže; Sistemi zvočnikov; Mini prenosni računalniki v obliki US ključka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Magneter; Högtalare; On-ear hörlurar; Solglasögon; Glasögon; USB-minnen; Mjukvaror; Skal för smartphones; Laddningsstationer (powerbanks); Kringutrustning anpassad för användning med datorer och andra smartenheter; Softwareapplikationer för datorer, nedladdningsbara; Högtalarsystem; Datorer i fickformat (stick computers).</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Помощни средства за хранене и биберони; Облекло, шапки и принадлежности за глава, обувки за медицински персонал и пациенти; Маски за медицински персонал; Бебешки шишета.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pomůcky na krmení a dudlíky; Oděvy, pokrývky hlavy a obuv pro zdravotnické pracovníky a pacienty; Roušky pro lékařský personál; Dětské láhve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Hjælpemidler til madning og sutter; Beklædningsgenstande, hovedbeklædning og fodtøj til medicinsk personale og patienter; Masker til brug for medicinsk personel; Sutteflasker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Hilfen zur Nahrungsaufnahme und Schnuller; Bekleidung, Kopfbedeckungen und Schuhwaren für medizinisches Personal und Patienten; Masken für medizinisches Personal; Saugflaschen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Βοηθήματα διατροφικά και πιπίλες· Ενδύματα, είδη πιλοποιίας και υποδήματα για ιατρικό προσωπικό και ασθενείς.· Μάσκες για το ιατρικό προσωπικό· Υποδοχείς για θήλαστρα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Feeding aids and pacifiers; Clothing, headgear and footwear for medical personnel and patients; Medical masks; Feeding bottles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Chupetes y utensilios para ayudar en la alimentación; Prendas de vestir, artículos de sombrerería y calzado para el personal médico y los pacientes; Mascarillas para personal médico; Biberones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toitmisvahendid ja lutid; Meditsiinitöötajate ja patsientide rõivad, peakatted ja jalatsid; Maskid meditsiinipersonalile; Lutipudelid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Apuvälineet ruokintaan ja tutit; Vaatteet, päähineet ja jalkineet lääkintähenkilöstölle ja potilaille; Suojanaamarit lääkintähenkilökuntaa varten; Tuttipullot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Aides à l'alimentation et tétines; Vêtements, articles de chapellerie et articles chaussants pour personnel médical et patients; Masques utilisés par le personnel médical; Biberons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pomagala za hranjenje i dude; Odjeća, pokrivala za glavu i obuća za medicinsko osoblje i pacijente; Maske za medicinsko osoblje; Spremnici dječjih bočica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Etetési segédeszközök és cumik; Ruházat, fejfedők és lábbelik ápolószemélyzet és páciensek számára; Maszkok egészségügyi személyzet általi használatra; Cumisüvegtartók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Apparecchi per il nutrimento e l'allattamento, succhiotti per neonati; Capi d'abbigliamento, articoli di cappelleria e calzature per personale medico e pazienti; Maschere utilizzate dal personale medico; Poppatoi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Pagalbinės maitinimo priemonės ir žindukai; Apranga, galvos apdangalai ir avalynė medicinos personalui ir pacientams; Kaukės medicinos personalui; Žindymo buteliukai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Barošanas palīglīdzekļi un knupīši; Apģērbi, galvassegas un apavi medicīnas personālam un pacientiem; Medicīnas personālam paredzētās maskas; Barošanas pudelītes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Mezzi għall-għajnuna fit-tmigh u gażażi; Ħwejjeġ, xedd ir-ras u xedd is-saqajn għall-persunal fil-qasam mediku u għall-pazjenti; Maskri għal personal mediku; Reċipjenti bħala fliexken għat-tmigħ tat-trabi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Hulpmiddelen bij het voeden en spenen; Kleding, hoofdbedekking en schoeisel voor medisch personeel en patiënten; Maskers te gebruiken door medisch personeel; Zuigflessen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Artykuły do karmienia i smoczki; Odzież, nakrycia głowy i obuwie dla personelu medycznego i pacjentów; Maski stosowane przez personel medyczny; Pojemniki na butelki do karmienia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Auxiliares de alimentação e chupetas; Vestuário, chapelaria e calçado para pessoal médico e doentes; Máscaras para pessoal médico; Biberons [biberões].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Instrumente ajutătoare pentru hrănire și suzete; Îmbrăcăminte, articole pentru acoperirea capului și încălțăminte pentru personal medical și pacienți; Măști utilizate de personalul medical; Recipiente pentru biberoane.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Pomôcky na kŕmenie, cumle; Odevy, pokrývky hlavy a obuv pre zdravotníckych pracovníkov a pacientov; Rúška (pre nemocničný personál); Detské fľaše.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pripomočki za hranjenje in dude; Oblačila, pokrivala in obutev za medicinsko osebje in bolnike; Maske za medicinsko osebje; Posodice za stekleničke za hranjenje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Hjälpmedel för matning och nappar; Kläder, huvudbonader och fotbeklädnader för medicinsk personal och patienter; Munskydd för medicinsk personal; Nappflaskor.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>334262</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>45972</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

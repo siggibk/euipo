@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-21T23:01:10</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224154</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224154</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="1">Application under examination</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-04-09</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Coronalux</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>21</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Светилници, не от благороден метал.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Svícny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kandelabre [lysestager].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Leuchter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κηροπήγια [μονά κηροπήγια].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Candelabra [candlesticks].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Candeleros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Küünlajalad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kynttilänjalat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Chandeliers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Svijećnjaci.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyertyatartók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Portacandele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kandeliabrai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kandelabri (žuburaini svečturi).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Gandlieri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kandelaars.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Świeczniki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Candelabros [castiçais].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Sfeșnice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Viacramenné svietniky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Svečniki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kandelabrar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

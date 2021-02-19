@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-09T12:21:25</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229061</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229061</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<ApplicationLanguageCode>fi</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-24</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SUPRA</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>12</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Калници; Калници за камиони; Свързващи елементи за калници; Бордюри (ръбове); Калобрани; Бордови огради; Носачи за калници.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Blatníky (ochrana proti blátu); Blatníky pro nákladní automobily; Závěsy na zástěrky za podběhem; Blatníky; Blatníky; Blatníky; Držáky na zástěrky proti bahnu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Stænkskærme; Lastvognskærme; Beslag til stænklapper; Afdækninger til skærme; Stænklapper; Beskyttelsesskærme; Holdere til stænklapper.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schmutzfänger; Kotflügel für Lastwagen; Aufhänger für Schmutzfänger von Fahrzeugen; Kotflügelschürzen; Schmutzfänger; Spritzschutzvorrichtungen; Halter für Schmutzfänger von Fahrzeugen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Προφυλακτήρες (φτερά τροχού)· Λασπωτήρες για φορτηγά· Αναρτήρες ιλυοσυλλεκτών (λασπωτήρων)· Ποδιές αλεξιβόρβορου· Αλεξιβόρβορα ανακλινόμενα πτερύγια· Λασπωτήρες· Υποδοχές ιλυοσυλλεκτών (λασπωτήρων).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Mudguards; Mudguards for trucks; Mud flap hangers; Fender aprons; Mud flaps; Splash guards; Mud flap holders.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Guardabarros; Guardabarros para camiones; Soportes de faldones guardabarros; Faldones; Parabarros; Parasalpicaduras; Soportes de aletas guardabarros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Porilauad, poritiivad, rataste porikaitsmed; Veoautode porilauad; Poripõllede riputid; Poripõlled; Porilauad, poritiivad, ratta porikaitsed; Poripõlled; Poripõllede hoidikud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lokasuojat; Kuorma-autojen lokasuojat; Lokasuojan pitimet; Lokasuojan roiskeläpät; Roiskeläpät; Roiskesuojat; Roiskeläpänpidikkeet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Garde-boues; Pare-boue pour camions; Supports de bavettes garde-boue; Protections de carrosserie; Bavettes garde-boue; Garde-boue; Supports de bavettes garde-boue.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Blatobrani; Blatobrani za kamione; Potpore za branike; Zaštitne navlake za blatobrane; Blatobrani; Blatobrani; Držači krila blatobrana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sárhányók; Sárhányók teherautókhoz; Sárvédő gumi tartó rögzítőkengyelek; Lökhárító panelek; Sárhányók; Sárfogólapok; Sárvédő gumi tartók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Parafango; Parafanghi per camion; Ganci per parafanghi; Fiancate di parafango; Paraspruzzi; Paraspruzzi; Supporti per parafanghi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Transporto priemonių purvasaugiai; Sunkvežimių purvasaugiai; Purvasaugių kabinimo detalės; Metaliniai sutvirtinimai; Transporto priemonių purvasaugiai; Purvasaugiai; Purvasaugių laikymo elementai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dubļu sargs; Dubļusargi kravas automobiļiem; Dubļusargu kronšteini; Dubļu bleķi; Dubļusargi; Dubļusargi; Dubļusargu turētāji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kàvers għal roti ta' karrozzi jew ta' ċikletti, biex jilqgħu t-tajn; Madgards għat-trakkijiet; Tagħmir biex jiddendel apparat għal ilqugħ mit-tajn; Truf; Tagħmir li jilqa' l-ħmieġ; Rpar miċ-ċaflis; Tagħmir għaż-żamma tal-faldi ta' lqugħ mit-tajn.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Spatschermen; Spatborden voor vrachtauto's; Ophanginrichtingen voor spatborden; Veiligheidsschorten; Spatlappen; Spatborden; Spatborden (Houders voor -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Błotniki; Błotniki do ciężarówek; Uchwyty do zawieszenia fartucha błotnika; Fartuchy ochronne; Błotniki; Fartuchy koła; Uchwyty do fartuchów błotników.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Guarda-lamas; Para-lamas para camiões; Apoios de guarda-lamas; Anteparos de guarda-lamas; Palas de protecção contra a lama; Guardas de protecção contra salpicos; Bases de guarda-lamas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Apărătoare de noroi; Apărători de noroi pentru camioane; Dispozitive de suspendare pentru apărătoarele de noroi; Protecții de caroserie; Apărătoare de noroi; Balustradă pentru ambarcaţiuni; Suporturi pentru apărătoare de noroi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Blatníky; Blatníky pre nákladné vozidlá; Závesy zásteriek za blatníkmi; Blatníky; Zásterky na kolesá vozidiel; Blatníky; Držiaky pre zásterky za blatníkmi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Blatniki; Blatniki za tovornjake; Nosilci zaves proti blatu; Ščitniki za karoserijo; Blatniki; Ščitniki proti brizganju; Nosilci za protiblatne zavesice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Stänkskärmar; Stänkskydd för lastbilar; Upphängningsanordningar för stänkskydd; Skyddsplåtskärmar; Stänkskärmar; Stänkskydd; Stänkskyddshållare.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/091</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>951027</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10880</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003126594</OppositionIdentifier>
+<OppositionDate>2020-07-24</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>015502149</ApplicationNumber>
+<ApplicationDate>2016-06-03</ApplicationDate>
+<RegistrationNumber>015502149</RegistrationNumber>
+<RegistrationDate>2016-09-19</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>TOYOTA SUPRA</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>2885</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10481</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

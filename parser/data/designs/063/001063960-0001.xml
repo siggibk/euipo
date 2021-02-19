@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2019-10-04T09:34:20</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063960-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-29</ReceivingOfficeDate>
+<DesignIdentifier>001063960-0001</DesignIdentifier>
+<ApplicationNumber>001063960</ApplicationNumber>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-29</ApplicationDate>
+<RegistrationDate>2008-12-29</RegistrationDate>
+<PublicationDate>2009-01-30</PublicationDate>
+<ApplicationReference>D-0060-UE</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<VerbalElementText>OXYGEN</VerbalElementText>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-29</ExpiryDate>
+<EffectiveDate>2008-12-29</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-11-19</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061826282</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063960_0001/001063960_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061826284</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063960_0001/001063960_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061826285</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063960_0001/001063960_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061826286</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063960_0001/001063960_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061826287</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063960_0001/001063960_0001_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061826288</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063960_0001/001063960_0001_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061826289</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063960_0001/001063960_0001_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Автокаравани</IndicationProduct>
+       <IndicationProduct languageCode="cs">Obytná motorová vozidla</IndicationProduct>
+       <IndicationProduct languageCode="da">Autocampere</IndicationProduct>
+       <IndicationProduct languageCode="de">Wohnmobile</IndicationProduct>
+       <IndicationProduct languageCode="el">Τροχόσπιτα</IndicationProduct>
+       <IndicationProduct languageCode="en">Motor home</IndicationProduct>
+       <IndicationProduct languageCode="es">Caravanas</IndicationProduct>
+       <IndicationProduct languageCode="et">Karavan</IndicationProduct>
+       <IndicationProduct languageCode="fi">Asuntoautot</IndicationProduct>
+       <IndicationProduct languageCode="fr">Autocaravanes</IndicationProduct>
+       <IndicationProduct languageCode="hu">Motorhome</IndicationProduct>
+       <IndicationProduct languageCode="it">Caravan</IndicationProduct>
+       <IndicationProduct languageCode="lt">Gyvenamieji autofurgonai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Motorizētās mājas</IndicationProduct>
+       <IndicationProduct languageCode="mt">Dar bil-mutur</IndicationProduct>
+       <IndicationProduct languageCode="nl">Kampeerauto's</IndicationProduct>
+       <IndicationProduct languageCode="pl">Samochody z częścią mieszkalną</IndicationProduct>
+       <IndicationProduct languageCode="pt">Caravanas</IndicationProduct>
+       <IndicationProduct languageCode="ro">Autorulote</IndicationProduct>
+       <IndicationProduct languageCode="sk">Obytný automobil</IndicationProduct>
+       <IndicationProduct languageCode="sl">Avtodom</IndicationProduct>
+       <IndicationProduct languageCode="sv">Husbilar</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>12.10</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/020</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-01-30</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/017</PublicationIdentifier>
+        <PublicationSequenceNumber>1143925</PublicationSequenceNumber>
+        <PublicationSection>B.9.2</PublicationSection>
+        <PublicationDate>2014-01-28</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/020</PublicationIdentifier>
+        <PublicationSequenceNumber>1148414</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2014-01-31</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2016/021</PublicationIdentifier>
+        <PublicationSequenceNumber>1668390</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2016-02-02</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/221</PublicationIdentifier>
+        <PublicationSequenceNumber>100770662</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2018-11-21</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2019/189</PublicationIdentifier>
+        <PublicationSequenceNumber>101403803</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2019-10-04</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>103407</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>12459</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>007737061</RecordIdentifier>
+<BasicRecordKind>Appointment Replacement and Deletion of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1143925</PublicationSequenceNumber>
+           <PublicationSection>B.9.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-28</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>010245730</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1668390</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2016-02-18</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006991511</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1148414</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2014-01-31</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012443728</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100770662</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-11-21</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012659621</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>101403803</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2019-10-04</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

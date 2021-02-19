@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:04</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228832</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228832</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>sv</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>E PLANTA ELITPLANTOR FÖR SVENSKT KLIMAT</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162460493</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/228/018228832/000162460493.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>05.03.11</CategoryCode>
+          <CategoryCode>05.03.13</CategoryCode>
+          <CategoryCode>05.03.14</CategoryCode>
+          <CategoryCode>24.03.07</CategoryCode>
+          <CategoryCode>27.05.21</CategoryCode>
+          <CategoryCode>27.99.05</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>31</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Цветя; Естествени растения; Семена за засяване; Пресни плодове и зеленчуци; Растения от разсадник; Естествени растения и цветя; Селскостопанска продукция (необработена); Необработени градинарски продукти; Сурови и необработени горски продукти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Přírodní květiny; Přírodní rostliny; Osivo; Čerstvé ovoce a zelenina; Rostliny z pěstitelské školky; Rostliny a květiny; Zemědělské plodiny (nezpracované); Nezpracované zahradnické produkty; Surové a nezpracované lesní produkty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Blomster; Naturlige planter; Frø [såsæd]; Friske frugter og grøntsager; Planter fra planteskole; Naturlige planter og blomster; Uforarbejdede landbrugsprodukter; Uforarbejdede havebrugsprodukter; Rå og uforarbejdede skovbrugsprodukter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Blumen; Lebende Pflanzen; Samenkörner; Frisches Obst und Gemüse; Baumschulpflanzen; Natürliche Pflanzen und Blumen; Unverarbeitete landwirtschaftliche Erzeugnisse; Nicht verarbeitete Erzeugnisse aus dem Gartenbau; Rohe und nicht verarbeitete fortswirtschaftliche Erzeugnisse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λουλούδια· Φυσικά φυτά· Σπόροι για σπορά· Nωπά φρούτα και λαχανικά· Φυτά φυτωρείου· Φυσικά φυτά και άνθη· Γεωργική παραγωγή (ακατέργαστη)· Ακατέργαστα κηπευτικά προϊόντα· Ακατέργαστα και ανεπεξέργαστα δασοκομικά προϊόντα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Flowers; Natural plants; Sowing seeds; Fresh fruits and vegetables; Nursery plants; Natural plants and flowers; Agricultural produce (Unprocessed -); Unprocessed horticultural products; Raw and unprocessed forestry products.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Flores; Plantas naturales; Semillas para siembra; Frutas y verduras frescas; Plantas de vivero; Plantas y flores naturales; Productos agrícolas (en bruto); Productos hortícolas no elaborados; Productos forestales en bruto y sin procesar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Lilled; Looduslikud taimed; Külviseemned; Värske puu- ja köögivili; Taimlas, taimelavadel kasvatatavad taimed; Looduslikud taimed ja lilled; Põllumajandussaadused (töötlemata); Töötlemata aiandussaadused; Toored ja töötlemata metsandussaadused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kukat; Luonnonkasvit; Kylvösiemenet; Tuoreet hedelmät ja vihannekset; Taimitarhakasvit; Luonnonkasvit ja -kukat; Maataloustuotteet (käsittelemättömät); Käsittelemättömät puutarhatuotteet; Raa'at ja jalostamattomat metsätaloustuotteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Fleurs; Plantes naturelles; Graines à semer; Fruits et légumes frais; Plantes de pépinières; Plantes et fleurs naturelles; Produits agricoles à l'état brut; Produits horticoles non transformés; Produits forestiers à l’état brut et non transformés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Cvijeće; Prirodne biljke; Sjeme za sijanje; Svježe voće i povrće; Biljke iz rasadnika; Prirodne biljke i cvijeće; Poljoprivredni proizvodi (Neobrađeni -); Neprerađeni hortikulturni proizvodi; Sirovi i neprerađeni šumarski proizvodi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Virágok; Természetes növények; Magvak [vetőmagvak]; Friss gyümölcsök és zöldségek; Faiskolai növények; Élő növények és virágok; Feldolgozatlan mezőgazdasági termények; Feldolgozatlan kertészeti termékek; Nyers és feldolgozatlan erdészeti termékek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Fiori; Piante naturali; Sementi per la semina; Frutta e ortaggi freschi; Piante da vivaio; Piante e fiori naturali; Prodotti agricoli (allo stato grezzo); Prodotti orticoli non lavorati; Prodotti forestali grezzi e non lavorati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Gėlės; Natūralūs augalai; Sėklos sėjai; Švieži vaisiai ir daržovės; Daigynų augalai; Gyvi augalai ir gėlės; Neapdoroti žemės ūkio produktai; Neapdoroti sodininkystės ir daržininkystės produktai; Nevalyti ir neapdoroti miškininkystės produktai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ziedi; Dabiskie augi; Sēklas sēsanai; Svaigi augļi un dārzeņi; Audzētavu augi; Augi un ziedi; Lauksaimniecības produkcija (nepārstrādāta); Neapstrādāti dārzkopības produkti; Svaigi un neapstrādāti mežsaimniecības produkti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Fjuri; Pjanti naturali ħajjin; Żrieragħ biex jinżergħu; Frott u ħxejjex frisk; Pjanti tas-serer; Pjanti u fjuri naturali; Prodotti agrikoli (mhux ipproċessat); Prodotti tal-ortikultura mhux ipproċessati; Prodotti tal-forestrija mhux maħduma u mhux ipproċessati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Natuurlijke bloemen; Natuurlijke planten; Zaaizaden; Vers fruit en verse groenten; Kweekplanten; Natuurlijke planten en bloemen; Landbouwproducten (onbewerkt); Onbewerkte tuinbouwproducten; Ruwe en onbewerkte bosbouwproducten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kwiaty; Rośliny naturalne (żywe); Ziarno siewne; Świeże owoce i warzywa; Rośliny ze szkółki roślinnej; Naturalne rośliny i kwiaty; Produkty rolne (nieprzetworzone); Nieprzetworzone produkty ogrodnicze; Surowe i nieprzetworzone produkty leśne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Flores; Plantas naturais; Sementes para semear; Frutos e legumes frescos; Plantas de viveiro; Plantas e flores naturais; Produtos agrícolas não transformados; Produtos hortícolas não transformados; Produtos florestais em bruto e não transformados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Flori; Plante naturale; Semințe pentru semănat; Fructe și legume proaspete; Plante de pepinieră; Plante și flori naturale; Produse agricole (neprelucrate); Produse horticole neprocesate; Produse forestiere brute și neprocesate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kvety; Prírodné rastliny; Semená na siatie; Čerstvé ovocie a zelenina; Rastliny z rastlinnej škôlky; Rastliny a kvety; Poľnohospodárske plodiny (nespracované); Nespracované záhradkárske výrobky; Surové a nespracované lesnícke výrobky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Rože; Naravne rastline; Semena za sajenje; Sveže sadje in zelenjava; Rastline za rastlinjake; Naravne rastline in sveže cvetje; Poljedelski proizvodi (nepredelani); Nepredelani vrtnarski proizvodi; Surovi in nepredelani gozdarski proizvodi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Blommor; Levande plantor; Fröer och utsäden; Färska frukter och grönsaker; Växter från plantskolor; Levande plantor, växter och blommor; Jordbruksprodukter (obearbetade); Obehandlade trädgårdsprodukter; Obearbetade och obehandlade skogsprodukter.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082082</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>26169</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

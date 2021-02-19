@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-22T07:40:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229809</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229809</ApplicationNumber>
+<ApplicationDate>2020-04-26</ApplicationDate>
+<RegistrationDate>2020-09-18</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-26</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-22</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Clorisun</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162491840</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229809/000162491840.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.03.04</CategoryCode>
+          <CategoryCode>26.03.06</CategoryCode>
+          <CategoryCode>26.03.07</CategoryCode>
+          <CategoryCode>26.03.24</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>2</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Оцветители; Пасти за печатащи устройства [мастило]; Пасти за печатащи устройства [мастило]; Тонери [мастило] за фотокопирни машина; Пълнители с мастило [пълни], за принтери; Пълни тонер касети за лазерни принтери; Тонер касети, пълни, за мастиленоструйни принтери; Мастила за копирни машини; Касети за тонер [пълни] за принтери и фотокопирни машини.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Barviva; Tiskařské pasty [inkoust]; Tiskařské směsi (inkoust); Inkoust [toner] do kopírek; Inkoustové kazety, naplněné, do tiskáren; Tonerové náplně do laserových tiskáren; Tonerové náplně do inkoustových tiskáren, plné; Inkousty do kopírek; Tonerové náplně do tiskáren a kopírek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Farvestoffer; Kompositioner til trykning [blæk]; Tryksværte; Toner [tryksværte] til kopimaskiner; Blækpatroner, fyldte, til printere; Fyldte farvepatroner til laserprintere; Fyldte tonerpatroner til inkjetprintere; Blæk til kopiering; Tonerpatroner, fyldte, til printere og kopimaskiner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Färbemittel; Druckerpasten [Tinten]; Druckertinte; Toner für Fotokopiergeräte; Gefüllte Tintenpatronen für Drucker; Gefüllte Tonerpatronen für Laserdrucker; Gefüllte Tonerpatronen für Tintenstrahldrucker; Kopierfarben; Tonerpatronen [gefüllt] für Drucker und Fotokopierer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χρωστικές ουσίες· Πολτός τυπογραφίας [μελάνες]· Τυπογραφία (πολτός -ας) [μελάνες]· Μελάνες για τονιστές για φωτοαντιγραφικά μηχανήματα· Φυσίγγια μελάνης, γεμάτα, για εκτυπωτές· Φυσίγγια γραφίτη, γεμάτα, για εκτυπωτές λέιζερ· Φυσίγγια τονιστή (toner), γεμάτα, για εκτυπωτές ψεκασμού μελάνης· Μελάνες αντιγραφής· Φυσίγγια τονιστή, γεμάτα, για εκτυπωτές και φωτοαντιγραφικά μηχανήματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Colorants; Printers' pastes (ink); Printing ink; Photocopier toner; Ink cartridges, filled, for printers; Toner cartridges, filled, for laser printers; Toner cartridges, filled, for inkjet printers; Copying inks; Filled toner cartridges for printers and photocopiers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Colorantes; Pastas de imprenta [tintas]; Tintas de imprenta; Tóner para fotocopiadoras; Cartuchos de tinta, llenos, para impresoras; Cartuchos de tóner, llenos, para impresoras láser; Cartuchos de tóner (llenos) para impresoras de chorro de tinta; Tintas de copiado; Cartuchos de tóner llenos para impresoras y fotocopiadoras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Värvained; Trükipastad [tindid]; Trükivärv; Fotokoopiamasinate toonerid; Printerite täidetud tindikassetid; Laserprinterite täidetud toonerikassetid; Tindiprinterite täidetud toonerikassetid; Kopeerimistint; Fotokoopiamasinate ja printerite täidetud toonerikassetid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Väriaineet; Painovärit [muste]; Painovärit [muste]; Musteet [sävyttimet] kopiokoneisiin; Täytetyt mustekasetit tulostimiin; Lasertulostimien täytetyt värikasetit; Täytetyt väriainekasetit mustesuihkutulostimiin; Kopiointimusteet; Kirjoittimiin ja kopiokoneisiin tarkoitetut sävytinpatruunat ja -kasetit [täytetyt].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Matières tinctoriales; Pâtes d'imprimerie [encres]; Encres d'imprimerie; Encres [toner] pour appareils et machines à photocopier; Cartouches d'encre, remplies, pour imprimantes; Cartouches de toner remplies pour imprimantes laser; Cartouches de toner remplies pour imprimantes à jet d'encre; Encres à copier; Cartouches de toner remplies pour imprimantes et photocopieurs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Bojila; Tiskarska pasta [tinta]; Mješavine za tiskanje [tinta]; Toneri za fotokopirne aparate [boja]; Ulošci s tintom (puni) za pisače; Patrone za tonere [pune] za laserske pisače; Ulošci s tonerom, punjeni, za tintne pisače; Tinte za kopiranje; Tiskarski i fotokopirni uređaji (umeci s tintom).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Festőanyagok; Nyomtatószerek [tinták]; Nyomtatószerek [tinták]; Tinták [tonerek] fénymásoló gépekhez; Festékkazetták, feltöltve, nyomtatókhoz; Feltöltött tintapatronok lézernyomtatókhoz; Feltöltött tintapatronok tintasugaras nyomtatókhoz; Másolófestékek; Tintapatronok [töltve] nyomtatókhoz és fénymásolókhoz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Materie tintorie; Paste tipografiche [inchiostri]; Inchiostri di stampa; Toner [inchiostri] per fotocopiatrici; Cartucce d'inchiostro, piene, per stampanti; Cartucce di toner, riempite, per le stampanti laser; Cartucce per toner, rienpite, per stampanti a getto d'inchiostro; Inchiostri copiativi; Cartucce di toner riempite per stampanti e fotocopiatrici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dažymo medžiagos; Spaustuvinės pastos [dažai]; Spaustuviniai dažai; Elektrostatiniai milteliai [dažai] kopijavimo aparatams; Užpildytos spausdintuvų rašalo kasetės; Užpildytos lazerinių spausdintuvų dažų kasetės; Užpildytos rašalinių spausdintuvų dažų kasetės; Kopijavimo rašalai; Spausdintuvų ir kopijavimo aparatų dažų kasetės [pripildytos].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Krāsvielas; Printeru pastas [tintes]; Printeru pastas [tintes]; Toneru tinte fotokopētājiem; Tintes kasetnes, uzpildītas, printeriem; Uzpildītas tonera kasetnes lāzerprinteriem; Tonera kasetnes, uzpildītas, strūklprinteriem; Kopēšanas tintes; Pildītas printeru un fotokopētāju toneru kasetnes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Koloranti; Kompożizzjonijiet tal-istampar (linka); Kompożizzjonijiet tal-istampar (linka); Linka [Trab tal- -] għal fotokopjaturi; Kartriġis tal-linka, mimlija, għall-printers; Kartriġis tat-towners mimlija għall-printers tal-lejżer; Kartriġis tat-towner, mimlija, għall-printers tal-inkjet; Linka tal-ikkupjar; Kontenituri tal-linka, mimlija, għal stampanti u fotokopjaturi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kleurstoffen; Drukpasta's [inkt]; Drukinkten; Toners [inkt] voor fotokopieerapparaten; Inktpatronen, gevuld, voor printers; Inktpatronen, gevuld, voor laserprinters; Inktpatronen, gevuld, voor inkjetprinters; Kopieerinkt; Gevulde tonercartridges voor printers en fotokopieerapparaten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Barwniki; Pasty drukarskie [tusz]; Mieszanki drukarskie [tusz]; Tonery [tusz] do fotokopiarek; Wkłady atramentowe, pełne, do drukarek; Kartridże z tonerem, napełnione, do drukarek laserowych; Kartridże z tonerem, napełnione, do drukarek atramentowych; Tusz do kopiowania; Wkłady z tonerem, pełne, do drukarek i fotokopiarek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Matérias tinturiais; Pastas de tipografia [tintas]; Tinta para impressão; Toner [tinta] para fotocopiadoras; Cartuchos de tinta, cheios, para impressoras; Cartuchos de tinta, cheios, para impressoras a laser; Cartuchos de tinta, cheios, para impressoras a jato de tinta; Tintas para cópia; Cartuchos de tinta [toner] para impressoras e fotocopiadoras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Materiale colorante; Paste de tipar [cerneluri]; Imprimare (paste [cerneluri] de -); Toner [cerneluri] pentru fotocopiatoare; Cartuşe cu tuş, umplute, pentru imprimante; Cartuşe de toner, umplute, pentru imprimante laser; Cartuşe de toner, umplute, pentru imprimante cu jet de cerneală; Cerneluri pentru copiatoare; Cerneluri [toner] pentru imprimante şi maşini de fotocopiat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Farbivá; Tlačiarenské pasty (atrament); Tlačiarenské farby (atrament); Tonery do fotokopírovacích prístrojov; Atramentové náplne do tlačiarní (naplnené); Tonerové kartridže [plnené] do laserových tlačiarní; Náplne do atramentových tlačiarní (plné); Atrament pre kopírovacie stroje; Náplne do tlačiarní a kopírovacích strojov (tonery).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Barvilna sredstva; Tiskarske paste [črnila]; Zmesi za tiskanje (črnilo); Tonerji [črnila] za fotokopirne stroje; Polne kartuše s črnilom za tiskalnike; Kartuše s tonerjem, polne, za laserske tiskalnike; Kartuše s tonerjem, polne, za brizgalne tiskalnike; Črnila za kopiranje; Kartuše napolnjene s tonerjem za tiskalne in fotokopirne stroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Färgämnen; Tryckpasta [bläck]; Trycksvärta; Toner [bläck] för kopieringsapparater; Fyllda bläckpatroner för skrivare; Tonerpatroner, fyllda, till laserskrivare; Bläckpatroner, fyllda, för bläckstråleskrivare; Kopieringsbläck; Fotokopieringsapparater (färgpatroner toner) fyllda för skrivare och -.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/108</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/181</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082611</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>32203</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

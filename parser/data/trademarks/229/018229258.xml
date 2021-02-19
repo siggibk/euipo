@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-15T09:20:14</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229258</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229258</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-09-12</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>UNIQLEGAL</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162458007</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229258/000162458007.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.01.03</CategoryCode>
+          <CategoryCode>26.01.19</CategoryCode>
+          <CategoryCode>29.01.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>45</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Юридически услуги; Консултантски услуги и юридически консултации; Услуги на адвокати, имащи право да пледират във висши съдебни инстанции; Съдебни услуги (юридически услуги).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Právní služby; Právní poradenství a pomoc; Advokátní a právní služby; Služby soudního vykonavatele (Právní služby).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Juridisk virksomhed; Juridisk rådgivning og bistand; Tjenesteydelser udbudt af en advokat; Fogedvirksomhed (juridisk bistand).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Juristische Dienstleistungen; Rechtsberatung und -vertretung; Rechtsanwaltsdienste; Dienstleistungen eines Gerichtsvollziehers [juristische Dienstleistungen].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Νομικές υπηρεσίες· Υπηρεσίες παροχής συμβουλών και υποστήριξης σε νομικά θέματα· Υπηρεσίες παρεχόμενες από δικηγόρους· Υπηρεσίες δικαστικού κλητήρα (νομικές υπηρεσίες).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Legal services; Legal services; Barrister services; Bailiff services (legal services).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios jurídicos; Servicios jurídicos; Servicios de abogado; Servicios de oficial de justicia (servicios jurídicos).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Juriidilised teenused; Õigusnõustamise ja -abiteenused; Advokaaditeenused; Kohtutäituriteenused (Juriidilised teenused).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Oikeudelliset palvelut; Oikeudelliset konsultointi- ja avustuspalvelut; Asianajopalvelut ylemmissä oikeusasteissa; Haastemiehen palvelut (oikeudelliset palvelut).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services juridiques; Services juridiques; Services d'avocats; Services de huissier [services juridiques].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pravne usluge; Pravne usluge; Usluge pravnog savjetnika; Usluge ovrhovoditelja [pravne usluge].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Jogi szolgáltatások; Jogi szolgáltatások; Ügyvédi [barrister] szolgáltatások; Végrehajtói szolgáltatások (jogi szolgáltatások).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi giuridici; servizi di consulenza e assistenza legale; servizi di avvocati; servizi di recupero crediti (servizi legali).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Juridinės paslaugos; Konsultavimas ir pagalba teisės klausimais; Advokatų paslaugos; Teismo antstolių paslaugos (juridinės paslaugos).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Juridiskie pakalpojumi; Juridiskās konsultācijas un juridiskā palīdzība; Advokātu pakalpojumi; Tiesu izpildītāju pakalpojumi (juridiskie pakalpojumi).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi legali; Servizzi legali; Servizzi ta' avukat [fil-qrati superjuri]; Servizzi ta' marixxall (servizzi legali).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Juridische diensten; Advisering en hulp op juridisch gebied; Juristen (Diensten van -); Deurwaarders (juridische diensten) diensten van -.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi prawne; Usługi prawne; Usługi adwokackie; Usługi komornicze (usługi prawne).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços jurídicos; Serviços jurídicos; Serviços de advogados de barra de tribunal; Serviços de oficial de diligências (serviços jurídicos).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii juridice; Servicii de consultanta si asistenta juridica; Servicii furnizate de avocaţi pledanţi; Servicii de portărei (Servicii juridice).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Právne služby; Poradenské služby a právna asistencia; Služby právnych zástupcov; Služby súdnych úradníkov (právne služby).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pravne storitve; Pravne storitve; Storitve odvetnikov; Storitve sodnih uradnikov (pravne storitve).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Juridiska tjänster; Juridiska rådgivnings- och stödtjänster; Advokattjänster i högre domstolar; Delgivningstjänster (juridiska tjänster).</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>IT</PriorityCountryCode>
+<PriorityNumber>2020000027370</PriorityNumber>
+<PriorityDate>2020-03-30</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/105</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/176</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082007</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11741</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

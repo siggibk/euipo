@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-18T11:26:25</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229860</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229860</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-13</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>CLEAN Melter</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Електроди, трансформатори за пещи за отопление, електрически разпределителни устройства за пещи за отопление.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Elektrody, transformátory pro vyhřívání pecí, elektrické spínací přístroje pro vyhřívání pecí.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Elektroder, transformere til opvarmning af ovne, elektriske afbrydere til opvarmning af ovne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Elektroden, Transformatoren zur Beheizung von Öfen, elektrische Schaltgeräte zur Beheizung von Öfen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ηλεκτρόδια, μετασχηματιστές για τη θέρμανση κλιβάνων, ηλεκτρικές συσκευές μεταγωγής για τη θέρμανση κλιβάνων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Electrodes, transformers for heating kilns, electric switching apparatus for heating kilns.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Electrodos, transformadores para calentar hornos, aparatos eléctricos de conmutación para calentar hornos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Elektroodid, ahjude kütmise trafod, ahjude kütmise elektrilülitid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Elektrodit, muuntajat uunien lämmitykseen, sähkökäyttöiset kytkinlaitteet uunien lämmitykseen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Electrodes, transformateurs pour le chauffage de fours, appareils de commutation électriques pour le chauffage de fours.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Elektrode, transformatori za zagrijavanje peći, električni rasklopni uređaji za grijanje peći.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Elektródák, transzformátorok kemencék befűtéséhez, elektromos kapcsoló készülékek kemencék befűtéséhez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Elettrodi, trasformatori per il riscaldamento dei forni, apparecchi di commutazione elettrici per il riscaldamento dei forni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Elektrodai, transformatoriai krosnims šildyti, elektriniai skirstymo prietaisai krosnims šildyti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Elektrodi, transformatori krāšņu sildīšanai, elektriskas komutācijas ierīces krāšņu apsildei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Elettrodi, transformers għat-tisħin ta' fran, swiċgers elettriċi għat-tisħin ta' fran.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Elektroden, transformatoren voor verhitting van ovens, elektrische schakelapparatuur voor verhitting van ovens.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Elektrody, transformatory do ogrzewania pieców, elektryczne komutatory do ogrzewania pieców.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Elétrodos, transformadores para aquecimento de fornos, aparelhos elétricos de comutação para aquecimento de fornos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Electrozi, transformatoare pentru încălzirea cuptoarelor, aparate de comutare electrice pentru încălzirea cuptoarelor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Elektródy, transformátory na vyhrievanie pecí, elektrické spínacie prístroje na vyhrievanie pecí.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Elektrode, transformatorji za segrevanje peči, električne stikalne naprave za segrevanje peči.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Elektroder, transformatorer för upphettning av ugnar, elektriska kopplingsanordningar för upphettning av ugnar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Пещи за направа на стъкло, Мазутни горелки, Газови горелки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pece na výrobu skla, Olejové hořáky, Plynové hořáky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Ovne til fremstilling af glas, Oliebrændere, Gasbrændere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Öfen für die Glasherstellung, Ölbrenner, Gasbrenner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κλίβανοι κατασκευής υάλου, Έλαιο (καυστήρες -ου), Μπεκ αερίου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Glass making furnaces, Oil burners, Gas burners.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Hornos para fabricar vidrio, Quemadores de aceite, Mecheros de gas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Klaasivalmistusahjud, Õlipõletid, Gaasipõletid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lasintekouunit, Öljypolttimet, Kaasupolttimet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Fours pour la fabrication du verre, Brûleurs à huile, Brûleurs à gaz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Peći za pravljenje stakla, Uljni plamenici, Plinski plamenici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Üveggyártási kemencék, Olajégők, Gázégők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Forni per la produzione del vetro, Bruciatori ad olio, Bruciatori a gas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Stiklo gamybos krosnys, Skystojo kuro degikliai, Dujų degikliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Stikla kausēšanas krāsnis, Eļļas degļi, Gāzes degļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Fuklara fejn jinħadem il-ħġieġ, Berners taż-żejt, Berners tal-gass.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ovens voor het maken van glas, Oliebranders, Gaspitten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Piece szklarskie, Palniki olejowe, Palniki gazowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Fornalhas de fazer vidro, Queimadores a óleo, Queimadores a gás.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cuptoare pentru fabricarea sticlei, Arzătoare de ulei, Lămpi de gaz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Pece na výrobu skla, Olejové horáky, Plynové horáky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Peči za izdelavo stekla, Oljni gorilniki, Plinski gorilniki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Ugnar för glastillverkning, Oljebrännare, Gasbrännare.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/083</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/155</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>427841</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11166</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

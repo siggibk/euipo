@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:35</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226164</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226164</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ShuoKang</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Аларми; Предавателни трансмитери; Оборудване за разпръскване на радио- и телевизионен сигнал; Комуникационна апаратура; Компютърни помощни програми за компресиране на данни; Цифрови телекомуникационни апарати; Оптични влакна; Съединители за оптични нишки; Фиброоптични съединители; Уреди за отчитане; Оптични уреди за измерване; Оптични измервателни компоненти; Съставни части и фитинги за комуникационна апаратура; Рутери; Телекомуникационни апарати и уреди; Телекомуникационна апаратура; Телекомуникационно оборудване; Апарати за безжична комуникация; Алармени системи.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Alarmy; Rozhlasové vysílače; Zařízení a vybavení pro vysílání; Komunikační přístroje; Počítačové servisní programy ke kompresi dat; Digitální telekomunikační přístroje; Kabely z optických vláken; Spojky optických vláken; Spojky optických vláken; Měřící nástroje a zařízení; Optické měřicí přístroje; Optické měřicí komponenty; Části a součásti komunikačních přístrojů; Síťové směrovače (routery); Telekomunikační přístroje a nástroje; Telekomunikační přístroje; Telekomunikační zařízení; Přístroje na bezdrátovou komunikaci; Poplašné systémy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Alarmapparater; Transmittere til udsendelser; Broadcastingudstyr; Kommunikationsapparater; Computerhjælpeprogrammer til komprimering af data; Digitale telekommunikationsapparater; Fiberoptiske kabler; Fiberoptiske konnektorer; Fiberoptiske koblinger; Måleapparater; Optiske måleapparater; Optiske målekomponenter; Dele og tilbehør til kommunikationsapparater; Netværksroutere; Telekommunikationsapparater og -instrumenter; Telekommunikationsapparater; Telekommunikationsudstyr; Apparater til trådløs kommunikation; Alarmsystemer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Alarmgeräte; Rundfunksender; Rundfunkgeräte und -ausrüstung; Kommunikationsgeräte; Computerdienstprogramme zur Datenkomprimierung; Digitale Telekommunikationsapparate; Optische Faserkabel; Lichtwellenleitersteckverbinder; Faseroptische Verbindungsstücke; Messgeräte; Optische Messgeräte; Optische Messteile; Teile und Zubehör für Kommunikationsgeräte; Router für Netze; Telekommunikationsapparate und -instrumente; Telekommunikationsapparate; Telekommunikationsgeräte; Drahtlose Kommunikationsgeräte; Alarmsysteme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συναγερμού (Όργανα -)· Πομποί μετάδοσης· Εξοπλισμός ραδιοτηλεοπτικών εκπομπών· Συσκευές επικοινωνιών· Βοηθητικά προγράμματα ηλεκτρονικών υπολογιστών για συμπίεση δεδομένων· Εξοπλισμός ψηφιακών τηλεπικοινωνιών· Οπτικές ίνες· Σύνδεσμοι οπτικών ινών· Σύνδεσμοι οπτικών ινών· Μέτρηση (όργανα -ης)· Εξοπλισμός οπτικών μετρήσεων· Οπτικά εξαρτήματα μέτρησης· Μέρη και εξαρτήματα για συσκευές επικοινωνίας· Δρομολογητές δικτύου· Συσκευές και όργανα τηλεπικοινωνιών· Συσκευές τηλεπικοινωνιών· Εξοπλισμός τηλεπικοινωνιών· Συσκευές ασύρματης επικοινωνίας· Συστήματα συναγερμού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Alarms; Broadcast transmitters; Broadcasting equipment; Communications apparatus and instruments; Computer utility programs for data compression; Digital telecommunications apparatus; Fiber optic cable; Fibre optic connectors; Fibre optic couplings; Measurement apparatus; Optical measurement apparatus; Optical measuring components; Parts and fittings for communications apparatus; Routers; Telecommunication devices and apparatus; Telecommunications devices; Telecommunications equipment; Telecommunications instruments; Wireless communication apparatus; Wireless communication devices; Alarm systems.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Instrumentos de alarma; Transmisores de radiodifusión; Equipos de radiodifusión; Aparatos de comunicaciones; Programas de utilidad informáticos para comprimir datos; Aparatos de telecomunicación digitales; Cables de fibra óptica; Conectores de fibra óptica; Acoplamientos de fibra óptica; Aparatos de medición; Aparatos de medida ópticos; Componentes de medida óptica; Partes y piezas para aparatos de comunicaciones; Enrutadores de red (routers); Aparatos e instrumentos de telecomunicaciones; Aparatos de telecomunicación; Equipos de telecomunicación; Dispositivos de comunicación inalámbricos; Sistemas de alarma.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Häireseadmed, alarmid, alarmiseadmed; Ringhäälingusaatjad; Ringhäälinguseadmed; Kommunikatsiooniseadmed; Arvutiutiliitprogrammid andmepakkimiseks; Digitaalsed kommunikatsiooniseadmed; Kiudoptilised kaablid; Valguskaablikonnektorid; Kiudoptilised ühenduslülid; Mõõteaparaadid, mõõteseadmed; Optilised mõõteseadmed; Optilised mõõtevahendid; Kommunikatsiooniseadmete osad ja tarvikud; Võrguruuterid; Sideaparaadid ja -instrumendid; Telekommunikatsiooniaparaadid; Telekommunikatsiooniseadmed; Juhtmeta sideaparaadid; Häiresüsteemid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Hälyttimet; Yleisradiolähettimet; Radio- ja tv-lähetyslaitteet; Viestintälaitteet; Tietokoneiden käyttöohjelmat tiedontiivistykseen; Digitaaliset tietoliikennelaitteet; Kaapelit optisista kuiduista; Optiset kuituliittimet; Kuituoptiset liittimet; Mittalaitteet; Optiset mittauslaitteet; Optiset mittauskomponentit; Viestintälaitteiden osat ja tarvikkeet; Verkkoreitittimet; Televiestintälaitteet ja -välineet; Teleliikenneaparaatit; Teleliikennelaitteet; Langattomat viestintälaitteet; Hälytysjärjestelmät.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Instruments d'alarme; Émetteurs de radiodiffusion; Appareils de radiodiffusion; Appareils de communication; Programmes informatiques utilitaires pour la compression des données; Appareils de télécommunication numériques; Câbles à fibres optiques; Connecteurs à fibres optiques; Raccordements pour fibres optiques; Mesureurs; Appareils optiques de mesure; Éléments optiques de mesure; Pièces et parties constitutives pour appareils de communications; Routeurs de réseaux; Appareils et instruments de télécommunication; Appareils de télécommunication; Équipements de télécommunication; Appareils de communications sans fil; Instruments d'alarme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Alarmi; Širokopojasni predajnici; Oprema za emitiranje; Komunikacijski aparati; Računalni uslužni programi za komprimiranje podataka; Digitalni telekomunikacijski uređaji; Optička vlakna; Konektori za optička vlakna; Spojnice za optička vlakna; Mjerni instrumenti; Optički uređaji za mjerenje; Optičke komponente za mjerenje; Dijelovi i dodatci za komunikacijske uređaje; Mrežni usmjerivači; Telekomunikacijski uređaji i instrumenti; Telekomunikacijski uređaji; Telekomunikacijska oprema; Bežični komunikacijski uređaji; Alarmni sustavi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Riasztók; Műsorszóró adók; Műsorszóró berendezések; Kommunikációs készülékek; Adattömörítésre szolgáló számítógépes segédrogramok; Digitális telekommunikációs berendezések; Optikai szálak [üvegszálak]; Csatlakozók optikai szálakhoz; Száloptikai csatolók, kapcsolók; Mérőműszerek; Optikai mérőberendezések; Optikai mérő komponensek; Alkatrészek és szerelvények kommunikációs eszközökhöz; Hálózati routerek; Telekommunikációs berendezések és műszerek; Távközlési berendezések; Távközlési felszerelés; Vezeték nélküli kommunikációs berendezések; Riasztórendszerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Strumenti d'allarme; Trasmettitori per trasmissioni; Apparecchiature per radiotelediffusione; Apparecchi di comunicazione; Programmi di utilità (computer) per compressione dati; Apparecchi di telecomunicazione digitali; Cavi in fibra ottica; Connettori di fibre ottiche; Giunti in fibre ottiche; Misuratori; Apparecchi per la misurazione ottica; Componenti ottici di misurazione; Parti e accessori per apparecchi di comunicazione; Instradatori di rete; Apparecchi e strumenti di telecomunicazione; Apparecchi di telecomunicazione; Dispositivi di telecomunicazione; Apparecchi di comunicazione senza fili; Sistemi d'allarme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Aliarmo įrenginiai; Transliavimo siųstuvai; Transliavimo įranga; Ryšių aparatai; Kompiuterinės duomenų glaudinimo programos; Skaitmeniniai telekomunikacijų aparatai; Pluoštiniai optiniai kabeliai; Šviesolaidžių kabelių jungtys; Optinių skaidulų jungtys; Matavimo aparatai; Optiniai matavimo aparatai; Optiniai matavimo komponentai; Komunikacijos aparatų dalys ir priedai; Tinklo maršruto parinktuvai; Telekomunikacijos aparatai ir prietaisai; Telekomunikacijų aparatai; Telekomunikacijų įranga; Belaidžio ryšio aparatai; Aliarmo sistemos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Trauksmes signālierīces; Apraides raidītāji (ierīces); Apraides ierīces; Komunikācijas aparāti; Datoru utilītprogrammas datu saspiešanai; Digitālie telekomunikāciju aparāti; Optiskās šķiedras kabeļi; Optisko šķiedru savienotāji; Optisko šķiedru savienojumi; Mēraparatūra; Optiskas mērīšanas ierīces; Optiskie mērīšanas elementi; Daļas un piederumi komunikācijas aparātiem; Tīkla maršrutētāji; Telekomunikāciju iekārtas un instrumenti; Telesakaru aparāti; Telesakaru iekārtas; Bezvadu sakaru aparatūra; Signalizācijas sistēmas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Allarmi; Trasmettituri tax-xandir; Tagħmir għax-xandir; Apparat tal-komunikazzjonijiet; Programmi tal-kompjuter ta' utilità għall-kompressjoni tad-data; Apparat tat-telekomunikazzjonijiet diġitali; Fibri ottiċi; Konnetturi tal-fibri ottiċi; Partijiet tal-igganċjar tal-fibri ottiċi; Strumenti tal-kejl; Apparat ottiku għall-kejl; Komponenti ottiċi għall-kejl; Partijiet u fitings għal apparat tal-komunikazzjoni; Tagħmir għall-bgħit ta' informazzjoni bejn netwerks; Apparat u strumenti tat-telekomunikazzjoni; Apparat tat-telekomunikazzjoni; Mezzi tat-telekomunikazzjoni; Apparat għal komunikazzjoni mingħajr fili; Sistemi ta' allarm.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Alarmtoestellen; Uitzendapparatuur; Zenduitrusting; Communicatieapparaten; Computerhulpprogramma's voor datacompressie; Digitale telecommunicatieapparatuur; Optische kabels; Connectoren van optische vezels; Glasvezelkoppelingen; Meetapparaten; Meetapparaten (Optische -); Meetonderdelen (Optische -); Delen en onderdelen voor communicatie-apparatuur; Netwerkrouters; Telecommunicatietoestellen en -instrumenten; Telecommunicatie-apparaat; Telecommunicatie-uitrusting; Draadloze communicatieapparaten; Alarmsystemen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Alarmy; Nadajniki; Urządzenia do transmisji; Aparatura łącznościowa; Komputerowe oprogramowanie użytkowe do kompresji danych; Telekomunikacyjne urządzenia cyfrowe; Kable światłowodowe; Łączniki światłowodowe; Złącza do światłowodów; Przyrządy pomiarowe; Optyczne urządzenia pomiarowe; Optyczne elementy pomiarowe; Części i akcesoria do urządzeń komunikacyjnych; Routery sieciowe; Urządzenia i przyrządy telekomunikacyjne; Urządzenia telekomunikacyjne; Sprzęt telekomunikacyjny; Urządzenia do łączności bezprzewodowej; Systemy alarmowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Alarmes; Transmissores de radiodifusão; Equipamento de radiodifusão; Aparelhos de comunicações; Programas informáticos utilitários para compressão de dados; Instrumentos de telecomunicações digitais; Cabos de fibra ótica; Conetores de fibra ótica; Acoplamentos de fibra ótica; Aparelhos de medição; Equipamento de medição ótica; Componentes de medição ótica; Peças e acessórios para aparelhos de comunicação; Encaminhadores de rede; Aparelhos e instrumentos de telecomunicação; Aparelhos de telecomunicações; Equipamento para telecomunicações; Aparelhos de comunicação sem fios; Sistemas de alarme.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Alarmă (Dispozitive de -); Emițătoare de radiodifuziune; Echipamente de radiodifuziune; Aparate de comunicații; Programe informatice utilitare pentru compresie de date; Aparate pentru telecomunicații digitale; Fibre optice; Conectori pentru fibra optică; Elemente de cuplare din fibră optică; Instrumente de măsurare; Instrumente optice de măsurare; Componente optice de măsurare; Piese și accesorii pentru aparate de comunicații; Rutere de rețea; Aparate și instrumente de telecomunicație; Aparate de telecomunicații; Echipamente de telecomunicații; Aparate de comunicație fără fir; Sisteme de alarmă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Alarmy; Vysielače; Vysielacie zariadenia; Komunikačné zariadenia; Počítačové servisné programy na kompresiu údajov; Digitálne telekomunikačné zariadenia; Káble s optickými vláknami; Konektory z optických vláken; Spojky optických vlákien; Meracie prístroje; Optické meracie prístroje; Optické meracie komponenty; Časti a príslušenstvo pre komunikačné prístroje; Sieťové smerovače; Telekomunikačné prístroje a zariadenia; Telekomunikačné prístroje; Telekomunikačné vybavenie; Bezdrôtové komunikačné zariadenia; Poplašné systémy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Alarmi; Širokopasovni oddajniki; Oprema za oddajanje; Komunikacijske naprave; Računalniški pomožni programi za komprimiranje podatkov; Digitalni telekomunikacijski aparati; Optična vlakna; Konektorji za optična vlakna; Spojke za optična vlakna; Merilni instrumenti; Optični merilni aparati; Optične komponente za merjenje; Deli in oprema za komunikacijske naprave; Omrežni usmerjevalniki; Telekomunikacijski aparati in instrumenti; Telekomunikacijski aparati; Telekomunikacijska oprema; Aparati za brezžično komunikacijo; Alarmni sistemi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Alarm; Sändare för etermedium; Utrustning för radio- och TV-sändning; Kommunikationsapparater; Tillämpningsprogram för datorer för datakomprimering; Digitala telekommunikationsapparater; Fiberoptiska kablar; Fiberoptiska anslutningsdon; Fiberoptiska kopplingar; Mätapparater; Optiska mätinstrument; Optiska mätkomponenter; Delar och tillbehör för kommunikationsapparater; Nätverksroutrar; Telekommunikationsapparater och -instrument; Apparater för telekommunikation; Telekommunikationsutrustning; Apparater för trådlös kommunikation; Larmsystem.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080397</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>39103</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

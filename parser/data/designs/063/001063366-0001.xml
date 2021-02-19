@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:47</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063366-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063366-0001</DesignIdentifier>
+<ApplicationNumber>001063366</ApplicationNumber>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-02-13</PublicationDate>
+<ApplicationReference>2008DSRCD1081</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000062488443</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063366_0001/001063366_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062488444</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063366_0001/001063366_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062488445</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063366_0001/001063366_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062488447</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063366_0001/001063366_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062488448</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063366_0001/001063366_0001_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062488449</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063366_0001/001063366_0001_6.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Стойки за дрехи</IndicationProduct>
+       <IndicationProduct languageCode="bg">Поставки за предмети</IndicationProduct>
+       <IndicationProduct languageCode="cs">Pouzdra na předměty</IndicationProduct>
+       <IndicationProduct languageCode="cs">Držáky na utěrky</IndicationProduct>
+       <IndicationProduct languageCode="da">Tørrestativer</IndicationProduct>
+       <IndicationProduct languageCode="da">Beholdere til smådele</IndicationProduct>
+       <IndicationProduct languageCode="de">Etuis für Sachen</IndicationProduct>
+       <IndicationProduct languageCode="de">Kleiderhalter</IndicationProduct>
+       <IndicationProduct languageCode="el">Υποδοχές για πανιά</IndicationProduct>
+       <IndicationProduct languageCode="el">Θήκες αντικειμένων</IndicationProduct>
+       <IndicationProduct languageCode="en">Cloth holders</IndicationProduct>
+       <IndicationProduct languageCode="en">Object holders</IndicationProduct>
+       <IndicationProduct languageCode="es">Ganchos para los trapos</IndicationProduct>
+       <IndicationProduct languageCode="es">Portaobjetos</IndicationProduct>
+       <IndicationProduct languageCode="et">Esemete hoidikud</IndicationProduct>
+       <IndicationProduct languageCode="et">Pesukuivatusrestid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Kotelot pikkutavaroille</IndicationProduct>
+       <IndicationProduct languageCode="fi">Vaatetelineet</IndicationProduct>
+       <IndicationProduct languageCode="fr">Récipients pour objets</IndicationProduct>
+       <IndicationProduct languageCode="fr">Porte-serviettes</IndicationProduct>
+       <IndicationProduct languageCode="hu">Törülközőtartók</IndicationProduct>
+       <IndicationProduct languageCode="hu">Tárolók</IndicationProduct>
+       <IndicationProduct languageCode="it">Portaoggetti</IndicationProduct>
+       <IndicationProduct languageCode="it">Porta-abiti</IndicationProduct>
+       <IndicationProduct languageCode="lt">Rankšluosčių laikiklai</IndicationProduct>
+       <IndicationProduct languageCode="lt">Įvairių daiktų laikymo priemonės</IndicationProduct>
+       <IndicationProduct languageCode="lv">Drēbju pakaramie</IndicationProduct>
+       <IndicationProduct languageCode="lv">Mazu detaļu konteineri</IndicationProduct>
+       <IndicationProduct languageCode="mt">Kontenitur għall-ġarr</IndicationProduct>
+       <IndicationProduct languageCode="mt">Kontenituri għaż-żamma tal-ħwejjeġ</IndicationProduct>
+       <IndicationProduct languageCode="nl">Inrichtingen voor opslag/bevestiging van (hand)doeken</IndicationProduct>
+       <IndicationProduct languageCode="nl">Opbergtasjes</IndicationProduct>
+       <IndicationProduct languageCode="pl">Uchwyty do szmatek</IndicationProduct>
+       <IndicationProduct languageCode="pl">Pokrowce</IndicationProduct>
+       <IndicationProduct languageCode="pt">Suportes para panos</IndicationProduct>
+       <IndicationProduct languageCode="pt">Recipientes para objectos</IndicationProduct>
+       <IndicationProduct languageCode="ro">Suporturi de haine</IndicationProduct>
+       <IndicationProduct languageCode="ro">Suporturi pentru obiecte</IndicationProduct>
+       <IndicationProduct languageCode="sk">Držiaky na utierky</IndicationProduct>
+       <IndicationProduct languageCode="sk">Puzdrá na predmety</IndicationProduct>
+       <IndicationProduct languageCode="sl">Držala za krpe</IndicationProduct>
+       <IndicationProduct languageCode="sl">Etuiji za predmete</IndicationProduct>
+       <IndicationProduct languageCode="sv">Handdukshängare</IndicationProduct>
+       <IndicationProduct languageCode="sv">Etuier för artiklar</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>03.01</ClassNumber>
+       </ClassDescription>
+       <ClassDescription>
+        <ClassNumber>07.05</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/030</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-02-13</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325779</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>29624</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

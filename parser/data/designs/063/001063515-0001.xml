@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2018-11-20T14:36:26</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063515-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-30</ReceivingOfficeDate>
+<DesignIdentifier>001063515-0001</DesignIdentifier>
+<ApplicationNumber>001063515</ApplicationNumber>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-30</ApplicationDate>
+<RegistrationDate>2008-12-30</RegistrationDate>
+<PublicationDate>2009-02-11</PublicationDate>
+<ApplicationReference>199/08</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2023-12-30</ExpiryDate>
+<EffectiveDate>2008-12-30</EffectiveDate>
+<DesignCurrentStatusCode>Registered and fully published</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2018-11-19</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000062347299</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063515_0001/001063515_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062347300</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063515_0001/001063515_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062347301</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063515_0001/001063515_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062347302</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063515_0001/001063515_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062347304</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063515_0001/001063515_0001_5.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062347305</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063515_0001/001063515_0001_6.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000062347306</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063515_0001/001063515_0001_7.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Играчки - самолети</IndicationProduct>
+       <IndicationProduct languageCode="cs">Letadla na hraní</IndicationProduct>
+       <IndicationProduct languageCode="da">Legetøjsflyvemaskiner</IndicationProduct>
+       <IndicationProduct languageCode="de">Spielzeugflugzeuge</IndicationProduct>
+       <IndicationProduct languageCode="el">Αεροπλανάκια (παιχνίδια)</IndicationProduct>
+       <IndicationProduct languageCode="en">Toy aeroplanes</IndicationProduct>
+       <IndicationProduct languageCode="es">Aviones de juguete</IndicationProduct>
+       <IndicationProduct languageCode="et">Mängulennukid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Lelulentokoneet</IndicationProduct>
+       <IndicationProduct languageCode="fr">Avions-jouets</IndicationProduct>
+       <IndicationProduct languageCode="hu">Játék replülőgépek</IndicationProduct>
+       <IndicationProduct languageCode="it">Aeroplani giocattolo</IndicationProduct>
+       <IndicationProduct languageCode="lt">Žaisliniai lėktuvai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Rotaļu lidmašīnas</IndicationProduct>
+       <IndicationProduct languageCode="mt">Ajruplani tal-logħob</IndicationProduct>
+       <IndicationProduct languageCode="nl">Speelgoedvliegtuigen</IndicationProduct>
+       <IndicationProduct languageCode="pl">Samoloty do zabawy</IndicationProduct>
+       <IndicationProduct languageCode="pt">Aviões de brincar</IndicationProduct>
+       <IndicationProduct languageCode="ro">Avioane de jucărie</IndicationProduct>
+       <IndicationProduct languageCode="sk">Lietadlá na hranie</IndicationProduct>
+       <IndicationProduct languageCode="sl">Igrača - letala</IndicationProduct>
+       <IndicationProduct languageCode="sv">Leksaksflygplan</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>21.01</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/028</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-02-11</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2011/082</PublicationIdentifier>
+        <PublicationSequenceNumber>570028</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2011-04-08</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/214</PublicationIdentifier>
+        <PublicationSequenceNumber>1088357</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2013-11-11</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2015/008</PublicationIdentifier>
+        <PublicationSequenceNumber>1394379</PublicationSequenceNumber>
+        <PublicationSection>B.9.2</PublicationSection>
+        <PublicationDate>2015-01-14</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2018/220</PublicationIdentifier>
+        <PublicationSequenceNumber>100769941</PublicationSequenceNumber>
+        <PublicationSection>C.1</PublicationSection>
+        <PublicationDate>2018-11-20</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>200570</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>11106</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>008913307</RecordIdentifier>
+<BasicRecordKind>Appointment Replacement and Deletion of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1394379</PublicationSequenceNumber>
+           <PublicationSection>B.9.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2015-01-14</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>004735647</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>570028</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2011-04-08</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006995132</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>1088357</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-11-11</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>1</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>012443820</RecordIdentifier>
+<BasicRecordKind>Renewal Registration</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>100769941</PublicationSequenceNumber>
+           <PublicationSection>C.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2018-11-20</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+<RenewalSequenceNumber>2</RenewalSequenceNumber>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

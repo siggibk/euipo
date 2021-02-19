@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:34:36</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226507</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226507</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>CONNEX</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Научни изследователски дейности в областта на медицината; Предоставяне на информация за медицински и научни проучвния в областта на фармацевтичните вещества.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vědecký výzkum v oboru lékařství; Poskytování informací z lékařského a vědeckého výzkumu v oboru farmaceutik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Medicinsk forskning; Formidling af information vedrørende medicinsk og videnskabelig forskning inden for lægemidler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">wissenschaftliche Forschungsarbeiten auf dem Gebiet der Medizin; Bereitstellung medizinischer und wissenschaftlicher Forschungsinformationen auf dem Gebiet der Pharmazeutika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εργασίες επιστημονικής έρευνας στον τομέα της ιατρικής· Παροχή πληροφοριών ιατρικής και επιστημονικής έρευνας στον τομέα των φαρμακευτικών σκευασμάτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Scientific research in the field of medicine; providing medical and scientific research information in the field of pharmaceuticals.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Trabajos de investigación científica en el campo de la medicina; Suministro de información de investigación médica y científica en relación con los productos farmacéuticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Teaduslikud uurimistööd meditsiini alal; Meditsiini- ja teadusuuringute teabe pakkumine ravimite valdkonnas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tieteelliset tutkimustyöt lääketieteen alalla; Lääketieteellisten ja tieteellisten tutkimustietojen tarjoaminen farmaseuttisten aineiden alalla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Travaux de recherche scientifiques dans le domaine de la médecine; Fourniture d'informations sur la recherche médicale et scientifique dans le domaine des produits pharmaceutiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Znanstveno istraživanje u području medicine; Pružanje informacija iz medicinskih i znanstvenih istraživanja na području farmaceutskih proizvoda.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gazdasági kutatási munkák a gyógyászat területén; Gyógyászati és tudományos kutatási információk szolgáltatása a gyógyszerek területén.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Lavori di ricerca scientifici nell'ambito della medicina; Fornitura di informazioni relative a ricerche mediche e scientifiche in materia di prodotti farmaceutici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Medicinos tyrimų paslaugos medicinos srityje,; Farmacijos preparatų srityje atliekamų medicininių ir mokslinių tyrimų informacijos teikimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Zinātniski pētījumi medicīnas jomā; Medicīniskās un zinātniskās izpētes informācijas nodrošināšana medikamentu jomā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xogħlijiet ta' riċerka xjentifika fil-qasam tal-mediċina; Provvista ta' informazzjoni dwar riċerka medika u xjentifika fil-qasam tal-farmaċewtiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Wetenschappelijk onderzoekswerk op het gebied van de geneeskunde; Het verstrekken van medische en wetenschappelijke informatie op het gebied van farmaceutische producten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Naukowe prace badawcze w zakresie medycyny; Udzielanie informacji na temat badań medycznych i naukowych w dziedzinie farmaceutyków.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços científicos na área da investigação médica; Fornecimento de informações sobre investigações médicas e científicas no domínio dos produtos farmacêuticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Lucrări ştiinţifice de cercetare în domeniul medical; Furnizare de informaţii bazate pe cercetare medicală şi ştiinţifică în domeniul produselor farmaceutice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vedecké výskumné práce a v oblasti medicíny; Poskytovanie lekárskych a vedeckých výskumných informácií v oblasti farmaceutických prípravkov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Znanstvene raziskave na medicinskem področju; Nudenje medicinskih in znanstvenih raziskovalnih informacij na področjih farmacevtskih proizvodov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Vetenskapliga forskningsarbeten inom det medicinska området; Tillhandahållande av medicinsk och vetenskaplig forskningsinformation inom området farmaceutiska preparat.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/078</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>46165</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-10T09:15:58</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229798</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229798</ApplicationNumber>
+<ApplicationDate>2020-04-26</ApplicationDate>
+<ApplicationLanguageCode>el</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>wellcare</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162491092</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229798/000162491092.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.05.94</CategoryCode>
+          <CategoryCode>26.99.03</CategoryCode>
+          <CategoryCode>26.99.20</CategoryCode>
+          <CategoryCode>29.01.04</CategoryCode>
+          <CategoryCode>29.01.06</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за търговия на дребно във връзка с медицински инструменти; Търговия на дребно и едро с фармацевтични, ветеринарни, санитарни и медицински препарати; Услуги за продажба на едро на фармацевтични, ветеринарни и санитарни препарати и медицински консумативи; Услуги за търговия на едро във връзка с медицински апарати; Административни услуги във връзка с насочване на пациенти; Услуги за търговия на едро във връзка с медицински инструменти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Maloobchodní prodej lékařských nástrojů; Služby pro maloobchod nebo velkoobchod s farmaceutickými, veterinárními a sanitárními přípravky a zdravotnickým materiálem; Velkoobchodní služby zaměřené na farmaceutické, veterinářské a hygienické přípravky a lékařské potřeby; Velkoobchodní prodej lékařských přístrojů; Administrativní služby související s doporučováním pacientů k vyšetření; Velkoobchodní prodej lékařských nástrojů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Detailhandel med medicinske instrumenter; Detailhandel med farmaceutiske, veterinære og sanitære præparater samt medicinske artikler; Engroshandel med farmaceutiske, veterinærmedicinske og sanitære præparater samt medicinske artikler; Engroshandel med medicinsk apparatur; Administrative tjenester vedrørende henvisning af patienter; Engroshandel med medicinske instrumenter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Einzelhandelsdienstleistungen in Bezug auf medizinische Instrumente; Einzelhandelsdienstleistungen in Bezug auf pharmazeutische, medizinische und veterinärmedizinische Artikel sowie Hygienepräparate; Großhandelsdienstleistungen in Bezug auf pharmazeutische, medizinische und veterinärmedizinische Artikel sowie Hygienepräparate; Großhandelsdienstleistungen in Bezug auf medizinische Apparate; Verwaltungsdienstleistungen in Bezug auf die Überweisung von Patienten; Großhandelsdienstleistungen in Bezug auf medizinische Instrumente.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες λιανικής πώλησης σε σχέση με ιατρικά εργαλεία· Υπηρεσίες λιανικής ή χονδρικής για προμήθειες φαρμακευτικών, κτηνιατικών, ιατρικών και ειδών υγιεινής· Υπηρεσίες χονδρικής πώλησης φαρμακευτικών και κτηνιατρικών παρασκευασμάτων, παρασκευασμάτων υγιεινής και ιατρικών ειδών· Υπηρεσίες χονδρικής πώλησης σε σχέση με ιατρικές συσκευές· Διοικητικές υπηρεσίες με αντικείμενο την παραπομπή ασθενών· Υπηρεσίες χονδρικής πώλησης σε σχέση με ιατρικά εργαλεία.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Retail services in relation to medical instruments; Retail services for pharmaceutical, veterinary and sanitary preparations and medical supplies; Wholesale services for pharmaceutical, veterinary and sanitary preparations and medical supplies; Wholesale services in relation to medical apparatus; Administrative services relating to the referral of patients; Wholesale services in relation to medical instruments.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de venta al por menor de instrumental de uso médico; Servicios de venta minorista de preparaciones farmacéuticas, veterinarias y sanitarias, así como de suministros médicos; Servicios de venta mayorista de preparaciones farmacéuticas, veterinarias y sanitarias, así como suministros médicos; Servicios de venta al por mayor de aparatos de uso médico; Servicios administrativos relacionados con la derivación de los pacientes; Servicios de venta al por mayor de instrumental de uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiinivahendite jaemüügiteenused; Farmaatsia- ja veterinaariapreparaatide ning hügieeni- ja meditsiinitarvete jae- ja hulgimüük; Farmaatsia-, veterinaar- ja sanitaarpreparaatide ning meditsiiniliste materjalide hulgimüügiteenused; Meditsiiniseadmete hulgimüügiteenused; Patsientide suunamisega seotud haldusteenused; Meditsiinivahendite hulgimüügiteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lääketieteellisiin välineisiin liittyvät vähittäismyyntipalvelut; Farmaseuttisten ja eläinlääkinnällisten valmisteiden, saniteettivalmisteiden sekä lääkintätarvikkeiden vähittäiskauppapalvelut; Farmaseuttisten, eläinlääketieteellisten ja hygieniavalmisteiden sekä lääkintätarvikkeiden tukkumyyntipalvelut; Lääketieteellisiin laitteisiin liittyvät tukkumyyntipalvelut; Potilaslähetteisiin liittyvät hallinnolliset palvelut; Lääketieteellisiin välineisiin liittyvät tukkumyyntipalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de vente au détail concernant les instruments médicaux; Services de vente au détail de préparations pharmaceutiques, vétérinaires et hygiéniques ainsi que de fournitures médicales; Services de vente en gros de préparations pharmaceutiques, vétérinaires et hygiéniques ainsi que de fournitures médicales; Services de vente en gros concernant les appareils médicaux; Services administratifs en matière de transfert de patients; Services de vente en gros concernant les instruments médicaux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Maloprodajne usluge u vezi s medicinskim instrumentima; Usluge maloprodaje ili veleprodaje za farmaceutske, veterinarske i sanitarne pripravke i za medicinske potrepštine; Usluge veleprodaje farmaceutskih, veterinarskih i medicinskih pripravka i potrepština; Veleprodajne usluge u vezi s medicinskim aparatima; Administrativne usluge koje se odnose na uputnice za bolesnike; Veleprodajne usluge u vezi s medicinskim instrumentima.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyógyászati eszközökkel kapcsolatos kiskereskedelmi szolgáltatások; Gyógyszerészeti, állatgyógyászati és higiéniai készítmények valamint gyógyászati eszközök kis- és nagykereskedelme; Gyógyszerészeti, állatgyógyászati és egészségügyi készítményekhez és gyógyászati eszközökhöz kapcsolódó nagykereskedelmi szolgáltatások; Gyógyászati készülékekkel kapcsolatos nagykereskedelmi szolgáltatások; Betegek beutalásával kapcsolatos adminisztratív szolgáltatások; Gyógyászati eszközökkel kapcsolatos nagykereskedelmi szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi al dettaglio in relazione a strumenti medici; Servizi di vendita al dettaglio di preparati farmaceutici, veterinari e sanitari e di forniture mediche; Servizi all'ingroso per preparazioni farmaceutiche, veterinarie e sanitarie e forniture mediche; Servizi all'ingrosso in relazione ad apparecchi medici; Servizi amministrativi relativi al rinvio di pazienti a uno specialista; Servizi all'ingrosso in relazione a strumenti medici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mažmeninė prekyba medicinos instrumentais; Mažmeninė ar didmeninė prekyba farmacijos, veterinarijos ir higienos preparatais bei medicinos reikmenimis; Didmeninė prekyba farmacijos, veterinarijos ir higienos preparatais bei medicinos reikmenimis; Didmeninė prekyba medicinos aparatais; Administracinės paslaugos, susijusios su pacientų siuntimu; Didmeninė prekyba medicinos instrumentais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mazumtirdzniecības pakalpojumi saistībā ar medicīniskiem instrumentiem; Farmaceitisko, veterināro un higiēnas preparātu, un medicīnas piederumu mazumtirdzniecība; Farmaceitisko, veterināro un higiēnas preparātu un medicīnas piederumu vairumtirdzniecības pakalpojumi; Vairumtirdzniecības pakalpojumi saistībā ar medicīniskiem aparātiem; Administratīvie pakalpojumi, kas attiecas uz pacientu nosūtījumiem; Vairumtirdzniecības pakalpojumi saistībā ar medicīniskiem instrumentiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' bejgħ bl-imnut fir-rigward tal-istrumenti mediċi; Servizzi kemm bl-imnut jew bl-ingrossa għall-forniment ta' oġġetti farmaċewtiċi, veterinarji, medikali u preparazzjonijiet sanitarji; Servizzi ta' bejgħ bl-ingrossa għal preparazzjonijiet farmaċewtiċi, veterinarji u sanitarji u provvisti mediċi; Servizzi ta' bejgħ bl-ingrossa fir-rigward tal-apparat mediku; Servizzi amministrattivi relatati mar-riferiment ta’ pazjenti; Servizzi ta' bejgħ bl-ingrossa fir-rigward tal-istrumenti mediċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Detailhandelsdiensten op het gebied van medische instrumenten; Detailhandels- of groothandelsdiensten in farmaceutische, veterinaire en hygiënische preparaten en medische hulpmiddelen; Groothandelsdiensten voor farmaceutische, diergeneeskundige en hygiënische preparaten en medische benodigdheden; Groothandelsdiensten op het gebied van medische apparaten; Administratieve diensten met betrekking tot het doorverwijzen van patiënten; Groothandelsdiensten op het gebied van medische instrumenten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi sprzedaży detalicznej w związku z urządzeniami medycznymi; Sprzedaż detaliczna środków farmaceutycznych, weterynaryjnych i sanitarnych oraz zaopatrzenia medycznego; Usługi handlu hurtowego w zakresie preparatów farmaceutycznych, weterynaryjnych i sanitarnych oraz materiałów medycznych; Usługi sprzedaży hurtowej w związku ze sprzętem medycznym; Usługi administracyjne w zakresie kierowania pacjentów na konsultacje; Usługi sprzedaży hurtowej w związku z urządzeniami medycznymi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços retalhistas relacionados com instrumentos para uso médico; Serviços de venda a retalho de preparações farmacêuticas, veterinárias e higiénicas e provisões médicas; Serviços grossistas referentes a preparações farmacêuticas, veterinárias e higiénicas e provisões médicas; Serviços grossistas relacionados com aparelhos para uso médico; Serviços administrativos relativos ao encaminhamento de pacientes; Serviços grossistas relacionados com instrumentos para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de vânzare cu amănuntul în legătură cu instrumente medicale; Servicii de vânzare cu amănuntul sau en-gros pentru preparate farmaceutice, veterinare și sanitare și produse medicale; Servicii de vânzare angro pentru preparate farmaceutice, veterinare și sanitare și produse medicale; Servicii de vânzare cu ridicata în legătură cu aparate medicale; Servicii administrative privind trimiterea pacienților; Servicii de vânzare cu ridicata în legătură cu instrumente medicale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Maloobchodné služby s lekárskymi nástrojmi; Maloobchodné alebo veľkoobchodné služby s farmaceutickými, zverolekárskymi a zdravotníckymi prípravkami a s lekárskymi potrebami; Veľkoobchodné služby v oblasti farmaceutických, zverolekárskych a hygienických prípravkov a lekárskych potrieb; Veľkoobchodné služby s lekárskymi prístrojmi; Administratívne služby súvisiace s odporúčaním pacientov; Veľkoobchodné služby s lekárskymi nástrojmi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve prodaje na drobno v zvezi z medicinskimi instrumenti; Maloprodajne ali veleprodajne storitve za farmacevtske, veterinarske in sanitarne proizvode in medicinske potrebščine; Veleprodajne storitve za farmacevtske, veterinarske in sanitarne pripravke ter medicinsko opremo; Storitve prodaje na debelo v zvezi z medicinskimi pripomočki; Administrativne storitve v zvezi s postopkom napotitve bolnikov; Storitve prodaje na debelo v zvezi z medicinskimi instrumenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Återförsäljartjänster avseende medicinska instrument; Återförsäljning avseende farmaceutiska, veterinära och sanitära preparat och medicinska varor; Grosshandel avseende farmaceutiska, veterinära och hygieniska preparat och medicinska förnödenheter; Grosshandel avseende medicinska apparater; Administrativa tjänster avseende remittering av patienter; Grosshandel avseende medicinska instrument.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/085</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-07</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082561</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003127915</OppositionIdentifier>
+<OppositionDate>2020-08-07</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>FR</EarlierMarkCountryCode>
+<ApplicationNumber>3929829</ApplicationNumber>
+<ApplicationDate>2012-06-26</ApplicationDate>
+<RegistrationNumber>3929829</RegistrationNumber>
+<RegistrationDate>2012-10-19</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>WELL AND WELL</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>738143</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>75759</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

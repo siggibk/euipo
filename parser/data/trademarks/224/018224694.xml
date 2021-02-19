@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-18T11:29:09</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224694</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224694</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-11-18</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="12" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-11-18</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Thiola</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>3</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Козметични средства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kosmetické přípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kosmetik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kosmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καλλυντικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Cosmetics.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cosméticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kosmeetikavahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kosmetiikka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Cosmétiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kozmetički proizvodi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kozmetikai szerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Cosmetici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kosmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kosmētikas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kożmetiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Cosmetica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kosmetyki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cosméticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cosmetice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kozmetické prípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kozmetični izdelki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kosmetika.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Фармацевтични и ветеринарни продукти за профилактика и терапия, по-специално на цистинурии, радиационни увреждания, чернодробни заболявания, болест на Алцхаймер, за антиоксидантна терапия и елиминиране на метали; Дезинфектанти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Farmaceutické a veterinární výrobky pro profylaxi a terapii, zejména cystinurií, škod způsobených ozařováním, onemocnění jater, Alzheimerovy choroby, k terapii antioxidanty a eliminaci kovů; Dezinfekční přípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Farmaceutiske og veterinære produkter til forebyggelse og behandling, især af cystinuria, stråleskader, leversygdomme, Alzheimers sygdom, behandling med antioxidanter og eliminering af metaller; Desinfektionsmidler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Pharmazeutische und veterinärmedizinische Erzeugnisse zur Prophylaxe und Therapie insbesondere von Cystinurien, Strahlenschäden, Lebererkrankungen, Morbus Alzheimer, zur Antioxidantien - Therapie und Eliminierung von Metallen; Desinfektionsmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φαρμακευτικά και κτηνιατρικά σκευάσματα για πρόληψη και θεραπεία, ειδικότερα της κυστινουρίας, ακτινικών κακώσεων, ηπατικών νόσων, της νόσου Αλτσχάιμερ, για θεραπείες με αντιοξειδωτικά και για την ελαχιστοποίηση μετάλλων· Απολυμαντικά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Pharmaceutical and veterinary preparations for prophylaxis and therapy, in particular of cystinuria, radiation injuries, liver diseases, Alzheimer's disease, for antioxidant therapy and the elimination of metals; Disinfectants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Productos farmacéuticos y veterinarios para la profilaxis y terapia, especialmente de cistinurias, lesiones por radiación, enfermedades de hígado, Alzheimer, para la terapia con antioxidantes y la eliminación de metales; Desinfectantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Farmaatsia- ja veterinaarmeditsiinilised tooted eelkõige tsüstinuuria, kiirguskahjustuste, maksahaiguste, Alzheimeri tõve ennetamiseks ja raviks, antioksüdandiraviks ja metallide eemaldamiseks; Desinfektsioonivahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Farmaseuttiset ja eläinlääketieteelliset tuotteet ennaltaehkäisyyn ja hoitoon erityisesti kystinurian, säteilyvaurioiden, maksasairauksien, Alzheimerin taudin, antioksidanttihoitoon ja metallien poistamiseen; Desinfiointiaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Produits pharmaceutiques et vétérinaires pour la prophylaxie et la thérapie en particulier pour la cystinurie, les lésions par irradiation, les maladies du foie, la maladie d'Alzheimer, pour la thérapie antioxydante et l'élimination de métaux; Désinfectants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Farmaceutski i veterinarski proizvodi za profilaksu i terapiju, posebno cistinurije, oštećenja od zračenja, bolesti jetre, Alzheimerove bolesti, za terapiju antioksidansima i eliminaciju metala; Dezinfekcijska sredstva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyógyszerészeti és állatgyógyászati termékek elsősorban cisztinúria, sugárkárok, májbetegségek, Morbus Alzheimer megelőzésére és kezelésére, antioxidáns terápiához és fémek eliminációjához; Fertőtlenítőszerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Prodotti farmaceutici e veterinari per la profilassi e la terapia, in particolare di cistinuria, danni da radiazioni, malattie epatiche, morbo di Alzheimer, per la terapia ad antiossidanti ed eliminazione di metalli; Disinfettanti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Farmacijos ir veterinarijos gaminiai profilaktikos ir terapijos, ypač cistinurijos, švitinimo sukeltos žalos, kepenų ligų, Alzheimerio ligos prevencijos ir terapijos, antioksidantų terapijos ir metalų šalinimo reikmėms; Dezinfekantai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Farmaceitiski un veterinārie produkti profilaksei un terapijai, jo īpaši cistinurijas, radiācijas bojājumiem, aknu slimībām, Alcheimera slimībai, antioksidantiem — terapijai un metālu izvadīšanai; Dezinfekcijas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Prodotti farmaċewtiċi u tal-mediċina veterinarja għall-profilassi u t-terapija, b'mod partikolari ta' cystinurias, ħsara mir-radjazzjoni, mard tal-fwied, marda ta' Alzheimer, għat-terapija antiossidanti u l-eliminazzjoni ta' metalli; Diżinfettanti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Farmaceutische en diergeneeskundige producten voor profylaxe en behandeling met name van cystinurie, stralingsschade, leverziekten, morbus Alzheimer, voor antioxidanten - therapie en verwijdering van metalen; Desinfectiemiddelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Produkty farmaceutyczne i weterynaryjne stosowane w profilaktyce i terapii, w szczególności cystynurii, uszkodzeń popromiennych, chorób wątroby, choroby Alzheimera, w terapii antyoksydacyjnej i eliminacji metali; Środki odkażające.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Produtos farmacêuticos e veterinários para profilaxia e terapia, em especial de cistinúria, danos por radiação, doenças hepáticas, doença de Alzheimer, para terapia antioxidante e eliminação de metais; Desinfetantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Produse farmaceutice și veterinare pentru profilaxie și terapie, în special pentru cistinurie, răni provocate de radiații, boli de ficat, boala Alzheimer, pentru terapie antioxidantă și eliminarea metalelor; Dezinfectante.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Farmaceutické a zverolekárske prípravky na profylaxiu a terapiu, predovšetkým cystinuriu, radiačné poškodenie, ochorenie pečene, alzheimer, na antioxidačnú terapiu a elimináciu kovov; Dezinfekčné prípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Farmacevtski in veterinarski proizvodi za profilakso in zdravljenje, zlasti cistinurije, poškodb zaradi sevanja, jetrnih bolezni, Alzheimerjeve bolezni, za zdravljenje z antioksidanti in odstranjevanje kovin; Razkužila.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Farmaceutiska och veterinära produkter för profylax och terapi speciellt av cystinuri, strålskador, leversjukdomar, morbus alzheimer, för antioxidantterapi och eliminering av metaller; Desinfektionsmedel.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Управление на фирми и бизнес администрация; Търговия на дребно или едро с фармацевтични, ветеринарни изделия, хигиенни препарати, както и медицински изделия, както и с продукти за грижа за здравето и красотата.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vedení a správa společností; Maloobchodní nebo velkoobchodní prodej farmaceutických, veterinárních potřeb, hygienických přípravků, jakož i zdravotnických potřeb, jakož i výrobků zdravotní a kosmetické péče.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Virksomhedsledelse og -administration; Detailhandel eller engroshandel med farmaceutiske, veterinærmedicinske artikler, hygiejniske præparater samt medicinske artikler samt produkter til sundheds- og skønhedspleje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Unternehmesführung und - verwaltung; Einzel- oder Großhandelsdienstleistungen für pharmazeutische, veterinärmedizinische Artikel, Hygienepräparate sowie medizinische Artikel, sowie von Produkten zur Gesundheits- und Schönheitspflege.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες διοίκησης και διαχείρισης επιχειρήσεων· Υπηρεσίες λιανικής ή χονδρικής πώλησης σε σχέση με φαρμακευτικά, κτηνιατρικά είδη, παρασκευάσματα υγιεινής καθώς και ιατρικά είδη, καθώς και προϊόντα για τη φροντίδα της υγείας και της ομορφιάς.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Business management and business administration; Retailing or wholesaling relating to pharmaceutical, veterinary articles, sanitary preparations and medical and articles, and hygienic and beauty care preparations.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Dirección y administración de empresas; Servicios de venta minorista o mayorista de preparaciones farmacéuticas, veterinarias y sanitarias, así como artículos médicos y productos para el cuidado de la salud y la belleza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ettevõtete juhtimine ja haldamine; Järgmiste kaupade jae- või hulgimüügiteenused: farmaatsia-, veterinaarmeditsiinilised tooted, hügieenipeparaadid ning meditsiinitooted, samuti tervishoiu- ja iluhooldustooted.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Yritysjohtaminen ja -hallinto; Seuraaviin liittyvät vähittäis- tai tukkukauppapalvelut: farmaseuttiset ja eläinlääkinnälliset tuotteet, hygieniavalmisteet sekä lääkinnälliset tuotteet sekä terveyden- ja kauneudenhoitoon tarkoitetut tuotteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Gestion d'entreprise et administration commerciale; Services de vente au détail ou en gros pour des articles pharmaceutiques, vétérinaires, préparations d'hygiène ainsi que des produits pour les soins de santé et d'esthétique.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Vođenje i upravljanje poduzećem; Usluge maloprodaje ili veleprodaje u vezi s farmaceutskim, veterinarskim proizvodima, higijenskim preparatima te medicinskim proizvodima, kao i proizvodima za brigu o zdravlju i njegu ljepote.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Vállalatvezetés és -igazgatás; Kis- és nagykereskedelmi szolgáltatások gyógyszerészeti, állatgyógyászati, higiéniai készítmények, valamint gyógyászati cikkek, valamint egészségügyi és szépségápolási termékek számára.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Gestione e amministrazione aziendale; Servizi di vendita al dettaglio o all'ingrosso d'articoli farmaceutici, veterinari, preparati igienici e articoli medici nonché di prodotti per la cura della salute e della bellezza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Įmonių valdymas ir administravimas; Mažmeninės ar didmeninės prekybos paslaugos, susijusios su farmacijos, veterinarijos gaminiais, higienos preparatais bei medicinos gaminiais, taip pat sveikatos ir grožio priežiūros produktais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Uzņēmējdarbības vadība un administrēšana; Farmaceitisko, veterināro, higiēnas un medicīnas preču, kā arī veselības un skaistumkopšanas līdzekļu mazumtirdzniecības vai vairumtirdzniecības pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tmexxija u ġestjoni tan-negozju; Servizzi ta' bejgħ bl-imnut jew bl-ingrossa ta' oġġetti farmaċewtiċi, tal-mediċina veterinarja, preparazzjonijiet tal-iġjene kif ukoll oġġetti mediċi, kif ukoll ta' prodotti għall-kura tas-saħħa u s-sbuħija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bedrijfsvoering en -administratie; Detail- of groothandelsdiensten voor farmaceutische, diergeneeskundige artikelen, hygiënische preparaten alsmede medische artikelen, alsmede van producten met betrekking tot de gezondheids- en schoonheidsverzorging.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Zarządzanie przedsiębiorstwem i administracja; Usługi w zakresie sprzedaży detalicznej lub hurtowej produktów farmaceutycznych, weterynaryjnych, sanitarnych i medycznych oraz produktów ochrony zdrowia i urody.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Gestão e administração de empresas; Serviços de comércio retalhista ou grossista relacionados com artigos farmacêuticos e veterinários, produtos higiénicos, bem como artigos de saúde e cosméticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Consultanță și administrarea afacerilor; Servicii de vânzare cu amănuntul sau de vânzare cu ridicata în legătură cu articole veterinare farmaceutice, produse igienice, precum și articole medicale, precum și produse pentru îngrijirea sănătății și frumuseții.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Obchodný manažment, obchodná správa; Maloobchodné alebo veľkoobchodné služby pre farmaceutické, zverolekárske prípravky, hygienické výrobky, ako aj lekárske prípravky, ako aj toaletné výrobky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Vodenje in upravljanje podjetij; Maloprodajne ali veleprodajne storitve za farmacevtske, veterinarske izdelke, higienske pripravke ter medicinske izdelke, ter za izdelke za zdravstveno in lepotilno nego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Företagsledning och -förvaltning; Detalj- eller grosshandelstjänster för farmaceutiska, veterinära artiklar, hygienpreparat samt medicinska artiklar, samt av produkter för hälso- och skönhetsvård.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>45</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Консултиране по въпроси на правата върху обекти на индустриалната собственост, консултиране относно предоставяне на лицензи.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Poradenství v otázkách práv k průmyslovému vlastnictví, poradenské služby v oblasti udělování licencí.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Immaterialretlig konsulentbistand, rådgivning om meddelelse af licenser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Beratung in Fragen gewerblicher Schutzrechte, Beratungsdienste bezüglich der Lizenzvergabe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες παροχής συμβουλών σε θέματα δικαιωμάτων πνευματικής ιδιοκτησίας, παροχή συμβουλών σχετικά με την εκχώρηση αδειών χρήσης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Consultancy relating to intellectual property, consultancy relating to licensing.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Concesión de licencias de derechos inmateriales, asesoramiento sobre la concesión de licencias.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Intellektuaalomandialane nõustamine, nõustamisteenused seoses litsentsimisega.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Teollisoikeuksiin liittyvä neuvonta, lisenssien myöntämiseen liittyvät neuvontapalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Conseils en matière de propriété intellectuelle, services de conseils concernant la concession de licences.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Savjetovanje u vezi s pravima industrijskog vlasništva, usluge savjetovanja u vezi s izdavanjem licenci.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Tanácsadás ipari tulajdonjogokkal, tanácsadási szolgáltatásokkal kapcsolatos kérdésekben licencek kiadására vonatkozóan.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Consulenza in questioni di proprietà intellettuale, servizi di consulenza in materia di concessione di licenze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Konsultacijos pramoninės nuosavybės teisių klausimais, konsultacinės paslaugos, susijusios su licencijų išdavimu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Konsultācijas rūpnieciskā īpašuma tiesību jautājumos, konsultācijas saistībā ar licencēšanu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Konsulenza dwar kwistjonijiet tad-drittijiet tal-propjetà industrijali, servizzi ta' konsulenza relatati mal-għoti ta' liċenzji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Advisering op het gebied van intellectuele eigendomsrechten, adviesdiensten met betrekking tot licentieverlening.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Doradztwo w zakresie praw własności przemysłowej, usługi doradcze w zakresie udzielania licencji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Consultadoria sobre direitos de propriedade industrial, serviços de consultoria em matéria de concessão de licenças.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Consultanță în probleme de drepturi de proprietate industrială, servicii de consultanță referitoare la licențiere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poradenstvo v otázkach práv priemyselného vlastníctva, poradenstvo so zameraním na udeľovanie licencií.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Svetovanje pri vprašanjih pravic industrijske lastnine, svetovalne storitve v zvezi z licenciranjem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Rådgivning i frågor avseende immaterialrätt, rådgivningstjänster med avseende på licensiering av immaterialrätter.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/150</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-08-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079111</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-17T08:58:52</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229831</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229831</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-13</RegistrationDate>
+<ApplicationLanguageCode>et</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>GLOBAL HACK</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162501125</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229831/000162501125.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.21</CategoryCode>
+          <CategoryCode>27.99.07</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Съставяне на компютърна база данни; Систематизиране на информация в компютърни бази данни; Провеждане на програми за стимулиране на служителите с награди; Съдействие и консултация за бизнес управление; Преодставяне на съвети относно маркетинг; Свързване на квалифицирани доброволци с организации с нестопанска цел; Търсене в компютърни бази данни [за трети лица].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Sestavování počítačových databází; Systematizace údajů do počítačových databází; Vedení motivačních programů pro zaměstnance; Pomoc a poradenství v oblasti obchodního managementu; Marketingové poradenské služby; Zprostředkování kvalifikovaných dobrovolníků pro neziskové organizace; Vyhledávání údajů v počítačových souborech pro jiné osoby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kompilering af computerdatabaser; Sortering og redigering af informationer computerdatabaser; Organisering af bonusordninger for medarbejdere; Assistance og rådgivning vedrørende virksomhedsledelse; Marketingrådgivning; Matching af faglærte frivillige med non-profit organisationer; Søgning for andre efter data i computerbaser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Datenerfassung [Büroarbeiten] in Computerdatenbanken; Systematisierung von Daten in Computerdatenbanken; Durchführung von Leistungsanreizprogrammen für Arbeitnehmer; Beratung und Hilfe bei der Geschäftsführung; Beratung auf dem Gebiet des Marketing; Vermittlung von qualifizierten Freiwilligen zu gemeinnützigen Organisationen; Datenrecherche in Computerdateien [für Dritte].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συλλογή δεδομένων σε βάσεις ηλεκτρονικών υπολογιστών· Συστηματοποίηση δεδομένων σε βάσεις δεδομένων· Λειτουργία προγραμμάτων παροχής κινήτρων σε υπαλλήλους· Υποστήριξη και παροχή συμβουλών στον τομέα της διαχείρισης επιχειρήσεων· Συμβουλευτική σε θέματα μάρκετινγκ· Εύρεση ειδικευμένων εθελοντών για μη κερδοσκοπικούς οργανισμούς· Πληροφόρησης σε αρχεία πληροφορικής (αναζήτηση -) [για τρίτους].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Compilation of computer databases; Systemization of information into computer databases; Conducting employee incentive award programs; Assistance and advice regarding business management; Marketing advice; Matching skilled volunteers with non-profit organisations; Data search in computer files for others.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Compilación de bases de datos informáticas; Sistematización de información en bases de datos informáticas; Realización de programas de primas de incentivo para empleados; Asistencia y asesoría en gestión empresarial; Asesoramiento en marketing; Intermediación entre voluntarios cualificados y organizaciones sin ánimo de lucro; Búsqueda de información para terceros en ficheros informáticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Arvuti andmebaaside koostamine; Info süstematiseerimine arvuti andmebaasides; Töötajate motivatsiooniprogrammide läbiviimine; Abi ja nõustamine juhtimisküsimustes; Turundusalane nõustamine; Kogenud vabatahtlike ja mittetulundusühingute kokkuviimine; Andmeotsing arvutifailides kolmandatele isikutele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tietokantojen kokoaminen; Tietokantatietojen systematisointi; Työntekijöiden kannustinohjelmien toteuttaminen; Yritysjohdon neuvonta ja tuki; Markkinointiin liittyvän neuvonnan tarjoaminen; Vapaaehtoisten asiantuntijoiden etsiminen kansalaisjärjestöille; Tiedon etsintä tietokonetiedostoista [muille].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Compilation de bases de données informatiques; Systématisation des données dans des bases de données informatiques; Réalisation de programmes de rétribution pour la motivation d'employés; Assistance et conseil en matière de gestion commerciale; Prestations de conseils en marketing; Mise en relation de bénévoles qualifiés avec des organisations à but non lucratif; Recherche de données dans des fichiers informatiques pour des tiers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Sastavljanje [kompilacija] računalnih baza podataka; Sistematiziranje podataka za središnju kartoteku; Provedba programa poticaja za zaposlenike; Podrška i savjetovanje u vezi poslovnog upravljanja; Marketinško savjetovanje; Povezivanje kvalificiranih dobrovoljaca s neprofitnim organizacijama; Pretraživanja podataka u računalnim datotekama za druge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Számítógépes adatbázisok összeállítása; Információk számítógépes adatbázisokba való rendezése; Alkalmazotti ösztönző jutalomprogramok lebonyolítása; Üzleti menedzsmenttel kapcsolatos segítségnyújtás és tanácsadás; Marketing tanácsadás; Szakképzett önkéntesek kiközvetítése nonprofit szervezetekhez; Adatkutatás számítógépes fájlokban.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Compilazione di banche dati informatiche; Sistemazione di informazioni in banche dati informatiche; Realizzazione di programmi di incentivazione per dipendenti; Assistenza e consulenza per la gestione aziendale; Fornitura di consulenza in materia di marketing; Abbinamento di volontari qualificati con organizzazioni senza scopo di lucro; Ricerche di dati su schedari informatici per terzi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kompiuterinių duomenų bazių kaupimas; Informacijos sisteminimas į kompiuterines duomenų bazes; Darbuotojų skatinimo programų įgyvendinimas; Pagalba ir patarimai, susiję su verslo vadyba; Rinkodaros patarimai; Kvalifikuotų savanorių įdarbinimas ne pelno organizacijose; Duomenų paieška kompiuterių rinkmenose [kitiems].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Datora datubāzu sastādīšana; Informācijas sistematizēšana datoru datu bāzēs; Darbiniekiem paredzētu motivējošu bonusu programmu īstenošana; Konsultēšana un asistēšana biznesa vadībā; Padomu un ieteikumu došana mārketinga jomā; Kompetentu brīvprātīgā darba veicēju un bezpeļņas organizāciju piemeklēšana; Datu meklēšana datoru datnēs (failos) trešajām personām.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kumpilazzjoni ta' dejtabejżis tal-kompjuter; Is-sistematizzazzjoni ta' informazzjoni f'dejtabejżis tal-kompjuter; Eżekuzzjoni ta' programmi ta' inċentiv għall-impjegati; Pariri u għajnuna dwar il-ġestjoni tan-negozju; Servizzi ta' pariri relatati mal-kummerċjalizzazzjoni; Tqabbil ta' voluntiera mħarrġa ma' organizzazzjonijiet mingħajr skop ta' qligħ; Tiftix ta' dejta ġo fajls tal-kompjuter għal oħrajn.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Samenstellen van computerdatabases; Systematisering van gegevens in een centraal bestand; Het uitvoeren van aanmoedigingsprogramma's voor werknemers; Assistentie en advisering inzake commercieel management; Verstrekken van advies met betrekking tot marketing; Het bij elkaar brengen [matchen] van bekwame vrijwilligers en non-profitorganisaties; Opzoeken van informatie in computerbestanden [voor derden].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Tworzenie komputerowych baz danych; Systematyzacja danych w komputerowych bazach danych; Przeprowadzanie programów motywacyjnych dla pracowników; Doradztwo i pomoc w zakresie zarządzania działalnością gospodarczą; Doradztwo w zakresie marketingu; Kierowanie uzdolnionych wolontariuszy do organizacji non-profit; Wyszukiwanie informacji w plikach komputerowych dla osób trzecich.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Compilação de bases de dados informáticas; Sistematização de dados em bases de dados informáticas; Realização de programas de prémios de incentivo para funcionários; Assistência e aconselhamento em relação a gestão empresarial; Assessoria em marketing; Correspondência de voluntários qualificados com organizações sem fins lucrativos; Pesquisas de dados em ficheiros informáticos para terceiros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Compilare de baze de date computerizate; Sistematizarea informaţiilor în fişiere electronice; Realizare de programe de acordare a stimulentelor pentru angajaţi; Asistenţă şi consultanţă privind managementul afacerilor; Servicii de consiliere privind marketingul; Intermediere între voluntarii calificaţi şi organizaţiile nonprofit; Căutare de informaţii în fişiere informatice, pentru terţi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zostavovanie počítačových databáz; Zoraďovanie údajov v počítačových databázach; Realizácia motivačných programov pre zamestnancov; Poradenstvo a pomoc pri riadení obchodnej činnosti; Marketingové poradenstvo; Vyhľadávanie kvalifikovaných dobrovoľníkov pre neziskové organizácie; Vyhľadávanie informácií v počítačových súboroch (pre tretie osoby).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Sestavljanje računalniških podatkovnih baz; Sistematizacija informacij v računalniške baze podatkov; Izvajanje programov spodbujanja za zaposlene z nagrajevanjem; Pomoč in svetovanje pri poslovnem upravljanju; Marketinško svetovanje; Povezovanje usposobljenih prostovoljcev z nepridobitnimi organizacijami; Iskanje podatkov v računalniških datotekah (za druge).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Sammanställning i datoriserade databaser; Systematisering av information i databaser; Genomförande av motivationsprogram för anställda; Assistans och rådgivning vid företagsledning; Marknadsföringsrådgivning; Matchning av yrkeskunniga volontärer med icke-vinstdrivande organisationer; Datakörningar i datafiler (för andra).</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Преподавателски услуги; Обучение; Обучение (Практическо -) [демонстрация]; Трениране; Професионално ориентиране; Онлайн публикуване на електронни книги и периодични издания; Организиране на семинари и конференции.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Školení; Vyučování, vzdělávání; Praktický výcvik [předvádění]; Koučování; Poradenství pro volbu povolání [v oblasti vzdělávání nebo školení]; Online vydávání elektronických knih a časopisů; Organizování seminářů a konferencí.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Undervisning; Oplæring; Praktisk oplæring [undervisning]; Coaching; Erhvervsvejledning [vejledning om uddannelse og valg af job]; Online publicering af elektroniske bøger og tidsskrifter; Organisering af seminarer og konferencer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Erziehung und Unterricht; Bereitstellung von Ausbildung; Demonstrationsunterricht in praktischen Übungen; Coaching; Berufsberatung; Online-Veröffentlichung von elektronischen Büchern und Zeitschriften; Organisation von Seminaren und Konferenzen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παροχή κατάρτισης· Παροχή κατάρτισης· Πρακτική κατάρτιση [επιδείξεις]· Προπόνηση· Προσανατολισμός ενδιαφερόντων (κλίσης)· On-line δημοσίευση ηλεκτρονικών βιβλίων και περιοδικών· Διοργάνωση σεμιναρίων και συνδιασκέψεων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Teaching; Training; Practical training [demonstration]; Coaching; Vocational guidance [education or training advice]; Online publication of electronic books and journals; Organisation of seminars and conferences.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Educación; Formación; Formación práctica [demostración]; Servicios de entrenamiento; Orientación profesional [asesoramiento en educación o formación]; Publicación en línea de libros y revistas especializadas en formato electrónico; Organización de seminarios y conferencias.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Haridusteenused; Koolitusteenused; Praktiline väljaõpe, treening (demonstratsioonid); Juhendamine, treenimine; Kutsealane nõustamine; Elektronraamatute ja -ajakirjade kirjastamine arvutivõrgus; Seminaride ja konverentside korraldamine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Henkilökohtainen opetus; Koulutuspalvelut; Työharjoittelu [osana koulutusta]; Valmennuspalvelut; Ammatinvalinnanohjaus; Elektronisten kirjojen ja lehtien julkaiseminen online-periaatteella; Seminaarien ja konferenssien järjestäminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Éducation; Formation; Formation pratique [démonstration]; Formation; Orientation professionnelle [conseils en matière d'éducation ou de formation]; Publication en ligne de livres et revues spécialisées électroniques; Organisation de séminaires et de conférences.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pružanje individualne obuke; Pružanje usluga osposobljavanja; Obrazovne demonstracije; Treniranje; Profesionalna orijentacija; Online objavljivanje elektroničkih knjiga i časopisa; Organiziranje seminara i konferencija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Oktatás biztosítása; Szakmai képzés, betanítás; Gyakorlati képzés [szemléltetés]; Coaching; Pályaválasztási tanácsadás; Elektronikus könyvek és folyóiratok online megjelentetése; Szemináriumok és konferenciák rendezése.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Offerta di servizi di formazione; Attività di formazione; Esercitazione pratica [dimostrazione]; Assistenza professionale (coaching); Orientamento professionale; Pubblicazione elettronica di libri e periodici online; Organizzazione di seminari e conferenze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mokymas; Instruktavimas; Praktinis mokymas [parodomasis]; Treniravimas; Profesijos pasirinkimo konsultacijos; Elektroninių knygų ir žurnalų tiesioginis publikavimas; Seminarų ir konferencijų rengimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apmācības nodrošināšana; Treniņu mācību nodrošināšana; Apmācība praktisko iemaņu apgūšanā [demonstrēšana]; Apmācības; Profesionālā orientācija [padomu sniegšana izglītošanas vai apmācības jautājumos]; Elektronisko grāmatu un laikrakstu publicēšana tiešsaistē; Semināru un konferenču rīkošana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħlim; Taħriġ; Taħriġ prattiku [demostrazzjoni]; Taħriġ/ikkowċjar; Gwida vokazzjonali (konsulenza fil-qasam tal-edukazzjoni jew tat-taħriġ); Servizzi ta' pubblikazzjoni ta' kotba u gazzetti elettroniċi onlajn; L-organizzazzjoni ta' seminars u konferenzi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Educatie; Opleiding; Praktijkonderwijs [demonstratie]; Coaching (training); Beroepsvoorlichting [advisering op het gebied van opvoeding of opleiding]; Online-publicatie van elektronische boeken en tijdschirften (niet-downloadbaar); Organisatie van seminars en conferenties.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi w zakresie oświaty [nauczanie]; Nauczanie; Kształcenie praktyczne [pokazy]; Trenowanie; Doradztwo zawodowe; Publikowanie książek i czasopism elektronicznych online; Organizowanie seminariów i konferencji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de ensino [educação]; Formação; Formação prática [demonstração]; Acompanhamento técnico; Orientação profissional; Publicação online de livros e revistas eletrónicos; Organização de seminários e conferências.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Educaţie; Instruire; Formare practică [demonstraţie]; Asistenţă profesională individualizată [coaching]; Orientare profesională [consiliere în domeniul educaţiei sau formării]; Publicare de cărți și periodice electronice online; Organizare de seminarii şi conferinţe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vyučovanie; Vzdelávanie; Praktický výcvik (ukážky); Trénovanie; Poradenstvo pri voľbe povolania (v oblasti výchovy a vzdelávania); Vydávanie kníh a časopisov v elektronickej forme online; Organizovanie seminárov a konferencií.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Poučevanje; Usposabljanje; Praktično usposabljanje [predstavitve]; Trenerstvo; Poklicno usmerjanje; Objavljanje elektronskih knjig in časopisov na spletu; Organizacija seminarjev in konferenc.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Anordnande av undervisning; Privatundervisning; Utbildning (praktisk -) [instruktion]; Handledning och instruktion, nämligen idrottscoaching; Rådgivning (yrkes- -) [utbildning eller träningsråd]; Publicering online av elektroniska böcker och tidskrifter; Anordnande av seminarier och konferenser.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/083</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/155</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082659</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>28700</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

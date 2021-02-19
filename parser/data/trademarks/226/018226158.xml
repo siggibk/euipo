@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-13T13:44:36</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226158</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226158</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>ISTONALE</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162308972</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226158/000162308972.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.04.03</CategoryCode>
+          <CategoryCode>26.04.09</CategoryCode>
+          <CategoryCode>26.04.24</CategoryCode>
+          <CategoryCode>29.01.96</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>1</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Необработени изкуствени и синтетични смоли; Необработени и синтетични смоли.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Umělé a syntetické pryskyřice v surovém stavu; Nezpracované a syntetické pryskyřice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Ubehandlet kunstig og syntetisk harpiks; Uforarbejdede og syntetiske harpikser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Unverarbeitete künstliche und synthetische Harze; Unverarbeitete und künstliche Harze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ακατέργαστες τεχνητές και συνθετικές ρητίνες· Ακατέργαστες και συνθετικές ρητίνες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Unprocessed artificial and synthetic resins; Unprocessed and synthetic resins.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Resinas artificiales y sintéticas en estado bruto; Resinas sin procesar [sintéticas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Töötlemata tehis- ja sünteesvaigud; Töötlemata ja sünteetilised vaigud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Käsittelemättömät keinotekoiset ja synteettiset hartsit; Jalostamattomat ja synteettiset hartsit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Résines artificielles et synthétiques à l’état brut; Résines à l'état brut et synthétiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Neprerađene umjetne i sintetičke smole; Neprerađena i sintetička smola.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Feldolgozatlan mesterséges és szintetikus gyanták; Feldolgozatlan és mesterséges gyanták.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Resine artificiali e sintetiche non trattate; Resine allo stato grezzo e sintetiche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Neapdorotos dirbtinės ir sintetinės dervos; Neapdorotos ir sintetinės dervos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Neapstrādāti mākslīgie un sintētiskie sveķi; Neapstrādāti un sintētiski sveķi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Reżini sintetiċi u artifiċjali mhux ipproċessati; Raża mhux proċessata u sintentiċi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Onbewerkte synthetische harsen en kunstharsen; Onbewerkte en synthetische harsen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Żywice sztuczne i syntetyczne nieprzetworzone; Żywice syntetyczne i nieprzetworzone.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Resinas sintéticas e artificiais não processadas; Resinas não processadas e sintéticas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Rășini artificiale și sintetice în stare brută; Rășini în stare brută și sintetice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nespracované umelé a syntetické živice; Nespracované a syntetické živice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Nepredelane umetne in sintetične smole; Nepredelane in sintetične smole.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Obearbetade konsthartser och syntetiska hartser; Icke-processade och syntetiska konsthartser.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>17</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Смоли за употреба при оформянето на подсилен пласт за повърхности; Смоли за употреба при оформяне на подсилен пласт за стени.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pryskyřice na vytváření zesílené vrstvy podlahových materiálů; Pryskyřice k vytváření zesílené vrstvy na stěnách.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Harpiks til dannelse af et hærdet lag på gulvbelægninger; Harpiks til dannelse af et hærdet lag på vægge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Harze zur Bildung einer gehärteten Schicht auf Fußböden; Harze zur Bildung einer gehärteten Schicht an Wänden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ρητίνες για χρήση στη διαμόρφωση σκληρού περιβλήματος σε δάπεδα· Ρητίνες για χρήση στη διαμόρφωση σκληρού περιβλήματος σε τοίχους.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Resins for use in forming a hardened skin on flooring; Resins for use in forming a hardened skin on walls.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Resinas para formar una película endurecida sobre suelos; Resinas para formar una película endurecida en paredes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Põrandakatetele kõvastuva kihi moodustamise vaigud; Seintele kõvastuva kihi moodustamise vaigud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Hartsit käytettäväksi kovettuneen pinnan muodostamiseen lattialle; Hartsit käytettäväksi kovettuneen pinnan muodostamiseen seiniin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Résines destinées à former une pellicule durcie sur le sol; Résines (produits semi-finis) destinées à former une pellicule durcie sur le sol.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Smole za uporabu kod oblikovanja stvrdnutog sloja na podovima; Smole za izradu stvrdnutog sloja na zidovima.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyanták keményített bevonat kialakítására padlókon; Gyanták keményített bevonat kialakítására falakon.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Resine per la formazione di una patina indurita su pavimenti; Resine per la formazione di una patina indurita su pareti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dervos, skirtos naudoti kietojo grindų sluoksnio gamyboje; Dervos, skirtos naudoti kietojo sienų sluoksnio gamyboje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Sveķi cieta grīdas pārklājuma izveidošanai; Sveķi cieta sienu pārklājuma izveidošanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Reżini għall-użu fl-iffurmar ta' qoxra mwebbsa fuq pavimenti; Reżini għall-użu fl-iffurmar ta' qoxra mwebbsa fuq ħitan.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Harsen voor gebruik bij het vormen van een harde laag op vloeren; Harsen voor gebruik bij het vormen van een harde laag op muren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Żywice do wytwarzania warstwy utwardzonej na materiałach podłogowych; Żywice do wytwarzania warstwy utwardzonej na ścianach.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Resinas para a formação de uma película endurecida em pavimentos; Resinas para a formação de uma película endurecida em paredes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Rășini folosite la formarea unei pelicule întărite pe podele; Rășini folosite la formarea unei pelicule întărite pe pereți.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Živice na vytváranie vytvrdenej vrstvy na podlahe; Živice na vytváranie vytvrdenej vrstvy na stenách.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Smole za oblikovanje strjene plasti na talni oblogi; Smole za oblikovanje strjene plasti na stenah.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Hartser för användning i formning av en härdad hinna för golv; Hartser för användning i formning av en härdad hinna för väggar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018217300</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-07-23</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

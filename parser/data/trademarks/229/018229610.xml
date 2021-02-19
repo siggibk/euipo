@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T08:41:23</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229610</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229610</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>TMC CANCELA</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162503243</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229610/000162503243.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>24.01.15</CategoryCode>
+          <CategoryCode>24.01.20</CategoryCode>
+          <CategoryCode>27.05.14</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>7</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Селскостопански машини; Триони за подрязване на храсти и клони [машини]; Машини за горското стопанство; Селскостопански, градински и горски машини и уреди.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zemědělské stroje; Křovinořezy (stroje); Lesnické stroje; Zemědělské, zahradnické a lesnické stroje a přístroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Landbrugsmaskiner; Rydningssav [maskiner]; Maskiner til skovbrug; Landbrugs-, havebrugs- og skovbrugsmaskiner og -apparater.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Landwirtschaftliche Maschinen; Abholzsägen [Maschinen]; Forstwirtschaftliche Maschinen; Land-, garten- und forstwirtschaftliche Maschinen und Apparate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Γεωργικές μηχανές· Θαμνοκόπτες [μηχανές]· Μηχανές δασοκομίας· Αγροτικές, κηπουρικές και δασοκομικές μηχανές και συσκευές.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Agricultural machines; Clearing saws [machines]; Forestry machines; Agricultural, gardening and forestry machines and apparatus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Máquinas agrícolas; Desbrozadoras [máquinas]; Maquinaria forestal; Máquinas y aparatos agrícolas, de jardinería y forestales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Põllutöömasinad; Võsasaed [masinad]; Metsandusmasinad; Põllumajandus-, aiandus- ja metsandusmasinad ja -seadmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Maanviljelyskoneet; Raivaussahat [koneet]; Metsäkoneet; Maatalous-, puutarhanhoito- ja metsätalouskoneet ja -laitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Machines agricoles; Débroussailleuses [machines]; Machines de sylviculture; Équipements et appareils pour l'agriculture, le jardinage et la sylviculture.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Poljoprivredni strojevi; Obrezivači [strojni]; Strojevi za šumarstvo; Strojevi i aparati za poljoprivredu, vrtlarstvo i šumarstvo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Mezőgazdasági gépek; Tisztítófűrészek [gépek]; Erdészeti gépek; Mezőgazdasági, kertészeti és erdészeti gépek és berendezések.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Macchine agricole; Decespugliatori [macchine]; Macchine per silvicoltura; Attrezzature e impianti per l'agricoltura, il giardinaggio e la silvicoltura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Žemės ūkio mašinos; Krūmapjovės [mašinos]; Miškininkystės mašinos; Žemės ūkio, sodininkystės ir miškininkystės mašinos ir aparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Lauksaimniecības mašīnas; Krūmgrieži (mašīnas); Mežizstrādes mašīnas; Lauksaimniecības, dārzkopības un mežkopības aprīkojums un ierīces.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Magni għall-agrikoltura; Qtugħ ta' arbuxelli [magni]; Magni tal-foresterija; Apparat u magni agrikoli, tal-ġnien u tal-forestrija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Landbouwmachines; Bosmaaiers [machines]; Bosbouw (Machines voor de -); Land-, tuin- en bosbouwmachines en -apparaten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maszyny rolnicze; Wykaszarki do trawy i zarośli [maszyny]; Maszyny do robót leśnych; Maszyny i urządzenia rolnicze, ogrodnicze i leśne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máquinas agrícolas; Serras [máquinas] de desbaste; Máquinas para silvicultura; Máquinas e aparelhos agrícolas, de jardinagem e florestais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Utilaje agricole; Ferăstraie pentru defrișare [mașini]; Mașini forestiere; Mașini și aparate agricole, de grădinărit și silvice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poľnohospodárske stroje; Krovinorezy [stroje]; Lesnícke stroje; Poľnohospodárske, záhradkárske a lesnícke stroje a zariadenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kmetijski stroji; Žage za krčenje (stroji); Gozdarski stroji; Poljedelski, vrtnarski in gozdarski stroji in naprave.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Jordbruksmaskiner; Kvistskärare [maskiner]; Skogsbruksmaskiner; Jordbruks-, trädgårds- och skogsbruksmaskiner och -apparater.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>12</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Трактори за селскостопански цели; Превозни и транспортни средства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Traktory k zemědělským účelům; Vozidla a dopravní prostředky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Traktorer til brug i landbruget; Køretøjer og befordringsmidler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Traktoren für landwirtschaftliche Zwecke; Fahrzeuge und Beförderungsmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ελκυστήρες για γεωργικές χρήσεις· Οχήματα και μέσα μεταφοράς.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Tractors for agricultural purposes; Vehicles and conveyances.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Tractores agrícolas; Vehículos y medios de transporte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Põllumajandustraktorid; Sõidukid ja transpordivahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Maataloustraktorit; Ajoneuvot ja kulkuneuvot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Tracteurs à usage agricole; Véhicules et moyens de transport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Traktori za poljoprivredne namjene; Vozila i prijevozna sredstva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Traktorok mezőgazdasági célokra; Járművek és szállítóeszközök.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Trattori per uso agricolo; Veicoli e mezzi di trasporto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Žemės ūkio paskirties traktoriai; Transporto priemonės ir vežimėliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Traktori lauksaimniecības nolūkiem; Transportlīdzekļi un pārvietošanas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Trakters għal skopijiet agrikoli; Vetturi u vetturi għall-ġarr.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Tractoren voor agrarische doeleinden; Voertuigen en vervoermiddelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Ciągniki do celów rolniczych; Pojazdy i środki transportu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Tratores para fins agrícolas; Veículos e meios de transporte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Tractoare folosite în scopuri agricole; Vehicule și mijloace de transport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Traktory na poľnohospodárske účely; Vozidlá a dopravné prostriedky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Traktorji za kmetijske namene; Vozila in prevozna sredstva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Jordbrukstraktorer; Fordon och -fortskaffningsmedel.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за търговия на едро във връзка с превозни средства; Услуги за търговия на едро във връзка със земеделско оборудване; Услуги за търговия на дребно във връзка със земеделско оборудване; Услуги за търговия на дребно във връзка с метални железарски изделия; Услуги за търговия на дребно във връзка с превозни средства; Услуги за търговия на едро във връзка с градинарско оборудване; Услуги за търговия на дребно във връзка с градинарско оборудване.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Velkoobchodní prodej vozidel; Velkoobchodní prodej zemědělstkých nástrojů a vybavení; Maloobchodní prodej zemědělských nástrojů a vybavení; Maloobchodní prodej kovového zboží; Maloobchodní prodej vozidel; Velkoobchodní služby v souvislosti se zahradnickým náčiním; Maloobchodní služby v souvislosti se zahradnickým náčiním.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Engroshandel med køretøjer; Engroshandel med landbrugsudstyr; Detailhandel med landbrugsudstyr; Detailhandel med metalvarer; Detailhandel med køretøjer; Engroshandel med havebrugsudstyr; Detailhandel med udstyr til havebrug.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Großhandelsdienstleistungen in Bezug auf Fahrzeuge; Großhandelsdienstleistungen in Bezug auf landwirtschaftliche Maschinen; Einzelhandelsdienstleistungen in Bezug auf landwirtschaftliche Maschinen; Einzelhandelsdienstleistungen in Bezug auf Kleineisenwaren; Einzelhandelsdienstleistungen in Bezug auf Fahrzeuge; Großhandelsdienstleistungen in Bezug auf gartenwirtschaftliche Geräte; Einzelhandelsdienstleistungen in Bezug auf gartenwirtschaftliche Geräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες χονδρικής πώλησης σε σχέση με οχήματα· Υπηρεσίες χονδρικής πώλησης σε σχέση με γεωργικό εξοπλισμό· Υπηρεσίες λιανικής πώλησης σε σχέση με γεωργικό εξοπλισμό· Υπηρεσίες λιανικής πώλησης σε σχέση με μεταλλικά είδη σιδηροπωλείου· Υπηρεσίες λιανικής πώλησης σε σχέση με οχήματα· Υπηρεσίες χονδρικής πώλησης σε σχέση με κηπουρικό εξοπλισμό· Υπηρεσίες λιανικής πώλησης σε σχέση με κηπουρικό εξοπλισμό.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Wholesale services in relation to vehicles; Wholesale services in relation to agricultural equipment; Retail services in relation to agricultural equipment; Retail services in relation to metal hardware; Retail services in relation to vehicles; Wholesale services in relation to horticulture equipment; Retail services in relation to horticulture equipment.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de venta al por mayor de vehículos; Servicios de venta al por mayor de maquinaria para la agricultura; Servicios de venta al por menor de maquinaria para la agricultura; Servicios de venta al por menor relacionados con ferretería metálica; Servicios de venta al por menor de vehículos; Servicios de venta al por mayor de equipos de horticultura; Servicios de venta al por menor de equipos de horticultura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Sõidukite hulgimüügiteenused; Põllumajandusseadmete hulgimüügiteenused; Põllumajandusseadmete jaemüügiteenused; Rauakaupade jaemüügiteenused; Sõidukite jaemüügiteenused; Aiandusvahendite hulgimüügiteenused; Aiandusvahendite jaemüügiteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ajoneuvoihin liittyvät tukkumyyntipalvelut; Maanviljelyslaitteisiin liittyvät tukkumyyntipalvelut; Maanviljelyslaitteisiin liittyvät vähittäismyyntipalvelut; Metalliesineisiin liittyvät vähittäismyyntipalvelut; Ajoneuvoihin liittyvät vähittäismyyntipalvelut; Puutarhatarvikkeisiin liittyvät tukkumyyntipalvelut; Puutarhatarvikkeisiin liittyvät vähittäismyyntipalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de vente en gros concernant les véhicules; Services de vente en gros concernant les équipements agricoles; Services de vente au détail concernant les équipements agricoles; Services de vente au détail concernant la quincaillerie métallique; Services de vente au détail concernant les véhicules; Services de vente en gros de matériel d'horticulture; Services de vente au détail de matériel d'horticulture.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Veleprodajne usluge u vezi s vozilima; Veleprodajne usluge u vezi s poljoprivrednom opremom; Maloprodajne usluge u vezi s poljoprivrednom opremom; Maloprodajne usluge vezane uz metalnu robu; Maloprodajne usluge u vezi s vozilima; Veleprodajne usluge u vezi s opremom za hortikulturu; Maloprodajne usluge u vezi s opremom za hortikulturu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Járművekkel kapcsolatos nagykereskedelmi szolgáltatások; Mezőgazdasági berendezésekkel kapcsolatos nagykereskedelmi szolgáltatások; Mezőgazdasági berendezésekkel kapcsolatos kiskereskedelmi szolgáltatások; Fémárukkal kapcsolatos kiskereskedelmi szolgáltatások; Járművekkel kapcsolatos kiskereskedelmi szolgáltatások; Kertészeti felszereléssel kapcsolatos nagykereskedelmi szolgáltatások; Kertészeti felszereléssel kapcsolatos kiskereskedelmi szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi all'ingrosso in relazione a veicoli; Servizi all'ingrosso in relazione ad attrezzature per l'agricoltura; Servizi al dettaglio in relazione ad attrezzature per l'agricoltura; Servizi al dettaglio in relazione a chincaglieria metallica; Servizi al dettaglio in relazione a veicoli; Servizi all'ingrosso in relazione ad attrezzature per l'orticoltura; Servizi al dettaglio in relazione ad attrezzature per l'orticoltura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Didmeninė prekyba transporto priemonėmis; Didmeninė prekyba žemės ūkio įranga; Mažmeninė prekyba žemės ūkio įranga; Mažmeninė prekyba metalo dirbiniais; Mažmeninė prekyba transporto priemonėmis; Didmeninė prekyba sodininkystės įranga; Mažmeninė prekyba sodininkystės įranga.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Vairumtirdzniecības pakalpojumi saistībā ar transportlīdzekļiem; Vairumtirdzniecības pakalpojumi saistībā ar lauksaimniecības aprīkojumu; Mazumtirdzniecības pakalpojumi saistībā ar lauksaimniecības aprīkojumu; Mazumtirdzniecības pakalpojumi saistībā ar metāla būvapkalumiem; Mazumtirdzniecības pakalpojumi saistībā ar transportlīdzekļiem; Dārzkopības piederumu vairumtirdzniecības pakalpojumi; Dārzkopības piederumu mazumtirdzniecības pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' bejgħ bl-ingrossa fir-rigward tal-vetturi; Servizzi ta' bejgħ bl-ingrossa fir-rigward tat-tagħmir agirkolu; Servizzi ta' bejgħ bl-imnut fir-rigward tat-tagħmir agrikolu; Servizzi ta' bejgħ bl-imnut fir-rigward ta' ħardwer tal-metall; Servizzi ta' bejgħ bl-imnut fir-rigward tal-vetturi; Servizzi ta' bejgħ bl-ingrossa fir-rigward tal-prodotti tal-ortikultura; Servizzi ta' bejgħ bl-imnut fir-rigward tal-prodotti tal-ortikultura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Groothandelsdiensten op het gebied van voertuigen; Groothandelsdiensten op het gebied van landbouwuitrusting; Detailhandelsdiensten op het gebied van landbouwuitrusting; Detailhandelsdiensten op het gebied van ijzerwaren; Detailhandelsdiensten op het gebied van voertuigen; Groothandelsdiensten op het gebied van outillage voor de tuinbouw; Detailhandelsdiensten op het gebied van outillage voor de tuinbouw.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi sprzedaży hurtowej w związku z pojazdami; Usługi sprzedaży hurtowej w związku z ze sprzętem rolniczym; Usługi sprzedaży detalicznej w związku ze sprzętem rolniczym; Usługi sprzedaży detalicznej w związku z akcesoriami metalowymi; Usługi sprzedaży detalicznej w związku z pojazdami; Usługi sprzedaży hurtowej w związku ze sprzętem ogrodniczym; Usługi sprzedaży detalicznej w związku ze sprzętem ogrodniczym.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços grossistas relacionados com veículos; Serviços grossistas relacionados com equipamento para trabalhos agrícolas; Serviços retalhistas relacionados com equipamento para trabalhos agrícolas; Serviços retalhistas relacionados com ferragens metálicas; Serviços retalhistas relacionados com veículos; Serviços grossistas relacionados com equipamentos para horticultura; Serviços retalhistas relacionados com equipamentos para horticultura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de vânzare cu ridicata în legătură cu vehicule; Servicii de vânzare cu ridicata în legătură cu utilaje agricole; Servicii de vânzare cu amănuntul în legătură cu utilaje agricole; Servicii de vânzare cu amănuntul în legătură cu articole de feronerie; Servicii de vânzare cu amănuntul în legătură cu vehicule; Servicii de vânzare cu ridicata de echipamente horticole; Servicii de vânzare cu amănuntul de echipamente horticole.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Veľkoobchodné služby s vozidlami; Veľkoobchodné služby so zameraním na poľnohospodárske zariadenia; Maloobchodné služby so zameraním na poľnohospodárske zariadenia; Maloobchodné služby so železiarskym tovarom; Maloobchodné služby s vozidlami; Veľkoobchodné služby so záhradníckymi potrebami; Maloobchodné služby so záhradníckymi potrebami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve prodaje na debelo v zvezi z vozili; Storitve prodaje na debelo v zvezi z opremo za kmetijstvo; Storitve prodaje na drobno v zvezi z opremo za kmetijstvo; Storitve prodaje na drobno v zvezi s kovinskimi izdelki; Storitve prodaje na drobno v zvezi z vozili; Veleprodajne stritve v zvezi z opremo za vrtnarjenje; Maloprodajne storitve v zvezi z opremo za vrtnarjenje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Grosshandel avseende fordon; Grosshandel avseende jordbruksredskap; Återförsäljartjänster avseende jordbruksredskap; Återförsäljning avseende metallvaror; Återförsäljartjänster avseende fordon; Grosshandel i samband med utrustning för trädgårdsskötsel; Återförsäljartjänster avseende utrustning för trädgårdsskötsel.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>387551</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>15018</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

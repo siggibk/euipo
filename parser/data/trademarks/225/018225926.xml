@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:36</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225926</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225926</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162306235</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/225/018225926/000162306235.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.03.01</CategoryCode>
+          <CategoryCode>26.03.24</CategoryCode>
+          <CategoryCode>27.05.12</CategoryCode>
+          <CategoryCode>27.05.21</CategoryCode>
+          <CategoryCode>27.99.07</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Костюми за гмуркане; Апарати за дишане при подводно плуване; Животоспасяващи апарати и уреди; Апарати за глобално позициониращи системи [GPS]; Апарати за управление чрез сателит; Предаватели на електронни сигнали; Апарати за измерване от разстояние; Измервателни устройства; Приемници за системи за глобално позициониране [GPS]; Радиочестотни усилватели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Potápěčské obleky; Dýchací přístroje pro plavání pod vodou; Záchranná zařízení a vybavení; Navigační zařízení Globálního polohového systému (GPS); Satelitní navigační přístroje; Vysílače elektronických signálů; Přístroje na měření vzdálenosti; Měřící zařízení; GPS přijímače; Radiofrekvenční opakovače.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Dykkerdragter; Indåndingsapparater til undervandssvømning; Livredningsapparater og -udstyr; Global Positioning System [GPS] apparater; Satellitnavigationsapparater; Sendere af elektroniske signaler; Afstandsmåleapparater; Måleapparater; GPS-modtagere; Relæstationer til radiofrekvenser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Taucheranzüge; Atemgeräte zum Tauchen; Rettungsvorrichtungen; GPS-Geräte; Satellitennavigationsgeräte; Sender für elektronische Signale; Entfernungsmessgeräte; Messgeräte und -apparate; Empfänger auf Basis des Global Positioning System [GPS]; Radiofrequenzrepeater.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φόρμες κατάδυσης· Κολύμβηση υποβρύχια (αναπνευστικές συσκευές -ας -ης)· Διάσωσης (Μηχανισμοί -)· Συσκευές παγκόσμιου συστήματος προσδιορισμού θέσης [GPS]· Πλοήγησης (Συσκευές -) μέσω δορυφόρου· Πομποί ηλεκτρονικών σημάτων· Συσκευές μέτρησης αποστάσεων· Διατάξεις μέτρησης· Δέκτες GPS· Επαναλήπτες ραδιοσυχνοτήτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Diving suits; Breathing apparatus for underwater swimming; Life saving apparatus and equipment; Global Positioning System [GPS] apparatus; Satellite navigational apparatus; Transmitters of electronic signals; Distance measuring apparatus; Measuring devices; GPS receivers; radio frequency repeaters.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Trajes de buceo; Aparatos de respiración para la natación subacuática; Aparatos y dispositivos de salvamento; Aparatos para sistemas mundiales de determinación de la posición [GPS]; Aparatos de navegación por satélite; Emisores de señales electrónicas; Aparatos medidores de distancias; Dispositivos de medida; Receptores para GPS; Repetidores de radiofrecuencia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Skafandrid, tuukriülikonnad; Akvalangisti, allveeujuja hingamisaparaadid, akvalangid; Elustusseadmed, elustusaparatuur; Globaalse positsioneerimise seadmed, GPS-seadmed; Satelliitnavigatsiooniaparatuur; Elektronsignaalide saatjad; Kaugusmõõturid; Mõõteaparaadid, mõõteseadmed; GPS-vastuvõtjad; Raadiosageduskordajad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sukelluspuvut; Hengityslaitteet sukeltamiseen; Hengenpelastuslaitteet ja -välineet; GPS-laitteet; Satelliittinavigointilaitteet; Lähettimet (elektronisten signaalien); Etäisyysmittauslaitteet; Mittausvälineet; Maailmanlaajuisen paikannusjärjestelmän vastaanottimet; Radiotaajuustoistimet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Combinaisons de plongée; Appareils respiratoires pour la nage subaquatique; Dispositifs de secours; Appareils pour GPS [systèmes de repérage universel]; Appareils de navigation par satellite; Émetteurs de signaux électroniques; Appareils pour la mesure des distances; Dispositifs de mesurage; Récepteurs de système de localisation mondial [récepteurs GPS]; Répéteurs de radiofréquence.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Skafanderi za ronnjenje; Uređaji za podvodno disanje; Spašavanje (uređaji za spašvanje); Uređaji za globalno pozicioniranje [GPS]; Satelitski navigacijski uređaji; Odašiljači elektroničkih signala; Mjerači razmaka [dijastometri]; Mjerni uređaji; Prijemnici sa sustavom globalnog pozicioniranja [GPS prijemnici]; Repetitori za radijsku frekvenciju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Búvárruhák; Légzőkészülékek víz alatti úszáshoz; Életmentő készülékek és felszerelések; GPS készülékek; Műholdas navigációs készülékek; Elektronikus jeladók; Távolságmérő, távmérő berendezések; Mérőberendezések; Vevőkészülékek globális helymeghatározó rendszerekhez [GPS]; Rádiófrekvenciás ismétlők.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Scafandri; Apparecchi respiratori per il nuoto subacqueo; Dispositivi di salvataggio; Apparecchi GPS [Sistema di Posizionamento Globale]; Apparecchi di navigazione satellitare; Emettitori elettronici di segnali; Apparecchi per misurare le distanze; Dispositivi di misurazione; Ricevitori per sistema di posizionamento globale [GPS]; Ripetitori di radiofrequenza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Narų kostiumai; Povandeninio plaukiojimo kvėpavimo aparatai; Gelbėjimo aparatai ir įrenginiai; Globalinės padėties nustatymo sistemos [GPS] aparatai; Navigacinė palydovų aparatūra; Elektroninių signalų siųstuvai; Atstumo matavimo prietaisai; Matavimo įrenginiai; Globalinės padėties nustatymo sistemos [GPS] imtuvai; Radijo dažnio retransliatoriai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Nirēju un ūdenslīdēju kostīmi; Elpošanas aparāti zemūdens peldēšanai; Glābšanas ierīces un piederumi; Globālās pozicionēšanas sistēmas (GPS) iekārtas; Satelītnavigācijas iekārtas; Elektronisko signālu raidītāji; Attāluma mērierīces; Mēraparāti; Globālās pozicionēšanas sistēmas [GPS] uztvērēji; Radiofrekvenču retranslatori.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ħwejjeġ tal-għaddasa; Apparat tan-nifs għall-għawm taħt l-ilma; Apparat u tagħmir għas-salvataġġ tal-ħajja; Apparat ta' Sistema ta' Pożizzjonar Globali [GPS]; Apparat tan-navigazzjoni bis-satellita; Trasmettituri ta' sinjali elettroniċi; Apparat li jkejjel id-distanzi; Apparat għall-kejl; Riċevituri tas-Sistema tal-Ippożizzjonar Globali [GPS]; Ripetituri tal-frekwenza tar-radju.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Duikpakken; Ademhalingsapparaten voor het onderwaterzwemmen; Reddingshulpmiddelen; GPS-systemen; Satellietnavigatie-apparatuur; Zenders van elektronische signalen; Afstandsmeters; Meetapparaten; Gps-ontvangers; Radiofrequentierelaisstations.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Skafandry dla nurków; Aparaty tlenowe do pływania podwodnego; Urządzenia i sprzęt dla ratownictwa; Urządzenia systemu GPS; Urządzenia do nawigacji satelitarnej; Nadajniki sygnałów elektronicznych; Przyrządy do pomiaru odległości; Urządzenia pomiarowe; Odbiorniki do systemów globalnego pozycjonowania [GPS]; Wzmacniaki częstotliwości radiowej.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Fatos de mergulhador; Aparelhos de respiração para a natação subaquática; Dispositivos de salvação; Dispositivos para sistemas GPS; Aparelhos de navegação por satélite; Emissores de sinais eletrónicos; Aparelhos para a medida de distâncias; Dispositivos de medida; Recetores de Sistemas de Posicionamento Global [GPS]; Repetidores de radiofrequência.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Costume de scafandru; Aparate de respirat sub apă pentru înot subacvatic; Dispozitive și echipament de salvare; Aparate de sistem de poziționare globală [GPS]; Dispozitive de navigat prin satelit; Emițătoare de semnale electronice; Aparate pentru măsurarea distanțelor; Dispozitive de măsurare; Receptoare pentru sisteme de poziționare globală [GPS]; Relee de radiofrecvență.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Potápačské kombinézy; Dýchacie prístroje na plávanie pod vodou; Záchranné prístroje a zariadenia; Zariadenia globálneho polohového systému (GPS); Satelitné navigačné prístroje; Vysielače elektronických signálov; Diaľkomery; Mierky; GPS prijímače; Rádiofrekvenčné retranslátory.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Potapljaške obleke; Dihalni aparati za plavanje pod vodo; Aparati in oprema za reševanje; GPS aparati [Sistemi za globalno pozicioniranje]; Satelitski navigacijski aparati; Oddajniki za elektronske signale; Aparati za merjenje razdalje; Merilne naprave; Sprejemniki sistemov globalnega pozicioniranja [GPS sprejemniki]; Radiofrekvenčni ponavljalniki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Dykardräkter; Andningsapparater för sportdykare; Livräddningsapparater och -utrustningar; Satellitnavigationssystemapparater [GPS]; Satellitnavigeringsutrustningar; Sändare av elektroniska signaler; Avståndsmätningsapparater; Anordningar för mätning; GPS-mottagare; Radiofrekvensrepeater.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080335</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>13735</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

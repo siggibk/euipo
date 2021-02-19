@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-18T07:50:29</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226277</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226277</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>NL PURE</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Инструменти за наблюдение; Бинокли; Части и принадлежности за инструменти за наблюдение; Устройства за бинокулярно наблюдение.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Přístroje na pozorování; Dalekohledy; Části a součásti pro pozorovací nástroje; Binokulární sledovací přístroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Observationsinstrumenter; Kikkerter; Dele og tilbehør til overvågningsinstrumenter; Binokulære overvågningsapparater.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Beobachtungsinstrumente; Ferngläser; Teile und Zubehör für Beobachtungsinstrumente; binokulare Beobachtungsgeräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παρατήρηση (όργανα -ης)· Κιάλια· Μέρη και εξαρτήματα για όργανα παρακολούθησης· Διοφθαλμικές συσκευές παρακολούθησης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Observation instruments; Binoculars; Parts and fittings for observation instruments; Binocular observation apparatus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Instrumentos de observación; Binoculares; Partes y accesorios para instrumentos de observación; Equipos de observación binoculares.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Vaatlusriistad, vaatlusseadmed; Binoklid; Jälgimisvahendite osad ja tarvikud; Binokulaarsed vaatamisseadmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tarkkailukojeet; Kiikarit; Valvontavälineiden osat ja tarvikkeet; Kaksiokulaariset havaintolaitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Instruments d'observation; Jumelles [optique]; Pièces et accessoires pour les instruments d'observation; Appareils de surveillance binoculaires.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Instrumenti za promatranje; Dalekozori; Dijelovi i pribor za instrumente za promatranje; Binokularni uređaji za promatranje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Megfigyelő műszerek; Távcsövek, látcsövek [kétcsövű]; Alkatrészek és tartozékok megfigyelő műszerekhez; Binokuláris megfigyelési eszközök.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Strumenti d'osservazione; Binocoli [ottica]; Parti e accessori per strumenti di osservazione; Apparecchi di osservazione binoculari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Stebėjimo prietaisai; Žiūronai; Stebėjimo prietaisų dalys ir priedai; Binokuliniai stebėjimo prietaisai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Novērošanas ierīces; Binokļi; Daļas un piederumi novērošanas instrumentiem; Binokulāras novērošanas ierīces.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Strumenti ta' osservazzjoni; Trombi; Partijiet u aċċessorji għal strumenti tal-osservazzjoni; Tagħmir tal-osservazzjoni binokulari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Waarnemingsinstrumenten; Verrekijkers; Onderdelen en accessoires voor observatie-instrumenten; Binoculaire observatietoestellen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Przyrządy obserwacyjne; Lornetki; Części i akcesoria do przyrządów obserwacyjnych; Binokularne urządzenia do obserwacji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Instrumentos de observação; Binóculos; Componentes e acessórios para instrumentos de observação; Dispositivos de observação binoculares.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Instrumente de observaţie; Binocluri [optică]; Piese și accesorii pentru instrumente de observație; Aparate de observație binoculare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Pozorovacie nástroje; Ďalekohľady; Časti a príslušenstvo pre pozorovacie nástroje; Binokulárne pozorovacie zariadenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Instrumenti za opazovanje; Daljnogledi; Deli in oprema za opazovalne instrumente; Naprave za binokularno opazovanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Observationsinstrument; Kikare; Delar och tillbehör till observationsinstrument; Binokulära observationsapparater.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/081</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-30</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/150</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/179</PublicationIdentifier>
+        <PublicationSection>C.3.6</PublicationSection>
+        <PublicationDate>2020-09-18</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080370</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>40727</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-28T11:45:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224703</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224703</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-09-23</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Saniopen</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162206823</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224703/000162206823.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>07.03.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>6</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Метални строителни материали; Железария, метална кинкалерия; Врати, порти, прозорци и покрития (напр. капаци) за прозорци от метал; Обкови за врати, порти и прозорци от метал; Устройства за дистанционно задействане на дръжка на врата, брава или лост посредством стъпалото на крака или лакътя.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kovové stavební materiály; Kovové potřeby zámečnické a klempířské; Kovové dveře, vrata, okna a okenní kryty; Kovová dveřní, vratová a okenní kování; Zařízení pro dálkové ovládání dveřní kliky, madla nebo páky nohou nebo loktem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Byggematerialer af metal; Klejnsmedearbejder, små genstande af metal (isenkramvarer); Døre, porte, vinduer og vinduesafskærmninger af metal; Beslag til porte, døre og vinduer af metal; Anordninger til fjernbetjening af dørhåndtag, greb eller håndtag med foden eller albuen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Baumaterialien aus Metall; Schlosserwaren und Kleineisenwaren; Türen, Tore, Fenster und Fensterabdeckungen aus Metall; Tür-, Tor- und Fensterbeschläge, aus Metall; Vorrichtungen zur Fernbetätigung einer Türklinke, eines Griffs oder Hebels durch den Fuß oder den Ellenbogen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μεταλλικά υλικά οικοδομών· Είδη κλειθροποιίας και σιδηροπωλείου· Πόρτες, εξώπορτες, παράθυρα και μεταλλικά καλύμματα παραθύρων· Μεταλλικά προσαρτήματα θυρών, πυλών και παραθύρων· Διατάξεις για τον εξ αποστάσεως χειρισμό πόμολου πόρτας, χειρολαβής ή μοχλού με το πόδι ή τον αγκώνα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Metal building materials; Ironmongery, small items of metal hardware; Doors, gates, windows and window coverings of metal; Door, gate and window fittings of metal; Apparatus for remotely operating a door knob, handle or lever with the foot or elbow.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Materiales de construcción metálicos; Artículos de cerrajería y ferretería metálicos; Puertas, verjas, ventanas y cubre ventanas, todos ellos de metal; Herrajes de pórticos, puertas y ventanas metálicos; Dispositivos para controlar a distancia un picaporte, una manija o una palanca con el pie o el codo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Metallehitusmaterjalid; Rauakaubad, väikesed metallkaubad; Metallist uksed, väravad, aknad ja aknakatted; Metallist ukse-, värava- ja aknasulused; Jala või küünarnuki abil ukselingi, käepideme või hoova kaugjuhtimise seadmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Metalliset rakennustarvikkeet; Rautatavarat, pienet metalliesineet; Metalliset ovet, portit, ikkunat ja ikkunasäleiköt ja -luukut; Metalliset oven-, portin- ja ikkunanhelat; Laitteet ovenkahvojen, kädensijojen tai vipujen etäkäyttöön jalalla tai kyynärpäällä.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Matériaux de construction métalliques; Serrurerie et quincaillerie métalliques; Portes, portails, fenêtres et revêtements de fenêtre métalliques; Ferrures de portes, portails et fenêtres en métal; Dispositifs pour l'activation à distance d'une poignée de porte, d'une poignée ou d'un levier à l'aide du pied ou du coude.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Metalni građevinski materijali; Željezarija, sitni metalni predmeti; Vrata, ulazna vrata, prozori i pokrovi za prozore od metala; Metalni okovi za kapije, vrata i prozore; Uređaji za daljinsko upravljanje kvakom, drškom ili ručicom pomoću stopala ili lakta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fém építőanyagok; Lakatosipari termékek, fém tömegcikkek; Fémből készült ajtók, kapuk, ablakok és árnyékolók; Ajtó-, kapu- és ablakvasalatok fémből; Eszközök az ajtófogantyú, fogantyú vagy kar távirányításához a lábán vagy a könyökén elhelyezve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Materiali per costruzione metallici; Serrami e chincaglieria metallica; Porte, cancelli, finestre e guarnizioni di finestre in metallo; Bandelle di portoni, porte e finestre in metallo; Dispositivi per il comando a distanza di un pomello, una maniglia o una leva con il piede o il gomito.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Metalinės statybinės medžiagos; Smulkūs geležies dirbiniai ir smulkios metalinės detalės; Metalinės durys, vartai, langai ir langų uždangos; Metalinės durų, vartų ir langų apkalos; Įtaisai durų rankenoms, rankenoms ar svirtims pėda ar alkūne nuotoliniu būdu valdyti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Būvmateriāli no metāla; Būvapkalumi, atslēdznieku izstrādājumi; Durvis, vārti, logi un logu aizsegi no metāla; Durvju, vārtu un logu furnitūra no metāla; Tālvadības ierīces durvju kliņķiem, rokturiem vai pacēlājiem ar kāju vai elkoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Materjal tal-metall għall-bini; Ironmongery, oġġetti żgħar tal-metall; Bibien, xtiebi, twieqi u għata tat-twieqi tal-metall; Aċċessorji tal-bibien,tax-xtiebi u t-twieqi tal-metall; Faċilitajiet għat-tħaddim mill-bogħod ta' pum ta' bieb, ta' manku jew lieva bis-sieq jew bil-minkeb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bouwmaterialen van metaal; Slotenmakerswaren van metaal en kleinijzerwaren; Deuren, portalen, vensters en raambeslag van metaal; Deur-, poort- en vensterbeslag van metaal; Inrichtingen voor het op afstand bedienen van een deurklink, een handgreep of hendel met de voet of de elleboog.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Budowlane materiały metalowe; Drobne wyroby żelazne, pojedyncze drobne wyroby metalowe; Metalowe drzwi, bramy, okna i osłony okienne; Okucia do drzwi, bram i okien z metalu; Urządzenia do zdalnego sterowania klamką do drzwi, rączką lub dźwignią za pomocą stopy lub łokcia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Materiais de construção metálicos; Serralharia e quinquilharia metálica; Portas, portões, janelas e revestimentos de janela (metálicos); Ferragens para portões, portas e janelas em metal; Aparelhos para o controlo remoto de fixadores de portas, puxadores ou alavancas através dos pés ou cotovelos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Materiale de construcţie metalice; Produse de lăcătuşerie şi feronerie metalică; Uşi, porţi, ferestre şi jaluzele pentru ferestre din metal; Garnituri metalice pentru uşi, porţi şi ferestre; Dispozitive pentru activarea de la distanță a unei clanțe de ușă, unui mâner sau unei pârghii cu piciorul sau cotul.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Stavebný materiál z kovu; Železiarsky tovar, drobný železiarsky tovar; Kovové dvere, brány, okná a okenice; Dverové, bránové a okenné kovania z kovu; Zariadenia pre diaľkové ovládanie dverovej kľučky, kľučky alebo páky nohou alebo lakťom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kovinski gradbeni materiali; Ključavničarski izdelki in drobni kovinski predmeti; Vrata, okna in deli za zastiranje oken, kovinski; Kovinska okovja vrat, zunanjih vrat in oken; Naprave za daljinsko upravljanje vratnih kljuk, ročaja ali ročice s pomočjo stopala ali komolca.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Byggnadsmaterial av metall; Små smidesvaror av järn och metall; Dörrar, grindar, fönster och skydd för fönster av metall; Port-, dörr- och fönsterbeslag av metall; Anordningar för fjärraktivering av en dörrklinka, ett handtag eller en spak genom fot eller armbåge.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Мебели; Принадлежности за врати, порти и прозорци, неметални; Устройства за дистанционно задействане на дръжка на врата, брава или лост посредством стъпалото на крака или лакътя.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nábytek; Kování pro dveře, brány a okna, nekovové; Zařízení pro dálkové ovládání dveřní kliky, madla nebo páky nohou nebo loktem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Møbler; Tilbehør til døre, porte og vinduer, ikke af metal; Anordninger til fjernbetjening af dørhåndtag, greb eller håndtag med foden eller albuen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Möbel; Tür-, Tor- und Fensterbeschläge, nicht aus Metall; Vorrichtungen zur Fernbetätigung einer Türklinke, eines Griffs oder Hebels durch den Fuß oder den Ellenbogen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Έπιπλα· Εξαρτήματα για πόρτες, εξώπορτες και παράθυρα, μη μεταλλικά· Διατάξεις για τον εξ αποστάσεως χειρισμό πόμολου πόρτας, χειρολαβής ή μοχλού με το πόδι ή τον αγκώνα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Furniture; Door, gate and window fittings, non-metallic; Apparatus for remotely operating a door knob, handle or lever with the foot or elbow.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Piezas de mobiliario; Accesorios no metálicos para puertas, verjas y ventanas; Dispositivos para controlar a distancia un picaporte, una manija o una palanca con el pie o el codo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mööbel; Ukse-, akna- ja väravamanused (v.a metallist); Jala või küünarnuki abil ukselingi, käepideme või hoova kaugjuhtimise seadmed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Huonekalut; Ovi-, portti- ja ikkunatarvikkeet muusta kuin metallista; Laitteet ovenkahvojen, kädensijojen tai vipujen etäkäyttöön jalalla tai kyynärpäällä.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Meubles; Accessoires de portes, portails et fenêtres, non métalliques; Dispositifs pour l'activation à distance d'une poignée de porte, d'une poignée ou d'un levier à l'aide du pied ou du coude.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Namještaj; Nemetalni sastavni dijelovi za vrata, ulazna vrata i prozore; Uređaji za daljinsko upravljanje kvakom, drškom ili ručicom pomoću stopala ili lakta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Bútorok; Szerelvények ajtókhoz, kapukhoz és ablakokhoz, nem fémből; Eszközök az ajtófogantyú, fogantyú vagy kar távirányításához a lábán vagy a könyökén elhelyezve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Mobilia; Accessori per porte, cancelli e finestre, non in metallo; Dispositivi per il comando a distanza di un pomello, una maniglia o una leva con il piede o il gomito.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Baldai; Ne metalinė durų, vartų ir langų furnitūra; Įtaisai durų rankenoms, rankenoms ar svirtims pėda ar alkūne nuotoliniu būdu valdyti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mēbeles; Durvju, vārtu un logu piederumi, kas nav no metāla; Tālvadības ierīces durvju kliņķiem, rokturiem vai pacēlājiem ar kāju vai elkoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Għamara; Fitings tal-bibien, tax-xatbiet u tat-twieqi, mhux tal-metall; Faċilitajiet għat-tħaddim mill-bogħod ta' pum ta' bieb, ta' manku jew lieva bis-sieq jew bil-minkeb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Meubelen; Deur-, poort- en raambeslag, niet van metaal; Inrichtingen voor het op afstand bedienen van een deurklink, een handgreep of hendel met de voet of de elleboog.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Meble; Osprzęt do drzwi, bram i okien, niemetalowe; Urządzenia do zdalnego sterowania klamką do drzwi, rączką lub dźwignią za pomocą stopy lub łokcia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Mobiliário; Acessórios para portas, portões e janelas, não metálicos; Aparelhos para o controlo remoto de fixadores de portas, puxadores ou alavancas através dos pés ou cotovelos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Piese de mobilier; Garnituri pentru uşi, porţi şi ferestre, nu din metal; Dispozitive pentru activarea de la distanță a unei clanțe de ușă, unui mâner sau unei pârghii cu piciorul sau cotul.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nábytok; Nekovové kovanie na dvere, brány a okná; Zariadenia pre diaľkové ovládanie dverovej kľučky, kľučky alebo páky nohou alebo lakťom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pohištvo; Nekovinski sestavni deli za vrata, zapornice in okna; Naprave za daljinsko upravljanje vratnih kljuk, ročaja ali ročice s pomočjo stopala ali komolca.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Möbler; Dörr-, grind- och fönsterbeslag, icke-metalliska; Anordningar för fjärraktivering av en dörrklinka, ett handtag eller en spak genom fot eller armbåge.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/112</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/184</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-25</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1029390</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>5316</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

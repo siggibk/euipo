@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-17T08:59:02</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229619</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229619</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-13</RegistrationDate>
+<ApplicationLanguageCode>hr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>NUTRISH MAX</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162504618</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229619/000162504618.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.11.02</CategoryCode>
+          <CategoryCode>26.11.06</CategoryCode>
+          <CategoryCode>26.11.08</CategoryCode>
+          <CategoryCode>27.05.12</CategoryCode>
+          <CategoryCode>27.05.19</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>29</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Картофен чипс; Картофен чипс; Картофен чипс с ниско съдържание на мазнини; Леща, консервирана; Леща, консервирана; Соеви зърна, консервирани, за хранителни цели; Зеленчуци, сушени; Сусамена халва.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Bramborové lupínky; Bramborové lupínky; Bramborové lupínky s nízkým obsahem tuku; Konzervovaná čočka; Konzervovaná čočka; Konzervované sojové boby pro potravinářské účely; Sušená zelenina; Tahini [pasta ze sezamových semínek].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kartoffelchips; Kartoffelchips; Fedtfattige kartoffelchips; Linser, konserverede; Linser, konserverede; Konserverede sojabønner; Grøntsager, tørrede; Tahini [sesamfrøpasta].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kartoffelchips; Kartoffelchips; Fettarme Kartoffelchips; Konservierte Linsen [Gemüse]; Konservierte Linsen [Gemüse]; Sojabohnen [konserviert] für Speisezwecke; Gemüse [getrocknet]; Sesamsamenpaste [Tahini].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Τσιπς [πατατάκια]· Τσιπς [πατατάκια]· Πατατάκια με χαμηλή περιεκτικότητα σε λιπαρά· Φακές [όσπρια] κονσερβοποιημένα· Φακές [όσπρια] κονσερβοποιημένα· Διατηρημένη σόγια ως τρόφιμο· Λαχανικά αποξηραμένα· Ταχίνι [πολτός σπόρων σουσαμιού].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Potato chips; Potato chips; Low-fat potato crisps; Lentils, preserved; Lentils, preserved; Soya beans, preserved, for food; Vegetables, dried; Tahini [sesame seed paste].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Patatas fritas; Patatas fritas; Patatas fritas con bajo contenido en grasa; Lentejas en conserva; Lentejas en conserva; Granos de soja en conserva para uso alimenticio; Verduras, hortalizas y legumbres secas; Ajonjolí (pasta de semillas de -) [tahini].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kartulilaastud, kartulikrõpsud; Kartulilaastud, kartulikrõpsud; Madala rasvasisaldusega kartulikrõpsud; Konservitud läätsed; Konservitud läätsed; Sojaoakonservid, konservitud sojaoad; Kuivatatud köögiviljad; Tahini [seesamiseemnepasta].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Perunalastut; Perunalastut; Vähärasvaiset perunalastut; Linssit, säilötyt; Linssit, säilötyt; Säilötyt soijapavut, ruuaksi; Vihannekset, kuivatut; Tahini [seesaminsiementahna].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Pommes chips; Pommes chips; Pommes chips à faible teneur en matières grasses; Lentilles [légumes] conservées; Lentilles [légumes] conservées; Graines de soja conservées à usage alimentaire; Légumes séchés; Tahini [pâte de graines de sésame].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Čips; Čips [prženi krumpirići]; Niskomasni čips od krumpira; Leća; Konzervirana leća; Konzervirano sojino zrno za prehranu; Povrće, sušeno; Tahini [pasta od sezamovog sjemena].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sültburgonya, chips; Sültburgonya, chips; Alacsony zsírtartalmú burgonyachipsek; Lencse, tartósított; Lencse, tartósított; Szójababkonzervek; Szárított zöldségek; Tahini [szezámmagkrém].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Patate chips; Patate chips; Patatine fritte a basso contenuto di grasso; Lenticchie [legumi] conservate; Lenticchie [legumi] conservate; Fagioli di soia conservati per uso alimentare; Verdura essiccata; Tahini [pasta di grani di sesamo].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Bulvių traškučiai; Bulvių traškučiai; Neriebūs bulvių traškučiai; Konservuoti lęšiukai; Konservuoti lęšiukai; Konservuotos sojų pupelės (maistui); Džiovintos daržovės; Sezamų sviestas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kartupeļu čipsi; Kartupeļu čipsi; Kartupeļu čipsi ar zemu tauku saturu; Konservētas lēcas; Konservētas lēcas; Konservētas sojas pupiņas pārtikai; Žāvēti dārzeņi; Tahini [sezama sēklu pasta].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Krisps tal-patata; Krisps tal-patata; Krisps tal-patata b'kontenut baxx ta' xaħam; Għads, preservat; Għads, preservat; Sojja, ippreservata, għall-ikel; Ħaxix, imnixxef; Tahini [pejst taż-żerriegħa tal-ġulġlien].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Gebakken aardappelschijfjes [chips]; Gebakken aardappelschijfjes [chips]; Light chips; Linzen, geconserveerd; Linzen, geconserveerd; Sojabonen, geconserveerd, voor voedingsdoeleinden; Gedroogde groenten; Tahini [sesamzaadpasta].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Chipsy ziemniaczane; Chipsy ziemniaczane; Czipsy o niskiej zawartości tłuszczu; Soczewica konserwowana; Soczewica konserwowana; Soja konserwowa do użytku spożywczego; Warzywa suszone; Tahini [pasta z ziarna sezamowego].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Batatas fritas estaladiças; Batatas fritas estaladiças; Batatas fritas com baixo teor de gordura; Lentilhas em conserva; Lentilhas em conserva; Grãos de soja, em conserva, para a alimentação; Legumes secos; Tahini [pasta de semente de sésamo].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Chips-uri; Chips-uri; Chipsuri de cartofi cu conţinut redus de grăsime; Linte [legume] conservată; Linte [legume] conservată; Boabe de soia conservate, de uz alimentar; Legume uscate; Tahini [pastă de seminţe de susan].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zemiakové lupienky; Zemiakové lupienky; Nízkotučné zemiakové lupienky; Konzervovaná šošovica; Konzervovaná šošovica; Konzervované sójové bôby (potraviny); Sušená zelenina; Tahini (nátierka zo sezamových jadier).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Ocvrt krompirček; Ocvrt krompirček; Čips z nizko vsebnostjo maščob; Leča, konzervirana; Leča, konzervirana; Konzervirana soja, za prehrano; Posušena zelenjava; Tahini [namaz iz sezamovih semen].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Potatischips; Potatischips; Fettsnåla potatischips; Konserverade linser; Konserverade linser; Konserverade sojabönor; Torkade grönsaker; Tahini [sesamfröpasta].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/083</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/155</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082697</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>93280</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

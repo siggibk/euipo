@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T17:01:15</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226143</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226143</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>VAYO</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Майонеза; Имитация на майонеза; Веганска майонеза; Майонеза с кисели краставички; Паста за мазане на основата на майонеза; Сосове на основата на майонеза; Паста за мазане на основата на майонеза.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Majonéza; Náhražka majonézy; Veganská majonéza; Majonéza s nakládanou zeleninou; Lahůdkové pomazánky s majonézovým základem; Omáčky na bázi majonézy; Lahůdkové pomazánky s majonézovým základem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Mayonnaise; Erstatning for mayonnaise; Veganske mayonnaiser; Mayonnaise med pickles; Smørepålæg baseret på mayonnaise; Mayonnaise baserede saucer; Smørepålæg baseret på mayonnaise.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Mayonnaise; Mayonnaise-Imitat; Vegane Mayonnaise; Majonäse mit Pickles; Brotaufstriche auf Mayonnaisebasis; Soßen auf der Basis von Mayonnaise; Mayonnaiseaufstriche.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μαγιονέζα· Υποκατάστατα μαγιονέζας· Χορτοφαγική μαγιονέζα· Μαγιονέζα με τουρσιά· Αλλαντικά σε μορφή επαλείμματος με βάση τη μαγιονέζα· Σάλτσες με βάση τη μαγιονέζα· Αλλαντικά σε μορφή επαλείμματος με βάση τη μαγιονέζα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Mayonnaise; Imitation mayonnaise; Vegan mayonnaise; Mayonnaise with pickles; Mayonnaise-based spreads; Mayonnaise-based sauces; Mayonnaise-based spreads.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Mayonesa; Sucedáneo de mayonesa; Mahonesa vegana; Mayonesa con encurtidos; Cremas para untar a base de mayonesa; Salsas a base de mayonesa; Cremas para untar a base de mayonesa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Majonees; Tehismajonees; Taimne majonees; Majonees marineeritud aedviljadega; Majoneesipõhised määrded; Majoneesipõhised kastmed; Majoneesipõhised määrded.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Majoneesi; Majoneesin korvikkeet; Vegaanimajoneesi; Pikkelssimajoneesi; Majoneesipohjaiset levitteet; Majoneesipohjaiset kastikkeet; Majoneesipohjaiset levitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Mayonnaises; Succédanés de mayonnaise; Mayonnaise végétalienne; Mayonnaise aux pickles; Produits à tartiner à base de mayonnaise; Sauces à base de mayonnaise; Produits à tartiner à base de mayonnaise.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Majoneza; Imitacija majoneze; Veganska majoneza; Majoneza s kiselim voćem ili povrćem; Namazi na bazi majoneze; Umaci na bazi majoneze; Namazi na bazi majoneze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Majonéz; Majonéz utánzat; Vegán majonéz; Majonéz savanyúsággal; Majonéz-alapú krémek; Majonéz alapú szószok; Majonéz-alapú krémek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Maionese; Succedanei della maionese; Maionese vegana; Maionese con sottaceti; Prodotti spalmabili a base di maionese; Salse a base di maionese; Prodotti spalmabili a base di maionese.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Majonezas; Majonezo pakaitalas; Veganiškas majonezas; Majonezas su marinuotomis daržovėmis; Majonezo užtepai; Majonezo padažai; Majonezo užtepai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Majonēze; Majonēzes aizstājēji; Vegānu majonēze; Majonēze ar marinētiem dārzeņiem; Delikatesēm paredzētas mērces, kas gatavotas no majonēzes; Mērces uz majonēzes bāzes; Delikatesēm paredzētas mērces, kas gatavotas no majonēzes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Majoneż; Imitazzjoni tal-majoneż; Mayonnaise vegan; Majoneż bil-pikles; Dlik delizzjuż ibbażat fuq il-majoneż; Zlazi bbażati fuq il-majoneż; Dlik delizzjuż ibbażat fuq il-majoneż.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Mayonaise; Imitatiemayonaise; Veganistische mayonnaise; Mayonaise met pickles; Smeersels op basis van mayonaise; Sauzen op basis van mayonaise; Smeersels op basis van mayonaise.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Majonez; Imitacja majonezu; Majonez wegański; Majonez z piklami; Pasty do smarowania na bazie majonezu; Sosy na bazie majonezu; Pasty do smarowania na bazie majonezu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Maionese; Sucedâneo de maionese; Maionese vegana; Maionese com picles; Patés delicatessen e à base de maionese; Molhos à base de maionese; Patés delicatessen e à base de maionese.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Maioneză; Înlocuitor de maioneză; Maioneză vegană; Maioneză cu murături; Creme pe bază de maioneză; Sosuri pe bază de maioneză; Creme pe bază de maioneză.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Majonézy; Imitácia majonézy; Vegánska majonéza; Majonéza s nakladanou zeleninou; Lahôdkové pomazánky a pasty používané na majonézu; Omáčky na báze majonézy; Lahôdkové pomazánky a pasty používané na majonézu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Majoneza; Nadomestek za majonezo; Veganska majoneza; Majoneza z vloženo zelenjavo; Delikatesni namazi in premazi na osnovi majoneze; Omake na osnovi majoneze; Delikatesni namazi in premazi na osnovi majoneze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Majonnäs; Konstgjord majonnäs; Veganmajonäs; Majonnäs med pickles; Bredbara pålägg av majonnäs; Majonnäsbaserade såser; Bredbara pålägg av majonnäs.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

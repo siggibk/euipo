@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-07T12:14:29</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228812</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228812</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>KOALA LOVE</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162457194</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/228/018228812/000162457194.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>03.01.14</CategoryCode>
+          <CategoryCode>03.01.16</CategoryCode>
+          <CategoryCode>03.01.24</CategoryCode>
+          <CategoryCode>25.05.95</CategoryCode>
+          <CategoryCode>27.03.03</CategoryCode>
+          <CategoryCode>29.01.08</CategoryCode>
+          <CategoryCode>29.01.99</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Кафе; Заместители на кафе; Какао; Чай; Подправки; Напитки на основата на лайка; Билкови чайове [настойки]; Отвари от билки, за немедицински цели; Ароматни препарати за приготвяне на немедицински разтвори; Чай за настойки; Черен пипер; Подправки; Хранителни подправки; Подправки под формата на прахчета; Комбинирани подправки; Екстракти от подправки; Консервирани билки; Кулинарни билки; Обработени подправки; Сушени билки; Шафран [подправка за ястия]; Мед; Захар; Сиропи и меласи; Ориз; Паста; Фиде на лентички; Тапиока; Саго; Брашно; Зърнени храни; Хляб; Смес за сладкиши; Сладкарски изделия; Шоколад; Сладолед; Сорбети; Шербети, охладени [лед]; Мая; Бакпулвер; Сол; Пикантни подправки; Оцет; Сосове; Лед.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Káva; Náhražky kávy; Kakao; Čaj; Dochucovadla; Nápoje na bázi heřmánku; Bylinkové čaje (neléčivé); Tresti, ne léčebné; Aromatické přípravky k výrobě bylinných čajů; Čaj k luhování; Pepř; Koření; Potravinová koření; Koření v prášku; Kořenící směsi; Kořenicí výtažky; Konzervované byliny; Mořské řasy [ochucovadlo]; Zpracované bylinky; Sušené byliny; Šafrán [koření]; Med; Cukr; Zlatý sirup; Rýže; Těstoviny; Nudle; Tapioka; Ságo; Mouka; Přípravky z obilovin; Chléb; Cukrářské výrobky; Cukrovinky; Čokoláda; Vodová a smetanová zmrzlina; Vodová zmrzlina; Sorbety [zmrzliny]; Droždí; Kypřící prášek do pečiva; Sůl; Ochucovadla; Ocet; Omáčky; Led pro osvěžení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kaffe; Kaffeerstatning; Kakao; Te; Smagsstoffer [krydderier]; Drikke fremstillet på basis af kamille; Urteafkog [ikke til medicinsk brug]; Udtræk [urtetheer], ikke medicinske; Aromatiske præparater til fremstilling af infusioner (uden lægemidler); Teudtræk; Peber; Krydderier; Spiselige krydderier; Krydderier i pulverform; Krydderiproduktblandinger; Krydderiekstrakter; Konserverede urter; Tang [krydderi]; Forarbejdede urter; Tørrede urter; Safran [krydderi]; Honning; Sukker; Lys sirup; Ris; Pasta; Nudler; Tapioka; Sago; Mel; Kornpræparater; Brød; Konditorivarer; Konfekturevarer; Chokolade; Iscreme; Sorbet [sodavandsis]; Sherbetis; Gær; Bagepulver; Salt; Krydderier; Eddike; Saucer; Råis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kaffee; Kaffee-Ersatz; Kakao; Tee; Gewürzmischungen; Kamillengetränke; Nicht medizinische Tees; Kräutertees, nicht medizinische; Aromapräparate für die Zubereitung von nicht arzneimittelhaltigen Aufgüssen; Tee zum Aufgießen; Pfeffer; Gewürze; Würzmittel für Lebensmittel; Würzmittel in Pulverform; Gewürzmix; Gewürzextrakte; Konservierte Kräuter; Algen [Würzstoff]; Verarbeitete Kräuter; Getrocknete Kräuter; Safran [Gewürz]; Honig; Zucker; Sirup; Reis; Teigwaren; Nudeln; Tapioca; Sago; Mehl; Getreidepräparate; Brot; Backwaren [fein]; Zuckerwaren, Konfekt; Schokolade; Eiscreme; Wassereis; Sorbets [Speiseeis]; Hefe; Backpulver; Salz; Würzmittel; Essig; Soßen; Kühleis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καφές· Υποκατάστατα καφέ· Κακάο· Τσάι· Καρυκεύματα· Ροφήματα με βάση το χαμομήλι· Αφεψήματα βοτάνων· Αφεψήματα μη φαρμακευτικά· Αρωματικά παρασκευάσματα για μη φαρμακευτικά αφεψήματα· Τσάι για αφεψήματα· Πιπέρι· Μπαχαρικά· Βρώσιμα μπαχαρικά· Μπαχαρικά σε μορφή σκόνης· Μίγματα καρυκευμάτων· Εκχυλίσματα μπαχαρικών· Διατηρημένα βότανα· Φύκια [καρυκεύματα]· Επεξεργασμένα βότανα· Αποξηραμένα βότανα· Σαφράν [καρύκευματα]· Μέλι· Ζάχαρη· Σιρόπια και μελάσες· Ρύζι· Ζυμαρικά· Φιδές· Ταπιόκα· Σαγού· Αλεύρι· Δημητριακά· Άρτος· Γλυκά· Ζαχαρώδη· Σοκολάτα· Παγωτά που φτιάχνονται με γάλα ή με κρέμα γάλακτος· Παγωτά νερού (γρανιτες)· Γρανίτες [παγωτά ύδατος]· Μαγιά· Ζυμωτική σκόνη· Αλάτι· Μαγειρικά βότανα, μπαχαρικά· Ξύδι· Σάλτσες· Πάγος.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Coffee; Artificial coffee; Cocoa; Tea; Condiments; Chamomile-based beverages; Herbal infusions; Infusions, not medicinal; Aromatic preparations for making non-medicated infusions; Tea for infusions; Pepper; Spices; Alimentary seasonings; Spices in the form of powders; Seasoning mixes; Spice extracts; Preserved herbs; Seaweed [condiment]; Processed herbs; Dried herbs; Saffron [seasoning]; Honey; Sugar; Treacle; Rice; Pasta; Noodles; Tapioca; Sago; Flour; Cereal preparations; Bread; Pastries; Confectionery; Chocolate; Ice cream; Water ice; Sherbets [ices]; Yeast; Baking powder; Salt; Seasonings; Vinegar; Sauces; Ice for refreshment.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Café; sucedáneos del café; cacao; té; condimentos; bebidas a base de manzanilla; infusiones de hierbas; infusiones que no sean para uso médico; preparaciones aromáticas para hacer infusiones no medicinales; té para infusiones; pimienta; especias; especias comestibles; especias en polvo; especias mezcladas; extractos de especias; hierbas en conserva; hierbas culinarias; hierbas procesadas; hierbas secas; azafrán [condimento]; miel; azúcar; jarabe de melaza; arroz; pastas alimenticias; fideos; tapioca; sagú; harinas; preparaciones a base de cereales; pan; productos de pastelería; productos de confitería; chocolate; helados cremosos; Sorbete; Sorbetes [helados]; levadura; polvos de hornear; sal; productos para sazonar; vinagre; salsas; hielo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kohv; Kohvi aseained; Kakao; Tee; Maitseained; Kummelijoogid; Taimeteed; Leotised, v.a meditsiinilised; Ravitoimeta tõmmiste valmistamise lõhnaained; Tee tõmmiste tegemiseks; Pipar; Vürtsid; Toidumaitseained; Maitseained pulbri kujul; Maitseainesegud; Maitseaineekstraktid; Konserveeritud ürdid; Vetikad [maitseained]; Töödeldud ürdid; Kuivatatud ürdid; Safran [maitseaine]; Mesi; Suhkur; Kuldsiirup, melass; Riis; Pasta (makarontooted); Nuudlid; Tapiokk, maniokitärklis; Saago, saagotangud; Jahu; Teraviljasaadused; Leib, sai; Kondiitritooted; Maiustused; Šokolaad; Koore- või piimajäätis; Mahlajäätised; Sorbetid [mahlajäätised]; Pärm; Küpsetuspulber; Sool; Vürtsid, maitsetaimed; Äädikas; Kastmed; Jää.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kahvi; Kahvinkorvike; Kaakao; Tee; Mausteet; Kamomillapohjaiset juomat; Yrttiteet [hauteet]; Hauteet [paitsi lääkinnälliseen käyttöön]; Aromaattiset valmisteet lääkeaineita sisältämättömän haudutetun teen valmistukseen; Haudutettava tee; Pippuri; Mausteet; Syötävät mausteet; Mausteet jauheina; Mausteseokset; Mausteuutteet; Säilötyt yrtit; Ruokayrtit; Käsitellyt mausteyrtit; Kuivatut yrtit; Sahramimauste; Hunaja; Sokeri; Siirapit ja melassit; Riisi; Pasta; Nuudelit; Tapioka; Saagosuurimot; Jauhot; Viljavalmisteet; Leipä; Leivonnaiset; Sokerimakeiset; Suklaa; Jäätelöt; Mehujää; Mehujäätelöt; Hiiva; Leivinjauhe; Suola; Maustesekoitukset; Etikka; Kastikkeet; Jää.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Café; Succédanés du café; Cacao; Thé; Condiments; Boissons à base de camomille; Infusions à base de plantes; Infusions non médicinales; Préparations aromatisantes pour infusions non médicinales; Thé à infuser; Poivre; Épices; Assaisonnements alimentaires; Épices sous forme de poudres; Mélanges d'assaisonnements; Extraits d'épices; Herbes conservées; Herbes culinaires; Herbes traitées; Herbes séchées; Safran [assaisonnement]; Miel; Sucre; Sirop de mélasse; Riz; Pâtes alimentaires; Nouilles; Tapioca; Sagou; Farine; Préparations faites de céréales; Pain; Pâtisserie; Confiserie; Chocolat; Crèmes glacées; Sorbets; Sorbets [glaces alimentaires]; Levure; Poudre à lever; Sel; Assaisonnements; Vinaigres; Sauces [condiments]; Glace à rafraîchir.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kava; Nadomjesci kave; Kakao; Čaj; Začinski dodaci; Pića na bazi kamilice; Biljni čajevi; Nemedicinske infuzije; Aromatski pripravci za pravljenje nemedicinskih infuzija; Čajevi za infuzije; Papar; Začini; Prehrambeni začini; Začini u prahu; Začinske mješavine; Začinski ekstrakti; Konzervirano začinsko bilje; Kulinarski začini; Obrađeno začinsko bilje; Suhi začini; Šafran [začin]; Med; Šećer; Sirupi i melase; Riža; Prehrambena tjestenina; Rezanci; Tapioka; Sago [škrob iz jezgre palme sago]; Brašno; Žitarice; Kruh; Tijesto za kolače; Slastice; Čokolada; Sladoled; Vodeni sladoled; Sherbeti [sladoledi]; Pjenica [kvasac]; Prašak za dizanje; Sol; Mirodije; Ocat; Umaci; Led.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kávé; Pótkávé; Kakaó; Tea; Fűszerek, ízesítők; Kamilla-alapú italok; Gyógynövény forrázatok; Nem gyógyászati infúziók; Aromás készítmények nem gyógyhatású teák készítéséhez; Tea gyógyitalokhoz, főzetekhez; Bors; Fűszerek; Étkezési fűszerek; Por állagú fűszerek; Fűszerkeverékek, fűszerezéshez használt keverékek; Fűszerkivonatok; Tartósított gyógynövények; Fűszernövények; Feldolgozott gyógynövények; Szárított gyógynövények; Sáfrány [ételízesítő]; Méz; Cukor; Szirupok és melasz; Rizs; Lisztből készült tészták; Metélt tészta, nudli, galuska; Tápióka; Szágó; Liszt; Gabonakészítmények; Kenyér; Süteménytészta; Kandiscukor; Csokoládé; Fagylaltok és jégkrémek; Sörbetek, jégkásák; Szörbetek [fagylaltok]; Élesztő; Sütőpor; Só; Fűszerek; Ecet; Öntetek, szószok; Jég.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Caffè; Succedanei del caffè; Cacao; Tè; Condimenti; Bevande a base di camomilla; Infusi di erbe; Infusioni non medicinali; Preparati aromatici per infusi non medicinali; Tè per infusi; Pepe; Spezie; Condimenti alimentari; Condimenti in polvere; Miscele di condimenti; Estratti di spezie; Erbe (conservate); Erbe culinarie; Erbe lavorate; Erbe essiccate; Zafferano [condimenti]; Miele; Zucchero; Sciroppo di melassa; Riso; Paste alimentari; Tagliatelle; Tapioca; Sago; Farine alimentari; Preparati fatti di cereali; Pane; Pasticceria; Confetteria; Cioccolato; Gelati; Granita; Sorbetti [ghiacci edibili]; Lievito; Lievito in polvere; Sale; Aromatizzanti; Aceto; Salse; Ghiaccio.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kava; Kavos pakaitalai; Kakava; Arbata; Prieskoniai; Ramunėlių gėrimai; Vaistažolių užpilai; Negydomosios trauktinės (užpilai); Aromatiniai ruošiniai negydomiesiems užpilams gaminti; Arbata, skirta užpilams; Pipirai; Prieskoniai; Valgomieji prieskoniai; Pagardų milteliai; Prieskonių mišiniai; Prieskonių ekstraktai; Konservuotos prieskoninės žolės; Jūros dumbliai [prieskoniai]; Prieskoninės žolės [apdorotos]; Džiovintos prieskoninės žolelės; Šafranas [prieskonis]; Medus; Cukrus; Melasos sirupas; Ryžiai; Makaronų tešla; Lakštiniai [makaronai]; Tapijoka; Sago kruopos; Miltai; Grūdų produktai; Duona; Miltiniai konditerijos gaminiai; Konditerijos gaminiai; Šokoladas ir šokoladiniai saldainiai; Ledai; Sorbetai; Vaisiniai ledai; Mielės; Kepimo milteliai; Druska; Prieskoniai [kvapieji]; Actas; Padažai; Ledas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kafija; Kafijas aizstājēji; Kakao; Tēja; Garšvielu mērces; Dzērieni uz kumelīšu bāzes; Zāļu tējas; Zāļu tējas nemedicīniskiem nolūkiem; Aromātiski līdzekļi neārstniecisku uzlējumu pagatavošanai; Tējas uzlējumu pagatavošanai; Pipari; Garšvielas; Pārtikas garšvielas; Garšvielas pulvera veidā; Garšvielu maisījumi; Garšvielu ekstrakti; Konservēti garšaugi; Jūraszāles [garšvielas]; Apstrādāti garšaugi; Žāvēti augi; Safrāns [garšviela]; Medus; Cukurs; Melase; Rīsi; Makaroni; Nūdeles; Tapioka; Sāgo; Milti; Graudaugu produkti; Maize; Toršu mīkla; Konditorejas izstrādājumi; Šokolāde; Pārtikas ledus (atspirdzinājumam); Sorberts (augļu sulas saldējums); Sorbeti [saldējumi]; Raugs; Cepamais pulveris; Sāls; Garšaugi; Etiķis; Mērces; Pārtikas ledus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kafè; Kafè artifiċjali; Kawkaw; Tè; Kondimenti; Xorb ibbażat fuq il-kamomilla; Infużjonijiet tal-ħwawar; Infużjonijiet mhux medikati; Preparazzjonijiet aromatiċi għat-tħejjija ta' infużjonijiet mhux immedikati; Te għall-infużjonijiet; Bżar; Ħwawar; Taħwir alimentari; Ħwawar fil-forma ta' trab; Taħlitiet ta' ħwawar; Estratti tal-ħwawar; Ħxejjex aromatiċi ppriservati; Alka [kondiment]; Hwawar ipproċessati; Ħwawar nexfin; Żagħfran [taħwir]; Għasel; Zokkor; Xiropp u għasel iswed; Ross; Għaġin; Taljarini [noodles]; Tapjoka; Sagu; Dqiq; Ċereali; Ħobż; Għaġina tal-kejk; Ħelu; Ċikkulata; Silġijiet u ġelati; Graniti; Sorbetti; Ħmira; Trab tal-ħami; Melħ; Ħwawar; Ħall; Zlazi; Silġ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Koffie; Koffiesurrogaten; Cacao; Thee; Kruiden [specerijen]; Dranken op kamillebasis; Kruideninfusies; Kruidenaftreksels, niet voor geneeskundig gebruik; Aromatische preparaten voor de bereiding van niet-medicinale kruidenaftreksels; Thee infusies; Peper; Specerijen; Kruiderijen voor voedingsdoeleinden; Kruiderijen in poedervorm; Kruidenmixen; Kruidenextracten; Geconserveerde kruiden; Keukenkruiden; Bewerkte kruiden; Gedroogde kruiden; Saffraan [kruiden]; Honing; Suiker; Melassestroop; Rijst; Pasta's; Noedels; Tapioca; Sago; Meel; Graanpreparaten; Brood; Banketbakkerswaren; Suikergoed; Chocolade; Roomijs; Waterijs; Sorbets [consumptie-ijs]; Gist; Bakpoeder; Zout; Kruiderijen; Azijn; Sauzen; Ijs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kawa; Kawa nienaturalna; Kakao; Herbata; Przyprawy; Napoje na bazie rumianku; Napary ziołowe; Napary, inne niż do celów leczniczych; Preparaty aromatyczne do sporządzania herbat ziołowych nieleczniczych; Herbata do zaparzania; Pieprz; Przyprawy; Przyprawy spożywcze; Przyprawy w proszku; Mieszanki przypraw; Ekstrakty przypraw; Zioła konserwowane; Zioła do celów spożywczych; Zioła przetworzone; Zioła suszone; Szafran [przyprawa]; Miód; Cukier; Melasa; Ryż; Makarony; Makaron nitki; Tapioka; Sago; Mąka; Zboża; Chleb; Ciasto na wypieki; Wyroby cukiernicze; Czekolada; Lody; Lody wodne [sorbety]; Sorbety [lody]; Drożdże; Proszek do pieczenia; Sól; Przyprawy korzenne; Ocet; Sosy; Lód.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Café; Sucedâneos do café; Cacau; Chá; Condimentos; Bebidas à base de camomila; Infusões de ervas; Infusões, não medicinais; Preparações aromáticas para preparar infusões não medicinais; Infusões de chá; Pimenta; Especiarias; Condimentos alimentares; Especiarias em pó; Combinações de temperos; Extratos de especiarias; Ervas em conserva; Algas [condimentos]; Ervas transformadas; Ervas secas; Açafrão [tempero]; Mel; Açúcar; Xarope de melaço; Arroz; Massas alimentares [produtos farináceos]; Talharim [massas com ovos]; Tapioca; Sagú; Farinhas alimentares; Preparações à base de cereais; Pão; Produtos de pastelaria; Produtos de confeitaria; Chocolate; Cremes gelados; Granizados; Sorvetes [gelados]; Levedura; Fermento em pó; Sal; Temperos; Vinagres; Molhos; Gelo para refrescar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cafea; Înlocuitori de cafea; Cacao; Ceai; Condimente; Băuturi pe bază de muşeţel; Infuzii de plante; Infuzii, altele decât cele medicinale; Preparate aromate pentru prepararea infuziilor nemedicinale; Ceai pentru infuzii; Piper; Mirodenii; Condimente alimentare; Condimente sub formă de prafuri; Amestecuri condimentate; Extracte de condimente; Ierburi conservate; Plante aromatice pentru uz culinar; Plante aromatice (prelucrate); Ierburi uscate; Şofran [mirodenii]; Miere; Zahăr; Siropuri și melasă; Orez; Paste alimentare făinoase; Tăiţei; Tapioca; Sago; Făină; Cereale; Pâine; Torturi; Dulciuri; Ciocolată; Îngheţată; Şerbeturi; Şerbeturi [îngheţată]; Drojdie; Praf de copt; Sare; Mirodenii; Oţet; Sosuri; Gheaţă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Káva; Kávové náhradky; Kakao; Čaj; Chuťové prísady; Harmančekové nápoje; Bylinkové čaje; Bylinkové čaje (nie na lekárske použitie); Aromatické prípravky do neliečivých bylinných nálevov; Čaj na nálevy; Čierne korenie; Korenie; Chuťové prísady do jedla; Koreniny v práškovej podobe; Dochucovacie zmesi [koreniny]; Koreninové extrakty; Konzervované bylinky; Riasy (chuťové prísady); Spracované bylinky; Sušené bylinky; Šafran (korenie); Med; Cukor; Melasový sirup; Ryža; Cestoviny; Rezance; Tapioka; Ságo; Múka; Prípravky z obilnín; Chlieb; Jemné pečivárske výrobky; Cukrovinky; Čokoláda; Smotanové zmrzliny; Vodová zmrzlina; Šerbety (zmrzlinové nápoje); Droždie; Práškové droždie; Soľ; Koreniny; Ocot; Omáčky; Ľad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kava; Kavni nadomestki; Kakav; Čaj; Začimbni dodatki jedem (sol, kis, gorčica); Pijače na osnovi kamilice; Zeliščni čaji; Poparki brez zdravilnih učinkovin; Aromatični pripravki za pripravo poparkov brez zdravilnih učinkovin; Čaj za poparke; Poper; Začimbe; Začimbe za prehrano; Začimbe v prahu; Mešanice začimb; Ekstrakti začimb; Konzervirana zelišča; Kulinarična zelišča; Predelana zelišča; Sušena zelišča; Žafran [začimba]; Med; Sladkor; Sirupi, melasni sirupi; Riž; Testenine; Rezanci; Tapioka; Sago (škrobna moka iz stržena sagove palme); Moka; Žitarice; Kruh; Testo za torte; Slaščice; Čokolada; Sladoled; Sorbeti; Šerbet [vodni sladoled]; Kvas; Pecilni praški; Sol; Dišave, začimbe (rastlinskega izvora, največkrat v prahu); Kis; Omake; Led.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kaffe; Kaffeersättning; Kakao; Te; Smaktillsatser (såser); Kamomillbaserade drycker; Örtteer; Icke-medicinska infusioner; Aromatiska preparat för framställning av icke-medicinska infusioner; Te för infusion; Peppar; Kryddor; Kryddor för livsmedel; Smaktillsatser i pulverform; Kryddblandningar; Kryddextrakt; Konserverade örter; Örtkryddor; Behandlade örter; Torkade örter; Saffran [krydda]; Honung; Socker; Sirap; Ris; Pasta; Vermiceller; Tapioka; Sagogryn; Mjöl; Spannmål; Bröd; Kakdeg; Konfekt; Choklad; Isglass och glass; Sorbet; Vattenglass; Jäst; Bakpulver; Salt; Kryddor; Vinäger; Såser; Is.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/088</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>12552</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003128039</OppositionIdentifier>
+<OppositionDate>2020-08-10</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>016579724</ApplicationNumber>
+<ApplicationDate>2017-04-11</ApplicationDate>
+<RegistrationNumber>016579724</RegistrationNumber>
+<RegistrationDate>2018-12-04</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>Koala</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>824103</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>85222</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+<Opposition>
+<OppositionIdentifier>003128144</OppositionIdentifier>
+<OppositionDate>2020-08-11</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>DE</EarlierMarkCountryCode>
+<ApplicationNumber>396526209</ApplicationNumber>
+<ApplicationDate>1996-12-04</ApplicationDate>
+<RegistrationNumber>39652620</RegistrationNumber>
+<RegistrationDate>1997-02-06</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>KOALA</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>1113318</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11412</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+<Opposition>
+<OppositionIdentifier>003128279</OppositionIdentifier>
+<OppositionDate>2020-08-12</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion
+Unfair advantage /detriment to distinctiveness or repute</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>FR</EarlierMarkCountryCode>
+<ApplicationNumber>1466349</ApplicationNumber>
+<ApplicationDate>1988-05-10</ApplicationDate>
+<RegistrationNumber>1466349</RegistrationNumber>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>KOALA</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>FR</EarlierMarkCountryCode>
+<ApplicationNumber>1466349</ApplicationNumber>
+<ApplicationDate>1988-05-10</ApplicationDate>
+<RegistrationNumber>1466349</RegistrationNumber>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>KOALA</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>1560</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>10831</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

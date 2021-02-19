@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-29T09:52:44</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224678</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224678</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Aliruke</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162203890</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224678/000162203890.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Зарядни устройства за мобилни телефони за употреба в превозни средства; Калъфи, пригодени за мобилни телефони; Капаци за мобилни телефони; Връзки (аксесоари) за мобилни телефони; Зарядни устройства; Док станции за зареждане; Калъфи за мобилни телефони; Калъфи за таблетни компютри; Слушалки; Стойки, пригодени за мобилни телефони; Клавиатури за мобилни телефони; Клавиатури за таблети; Защитни тънкослойни покрития, пригодени за смартфони; Протектори за екрани от закалено стъкло за смартфони; Калъфи за мобилни телефони.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nabíječky baterií do mobilních telefonů pro použití ve vozidlech; Obaly na mobilní telefony; Kryty na mobilní telefony; Šňůrky na mobilní telefony; Nabíječky; Dobíjecí doky; Odklápěcí kryty na mobilní telefony; Flipová pouzdra na tablety; Sluchátka; Držáky na mobilní telefony; Klávesnice pro mobilní telefony; Klávesnice pro tablety; Ochranné fólie na chytré telefony; Tvrzená skla na ochranu displejů pro chytré telefony; Pouzdra na mobilní telefony.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Batteriopladere til mobiltelefoner til anvendelse i køretøjer; Etuier til mobiltelefoner; Mobiltelefonetuier; Mobiltelefonremme; Opladere; Dockingstationer til opladning; Flipcovers til mobiltelefoner; Flip covers til tablets; Hovedtelefoner; Holdere til mobiltelefoner; Tastaturer til mobiltelefoner; Tastaturer til tablets; Beskyttelsesfilm tilpasset til smartphones; Hærdet beskyttelsesglas til smartphones; Bæreetuier til mobiltelefoner.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Akkuladegeräte zum Gebrauch für Mobiltelefone in Fahrzeugen; Etuis für Mobiltelefone; Hüllen für Mobiltelefone; Riemen für Mobiltelefone; Ladegeräte; Ladedocks; Klapphüllen für Mobiltelefone; Klappetuis für Tablet-Computer; Kopfhörer; Halterungen für Mobiltelefone; Tastaturen für Mobiltelefone; Tastaturen für Tablet-Computer; Angepasste Schutzfolien für Smartphones; Displayschutz aus gehärtetem Glas für Mobiltelefone; Tragebehältnisse für Mobiltelefone.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φορτιστές μπαταριών κυψελοειδών τηλεφώνων για χρήση σε οχήματα· Θήκες για κινητά τηλέφωνα· Καλύμματα κινητών τηλεφώνων· Λουράκια για κινητά τηλέφωνα· Φορτιστές μπαταριών· Υποδοχές φόρτισης· Πτυσσόμενα καλύμματα για κινητά τηλέφωνα· Αναδιπλούμενα καλύμματα για ταμπλέτες-ηλεκτρονικούς υπολογιστές· Ακουστικά κεφαλής με μικρόφωνο· Υποδοχές για κινητά τηλέφωνα· Πληκτρολόγια για κινητά τηλέφωνα· Πληκτρολόγια για ηλεκτρονικούς υπολογιστές - ταμπλέτες· Προστατευτικές μεμβράνες προσαρμοσμένες για έξυπνα τηλέφωνα· Προστατευτικά οθόνης από άθραυστο γυαλί για έξυπνα τηλέφωνα· Θήκες μεταφοράς κινητών τηλεφώνων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Cell phone battery chargers for use in vehicles; Cell phone cases; Cell phone covers; Cell phone straps; Chargers; Charging docks; Flip covers for mobile phones; Flip covers for tablet computers; Headsets; Holders adapted for mobile phones; Keyboards for mobile phones; Keyboards for tablets; Mobile phone cases; Protective films adapted for smartphones; Tempered glass screen protectors for smartphones; Carrying cases for cellular phones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cargadores de baterías de teléfonos móviles para vehículos; Estuches adaptados para teléfonos móviles; Fundas para teléfonos móviles; Cordones para teléfonos celulares; Cargadores; Plataformas de carga; Cubiertas levadizas para teléfonos móviles; Fundas abatibles para tabletas electrónicas; Cascos con micrófono; Soportes para teléfonos móviles; Teclados para teléfonos móviles; Teclados para ordenadores de tableta; Películas de protección para teléfonos inteligentes [smartphones]; Protectores de pantalla de vidrio templado para smartphones; Estuches para teléfonos móviles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Sõidukites kasutatavad mobiiltelefonide akulaadurid; Mobiiltelefonivutlarid; Mobiiltelefonide katted; Mobiiltelefonide rihmad; Akulaadurid; Laadimisjaamad; Mobiiltelefonide kahepoolsed kaaned; Tahvelarvutite kaitsekaaned; Mikrofoniga kõrvaklapid; Mobiiltelefonide jaoks kohandatud hoidikud; Mobiiltelefonide klahvistikud; Tahvelarvutite klaviatuurid; Nutitelefonide kaitsekiled; Nutitelefonide karastatud klaasist ekraanikaitsmed; Vutlarid, ümbrised mobiiltelefonide kaasaskandmiseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Matkapuhelinten akkulaturit ajoneuvoissa käytettäväksi; Matkapuhelinkotelot; Matkapuhelinten kotelot; Matkapuhelimen hihnat; Latauslaitteet; Lataustelakointiasemat; Matkapuhelimille tarkoitetut suojakannet; Päälle napsautettavat suojukset taulutietokoneita varten; Kuulokkeet; Matkapuhelimen pitimet; Matkapuhelinten näppäimistöt; Taulutietokoneiden näppäimistöt; Älypuhelimille tarkoitetut suojakalvot; Karkaistusta lasista valmistetut älypuhelimien näytönsuojukset; Matkapuhelinten kantokotelot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Chargeurs de batterie de téléphones cellulaires pour véhicules; Étuis pour téléphones portables; Housses pour téléphones portables; Cordonnets pour téléphones mobiles; Chargeurs; Postes de charge; Étuis à rabat pour téléphones mobiles; Étuis à rabat pour tablettes électroniques; Casques d'écoute; Supports spéciaux pour téléphones portables; Claviers pour téléphones mobiles; Claviers pour tablettes; Films de protection conçus pour ordiphones [smartphones]; Protections d’écran en verre trempé pour téléphones mobiles; Housses pour téléphones portables.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Punjači baterija mobitela za uporabu u vozilima; Futrole prilagođene za mobilne telefone; Navlake za mobitele; Trake za mobilne telefone; Punjači; Postaje za punjenje; Futrole na preklop za mobilne telefone; Futrole na preklapanje za tablet računala; Slušalice; Držači za mobilne telefone; Tipkovnice mobilnih telefona; Tipkovnice za tablet računala; Zaštitne folije prilagođene za pametne telefone; Zaštita od kaljenog stakla za zaslone pametnih telefona; Torbice za mobitele.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Járművekben használt akkumulátortöltők mobiltelefonokhoz; Mobiltelefonokhoz kialakított tokok; Tokok mobiltelefonokhoz; Szíjak, pántok mobiltelefonokhoz; Töltők; Töltő állomások; Rápattintós mobiltelefon tokok; Táblagépekhez való rápattintós borítók; Fejhallgatók; Mobiltelefonokhoz kialakított tartók; Billentyűzetek mobiltelefonokhoz; Billentyűzetek táblagépekhez; Védőfóliák okostelefonokhoz; Edzett üveg kijelzővédők okostelefonokhoz; Hordozótokok mobiltelefonokhoz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Caricabatteria da auto per telefoni cellulari; Custodie adattate per telefoni cellulari; Custodie per telefoni cellulari; Cinghie per cellulari; Caricatori; Stazioni di ricarica; Custodie ribaltabili per cellulari; Custodie rivoltabili per tablet pc; Cuffie per la musica; Supporti per telefoni cellulari; Tastiere per telefoni cellulari; Tastiere per tablet; Pellicola protettiva adattata per smartphone; Protezioni in vetro temperato per schermo di smartphone; Custodie per il trasporto di telefoni cellulari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mobiliojo ryšio telefonų baterijų automobiliniai įkrovikliai; Mobiliesiems telefonams pritaikyti dėklai; Mobiliųjų telefonų dangteliai; Mobiliųjų telefonų dirželiai; Įkrovikliai; Įkrovimo stotelės; Mobiliųjų telefonų atverčiamieji dangteliai; Planšetinių kompiuterių užsidarantieji dėklai; Ausinės; Laikikliai, pritaikyti mobiliesiems telefonams; Mobiliųjų telefonų klaviatūros; Planšetinių kompiuterių klaviatūros; Išmaniųjų telefonų ekranų apsauginės plėvelės; Grūdinto stiklo apsaugai išmaniųjų telefonų ekranams; Nešiojimo dėklai mobiliesiems telefonams.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mobilo tālruņu akumulatoru uzlādes ierīces izmantošanai transportlīdzekļos; Mobilo tālruņu futrāļi; Mobilo telefonu vāciņi; Mobilo telefonu aukliņas; Uzlādes ierīces; Uzlādes dokstacijas; Mobilo tālruņu atlokāmi maciņi; Planšetdatoru atlokāmie apvalki; Radioaustiņas; Mobilo telefonu turētāji; Tastatūras mobilajiem telefoniem; Klaviatūras planšetdatoriem; Aizsargplēves, kas īpaši paredzētas viedtālruņiem; Rūdīta stikla ekrānu aizsargi viedtālruņiem; Maciņi mobilo telefonu pārnēsāšanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ċarġers tal-batteriji għat-telefowns ċellulari għall-użu fil-vetturi; Kaxxetti adattati għat-telefowns ċellulari; Għata għat-telefowns ċellulari; Ċineg tat-telefons ċellulari; Ċarġers; Dokks għall-iċċarġjar; Kavers li jinfetħu għall-mowbajls; Kavers li jinfetħu għall-kompjuters tat-tip tablet; Kuffji; Pokits adattati għal telefons ċellulari; Tastieri għal telefoni ċellulari; Tastieri għal tablets; Films protettivi adattati għal smartfowns; Protetturi tal-iskrins tal-ismartfowns tal-ħġieġ ittemprat; Pokits li fihom iżżomm it-telefons ċellulari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Batterijopladers voor mobiele telefoons, voor gebruik in voertuigen; Hoesjes voor mobiele telefoons; Hoesjes voor mobiele telefoons; Koordjes voor mobiele telefoons; Laders; Laadstations; Flip covers voor mobiele telefoons; Hoesjes met klep voor tabletcomputers; Hoofdtelefoons; Houders voor mobiele telefoons; Toetsenborden voor mobiele telefoons; Toetsenborden voor tabletten; Beschermende folie aangepast aan smartphones; Beeldschermbeschermers van gehard glas voor smartphones; Aangepaste etuis voor mobiele telefoons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Ładowarki do telefonów komórkowych, do użytku w pojazdach; Futerały dopasowane do telefonów komórkowych; Osłony na telefony komórkowe; Paski do telefonów komórkowych; Ładowarki; Stacje dokujące; Etui z klapką do telefonów komórkowych; Pokrowce z klapką do tabletów; Słuchawki [zakładane na głowę]; Uchwyty przystosowane do telefonów komórkowych; Klawiatury do telefonów komórkowych; Klawiatury do tabletów; Folie ochronne dostosowane do smartfonów; Ochraniacze na ekran do smartfonów ze szkła hartowanego; Etui na telefony komórkowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Carregadores de baterias de telemóveis para usar em veículos; Bolsas adaptadas para telemóveis; Capas para telemóveis; Correias para telefones móveis; Carregadores; Estações de carregamento; Capas protetoras para telemóveis; Estojos de tipo carteira para computadores "tablet"; Auriculares; Suportes ajustados para telemóveis; Teclados para telemóveis; Teclados para tablets; Películas protetoras adaptadas para smartphones; Protetores de ecrã de vidro temperado para telefones inteligentes; Estojos de transporte para telefones celulares.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Încărcătoare de baterii de telefoane mobile destinate utilizării în vehicule; Etuiuri pentru telefoane mobile; Carcase pentru telefoane mobile; Curele pentru telefonul mobil; Incarcatoare; Baze pentru încărcare; Huse de tip flip pentru telefoane mobile; Cutii flip pentru calculatoare tabletă; Căști; Suporturi adaptate pentru telefoane mobile; Tastaturi pentru telefoane mobile; Tastaturi pentru tablete; Folii de protecție adaptate pentru telefoane inteligente; Protecții de ecran, din sticlă călită, pentru telefoane inteligente; Etuiuri pentru telefoanele celulare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nabíjačky batérií pre mobilné telefóny, používané vo vozidlách; Puzdrá na mobilné telefóny; Obaly na mobilné telefóny; Šnúrky na mobilné telefóny; Nabíjačky; Nabíjacie doky; Otočné kryty mobilných telefónov; Kryty pre tabletové počítače; Slúchadlá s mikrofónom; Držiaky na mobilné telefóny; Klávesnice pre mobilné telefóny; Klávesnice na elektronické tablety; Ochranné fólie na smartfóny; Chrániče obrazovky pre smartfóny z temperovaného skla; Puzdrá na nosenie mobilných telefónov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Polnilniki za baterije mobilnih telefonov, ki se uporabljajo v vozilih; Etuiji za mobilne telefone; Ovitki za mobilne telefone; Trakovi za prenosne telefone; Polnilci; Polnilne postaje; Etuiji s platnicami za mobilne telefone; Preklopne platnice za tablične računalnike; Slušalke; Držala, prilagojena za mobilne telefone; Tipkovnice za mobilne telefone; Tipkovnice za tablične računalnike; Zaščitne folije, prilagojene za pametne telefone; Zaščitna kaljena stekla za ekrane pametnih telefonov; Etuiji za mobilne telefone.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Batteriladdare till mobiltelefoner för användning i fordon; Fodral anpassade för mobiltelefoner; Mobiletelefonfodral; Band för mobiltelefoner; Laddningsanordningar; Laddningsdockor; Vikfodral för mobiltelefoner; Vikbara fodral för datorplattor; Headsets; Mobiltelefonhållare; Tangentbord för mobiltelefoner; Tangentbord till surfplattor; Skyddsfilm för smartphones; Skärmskydd av härdat glas för smartphones; Bärfodral för mobiltelefoner.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/141</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079069</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>71845</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

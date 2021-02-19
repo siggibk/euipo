@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-17T09:59:32</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229858</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229858</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-13</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>LANZETTA</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162506546</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229858/000162506546.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.11.02</CategoryCode>
+          <CategoryCode>26.11.12</CategoryCode>
+          <CategoryCode>26.11.25</CategoryCode>
+          <CategoryCode>27.05.21</CategoryCode>
+          <CategoryCode>27.99.12</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>29</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Маслини [обработени]; Маслини, консервирани; Готвени маслини; Маслини, сушени; Маслини с пълнеж; Паста от маслини; Пюре от маслини; Консервирани обработени маслини; Обработено маслинено пюре; Масла за храна; Зехтин; Студено пресован зехтин екстра качество; Риба в зехтин; Саламури; Консервирани зеленчуци [в олио].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Olivy [zpracované]; Konzervované olivy; Vařené olivy; Olivy, sušené; Plněné olivy; Olivová pasta; Olivové pyré; Konzervované zpracované olivy; Zpracované olivové pyré; Potravinářské oleje; Olivový olej; Extra panenský olivový olej; Ryby v olivovém oleji; Kvašená zelenina; Konzervovaná zelenina (v oleji).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Tilberedte oliven; Oliven, konserverede; Kogte oliven; Tørrede oliven; Fyldte oliven; Olivenpasta; Olivenpuré; Forarbejdede oliven på dåse; Forarbejdet olivenpuré; Olier til brug som næringsmiddel; Olivenolie; Ekstra jomfruolivenolie til brug som næringsmiddel; Fisk i olivenolie; Pickles; Konserverede grøntsager [i olie].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Zubereitete Oliven; Konservierte Oliven; Oliven, gekocht; Oliven, getrocknet; Gefüllte Oliven; Olivenpasten; Olivenpüree; Konservierte verarbeitete Oliven; Verarbeitetes Olivenpüree; Speiseöle; Olivenöl; Extranatives Olivenöl für Speisezwecke; Fisch in Olivenöl; Pickles; In Öl eingelegtes Gemüse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ελιές, [επεξεργασμένες]· Ελιές κονσερβοποιημένες· Μαγειρεμένες ελιές· Αποξηραμένες ελιές· Γεμιστές ελιές· Πάστα ελιάς· Πουρές ελιάς· Κονσερβοποιημένες επεξεργασμένες ελιές· Επεξεργασμένος πουρές ελιάς· Εδώδιμα έλαια· Ελαιόλαδο· Εξαιρετικό παρθένο ελαιόλαδο· Ψάρι σε ελαιόλαδο· Πίκλες· Διατηρημένα λαχανικά [σε λάδι].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Olives, [prepared]; Olives, preserved; Cooked olives; Dried olives; Stuffed olives; Olive paste; Olive puree; Canned processed olives; Processed olive puree; Oils for food; Olive oil; Extra virgin olive oil for food; Fish in olive oil; Pickles; Preserved vegetables (in oil).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aceitunas preparadas; Aceitunas en conserva; Aceitunas cocidas; Aceitunas secas; Aceitunas rellenas; Pasta de aceitunas; Puré de aceitunas; Aceitunas procesadas enlatadas; Puré de aceitunas preparado; Aceites para uso alimenticio; Aceite de oliva; Aceite de oliva virgen extra para uso alimenticio; Pescado en aceite de oliva; Encurtidos; Verduras, hortalizas y legumbres conservadas [en aceite].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Oliivid [töödeldud]; Oliivikonservid, konservitud oliivid; Kuumtöödeldud oliivid; Kuivatatud oliivid; Täidetud oliivid; Oliivipasta; Oliivipüree; Töödeldud ja konserveeritud oliivid; Töödeldud oliivipüree; Toiduõlid; Oliiviõli; Esimese külmpressi oliiviõli; Kala oliiviõlis; Marineeritud aedvili, piklid; Konserveeritud köögiviljad [õlis].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Käsitellyt oliivit; Oliivit, säilötyt; Oliivit valmiiksi valmistettuna; Oliivit kuivattuina; Täytetyt oliivit; Oliivitahna; Oliivipyree; Oliivijalosteet säilykkeinä; Oliivipyreejalosteet; Ravintoöljyt; Oliiviöljy; Kylmäpuristettu (extra) neitsytoliiviöljy; Kala oliiviöljyssä; Pikkelssit; Säilötyt kasvikset [öljyssä].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Olives préparées; Olives conservées; Olives cuites; Olives séchées; Olives farcies; Pâte d'olive; Purée d'olives; Olives préparées en conserve; Purée d'olive préparée; Huiles à usage alimentaire; Huile d'olive; Huile d'olive extra vierge à usage alimentaire; Poisson dans l'huile d'olive; Pickles; Légumes conservés dans l'huile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Masline [pripremljene]; Konzervirane masline; Kuhane masline; Sušene masline; Punjene masline; Pasta od maslina; Pire od maslina; Konzervirane obrađene masline; Obrađeni pire od maslina; Ulja za prehranu; Maslinovo ulje; Ekstra djevičansko maslinovo ulje; Riba u maslinovom ulju; Ukiseljeno povrće ili voće; Konzervirano povrće [u ulju].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Olajbogyók [feldolgozott]; Olajbogyó, tartósított; Olajbogyók, főve; Olajbogyók, szárítva; Töltött olajbogyók; Olívakrémek; Olajbogyópüré; Olívabogyó-konzerv [feldolgozott olívabogyóból]; Feldolgozott olívapép; Étkezési olajok; Olívaolaj; Extra szűz olívaolaj; Hal olívaolajban; Savanyúságok; Olajban tartósított zöldségek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Olive trasformate; Olive [pronte]; Olive conservate; Olive cotte; Olive secche; Olive ripiene; Pasta di olive; Paté di olive; Olive trattate in scatola; Pasta di olive lavorata; Olio ad uso alimentare; Olio di oliva; Olio extravergine di oliva; Pesce in olio d'oliva; Sottaceti; Ortaggi in conserva [sott'olio].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Paruoštos alyvuogės; Konservuotos alyvos; Termiškai apdorotos alyvuogės; Džiovintos alyvuogės; Įdarytos alyvuogės; Alyvuogių tyrės; Alyvuogių tyrė; Konservuotos apdorotos alyvuogės; Apdorotų alyvuogių tyrė; Aliejai (maistui); Alyvuogių aliejus; Aukščiausios kokybės pirmo spaudimo alyvuogių aliejus; Žuvis alyvų aliejuje; Pikuliai; Konservuotos daržovės (aliejuje).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Olīves, pagatavotas; Konservētas olīvas; Pagatavotas olīvas; Žāvētas olīvas; Pildītas olīvas; Olīvu pasta; Olīvu biezeņi; Konservētas apstrādātas olīvas; Apstrādāts olīvu biezenis; Pārtikas eļļas; Olīveļļa; Pirmā spieduma olīveļļa; Zivis olīveļļā; Mikspikli (marinādē konservēti jaukti dārzeņi); Konservēti dārzeņi [eļļā].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Żebbuġ [preparat]; Żebbuġ ippreservat; Żebbuġ, imsajjar; Żebbuġ, imnixxef; Żebbuġ mimli; Pejst taż-żebbuġ; Puré taż-żebbuġ; Żebbuġ ipproċessat fil-landa; Purè taż-żebbuġ ipproċessat; Żjut għall-ikel; Żejt taż-żebbuġa; Żejt ekstra verġni taż-żebbuġa; Ħut fiż-żejt taż-żebbuġa; Pikles; Ħaxix ippreservat [fiż-żejt].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Olijven [bereide]; Olijven, geconserveerd; Olijven, gekookt; Olijven, gedroogd; Gevulde olijven; Olijvenpasta; Olijvenpuree; Ingeblikte en bewerkte olijven; Bewerkte olijvenpuree; Oliën voor voeding; Olijfolie; Extra virgin olijfolie; Vis in olijfolie; Pickles; Geconserveerde groenten [in olie].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oliwki [przetworzone]; Oliwki konserwowane; Oliwki, gotowane; Oliwki, suszone; Oliwki nadziewane; Pasta z oliwek; Purée z oliwek; Przetworzone oliwki konserwowe; Przetworzone purée z oliwek; Oleje spożywcze; Oliwa z oliwek; Oliwa z oliwek z pierwszego tłoczenia; Ryby w oliwie z oliwek; Pikle; Warzywa konserwowane [w oleju].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Azeitonas [preparadas]; Azeitonas em conserva; Azeitonas cozinhadas; Azeitonas secas; Azeitonas recheadas; Pasta de azeitona; Puré de azeitonas; Azeitonas transformadas enlatadas; Puré de azeitona transformado; Óleos para alimentação; Azeite; Azeite extra virgem para alimentação; Peixe em azeite; Pickles [picles]; Legumes em conserva [em óleo].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Măsline [pregătite]; Măsline conservate; Măsline gătite; Măsline uscate; Masline umplute; Pastă de măsline; Piure de măsline; Măsline preparate, la conservă; Pastă de măsline, preparată; Uleiuri de uz alimentar; Ulei de măsline; Ulei de măsline extravirgin; Pește în ulei de măsline; Murături; Legume conservate [în ulei].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Spracované olivy; Konzervované olivy; Varené olivy; Sušené olivy; Plnené olivy; Pasta z olív; Olivové pyré; Spracované olivy v konzerve; Spracované olivové pyré; Potravinárske oleje; Olivový olej; Extra panenský olivový olej; Ryby v olivovom oleji; Nakladaná zelenina; Konzervovaná zelenina (v oleji).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pripravljene olive; Konzervirane olive; Kuhane olive; Sušene olive; Polnjene olive; Namaz iz oliv; Pire iz oliv; Konzervirane predelane olive; Pire iz predelanih oliv; Olja za prehrano; Olivno olje; Ekstra deviško olivno olje; Ribe v olivnem olju; Zelenjava v kisu ali slanici; Konzervirana zelenjava [v olju].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tillredda oliver; Konserverade oliver; Tillagade oliver; Torkade oliver; Fyllda oliver; Olivpasta; Olivpuré; Bearbetade oliver på burk; Puré av bearbetade oliver; Matoljor; Olivolja; Extra fin jungfruolja [olivolja]; Fisk i olivolja; Pickles; Konserverade grönsaker [i olja].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/084</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/154</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-14</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082747</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>16957</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

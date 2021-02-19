@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:09</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229002</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229002</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>DeliverBee Just Get It Ordered</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162453983</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229002/000162453983.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>03.13.04</CategoryCode>
+          <CategoryCode>03.13.24</CategoryCode>
+          <CategoryCode>11.01.03</CategoryCode>
+          <CategoryCode>11.01.04</CategoryCode>
+          <CategoryCode>24.15.02</CategoryCode>
+          <CategoryCode>26.05.01</CategoryCode>
+          <CategoryCode>26.11.21</CategoryCode>
+          <CategoryCode>26.11.99</CategoryCode>
+          <CategoryCode>29.01.04</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Маркетингови услуги в областта на ресторантьорството; Услуги за онлайн поръчки; Компютризирани услуги за поръчки чрез интернет; Извършване на поръчки за трети лица; Услуги за онлайн поръчки в областта на храна за вкъщи и доставка от ресторант.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Marketingové služby v oblasti restaurací; Online objednávkové služby; Počítačové on-line objednávky; Objednávkové služby (pro třetí strany); Online objednávkové služby odnášky jídla z restaurací a jeho donášky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Markedsføring inden for restaurationsbranchen; Online ordrebestilling for andre; Computerstyret onlinebestilling; Bestillingsservice for tredjemand; Online bestillingstjenester til restauranter med levering af mad ud af huset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Marketing in Bezug auf Restaurants; Online-Bestelldienste; Computergestützte Bestellannahme; Bestelldienste für Dritte; Bestelldienstleistungen [für Dritte]; Online-Bestelldienste von Restaurants mit Außer-Haus-Verkauf und Lieferservice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες εμπορίας (μάρκετινγκ) στον τομέα των εστιατορίων· Υπηρεσίες ηλεκτρονικών παραγγελιών· Υπηρεσίες τηλε-παραγγελιών· Υπηρεσίες παραγγελίας για λογαριασμό τρίτων· Υπηρεσίες ηλεκτρονικών παραγγελιών από εστιατόρια που παρέχουν φαγητό σε πακέτο και διανομή.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Marketing services in the field of restaurants; Online ordering services; Computerized on-line ordering services; Ordering services for third parties; On-line ordering services in the field of restaurant take-out and delivery.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de marketing en materia de restaurantes; Servicios de pedidos de compra en línea; Servicios informatizados de pedidos en línea; Servicios de pedidos [para terceros]; Servicios de gestión de pedidos en línea relacionados con comida para llevar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Turundusteenused restoranide valdkonnas; Veebi kaudu tellimise teenused; Arvutipõhised veebist tellimise teenused; Tellimisteenused kolmandatele isikutele; Veebi kaudu tellimise teenused restoranidest kaasaostmise ja kohaletoimetamise valdkonnas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Markkinointipalvelut ravintola-alalla; Verkkotilauspalvelut; Tietokoneistetut online-tilauspalvelut; Tilauspalvelut [muille]; Verkkotilauspalvelut noutoravintola- ja toimitusravintolapalvelujen alalla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Marketing dans le domaine des restaurants; Services de commande en ligne; Services informatisés de commande en ligne; Services de traitement administratif de commande d'achat pour le compte de tiers; Services de commande en ligne pour le domaine de la vente à emporter et de la livraison de produits de restauration.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Marketinške usluge u području restorana; Usluge online naručivanja; Usluge kompjuteriziranog online naručivanja; Usluge naručivanja za treće osobe; Usluge online naručivanja u području naručivanja hrane za van i dostave.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Marketing-szolgáltatások az éttermek területén; Online rendelési szolgáltatások; Számítógépesített on-line rendelési szolgáltatások; Rendelési szolgáltatások megbízásra; Online rendelési szolgáltatások az éttermi elvitel és házhozszállítás területén.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di marketing in materia di ristoranti; Servizi di ordinazione online; Servizi informatizzati per ordinazioni online; Servizi di ordinazione per conto terzi; Servizi di ordinazione online nel settore della vendita per asporto e della consegna a domicilio di prodotti di ristorazione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Restoranų verslo rinkodaros paslaugos; Užsakymų internetu paslaugos; Kompiuterizuotų užsakymų internetu paslaugos; Užsakymų paslaugos [trečiosioms šalims]; Užsakymo internetu paslaugos maisto išsinešimo iš restoranų ir jo pristatymo srityje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mārketinga pakalpojumi restorānu jomā; Tiešsaistes pasūtījumu pakalpojumi; Datorizēti pasūtīšanas pakalpojumi tiešsaistē; Pasūtījumu veikšana [trešajām personām]; Tiešsaistes pasūtīšanas pakalpojumi restorāna ēdiena līdzi ņemšanas un piegādes jomā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' marketing fil-qasam tar-ristoranti; Servizz ta' kontroll onlajn; Servizzi kompjuterizzati ta' ordnijiet mill-Internet; Servizzi ta' ordnijiet għal terzi persuni; Servizzi ta' ordnar onlajn fil-qasam tar-restoranti li joffru servizz ta' ikel għal barra u servizz ta' kunsinna ta' ikel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Marketingdiensten op het gebied van restaurants; Onlinebesteldiensten; Geautomatiseerde onlinebesteldiensten; Administratieve diensten bij het plaatsen van bestellingen; Onlinebesteldiensten op het gebied van het afhalen en bezorgen van maaltijden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi marketingowe w dziedzinie restauracji; Usługi w zakresie zamówień online; Skomputeryzowane usługi w zakresie składania zamówień online; Usługi w zakresie zamówień na rzecz osób trzecich; Usługi w zakresie zamówień online w dziedzinie restauracji oferujących posiłki na wynos oraz z dostawą na miejsce.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de marketing no âmbito de restaurantes; Serviços de encomendas on-line; Serviços informatizados online de ordens de compra; Serviços de encomendas para terceiros; Serviços de encomendas on-line na área de restaurantes de comida para levar e de entrega ao domicílio.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de marketing în domeniul restaurantelor; Servicii de comenzi online; Servicii de comenzi online computerizate; Servicii de comandă [pentru terți]; Servicii de comandă online în domeniul restaurantelor care oferă mâncare la pachet și livrare la domiciliu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Marketingové služby v oblasti reštaurácií; Objednávkové služby on-line; Služby online objednávania prostredníctvom počítačov; Objednávkové služby pre tretie osoby; Objednávkové služby on-line so zameraním na odnos hotového jedla z reštaurácie a donáškový servis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve trženja na področju restavracij; Storitve spletnega naročanja; Računalniške storitve spletnega naročanja; Storitve naročanja za tretje osebe; Storitve spletnega naročanja na področju restavracij, ki dostavljajo in kjer gostje odnesejo hrano s seboj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Marknadsföringstjänster avseende restauranger; Beställningstjänster online; Tjänster avseende datoriserad direktansluten beställning; Beställningstjänster för andras räkning; Online-beställningstjänster inom området för hämtning och leverans från restaurang.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Разработване на софтуер; Софтуер като услуги; Консултантски услуги в областта на софтуер като услуга [SaaS]; Проектантски услуги, свързани с ресторанти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vývoj softwaru; Software jako služba [SaaS]; Konzultační služby v oboru software jako služba (SAAS); Návrhářské služby pro restaurace.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Softwareudvikling; Software as a service [saas]; Rådgivning inden for software som en tjeneste (SaaS); Designvirksomhed i forbindelse med restauranter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Softwareentwicklung; Softwareentwicklungsleistungen; Software as a Service [SaaS]; Beratung im Bereich Software as a Service [SaaS]; Designdienstleistungen bezüglich Restaurants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ανάπτυξη λογισμικού για ηλεκτρονικούς υπολογιστές· Λογισμικό σαν υπηρεσία· Υπηρεσίες παροχής συμβουλών στον τομέα του λογισμικού ως υπηρεσίας· Υπηρεσίες σχεδιασμού σχετικά με εστιατόρια.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Software development; Software as a service [SaaS]; Consulting services in the field of software as a service [SaaS]; Design services in relation to restaurants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Desarrollo de software; Software como servicio [SaaS]; Servicios de consultoría en materia de software como un servicio [SaaS]; Servicios de diseño relacionados con restaurantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Tarkvara arendamine; Pilveteenused [SaaS]; Teenustarkvara [SaaS] valdkonna konsulteerimisteenused; Disainiteenused seoses restoranidega.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ohjelmistokehitys; Verkkosovelluspalvelut [SaaS]; Konsultointipalvelut verkkosovelluspalvelujen [SaaS] alalla; Ravintoloiden suunnittelupalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Développement de logiciels; Logiciel-service [SaaS]; Services d’assistance dans le domaine des services de logiciels-services (SaaS); Services de conception de restaurants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Razvoj softvera; Softver kao usluga [SaaS]; Usluge savjetovanja u području softvera kao usluge (SAAS); Usluge projektiranja u svezi s restoranima.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Számítógépes szoftver fejlesztése; Szoftver mint szolgáltatás [SaaS]; Szoftverszolgáltatásokkal (SAAS) kapcsolatos konzultáció; Éttermekkel kapcsolatos tervezési szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Sviluppo di software; Servizi di software [SaaS]; Servizi di consulenza in materia di software come servizio [SaaS]; Servizi di progettazione di ristoranti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Programinės įrangos tobulinimas; Programinė įranga kaip paslauga [SaaS]; Programinės įrangos kaip paslaugos [SaaS] konsultacijos; Projektavimo paslaugos, susiję su restoranais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Programmatūras izstrāde; Programmatūra kā pakalpojums (SaaS); Konsultāciju pakalpojumi programmatūras kā pakalpojums (SAAS) jomā; Pakalpojumi restorānu projektēšanas jomā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Żvilupp ta' softwer; Softwer bħala servizz [SaaS]; Servizzi ta' konsulenza fil-qasam tas-softwer bħala servizz [SAAS]; Servizzi ta' disinn dwar ir-restoranti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ontwikkeling van software; Ter beschikking stellen van software [SaaS]; Advisering op het gebied van het ter beschikking stellen van software [SaaS]; Restaurants (Ontwerp met betrekking tot -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Opracowywanie oprogramowania komputerowego; Oprogramowanie jako usługa [SaaS]; Usługi doradztwa w zakresie oprogramowania jako usługi [SaaS]; Usługi projektowania w zakresie restauracji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Desenvolvimento de software; Software como serviço [SaaS]; Serviços de consultadoria no domínio do software como serviço [SaaS]; Serviços de design relacionados com restaurantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dezvoltare de software; Software ca serviciu [SaaS]; Consultanță în domeniul software-ului ca serviciu [SAAS]; Servicii de design pentru restaurante.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vývoj počítačového softvéru; Poskytovanie softvéru prostredníctvom internetu (SaaS); Konzultačné služby v oblasti softvéru ako služby [SaaS]; Dizajnérske služby v spojitosti s reštauráciami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Razvoj programske opreme; Programska oprema kot storitev [SaaS]; Svetovalne storitve na področju programske opreme kot storitve [SaaS]; Oblikovalske storitve v zvezi z restavracijami.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Utveckling av mjukvara; Molntjänster [SaaS]; Rådgivning avseende molntjänster [SaaS]; Designtjänster avseende restauranger.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>43</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги, свързани с резервации за ресторанти; Резервация на места в ресторанти; Предоставяне на рецензии за ресторанти; Услуги на барове и ресторанти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Rezervace v restauracích (služby); Rezervace míst v restauraci; Poskytování recenzí restaurací; Restaurační a barové služby.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Restaurationsbestilling; Bordbestilling i restauranter; Anmeldelse af restauranter; Bar- og restaurantvirksomhed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Restaurantreservierungen; Tischreservierung in Restaurants; Bereitstellen von Restaurantkritiken; Dienstleistungen von Bars und Restaurants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες κρατήσεων σε εστιατόρια· Κρατήσεις τραπεζιών σε εστιατόρια· Παροχή κριτικών για εστιατόρια· Υπηρεσίες μπαρ και εστιατορίου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Restaurant reservation services; Booking of restaurant seats; Providing reviews of restaurants; Bar and restaurant services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de reserva en restaurantes; Reserva de mesas en restaurantes; Suministro de críticas de restaurantes; Servicios de bar y restaurante.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Restoranide reserveerimisteenused; Restoranikohtade reserveerimine; Restoraniarvustuste pakkumine; Baari- ja restoraniteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ravintoloiden varauspalvelut; Ravintoloiden pöytävaraukset; Ravintolakatsausten tarjoaminen; Baari- ja ravintolapalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de réservation de restaurants; Réservation de tables de restaurants; Fourniture d'avis sur des restaurants; Services de bars et de restaurants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge rezerviranja restorana; Rezerviranje sjedala u restoranima; Usluge ocjenjivanja restorana i barova; Barske i restoranske usluge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Éttermi foglalási szolgáltatások; Éttermi asztalfoglalás; Éttermek értékelései; Bár- és éttermi szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Prenotazione di ristoranti; Prenotazione di tavoli in ristoranti; Fornitura di rassegne riguardanti ristoranti; Servizi di bar e ristorante.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Restoranų rezervavimo paslaugos; Vietų restorane užsakymas; Restoranų apžvalgų teikimas; Barų ir restoranų paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Restorānu rezervēšanas pakalpojumi; Galdiņu rezervēšana restorānā; Atsauksmju sniegšana par restorāniem; Bāru un restorānu pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' riservazzjoni ta' restoranti; Prenotazzjoni ta' postijiet f'restorant; Għoti ta' rivisti ta' ristoranti; Servizzi ta' bar u restorant.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Reserveringen voor restaurants; Reservering van plaatsen in een restaurant; Beoordelingen van restaurants; Diensten inzake bars en restaurants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi rezerwacji miejsc w restauracjach; Rezerwacja stolików w restauracjach; Udostępnianie opinii na temat restauracji; Usługi barów i restauracji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de reservas de restaurantes; Reserva de mesas em restaurantes; Serviços de crítica gastronómica; Serviços de restaurante e bar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de rezervări la restaurant; Rezervări la restaurant; Furnizarea de recenzii despre restaurante; Servicii de restaurant și bar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Služby rezervovania miest v reštauráciách; Rezervovanie miest v reštauráciách; Poskytovanie hodnotenia reštaurácií; Služby barov a reštaurácií.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve rezervacij za restavracije; Rezervacije miz v restavraciji; Ocenjevanje restavracij; Storitve barov in restavracij.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Restaurangbokningstjänster; Platsbokning på restaurang; Tillhandahållande av restaurangrecensioner; Bar- och restauranttjänster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>963518</Identifier>
+</ApplicantKey>
+<ApplicantKey>
+<Identifier>1081905</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

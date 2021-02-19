@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-03T09:03:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225924</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225924</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-09-01</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-03</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>MADAMA OLIVA</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162306221</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/225/018225924/000162306221.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>05.03.11</CategoryCode>
+          <CategoryCode>05.03.13</CategoryCode>
+          <CategoryCode>05.03.14</CategoryCode>
+          <CategoryCode>25.03.03</CategoryCode>
+          <CategoryCode>27.05.07</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>29</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Маслини, консервирани; Консервирана лупина; Преработените зеленчуци, по-специално натрошени и пасирани, приготвени със зехтин; Консервирани домати; Чесън, маринован; Консервирани люти чушки; Консервирани каперси; Артишок, консервиран.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Olivy konzervované; Konzervovaná lupina; Zpracovaná zelenina, zejména drcené a pěchované pomazánky na bázi oliv; Konzervovaná rajčata; Česnek, nakládaný; Konzervované feferonky; Konzervované kapary; Artyčoky, konzervované.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Oliven, konserverede; Konserverede lupiner; Forarbejdede grøntsager, især knuste og stødte på basis af oliven; Konserverede tomater; Hvidløg i lage; Konserverede chilier; Konserverede kapers; Konserverede artiskokker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Oliven [konserviert]; Lupinen (konserviert); Verarbeitetes Gemüse, insbesondere auf der Basis von gestoßenen und gehackten Oliven; Konservierte Tomaten; Knoblauch, eingelegt; Chili in Konserven; konservierte Kapern; Artischocken [konserviert].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ελιές κονσερβοποιημένες· Λούπινα διατηρημένα (κονσέρβες)· Επεξεργασμένα λαχανικά, ειδικότερα αλεσμένα και κοπανισμένα, με βάση την ελιά· Διατηρημένες ντομάτες· Σκόρδα, διατηρημένα· Τσίλι διατηρημένο σε κονσέρβα· Διατηρημένη κάππαρη· Αγκινάρες, διατηρημένες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Olives, preserved; Preserved lupin beans; Processed vegetables, in particular crushed and beaten olive-based vegetables; Tomato preserves; Garlic, pickled; Chillies, preserved; Preserved capers; Artichokes, preserved.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aceitunas en conserva; Altramuces en conserva; Hortalizas procesadas, en particular machacadas y amasadas a base de aceitunas; Conservas de tomate; Ajo en vinagre; Chiles conservados; Alcaparras en conserva; Alcachofas en conserva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Oliivikonservid, konservitud oliivid; Konservitud lupiiniseemned; Töödeldud aedviljad, eelkõige oliivipestod ja purustatud oliivisegud; Tomatikonservid/ Konservitud tomatid; Konserveeritud küüslauk; Paprikakonservid; Konservitud kappari; Konserveeritud artišokid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Oliivit, säilötyt; Säilötyt lupiinit; Käsitellyt, erityisesti survotut ja hienonnetut oliivipohjaiset vihannekset; Säilötyt tomaatit; Valkosipulit säilöttyinä; Säilykepaprikat; Säilötyt kaprikset; Säilötyt artisokat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Olives conservées; Lupins conservés; Légumes transformés, en particulier écrasés et hachés à base d'olives; Tomates en conserve; Ail mariné; Piments conservés; Câpres conservées; Artichauts conservés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Konzervirane masline; Konzervirane lupine; Obrađeno povrće, posebice zgnječeno i tučeno na bazi maslina; Konzervirane rajčice; Marinirani češnjak; Konzervirane ljute papričice; Konzervirani kapari; Konzervirane artičoke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Olajbogyó, tartósított; Tartósított lóbab; Feldolgozott, különösen passzírozott és préselt, olajbogyóval készülő zöldségek; Tartósított paradicsom; Fokhagyma, eltett; Tartósított erőspaprika; Tartósított kapor; Articsóka, tartósított.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Olive conservate; lupini conservati; ortaggi lavorati, in particolare pestati e battuti a base di olive; pomodori conservati; aglio marinato; peperoncini conservati; capperi conservati; carciofi conservati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Konservuotos alyvos; Konservuotos lubinų pupelės; Apdorotos daržovės, ypač alyvuogių pastos ir įdarai; Konservuoti pomidorai; Česnakai, marinuoti; Konservuoti aštrieji pipirai; Konservuoti kapariai; Konservuoti artišokai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Konservētas olīvas; Konservētas lupīnas; Apstrādāti dārzeņi, jo īpaši sasmalcināti un kapāti uz olīvu bāzes; Tomāti (konservēti); Ķiploki marinādē; Konservēti pipari; Konservēti kaperi; Konservēti artišoki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Żebbuġ ippreservat; Żerriegħa tal-lupin ippreservata; Ħaxix ipproċessat, b'mod partikolari mgħaffeġ u mħabbat ibbażat fuq iż-żebbuġ; Tadam ippreservat; Tewm, fil-pikles; Bżar ippreservat; Kappar ippreservat; Qaqoċċ, ippreservat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Olijven, geconserveerd; Geconserveerde lupinen; Verwerkte groenten, met name gemalen en gestampt, op basis van olijven; Geconserveerde tomaten; Knoflook, ingelegd; Geconserveerde Spaanse pepers; Geconserveerde kappertjes; Artisjokken, geconserveerd.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oliwki konserwowane; Łubin konserwowany; Warzywa przetworzone, w szczególności gniecione i siekane na bazie oliwek; Pomidory konserwowane; Czosnek, w zalewie; Ostra papryczka konserwowana; Kapary konserwowane; Karczochy konserwowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Azeitonas em conserva; Tremoços em conserva; Legumes processados, especificamente pastas de azeitonas; Conservas de tomate; Alho, em conserva; Pimentões em conserva; Alcaparras em conserva; Alcachofras em conserva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Măsline conservate; Lupin conservat; Legume procesate, în special pisate şi pasate, pe bază de măsline; Roşii conservate; Usturoi, conservat; Ardei iuţi conservaţi; Capere conservate; Anghinare, conservate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Olivy konzervované; Zakonzervovaný vlčí bôb; Spracovaná zelenina, najmä drvená na báze olív; Konzervované paradajky; Cesnak, nakladaný; Konzervované čili papričky; Konzervované kápie; Konzervované artičoky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Konzervirane olive; Konzervirani bobi; Obdelane vrtnine, zlasti zmlete in tolčene na osnovi oliv; Konzerviran paradižnik; Česen, mariniran; Konzervirani feferoni; Konzervirane kapre; Artičoke, konzervirane.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Konserverade oliver; Konserverade vitlupiner; Bearbetade grönsaker, speciellt malda och krossade olivbaserade produkter; Konserverade tomater; Vitlök, inlagd; Konserverad chilipeppar; Konserverad kapris; Kronärtskockor, konserverade.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Подправки, подправки и подправки; Риган; Подправки, приготвени със зехтин; Песто [сос].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Chuťové přísady, příchutě a koření; Oregano; Omáčky k ochucení na bázi oliv; Pesto [omáčka].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Krydderier, aromastoffer og smagsstoffer; Oregano; Krydderier fremstillet af oliven; Pesto [saucer].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Gewürzmischungen, Aromen und Gewürze; Oregano; Würzmittel auf Olivenbasis; Pesto [Soße].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καρυκεύματα, αρτυματικές ύλες και μπαχαρικά· Ρίγανη· Καρυκεύματα με βάση την ελιά· Πέστο [σάλτσα].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">condiments, flavouring and spices; Oregano; Olive-based condiments; Pesto [sauce].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Condimentos, aromatizantes y especias; orégano; Condimentos a base de aceitunas; Pesto [salsa].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Maitseained, vürtsid ja vürtsained; Pune; Oliivide baasil valmistatud maitseained; Pesto [kaste].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Aromiaineet, makuaineet ja mausteet; Oregano; Oliivipohjaiset mausteet; Pesto [kastike].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Condiments, arômes et épices; Origan; Condiments à base d'olives; Pesto [sauce].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Dodaci jelima, arome i začini; Origano; Dodaci jelima na bazi maslina; Pesto [umak].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Fűszerek, ízesítők, ízesítőszerek/aromák és fűszerek; Oregano; Olajbogyó alapú ételízesítők; Pesto [szósz].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Spezie, aromi e condimenti; origano; condimenti a base di olive; pesto [salsa].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Pagardai, kvėpikliai ir prieskoniai; Raudonėliai; Alyvuogių padažai; Pestas [padažas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Garšvielas, aromatizētāji un garšvielas; Parastā raudene; Garšvielas uz olīvu bāzes; Pesto [mērce].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kondimenti, togħmiet u ħwawar; Origanu; Kondimenti bbażati fuq iż-żebbuġ; Pesto [zalza].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kruiden, aromaten en specerijen; Oregano; Kruiden op basis van olijven; Pesto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Przyprawy, aromaty i przyprawy; Oregano; Preparaty do przyprawiania na bazie oliwek; Pesto [sos].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Condimentos, aromas e especiarias; Orégãos; Condimentos à base de azeitonas; Pesto [molhos].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Condimente, arome şi mirodenii; Oregano; Condimente pe bază de măsline; Pesto [sos].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Chuťové prísady, príchute a koreniny; Oregano; Prísady na báze olív; Pesto (bazalková omáčka).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Začimbe in arome; Origano; Začimbe na osnovi oliv; Pesto [omaka].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kryddade smaktillsatser i form av såser, smaktillsatser och kryddor; Oregano; Olivbaserade smaktillsatser; Pesto [sås].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/097</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-25</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/167</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-02</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>619944</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>12116</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

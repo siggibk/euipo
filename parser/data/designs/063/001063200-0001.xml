@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:45</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063200-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063200-0001</DesignIdentifier>
+<ApplicationNumber>001063200</ApplicationNumber>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-04-08</PublicationDate>
+<ApplicationReference>44721</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061755755</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0001/001063200_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755756</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0001/001063200_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755757</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0001/001063200_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755758</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0001/001063200_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755759</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063200_0001/001063200_0001_5.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Готварски съдове</IndicationProduct>
+       <IndicationProduct languageCode="cs">Kuchyňské potřeby</IndicationProduct>
+       <IndicationProduct languageCode="da">Køkkenredskaber</IndicationProduct>
+       <IndicationProduct languageCode="de">Kochgeräte</IndicationProduct>
+       <IndicationProduct languageCode="el">Μικρά σκεύη μαγειρικής χρήσης</IndicationProduct>
+       <IndicationProduct languageCode="en">Cooking utensils</IndicationProduct>
+       <IndicationProduct languageCode="es">Utensilios para cocinar</IndicationProduct>
+       <IndicationProduct languageCode="et">Köögis kasutatavad keedunõud</IndicationProduct>
+       <IndicationProduct languageCode="fi">Keittiövälineet</IndicationProduct>
+       <IndicationProduct languageCode="fr">Ustensiles de cuisine</IndicationProduct>
+       <IndicationProduct languageCode="hu">Főzőeszközök</IndicationProduct>
+       <IndicationProduct languageCode="it">Utensili per cucinare</IndicationProduct>
+       <IndicationProduct languageCode="lt">Valgio gaminimo reikmenys</IndicationProduct>
+       <IndicationProduct languageCode="lv">Ēdienu gatavošanas rīki</IndicationProduct>
+       <IndicationProduct languageCode="mt">Għodod tal-kċina</IndicationProduct>
+       <IndicationProduct languageCode="nl">Kookgerei</IndicationProduct>
+       <IndicationProduct languageCode="pl">Utensylia do gotowania</IndicationProduct>
+       <IndicationProduct languageCode="pt">Utensílios de cozinha</IndicationProduct>
+       <IndicationProduct languageCode="ro">Ustensile de gătit</IndicationProduct>
+       <IndicationProduct languageCode="sk">Kuchynské potreby</IndicationProduct>
+       <IndicationProduct languageCode="sl">Potrebščine za kuhanje</IndicationProduct>
+       <IndicationProduct languageCode="sv">Köksredskap</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>07.04</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/066</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-04-08</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325757</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2013/029</PublicationIdentifier>
+        <PublicationSequenceNumber>928992</PublicationSequenceNumber>
+        <PublicationSection>B.9.2</PublicationSection>
+        <PublicationDate>2013-02-11</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>51414</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>62060</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>006645133</RecordIdentifier>
+<BasicRecordKind>Appointment Replacement and Deletion of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>928992</PublicationSequenceNumber>
+           <PublicationSection>B.9.2</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2013-02-11</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

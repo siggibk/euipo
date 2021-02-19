@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T11:10:26</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229275</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229275</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SEEDRA</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162459184</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229275/000162459184.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>25.12.03</CategoryCode>
+          <CategoryCode>27.05.25</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>36</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Застрахователни услуги; Финансови сделки; Парични сделки; Бизнес свързан с недвижими имоти; Инвестиране на капитали; Финансови консултации; Управление на капитали; Финансови услуги; Услуги за финансиране и предоставяне на средства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pojišťovací služby; Služby finanční; Peněžní záležitosti; Služby v oblasti nemovitostí; Kapitálové investice; Finanční poradenství; Finanční řízení; Financování; Financování a poskytování finančních prostředků.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Forsikringsvirksomhed; Finansiel virksomhed; Valutarisk virksomhed; Ejendomshandelvirksomhed; Investering af kapital; Finansiel rådgivning; Finansiel styring; Finansiering; Tjenesteydelser i forbindelse med finansiering.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Versicherungsdienstleistungen; Finanzwesen; Geldgeschäfte; Immobilienwesen; Investmentgeschäfte; Finanzielle Beratung; Vermögensverwaltung; Finanzierungen; Finanzierungen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες ασφάλισης· Οικονομικές υπηρεσίες· Νομισματικές υποθέσεις· Κτηματομεσιτικές υποθέσεις· Επένδυση κεφαλαίων· Συμβουλευτική χρηματοοικονομική· Χρηματοοικονομική διαχείριση· Χρηματοδότησης (Υπηρεσίες -)· Υπηρεσίες χρηματοδότησης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Insurance; Financial affairs; Monetary affairs; Real estate affairs; Capital investments; Financial consultancy; Financial management; Financing services; Financing and funding services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de seguros; Servicios financieros; Servicios de negocios monetarios; Servicios de asuntos inmobiliarios; Inversión de capital; Consultoría financiera; Gestión financiera; Servicios de financiación; Servicios de financiación y recursos financieros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kindlustusteenused; Finantsteenused; Finantstehingud; Kinnisvarateenused; Kapitalimahutus; Finantskonsultatsioonid; Finantsjuhtimine; Finantseerimisteenused, rahastamisteenused; Finantseerimis- ja rahastamisteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Vakuutuspalvelut; Rahoituspalvelut; Raha-asiat; Kiinteistöasiat; Rahastosijoituspalvelut; Rahoituskonsultointi; Varainhoito; Rahoituspalvelut; Rahasto- ja rahoituspalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services d'assurances; Services financiers; Affaires monétaires; Affaires immobilières; Investissement de capitaux; Consultation en matière financière; Gestion financière; Services de financement; Services de financement.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Osiguravateljske usluge; Financijske usluge; Monetarni poslovi; Vođenje poslova u vezi s nekretninama; Ulaganja sredstava; Savjetovanje o financijskim pitanjima; Financijsko upravljanje; Usluge financiranja; Usluge financiranja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Biztosítási szolgáltatások; Pénzügyi szolgáltatások; Pénzügyek, pénzügyi szolgáltatások; Ingatlanügyletek; Tőkebefektetés, tőkeberuházás; Pénzügyi tanácsadás; Pénzügyi menedzsment; Finanszírozási szolgáltatások; Finanszírozási szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi assicurativi; Affari finanziari; Affari monetari; Servizi relativi ad affari immobiliari; Investimento di capitali; Consulenza in materia finanziaria; Amministrazione di patrimoni; Servizi di finanziamento; Servizi di finanziamento e di prestito.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Draudimo paslaugos; Finansinės paslaugos; Piniginių reikalų paslaugos; Nekilnojamojo turto operacijos; Kapitalo investavimas; Finansinės konsultacijos; Finansinės veiklos vadyba; Finansavimo paslaugos; Finansavimo paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Apdrošināšana; Finanšu pakalpojumi; Darījumi ar naudu; Darījumi ar nekustamo īpašumu; Pakalpojumi kapitālieguldījumu jomā; Konsultāciju sniegšana finanšu jomā; Finanšu pārvaldība; Finansēšanas pakalpojumi; Finansēšanas un kreditēšanas pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' assigurazzjoni; Servizzi f'finanzi; Affarijiet monetarji; Servizzi dwar kwistjonijiet tal-proprjeta immobbli; Investimenti kapitali; Konsulenza finanzjarja; Ġestjoni tal-finanzi; Servizzi ta' finanzjament; Servizzi ta' finanzjar u finanzjament.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Verzekeringsdiensten; Financiële diensten; Monetaire zaken; Onroerend-goed zaken; Kapitaalbelegging; Advisering op financieel gebied; Financieel beheer; Financieringen; Financieringsdiensten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi ubezpieczeniowe; Usługi finansowe; Sprawy monetarne; Usługi związane z majątkiem nieruchomym; Inwestycje kapitałowe; Doradztwo w sprawach finansowych; Zarządzanie finansami; Usługi finansowania; Usługi finansowania.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de seguros; Serviços financeiros; Negócios monetários; Serviços relacionados com a gestão imobiliária; Investimento de capitais; Consultadoria financeira; Administração financeira; Serviços de financiamento; Serviços de financiamento e fundos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de asigurare; Servicii financiare; Servicii de afaceri monetare; Afaceri imobiliare; Investiții de capital; Consultații în domeniul financiar; Management financiar; Servicii de finanțare; Servicii de finanțare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poisťovníctvo; Služby v oblasti finančníctva; Menové záležitosti; Záležitosti v oblasti nehnuteľností; Kapitálové investície; Finančné poradenstvo; Finančné riadenie; Financovanie (služby); Financovanie a poskytovanie finančných prostriedkov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Zavarovalniške storitve; Finančne storitve; Denarni posli; Nepremičninski posli; Finančne naložbe; Finančno svetovanje; Finančno upravljanje; Storitve financiranja; Storitve financiranja in investiranja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Försäkringsverksamhet; Finansiella tjänster; Tjänster rörande monetära frågor; Fastighetsaffärer; Investering av kapital; Finansiella konsultationer; Finansiell förvaltning; Finansieringstjänster; Tjänster avseende finansiering.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/081</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-30</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/150</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082029</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>13354</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

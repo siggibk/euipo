@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-17T10:50:06</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229808</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229808</ApplicationNumber>
+<ApplicationDate>2020-04-26</ApplicationDate>
+<RegistrationDate>2020-09-15</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-26</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>FlePow</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162491844</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229808/000162491844.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.22</CategoryCode>
+          <CategoryCode>27.99.06</CategoryCode>
+          <CategoryCode>27.99.16</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Устройства за четене на карти; Поставки, пригодени за таблетни компютри; Четящи устройства за флаш карти; Писалки за сензорен екран; Подложки за мишки; Микрофони; Калъфи, пригодени за мобилни телефони; Поставки, пригодени за мобилни телефони; Аудио смесителни конзоли; Компютърни памети; Видео мултиплексори; USB зарядни устройства; USB хъбове; Безжични зареждащи устройства; Портативни медиа плейъри; Стик за „селфи" [ръчни моноподи]; Периферни устройства, пригодени за използване с компютри; Входящи устройства за компютри; Защитни тънкослойни покрития, пригодени за смартфони; Монитори с плосък екран; Зарядни устройства; Електронно задвижвани захранващи устройства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Čtečky karet; Stojany přizpůsobené pro tabletové počítače; Čtečky paměťových flash karet; Pera pro dotykové obrazovky; Podložky pod myš; Mikrofony; Obaly na mobilní telefony; Stojany přizpůsobené pro mobilní telefony; Zvukové mixážní konzoly; Paměťová zařízení počítačů; Video multiplexory; USB nabíječky; USB huby; Bezdrátové nabíječky; Přenosné multimediální přehrávače; Selfie tyče [ruční monopody]; Periferní zařízení počítačů; Vstupní zařízení pro počítače; Ochranné fólie na chytré telefony; Ploché obrazovky; Nabíječky baterií; Elektronické zdroje napájení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kortlæserudstyr; Holdere til tavlecomputere; Læsere til flashkort; Penne til berøringsfølsomme skærme; Musemåtter; Mikrofoner; Etuier til mobiltelefoner; Holdere til mobiltelefoner; Lydmikserpulte; Computerhukommelsesenheder; Videomultipleksere; USB-opladere; USB-hubs; Trådløse opladere; Bærbare medieafspillere; Selfiestænger [håndholdte etbenede stativer]; Perifere enheder tilpasset til brug med computere; Anordninger til input til PCer; Beskyttelsesfilm tilpasset til smartphones; Fladskærme; Opladere til batterier; Elektroniske strømforsyningsenheder.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kartenlesegeräte; Halterungen für Tablet-Computer; Speicherkartenlesegeräte; Touchscreen-Stifte; Mauspads [Mausmatten]; Mikrofone; Etuis für Mobiltelefone; Angepasste Halter für Mobiltelefone; Tonmischpulte; Speichergeräte für Datenverarbeitungsanlagen; Videomultiplexer; USB-Ladegeräte; USB-Hubs; Kabellose Ladegeräte; Tragbare Abspielgeräte; Selfie-Sticks [Handstative]; An Computer angepasste Peripheriegeräte; Computereingabegeräte; Angepasste Schutzfolien für Smartphones; Flachbildschirme; Ladegeräte für Akkumulatoren; Elektronische Stromversorgungsgeräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Εξοπλισμός ανάγνωσης καρτών· Βάσεις για ηλεκτρονικούς υπολογιστές-ταμπλέτες· Αναγνώστες καρτών μνήμης φλας· Στυλογράφοι για οθόνες αφής· Προστατευτικές βάσεις για ποντίκια (ηλεκτρονικών υπολογιστών)· Μικρόφωνα· Θήκες για κινητά τηλέφωνα· Βάσεις για κινητά τηλέφωνα· Κονσόλες μίξης ήχου· Διατάξεις μνήμης ηλεκτρονικών υπολογιστών· Πολυπλέκτες μαγνητοσκοπημένης εικόνας (βίντεο)· Φορτιστές καθολικού σειριακού αγωγού (USB)· Κόμβοι USB· Ασύρματοι φορτιστές· Φορητές συσκευές αναπαραγωγής μέσων· Μονόποδα αυτοφωτογράφησης (σέλφι) [υποστηρίγματα χειρός]· Περιφερειακός εξοπλισμός προσαρμοσμένος για χρήση σε ηλεκτρονικούς υπολογιστές· Διατάξεις εισόδου για ηλεκτρονικούς υπολογιστές· Προστατευτικές μεμβράνες προσαρμοσμένες για έξυπνα τηλέφωνα· Επίπεδες οθόνες· Φορτιστές μπαταριών· Ηλεκτρονικές μονάδες τροφοδοσίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">card readers; stands adapted for tablet computers; flash card readers; touch screen pens; mouse pads; Microphones; cell phone cases; Stands adapted for mobile phones; audio mixing consoles; memories for use with computers; video multiplexers; USB chargers; USB hubs; Wireless chargers; portable media players; Monopods used to take photographs by positioning a smartphone or camera beyond the normal range of the arm; computer peripherals; input devices for computers; protective films adapted for smartphones; flat panel displays; chargers for batteries; electronic power supplies.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Equipos lectores de tarjetas; Soportes adaptados para tabletas electrónicas; Lectores de tarjetas flash; Bolígrafos para pantallas táctiles; Alfombrillas de ratón; Micrófonos; Estuches adaptados para teléfonos móviles; Soportes adaptados para teléfonos móviles; Mesas de mezclas para audio; Memorias de ordenador; Multiplexores de vídeo; Cargadores por USB; Hubs USB; Cargadores inalámbricos; Reproductores multimedia portátiles; Brazos extensibles para autofotos [monopies de mano]; Dispositivos periféricos utilizados con ordenadores; Dispositivos de entrada para ordenadores; Películas de protección para teléfonos inteligentes [smartphones]; Pantallas planas; Cargadores de pilas y baterías; Fuentes de alimentación electrónicas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kaardilugejad; Tahvelarvutite kohandatud alused; Välkmälukaardilugejad; Puuteekraanipliiatsid; Hiirematid; Mikrofonid; Mobiiltelefonivutlarid; Mobiiltelefonide kohandatud alused; Heli miksimispuldid; Arvutite mäluseadmed; Video multiplekserid; USB-laadurid; USB-jaoturid; Juhtmeta laadurid; Kaasaskantavad meediapleierid; Selfie-pulgad [käsistatiivid]; Arvutite välisseadmed; Arvutite sisendseadmed; Nutitelefonide kaitsekiled; Lamekuvarid; Akulaadurid, patareilaadurid; Elektroonilised toiteallikad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kortinlukijat; Taulutietokoneille tarkoitetut telineet; Muistikortinlukijat; Kosketusnäyttökynät; Hiirimatot; Mikrofonit; Matkapuhelinkotelot; Matkapuhelimille tarkoitetut telineet; Äänen miksauskonsolit; Tietokonemuistivälineet; Videokanavointilaitteet; USB-laturit; USB-keskittimet; Langattomat laturit; Kannettavat mediasoittimet; Selfietikut [kädessäpidettävät yksijalkaiset tuet]; Tietokoneiden oheislaitteet; Tietokoneiden syöttölaitteet; Älypuhelimille tarkoitetut suojakalvot; Litteät näyttöruudut; Latauslaitteet sähköparistoille; Elektroniset virtalähteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Lecteurs de cartes; Supports adaptés pour tablettes électroniques; Lecteurs de cartes flash; Stylos destinés aux écrans tactiles; Tapis de souris; Microphones; Étuis pour téléphones portables; Supports adaptés pour téléphones portables; Tables de mixage audio; Dispositifs de mémoire pour ordinateurs; Multiplexeurs vidéo; Chargeurs USB; Concentrateurs USB; Chargeurs sans fil; Baladeurs multimédias; Perches pour autophotos [monopodes à main]; Périphériques adaptés pour utilisation avec des ordinateurs; Dispositifs d'entrée pour ordinateurs; Films de protection conçus pour ordiphones [smartphones]; Écrans d'affichage plats; Chargeurs de batteries; Alimentations électroniques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Oprema za čitanje kartica; Stalak za tablet računala; Čitači flash kartica; Olovke za ekrane na dodir; Podloge za miša; Mikrofoni; Futrole prilagođene za mobilne telefone; Stalak za mobilne telefone; Audio konzole za miksanje; Memorije za računala; Video multiplekseri; USB punjači; Koncentrator USB; Bežični punjači; Prijenosni multimedijski čitači; Štapovi za samofotografiranje [ručni monopodi]; Periferni uređaji prilagođeni za uporabu s računalima; Ulazni sklopovi za računala; Zaštitne folije prilagođene za pametne telefone; Ravni zasloni; Akumulatori (punjači električnih akumulatora); Elektroničke napojne jedinice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kártyaolvasó készülékek, berendezések; Táblagépekhez kialakított állványok; Flash kártya olvasók; Érintőképernyő tollak; Egérpadok; Mikrofonok; Mobiltelefonokhoz kialakított tokok; Mobiltelefonokhoz kialakított állványok; Hangkeverő, audio keverő konzolok; Számítógép memória eszközök; Video multiplexerek; USB-töltők; USB-hubok; Vezeték nélküli töltők; Hordozható médialejátszók; Szelfibotok [kézi egykaros állványok]; Számítógéphez kialakított perifériák; Beviteli eszközök számítógépekhez; Védőfóliák okostelefonokhoz; Síkpaneles kijelzők; Akkumulátor- és elemtöltők; Elektronikus tápegységek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Apparecchiature per la lettura di schede; Supporti per tablet; Lettori di schede flash; Penne per schermi tattili; Tappetini per mouse; Microfoni; Custodie adattate per telefoni cellulari; Supporti per telefoni cellulari; Consolle di missaggio audio; Memorie per computer; Videomultiplatori; Caricatori USB; Concentratori USB; Caricatori senza filo; Lettori multimediali portatili; Prolunghe per selfie [cavalletti portatili]; Periferiche concepite per essere utilizzate con i computer; Periferiche di input per computer; Pellicola protettiva adattata per smartphone; Schermi piatti; Caricabatterie; Alimentatori elettronici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kortelių skaitymo įranga; Planšetinių kompiuterių laikikliai; Atminties kortelių skaitytuvai; Jutiklinių ekranų rašikliai; Pelės padėkliukai; Mikrofonai; Mobiliesiems telefonams pritaikyti dėklai; Mobiliųjų telefonų laikikliai; Garso maišymo pultai; Kompiuterių atminties įrenginiai; Vaizdo tankintuvai; USB įkrovikliai; USB šakotuvai; Belaidžiai įkrovikliai; Nešiojamieji laikmenų leistuvai; Asmenukių lazdos [rankinės]; Kompiuterių išoriniai įrenginiai; Kompiuterių įvesties įrenginiai; Išmaniųjų telefonų ekranų apsauginės plėvelės; Plokščiaekraniai vaizduokliai; Baterijų įkrovimo įtaisai; Elektroniniai maitinimo šaltiniai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Karšu lasīšanas aprīkojums; Statīvi, kas pielāgoti planšetdatoriem; Zibatmiņas karšu nolasītāji; Skārienjūtīgas pildspalvas; Peļu paliktņi; Mikrofoni; Mobilo tālruņu futrāļi; Mobilajiem tālruņiem pielāgoti statīvi; Skaņas miksēšanas konsoles; Datoru atmiņas ierīces; Video multipleksori; USB uzlādes ierīces; USB centrmezgli; Bezvadu uzlādes ierīces; Portatīvie atskaņotāji; Selfiju statīvi [ar roku turami vienkāji]; Datoru perifērijas ierīces; Datoru ievadierīces; Aizsargplēves, pielāgotas viedtālruņiem; Plakanie ekrāni; Elektrisko bateriju lādētāji; Elektroniska enerģijas padeve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Apparat għall-qari ta' kards; Stends adattati għal kompjuters tat-tip tablet; Tagħmir għall-qari tal-kards tal-memorja; Pinen għal skrins li jaħdmu bil-mess; Mattijiet għall-maws; Mikrofoni; Kaxxetti adattati għat-telefowns ċellulari; Stends adattati għal telefons ċellulari; Pânil għall-kontroll tal-miksers tal-awdjo; Apparat ta' memorja tal-kompjuters; Multiplessuri tal-vidjo; Ċarġers tal-USB; USB hubs; Ċarġers mingħajr fili; Plejers li jinġarru tal-midja; Stikek għal stessu (teħid ta' ritratti tal-persuna proprja) [monopods tal-idejn]; Periferali addattati għall-użu mal-kompjuters; Tagħmir ta' input għal kompjuters; Films protettivi adattati għal smartfowns; Skrins tad-displej b'pannell ċatt; Karikaturi għal batteriji elettriċi; Fornimenti tal-enerġija elettrika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kaartlezers; Standaards aangepast voor tabletcomputers; Flashkaartlezers; Pennen voor aanraakschermen; Muismatten; Microfoons; Hoesjes voor mobiele telefoons; Standaards aangepast voor mobiele telefoons; Geluidsmenginstallaties; Computergeheugens; Videomultiplexers; Usb-laders; USB-hubs; Draadloze opladers; Draagbare mediaspelers; Selfie sticks; Randapparatuur te gebruiken met computers; Computerinvoerinstrumenten; Beschermende folie aangepast aan smartphones; Flatscreens; Batterij-opladers; Elektronische voedingen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Sprzęt do odczytywania kart; Stojaki przystosowane do tabletów; Czytniki kart typu flash; Długopisy do ekranu dotykowego; Podkładki pod myszy komputerowe; Mikrofony; Futerały dopasowane do telefonów komórkowych; Stojaki dostosowane do telefonów komórkowych; Konsole do miksowania dźwięku; Pamięci komputerowe; Multipleksery wideo; Ładowarki USB; Huby USB; Ładowarki bezprzewodowe; Przenośne odtwarzacze multimedialne; Kijki do robienia sobie zdjęć (selfie) (monopody ręczne); Sprzęt peryferyjny do komputerów; Urządzenia wejściowe do komputerów; Folie ochronne dostosowane do smartfonów; Płaskie wyświetlacze; Ładowarki do baterii; Elektroniczne zasilacze.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Equipamento para leitura de cartões; Suportes adaptados a computadores "tablet"; Leitores de cartões de memória flash; Canetas para ecrãs táteis; Tapetes para ratos de computador; Microfones; Bolsas adaptadas para telemóveis; Suportes adaptados a telemóveis; Consolas de mistura de áudio; Dispositivos de memória de computador; Multiplexadores de vídeo; Carregadores USB; Hubs USB; Carregadores sem fios; Leitores multimédia portáteis; Bastões de selfies [monopés manuais]; Periféricos adaptados para uso com computadores; Dispositivos de entrada para computadores; Películas protetoras adaptadas para smartphones; Ecrãs planos; Carregadores de baterias; Fontes de alimentação eletrónicas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Dispozitive pentru citirea cardurilor; Suporturi adaptate pentru calculatoare tabletă; Cititoare de carduri de memorie flash; Stilusuri pentru ecrane tactile; Suporturi de mouse; Microfoane; Etuiuri pentru telefoane mobile; Suporturi adaptate pentru telefoane mobile; Console de mixaj audio; Dispozitive de memorie pentru computere; Multiplexoare video; Încărcătoare USB; USB hub-uri; Încărcătoare fără fir; Player portabil multimedia; Suporturi pentru selfie [monopoduri manuale]; Periferice adaptate pentru a fi folosite la calculatoare; Dispozitive de intrare pentru calculatoare; Folii de protecţie adaptate pentru telefoane inteligente; Monitoare cu ecran plat; Alimentatoare pentru acumulatoare; Surse de alimentare electronice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zariadenia na čítanie kariet; Stojany na elektronické tablety; Čítačky pamäťových kariet [flash cards]; Perá na dotykové obrazovky; Podložky pod myš; Mikrofóny; Puzdrá na mobilné telefóny; Stojany na mobilné telefóny; Konzoly na mixovanie zvuku; Počítačové pamäte; Video multiplexory; USB nabíjačky; USB huby; Bezdrôtové nabíjačky; Prenosné multimediálne prehrávače; Tyče na fotografie "selfie"; Periférne zariadenia počítačov; Vstupné zariadenia pre počítače; Ochranné fólie na smartfóny; Displeje s plochou obrazovkou; Nabíjačky batérií; Elektronické napájacie zdroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oprema za branje kartic; Stojala, prirejena za tablične računalnike; Čitalniki flash kartic; Pisala za zaslone na dotik; Podloge za miško; Mikrofoni; Etuiji za mobilne telefone; Stojala, prirejena za prenosne telefone; Avdio mešalne konzole; Računalniške pomnilniške naprave; Video multiplekserji; USB polnilci; USB zvezdišča; Brezžični polnilniki; Prenosni multimedijski predvajalniki; Podaljški za slikanje sebkov [ročni nastavki]; Zunanje enote, prilagojene za uporabo z računalniki; Vhodne naprave za računalnike; Zaščitne folije, prilagojene za pametne telefone; Ploski prikazovalni zasloni; Polnilci za baterije; Elektronski napajalniki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kortläsningsutrustning; Ställ för datorplattor; Läsare för flashminnen; Pennor för pekskärmar; Musmattor; Mikrofoner; Fodral anpassade för mobiltelefoner; Ställ för mobiltelefoner; Ljudmixerbord; Datorminnesanordningar; Multiplexrar för videosignaler; USB-laddare; USB-hubbar; Trådlösa laddare; Bärbara mediaspelare; Selfiepinnar [handhållna stativ]; Kringutrustning anpassade för användning med datorer; Inmatningsanordningar för datorer; Skyddsfilm för smartphones; Platt bildskärm; Batteriladdare; Elektroniska strömförsörjningar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/106</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-08</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/177</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-09-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082610</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>32203</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

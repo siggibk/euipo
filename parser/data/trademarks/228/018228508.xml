@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-12T09:10:08</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228508</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228508</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>follgas</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>32</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бира и пивоварни продукти; Безалкохолни напитки; Енергийни напитки; Безалкохолни препарати за приготвяне на напитки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Pivo a pivovarnické výrobky; Nealkoholické nápoje; Energetické nápoje; Nealkoholické přípravky ke zhotovování nápojů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Øl og bryggeriprodukter; Ikke-alkoholholdige drikke; Energidrikke; Ikke-alkoholholdige præparater til fremstilling af drikke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bier und Brauereiprodukte; Alkoholfreie Getränke; Energydrinks; Alkoholfreie Präparate für die Zubereitung von Getränken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μπύρα και προϊόντα ζυθοποιίας· Μη αλκοολούχα ποτά· Ποτά για τόνωση της ενέργειας· Μη οινοπνευματώδη παρασκευάσματα για ποτοποιία.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Beer and brewery products; Non-alcoholic beverages; Energy drinks; Non-alcoholic preparations for making beverages.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Cervezas y sus derivados; Bebidas no alcohólicas; Bebidas energéticas; Preparaciones sin alcohol para hacer bebidas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Õlu ja pruulikojatooted; Alkoholivabad joogid; Energiajoogid; Mittealkohoolsed valmistusained jookide valmistamiseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Oluet ja panimotuotteet; Alkoholittomat juomat; Energiajuomat; Alkoholittomat juomien valmistusaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Bière et produits de brasserie; Boissons sans alcool; Boissons énergisantes; Préparations non alcoolisées pour faire des boissons.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pivo i pivarski proizvodi; Bezalkoholna pića; Energetski napici; Bezalkoholni preparati za pripremu pića.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sörök és sörtermékek; Alkoholmentes italok; Energiaitalok; Nem alkoholos készítmények italok készítéséhez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Birre e prodotti derivati; Bevande non alcoliche; Bevande energetiche; preparazioni non alcoliche per fare bevande.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Alus ir alaus produktai; Gaivieji gėrimai; Energiniai gėrimai; Nealkoholiniai preparatai gėrimams gaminti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Alus un alus darītavu produkti; Bezalkoholiskie dzērieni; Enerģijas dzērieni; Dzērienu gatavošanai paredzētās bezalkoholiskās sagataves.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Birra u prodotti tal-birrerija; Xarbiet mhux alkoħoliċi; Xorb li jagħti l-enerġija (energy drinks); Preparazzjonijiet mhux alkoħoliċi għat-tħejjija tax-xorb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bier en brouwerijproducten; Niet-alcoholische dranken; Energiedranken; Niet-alcoholische preparaten voor de bereiding van dranken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Piwo i produkty piwowarskie; Napoje bezalkoholowe; Napoje energetyzujące; Preparaty bezalkoholowe do sporządzania napojów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cerveja e produtos de cervejaria; Bebidas sem álcool; Bebidas energéticas; Preparações não alcoólicas para fazer bebidas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Bere şi produse de bere; Băuturi nealcoolice; Băuturi energizante; Preparate nealcoolice pentru pregătirea de băuturi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Pivo a pivovarnícke produkty; Nealkoholické nápoje; Energetické nápoje; Nealkoholické prípravky na výrobu nápojov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pivo in pivovarski proizvodi; Brezalkoholne pijače; Energijski napitki; Brezalkoholni pripravki za pripravo pijač.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Öl och bryggeriprodukter; Icke alkoholhaltiga drycker; Energidrycker; Alkoholfria preparat för framställning av drycker.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>70693</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017785273</RecordIdentifier>
+<BasicRecordKind>Proprietor - Change of name and address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>70693</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-04-29</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

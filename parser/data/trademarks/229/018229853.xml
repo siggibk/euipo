@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-22T16:15:09</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229853</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229853</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="3">Application withdrawn</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-22</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>EcoDollar</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Криптографски ключове, с възможност за изтегляне, за получаване и разходване на криптовалута.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kryptografické klíče s možností stažení k získávání a utrácení kryptoměny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Downloadable kryptografiske nøgler til modtagelse af og betaling med kryptovaluta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Herunterladbare kryptografische Schlüssel für den Empfang und das Ausgeben von Kryptowährung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μεταφορτώσιμα κρυπτογραφικά κλειδιά για τη λήψη και την κατανάλωση κρυπτονομισμάτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Downloadable cryptographic keys for receiving and spending cryptocurrency.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Claves criptográficas descargables para recibir y gastar criptomonedas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Allalaaditavad krüptograafilised võtmed krüptoraha vastuvõtmiseks ja kulutamiseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ladattavat salausavaimet kryptovaluutan vastaanottamiseen ja käyttämiseen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Clés cryptographiques téléchargeables pour la réception et la dépense de cryptomonnaie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kriptografski ključevi koji se mogu preuzeti za primanje i potrošnju kriptovaluta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Letölthető kriptográfiai kulcsok kriptovaluta fogadásához és elköltéséhez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Chiavi crittografiche scaricabili per ricevere e spendere criptovaluta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Parsisiunčiamieji kriptografiniai raktai kriptovaliutai gauti ir išleisti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Lejupielādējamas šifrēšanas atslēgas kriptovalūtas saņemšanai un izlietošanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ċwievet kriptografiċi li jistgħu jitniżżlu biex jirċievu u jonfqu l-munita kripto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Downloadbare cryptografische sleutels voor het ontvangen en uitgeven van cryptomunten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Klucze kryptograficzne do pobrania do otrzymywania i wydawania kryptowaluty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Chaves criptográficas descarregáveis para receção e gasto de criptomoedas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Chei criptografice descărcabile pentru primit și cheltuit criptomonede.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kryptografické kľúče s možnosťou stiahnutia na prijímanie a útratu kryptomeny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Naložljivi kriptografski ključi za sprejemanje in porabo kriptovalut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Nedladdningsbara kryptografiska nycklar för att ta emot och betala med kryptovaluta.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>36</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за виртуална валута; Виртуален обмен на валута; Услуги за преводи на виртуална валута; Финансов обмен на виртуална валута.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby virtuálních měn; Směnárenské služby s virtuálními měnami; Převody ve virtuální měně; Finanční výměna virtuální měny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Virtuelle valutaydelser; Handel med virtuel valuta; Virksomhed vedrørende overførsel af virtuel valuta; Finansiel veksling af virtuelle valutaer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Virtuelle Währungsdienste; Umtausch virtueller Währung; Überweisungsdienste für virtuelle Währung; Wechseln virtueller Währung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες εικονικών νομισμάτων· Ανταλλαγή εικονικών νομισμάτων· Υπηρεσίες μεταφοράς εικονικών νομισμάτων· Χρηματοοικονομική ανταλλαγή εικονικών νομισμάτων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Virtual currency services; Virtual currency exchange; Virtual currency transfer services; Financial exchange of virtual currency.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de divisas virtuales; Servicios de cambio de divisas virtuales; Servicio de transferencia de divisas virtuales; Intercambio financiero de moneda virtual.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Virtuaalrahateenused; Virtuaalvaluutavahetus; Virtuaalraha ülekandeteenused; Virtuaalraha finantsvahetus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Virtuaalivaluuttaa koskevat palvelut; Virtuaalivaluutan vaihto; Virtuaalivaluutan siirtopalvelut; Virtuaalivaluutan vaihto rahamarkkinoilla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de monnaie virtuelle; Change de devises virtuelles; Services de transfert de devises virtuelles; Échange financier de devises virtuelles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge virtualnih valuta; Promjena virtualnih valuta; Usluge prijenosa virtualnih valuta; Financijska razmjena virtualnih valuta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Virtuálisvaluta-szolgáltatások; Virtuálisvaluta-váltás; Virtuálisvaluta-átutalási szolgáltatások; Virtuális valuták pénzügyi átváltása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi relativi a valute virtuali; Cambio di valuta virtuale; Servizi di trasferimento di valuta virtuale; Scambio finanziario di valute virtuali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Virtualiosios valiutos paslaugos; Virtualiosios valiutos keitimas; Virtualiosios valiutos pervedimo paslaugos; Virtualiųjų valiutų finansinis keitimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Virtuālās valūtas pakalpojumi; Virtuālās valūtas maiņa; Virtuālās valūtas pārskaitīšanas pakalpojumi; Finanšu maiņas darījumi ar virtuālo valūtu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' muniti virtwali; Skambju ta' muniti virtwali; Servizz ta' trasferiment elettroniku ta' flus virtwali; Skambju finanzjarju ta' muniti virtwali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diensten met betrekking tot virtuele valuta; Virtuele valuta-wisseldiensten; Transferdiensten inzake virtuele valuta; Financiële omwisseling van virtuele valuta's.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi w zakresie wirtualnej waluty; Wymiana wirtualnej waluty; Usługi przelewu waluty wirtualnej; Wymiana finansowa waluty wirtualnej.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de moeda virtual; Câmbio de moeda virtual; Serviços de transferência de moeda virtual; Câmbio de moedas virtuais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii valutare virtuale; Schimb valutar virtual; Servicii de transfer valutar virtual; Schimb financiar de monede virtuale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Služby v oblasti virtuálnej meny; Zmenárenské služby pre virtuálnu menu; Služby v oblasti prevodov virtuálnej meny; Finančná výmena virtuálnej meny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve v zvezi z virtualnimi valutami; Menjava virtualnih valut; Storitve prenosa virtualnih valut; Finančna menjava virtualnih valut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tjänster avseende virtuell valuta; Växling av virtuell valuta; Tjänster för överföring av virtuell valuta; Finansiell växling av virtuella valutor.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Софтуер като услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Software jako služba [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Software as a service [saas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Software as a Service [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Λογισμικό σαν υπηρεσία.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Software as a service.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Software como servicio [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Pilveteenused [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Verkkosovelluspalvelut [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Logiciel-service [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Softver kao usluga [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szoftver mint szolgáltatás [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di software [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Programinė įranga kaip paslauga [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Programmatūra kā pakalpojums [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Softwer bħala servizz [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Ter beschikking stellen van software [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oprogramowanie jako usługa [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Software como serviço [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Software ca serviciu [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Poskytovanie softvéru prostredníctvom internetu (SaaS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Programska oprema kot storitev [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Molntjänster [SaaS].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/083</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082721</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>95974</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

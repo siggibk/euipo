@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-27T01:04:26</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224929</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224929</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<ApplicationLanguageCode>lt</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-05-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SINFECTIN</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Биоциди; Дезинфектанти; Дезинфектанти за хигиенни цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Biocidy; Dezinfekční přípravky; Dezinfekční prostředky pro hygienické účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Biocider; Desinfektionsmidler; Desinfektionsmidler til hygiejniske formål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Biozide; Desinfektionsmittel; Desinfektionsmittel für hygienische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Βιοκτόνα· Απολυμαντικά· Απολυμαντικά για υγειονομική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">biocides; disinfectants; disinfectants for hygiene purposes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Biocidas; Desinfectantes; Desinfectantes para uso higiénico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Biotsiidid; Desinfektsioonivahendid; Hügieenilised desinfektsioonivahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Biosidit; Desinfiointiaineet; Desinfiointiaineet hygieenisiin tarkoituksiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Biocides; Désinfectants; Désinfectants à usage hygiénique.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Biocidi; Dezinfekcijska sredstva; Dezinfekcijska sredstva za higijenske namjene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Biocidok; Fertőtlenítőszerek; Fertőtlenítőszerek higiéniai célokra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Biocidi; Disinfettanti; Disinfettanti per uso igienico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">biocidai; dezinfekantai; dezinfekavimo priemonės (higienos reikmėms).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Biocīdi; Dezinfekcijas līdzekļi; Dezinfekcijas līdzekļi higiēniskiem nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Bioċidji; Diżinfettanti; Diżinfettanti għal skopijiet ta' iġjene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Biociden; Ontsmettingsmiddelen; Desinfecterende middelen voor hygiënisch gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Biocydy; Środki odkażające; Środki dezynfekcyjne do celów higienicznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Biocidas; Desinfectantes; Desinfetantes para uso higiénico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Biocide; Dezinfectante; Dezinfectante folosite pentru igienă.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Biocídy; Dezinfekčné prostriedky; Dezinfekčné prípravky na hygienické použitie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Biocidi; Dezinfekcijska sredstva; Razkužila za higienske namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Biocider; Desinfektionsmedel; Desinfektionsmedel för hygieniska ändamål.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/075</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>28363</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003118623</OppositionIdentifier>
+<OppositionDate>2020-05-07</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>BX</EarlierMarkCountryCode>
+<ApplicationNumber>01331507</ApplicationNumber>
+<ApplicationDate>2016-04-28</ApplicationDate>
+<RegistrationNumber>0995031</RegistrationNumber>
+<RegistrationDate>2016-07-20</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>INFECTIM</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>EM</EarlierMarkCountryCode>
+<ApplicationNumber>015835176</ApplicationNumber>
+<ApplicationDate>2016-09-16</ApplicationDate>
+<RegistrationNumber>015835176</RegistrationNumber>
+<RegistrationDate>2017-01-17</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>INFECTIM</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>630858</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>89813</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

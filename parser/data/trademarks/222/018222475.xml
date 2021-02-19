@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-10T08:16:11</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222475</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222475</ApplicationNumber>
+<ApplicationDate>2020-07-27</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="1">Application published</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-10</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Sophia Saffron</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162189000</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/222/018222475/000162189000.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>05.11.01</CategoryCode>
+          <CategoryCode>27.03.11</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Шафран [подправка за ястия]; Шафран за употреба като подправка.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Šafrán [koření]; Šafrán používaný jako koření.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Safran [krydderi]; Safran til anvendelse som krydderi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Safran [Gewürz]; Safran als Würzmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Σαφράν [καρύκευματα]· Σαφράν (κρόκος) για χρήση ως άρτυμα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Saffron [seasoning]; Saffron for use as a seasoning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Azafrán [productos para sazonar]; Azafrán para su uso como sazonamiento.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Safran [maitseaine]; Safran maitseainena.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sahramimauste; Sahrami mausteeksi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Safran [assaisonnement]; Safran utilisé comme assaisonnement.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Šafran [začin]; Šafran kao začin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Sáfrány [ételízesítő]; Ételízesítőként, fűszerként használt sáfrány.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Zafferano [condimenti]; Zafferano per uso come condimento.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Šafranas [prieskonis]; Šafranas (maisto pagardas).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Safrāns (garšviela); Safrāns kā garšviela.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Żagħfran [taħwir]; Żagħfran għat-taħwir.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Saffraan [kruiden]; Saffraan voor gebruik als kruiderij.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Szafran [przyprawa]; Szafran używany jako przyprawa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Açafrão [tempero]; Açafrão para utilizar como tempero.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Șofran [mirodenii]; Șofran utilizat ca mirodenie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Šafran (korenie); Šafran používaný ako korenie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Žafran [začimba]; Žafran, ki se uporablja kot začimba.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Saffran [krydda]; Saffran för användning som krydda.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/173</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-09-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>970357</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>36326</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

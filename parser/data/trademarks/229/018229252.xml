@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T11:10:27</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229252</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229252</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>MEAGEAL</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162457704</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229252/000162457704.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>15.09.18</CategoryCode>
+          <CategoryCode>16.01.25</CategoryCode>
+          <CategoryCode>16.03.25</CategoryCode>
+          <CategoryCode>26.01.03</CategoryCode>
+          <CategoryCode>26.01.18</CategoryCode>
+          <CategoryCode>26.01.19</CategoryCode>
+          <CategoryCode>27.03.15</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Грамофони; Грамофонни плочи; Кутии за високоговорители; Акустични тръби за високоговорители; Електрически съединители; Портативни медиа плейъри; Външни модеми; Светлинни кутии; Устройства за дистанционно управление; Компютърни програми, записани; Крачкомери; Факсмашини; Измерватели; Везни; Смартфони под формата на часовници; Галванични елементи; Електронни аларми срещу крадци; Очила.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Gramofony; Gramofonové desky; Reproduktorové skříně; Ozvučnice pro reproduktory; Konektory; Přenosné multimediální přehrávače; Externí modemy; Světelné skříňky; Dálkové ovladače; Počítačový software (nahraný); Krokoměry; Faxovací zařízení; Měřidla; Váhy; Chytré telefony v podobě hodinek; Elektrické baterie; Elektronická poplašná zařízení proti vloupání; Brýle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Pladespillere; Lydplader; Højttalerkabinetter; Højttalertragte; Elektriske konnektorer; Bærbare medieafspillere; Eksterne modemmer; Kasser udstyret med lys til visning af fotografiske billeder; Apparater til fjernkontrol; Software til computere, optaget; Skridttællere; Telefaxmaskiner; Måleredskaber; Vægte; Smartphones med form som et ur; Batterier, elektriske; Elektroniske tyverialarmer; Briller.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Plattenspieler; Schallplatten; Lautsprecherboxen; Schalltrichter für Lautsprecher; Verbindungsteile [Elektrizität]; Tragbare Abspielgeräte; Externe Modems; Leuchtpulte; Fernsteuerungsgeräte; Gespeicherte Computersoftware; Pedometer; Faxgeräte; Maße; Waagen; Smartphones in Form von Armbanduhren; Elektrische Batterien; Elektronische Einbruchalarmgeräte; Brillen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Πικάπ· Ηχογραφήσεων δίσκοι· Κουτιά ηχείων· Χοάνες μεγαφώνων για ομιλητές· Ρευματοδότες· Φορητές συσκευές αναπαραγωγής μέσων· Εξωτερικοί διαποδιαμορφωτές (μόντεμ)· Κιβώτια φωτισμού· Συσκευές τηλεχειρισμού· Η/Υ (Προγράμματα -) εγγεγραμμένα· Βηματόμετρα [ποδόμετρα]· Συσκευές τηλεομοιοτυπίας· Μέτρα προληπτικά· Ζυγαριές· Έξυπνα τηλέφωνα με τη μορφή ρολογιών χειρός ή τσέπης· Ηλεκτρικές μπαταρίες· Ηλεκτρονικοί αντικλεπτικοί συναγερμοί· Διόπτρες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Gramophones; phonograph records; cabinets for loudspeakers; record players; horns for loudspeakers; Electricity connectors; portable media players; External modems; Light boxes; remote control apparatus; computer software, recorded; pedometers; Fax devices; measures; scales; Smartphones in the shape of a watch; batteries, electric; electronic burglar alarms; spectacles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Tocadiscos; Discos acústicos; Cajas de altavoces; Pabellones [conos] de altavoces; Conectores [electricidad]; Reproductores multimedia portátiles; Módems externos; Cajas de iluminación [fotografía]; Aparatos de control remoto; Software [programas grabados]; Podómetros; Aparatos de fax; Medidores; Balanzas; Teléfonos inteligentes [ smartphones] en forma de reloj de pulsera; Pilas eléctricas; Alarmas antiladrones electrónicas; Gafas [óptica].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Plaadimängijad, grammofonid; Heliplaadid, grammofoniplaadid; Kõlarikastid; Valjuhääldite helitorud; Elektrilised ühendusklemmid; Kaasaskantavad meediapleierid; Välised modemid; Valguskastid; Kaugjuhtimisseadmed; Salvestatud arvutitarkvara; Sammumõõturid; Faksid, faksiaparaadid; Mõõtevahendid; Kaalud; Käekellakujulised nutitelefonid; Elektripatareid; Elektroonilised murdvargaalarmid; Prillid [optika].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Levysoittimet; Äänilevyt; Kaiutinkotelot; Torvet (Kaiutin -); Sähköliittimet; Kannettavat mediasoittimet; Ulkoiset modeemit; Valopöydät; Kauko-ohjauslaitteet; Tietokoneohjelmat [tallennetut]; Askelmittarit; Faksimilekojeet; Mitat; Vaa’at; Älypuhelimet rannekellon muodossa; Sähköparistot; Elektroniset murtohälyttimet; Silmälasit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Tourne-disques; Disques acoustiques; Boîtiers de haut-parleurs; Pavillons de haut-parleurs; Connecteurs [électricité]; Baladeurs multimédias; Modems externes; Boîtes lumineuses; Appareils de téléguidage; Logiciels [programmes enregistrés]; Podomètres [compte-pas]; Télécopieurs; Mesures; Balances; Smartphones en forme de montre; Piles électriques; Alarmes antieffraction électroniques; Lunettes [optique].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Gramofoni; Akustične ploče; Kućišta razglasa; Lijevci zvučnika; Električne spojke; Prijenosni multimedijski čitači; Vanjski modemi; Svjetlosne kutije; Daljinski upravljači; Računalni programi [snimljeni]; Podometri [instrumenti za brojenje koraka]; Telefaksi; Mjerila; Vage; Pametni telefoni u obliku ručnog sata; Električne baterije; Elektronički protuprovalni alarmi; Naočale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Lemezjátszók; Hanglemezek; Hangszórószekrények, hangszóródobozok; Hangszóró kürtök; Elektromos csatolások; Hordozható médialejátszók; Külső modemek; Fénydobozok; Távirányító készülékek; Számítógépes programok, rögzített; Lépésmérők, lépésszámlálók; Faxgépek; Mérőeszközök, mértékek; Kiegyensúlyozó készülékek, mérlegek; Okostelefonok karóra formájában; Elektromos elemek, akkumulátorok; Elektronikus betörésjelző riasztók; Szemüvegek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Giradischi; Dischi acustici; Casse acustiche; Trombe di altoparlanti; Connettori [elettricità]; Lettori multimediali portatili; Modem esterni; Lightbox [fotografia]; Apparecchi di teleguida; Software [programmi registrati]; Contapassi [podometri]; Telecopiatrici; Misure; Bilance; Smartphone in forma d'orologio da polso o da tasca; Batterie elettriche; Allarmi antifurto elettronici; Occhiali [ottica].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Grotuvai; Garso įrašai; Garsiakalbių korpusai; Garsiakalbių garsintuvai; Jungtys [elektra]; Nešiojamieji laikmenų leistuvai; Išoriniai modemai; Šviesdėžės; Nuotolinio valdymo aparatai; Kompiuterių programinė įranga [įrašyta]; Žingsnių skaitikliai [žingsniamačiai]; Faksimiliniai aparatai; Matai; Svarstyklės; Laikrodžio formos išmanieji telefonai; Elektrinės baterijos; Elektroninės įsilaužimo signalizacijos; Akiniai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Skaņuplašu atskaņotāji; Skaņuplates un skaņu ieraksta diski; Skandu korpusi; Skaļruņu rupori; Elektropadeves savienojumi; Portatīvie atskaņotāji; Ārējie modemi; Gaismas kastes; Tālvadības ierīces; Ierakstīta programmatūra; Pedometri; Faksa aparāti; Mēri; Balansēšanas ierīces; Viedtālruņi rokas pulksteņu veidā; Elektrisko akumulatoru baterijas; Elektroniskas ielaušanās signalizācijas; Brilles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tagħmir li jdoqq diski reġistrati; Rekords tal-fonografu; Kabinetti għall-amplifikaturi tal-ħoss; Trombi għall-lawdspikers; Ganċijiet elettriċi; Plejers li jinġarru tal-midja; Mowdems esterni; Kaxxi tad-dwal; Apparat ta' kontroll mill-bogħod; Programmi tal-kompjuter irrekordjati; Pedometri; Magni tal-faksimile; Kejl; Apparat għall-użin; Smartfowns fil-forma ta' arloġġ tal-idejn; Batteriji tal-elettriku; Allarmi elettroniċi għal kontra l-ħallelin; Nuċċalijiet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Platenspelers; Schijfvormige geluidsdragers; Luidsprekerkasten; Hoorns van luidsprekers; Connectoren [elektriciteit]; Draagbare mediaspelers; Modems (Externe -); Lichtbakken; Apparaten voor afstandsbediening; Software [geregistreerde programma's]; Stappentellers; Telefaxapparatuur; Maten; Weegschalen; Smartphones in de vorm van een horloge; Elektrische batterijen; Elektronische anti-inbraakalarms; Brillen [optiek].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Odtwarzacze płyt fonograficznych; Płyty gramofonowe; Obudowy głośników; Tuby do głośników; Sprzężenia elektryczne; Przenośne odtwarzacze multimedialne; Modemy zewnętrzne; Komory bezcieniowe; Urządzenia zdalnego sterowania; Programy komputerowe nagrane; Krokomierze [pedometry]; Maszyny faksymilowe; Miary; Urządzenia do wyważania; Smartfony w kształcie zegarka; Baterie elektryczne; Elektroniczne alarmy antywłamaniowe; Okulary.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Gira-discos; Discos acústicos; Caixas de altifalantes; Pavilhões para altifalantes; Conectores [eletricidade]; Leitores multimédia portáteis; Modems externos; Caixas de luz para visualização de imagens; Aparelhos de controlo remoto; Software [programas de computador gravados]; Conta-passos [pedómetros]; Telecopiadoras; Medidores; Balanças; Telefones inteligentes sob a forma de relógios de pulso; Baterias elétricas; Alarmes eletrónicos antirroubo; Óculos [ótica].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Picup-uri; Discuri de picup; Cutii pentru difuzoare; Pâlnii de difuzoare; Conexiuni; Player portabil multimedia; Modemuri externe; Casete luminoase; Aparat de control de la distanță; Programe de calculator înregistrate; Pedometre; Faxuri; Măsuri; Balanțe; Telefoane inteligente sub formă de ceas de mână; Baterii galvanice; Alarme electronice antiefracție; Ochelari.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Gramofóny; Gramofónové platne; Reproduktorové skrinky; Ozvučnice ampliónov; Konektory (elektrotechnika); Prenosné multimediálne prehrávače; Externé modemy; Beztieňová komora (na fotografovanie); Diaľkové ovládače; Počítačový softvér (nahraté počítačové programy); Krokomery; Faxy; Mierky; Váhy; Smartfóny v tvare náramkových hodiniek; Elektrické batérie (články); Elektronické alarmy proti vlámaniu; Okuliare.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Gramofoni; Gramofonske plošče; Ohišja zvočnikov; Zvočni lijaki za zvočnike; Električne spojke; Prenosni multimedijski predvajalniki; Zunanji modemi; Svetlobne škatle; Aparati za daljinsko upravljanje; Računalniški programi, posneti; Pedometri; Faksirne naprave; Mere; Tehtnice; Pametni telefoni v obliki zapestne ure; Električne baterije; Elektronski protivlomni alarmi; Očala.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Skivspelare; Skivor för ljudinspelningar; Högtalarlådor; Högtalartrattar; Elektriska kontaktdon; Bärbara mediaspelare; Externa modem; Ljuslådor; Fjärrkontrollapparater; Registrerade datormjukvaror; Stegräknare; Telefaxapparater; Mått; Vågar; Smartphones i klockformat; Batterier, elektriska; Elektroniska inbrottslarm; Glasögon.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/081</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-30</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/150</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1081994</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11013</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

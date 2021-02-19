@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-28T09:52:45</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018223370</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018223370</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-28</RegistrationDate>
+<ApplicationLanguageCode>nl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="12" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-28</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Señoritas</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162195633</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/223/018223370/000162195633.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.13.99</CategoryCode>
+          <CategoryCode>27.03.15</CategoryCode>
+          <CategoryCode>27.05.25</CategoryCode>
+          <CategoryCode>29.01.98</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>31</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Цъфтящи растения.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Kvetoucí rostliny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Blomsterplanter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Blühende Pflanzen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ανθοφόρα φυτά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Flowering plants.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Plantas de floración.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Õistaimed.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kukkivat kasvit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Plantes à fleurs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Biljke cvjetnjače.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Virágos növények.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Piante da fiore.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Žydintys augalai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ziedoši augi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Pjanti bil-fjuri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Bloeiende planten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Rośliny kwitnące.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Plantas de flores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Plante cu flori.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kvitnúce rastliny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Cvetoče rastline.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Blommande växter.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/073</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>638599</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

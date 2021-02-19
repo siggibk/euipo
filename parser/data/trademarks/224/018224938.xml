@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-29T09:52:43</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224938</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224938</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>WXD</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162208210</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224938/000162208210.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>13.01.17</CategoryCode>
+          <CategoryCode>26.11.07</CategoryCode>
+          <CategoryCode>26.11.08</CategoryCode>
+          <CategoryCode>26.11.09</CategoryCode>
+          <CategoryCode>26.11.98</CategoryCode>
+          <CategoryCode>27.03.15</CategoryCode>
+          <CategoryCode>27.99.04</CategoryCode>
+          <CategoryCode>27.99.23</CategoryCode>
+          <CategoryCode>27.99.24</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Поддържащи колани за бременни за медицински цели; Ръкавици за медицински цели; Колани за пристягане на корема [за медицински цели]; Надуваеми легла за медицински цели; Хирургически маски; Маски за лице за медицинска употреба; Маски за медицински персонал; Защитни маски за лице за медицинска употреба; Нагревателни подложки [възглавници], електрически, за медицински цели; Топлинен компрес за първа медицинска помощ; Бандажи [еластични]; Хирургически костюми; Термометри за медицински цели; Санитарни маски за медицински цели; Респиратори за изкуствено дишане; Термометри, поставяни в ухото; Електронни температурни монитори за медицинска употреба; Кислородни маски за медицинска употреба.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Těhotenské podpůrné pásy k lékařským účelům; Rukavice pro lékařské účely; Břišní pásy (k léčebným účelům); Nafukovací postele pro lékařské účely; Chirurgické masky; Roušky k lékařskému použití; Roušky pro lékařský personál; Ochranné obličejové masky pro lékařské použití; Elektricky vyhřívané podušky pro lékařské účely; Tepelné zábaly pro účely první pomoci; Elastické obvazy; Operační pláště; Teploměry pro lékařské účely; Hygienické masky pro lékařské účely; Respirátory pro umělé dýchání; Ušní teploměry; Elektronické monitory teploty pro lékařské použití; Kyslíkové masky pro lékařské použití.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Graviditetsbælter til medicinske formål; Handsker til medicinske formål; Underlivsbælter til medicinske formål; Luftsenge til medicinske formål; Operationsmasker; Ansigtsmasker til medicinske formål; Masker til brug for medicinsk personel; Beskyttende ansigtsmasker til medicinske formål; Varmepuder, elektriske, til medicinske formål; Termoomslag til brug ved førstehjælp; Bandager, elastiske; Operationskitler; Termometre til medicinsk brug; Sanitære masker til medicinske formål; Respiratorer til kunstigt åndedræt; Øretermometre; Elektroniske temperaturmonitorer til medicinske formål; Iltmasker til medicinske formål.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Schwangerschaftsstützgurte; Handschuhe für medizinische Zwecke; Leibbinden [für medizinische Zwecke]; Luftbetten für medizinische Zwecke; Chirurgischer Mundschutz; Gesichtsmasken für medizinische Zwecke; Masken für medizinisches Personal; Gesichtsschutzmasken für medizinische Zwecke; Elektrische Heizkissen für medizinische Zwecke; Thermokissen für Erste Hilfe; Elastische Bandagen; Operationskittel; Thermometer für medizinische Zwecke; Mundschutz für medizinische Zwecke; Atemgeräte für die künstliche Beatmung; Ohrthermometer; Elektronische Temperaturüberwachungsgeräte für medizinische Zwecke; Sauerstoffmasken für medizinische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ζώνες υποστήριξης εγκυμοσύνης για ιατρικούς σκοπούς· Γάντια ιατρικής χρήσης· Κοιλιακές ζώνες [για ιατρικούς σκοπούς]· Κρεβάτια αέρα για ιατρική χρήση· Χειρουργικές μάσκες· Μάσκες προσώπου για ιατρική χρήση· Μάσκες για το ιατρικό προσωπικό· Προστατευτικές μάσκες προσώπου για ιατρική χρήση· Θερμαινόμενα ηλεκτρικά μαξιλάρια για χρήση ιατρική· Επιθέματα θερμικά για πρώτες βοήθειες· Επίδεσμοι ελαστικοί· Χειρουργικές ποδιές· Θερμόμετρα ιατρικά· Μάσκες υγιεινής για ιατρική χρήση· Αναπνευστήρες για τεχνητή αναπνοή· Θερμόμετρα αυτιού· Ηλεκτρονικές συσκευές παρακολούθησης θερμοκρασίας για ιατρική χρήση· Μάσκες οξυγόνου για ιατρική χρήση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Maternity support belts for medical purposes; Gloves for medical purposes; Abdominal belts [for medical purposes]; Air beds for medical purposes; Surgical masks; Face masks for medical use; Masks for use by medical personnel; Protective face masks for medical use; Heating cushions, electric, for medical purposes; Thermal packs for first aid purposes; Bandages, elastic; Surgical gowns; Thermometers for medical purposes; Sanitary masks for medical purposes; Respirators for artificial respiration; Ear thermometers; Electronic temperature monitors for medical use; Oxygen masks for medical use.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Faja ortopédica de embarazada para uso médico; Guantes para uso médico; Cinturones abdominales [para uso médico]; Camas de aire para uso médico; Mascarillas quirúrgicas; Máscaras faciales para uso médico; Mascarillas para personal médico; Mascarillas faciales de protección para uso médico; Almohadillas eléctrotérmicas para uso médico; Almohadillas térmicas para primeros auxilios; Vendas elásticas; Batas para uso quirúrgico; Termómetros para uso médico; Mascarillas sanitarias para uso médico; Respiradores; Termómetros auriculares; Monitores de temperatura electrónicos para uso médico; Mascarillas de oxígeno para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiinilised rasedusbandaažid; Meditsiinilised kindad; Kõhuvööd (meditsiinilised); Meditsiinilised õhkvoodid; Kirurgimaskid; Meditsiinilised näomaskid; Maskid meditsiinipersonalile; Meditsiinilised kaitsvad näomaskid; Meditsiinilised elektrisoojenduspadjad; Soojad mähised esmaabiks; Elastiksidemed; Kirurgias kasutatavad kitlid; Meditsiinilised termomeetrid; Meditsiinilised hügieenilised maskid; Kunstliku hingamise respiraatorid; Kõrvatermomeetrid; Elektroonilised temperatuurijälgimisseadmed meditsiiniliseks otstarbeks; Meditsiinilised hapnikumaskid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Äitiystukivyöt lääketieteellisiin tarkoituksiin; Käsineet lääketieteelliseen käyttöön; Vatsavyöt [lääketieteellisiin tarkoituksiin]; Ilmapatjat lääkinnällisiin tarkoituksiin; Kirurgin naamarit; Kasvonaamarit lääketieteelliseen käyttöön; Suojanaamarit lääkintähenkilökuntaa varten; Suojaavat kasvonaamiot lääketieteelliseen käyttöön; Lämpötyynyt (Sähkö -), lääketieteellisiin tarkoituksiin; Lämpötyynyt ensiapua varten; Siteet [elastiset]; Leikkaussalivaatteet kirurgiseen käyttöön; Kuumemittarit lääketieteellisiin tarkoituksiin; Saniteettinaamarit lääketieteellisiin tarkoituksiin; Hengityslaitteet tekohengitykseen; Korvakuumemittarit; Elektroniset lämpötilamonitorit lääketieteelliseen käyttöön; Happinaamarit lääketieteelliseen käyttöön.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Ceintures de grossesse à usage médical; Gants à usage médical; Ceintures abdominales à usage médical; Matelas gonflables à usage médical; Masques chirurgicaux; Masques pour le visage à usage médical; Masques utilisés par le personnel médical; Masques de protection faciale à usage médical; Coussins chauffés électriquement à usage médical; Coussinets thermiques pour premiers soins; Bandages élastiques; Blouses chirurgicales; Thermomètres à usage médical; Masques d'hygiène à usage médical; Respirateurs pour la respiration artificielle; Thermomètres auriculaires; Moniteurs électroniques de température à usage médical; Masques à oxygène à usage médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Trudnički pojas za medicinske namjene; Rukavice za medicinsku uporabu; Trbušni pojasevi [za medicinske svrhe]; Zračni kreveti za medicinske potrebe; Kirurške maske; Maske za lice za medicinsku uporabu; Maske za medicinsko osoblje; Zaštitne maske za lice za medicinsku uporabu; Jastuci, električno grijani za medicinske potrebe; Termičke obloge kao sredstva za prvu pomoć; Elastični zavoji; Kirurški ogrtači; Toplomjeri za medicinske potrebe; Sanitarne maske za medicinske svrhe; Respiratori za umjetno disanje; Toplomjeri za uši; Elektronski monitori temperature za medicinsku uporabu; Maske s kisikom za medicinsku uporabu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Terhességi támasztóövek gyógyászati célokra; Kesztyűk gyógyászati használatra; Haskötők [orvosi használatra]; Gyógyászati célú légágyak; Sebészeti maszkok; Arcmaszkok gyógyászati használatra; Maszkok egészségügyi személyzet általi használatra; Orvosi arcvédő maszkok; Elektromos melegítő párnák orvosi célokra; Thermo tömlők, hideg-meleg borogatások elsősegélynyújtási célokra; Rugalmas kötszerek; Köpenyek sebészeti használatra; Hőmérők gyógyászati célokra; Gyógyászati célú egészségügyi maszkok; Lélegeztető készülékek mesterséges lélegeztetéshez; Fülhőmérők; Elektronikus hőmérséklet monitorok gyógyászati használatra; Oxigénmaszkok gyógyászati használatra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Fasce per gravidanza a scopo medico; Guanti per uso medico; Fasce addominali [per uso medico]; Materassi gonfiabili ad aria per uso medico; Mascherine chirurgiche; Maschere per il viso per uso medico; Maschere utilizzate dal personale medico; Maschere protettive per il viso per uso medico; Cuscini scaldati elettricamente per uso medico; Cuscinetti termici per i primi soccorsi; Fasciature elastiche; Camici da chirurgo; Termometri per uso medico; Maschere igieniche per uso medico; Respiratori per la respirazione artificiale; Termometri auricolari; Monitor elettronici della temperatura per uso medico; Maschere di ossigeno per uso medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Nėščiųjų palaikomieji diržai (medicinos reikmėms); Pirštinės (medicinos reikmėms); Pilvo diržai [medicinos reikmėms]; Pripučiamieji matracai (medicinos reikmėms); Chirurginės kaukės; Veido kaukės medicinos reikmėms; Kaukės medicinos personalui; Apsauginės veido kaukės medicinos reikmėms; Elektrinės šildomosios pagalvėlės [paklotai] (medicinos reikmėms); Šildomieji paketai (pirmosios pagalbos reikmėms); Tvarsčiai [elastiniai]; Chalatai chirurgijos reikmėms; Medicininiai termometrai; Higieninės kaukės (medicinos reikmėms); Dirbtinio kvėpavimo respiratoriai; Ausų termometrai; Elektroniniai temperatūros monitoriai (medicinos reikmėms); Deguonies kaukės medicinos reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Grūtnieču atbalsta jostas medicīniskiem nolūkiem; Cimdi medicīniskiem nolūkiem; Vēdera jostas (medicīniskiem nolūkiem); Piepūšamās gultas medicīniskiem nolūkiem; Ķirurģiskās maskas; Sejas maskas medicīniskām vajadzībām; Medicīnas personālam paredzētās maskas; Sejas aizsargmaskas lietošanai medicīnā; Sildoši elektriskie spilveni medicīniskiem nolūkiem; Sildošās termopaketes pirmās palīdzības nolūkiem; Elastīgie pārsēji; Halāti ķirurģiskiem nolūkiem; Medicīniskie termometri; Sanitārās maskas medicīniskiem nolūkiem; Mākslīgās elpināšanas ierīču respiratori; Auss termometri; Elektroniski temperatūras monitori medicīniskiem nolūkiem; Skābekļa maskas medicīniskiem nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ċinturini tal-maternità li jipprovdu appoġġ għal skopijiet mediċinali; Ingwanti għal skopijiet mediċi; Ċinturini taż-żaqq [għal skopijiet mediċi]; Sodod tal-arja għal skopijiet mediċi; Maskri kirurġiċi; Maskri tal-wiċċ għall-użu mediku; Maskri għal personal mediku; Maskri protettivi tal-wiċċ għall-użu mediku; Kuttunar [għat-tisħin], bl-elettriku, għal skopijiet mediċi; Pakki termali għal skopijiet tal-ewwel għajnuna; Faxex, elastiċi; Ġagagi għall-użu kirurġiku; Termometri għal skopijiet mediċi; Maskri sanitarji għal skopijiet mediċi; Tagħmir biex jingħata n-nifs artifiċjali; Termometri tal-widnejn; Moniters tat-temperatura elettroniċi għall-użu mediku; Maskri tal-ossiġnu għall-użu mediku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Zwangerschapsbanden voor medische doeleinden; Handschoenen voor medisch gebruik; Gordels (buik -) [voor medisch gebruik]; Luchtbedden voor medische doeleinden; Maskers voor chirurgisch gebruik; Gezichtsmaskers voor medisch gebruik; Maskers te gebruiken door medisch personeel; Gezichtsmaskers (Beschermde -) voor medisch gebruik; Elektrisch verwarmde kussens, voor medisch gebruik; Thermische kussentjes voor eerste hulp; Verbanden, elastisch; Operatieschorten; Thermometers voor medisch gebruik; Hygiënische maskers voor medisch gebruik; Beademingsapparatuur; Oorthermometers; Temperatuurmonitors voor medisch gebruik (Elektronische -); Zuurstofmaskers voor medisch gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Pasy podtrzymujące dla ciężarnych do celów medycznych; Rękawice do celów medycznych; Pasy brzuszne [do celów medycznych]; Materace dmuchane do celów medycznych; Maski chirurgiczne; Maski na twarz do użytku medycznego; Maski stosowane przez personel medyczny; Maski ochronne na twarz do użytku medycznego; Podgrzewane podkłady, elektryczne, do celów leczniczych; Poduszeczki termiczne do udzielania pierwszej pomocy; Bandaże elastyczne; Fartuchy do użytku chirurgicznego; Termometry do celów medycznych; Maski sanitarne do celów medycznych; Respiratory do sztucznego oddychania; Termometry do ucha; Elektroniczne urządzenia monitorujące temperaturę do użytku medycznego; Maski z tlenem do użytku medycznego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Cintas de gravidez para fins médicos; Luvas para uso médico; Cintas abdominais [para uso médico]; Colchões infláveis para uso médico; Máscaras cirúrgicas; Máscaras faciais para uso médico; Máscaras para pessoal médico; Máscaras de proteção facial para uso médico; Almofadas aquecidas eletricamente para uso medicinal; Almofadas térmicas para primeiros socorros; Ligaduras elásticas; Batas para uso cirúrgico; Termómetros para uso médico; Máscaras higiénicas para uso médico; Respiradores artificiais; Termómetros auriculares; Monitores eletrónicos de temperatura para uso médico; Máscaras de oxigénio para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Centuri prenatale, de uz medical; Mănuși de uz medical; Centuri abdominale [de uz medical]; Paturi cu aer de uz medical; Măști chirurgicale; Măști medicale; Măști utilizate de personalul medical; Măști faciale de protecție pentru uz medical; Perne electrice pentru uz medical; Comprese termice pentru prim ajutor; Bandaje elastice; Halate de uz chirurgical; Termometre de uz medical; Măşti sanitare de uz medical; Aparate de respirat pentru respirație artificială; Termometre auriculare; Dispozitive electronice pentru monitorizarea temperaturii, de uz medical; Măști de oxigen de uz medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Tehotenské podporné pásy na lekárske účely; Rukavice na lekárske použitie; Brušné pásy na lekárske účely; Vzduchové postele na zdravotné účely; Chirurgické masky; Masky na tvár na lekárske účely; Rúška (pre nemocničný personál); Ochranné masky na tvár na lekárske použitie; Elektricky vyhrievané vankúše na lekárske použitie; Ohrievacie vankúšiky prvej pomoci; Elastické obväzy; Chirurgické odevy; Lekárske teplomery; Sanitárne masky na lekárske účely; Respirátory na umelé dýchanie; Ušné teplomery; Elektronické monitory na meranie teploty na lekárske použitie; Kyslíkové masky na lekárske účely.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oporni pasovi za nosečnice za medicinske namene; Rokavice za medicinske namene; Trebušni pasovi za medicinske namene; Zračne postelje za medicinske namene; Kirurške maske; Obrazne maske za medicinsko uporabo; Maske za medicinsko osebje; Zaščitne obrazne maske za medicinsko uporabo; Električne grelne blazine za uporabo v medicini; Toplotne vrečice za prvo pomoč; Elastični povoji; Halje za kirurško uporabo; Termometri za medicinske namene; Higienske maske za medicinske namene; Respiratorji za umetno dihanje; Ušesni termometri; Elektronski monitorji temperature za medicinsko uporabo; Kisikove maske za medicinsko uporabo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Graviditetsbälten för medicinska ändamål; Handskar för medicinska ändamål; Maggördlar [för medicinska ändamål]; Luftsängar för medicinska ändamål; Operationsmasker; Ansiktsmasker för medicinskt bruk; Munskydd för medicinsk personal; Skyddande ansiktsmasker för medicinskt bruk; Värmedynor, elektriska, för medicinska ändamål; Värmekuddar för första hjälpen ändamål; Bandage (elastiska); Rockar för kirurgiskt bruk; Termometrar för medicinska ändamål; Sanitetsmasker för medicinska ändamål; Respiratorer för konstgjord andning; Örontermometrar; Elektroniska temperaturmonitorer för medicinskt bruk; Syrgasmasker för medicinsk användning.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/141</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079149</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>87424</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

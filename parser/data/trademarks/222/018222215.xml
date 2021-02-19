@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:04:26</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222215</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222215</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-08</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SAIMAZA</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Кафе; Разтворимо кафе; Заместители на кафе; Екстракти от кафе; Декофеинизирано кафе; Кафе капсули, пълни; Капсули с кафе, пълни,; Айс-кафе; Напитки, съдържащи кафе; Напитки от кафе със съдържание на мляко, мляко на прах, заместители на кафе, какао, шоколад, житни растения, плодове, захар, билки или подправки, или комбинация от тези продукти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Káva; Instantní káva; Náhražky kávy; Kávové výtažky; Káva bez kofeinu; Kávové kapsle, plněné; Kávové kapsle, plněné; Ledová káva; Kávové nápoje; Nápoje na bázi kávy obsahující mléko, mléčný prášek, kávové náhražky, kakao, čokoládu, obilniny, ovoce, cukr, byliny nebo koření nebo kombinaci těchto výrobků.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kaffe; Pulverkaffe; Kaffeerstatning; Kaffeekstrakter; Koffeinfri kaffe; Fyldte kaffekapsler; Fyldte kaffekapsler; Iskaffe; Drikke på basis af kaffe; Kaffedrikke indeholdende mælk, mælkepulver, kaffeerstatninger, kakao, kornpræparater, frugter, sukker, urter eller krydderier eller en kombination af disse varer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kaffee; Löslicher Kaffee; Kaffee-Ersatz; Kaffeeextrakte; Entkoffeinierter Kaffee; Kaffeekapseln, gefüllt; Kaffeekapseln, gefüllt; Eiskaffee; Kaffeegetränke; Milchhaltige Kaffeegetränke, Milchpulver, Kaffee-Ersatz, Kakao, Schokolade, Cerealien, Früchte, Zucker, Kräuter oder Gewürze oder eine Kombination dieser Produkte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καφές· Στιγμιαίος καφές· Υποκατάστατα καφέ· Εκχυλίσματα καφέ· Καφές χωρίς καφεΐνη· Κάψουλες καφέ, γεμάτες· Κάψουλες καφέ, γεμάτες· Παγωμένος καφές· Ποτά με βάση τον καφέ· Ροφήματα καφέ με γάλα, σκόνη γάλακτος, υποκατάστατα καφέ, κακάο, σοκολάτα, δημητριακά, φρούτα, ζάχαρη, βότανα ή μπαχαρικά ή συνδυασμός των προϊόντων αυτών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Coffee; Instant coffee; Coffee substitutes; Coffee extracts; Decaffeinated coffee; Coffee capsules, filled; Coffee pods, filled; Iced coffee; Coffee-based beverages; Coffee beverages containing milk, milk powder, coffee substitutes, cocoa, chocolate, cereals, fruits, sugar, herbs or spices or a combination of these products.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Café; Café instantáneo; Sucedáneos del café; Extracto de café; Café descafeinado; Capsulas de café, llenas; Capsulas de café, llenas; Café helado; Bebidas a base de café; Bebidas de café que contengan leche, leche en polvo, sustitutos de café, cacao, chocolate, cereales, frutas, azúcar, hierbas o especias o una combinación de estos productos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kohv; Lahustuv kohv; Kohvi aseained; Kohviekstraktid; Kofeiinivaba kohv; Täidetud kohvikapslid; Täidetud kohvikapslid; Jääkohv; Kohvijoogid; Kohvijoogid, mis sisaldavad piima, piimapulbrit, kohvi aseaineid, kakaod, šokolaadi, teravilja, puuvilju, suhkrut, ürte või vürtse või nende toodete kombinatsioone.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kahvi; Pikakahvi; Kahvinkorvike; Kahviuutteet; Kofeiiniton kahvi; Kahvikapselit, täytetyt; Kahvikapselit, täytetyt; Jääkahvi; Juomat, kahvipohjaiset; Kahvijuomat, jotka sisältävät maitoa, maitojauhetta, kahvinkorvikkeita, kaakaota, suklaata, viljoja, hedelmiä, sokeria, yrttejä tai mausteita tai näiden tuotteiden yhdistelmiä.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Café; Café soluble; Succédanés du café; Extraits de café; Café décaféiné; Capsules de café, remplies; Dosettes de café remplies; Café glacé; Boissons à base de café; Boissons à base de café contenant du lait, du lait en poudre, des succédanés du café, du cacao, du chocolat, des céréales, des fruits, du sucre, des herbes ou des épices ou une combinaison de ces produits.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kava; Instant kava; Nadomjesci kave; Ekstrakti kave; Kava bez kofeina; Kapsule kave, napunjene; Kapsule kave, napunjene; Ledena kava; Pića na bazi kave; Pića na bazi kave koja sadržavaju mlijeko, mlijeko u prahu, zamjene za kavu, kakao, čokoladu, žitarice, voće, šećer, bilje ili začine ili kombinaciju navedenih proizvoda.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kávé; Instant kávé; Pótkávé; Kávékivonatok; Koffeinmentes kávék; Kávékapszulák, megtöltött; Kávépárnák, töltött; Jegeskávék; Kávé alapú italok; Tejet, tejport, kávéhelyettesítőket, kakaót, gabonaféléket, gyümölcsöt, cukrot, gyógyfüveket vagy fűszereket, vagy ezen termékek kombinációját tartalmazó kávéitalok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Caffè; Caffè solubile; Succedanei del caffè; Estratti di caffè; Caffè decaffeinato; Capsule per caffè, piene; Cialde di caffè, piene; Caffè freddo; Bevande a base di caffè; Bevande al caffè contenenti latte, latte in polvere, succedanei del caffè, cacao, cereali, frutta, zucchero, erbe o spezie o combinazioni dei suddetti prodotti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kava; Tirpioji kava; Kavos pakaitalai; Kavos ekstraktai; Kava be kofeino; Kavos kapsulės, pripildytos; Plikymui paruošti, pripildyti kavos pakeliai; Šalta kava; Kavos gėrimai; Kavos gėrimai su pienu, pieno milteliais, kavos pakaitalais, kakava, šokoladu, grūdais, vaisiais, cukrumi, žolelėmis ar prieskoniais arba šių produktų deriniu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kafija; Šķīstošā kafija; Kafijas aizstājēji; Kafijas ekstrakti; Bezkofeīna kafija; Pildītas kafijas kapsulas; Pildītas kafijas kapsulas; Ledus kafija; Kafijas dzērieni; Kafijas dzērieni ar pienu, piena pulveris, kafijas aizstājēji, kakao, graudaugi, augļi, cukurs, ārstnieciskie augi vai garšvielas, vai šo produktu maisījumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kafè; Kafè solubbli; Kafè artifiċjali; Estratti tal-kafè; Kafè mingħajr kafeina; Kapsuli tal-kafè, mimlijin; Imżiewed tal-kafè, mimlijin; Kafè mkessaħ; Xorb ibbażat fuq il-kafè; Xorb tal-kafè li fih ħalib, trab tal-ħalib, sostituti tal-kafè, kawkaw, ċikkulata, ċereali, frott, zokkor, ħxejjex aromatiċi jew ħwawar jew taħlita ta' dawn il-prodotti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Koffie; Instantkoffie; Koffiesurrogaten; Koffie-extracten; Cafeïnevrije koffie; Koffiecapsules, gevuld; Koffiepads, gevuld; Ijskoffie; Dranken op basis van koffie; Koffiedranken die melk, melkpoeder, koffiesurrogaten, cacao, chocolade, granen, vruchten, suiker, kruiden of specerijen of een combinatie van deze producten bevatten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kawa; Kawa rozpuszczalna; Kawa nienaturalna; Ekstrakty z kawy; Kawa bezkofeinowa; Kapsułki na kawę, napełnione; Kapsułki na kawę, napełnione; Mrożona kawa; Napoje na bazie kawy; Napoje kawowe z mlekiem, mleko w proszku, kawa nienaturalna, kakao, czekolada, płatki zbożowe, owoce, cukier, zioła lub przyprawy bądź mieszanki tych produktów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Café; Café instantâneo; Sucedâneos do café; Extratos de café; Café descafeinado; Cápsulas de café, cheias; Cápsulas de café, cheias; Café gelado; Bebidas à base de café; Bebidas de café contendo leite, leite em pó, sucedâneos do café, cacau, chocolate, cereais, frutos, açúcar, ervas ou especiarias ou uma combinação destes produtos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cafea; Cafea solubilă; Înlocuitori de cafea; Extracte de cafea; Cafea decafeinizată; Capsule de cafea, plie; Capsule de cafea umplute; Cafea cu gheaţă; Băuturi pe bază de cafea; Băuturi din cafea, cu conținut de lapte, lapte praf, înlocuitori de cafea, cacao, ciocolată, cereale, fructe, zahăr, ierburi aromate sau mirodenii sau o combinație a acestor produse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Káva; Instantná káva; Kávové náhradky; Kávové výťažky; Bezkofeínová káva; Plnené kávové kapsuly; Porciovaná káva (tobolky), s obsahom; Ľadová káva; Kávové nápoje; Kávové nápoje obsahujúce mlieko, mlieko v prášku, náhrady kávy, kakao, čokoládu, obilniny, ovocie, cukor, byliny alebo koreniny alebo kombinácie týchto výrobkov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kava; Instant kava; Kavni nadomestki; Kavni ekstrakti; Brezkofeinska kava; Polne kavne kapsule; Polne kavne kapsule; Ledena kava; Pijače na osnovi kave; Kavne pijače, ki vsebujejo mleko, mleko v prahu, kavne nadomestke, kakav, čokolado, žita, sadje, sladkor, zelišča ali začimbe ali kombinacijo teh izdelkov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kaffe; Snabbkaffe; Kaffeersättning; Kaffeextrakt; Koffeinfritt kaffe; Kaffekapslar, fyllda; Behållare fyllda med kaffebönor; Iskaffe; Kaffebaserade drycker; Kaffedrycker som innehåller mjölk, mjölkpulver, kaffeersättningar, kakao, spannmål, frukt, socker, örter eller kryddor eller en kombination av dessa produkter.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/079</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>494399</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11068</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

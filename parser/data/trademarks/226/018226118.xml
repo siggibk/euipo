@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-25T15:36:47</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226118</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226118</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-08-13</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>vLinker</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162303280</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226118/000162303280.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Апаратура за обработка на данни; Скенери [уреди за обработка на данни]; Ръчни 3D скенери; Скенери за изображения; Централни процесорни устройства за обработка на информация, данни, звук или изображения; Радиоприемници за превозни средства; Апарати за глобално позициониращи системи [GPS]; Апарати за контрол на скоростта на превозни средства; Геодезични апарати и инструменти; Прецизни измервателни апарати.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zařízení na zpracování dat; Skenery [zařízení pro zpracování dat]; Ruční 3D skenery; Skenery (snímače obrazů); Centrální procesorové jednotky pro zpracování informací, dat, zvuku nebo obrazu; Autorádia; Navigační zařízení Globálního polohového systému (GPS); Zařízení na kontrolu rychlosti pro vozidla; Geodetické přístroje a nástroje; Přístroje pro přesná měření.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Databehandlingsapparater; Scannere [databehandlingsudstyr]; Håndholdte 3D-scannere; Billedskannere; Processorer til behandling af information, data, lyd eller billeder; Radioer til befordringsmidler; Global Positioning System [GPS] apparater; Fartkontrolapparater til befordringsmidler; Geodætiske apparater og instrumenter; Præcisionsmåleapparater.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Datenverarbeitungsgeräte; Scanner [Datenverarbeitungsgeräte]; Tragbare 3D-Scanner; Bildscanner; Zentraleinheiten für die Informations-, Daten-, Ton- oder Bildverarbeitung; Radios für Fahrzeuge; GPS-Geräte; Geschwindigkeitskontrollgeräte für Fahrzeuge; Vermessungsapparate und -instrumente; Präzisionsmessgeräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Συσκευή επεξεργασίας δεδομένων· Σαρωτές [εξοπλισμός επεξεργασίας δεδομένων]· Τρισδιάστατοι σαρωτές χειρός· Σαρωτές εικόνων· Κεντρικές μονάδες επεξεργασίας πληροφοριών, δεδομένων, ήχου ή εικόνων· Ραδιόφωνα οχημάτων· Συσκευές παγκόσμιου συστήματος προσδιορισμού θέσης [GPS]· Ελέγχου ταχύτητας (Όργανα -) για οχήματα· Τοπογραφικές (- συσκευές και όργανα)· Μέτρηση ακριβείας (Συσκευές -ης -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Data processing apparatus; Scanners [data processing equipment]; Hand-held 3D scanners; Image scanners; Central processing units for processing information, data, sound or images; Vehicle radios; Global Positioning System [GPS] apparatus; Speed checking apparatus for vehicles; Surveying apparatus and instruments; Precision measuring apparatus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aparatos de procesamiento de datos; Escáneres [equipos de procesamiento de datos]; Escáneres tridimensionales portátiles; Aparatos de escáner de imágenes; Unidades centrales para procesar información, datos, sonido o imágenes; Aparatos de radio para vehículos; Aparatos para sistemas mundiales de determinación de la posición [GPS]; Aparatos de control de velocidad para vehículos; Aparatos e instrumentos geodésicos; Aparatos para mediciones de precisión.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Andmetöötlusseadmed; Skannerid, skaneerseadmed [andmetöötlusseadmed]; Käeshoitavad 3D-skannerid; Kujutise skannerid; Teabe, andmete, heli või kujutiste töötlemise keskprotsessorid; Autoraadiod, sõidukiraadiod; Globaalse positsioneerimise seadmed, GPS-seadmed; Sõidukite kiiruspiirikud; Geodeesiaaparaadid ja -seadmed; Täppismõõteriistad, täppismõõdikud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tietojenkäsittelylaitteet; Kuvanlukijat [skannerit], tietokoneisiin; Kädessä pidettävät 3D-skannerit; Skannerit; Keskusyksiköt tietojen, datan, äänen tai kuvien käsittelyyn; Ajoneuvoradiot; GPS-laitteet; Ajonopeuden tarkistuslaitteet; Geodeettiset laitteet; Täsmämittauslaitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Appareils de traitement de données; Scanneurs [explorateurs] [équipements de traitement de données]; Scanners 3D portables; Scanneurs d'image; Unités centrales de traitement d'informations, de données, de sons ou d'images; Appareils de radio pour véhicules; Appareils pour systèmes de repérage universel [GPS]; Contrôleurs de vitesse pour véhicules; Appareils et instruments géodésiques; Appareils de mesure de précision.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Uređaji za obradu podataka; Skeneri [oprema za obradu podataka]; Ručni 3D skeneri; Skeneri za slike; Središnje procesne jedinice za procesiranje informacija, podataka, zvuka ili slike; Radioaparati za automobile; Uređaji za globalno pozicioniranje [GPS]; Kontrolnici brzine vozila; Geodetski uređaji i instrumenti; Aparati za precizno mjerenje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Adatfeldolgozó készülékek, berendezések; Szkennerek [adatfeldolgozó eszközök]; Kézi működtetésű háromdimenziós szkennerek; Képszkennerek; Központi feldolgozó egységek információk, adatok, hangok vagy képek feldolgozásához; Autórádiók; GPS készülékek; Sebesség-ellenőrző készülékek járművekhez; Földmérő berendezések és eszközök; Precíziós mérőműszerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Apparecchi per l'elaborazione di dati; Scanners [informatica]; Scanner 3D portatili; Scanner di immagini; Unità centrali di elaborazione di informazioni, dati, suoni o immagini; Apparecchi radio per veicoli; Apparecchi GPS [Sistema di Posizionamento Globale]; Apparecchi di controllo della velocità di veicoli; Apparecchi e strumenti geodesici; Apparecchi di misura di precisione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Duomenų apdorojimo įranga; Skleistuvai [duomenų dorojimo įrenginiai]; Rankiniai 3D skeneriai; Vaizdo skeneriai; Centriniai informacijos, duomenų, garso ar vaizdo apdorojimo procesoriai; Transporto priemonių radijo imtuvai; Globalinės padėties nustatymo sistemos [GPS] aparatai; Greičio tikrinimo aparatai (Transporto priemonių -); Geodezijos aparatai ir prietaisai; Tikslieji matavimo prietaisai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Datu apstrādes ierīces; Skeneri (datu apstrādes iekārtas); Rokas 3D skeneri; Attēlu skeneri; Centrālie procesori informācijas, datu, skaņas vai attēlu apstrādei; Radiouztvērēji automobiļiem; Globālās pozicionēšanas sistēmas [GPS] iekārta; Ātruma pārbaudes ierīces transportlīdzekļiem; Ģeodēzijas aparatūra un ierīces; Augstas precizitātes mēraparāti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Apparat għall-ipproċessar tad-data; Skaners [tagħmir għal proċessar ta' data]; Skaners 3D li jinżammu fl-idejn; Magna li tiskannja l-immaġini; Unitajiet ċentrali tal-ipproċessar għall-ipproċessar ta' informazzjoni, dejta, ħsejjes jew immaġni; Radjijiet tal-vetturi; Apparat ta' Sistema ta' Pożizzjonar Globali [GPS]; Tagħmir li jkejjel il-veloċità għal vetturi; Apparat u strumenti għal stħarriġ; Apparat għall-kejl bi preċiżjoni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Gegevensverwerkende apparatuur; Scanners [apparaten voor gegevensverwerking]; Draagbare 3D-scanners; Beeldscanners; Centrale verwerkingseenheden voor het verwerken van informatie, gegevens, geluid of beelden; Autoradio's; GPS-systemen; Snelheidscontrole-apparaten voor voertuigen; Geodetische apparatuur en instrumenten; Precisiemeetapparaten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia do przetwarzania danych; Skanery [urządzenia do przetwarzania danych]; Podręczne skanery 3D; Skanery obrazu; Centralne jednostki przetwarzające do przetwarzania informacji, danych, dźwięku lub obrazów; Radia samochodowe; Urządzenia systemu GPS; Prędkościomierze do pojazdów; Urządzenia i przyrządy geodezyjne; Urządzenia do pomiarów precyzyjnych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aparelhos de processamento de dados; Scanners [equipamento informático]; Scanners 3D portáteis; Scanners de imagem; Unidades centrais de processamento para tratamento de informações, dados, sons ou imagens; Aparelhos de rádio para veículos; Dispositivos para sistemas GPS; Controladores de velocidade para veículos; Aparelhos e instrumentos geodésicos; Aparelhos de medição de precisão.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Echipamente de procesare a datelor; Scanere [echipamente pentru procesarea datelor]; Scanere 3D portabile; Scanere de imagini; Unităţi centrale de procesare pentru procesarea informaţiilor, datelor, sunetelor sau imaginilor; Radio (Aparate de -) pentru vehicule; Aparate de sistem de poziţionare globală [GPS]; Aparate de control al vitezei pentru vehicule; Aparate şi instrumente topografice; Aparate de măsură de precizie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Zariadenia na spracovanie údajov; Skenery (zariadenia na spracovanie údajov); Ručné 3D skenery; Skenery; Centrálne spracovateľské jednotky na spracovanie informácií, dát, zvuku alebo obrazu; Autorádiá; Zariadenia globálneho polohového systému (GPS); Tachometre dopravných prostriedkov; Geodetické prístroje a nástroje; Presné meracie prístroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Aparati za obdelavo podatkov; Skenerji [oprema za obdelavo podatkov]; Ročni 3D skenerji; Skenerji; Centralne procesne enote za obdelavo informacij, podatkov, zvoka ali slik; Radio sprejemniki za vozila; GPS aparati [Sistemi za globalno pozicioniranje]; Naprave za kontrolo hitrosti vozil; Geodetski aparati in instrumenti; Aparati za natančno merjenje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Databehandlingsapparater; Scannrar [databehandlingsutrustning]; Handhållna 3D-skannrar; Bildskannrar; Centrala processorenheter för behandling av information, data, ljud eller bilder; Radioapparater för fordon och farkoster; Satellitnavigationssystemapparater [GPS]; Hastighetskontrollapparater för fordon och farkoster; Geodetiska apparater och instrument; Precisionsmätapparater.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Агенции за внос и износ; Предоставяне на бизнес информация чрез уебсайт; Осигуряване на онлайн пазар за покупко-продажби на стоки и услуги; Административни услуги за преместване на бизнес; Оптимизиране на търсещи системи с цел насърчаване на продажбите; Оптимизиране на търсещи системи с цел насърчаване на продажбите; Индексиране на съдържанието на уебсайтове за търговски и рекламни цели; Онлайн реклама в компютърна мрежа; Проучване на пазара; Организация на търговски панаири; Насърчаване на продажбите [за трети лица].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby agentury zaměřené na export a import; Poskytování obchodních informací prostřednictvím webových stránek; Provozování online trhu pro kupující a prodejce výrobků a služeb; Administrativní služby zaměřené na relokaci firem; Optimalizace vyhledávačů pro účely podpory prodeje; Optimalizace vyhledávačů pro účely podpory prodeje; Indexace webových stránek pro obchodní nebo reklamní účely; Online inzerce v počítačové síti; Průzkum trhu; Organizace obchodních veletrhů; Podpora prodeje jiných osob.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Import- og eksportagenturer; Stillen forretningsinformation til rådighed via et websted; Tilvejebringelse af en onlinemarkedsplads til købere og sælgere af varer og tjenesteydelser; Administrative tjenester vedrørende flytning af virksomheder; Optimering af søgemaskiner til markedsføring; Optimering af søgemaskiner til markedsføring; Webindeksering med kommercielle eller reklamemæssige formål; Online-annoncering på et computernetværk; Marketingsundersøgelser; Organisering af messer; Salgsfremmende foranstaltninger for andre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Dienstleistungen einer Im- und Exportagentur; Bereitstellung von Geschäftsinformationen über eine Web-Site; Bereitstellen eines Online-Marktplatzes für Käufer und Verkäufer von Waren und Dienstleistungen; Durchführung von Unternehmensverlagerungen; Optimierung von Suchmaschinen zur Verkaufsförderung; Optimierung von Suchmaschinen zur Verkaufsförderung; Indexierung von Webseiten für Geschäfts- und Werbezwecke; Online-Werbung in einem Computernetzwerk; Marktforschung; Organisation von Handelsmessen; Verkaufsförderung [Sales promotion] [für Dritte].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Πρακτορεία εισαγωγών-εξαγωγών· Παροχή επιχειρηματικών πληροφοριών μέσω δικτυακού τόπου· Παροχή χώρων αγορών επί γραμμής για αγοραστές και πωλητές προϊόντων και υπηρεσιών· Υπηρεσίες διοίκησης για μετεγκατάσταση επιχειρήσεων· Βελτιστοποίηση μηχανών αναζήτησης για προώθηση πωλήσεων· Βελτιστοποίηση μηχανών αναζήτησης για προώθηση πωλήσεων· Διαδικτυακή ευρετηρίαση για εμπορικούς ή διαφημιστικούς σκοπούς· Διαφήμιση on line σε δίκτυο πληροφορικής· Έρευνα αγοράς· Οργάνωση εμπορικών εκθέσεων· Προώθηση πωλήσεων [για τρίτους].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Import-export agency services; Providing business information via a web site; Provision of an online marketplace for buyers and sellers of goods and services; Administrative services for the relocation of businesses; Search engine optimization for sales promotion; Search engine optimisation for sales promotion; Web indexing for commercial or advertising purposes; Online advertising on a computer network; Marketing research; Organization of trade fairs; Sales promotion for others.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de agencias de importación-exportación; Suministro de información comercial por sitios web; Suministro de espacios de venta en línea para vendedores y compradores de productos y servicios; Servicios administrativos para la mudanza de empresas; Optimización de motores de búsqueda para la promoción de ventas; Optimización de motores de búsqueda para la promoción de ventas; Indexación web con fines comerciales o publicitarios; Publicidad en línea por una red informática; Servicios de investigación de mercados; Organización de ferias comerciales; Promoción de ventas para terceros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ekspordi- ja impordiagentuuride teenused; Äriinfo pakkumine veebilehekülgedel; Veebipõhise müügikeskkonna pakkumine kaupade ja teenuste ostjatele ning müüjatele; Ettevõtete ümberpaigutamise haldusteenused; Otsingumootorite optimeerimine müügiedendusena; Otsingumootorite optimeerimine müügiedendusena; Veebi indekseerimine äri või reklaami eesmärgil; Arvutivõrgureklaam; Turu-uuringud; Kaubalaatade korraldamine; Müügikampaaniad, -reklaam teenusena.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tuonti- ja vientiagentuuripalvelut; Liiketoimintatietojen tarjoaminen verkkosivuston välityksellä; Online-markkinapaikan tarjoaminen tavaroiden ja palvelujen ostajille ja myyjille; Liikeyritysten uudelleensijoittamiseen liittyvät hallinnolliset palvelut; Hakukoneiden optimointi myynnin edistämiseksi; Hakukoneiden optimointi myynnin edistämiseksi; Verkkoluetteloiden tekeminen kaupan tai mainonnan tarkoituksiin; Online-mainonta tietoverkoissa; Markkinatutkimus; Messujen järjestäminen; Myynninedistäminen [muille].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services d'agences d'import-export; Informations commerciales par le biais de sites web; Mise à disposition d'espaces de vente en ligne pour acheteurs et vendeurs de produits et services; Services administratifs de relogement pour entreprises; Optimisation de moteurs de recherche pour la promotion des ventes; Optimisation de moteurs de recherche pour la promotion des ventes; Référencement de sites web à but commercial ou publicitaire; Publicité en ligne sur un réseau informatique; Étude de marché; Organisation de foires commerciales; Promotion des ventes pour des tiers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Agencije za uvoz-izvoz; Pružanje poslovnih informacija putem web-stranice; Pružanje internetskog tržišnog prostora za kupce i prodavatelje proizvoda i usluga; Administrativne usluge za preseljenja poduzeća; Optimizacija pretraživača za promidžbu prodaje; Optimizacija pretraživača za promidžbu prodaje; Indeksiranje internetskih stranica za komercijalne ili promidžbene potrebe; Online oglašavanje na računalnim mrežama; Istraživanje tržišta; Organizacija trgovačkih sajmova; Promicanje prodaje za treće osobe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Import-export ügynökségek; Üzleti információk nyújtása weboldalon keresztül; Online piactér biztosítása áruk és szolgáltatások eladói és vásárlói részére; Adminisztratív szolgáltatások vállalkozások áthelyezéséhez; Keresőmotor-optimalizálás reklámozás céljából; Keresőmotor-optimalizálás reklámozás céljából; Webindexelés kereskedelmi vagy reklám célokra; On-line hirdetői tevékenység számítógépes hálózaton; Piackutatás; Kereskedelmi vásárok rendezése; Értékesítési promóciós szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di agenzie per l'importazione e l'esportazione; Informazioni commerciali diffuse tramite siti web; Fornitura su mercato on-line di beni e servizi per acquirenti e venditori; Servizi amministrativi per la delocalizzazione delle imprese; Ottimizzazione di motori di ricerca per la promozione delle vendite; Ottimizzazione di motori di ricerca per la promozione delle vendite; Indicizzazione sul web per scopi commerciali o pubblicitari; Pubblicità on-line su rete informatica; Indagini di mercato; Organizzazione di fiere commerciali; Promozione delle vendite per i terzi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Importo ir eksporto agentūrų paslaugos; Verslo informacijos teikimas visuotinio kompiuterių tinklo svetainėse; Interneto prekyviečių teikimas prekių ir paslaugų pardavėjams bei pirkėjams; Administravimo paslaugos, skirtos verslo perkėlimui; Paieškos sistemos optimizavimas pardavimo skatinimo reikmėms; Paieškos sistemos optimizavimas pardavimo skatinimo reikmėms; Žiniatinklio indeksavimas komercijos ar reklamos reikmėms; Viešasis elektroninis reklamavimas kompiuterių tinkle; Rinkotyra; Prekybos parodų organizavimas; Prekių pardavimo skatinimas [kitiems].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Importa-eksporta aģentūru pakalpojumi; Uzņēmējdarbības informācijas nodrošināšana tīmekļa vietnē; Tiešsaistes tirgus nodrošināšana preču un pakalpojumu pārdevējiem un pircējiem; Administratīvie pakalpojumi uzņēmumu pārvietošanai; Meklētājprogrammu optimizācija tirdzniecības veicināšanai; Meklētājprogrammu optimizācija tirdzniecības veicināšanai; Atsauču norādīšana tīmekļa lapām komerciālos vai reklāmas nolūkos; Reklāma tiešsaistes režīmā, izmantojot datortīklus; Tirgus izpēte; Gadatirgu organizēšana; Preču noieta veicināšana trešajām personām.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' aġenzija tal-importazzjoni u esportazzjoni; Forniment ta' informazzjoni dwar negozju permezz ta' sit web; Forniment ta' suq onlajn għal xerrejja u bejjiegħa ta' prodotti u servizzi; Servizzi amministrattivi għar-rilokazzjoni ta' negozji; Ottimizzazzjoni ta' magna tat-tiftix għall-promozzjoni tal-bejgħ; Ottimizzazzjoni ta' magna tat-tiftix għall-promozzjoni tal-bejgħ; Indiċjar web għall-finijiet kummerċjali jew ta' reklamar; Reklamar onlajn fuq netwerk tal-kompjuters; Riċerka tas-suq; Organizzazzjoni ta' fieri kummerċjali; Il-promozzjoni tal-bejgħ għal oħrajn.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Import- en exportagentschappen; Handelsinformatie via websites; Ter beschikking stellen van online verkoopplaats voor kopers en verkopers van goederen en diensten; Administratieve diensten voor herhuisvesting van bedrijven; Optimalisatie van zoekmachines voor verkooppromotie; Optimalisatie van zoekmachines voor verkooppromotie; Web indexering voor commerciële of publicitaire doeleinden; Reclame [on-line] op een computernetwerk; Marketing onderzoek; Organisatie van handelsbeurzen; Verkooppromotie [voor derden].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi agencji importowo-eksportowych; Udostępnianie informacji o działalności gospodarczej za pośrednictwem strony internetowej; Zapewnianie platformy internetowej dla nabywców i sprzedawców towarów i usług; Usługi administracyjne w zakresie usług przenoszenia firmy; Optymalizacja wyszukiwarek do celów promocji dodatkowej; Optymalizacja wyszukiwarek do celów promocji dodatkowej; Indeksowanie stron internetowych w celach handlowych lub reklamowych; Reklama online za pośrednictwem sieci komputerowej; Badania rynkowe; Organizacja targów handlowych; Promocja sprzedaży dla osób trzecich.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Agências de importação-exportação; Fornecimento de informações comerciais através de um website; Disponibilização de um espaço de mercado on-line para compradores e vendedores de produtos e serviços; Serviços administrativos para relocalização de empresas; Otimização de motores de busca para promoção de vendas; Otimização de motores de busca para promoção de vendas; Indexação Web para fins comerciais ou publicitários; Publicidade on-line numa rede informática; Estudos de mercado; Organização de feiras comerciais; Promoção de vendas [para terceiros].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Agenţii de import-export; Furnizare de informaţii de afaceri prin intermediul unui site; Furnizarea unei pieţe online pentru cumpărătorii şi vânzătorii de bunuri şi servicii; Servicii administrative pentru relocarea firmelor; Optimizarea motoarelor de căutare pentru promovarea vânzărilor; Optimizarea motoarelor de căutare pentru promovarea vânzărilor; Indexare web în scop comercial sau publicitar; Publicitate on-line într-o reţea informatizată; Studii de piaţă; Organizare de târguri comerciale; Promovarea vânzărilor pentru terţi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kancelárie zaoberajúce sa dovozom a vývozom; Poskytovanie obchodných informácií prostredníctvom webových stránok; Online poskytovanie obchodného priestoru pre nákupcov a predajcov tovarov a služieb; Administratívne služby v oblasti sťahovania podnikov; Optimalizácia internetových vyhľadávačov na podporu predaja; Optimalizácia internetových vyhľadávačov na podporu predaja; Indexovanie webových stránok na obchodné alebo reklamné účely; Online reklama na počítačovej komunikačnej sieti; Marketingový prieskum; Organizácia obchodných veľtrhov; Podpora predaja (pre tretie osoby).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Uvozno - izvozne agencije; Nudenje poslovnih informacij preko spletne strani; Zagotavljanje spletnega trga za kupce in prodajalce blaga in storitev; Administrative storitve za selitev podjetij; Optimizacija iskalnikov za pospeševanje prodaje; Optimizacija iskalnikov za pospeševanje prodaje; Spletno indeksiranje za komercialne ali oglaševalske namene; Spletno oglaševanje preko računalniškega omrežja; Tržne raziskave; Organiziranje trgovskih sejmov; Pospeševanje prodaje (za druge).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Import-exportagenturer; Upplåtande av affärsinformation via en hemsida; Tillhandahållande av en marknadsplats on-line för köpare och säljare av varor och tjänster; Administrativa tjänster för omlokalisering av företag; Sökmotoroptimering som säljfrämjande verksamhet (sales promotion); Sökmotoroptimering som säljfrämjande verksamhet (sales promotion); Webbindexering för kommersiella eller reklamändamål; Annonsering on-line via datanätverk; Marknadsundersökningar; Organisation av handelsmässor; Sales promotiontjänster.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Провеждане на технически проектни проучвания; Изследвания в областта на механиката; Проучване и разработване на нови продукти за трети лица; Проектиране на интегрални схеми; Тестване на функционалността на апарати и инструменти; Изпитване на продукти; Дизайн на опаковки; Софтуер като услуги; Създаване и разработка на уебсайтове за трети лица; Предоставяне на търсачки за интернет.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Provádění studií technických projektů; Výzkum ve strojírenství; Výzkum a vývoj nových výrobků pro jiné osoby; Návrhářské služby vztahující se k integrovaným obvodům; Testování funkčnosti přístrojů a nástrojů; Testování výrobků; Navrhování obalů, obalový design; Software jako služba [SaaS]; Tvorba a navrhování webových stránek pro třetí osoby; Provozování internetových vyhledávačů.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Gennemførelse af tekniske projektstudier; Forskning vedrørende mekanik; Forskning i og udvikling af nye produkter for andre; Design af integrerede kredsløb; Afprøvning af apparaters og instrumenters funktionalitet; Produktafprøvning; Design af emballage; Software as a service [saas]; Udarbejdelse og design af websider for andre; Stillen søgemaskiner til rådighed på internettet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Durchführung von technischen Projektplanungen; Forschungen auf dem Gebiet des Maschinenbaus; Recherche- und Entwicklungsdienste bzgl. neuer Produkte für Dritte; Entwurfsdienstleistungen in Bezug auf integrierte Schaltkreise; Prüfung der Funktionalität von Apparaten und Instrumenten; Produktprüfung; Dienstleistungen eines Verpackungsdesigners; Software as a Service [SaaS]; Gestaltung und Konzeption von Webseiten für Dritte; Bereitstellung von Suchmaschinen für das Internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διεξαγωγή μελετών τεχνικών έργων· Μηχανολογικής (Έρευνες -)· Ερευνα και ανάπτυξη νέων προϊόντων για άλλους· Σχεδιασμός ολοκληρωμένων κυκλωμάτων· Δοκιμή λειτουργικότητας συσκευών και οργάνων· Δοκιμή προϊόντων· Σχεδιαστών συσκευασίας (Υπηρεσίες -)· Λογισμικό σαν υπηρεσία· Δημιουργία και σχεδιασμός ιστοσελίδων για λογαριασμό τρίτων· Λειτουργία μηχανής αναζήτησης για το Διαδίκτυο.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Conducting technical project studies; Mechanical research; Research and development of new products for others; Design of integrated circuits; Testing the functionality of apparatus and instruments; Product testing; Packaging design; Software as a service [SaaS]; Creating and designing web pages for others; Providing search engines for the internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Realización de estudios de proyectos técnicos; Investigación en mecánica; Investigación y desarrollo de nuevos productos para terceros; Servicios de diseño relacionados con circuitos integrados; Comprobar la funcionalidad de aparatos e instrumentos; Prueba de productos; Servicios de diseñadores de embalajes; Software como servicio [SaaS]; Creación y diseño de páginas web para terceros; Motores de búsqueda para Internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Tehniliste projektiuuringute läbiviimine; Mehaanikauuringud; Uute toodete uuringud ja arendamine teenusena; Integraallülituste projekteerimine; Seadmete ja riistade funktsioonide katsetamine; Toodete testimine; Pakendidisain, -kujundus; Pilveteenused [SaaS]; Veebisaitide loomine ja kujundamine, teistele isikutele; Interneti otsimootorite loomine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Teknisten projektitutkimusten suorittaminen; Mekaniikkaan liittyvä tutkimus; Tutkimus- ja kehitystyö muille; Mikropiirien suunnittelu; Laitteiden ja välineiden toimivuuden testaus; Tuotetestaus; Pakkausten muotoilu; Verkkosovelluspalvelut [SaaS]; WWW-sivustojen laadinta ja suunnittelu kolmansille osapuolille; Internetin hakukonepalveluiden tarjoaminen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Conduite d'études de projets techniques; Recherches en mécanique; Recherche et développement de nouveaux produits pour des tiers; Services de conception de circuits intégrés; Test de la fonctionnalité d'appareils et d'instruments; Services d'essais de produits; Services de conception d'emballage; Logiciel-service [SaaS]; Création et conception de sites Web pour le compte de tiers; Fourniture de moteurs de recherche sur Internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Provedba studija tehničkih projekata; Istraživanja u mehanici; Istraživanje i razvoj za druge; Usluge projektiranja u svezi s integriranim krugovima; Testiranje funkcionalnosti aparata i instrumenata; Testiranje proizvoda; Ambalaža (usluge crtača ambalaže); Softver kao usluga [SaaS]; Izrada i dizajn Web stranica za druge; Ponuda pretraživača za Internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Műszaki tervtanulmányok készítése; Mechanikai kutatás; Kutatási és fejlesztési szolgáltatások; Integrált áramkörökhöz kapcsolódó tervezési szolgáltatások; Berendezések és műszerek működésének ellenőrzése; Termékek tesztelése; Csomagolástervezés; Szoftver mint szolgáltatás [SaaS]; Weboldalak készítése és tervezése; Internetes keresőmotorok biztosítása.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Conduzione di studi di progetti tecnici; Ricerche in meccanica; Ricerca e sviluppo di nuovi prodotti per i terzi; Progettazione di circuiti integrati; Esame della funzionalità di apparecchi e strumenti; Test di prodotti; Servizi di disegnatori per imballaggi; Servizi di software [SaaS]; Creazione e progettazione di pagine web per terzi; Fornitura di motori di ricerca per internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Techninių projektų tyrimų vedimas; Mechanikos tyrimai; Naujų produktų tyrimas ir kūrimas (paslaugos kitiems); Projektavimo paslaugos, susijusios su integriniais grandynais; Aparatų ir instrumentų funkcionalumo testavimas; Produktų bandymai; Taros ir pakuočių dizainas; Programinė įranga kaip paslauga [SaaS]; Tinklalapių kūrimas ir projektavimas kitiems; Internetinių paieškos sistemų parūpinimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Tehnisko projektu izpēte; Pētījumi mehānikā; Izpētes, izstrādes un attīstīšanas pakalpojumi trešajām personām; Projektēšanas pakalpojumi saistībā ar integrētajām shēmām; Aparātu un instrumentu funkcionalitātes testēšana; Produktu testēšana; Iepakojuma dizaina pakalpojumi; Programmatūra kā pakalpojums [SaaS]; Tīmekļa vietņu izveide un dizains citiem; Meklētājprogrammu nodrošināšana Internetam.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Twettiq ta' studji ta' proġetti tekniċi; Riċerka fil-mekkanika; Riċerka u żvilupp ta' prodotti ġodda għal oħrajn; Servizzi ta' disinn dwar ċirkwiti integrati; L-ittestjar tal-funzjonalità tal-apparat u l-istrumenti; L-ittestjar ta' prodott; Disinn tal-ippakkjar; Softwer bħala servizz [SaaS]; Ħolqien u disinn ta' paġni ta' siti elettroniċi għal oħrajn; Provvista ta' faċilitajiet ta' tiftix għall-internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Technische projectstudies; Onderzoek op het gebied van de mechanica; Onderzoek en ontwikkeling van nieuwe producten voor derden; Ontwerp met betrekking tot geïntegreerde schakelingen; Het testen van de functionaliteit van apparaten en instrumenten; Het testen van de goederen; Ontwerpen van verpakkingen; Ter beschikking stellen van software [SaaS]; Ontwikkelen en ontwerpen van websites voor anderen; Ter beschikking stellen van zoekmachines voor het internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Opracowywanie projektów technicznych; Badania w dziedzinie mechaniki; Prace badawczo-rozwojowe nad nowymi produktami dla osób trzecich; Usługi projektowania związane z układami scalonymi; Testowanie funkcjonalności sprzętu i instrumentów; Testowanie produktów; Projektowanie opakowań; Oprogramowanie jako usługa [SaaS]; Tworzenie i projektowanie stron internetowych dla osób trzecich; Udostępnienie wyszukiwarek internetowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Realização de estudos de projetos técnicos; Investigação mecânica; Pesquisa e desenvolvimento para terceiros; Serviços de design relacionados com circuitos integrados; Teste da funcionalidade de aparelhos e instrumentos; Testes de produtos; Design de embalagens; Software como serviço [SaaS]; Criação e design de sítios web para terceiros; Fornecimento de motores de pesquisa para a internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Efectuare de studii de proiecte tehnice; Studii în domeniul mecanicii; Cercetare şi dezvoltare de produse noi pentru terţi; Proiectare de circuite integrate; Testarea funcţionalităţii aparatelor şi instrumentelor; Testarea produselor; Design de ambalaje; Software ca serviciu [SaaS]; Crearea şi proiectarea de pagini web pentru terţi; Furnizare de motoare de căutăre în internet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Štúdie technických projektov; Strojársky výskum; Výskum a vývoj nových výrobkov (pre zákazníkov); Navrhovanie integrovaných obvodov; Testovanie funkčnosti prístrojov a nástrojov; Testovanie výrobkov; Navrhovanie obalov, obalové dizajnérstvo; Poskytovanie softvéru prostredníctvom internetu (SaaS); Vytváranie a navrhovanie webových stránok pre tretie osoby; Poskytovanie internetových vyhľadávačov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Izvajanje študij tehničnih projektov; Raziskave na področju strojništva; Raziskave in razvoj za druge; Storitve oblikovanja v zvezi z integriranimi vezji; Preskušanje funkcionalnosti aparatov in instrumentov; Testiranje izdelkov; Oblikovanje embalaže; Programska oprema kot storitev [SaaS]; Izdelava in oblikovanje spletnih strani za druge; Nudenje internetnih iskalnikov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Genomförande av tekniska projektstudier; Forskning avseende mekanik; Forskning och utveckling av nya produkter för andra; Utformningstjänster avseende integrerade kretsar; Testning av funktionen hos apparater och instrument; Produktprovning; Formgivning av emballage; Molntjänster [SaaS]; Utformning och design av webbsidor åt andra; Upplåtande av sökmotorer för internet.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/083</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/155</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080291</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>71602</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003127308</OppositionIdentifier>
+<OppositionDate>2020-08-03</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Likelihood of confusion</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>WO</EarlierMarkCountryCode>
+<DesignatedCountryDetails>
+           <DesignatedCountryCode>ES</DesignatedCountryCode>
+           <DesignatedCountryCode>PL</DesignatedCountryCode>
+           <DesignatedCountryCode>PT</DesignatedCountryCode>
+           <DesignatedCountryCode>SI</DesignatedCountryCode>
+          </DesignatedCountryDetails>
+<ApplicationNumber>1474748</ApplicationNumber>
+<ApplicationDate>2019-01-11</ApplicationDate>
+<RegistrationNumber>1474748</RegistrationNumber>
+<RegistrationDate>2019-01-11</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>SELECTION D'EXPERTS linkster</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>FR</EarlierMarkCountryCode>
+<ApplicationNumber>4443755</ApplicationNumber>
+<ApplicationDate>2018-04-06</ApplicationDate>
+<RegistrationNumber>4443755</RegistrationNumber>
+<RegistrationDate>2018-08-24</RegistrationDate>
+<MarkFeature>Word</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>LINKSTER</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>FR</EarlierMarkCountryCode>
+<ApplicationNumber>4470554</ApplicationNumber>
+<ApplicationDate>2018-07-20</ApplicationDate>
+<RegistrationNumber>4470554</RegistrationNumber>
+<RegistrationDate>2018-11-09</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>LINKSTER SELECTION D'EXPERTS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>38162</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>13735</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017740690</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>71602</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-04-20</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>017832109</RecordIdentifier>
+<BasicRecordKind>Representative - Change of name and professional address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>71602</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-05-14</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

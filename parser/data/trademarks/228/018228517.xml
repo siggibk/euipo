@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-07T08:44:30</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018228517</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018228517</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-09-02</RegistrationDate>
+<ApplicationLanguageCode>ro</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>NEEDPad</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Медицински апарати и инструменти; Естетически апарати за масажиране; Апарати за масаж; Апарати за вибрационни масажи [вибромасажори]; Апарати за физически упражнения за медицински цели; Галванични терапевтични прибори; Електроди за медицинско използване; Оборудване за физиотерапия; Електрически инструменти за акупунктура.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Lékařské přístroje a nástroje; Přístroje pro estetickou masáž; Masážní přístroje; Vibromasážní přístroje; Přístroje na tělesná cvičení pro lékařské účely; Galvanické terapeutické přístroje; Elektrody pro lékařské použití; Fyzioterapeutické přístroje; Elektrické akupunkturní nástroje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Medicinske apparater og instrumenter; Apparater til skønhedsmassage; Massageapparater; Apparater til vibrationsmassage; Apparater til fysisk træning, medicinske formål; Galvaniske terapeutiske apparater; Elektroder til medicinsk brug; Udstyr til fysisk terapi; Elektriske akupunkturinstrumenter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Medizinische Apparate und Instrumente; Massagegeräte für die Schönheitspflege; Massagegeräte; Vibromassagegeräte; Medizinische Geräte für Körperübungen und Krankengymnastik; Galvanische Therapiegeräte; Elektroden für medizinische Zwecke; Geräte für physikalische Therapie; Elektroakupunkturgeräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ιατρικά (Συσκευές και όργανα -)· Αισθητική (συσκευές για μαλάξεις -ής)· Συσκευές μασαζ· Δονητικές συσκευές για μαλάξεις· Ιατρικές συσκευές για σωματική άσκηση· Γαλβανικές (- θεραπευτικές συσκευές)· Ηλεκτρόδια για ιατρική χρήση· Εξοπλισμός φυσικοθεραπείας· Βελονισμού (Ηλεκτρικά όργανα -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Medical apparatus and instruments; esthetic massage apparatus; massage apparatus; vibromassage apparatus; physical exercise apparatus, for medical purposes; galvanic therapeutic appliances; electrodes for medical use; physiotherapy apparatus; electric acupuncture instruments.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aparatos e instrumentos médicos; Aparatos para masajes estéticos; Aparatos de masaje; Vibradores; Aparatos de ejercicio físico para uso médico; Aparatos galvánicos para uso terapéutico; Electrodos para uso médico; Equipos de terapia física; Instrumentos eléctricos de acupuntura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meditsiiniseadmed ja -riistad; Kosmeetilise massaaži seadmed, aparaadid; Massaažiaparaadid; Vibromassaažiaparaadid; Meditsiinilised võimlemisseadmed; Galvanoteraapiaseadmed; Meditsiinilised elektroodid; Füsioteraapiaseadmed; Elektrilised akupunktuuriinstrumendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lääketieteelliset laitteet ja välineet; Kauneudenhoidossa käytettävät hierontalaitteet; Hierontalaitteet; Vibrohierontalaitteet; Kuntoiluvälineet lääketieteellisiin tarkoituksiin; Galvanoterapeuttiset laitteet; Elektrodit lääketieteelliseen käyttöön; Fysioterapiassa käytettävät välineet; Sähköiset akupunktuurilaitteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Appareils et instruments médicaux; Appareils pour massages esthétiques; Appareils de massage; Vibromasseurs; Appareils médicaux pour exercices corporels; Appareils thérapeutiques galvaniques; Électrodes à usage médical; Équipement de thérapie physique; Instruments électriques pour l'acupuncture.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Medicinski uređaji i instrumenti; Estetska masaža (uređaji za estetsku masažu); Uređaji za masažu; Uređaji za vibracijsku masažu; Uređaji za vježbe za medicinske potrebe; Galvanski terapeutski uređaji; Elektrode za medicinske potrebe; Oprema za fizikalnu terapiju; Električni instrumenti za akupunkturu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyógyászati készülékek és eszközök; Esztétikai masszírozó készülékek; Masszázsberendezések; Vibromasszázs készülékek; Testmozgásra szolgáló gyógyászati eszközök, készülékek; Galvánterápiás készülékek; Elektródák gyógyászati használatra; Fizikoterápiás készülékek; Elektromos akupunktúrás eszközök.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Apparecchi e strumenti medici; Apparecchi per massaggi estetici; Apparecchi per il massaggio; Vibromassaggiatori [apparecchi]; Apparecchi per esercizi fisici per scopi medici; Apparecchi terapeutici galvanici; Elettrodi per uso medico; Attrezzatura per terapie fisiche; Strumenti elettrici per l'agopuntura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Medicinos aparatai ir instrumentai; Kosmetinio masažo aparatai; Masažavimo aparatai; Vibracinio masažo aparatai; Fizinių pratimų aparatai (medicinos reikmėms); Galvanoterapijos aparatūra; Elektrodai (medicinos reikmėms); Fizioterapijos įranga; Elektriniai akupunktūros instrumentai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medicīniskā aparatūra un instrumenti; Skaistumkopšanai paredzētās masāžas ierīces; Masāžas aparāti; Vibromasāžas ierīces; Fizisko vingrinājumu aparāti medicīniskiem nolūkiem; Galvaniskās terapeitiskās ierīces; Elektrodi medicīniskiem nolūkiem; Fizikālās terapijas iekārtas; Elektriskie akupunktūras instrumenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Apparat u strumenti mediċi; Tagħmir għal massaġġi estetiċi; Apparat għall-massaġġi; Apparat tal-massaġġi bil-vibrazzjonijiet; Apparat għall-eżerċizzju fiżiku, għal skopijiet mediċi; Tagħmir terapewtiku galvaniku; Elettrodi għal skopijiet mediċi; Tagħmir għat-terapija fiżika; Strumenti elettriċi tal-akupuntura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Medische apparaten en instrumenten; Schoonheidsmassage-apparaten; Massageapparaten; Vibromassage-apparaten; Medische apparatuur voor lichaamsoefeningen; Galvanische apparaten voor therapeutisch gebruik; Elektroden voor medisch gebruik; Apparaten voor lichamelijke behandeling; Elektrische instrumenten voor acupunctuur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Urządzenia i instrumenty medyczne; Przyrządy do masażu estetycznego; Urządzenia do masażu; Aparaty do masażu wibracyjnego; Urządzenia do ćwiczeń fizycznych do celów medycznych; Galwaniczna aparatura terapeutyczna; Elektrody do użytku medycznego; Urządzenia i przyrządy do fizjoterapii; Przyrządy elektryczne do akupunktury.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Aparelhos e instrumentos médicos; Aparelhos para massagens estéticas; Aparelhos de massagem; Aparelhos de vibromassagem; Aparelhos de exercício físico para fins médicos; Aparelhos terapêuticos galvânicos; Elétrodos para uso médico; Equipamento de fisioterapia; Instrumentos elétricos para acupuntura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">aparate si instrumente medicale; aparate pentru masaje estetice; aparate de masaj; aparate de vibromasaj; aparate pentru exercitii fizice, de uz medical; aparate pentru terapie galvanica; electrozi de uz medical; aparte de fizioterapie; instrumente electrice pentru acupunctura.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lekárske prístroje a nástroje; Zariadenia na estetickú masáž; Masážne prístroje; Vibromasážne prístroje; Telocvičné prístroje na liečebné použitie; Galvanické terapeutické zariadenia; Elektródy na lekárske použitie; Fyzioterapeutické zariadenia; Elektrické prístroje na akupunktúru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Medicinski aparati in instrumenti; Masažni aparati za estetske učinke; Masažne naprave; Vibromasažni aparati; Aparati za telesno vadbo za medicinske namene; Terapevtske naprave z galvanskim tokom; Elektrode za medicinsko uporabo; Naprave za fizikalno terapijo; Električni instrumenti za akupunkturo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Medicinska apparater och instrument; Massageapparater för skönhetsvård; Massageapparater; Vibrationsmassageapparater; Kroppsträningsapparater för medicinska ändamål; Galvaniska terapiapparater; Elektroder för medicinsk användning; Utrustning för fysioterapi; Elektriska akupunkturinstrument.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/098</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-26</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/169</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>872976</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>78637</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

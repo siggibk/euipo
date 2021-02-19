@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-09T09:29:11</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229269</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229269</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-11</RegistrationDate>
+<ApplicationLanguageCode>sv</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-12</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>BONA DOMO</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>2</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бои, лакове, политури; Препарати за предотвратяване повреждането на дърво; Байцове (байцове за дърво), пигменти (боя на прах) и оцветители; Метали в прахообразна форма за подови лакове; Необработени естествени смоли; Консервационни масла за дърво и дървесина.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Barvy, nátěry, laky; Přípravky zamezující poškozování dřeva; Mořidla (mořidla na dřevo), pigmenty (přírodní barviva) a barviva; Kovy v práškové formě pro podlahové laky; Přírodní pryskyřice v surovém stavu; Oleje na konzervování dřeva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Malinger, fernisser, lakker; Trækonserveringsmidler; Bejdsemidler (træbejdsemidler), pigment (farvestof) og farvestoffer; Metaller i pulverform til gulvlakker; Naturlig harpiks i rå tilstand; Trækonserveringsolier.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Farben, Firnisse, Lacke; Holzschutzmittel; Beizen (Holzbeizen), Pigmente (Farbstaub) und Farbstoffe; Metalle in Pulverform für Bodenlacke; Naturharze im Rohzustand; Holzkonservierungsöle.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Χρώματα, βερνίκια, λάκες· Παρασκευάσματα για πρόληψη της φθοράς του ξύλου· Χρώματα (χρώματα για επιφάνειες ξύλου), χρωστικές ύλες (χρωστικές ουσίες) και βαφές· Μέταλλα σε μορφή σκόνης για λάκες δαπέδων· Ακατέργαστες φυσικές ρητίνες· Έλαια για τη συντήρηση του ξύλου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Paints, varnishes, lacquers; Preservatives against the deterioration of wood; Stains (wood mordants), pigments (colorants) and dyestuffs; Metals in powder form for floor lacquers; Raw natural resins; Oils for the preservation of wood.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Pinturas, barnices, lacas; Productos para conservar la madera; Tintes (tintes para la madera), pigmentos (colorantes) y materias tintóreas; Metales en forma de polvo para lacas de suelos; Resinas naturales en bruto; Aceites para conservar la madera.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Värvid, värnitsad, lakid; Puidukonservandid; Peitsid (puidupeitsid), pigmendid (värvipigmendid) ja värvained; Pulbermetallid põrandalaki valmistamiseks; Töötlemata looduslikud vaigud; Puiduimmutusõlid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Maalit, vernissat, lakat; Puunsuojavalmisteet; Petsausaineet (puupetsit), pigmentit ja väriaineet; Jauhemaiset metallit lattialakoille; Raa'at luonnonhartsit; Puunsuojaöljyt.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Peintures, vernis, laques; Produits contre la détérioration du bois; Teintures (teintures pour bois), pigments (colorants) et matières tinctoriales; Métaux en poudre pour laques pour sols; Résines naturelles à l'état brut; Huiles pour la conservation du bois.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Boje, lakovi, glazure; Drvo (proizvodi za konzerviranje drva); Mrlje (nagrizajuća sredstva za drvo), pigmenti (bojila) i boje; Metali u prahu za podne lakove; Prirodne sirove smole; Zaštitna ulja za drvo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Festékek, kencék, lakkok; Fakorhadás megelőzésére szolgáló készítmények; Pác (fapác), színezőanyagok (festékpor) és festékanyagok; Fémek por formában, padlólakkozáshoz; Nyers természetes gyanták; Fakonzerváló olajok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Colori, vernici, lacche; Preparati per prevenire il deterioramento del legno; Mordenti (tinture per il legno), pigmenti (colori in polvere) e materie tintorie; Metalli sotto forma di polvere per lacche per pavimenti; Resine naturali allo stato grezzo; Oli per la conservazione del legno.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Dažai, politūros, lakai; Medienos apsaugos nuo irimo preparatai; Dažai (dažai medienai), pigmentas (spalvos milteliai) ir dažomosios medžiagos; Grindų lako metalas miltelių pavidalu; Neapdorotos gamtinės dervos; Medienos konservavimo aliejai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Krāsas, pernicas, lakas; Preparāti aizsardzībai pret koksnes sairšanu; Beices (krāsvielas kokam), pigmenti (krāsvielas) un krāsvielas; Pulverveida metāli grīdas lakām; Neapstrādāti dabiskie sveķi; Eļļas koksnes aizsargāšanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Żebgħa, verniċ, żmalt; Preparazzjonijiet li ma jħallux l-injam jitħassar; Mordenti (tbajja' tal-injam), pigmenti (żebgħa f'forma ta' trab) u żebgħa; Metalli fil-forma ta' trab għall-laker tal-paviment; Raża naturali mhux ipproċessata; Żjut għall-preservazzjoni tal-injam.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Verven, vernissen, lakken; Conserveringsmiddelen voor hout; Beitsen (kleurstoffen voor hout), pigmenten (kleurstoffen) en kleurstoffen; Metalen in poedervorm voor vloerlakken; Natuurlijke harsen als grondstof; Houtconserveringsoliën.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Farby, pokosty, lakiery; Preparaty zabezpieczające przed psuciem się drewna; Bejce (bejce do drewna), pigmenty (proszki barwiące) i koloranty; Metale w postaci proszków do lakierów podłogowych; Żywice naturalne; Oleje do konserwacji drewna.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Tintas, vernizes, lacas; Conservantes da madeira; Tinturas (tinturas para a madeira), pigmentos (tintas em pó) e matérias tinturiais; Metais sob a forma de pós para lacas para soalhos; Resinas naturais no estado bruto; Óleos para a conservação de madeira.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Vopsele, firnisuri, lacuri; Preparate pentru prevenirea deteriorării lemnului; Vopsele (vopsele pentru lemn), pigmenti (pentru vopsele) si coloranti; Metale sub forma de pulbere pentru lacuri de parchet; Răşini naturale în stare brută; Uleiuri pentru conservarea lemnului.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Farby, fermeže, laky; Prípravky brániace rozkladu dreva; Moridlá (moridlá na drevo), pigmenty (farbivá) a farbiace látky; Kovy vo forme prášku pre podlahové laky; Prírodné živice v surovom stave; Konzervačné oleje na drevo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Barve, firneži, laki; Pripravki za preprečevanje razkroja lesa; Lužila (lesna lužila), pigmenti (barvne snovi) in barvila; Kovine v obliki prahu za talne lake; Naravne smole v surovem stanju; Olja za zaščito lesa.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Målarfärger, fernissor och lacker; skyddsmedel mot angrepp på trä; betser (träbetser), pigment (färgstoft) och färgämnen; metaller i pulverform för golvlacker; obearbetade naturhartser; oljor för trä.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/082</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/152</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-12</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/194</PublicationIdentifier>
+        <PublicationSection>C.3.6</PublicationSection>
+        <PublicationDate>2020-10-09</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>58690</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>26169</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

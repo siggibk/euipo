@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-31T08:40:56</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229032</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229032</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-28</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-31</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>GENERATION JURASSIC</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Маркетингови услуги относно развлекателния сектор, в частност маркетинг, промоция и реклама на франчайзинг за игрално кино.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Zábavní marketingové služby, jmenovitě marketing, propagace a reklama pro filmové franšízy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Underholdningsrelateret markedsføring, nemlig markedsføring, salgsfremme samt annonce- og reklamevirksomhed for en franchise inden for spillefilm.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Unterhaltungsmarketing-Dienstleistungen, nämlich Marketing, Verkaufsförderung und Werbung für ein Kinofilm-Franchise.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες εμπορίας (μάρκετινγκ) στον τομέα της ψυχαγωγίας, συγκεκριμένα, εμπορία (μάρκετινγκ), προώθηση και διαφήμιση εμπορευμάτων που σχετίζονται με κινηματογραφική ταινία.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Entertainment marketing services, namely, marketing, promotion and advertising for a motion picture franchise.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de marketing de entretenimiento, en concreto, marketing, promoción y publicidad para una franquicia cinematográfica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Meelelahutusturundusteenused, nimelt filmifrantsiisi turundus ja reklaam.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ajanvietteen markkinointipalvelut, nimittäin elokuva-alan franchising-liikkeen markkinointi, myynninedistäminen ja mainonta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de marketing de divertissement, à savoir services de marketing, de promotion et de publicité pour franchises de films cinématographiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge marketinga u području zabave, i to marketing, promidžba i oglašavanje za franšizu kinematografskog filma.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Szórakoztató marketing szolgáltatások, nevezetesen marketing, promóció és reklám mozifilmekhez.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di marketing dell'intrattenimento, ovvero marketing, promozione e pubblicità per un franchising cinematografico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Pramogų rinkodaros paslaugos, būtent, kino filmų franšizės rinkodara, reklama ir reklama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Izklaides mārketinga pakalpojumi, proti, mārketings, reklāmas un kinofilmu franšīzes reklamēšana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' kummerċjalizzazzjoni tad-divertiment, jiġifieri, kummerċjalizzazzjoni, promozzjoni u reklamar għal frankiġji tal-films.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Marketingdiensten, te weten marketing, promotie en reclame voor een franchiseonderneming op het gebied van films.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi marketingu rozrywki, mianowicie marketing, promocja i reklama w zakresie franczyzy filmów kinematograficznych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de marketing no domínio do entretenimento, especificamente marketing, promoção e publicidade para uma franquia cinematográfica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de marketing pentru divertisment, și anume marketing, promovare și publicitate pentru o franciză de cinematograf.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Marketingové služby v oblasti zábavy, menovite marketing, propagácia a reklama pre filmovú sériu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Storitve razvedrilnega trženja, in sicer trženje, promocija in oglaševanje za filmsko franšizo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Marknadsföringstjänster för underhållning, nämligen marknadsföring, reklam och annonsering för ett spelfilmsfranchisingföretag.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/094</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-20</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/165</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-31</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>467550</Identifier>
+</ApplicantKey>
+<ApplicantKey>
+<Identifier>1003675</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>89668</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

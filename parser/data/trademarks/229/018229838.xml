@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-15T09:20:10</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229838</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229838</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-09-12</RegistrationDate>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>VIÑATERRA</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162502227</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229838/000162502227.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+          <CategoryCode>29.01.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Оцет.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Ocet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Eddike.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Essig.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ξύδι.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Vinegar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">VINAGRES.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Äädikas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Etikka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vinaigres.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ocat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ecet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Aceto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Actas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Etiķis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ħall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Azijn.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Ocet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vinagres.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Oţet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Ocot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Vinäger.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/105</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/176</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082669</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>13708</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

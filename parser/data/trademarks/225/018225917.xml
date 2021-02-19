@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:36</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225917</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225917</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>RIZILIA</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>14</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Бижутерия.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Šperky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Juvelerarbejder.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Juwelierwaren, Schmuckwaren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κοσμήματα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Jewelry.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Joyería.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Juveeltooted.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Korut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Articles de bijouterie-joaillerie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Nakit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ékszerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Oreficeria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Juvelyriniai dirbiniai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Juvelierizstrādājumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ġojjelli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Juwelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Biżuteria i wyroby jubilerskie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Jóias.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Bijuterii.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Šperky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Nakit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Juvelerarvaror.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080323</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>90319</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-29T08:52:59</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224190</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224190</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SHOUREN</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162205251</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224190/000162205251.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>05.03.11</CategoryCode>
+          <CategoryCode>05.03.13</CategoryCode>
+          <CategoryCode>05.03.14</CategoryCode>
+          <CategoryCode>26.11.02</CategoryCode>
+          <CategoryCode>26.11.25</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>10</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Маски за медицински персонал; Защитни маски за лице за медицинска употреба; Защитно облекло за медицински цели; Маски за дишане за медицинска употреба; Ръкавици за медицински цели; Ръкавици за масажиране; Хирургически маски; Естетически апарати за масажиране; Хирургически апарати и инструменти; Одеяла, електрически, за медицински цели; Облекло специално за операционни зали; Подложки за медицински цели; Ортопедични изделия; Материали за затваряне на рани; Хирургически стерилни покривки за операции; Адхезивни чаршафи за употреба в хирургията; Ръкавици за медицински цели.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Roušky pro lékařský personál; Ochranné obličejové masky pro lékařské použití; Ochranné oděvy pro lékařské účely; Respirační masky k lékařskému použití; Rukavice pro lékařské účely; Masážní rukavice; Chirurgické masky; Přístroje pro estetickou masáž; Chirurgické přístroje a nástroje; Elektrické pokrývky pro lékařské účely; Oděvy určené pro operační sály; Podušky pro lékařské účely; Ortopedické potřeby; Materiály na šití; Operační roušky; Lepicí roušky k chirurgickému použití; Návleky na ruce pro lékařské použití.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Masker til brug for medicinsk personel; Beskyttende ansigtsmasker til medicinske formål; Beskyttelsesbeklædning til medicinske formål; Åndedrætsværn til medicinske formål; Handsker til medicinske formål; Handsker til massage; Operationsmasker; Apparater til skønhedsmassage; Kirurgiske apparater og instrumenter; Tæpper, elektriske, til medicinske formål; Beklædning specielt til operationsstuer; Puder til medicinske formål; Ortopædiske artikler; Suturmaterialer; Kirurgiske afdækningsstykker; Selvklæbende afdækningsstykker til kirurgiske formål; Undersøgelseshandsker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Masken für medizinisches Personal; Gesichtsschutzmasken für medizinische Zwecke; Schutzbekleidung für medizinische Zwecke; Atemmasken für medizinische Zwecke; Handschuhe für medizinische Zwecke; Massagehandschuhe; Chirurgischer Mundschutz; Massagegeräte für die Schönheitspflege; Chirurgische Apparate und Instrumente; Heizdecken für medizinische Zwecke; OP-Kleidung; Kissen für medizinische Zwecke; Orthopädische Artikel; Chirurgisches Nahtmaterial; Operationstücher; Hafttücher für chirurgische Zwecke; Handschuhe für medizinische Zwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μάσκες για το ιατρικό προσωπικό· Προστατευτικές μάσκες προσώπου για ιατρική χρήση· Προστατευτικά ενδύματα για ιατρική χρήση· Αναπνευστικές μάσκες για ιατρικές χρήσεις· Γάντια ιατρικής χρήσης· Γάντια για μαλάξεις· Χειρουργικές μάσκες· Αισθητική (συσκευές για μαλάξεις -ής)· Χειρουργικές συσκευές και όργανα· Κλινοσκεπάσματα θερμαινόμενα για χρήση ιατρική· Ενδύματα (Ειδικά για χειρουργεία -)· Μαξιλάρια για χρήση ιατρική· Ορθοπεδικά είδη· Υλικό χειρουργικών ραμμάτων· Σεντόνια χειρουργικά· Αυτοκόλλητα χειρουργικά πεδία· Μονοκόμματα γάντια ιατρικής χρήσης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Masks for use by medical personnel; Protective face masks for medical use; Protective clothing for medical purposes; Respiratory masks for medical purposes; Gloves for medical purposes; Gloves for massage; Surgical masks; Esthetic massage apparatus; Surgical apparatus and instruments; Electric blankets for medical purposes; Clothing especially for operating rooms; Cushions for medical purposes; Orthopedic articles; Suture materials; Sheets [drapes] for use in surgery; Adhesive drapes for surgical use; Mittens for medical use.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Mascarillas para personal médico; Mascarillas faciales de protección para uso médico; Ropa protectora para fines médicos; Mascarillas respiratorias para uso médico; Guantes para uso médico; Guantes para masajes; Mascarillas quirúrgicas; Aparatos para masajes estéticos; Aparatos e instrumentos quirúrgicos; Mantas eléctricas para uso médico; Ropa especial para quirófano; Cojines para uso médico; Artículos ortopédicos; Material de sutura; Sábanas quirúrgicas; Paños adhesivos para uso quirúrgico; Manoplas para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Maskid meditsiinipersonalile; Meditsiinilised kaitsvad näomaskid; Meditsiinis kasutatavad kaitserõivad; Meditsiinilised hingamismaskid; Meditsiinilised kindad; Massaažikindad; Kirurgimaskid; Kosmeetilise massaaži seadmed, aparaadid; Kirurgiaseadmed ja -riistad; Meditsiinilised elektritekid; Eririietus operatsioonisaalides viibimiseks, operatsiooniriietus; Meditsiinilised padjad; Ortopeediatooted, ortopeedilised tooted; Haavaõmblusmaterjalid, sutuurmaterjalid; Kirurgilised steriilsed riided; Kirurgias kasutatavad liimlinad; Meditsiinilised kindad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Suojanaamarit lääkintähenkilökuntaa varten; Suojaavat kasvonaamiot lääketieteelliseen käyttöön; Suojavaatteet lääketieteellisiin tarkoituksiin; Hengitysnaamarit lääkinnällisiin tarkoituksiin; Käsineet lääketieteelliseen käyttöön; Hierontakäsineet; Kirurgin naamarit; Kauneudenhoidossa käytettävät hierontalaitteet; Kirurgiset laitteet ja välineet; Huovat (Sähkö -), lääketieteellisiin tarkoituksiin; Vaatteet leikkaussaleja varten, erikoisvalmisteiset; Tyynyt lääketieteellisiin tarkoituksiin; Ortopediset välineet; Haavanompelutarvikkeet; Leikkausliinat; Liimakankaat kirurgiseen käyttöön; Kintaat lääkinnällisiin tarkoituksiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Masques utilisés par le personnel médical; Masques de protection faciale à usage médical; Vêtements de protection à usage médical; Masques respiratoires à usage médical; Gants à usage médical; Gants pour massages; Masques chirurgicaux; Appareils pour massages esthétiques; Appareils et instruments chirurgicaux; Couvertures électriques à usage médical; Vêtements spéciaux pour salles d'opération; Coussins à usage médical; Articles orthopédiques; Matériel pour sutures; Draps chirurgicaux; Draps adhésifs à usage chirurgical; Moufles à usage médical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Maske za medicinsko osoblje; Zaštitne maske za lice za medicinsku uporabu; Zaštitna odjeća za medicinske namjene; Maske za disanje za medicinske namjene; Rukavice za medicinsku uporabu; Masažu (Rukavice za -); Kirurške maske; Estetska masaža (uređaji za estetsku masažu); Kirurški aparati i instrumenti; Električni prekrivači za medicinske svrhe; Specijalna odjeća za operacijske dvorane; Jastuci za medicinske potrebe; Ortopedski artikli; Materijal za šivanje rana; Plahte za kirurške potrebe; Ljepljiva platna za kiruršku uporabu; Navlake za ruke bez prstiju za medicinske potrebe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Maszkok egészségügyi személyzet általi használatra; Orvosi arcvédő maszkok; Védőruházat orvosi célokra; Légzőmaszkok orvosi célokra; Kesztyűk gyógyászati használatra; Masszírozó kesztyűk; Sebészeti maszkok; Esztétikai masszírozó készülékek; Sebészeti készülékek és eszközök; Takarók, elektromos fűtésű, gyógyászati használatra; Speciális műtőruházat; Párnák gyógyászati használatra; Ortopédiai cikkek; Varratanyagok; Sebészeti lepedők; Öntapadó kendők sebészeti használatra; Egyujjas orvosi kesztyűk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Maschere utilizzate dal personale medico; Maschere protettive per il viso per uso medico; Abbigliamento protettivo per uso medico; Maschere respiratorie per uso medico; Guanti per uso medico; Guanti per massaggi; Mascherine chirurgiche; Apparecchi per massaggi estetici; Apparecchi e strumenti chirurgici; Coperte elettriche per uso medico; Vestiti speciali per sale operatorie; Cuscini per uso medico; Articoli ortopedici; Materiali per suture; Lenzuola chirurgiche; Teli adesivi per uso chirurgico; Manopole per uso medico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kaukės medicinos personalui; Apsauginės veido kaukės medicinos reikmėms; Apsauginiai drabužiai medicininėms reikmėms; Kvėpavimo kaukės medicinos reikmėms; Pirštinės (medicinos reikmėms); Masažo pirštinės; Chirurginės kaukės; Kosmetinio masažo aparatai; Chirurginiai aparatai ir instrumentai; Elektrinės antklodės (medicinos reikmėms); Specialieji operaciniai drabužiai; Medicininės pagalvėlės; Ortopedijos gaminiai; Žaizdų siuvimo medžiagos; Chirurginiai drabužiai; Chirurginiai lipnieji apklotai; Medicininės kumštinės pirštinės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Medicīnas personālam paredzētās maskas; Sejas aizsargmaskas lietošanai medicīnā; Aizsargtērpi medicīniskām vajadzībām; Elpošanas maskas medicīniskiem nolūkiem; Cimdi medicīniskiem nolūkiem; Masāžas cimdi; Ķirurģiskās maskas; Skaistumkopšanai paredzētās masāžas ierīces; Ķirurģiskās ierīces un instrumenti; Elektriskās segas medicīniskiem nolūkiem; Speciālie apģērbi operāciju zālēs; Medicīniskie spilveni; Ortopēdiskās preces; Ķirurģiskie šuvju materiāli; Ķirurģiskie pārklāji; Līpoši audumi ķirurģijas nolūkiem; Medicīnas cimdi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Maskri għal personal mediku; Maskri protettivi tal-wiċċ għall-użu mediku; Ħwejjeġ protettivi għall-użu mediku; Maskri respiratorji għal skopijiet mediċi; Ingwanti għal skopijiet mediċi; Ingwanti għall-massaġġi; Maskri kirurġiċi; Tagħmir għal massaġġi estetiċi; Apparat u strumenti kirurġiċi; Kutri, tal-elettriku, għal skopijiet mediċi; Ilbies speċjali għas-swali tal-operazzjonijiet; Kuxxini għal skopijiet mediċi; Oġġetti ortopediċi; Materjali għas-sutura; Lożor bħala għata għal waqt operazzjonijiet kirurġiċi; Drapp adeżiv għall-użu kirurġiku; Ingwanti għal użu mediku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Maskers te gebruiken door medisch personeel; Gezichtsmaskers (Beschermde -) voor medisch gebruik; Beschermende kledingstukken voor medische doeleinden; Ademhalingsmaskers voor medische doeleinden; Handschoenen voor medisch gebruik; Massagehandschoenen; Maskers voor chirurgisch gebruik; Schoonheidsmassage-apparaten; Chirurgische apparaten en instrumenten; Verwarmde dekens voor medisch gebruik; Operatiekleding; Kussens voor medisch gebruik; Orthopedische artikelen; Hechtmateriaal; Chirurgische lakens; Klevende lakens voor chirurgisch gebruik; Wanten voor medische gebruik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Maski stosowane przez personel medyczny; Maski ochronne na twarz do użytku medycznego; Odzież ochronna do celów medycznych; Maski oddechowe do celów medycznych; Rękawice do celów medycznych; Rękawice do masażu; Maski chirurgiczne; Przyrządy do masażu estetycznego; Aparatura i instrumenty chirurgiczne; Koce podgrzewane elektrycznie, do celów medycznych; Odzież specjalna używana w salach operacyjnych; Poduszki do celów medycznych; Artykuły ortopedyczne; Materiały do zszywania; Okrycia chirurgiczne; Okrycia przylepne do użytku chirurgicznego; Osłony bez palców na ręce do użytku medycznego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Máscaras para pessoal médico; Máscaras de proteção facial para uso médico; Vestuário de proteção para uso médico; Máscaras respiratórias para uso médico; Luvas para uso médico; Luvas para massagem; Máscaras cirúrgicas; Aparelhos para massagens estéticas; Aparelhos e instrumentos cirúrgicos; Cobertores elétricos para uso médico; Vestuário especial para salas de operação; Almofadas para uso medicinal; Artigos ortopédicos; Material para suturas; Lençóis para cirurgia; Lençóis adesivos para uso cirúrgico; Mitenes para uso médico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Măști utilizate de personalul medical; Măști faciale de protecție pentru uz medical; Îmbrăcăminte de protecție de uz medical; Măști respiratorii de uz medical; Mănuși de uz medical; Mănuși pentru masaj; Măști chirurgicale; Aparate pentru masaje estetice; Aparate și instrumente chirurgicale; Cuverturi electrice pentru uz medical; Haine speciale pentru săli de operație; Perne de uz medical; Articole ortopedice; Suturi (Materiale pentru -); Cearceafuri chirurgicale; Câmpuri adezive pentru uz chirurgical; Mănuși de uz medical.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Rúška (pre nemocničný personál); Ochranné masky na tvár na lekárske použitie; Ochranné odevy na lekárske účely; Respiračné masky na lekárske účely; Rukavice na lekárske použitie; Masážne rukavice; Chirurgické masky; Zariadenia na estetickú masáž; Chirurgické prístroje a nástroje; Elektricky vyhrievané prikrývky na lekárske použitie; Odevy do operačných sál; Podušky na lekárske použitie; Ortopedické pomôcky; Chirurgické šijacie materiály; Chirurgické plachty; Priľnavé rúška na chirurgické použitie; Návleky na ruky na lekárske použitie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Maske za medicinsko osebje; Zaščitne obrazne maske za medicinsko uporabo; Zaščitna oblačila za medicinske namene; Dihalne maske za medicinske namene; Rokavice za medicinske namene; Rokavice za masažo; Kirurške maske; Masažni aparati za estetske učinke; Kirurški aparati in instrumenti; Električne odeje za medicinsko uporabo; Posebna oblačila za operacijske prostore; Blazine za medicinske namene; Ortopedski izdelki; Material za šivanje; Kirurške rjuhe; Samolepilna platna za kirurško uporabo; Palčniki [rokavice] za medicinske namene.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Munskydd för medicinsk personal; Skyddande ansiktsmasker för medicinskt bruk; Skyddskläder för medicinska ändamål; Andningsmasker för medicinska ändamål; Handskar för medicinska ändamål; Handskar för massage; Operationsmasker; Massageapparater för skönhetsvård; Kirurgiska apparater och instrument; Elektriska filtar för medicinska ändamål; Kläder för användning i operationsrum; Kuddar för medicinska ändamål; Konstgjorda lemmar, ögon och tänder; Suturmaterial; Kirurgiska skynken; Kirurgtejp; Tumvantar för medicinskt bruk.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/141</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-07-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079102</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>26721</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

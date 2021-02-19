@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:50</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063838-0017</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-27</ReceivingOfficeDate>
+<DesignIdentifier>001063838-0017</DesignIdentifier>
+<ApplicationNumber>001063838</ApplicationNumber>
+<ApplicationLanguageCode>sk</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-27</ApplicationDate>
+<RegistrationDate>2008-12-27</RegistrationDate>
+<PublicationDate>2011-06-06</PublicationDate>
+<ApplicationReference>XEONIC/Regina</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>true</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-27</ExpiryDate>
+<EffectiveDate>2008-12-27</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061853633</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063838_0017/001063838_0017_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061853634</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063838_0017/001063838_0017_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061853635</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063838_0017/001063838_0017_3.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Интериорно осветление</IndicationProduct>
+       <IndicationProduct languageCode="bg">Външни лампи</IndicationProduct>
+       <IndicationProduct languageCode="cs">Vnitřní osvětlení</IndicationProduct>
+       <IndicationProduct languageCode="cs">Venkovní světla</IndicationProduct>
+       <IndicationProduct languageCode="da">Indendørslamper</IndicationProduct>
+       <IndicationProduct languageCode="da">Udendørslamper</IndicationProduct>
+       <IndicationProduct languageCode="de">Innenleuchten</IndicationProduct>
+       <IndicationProduct languageCode="de">Lampen für den Außenbereich</IndicationProduct>
+       <IndicationProduct languageCode="el">Εξωτερικοί λαμπτήρες</IndicationProduct>
+       <IndicationProduct languageCode="el">Εσωτερικός φωτισμός</IndicationProduct>
+       <IndicationProduct languageCode="en">Outdoor lamps</IndicationProduct>
+       <IndicationProduct languageCode="en">Interior lights</IndicationProduct>
+       <IndicationProduct languageCode="es">Lámparas de exterior</IndicationProduct>
+       <IndicationProduct languageCode="es">Luces de interior</IndicationProduct>
+       <IndicationProduct languageCode="et">Siseruumide valgustid</IndicationProduct>
+       <IndicationProduct languageCode="et">Välisvalgustid</IndicationProduct>
+       <IndicationProduct languageCode="fi">Sisävalaisimet</IndicationProduct>
+       <IndicationProduct languageCode="fi">Lamput ulkokäyttöön</IndicationProduct>
+       <IndicationProduct languageCode="fr">Lampes d'intérieur</IndicationProduct>
+       <IndicationProduct languageCode="fr">Lampes d'extérieur</IndicationProduct>
+       <IndicationProduct languageCode="hu">Beltéri lámpák</IndicationProduct>
+       <IndicationProduct languageCode="hu">Kültéri lámpák</IndicationProduct>
+       <IndicationProduct languageCode="it">Luci per interni</IndicationProduct>
+       <IndicationProduct languageCode="it">Lampade per esterni</IndicationProduct>
+       <IndicationProduct languageCode="lt">Vidaus lempos</IndicationProduct>
+       <IndicationProduct languageCode="lt">Lauko lempos</IndicationProduct>
+       <IndicationProduct languageCode="lv">Āra lampas</IndicationProduct>
+       <IndicationProduct languageCode="lv">Iekšpuses gaismas</IndicationProduct>
+       <IndicationProduct languageCode="mt">Dawl ta' ġewwa</IndicationProduct>
+       <IndicationProduct languageCode="mt">Lampi ta' barra</IndicationProduct>
+       <IndicationProduct languageCode="nl">Buitenlampen</IndicationProduct>
+       <IndicationProduct languageCode="nl">Binnenverlichting</IndicationProduct>
+       <IndicationProduct languageCode="pl">Lampy zewnętrzne</IndicationProduct>
+       <IndicationProduct languageCode="pl">reflektory wewnętrzne</IndicationProduct>
+       <IndicationProduct languageCode="pt">Candeeiros de exterior</IndicationProduct>
+       <IndicationProduct languageCode="pt">Luzes interiores</IndicationProduct>
+       <IndicationProduct languageCode="ro">Lămpi de exterior</IndicationProduct>
+       <IndicationProduct languageCode="ro">Lămpi de interior</IndicationProduct>
+       <IndicationProduct languageCode="sk">Exteriérové lampy</IndicationProduct>
+       <IndicationProduct languageCode="sk">Vnútorné svietidlá</IndicationProduct>
+       <IndicationProduct languageCode="sl">Zunanje luči</IndicationProduct>
+       <IndicationProduct languageCode="sl">notranje luči</IndicationProduct>
+       <IndicationProduct languageCode="sv">Utomhuslampor</IndicationProduct>
+       <IndicationProduct languageCode="sv">Innerlampor</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>26.05</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/043</PublicationIdentifier>
+        <PublicationSection>A.2</PublicationSection>
+        <PublicationDate>2009-03-09</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2011/126</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2011-06-06</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325834</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>354343</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>28480</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-22T08:47:48</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224161</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224161</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>es</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-24</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Ariscorp</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Домофони; Оптични клапи; Устройства за монтиране на камери; Апарати за глобално позициониране; Звукови аларми; Стойки за фотографска апаратура; Слушалки; Светкавици [фотография]; Литиево-йонни батерии; Четци на USB карти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Interkomy, zařízení pro vnitřní spojení; Optické závěrky; Montážní zařízení pro kamery; Přístroje pro určování polohy; Zvuková výstražná zařízení; Stativy pro fotografické přístroje; Sluchátka; Žárovky pro fotoblesky; Lithium-iontové baterie; Čtečky karet USB.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Apparater til intercom; Optiske lukkere; Monteringsanordninger til kameraer; Anordninger til global positionering; Lydalarmer; Trebenede stativer til kameraer; Hovedtelefoner; Flashes [fotografiske]; Litiumionbatterier; USB-kortlæsere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Wechselsprechgeräte; Optische Verschlüsse; Halterungen für Kameras; Globale Ortungsgeräte; Akustische Alarmgeräte; Stative für Kameras; Kopfhörer; Blitzlichte [Fotografie]; Lithiumionen-Batterien; USB-Kartenlesegeräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Θυροτηλέφωνα· Οπτικά διαφράγματα· Διατάξεις στερέωσης για κάμερες· Συσκευές παγκόσμιου προσδιορισμού θέσης· Ηχητικοί συναγερμοί· Τρίποδα φωτογραφικών μηχανών· Κάσκες ακουστικών· Φωτογραφικά φλας· Μπαταρίες ιόντων λιθίου· Αναγνώστες κάρτας USB.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Intercoms; Optical shutters; Mounting devices for cameras; GPS navigation device; Sound alarms; Camera tripods; Headphones; Flashlights [photography]; Lithium ion batteries; USB card readers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Interfonos; Obturadores ópticos; Dispositivos de montaje para cámaras; Dispositivos de posicionamiento global; Alarmas acústicas; Trípodes para cámaras fotográficas; Auriculares; Bombillas de flash; Baterías de iones de litio; Lectores de tarjetas USB.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Sisesuhtlusvahendid; Optilised katikud; Kaamerate paigaldusseadmed; GPS-seadmed; Helilised häireseadmed, alarmiseadmed; Kaamerate kolmjalad, statiivid; Kõrvaklapid; Välklambid [fotograafia]; Liitiumioonakud; USB-kaardi lugejad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sisäpuhelimet; Optiset sulkimet; Kameroiden jalustat; Maailmanlaajuiset paikannuslaitteet; Äänihälyttimet; Kolmijalat kameroille; Kuulokkeet; Salamavalolaitteet [valokuvaukseen]; Litiumioniparistot; USB-kortinlukijat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Interphones; Obturateurs optiques; Dispositifs de support pour caméras; Instruments de localisation mondiale [GPS]; Avertisseurs acoustiques; Trépieds pour appareils photographiques; Casques à écouteurs; Ampoules de flash; Batteries lithium-ion; Lecteurs de cartes USB.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Portafoni; Optički zatvarači; Stalci za kamere; Instrumenti za globalno pozicioniranje; Zvučni alarmi; Foto tronošci; Slušalice; Bljeskalice [fotografija]; Litij-ionske baterije; Čitači USB kartica.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kaputelefonok; Optikai zárszerkezetek; Eszközök kamerák, fényképezőgépek felszereléséhez; Globális helymeghatározó eszközök; Hangriasztók; Háromlábú állványok fényképezőgépekhez; Fejhallgatók; Vakuk [fényképészet]; Lítiumion-akkumulátorok; USB-kártya olvasók.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Citofoni; Otturatori ottici; Dispositivi di supporto per macchine fotografiche; Apparecchiature di posizionamento globale; Allarmi acustici; Treppiedi per apparecchi fotografici; Cuffie per la musica; Lampadine per flash; Batterie a ioni di litio; Lettori di schede USB.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vidinio ryšio įrenginiai; Optiniai užraktai; Kamerų tvirtinimo įtaisai; Globalinės padėties nustatymo prietaisai; Garso signalizatoriai; Filmavimo ir fotografavimo aparatų trikojai; Radijo ausinės; Blykstės lempos [fotografija]; Ličio jonų baterijos; USB kortelių skaitytuvai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Aprīkojums iekšējo telesakaru nodrošināšanai; Optiskie aizvari; Kameru montāžas ierīces; Globālās vietnoteices ierīces; Skaņu signālierīces; Fotoaparātu, kinokameru un videokameru statīvi; Austiņas; Zibspuldzes fotografēšanai; Litija-jonu baterijas; USB karšu lasītāji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Interkoms; Xaters ottiċi; Tagħmir biex jitwaħħlu mal-kameras; Strumenti għas-sejbien tal-pożizzjoni fid-dinja; Allarmi bil-ħsejjes; Apparat għaż-żamma ta' apparat fotografiku; Kuffji; Bozoz tal-leħħa (fotografija); Batteriji ta' joni tal-litju; Tagħmir li jaqra l-kard USB.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Intercoms; Sluiters (Optische -); Bevestigingen voor camera's; GPS-instrumenten; Akoestische alarminrichtingen; Driepoten voor fototoestellen; Hoofdtelefoons; Flitslampen; Lithiumionbatterijen; USB-kaartlezers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Interkomy; Migawki optyczne; Urządzenia do montowania kamer; Urządzenia GPS; Alarmy dźwiękowe; Statywy do aparatów fotograficznych; Słuchawki [zakładane na głowę]; Lampy błyskowe [fotografia]; Baterie litowo-jonowe; Czytniki kart USB.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Intercomunicadores; Obturadores óticos; Dispositivos de montagem para câmaras; Instrumentos de posicionamento global; Alarmes acústicos; Tripés para câmaras fotográficas; Auriculares; Lâmpadas de flash; Baterias de ião de lítio; Leitores de cartões USB.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Interfoane; Obturatoare optice; Dispozitive de montare pentru camere; Aparate de poziționare globală; Avertizoare acustice; Trepiede pentru aparate fotografice; Căști audio; Blitzuri [fotografie]; Baterii de ioni de litiu; Dispozitive de citire de cartele USB.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Domový alebo palubný telefón; Optické uzávery; Montážne a upevňovacie prvky pre kamery; Globálne zariadenia na určenie polohy; Zvukové signálne zariadenia; Trojnožky na fotoaparáty; Slúchadlá; Žiarovky do zábleskových prístrojov; Lítium-iónové batérie; Čítačky na USB karty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Interfoni; Optične zaslonke; Naprave za postavitev kamer; Instrumenti za globalno pozicioniranje; Zvočni alarmi; Stojala za fotografske aparate; Slušalke; Bliskavice [fotografija]; Litij-ionske baterije; Čitalniki kartic USB.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Snabbtelefoner; Optiska slutare; Monteringsanordningar för kameror; Globala positioneringsinstrument; Akustiska alarm; Trebenta stativ för kameror; On-ear hörlurar; Blixtljus [foto]; Litiumjonbatterier; USB-kortläsare.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/183</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-09-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/202</PublicationIdentifier>
+        <PublicationSection>C.2.1</PublicationSection>
+        <PublicationDate>2020-10-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1079038</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>96576</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018152192</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>96576</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Not to be published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-07-10</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018116916</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>97069</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Decision to reject (final)</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-09-22</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018677537</RecordIdentifier>
+<BasicRecordKind>Representative - Change of name and professional address</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>96576</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-10-22</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

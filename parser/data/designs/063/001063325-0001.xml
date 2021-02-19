@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:48</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063325-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063325-0001</DesignIdentifier>
+<ApplicationNumber>001063325</ApplicationNumber>
+<ApplicationLanguageCode>pl</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2009-05-19</PublicationDate>
+<ApplicationReference>PUB-12/27/08</ApplicationReference>
+<DesignDescription>true</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061755507</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063325_0001/001063325_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755508</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063325_0001/001063325_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755509</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063325_0001/001063325_0001_3.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755510</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063325_0001/001063325_0001_4.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061755511</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063325_0001/001063325_0001_5.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Настолни календари</IndicationProduct>
+       <IndicationProduct languageCode="bg">Поставки за настолни календари</IndicationProduct>
+       <IndicationProduct languageCode="bg">Каландри</IndicationProduct>
+       <IndicationProduct languageCode="bg">Календари (и като рекламни материали)</IndicationProduct>
+       <IndicationProduct languageCode="cs">Stojany na kancelářské kalendáře</IndicationProduct>
+       <IndicationProduct languageCode="cs">Kancelářské kalendáře</IndicationProduct>
+       <IndicationProduct languageCode="cs">Kalendáře [též jako reklamní materiál]</IndicationProduct>
+       <IndicationProduct languageCode="cs">Kalendáře</IndicationProduct>
+       <IndicationProduct languageCode="da">Skrivebordskalendere</IndicationProduct>
+       <IndicationProduct languageCode="da">Kalendere</IndicationProduct>
+       <IndicationProduct languageCode="da">Kalendere [også som reklamemateriale]</IndicationProduct>
+       <IndicationProduct languageCode="da">Holdere til kontorkaldendere</IndicationProduct>
+       <IndicationProduct languageCode="de">Kalender</IndicationProduct>
+       <IndicationProduct languageCode="de">Ständer für Bürokalender</IndicationProduct>
+       <IndicationProduct languageCode="de">Schreibtischkalendar</IndicationProduct>
+       <IndicationProduct languageCode="de">Kalender [auch als Werbematerial]</IndicationProduct>
+       <IndicationProduct languageCode="el">Επιτραπέζια ημερολόγια</IndicationProduct>
+       <IndicationProduct languageCode="el">Ημεροδείκτες</IndicationProduct>
+       <IndicationProduct languageCode="el">Βάσεις για ημερολόγια γραφείου</IndicationProduct>
+       <IndicationProduct languageCode="el">Ημερολόγια (επίσης ως διαφημιστικό υλικό)</IndicationProduct>
+       <IndicationProduct languageCode="en">Calendars [also as advertising material]</IndicationProduct>
+       <IndicationProduct languageCode="en">Supports for desktop calendars</IndicationProduct>
+       <IndicationProduct languageCode="en">Desktop calendars</IndicationProduct>
+       <IndicationProduct languageCode="en">Calendars</IndicationProduct>
+       <IndicationProduct languageCode="es">Calendarios [también publicitarios]</IndicationProduct>
+       <IndicationProduct languageCode="es">Soportes para calendarios de oficina</IndicationProduct>
+       <IndicationProduct languageCode="es">Calendarios de oficina</IndicationProduct>
+       <IndicationProduct languageCode="es">Calendarios</IndicationProduct>
+       <IndicationProduct languageCode="et">Kalendrid</IndicationProduct>
+       <IndicationProduct languageCode="et">Lauakalendrite alused</IndicationProduct>
+       <IndicationProduct languageCode="et">Lauakalendrid</IndicationProduct>
+       <IndicationProduct languageCode="et">Kalendrid (ka reklaammaterjalina)</IndicationProduct>
+       <IndicationProduct languageCode="fi">Toimistokalenterit</IndicationProduct>
+       <IndicationProduct languageCode="fi">Kalenterit</IndicationProduct>
+       <IndicationProduct languageCode="fi">Kalenterit (myös mainosmateriaalina)</IndicationProduct>
+       <IndicationProduct languageCode="fi">Pöytäkalenteritelineet</IndicationProduct>
+       <IndicationProduct languageCode="fr">Calendriers [aussi publicitaires]</IndicationProduct>
+       <IndicationProduct languageCode="fr">Calendrier de bureau</IndicationProduct>
+       <IndicationProduct languageCode="fr">Supports pour calendriers de bureau</IndicationProduct>
+       <IndicationProduct languageCode="fr">Calendriers</IndicationProduct>
+       <IndicationProduct languageCode="hu">Naptárak [reklámanyagként is használt]</IndicationProduct>
+       <IndicationProduct languageCode="hu">Asztali naptárak</IndicationProduct>
+       <IndicationProduct languageCode="hu">Tartók irodai naptárakhoz</IndicationProduct>
+       <IndicationProduct languageCode="hu">Naptárak</IndicationProduct>
+       <IndicationProduct languageCode="it">Calendari [anche pubblicitario]</IndicationProduct>
+       <IndicationProduct languageCode="it">Calendari</IndicationProduct>
+       <IndicationProduct languageCode="it">Calendari da scrivania</IndicationProduct>
+       <IndicationProduct languageCode="it">Supporti per calendari da scrivania</IndicationProduct>
+       <IndicationProduct languageCode="lt">Kalendoriai</IndicationProduct>
+       <IndicationProduct languageCode="lt">Kalendoriai [taip pat ir reklaminė produkcija]</IndicationProduct>
+       <IndicationProduct languageCode="lt">Stalinių kalendorių atramos</IndicationProduct>
+       <IndicationProduct languageCode="lt">Darbo kalendoriai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Galda kalendāri</IndicationProduct>
+       <IndicationProduct languageCode="lv">Kalendāri [arī kā reklāmas materiāli]</IndicationProduct>
+       <IndicationProduct languageCode="lv">Kalendāri</IndicationProduct>
+       <IndicationProduct languageCode="lv">galda kalendāru paliktņi</IndicationProduct>
+       <IndicationProduct languageCode="mt">Kalendarji</IndicationProduct>
+       <IndicationProduct languageCode="mt">Kalendarji</IndicationProduct>
+       <IndicationProduct languageCode="mt">Kalendarji għal fuq l-iskrivanija</IndicationProduct>
+       <IndicationProduct languageCode="mt">appoġġi għall-kalendarji ta' fuq id-desk</IndicationProduct>
+       <IndicationProduct languageCode="nl">Staanders voor bureaukalenders</IndicationProduct>
+       <IndicationProduct languageCode="nl">Kalenders [ook als reclamemateriaal]</IndicationProduct>
+       <IndicationProduct languageCode="nl">Kalenders</IndicationProduct>
+       <IndicationProduct languageCode="nl">Bureaukalenders</IndicationProduct>
+       <IndicationProduct languageCode="pl">Kalendarze</IndicationProduct>
+       <IndicationProduct languageCode="pl">Kalendarze [również reklamowe]</IndicationProduct>
+       <IndicationProduct languageCode="pl">Kalendarze biurkowe</IndicationProduct>
+       <IndicationProduct languageCode="pl">podstawy do kalendarzy biurkowych</IndicationProduct>
+       <IndicationProduct languageCode="pt">Calendários</IndicationProduct>
+       <IndicationProduct languageCode="pt">Suportes para calendários de escritório</IndicationProduct>
+       <IndicationProduct languageCode="pt">Calendários (também como material de publicidade)</IndicationProduct>
+       <IndicationProduct languageCode="pt">Calendários de secretária</IndicationProduct>
+       <IndicationProduct languageCode="ro">Calendare [inclusiv cele folosite ca material publicitar]</IndicationProduct>
+       <IndicationProduct languageCode="ro">Calendare de birou</IndicationProduct>
+       <IndicationProduct languageCode="ro">Calendare</IndicationProduct>
+       <IndicationProduct languageCode="ro">Suporturi pentru calendare de birou</IndicationProduct>
+       <IndicationProduct languageCode="sk">Stojany na kancelárske stolové kalendáre</IndicationProduct>
+       <IndicationProduct languageCode="sk">Kalendáre</IndicationProduct>
+       <IndicationProduct languageCode="sk">Kalendáre  [tiež ako reklamné materiály]</IndicationProduct>
+       <IndicationProduct languageCode="sk">Kancelárske stolové kalendáre</IndicationProduct>
+       <IndicationProduct languageCode="sl">Podstavki za namizne koledarje</IndicationProduct>
+       <IndicationProduct languageCode="sl">Koledarji</IndicationProduct>
+       <IndicationProduct languageCode="sl">Koledarji [tudi kot reklamni material]</IndicationProduct>
+       <IndicationProduct languageCode="sl">Namizni koledarji</IndicationProduct>
+       <IndicationProduct languageCode="sv">Kalendrar</IndicationProduct>
+       <IndicationProduct languageCode="sv">Hållare för skrivbordskalendrar</IndicationProduct>
+       <IndicationProduct languageCode="sv">Skrivbordskalendrar</IndicationProduct>
+       <IndicationProduct languageCode="sv">Kalendrar (även reklammaterial)</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>19.03</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/094</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-05-19</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2009/148</PublicationIdentifier>
+        <PublicationSequenceNumber>284283</PublicationSequenceNumber>
+        <PublicationSection>B.9.1</PublicationSection>
+        <PublicationDate>2009-07-31</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325766</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>27253</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+<DesignRecordDetails>
+<DesignRecord>
+<DesignBasicRecord>
+<RecordIdentifier>003295205</RecordIdentifier>
+<BasicRecordKind>Change of Names and Addresses of Rep</BasicRecordKind>
+<RecordPublicationDetails>
+          <RecordPublication>
+           <PublicationSequenceNumber>284283</PublicationSequenceNumber>
+           <PublicationSection>B.9.1</PublicationSection>
+          </RecordPublication>
+         </RecordPublicationDetails>
+<RecordCurrentStatusCode>Record Published</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2009-07-31</RecordCurrentStatusDate>
+<RecordViewsIndicator>false</RecordViewsIndicator>
+</DesignBasicRecord>
+</DesignRecord>
+</DesignRecordDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

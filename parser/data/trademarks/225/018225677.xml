@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-15T09:20:12</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018225677</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018225677</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-09-12</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Impakserv</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162305040</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/225/018225677/000162305040.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Азбестови ръкавици за предпазване от злополуки; Ръкавици за защита от злополуки; Ръкавици за водолази; Ръкавици за защита от рентгенови лъчи за промишлени цели; Облекла за защита от огън; Облекла за защита от огън; Облекла за защита от огън; Устойчиви на киселини ръкавици; Устойчиви на киселина гумени обувки; Пожарни ботуши (обувки).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Ochranné azbestové rukavice; Ochranné rukavice (k ochraně před úrazy a nehodami); Potápěčské rukavice; Ochranné rukavice proti rentgenovému záření pro použití v průmyslu; Ohnivzdorné oděvy; Ohnivzdorné oděvy; Ohnivzdorné oděvy; Rukavice odolné vůči kyselinám; Gumová obuv odolná proti kyselinám; Protipožární boty (polobotky).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Asbesthandsker til beskyttelse mod ulykker; Handsker til beskyttelse mod ulykker; Handsker til dykkere; Handsker til industriel brug til beskyttelse mod røntgenstråler; Beklædningsgenstande til beskyttelse mod ild; Beklædningsgenstande til beskyttelse mod ild; Beklædningsgenstande til beskyttelse mod ild; Syrebestandige handsker; Syrebestandige gummisko; Ildfaste støvler (sko).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Asbesthandschuhe zum Schutz gegen Unfälle; Unfallschutzhandschuhe; Taucherhandschuhe; Schutzhandschuhe gegen Röntgenstrahlen für gewerbliche Zwecke; Feuerschutzbekleidung; Feuerschutzbekleidung; Feuerschutzbekleidung; Säurefeste Handschuhe; Säureresistente Gummischuhe; Feuerwehrstiefel (Schuhe).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αμιάντου (Γάντια -) για την προστασία κατά των ατυχημάτων· Γάντια για προστασία από ατυχήματα· Γάντια κατάδυσης· Γάντια κατά των ακτίνων Χ βιομηχανικής χρήσης· Πυρίμαχα ενδύματα· Πυρίμαχα ενδύματα· Πυρίμαχα ενδύματα· Οξεάντοχα γάντια· Παπούτσια από καουτσούκ ανθεκτικά στο οξύ· Πυρίμαχες μπότες (παπούτσια).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Asbestos gloves for protection against accidents; gloves for protection against accidents; gloves for divers; gloves for protection against X-rays for industrial purposes; clothing for protection against fire; fireproof clothing; garments for protection against fire; acid-proof gloves; acid resistant rubber shoes; fire boots (shoes).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Guantes de asbesto de protección con accidentes; Guantes de protección contra accidentes; Guantes de buceo; Guantes de protección contra los rayos X para uso industrial; Ropa ignífuga; Ropa ignífuga; Ropa ignífuga; Guantes a prueba de ácidos; Zapatos de goma resistentes a ácidos; Botas ignífugas (calzado).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Asbestist kaitsekindad; Kaitsekindad; Kindad sukeldujatele; Tööstuslikud röntgenikiirgusvastased kindad; Tulekindlad kaitserõivad; Tulekindlad kaitserõivad; Tulekindlad kaitserõivad; Happekindlad kindad; Happekindlad kalossid; Tulekindlad saapad (kingad).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Asbestikäsineet suojaksi onnettomuuksilta; Käsineet suojaksi onnettomuuksilta; Käsineet (Sukellus -); Käsineet suojaksi röntgensäteiltä teollisuuskäyttöön; Suojavaatteet tulta vastaan; Suojavaatteet tulta vastaan; Suojavaatteet tulta vastaan; Haponkestävät käsineet; Haponkestävät kumikengät; Tulenkestävät saappaat (kengät).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Gants en amiante pour la protection contre les accidents; Gants de protection contre les accidents; Gants de plongée; Gants de protection contre les rayons X à usage industriel; Habillement pour la protection contre le feu; Habillement pour la protection contre le feu; Habillement pour la protection contre le feu; Gants résistant aux acides; Chaussures en caoutchouc résistant aux acides; Bottes ignifuges (chaussures).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Azbestne rukavice za zaštitu od nesreća na radu; Zaštitne rukavice; Rukavice za ronioce; Rukavice za zaštitu od X-zraka u industriji; Vatrootporna odjeća; Vatrootporna odjeća; Vatrootporna odjeća; Rukavice otporne na kiseline; Gumene cipele otporne na kiseline; Vatrootporne čizme (obuća).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Azbesztkesztyűk balesetvédelmi célokra; Balesetek elleni védőkesztyűk; Búvárkesztyűk; Röntgensugárzás elleni védőkesztyűk ipari célokra; Tűzálló ruházat; Tűzálló ruházat; Tűzálló ruházat; Saválló kesztyűk; Saválló gumicipők; Tűzálló csizma (cipő).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Guanti di amianto per la protezione contro gli infortuni; Guanti per la protezione contro gli infortuni; Guanti per subacquei; Guanti i protezione contro i raggi X per uso industriale; Indumenti per la protezione contro il fuoco; Indumenti per la protezione contro il fuoco; Indumenti per la protezione contro il fuoco; Guanti a prova di acido; Scarpe di gomma resistente agli acidi; Scarponi (scarpe) antincendio.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Apsauginės asbesto pirštinės nuo nelaimingų atsitikimų; Apsauginės pirštinės; Nardytojų pirštinės; Pirštinės nuo rentgeno spinduliuotės (gamyboje); Ugniai atsparūs drabužiai; Ugniai atsparūs drabužiai; Ugniai atsparūs drabužiai; Rūgštims atsparios pirštinės; Rūgštims atsparūs guminiai batai; Ugniai atsparūs batai (avalynė).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Azbesta cimdi aizsardzībai pret nelaimes gadījumiem; Cimdi aizsardzībai pret nelaimes gadījumiem; Ūdenslīdēju cimdi; Cimdi aizsardzībai pret rentgena starojumu rūpnieciskiem nolūkiem; Ugunsdrošs apģērbs; Ugunsdrošs apģērbs; Ugunsdrošs apģērbs; Pret skābi noturīgi cimdi; Pret skābi izturīgas gumijas kurpes; Ugunsizturīgi zābaki [apavi].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ingwanti tal-asbestos għall-ħarsien minn inċidenti; Ingwanti għall-protezzjoni kontra l-inċidenti; Ingwanti għall-għaddasa; Ingwanti ta' protezzjoni kontra r-raġġi-X għal skopijiet industrijali; Lbies reżistenti għan-nar; Lbies reżistenti għan-nar; Lbies reżistenti għan-nar; Ingwanti reżistenti għall-aċidu; Żraben tal-lastku reżistenti għall-aċidu; Stvali (żraben) li jifilħu n-nar.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Asbesthandschoenen ter bescherming tegen ongevallen; Handschoenen ter bescherming tegen ongevallen; Duikerhandschoenen; Beschermende handschoenen tegen röntgenstralen, voor industrieel gebruik; Kleding ter bescherming tegen vuur; Kleding ter bescherming tegen vuur; Kleding ter bescherming tegen vuur; Zuurbestendige handschoenen; Zuurbestendige schoenen van rubber; Brandweerlaarzen (-schoenen).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Rękawice azbestowe do ochrony przed wypadkami; Rękawice do ochrony przed wypadkami; Rękawice dla nurków; Rękawice do ochrony przed promieniami rentgenowskimi do celów przemysłowych; Ognioodporna odzież; Ognioodporna odzież; Ognioodporna odzież; Rękawice odporne na kwas; Obuwie gumowe kwasoodporne; Obuwie ognioodporne (obuwie).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Luvas em amianto para a proteção contra os acidentes; Luvas para proteção contra acidentes; Luvas para mergulho; Luvas de proteção contra raios-x para uso industrial; Roupas para proteção contra fogo; Roupas para proteção contra fogo; Roupas para proteção contra fogo; Luvas resistentes a ácidos; Sapatos de borracha resistentes a ácidos; Botas (sapatos) ignífugas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Azbest (Mănuşi din -) pentru protecţia împotriva accidentelor; Mănuşi de protecţie împotriva accidentelor; Mănuşi de scafandru; Mănuşi de uz industrial pentru protecţie contra razelor X; Îmbrăcăminte de protecţie împotriva focului; Îmbrăcăminte de protecţie împotriva focului; Îmbrăcăminte de protecţie împotriva focului; Mănuşi rezistente la acid; Pantofi de cauciuc rezistenți la acid; Ghete rezistente la foc (pantofi).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Ochranné azbestové rukavice; Rukavice pre ochranu pred zranením; Potápačské rukavice; Ochranné rukavice proti rtg. lúčom na priemyselné použitie; Protipožiarne ochranné odevy; Protipožiarne ochranné odevy; Protipožiarne ochranné odevy; Rukavice odolné voči kyselinám; Gumené topánky odolné voči kyseline; Ohňovzdorné čižmy (topánky).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Azbestne rokavice za zaščito pred nesrečami; Rokavice za zaščito pred nesrečam; Rokavice za potapljače; Rokavice za zaščito pred rentgenskimi žarki za industrijske namene; Ognjeodporna oblačila; Ognjeodporna oblačila; Ognjeodporna oblačila; Rokavice za zaščito pred kislino; Gumijasti čevlji, odporni na kislino; Požarni škornji (čevlji).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Asbesthandskar för skydd mot olyckor; Handskar för skydd mot olyckor; Handskar för dykare; Handskar för skydd mot röntgenstrålning för industriella ändamål; Klädesplagg för skydd mot eld; Klädesplagg för skydd mot eld; Klädesplagg för skydd mot eld; Syrafasta handskar; Syraresistenta gummiskor; Brandstövlar (skor).</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>25</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Ръкавици [облекло]; Скиорски ръкавици; Ръкавици с един пръст [дрехи]; Плетени ръкавици; Ръкавици за езда; Ръкавици с чувствителни върхове на пръстите, които могат да се носят при използване на ръчни електронни устройства със сензорни екрани; Ръкавици за велосипедисти; Ръкавици за мотоциклетисти; Ръкавици [облекло]; Ръкавици за шофиране.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Rukavice [oděvy]; Lyžařské rukavice; Palčáky (rukavice); Pletené rukavice; Jezdecké rukavice; Rukavice s vodivým materiálem na konečcích prstů k ovládání přenosných elektronických zařízení s dotykovým displejem; Rukavice pro cyklisty; Motocyklové rukavice; Rukavice [oděvy]; Řidičské rukavice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Handsker [beklædning]; Skihandsker; Muffedisser; Strikhandsker; Ridehandsker; Handsker med ledende fingerspidser til anvendelse ved brug af håndholdte elektroniske enheder med berøringsskærme; Handsker til cyklister; Motorcykelhandsker; Handsker [beklædning]; Kørehandsker.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Handschuhe [Bekleidung]; Skihandschuhe; Fausthandschuhe [Bekleidung]; Gestrickte Handschuhe; Reithandschuhe; Handschuhe mit leitfähigen Fingerspitzen, die beim Verwenden von elektronischen Taschengeräten mit Berührungsbildschirm getragen werden können; Handschuhe für Radfahrer; Motorradhandschuhe; Handschuhe [Bekleidung]; Autofahrerhandschuhe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Γάντια· Γάντια χιονοδρομίας (σκι)· Γάντια χωρίς χωρίσματα για τα δάκτυλα [ενδύματα]· Πλεκτά γάντια· Γάντια ιππασίας· Γάντια με αγώγιμο υλικό στις άκρες των δακτύλων κατάλληλα για χρήση ηλεκτρικών συσκευών με οθόνη αφής· Γάντια για ποδηλάτες· Γάντια μοτοσυκλετιστή· Γάντια· Γάντια οδήγησης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Gloves [clothing]; ski gloves; mittens; knitted gloves; riding gloves; gloves with conductive fingertips that may be worn while using handheld electronic touch screen devices; cycling gloves; motorcycle gloves; gloves; driving gloves.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Guantes [prendas de vestir]; Guantes de esquí; Mitones; Guantes de punto; Guantes de equitación; Guantes con puntas conductoras que pueden usarse al utilizar dispositivos electrónicos portátiles provistos de pantallas táctiles; Guantes para ciclistas; Guantes de motociclista; Guantes [prendas de vestir]; Guantes para conducir.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kindad (rõivad); Suusakindad; Käpikud [rõivad]; Kootud kindad (sõrmikud); Ratsakindad; Konduktiivsete sõrmeotstega kindad, mida saab kasutada puuteekraaniga elektrooniliste pihuseadmete kasutamisel; Ratturikindad; Mootorratturikindad; Kindad (rõivad); Kindad autojuhtimiseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Käsineet; Hiihtohansikkaat; Kintaat [vaatteet]; Neulekintaat; Ratsastuskäsineet; Sähköä johtavilla sormenpäillä varustetut käsineet kosketusnäytöllä varustetun elektroniikan käyttöä varten; Pyöräilykäsineet; Moottoripyöräilykäsineet; Käsineet; Ajohansikkaat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Gants [habillement]; Gants de ski; Mitaines; Gants en tricot; Gants d'équitation; Gants à doigts conducteurs pouvant être portés lors de l'utilisation de dispositifs électroniques portables à écran tactile [habillement]; Gants pour cyclistes; Gants de motocycliste; Gants [habillement]; Gants de conduite [habillement].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Rukavice; Rukavice za skijanje; Rukavice bez prstiju; Pletene rukavice; Rukavice za jahanje; Rukavice s provodljivim vršcima prstiju za korištenje s elektroničkim uređajima sa zaslonom na dodir; Biciklističke rukavice; Motociklističke rukavice; Rukavice; Vozačke rukavice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kesztyűk [ruházat]; Síkesztyűk; Egyujjas kesztyűk; Kötött kesztyűk; Lovaglókesztyűk; Kapacitív kesztyűk érintőképernyős készülékekhez; Kesztyűk kerékpárosoknak; Motoros kesztyűk; Kesztyűk [ruházat]; Autós kesztyűk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Guanti [abbigliamento]; Guanti da sci; Guanti a manopola; Guanti in maglia; Guanti da equitazione; Guanti con dita a fibre conduttive che possono essere indossati durante l'uso di dispositivi elettronici palmari con touch screen; Guanti per ciclisti; Guanti da motociclismo; Guanti [abbigliamento]; Guanti da pilota.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Pirštinės [drabužiai]; Slidinėjimo pirštinės; Kumštinės pirštinės; Megztos pirštinės; Jojimo pirštinės; Pirštinės su laidžiais pirštų galais, kurias galima dėvėti naudojant rankinius elektroninius prietaisus su jutikliniu ekranu; Dviratininkų pirštinės; Motociklininkų pirštinės; Pirštinės [drabužiai]; Vairuotojų pirštinės.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Cimdi; Slēpošanas cimdi; Dūraiņi; Adīti cimdi; Jātnieku cimdi; Cimdi ar vadītspējīgiem pirkstu galiem, ko var nenovilkt, izmantojot elektroniskas skārienjutīgas ierīces; Velosipēdistu cimdi; Motobraucēju cimdi; Cimdi; Transportlīdzekļu vadītāju cimdi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Ingwanti; Ingwanti tal-iskijjar; Ingwanti mingħajr swaba' [ilbies]; Ingwanti mmaljati; Ingwanti għall-irkib taż-żwiemel; Ingwanti bi swaba' konduttivi li jistgħu jintlibsu waqt li jintuża apparat elettroniku b'skrin li jinħadem billi tmissu; Ingwanti għaċ-ċiklisti; Ingwanti għall-motoċikliżmu; Ingwanti; Ingwanti tas-sewqan.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Handschoenen [kleding]; Skihandschoenen; Wanten [kleding]; Gebreide handschoenen; Rijhandschoenen; Handschoenen met geleidende vingertoppen die kunnen worden gedragen tijdens het gebruik van elektronische touchscreen apparatuur; Handschoenen voor fietsers; Motorhandschoenen; Handschoenen [kleding]; Rijhandschoenen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Rękawiczki [odzież]; Rękawice narciarskie; Rękawiczki z jednym palcem; Rękawiczki dziane; Rękawice jeździeckie; Rękawiczki z materiałem przewodzącym na czubkach palców, które można nosić podczas używania podręcznych urządzeń elektronicznych z ekranem dotykowym; Rękawiczki dla rowerzystów; Rękawice motocyklowe; Rękawiczki [odzież]; Rękawiczki samochodowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Luvas [vestuário]; Luvas de esqui; Mitenes; Luvas em malha; Luvas de equitação; Luvas com pontas dos dedos condutoras para poderem ser usadas com dispositivos eletrónicos manuais com ecrã tátil; Luvas para ciclistas; Luvas de motociclismo; Luvas [vestuário]; Luvas para conduzir.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Mănuşi [articole de îmbrăcăminte]; Mănuşi de schi; Mitene [îmbrăcăminte]; Mănuşi tricotate; Mănuşi pentru călărie; Mănuşi cu vârfurile degetelor din material conductiv, care por fi purtate atunci când se utilizează dispozitive electronice portabile cu ecran tactil; Mănuşi pentru ciclişti; Mănuşi pentru motociclişti; Mănuşi [articole de îmbrăcăminte]; Mânuşi pentru condus.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Rukavice; Lyžiarske rukavice; Palčiaky [oblečenie]; Pletené rukavice; Jazdecké rukavice; Rukavice s vodivými končekmi prstov, ktoré sa môžu používať počas obsluhy zariadení s elektronickými dotykovými obrazovkami; Rukavice pre cyklistov; Motocyklistické rukavice; Rukavice; Vodičské rukavice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Rokavice; Smučarske rokavice; Palčniki [oblačila]; Pletene rokavice; Rokavice za jahanje; Rokavice s prevodnimi prstnimi konicami, za uporabo z ročnimi elektronskimi napravami, ki imajo zaslon na dotik; Rokavice za kolesarje; Motoristične rokavice; Rokavice; Rokavice za vožnjo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Handskar; Skidhandskar; Vantar; Stickade vantar; Ridhandskar; Handskar med ledande fingertoppar som kan bäras när man använder pekskärmen på handhållen elektronisk utrustning; Handskar för cyklister; Motorcykelhandskar; Handskar; Bilhandskar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/105</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-05</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/176</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-15</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1080325</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>22168</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

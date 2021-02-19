@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T09:40:05</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229033</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229033</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>fr</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Classic Glass</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>12</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Превозни и транспортни средства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Vozidla a dopravní prostředky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Køretøjer og befordringsmidler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Fahrzeuge und Beförderungsmittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Οχήματα και μέσα μεταφοράς.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Vehicles and conveyances.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Vehículos y medios de transporte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Sõidukid ja transpordivahendid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ajoneuvot ja kulkuneuvot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Véhicules et moyens de transport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Vozila i prijevozna sredstva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Járművek és szállítóeszközök.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Veicoli e mezzi di trasporto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Transporto priemonės ir vežimėliai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Transportlīdzekļi un pārvietošanas līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Vetturi u vetturi għall-ġarr.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Voertuigen en vervoermiddelen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Pojazdy i środki transportu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Veículos e meios de transporte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Vehicule și mijloace de transport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Vozidlá a dopravné prostriedky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Vozila in prevozna sredstva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Fordon och -fortskaffningsmedel.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<SeniorityDetails>
+<Seniority>
+<SeniorityCountryCode>FR</SeniorityCountryCode>
+<SeniorityApplicationNumber>4579240</SeniorityApplicationNumber>
+<SeniorityFilingDate>2019-09-05</SeniorityFilingDate>
+<SeniorityRegistrationNumber>4579240</SeniorityRegistrationNumber>
+<SeniorityRegistrationDate>2019-09-05</SeniorityRegistrationDate>
+<InternationalTradeMarkCode>EU</InternationalTradeMarkCode>
+<SeniorityPartialIndicator>false</SeniorityPartialIndicator>
+<SeniorityStatusCode>Accepted</SeniorityStatusCode>
+</Seniority>
+</SeniorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/080</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-29</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/151</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082002</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-07-29T09:52:41</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224706</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224706</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-07-24</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-29</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>GRANFIOCCHI BALOCCO</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162207442</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/224/018224706/000162207442.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.07.20</CategoryCode>
+          <CategoryCode>26.13.99</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Пандишпан; Брашнени препарати; Пандишпан.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Piškotový dort; Moučné přípravky; Piškotový dort.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Sukkerbrødskager; Melholdige præparater; Sukkerbrødskager.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Biskuit; Mehlhaltige Präparate; Biskuit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Παντεσπάνι· Αμυλούχα παρασκευάσματα· Παντεσπάνι.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Sponge cake; Farinaceous preparations; Sponge cake.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bizcochos; Farinaceous preparations; Bizcochos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Biskviitkoogid; Jahupreparaadid; Biskviitkoogid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Sokerikakut; Jauhopitoiset valmisteet; Sokerikakut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Gâteaux-éponges; Préparations à base de féculents; Gâteaux-éponges.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Biskvit; Brašnasti pripravci; Biskvit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Piskóták, piskótatészták; Lisztkészítmények; Piskóták, piskótatészták.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">biscotti; prodotti a base di farina; pasticceria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Biskvitai; Miltiniai pusfabrikačiai; Biskvitai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Biskvīta kūkas; Miltu izstrādājumi; Biskvīta kūkas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kejkijiet tal-ispanġ; Preparazzjonijiet farinaċew; Kejkijiet tal-ispanġ.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Biscuitgebak; Meelpreparaten; Biscuitgebak.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Biszkopty; Preparaty mączne; Biszkopty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Pão-de-ló; Produtos farináceos; Pão-de-ló.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Prăjituri; Preparate farinacee; Prăjituri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Koláče z piškótového cesta; Krupicovité prípravky; Koláče z piškótového cesta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Biskvit; Škrobnati pripravki; Biskvit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Sockerkakor; Mjölprodukter; Sockerkakor.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/072</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/141</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-07-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>469750</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>14918</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

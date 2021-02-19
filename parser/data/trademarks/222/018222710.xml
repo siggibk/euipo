@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-04T11:09:55</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018222710</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018222710</ApplicationNumber>
+<ApplicationDate>2020-04-08</ApplicationDate>
+<ApplicationLanguageCode>cs</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="5">Application opposed</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-07-23</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>brainz</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Записано съдържание; Информационно-технологични и аудиовизуални, мултимедийни и фотографски устройства; Софтуер; Софтуер и приложения за мобилни устройства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nahraný obsah (počítačové programy, data a informace); Informační technologie a audiovizuální, multimediální a fotografické přístroje; Počítačový software; Software a aplikace pro mobilní zařízení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Optaget indhold; Informationsteknologiske, audiovisuelle og fotografiske apparater, samt apparater til multimedie; Software; Software og applikationer til mobilenheder.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Aufgezeichnete Daten; Informationstechnologische, audiovisuelle, multimediale und fotografische Geräte; Software; Software und Softwareapplikationen für mobile Geräte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ηχογραφημένα περιεχόμενα· Τεχνολογία της πληροφορίας και συσκευές οπτικοακουστικές, πολυμέσων και φωτογραφικές· Λογισμικό· Λογισμικό και εφαρμογές για κινητές διατάξεις.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Recorded content; Information technology and audio-visual, multimedia and photographic devices; Software; Software and applications for mobile devices.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Grabaciones; Equipos de tecnología de la información, audiovisuales, multimedia y fotográficos; Software; Software y aplicaciones para dispositivos móviles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Salvestised; Infotehnoloogia- ning audiovisuaal-, multimeedia- ja fotoseadmed; Arvutitarkvara; Mobiilseadmete tarkvara ja rakendused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tallenteet; Tietotekniset laitteet sekä audiovisuaaliset, multimedia- ja valokuvauslaitteet; Ohjelmistot; Ohjelmistot ja sovellukset mobiililaitteisiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Contenu enregistré; Dispositifs de la technologie de l’information, audiovisuels, multimédias et photographiques; Logiciel; Logiciels et applications pour dispositifs mobiles.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Snimljeni sadržaj; Informacijska tehnologija te uređaji za reprodukciju zvučnih zapisa, videozapisa i multimedijskih sadržaja te uređaji za fotografiranje; Softver; Softveri i aplikacije za mobilne uređaje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Rögzített tartalmak; Informatikai és audio-, vizuális, multimédiás és fényképészeti készülékek; Szoftverek; Szoftverek és alkalmazások mobil eszközökhöz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Contenuti registrati; Tecnologie dell’informazione e dispositivi audiovisivi, multimediali e fotografici; Software; Software ed applicazioni per dispositivi mobili.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Įrašytas turinys; Informacinių technologijų ir garso, vaizdo, daugialypės terpės ir fotografijos prietaisai; Programinė įranga; Mobiliųjų prietaisų programinė įranga ir taikomosios programos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ierakstu materiāli; Informācijas tehnoloģijas un audiovizuālo materiālu, multivides un fotografēšanas ierīces; Programmatūra; Mobilo ierīču programmatūra un lietojumprogrammas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kontenut irrekordjat; Teknoloġija tal-informatika u tagħmir awdjo-viżwali, multimedjali u fotografiku; Softwer; Softwer u applikazzjonijiet għal tagħmir mobbli.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Opgenomen content; Informatietechnologische, audiovisuele, multimedia- en fotografische toestellen; Software; Software en applicaties voor mobiele toestellen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Utrwalone na nośnikach informacje i dane; Urządzenia technologii informacyjnej i audiowizualne, multimedialne i fotograficzne; Oprogramowanie; Oprogramowanie i aplikacje do urządzeń przenośnych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Conteúdo gravado; Tecnologia da informação e dispositivos audiovisuais, multimédia e fotográficos; Software; Software e aplicações para dispositivos móveis.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Materiale înregistrate; Dispozitive pentru tehnologia informației, audio-vizuale, multimedia și fotografice; Software; Software și aplicații pentru dispozitive mobile.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nahrávky a záznamy; Zariadenia informačných technológií a audiovizuálne, multimediálne a fotografické zariadenia; Softvér; Softvér a aplikácie pre mobilné zariadenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Posnete vsebine; Naprave za informacijsko tehnologijo, avdiovizualne in večpredstavnostne vsebine ter fotografiranje; Programska oprema; Programska oprema in aplikacije za mobilne naprave.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Inspelningar; Informationsteknologiska anordningar, ljudanordningar, visuella anordningar, multimedieanordningar och fotografiska anordningar; Mjukvaror; Programvara och applikationer för mobila anordningar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Рекламни, маркетингови и промоционални услуги; Услуги по създаване на брандове; Услуги за стратегии, свързани с търговски марки; Услуги, свързани с позициониране на търговски марки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Reklamní, marketingové a propagační služby; Služby navrhování obchodních značek; Služby v oblasti strategie značek; Služby v oblasti umisťování obchodních značek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Virksomhed vedrørende reklame, marketing og salgsfremstød; Ydelser inden for brandskabelse; Tjenesteydelser vedrørende brand-strategier; Ydelser inden for positionering af brands.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Werbung, Marketing und Verkaufsförderung; Entwicklung von Markennamen; Dienstleistungen in Bezug auf Markenstrategien; Markenpositionierung [Marketing].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διαφήμιση, ενέργειες πώλησης (μάρκετινγκ) και υπηρεσίες προώθησης· Υπηρεσίες δημιουργίας εμπορικών σημάτων· Υπηρεσίες στρατηγικής σε θέματα εμπορικών σημάτων· Υπηρεσίες τοποθέτησης εμπορικού σήματος στην αγορά.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Advertising, marketing and promotional services; Brand creation services; Brand strategy services; Brand positioning services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios promocionales, de marketing y publicidad; Servicios de creación de marcas; Servicios de estrategia de marcas; Servicios de posicionamiento de marcas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Reklaam ja turundus; Kaubamärkide ja tootemarkide loomise teenused; Tootemargistrateegia teenused; Tootemargi (brändi) positsioneerimine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Mainonta-, markkinointi- ja myynninedistämispalvelut; Brändin luomispalvelut; Tuotemerkkistrategiaan liittyvät palvelut; Brändin asemointipalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de publicité, de marketing et de promotion; Services de création de marques (publicité et promotion); Services de stratégie de marques; Services de positionnement de marques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge oglašavanja, marketinga i promidžbe; Usluge stvaranja marki; Usluge strategije brenda; Usluge pozicioniranja robne marke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Reklámozási, marketing és promóciós szolgáltatások; Márkaalkotási szolgáltatások; Védjegy-stratégiai szolgáltatások; Márkapozicionálási szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi pubblicitari, di marketing e promozionali; Servizi di creazione del marchio; Servizi di strategia del marchio; Servizi di posizionamento del brand.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Reklamos, rinkodaros ir pardavimų skatinimo paslaugos; Prekės ženklo kūrimo paslaugos; Prekių ženklų strategijos rengimo paslaugos; Prekės ženklo vietos rinkoje nustatymas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Reklāmas, tirgvedības un preču noieta veicināšanas pakalpojumi; Zīmolu veidošanas pakalpojumi; Zīmolu stratēģijas pakalpojumi; Zīmolu pozicionēšanas pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' reklamar, kummerċjaliżżazzjoni u promozzjonali; Servizzi ta' ħolqien ta' ditta; Servizzi ta' strateġija dwar il-marka ta' prodott; Servizzi ta' lokazzjoni ta' ditti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Reclame, marketing en promotionele diensten; Bedenken van merknamen; Diensten inzake merkstrategie; Positionering van merken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi reklamowe, marketingowe i promocyjne; Usługi w zakresie tworzenia marki; Usługi w zakresie strategii rozwoju marki; Usługi w zakresie pozycjonowania marki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de publicidade, de marketing e de promoção; Serviços de criação de marcas; Serviços de estratégia da marca; Serviços de posicionamento de marcas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de publicitate, marketing și promovare; Servicii de creare de mărci; Servicii de strategie de marcă; Servicii de poziționare a mărcilor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Reklamné, marketingové a propagačné služby; Služby v oblasti tvorby obchodných značiek; Služby týkajúce sa stratégie v oblasti obchodných značiek; Umiestňovanie obchodných značiek na trhu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oglaševalske, tržne in promocijske storitve; Storitve ustvarjanja blagovne znamke; Storitve strategije blagovnih znamk; Storitve pozicioniranja blagovne znamke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Reklam, marknadsföring och säljfrämjande tjänster; Skapande av varumärken (reklamtjänster); Märkesstrategiska tjänster; Positionering av varumärken (marknadsföring).</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>41</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за образование, развлечение и спорт.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Služby v oblasti vzdělávání, zábavy a sportu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Uddannelsesvirksomhed, underholdningsvirksomhed og sportsydelser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bildung, Erziehung, Unterhaltung und sportliche Aktivitäten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες εκπαίδευσης, ψυχαγωγίας και αθλητισμού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Education, entertainment and sport services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de educación, entretenimiento y de actividades deportivas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Haridus-, meelelahutus- ja sporditeenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Koulutus-, ajanviete- ja urheilupalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services d’éducation, de divertissement et de sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Obrazovne, zabavne i sportske usluge.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Oktatási, szórakoztatási és sportszolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi relativi a educazione, divertimento e sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Švietimo, pramogų ir sporto paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Izglītības, izklaides un sporta pakalpojumi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' edukazzjoni, ta' divertiment u ta' sports.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Diensten op het gebied van opvoeding, ontspanning en sport.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi edukacyjne, rozrywkowe i sportowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços de educação, entretenimento e desporto.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii educative, de divertisment și sportive.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Služby v oblasti vzdelávania, zábavy a športu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Izobraževalne, razvedrilne in športne storitve.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Tjänster avseende utbildning, underhållning och sport.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Графичен дизайн; Разработване, програмиране и внедряване на компютърен софтуер; Проектиране, създаване, хостинг и поддръжка на уеб сайтове за трети лица; Предоставяне на пространство за уеб страници; Компютърни софтуерни консултации; Консултация за дизайн на уеб страници; Информационно-технологични услуги; Информационно-технологични консултации, съвети и информация; Проектиране и разработване на компютърен софтуер; Поддръжка на компютърен софтуер; Софтуер като услуги.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Grafický design; Vývoj softwaru, programování a implementace softwaru; Návrh, vytváření, hosting a správa webových stránek pro jiné subjekty; Umísťování webových stránek; Konzultace v oblasti počítačového softwaru; Konzultace v oblasti navrhování webových stránek; Služby v oblasti informačních technologií; Konzultační, poradenské a informační služby v oblasti informačních technologií; Navrhování a vývoj počítačového softwaru; Údržba softwaru; Software jako služba [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Design af kunstgrafik; Udvikling af software, programmering og implementering; Design, oprettelse, hosting og vedligeholdelse af websteder for andre; Webstedshosting; Rådgivning vedrørende computer software; Rådgivning vedrørende design af websteder; IT tjenesteydelser; IT-rådgivnings-, vejlednings- og informationstjenesteydelser; Softwaredesign og -udvikling; Vedligeholdelse af computer software; Software as a service [saas].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Grafikerdienstleistungen; Entwicklung, Programmierung und Implementierung von Software; Entwurf, Erstellung und Wartung von Websites Dritter sowie Übernahme von Host-Funktionen für diese; Webhosting; Computersoftwareberatung; Beratung bei der Webseiten-Konzeption; IT-Dienstleistungen; IT- Beratungs-, -Auskunfts- und -Informationsdienstleistungen; Softwaredesign und -entwicklung; Wartung von Computersoftware; Software as a Service [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Γραφικό σχέδιο· Ανάπτυξη, προγραμματισμός και εφαρμογή λογισμικού· Σχεδιασμός, δημιουργία, φιλοξενία και συντήρηση ιστοθέσεων για λογαριασμό άλλων· Φιλοξενία ιστοθέσεων· Παροχή συμβουλών σε σχέση με λογισμικό ηλεκτρονικών υπολογιστών· Παροχή συμβουλών σχετικά με την σχεδίαση ιστοσελίδας· Υπηρεσίες τεχνολογιών της πληροφορικής· Υπηρεσίες εμπειρογνωμόνων, συμβουλευτικές και πληροφοριακές για τεχνολογίες πληροφορικής· Σχεδιασμός και ανάπτυξη λογισμικού· Συντήρηση λογισμικού· Λογισμικό σαν υπηρεσία.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Graphic arts design; Software development, programming and implementation; Design, creation, hosting and maintenance of websites for others; Hosting web sites; Computer software consultancy; Consultancy with regard to webpage design; IT services; IT consultancy, advisory and information services; Software design and development; Maintenance of computer software; Software as a service [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Diseño de artes gráficas; Desarrollo, programación e implementación de software; Diseño, creación, alojamiento y mantenimiento de sitios web para terceros; Alojamiento de sitios web; Consultoría sobre software; Consultoría de diseño de páginas web; Servicios de tecnologías de la información; Consultoría, asesoramiento e información sobre servicios informáticos; Diseño y desarrollo de software informático; Mantenimiento de software; Software como servicio [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Graafiline disain; Arvutitarkvaraarendus ja -teostus, programmeerimine; Veebisaitide kujundus, loomine ja hooldus kolmandatele isikutele; Veebisaitide majutamine, hostimine; Arvutitarkvarakonsultatsioonid; Veebilehe kujundamise konsultatsioonid; IT-teenused; IT-alased konsultatsioonid, nõuande- ja infoteenused; Tarkvara projekteerimine ja arendamine; Arvutitarkvara hooldamine; Pilveteenused [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Graafinen taidesuunnittelu; Tietokoneohjelmistojen kehittäminen, ohjelmointi ja toteutus; Verkkosivustojen suunnittelu, luominen, isännöinti ja huolto muille; Web-sivustojen ylläpito; Konsultointi liittyen tietokoneohjelmistoihin; Verkkosivujen suunnitteluun liittyvä konsultointi; IT-palvelut; IT-asioihin liittyvät konsultointi-, neuvonta- ja tietopalvelut; Tietokoneohjelmistojen suunnittelu ja kehittäminen; Ohjelmistojen ylläpito; Verkkosovelluspalvelut [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de conception d'art graphique; Développement, programmation et implémentation de logiciels; Conception, création, hébergement et maintenance de sites web pour des tiers; Hébergement de sites Web; Consultation en matière de logiciels; Conseils en matière de conception de pages Web; Services des technologies de l'information; Services de consultation, de conseil et d'information en matière de technologie de l'information; Conception et développement de logiciels; Maintenance de logiciels d'ordinateurs; Logiciel-service [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Grafički dizajn; Razvoj, programiranje i implementacija softvera; Dizajn, kreiranje, hosting i održavanje internetskih stranica za druge; Hosting web stranica; Konzultantske usluge u svezi s računalnim softverom; Konzultantske usluge u svezi s dizajnom internetskih stranica; Usluge informacijske tehnologije; Usluge savjetovanja i informacija vezane uz informacijsku tehnologiju; Dizajn i razvoj softvera; Održavanje softvera; Softver kao usluga [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Grafikai tervezés; Szoftverfejlesztés, programozás és kivitelezés; Webhelyek tervezése, készítése, tárolása [hosztolása] és karbantartása mások számára; Webtárhely biztosítása internetes oldalakhoz; Számítógép szoftver tanácsadás; Weboldalak tervezésével kapcsolatos tanácsadás; Információtechnológiai [IT] szolgáltatások; Információtechnológiai [IT] konzultáció, tanácsadás és információs szolgáltatások; Szoftverek tervezése és fejlesztése; Szoftver-karbantartás; Szoftver mint szolgáltatás [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di disegnatori di arti grafiche; Sviluppo, programmazione ed implementazione di software; Progettazione, creazione, hosting e manutenzione di siti web per terzi; Alloggiamento di siti web; Consulenza in materia di software; Consulenza relativa alla progettazione di pagine web; Servizi informatici; Consulenza informatica, servizi di consulenza ed informazione; Elaborazione e sviluppo di software; Manutenzione di programmi per computers; Servizi di software [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Meninio dizaino paslaugos; Programinės įrangos tobulinimas, programavimas ir įdiegimas; Interneto svetainių projektavimas, kūrimas, priegloba ir techninė priežiūra tretiesiems asmenims; Žiniatinklio svetainių priegloba; Kompiuterių programinės įrangos konsultacijos; Tinklalapių projektavimo konsultacijos; Informacinių technologijų paslaugos; Informacinių technologijų konsultacijos, patarimai ir informacija; Kompiuterių programinės įrangos projektavimas ir plėtojimas; Kompiuterių programinės įrangos priežiūra; Programinė įranga kaip paslauga [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Grafiskā dizaina izstrāde; Programmatūras izstrāde, programmēšana un ieviešana; Tīmekļa vietņu projektēšana, izveidošana, mitināšana un uzturēšana citu personu labā; Tīmekļa mitināšanas pakalpojumi; Konsultēšana datoru programmatūras jomā; Konsultēšana par tīmekļa vietņu dizainu; Informācijas tehnoloģiju pakalpojumi; Konsultāciju, padomu un informācijas sniegšana informācijas tehnoloģiju jomā; Programmatūras projektēšana un izstrāde; Programmatūras uzturēšana; Programmatūra kā pakalpojums (SaaS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Disinn grafiku; Żvilupp tas-softwer, programmar u implimentazzjoni; Id-disinn, il-ħolqien, il-ħosting u l-manutenzjoni ta' websajts għal oħrajn; Żamma ta' siti tal-Internet; Konsulenza (fis-softwer tal-kompjuter); Konsulenza rigward l-iddisinjar ta' paġni tal-web; Servizzi tal-IT; Servizz ta' konsultazzjoni, pariri u informazzjoni dwar l-IT; Disinn u żvilupp ta' softwer tal-kompjuter; Manutenzjoni ta' softwer; Softwer bħala servizz [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Grafisch ontwerp; Ontwikkeling, programmering en implementatie van software; Ontwerp, creatie, hosting en onderhoud van websites voor derden; Webhosting; Advisering op het gebied van software; Advisering op het gebied van webdesign; IT-diensten; IT consultancy-, advies- en informatiediensten; Ontwerp en ontwikkeling van software voor computers; Onderhoud van software; Ter beschikking stellen van software [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi graficzne; Rozwój, programowanie i wdrażanie oprogramowania komputerowego; Projektowanie, tworzenie, hosting i utrzymywanie witryn internetowych na rzecz osób trzecich; Hosting stron internetowych; Doradztwo w zakresie oprogramowania komputerowego; Doradztwo w projektowaniu stron internetowych; Usługi w zakresie technologii informacyjnych; Doradztwo, konsultacje i informacja w zakresie technologii informacyjnych; Projektowanie i opracowywanie oprogramowania komputerowego; Konserwacja oprogramowania komputerowego; Oprogramowanie jako usługa [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Design de artes gráficas; Desenvolvimento, programação e implementação de software; Conceção, criação, hospedagem e manutenção de sites para terceiros; Hospedagem de websites; Consultoria em software; Consultoria no que respeita ao design de páginas web; Serviços de TI (tecnologias de informação); Serviços de consultadoria, aconselhamento e informação sobre TI (tecnologias de informação); Design e desenvolvimento de software; Manutenção de software de computador; Software como serviço [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Design grafic; Dezvoltare software, programare și implementare; Design, creare, găzduire și întreținere de site-uri web pentru terți; Găzduirea site-urilor de internet [site-uri web]; Consultanță în domeniul programelor de calculator; Consultanță în materie de design de pagini web; Servicii IT; Consultanță IT, servicii de consiliere și asigurare de informații; Design și dezvoltare de software; Întreținerea programelor de calculator; Software ca serviciu [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Grafické dizajnérstvo; Vývoj softvéru, programovanie a zavádzanie programov; Dizajn, tvorba, hosting a údržba internetových stránok pre klientov; Hosťovanie na počítačových stránkach (webových stránkach); Poradenstvo v oblasti počítačových programov; Poradenstvo v oblasti navrhovania webových stránok; Informačné technológie; Poradenské a konzultačné služby a poskytovanie informácií v oblasti informačných technológií; Navrhovanie a vývoj softvéru; Údržba počítačového softvéru; Poskytovanie softvéru prostredníctvom internetu (SaaS).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Grafično oblikovanje; Razvoj programske opreme, programiranje in uvajanje programske opreme; Oblikovanje, izdelava, gostovanje in vzdrževanje spletnih mest za druge; Gostovanje internetnih strani; Svetovanje na področju računalniške programske opreme; Svetovanje pri oblikovanju spletnih strani; Storitve informacijske tehnologije; Storitve svetovanja in nudnja informacij v zvezi z informacijsko tehnologijo; Oblikovanje in razvoj programske opreme; Vzdrževanje programske opreme; Programska oprema kot storitev [SaaS].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Grafisk konstdesign; Mjukvaruutveckling, -programmering och –implementering; Utformning, skapande, hosting och underhåll av webbplatser åt andra; Hosting avseende webbsidor; Rådgivning avseende datormjukvara; Konsulttjänster avseende webbdesign; IT-tjänster; IT-konsultationer, -rådgivning och -information; Utformning och utveckling av datormjukvara; Underhåll av datorprogramvara; Molntjänster [SaaS].</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/077</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-24</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>931631</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>91729</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<OppositionDetails>
+<Opposition>
+<OppositionIdentifier>003126565</OppositionIdentifier>
+<OppositionDate>2020-07-23</OppositionDate>
+<ProceedingLanguageCode>en</ProceedingLanguageCode>
+<OppositionGroundText>
+Art. 8(4)
+Identity of marks and G&amp;S
+Likelihood of confusion
+Unfair advantage /detriment to distinctiveness or repute</OppositionGroundText>
+<EarlierMarkDetails>
+<EarlierMark>
+<EarlierMarkCountryCode>CZ</EarlierMarkCountryCode>
+<ApplicationNumber>551545</ApplicationNumber>
+<ApplicationDate>2018-11-01</ApplicationDate>
+<RegistrationNumber>372065</RegistrationNumber>
+<RegistrationDate>2019-03-20</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>braiins</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>CZ</EarlierMarkCountryCode>
+<ApplicationNumber>551545</ApplicationNumber>
+<ApplicationDate>2018-11-01</ApplicationDate>
+<RegistrationNumber>372065</RegistrationNumber>
+<RegistrationDate>2019-03-20</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>braiins</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>CZ</EarlierMarkCountryCode>
+<ApplicationNumber>551545</ApplicationNumber>
+<ApplicationDate>2018-11-01</ApplicationDate>
+<RegistrationNumber>372065</RegistrationNumber>
+<RegistrationDate>2019-03-20</RegistrationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>braiins</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>CZ</EarlierMarkCountryCode>
+<ApplicationNumber>557851</ApplicationNumber>
+<ApplicationDate>2019-08-16</ApplicationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BRAIINS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>CZ</EarlierMarkCountryCode>
+<ApplicationNumber>557851</ApplicationNumber>
+<ApplicationDate>2019-08-16</ApplicationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BRAIINS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>CZ</EarlierMarkCountryCode>
+<ApplicationNumber>557851</ApplicationNumber>
+<ApplicationDate>2019-08-16</ApplicationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BRAIINS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>CZ</EarlierMarkCountryCode>
+<ApplicationNumber>557852</ApplicationNumber>
+<ApplicationDate>2019-08-16</ApplicationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BRAIINS OS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>CZ</EarlierMarkCountryCode>
+<ApplicationNumber>557852</ApplicationNumber>
+<ApplicationDate>2019-08-16</ApplicationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BRAIINS OS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>CZ</EarlierMarkCountryCode>
+<ApplicationNumber>557852</ApplicationNumber>
+<ApplicationDate>2019-08-16</ApplicationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BRAIINS OS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>WO</EarlierMarkCountryCode>
+<DesignatedCountryDetails>
+           <DesignatedCountryCode>EM</DesignatedCountryCode>
+          </DesignatedCountryDetails>
+<ApplicationDate>2020-02-14</ApplicationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BRAIINS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>WO</EarlierMarkCountryCode>
+<DesignatedCountryDetails>
+           <DesignatedCountryCode>EM</DesignatedCountryCode>
+          </DesignatedCountryDetails>
+<ApplicationDate>2020-02-14</ApplicationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BRAIINS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>WO</EarlierMarkCountryCode>
+<DesignatedCountryDetails>
+           <DesignatedCountryCode>EM</DesignatedCountryCode>
+          </DesignatedCountryDetails>
+<ApplicationDate>2020-02-14</ApplicationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BRAIINS OS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+<EarlierMark>
+<EarlierMarkCountryCode>WO</EarlierMarkCountryCode>
+<DesignatedCountryDetails>
+           <DesignatedCountryCode>EM</DesignatedCountryCode>
+          </DesignatedCountryDetails>
+<ApplicationDate>2020-02-14</ApplicationDate>
+<MarkFeature>Figurative</MarkFeature>
+<WordMarkSpecification>
+           <MarkVerbalElementText>BRAIINS OS</MarkVerbalElementText>
+          </WordMarkSpecification>
+</EarlierMark>
+</EarlierMarkDetails>
+<OpponentDetails>
+<OpponentKey>
+<Identifier>1107536</Identifier>
+</OpponentKey>
+</OpponentDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>97423</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</Opposition>
+</OppositionDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

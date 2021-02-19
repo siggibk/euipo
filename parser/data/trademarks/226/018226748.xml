@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-05T16:31:34</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018226748</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018226748</ApplicationNumber>
+<ApplicationDate>2020-04-16</ApplicationDate>
+<RegistrationDate>2020-07-31</RegistrationDate>
+<ApplicationLanguageCode>pt</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-04-16</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-05</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>EXPOLUSO</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162315264</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/226/018226748/000162315264.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>27.05.01</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Мебели; Лавици за излагане; Многофункционални щандове за изложение; Витрини за изложения; Плотове за маси; Търговски щандове [мебели]; Щандове (поставки) с цел показване на стоки; Манекени и шивашки манекени; Манекени за витрина.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nábytek; Police pro účely vystavování zboží; Víceúčelové vystavovací stojany; Nábytek pro výstavní účely; Pulty [stoly]; Prodejní pulty (nábytek); Pulty pro vystavování zboží; Figuríny; Figuríny do výkladních skříní.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Møbler; Udstillingshylder; Udstillingsstativer til flere formål; Udstillingsmøbler; Diske [møbler]; Salgsdiske [møbler]; Udstillingsmontre; Mannequindukker og giner; Mannequindukker til udstillingsvinduer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Möbel; Gestelle für Auslagezwecke; Mehrzweckschaugestelle; Schaugestelle; Ladentische; Verkaufsständer [Möbel]; Tresen für Präsentationszwecke; Schaufenster- und Schneiderpuppen; Schaufensterfiguren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Έπιπλα· Συστήματα οπτικής παρουσίασης· Προθήκες παρουσίασης γενικής χρήσης· Βιτρίνες [έπιπλα]· Επιφάνειες τραπεζιών· Θυρίδες (γκισέ) έπιπλα· Πάγκοι ως προθήκες· Ανδρε και κούκλες για ράφτες· Κούκλες βιτρίνας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Furniture; Showshelves; Multi-purpose display stands; Display cases; Counters [tables]; Sales counters [furniture]; Counters for display purposes; Mannequins and tailors' dummies; Shop window mannequins.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Muebles; Estantes de exposición; Expositores multiuso; Vitrinas de exposición; Mostradores [mesas]; Mostradores de venta [mobiliario]; Mostradores para exposición; Maniquíes; Maniquíes para escaparates.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mööbel; Riiulid väljapanekute jaoks; Universaalsed väljapanekustendid; Väljapanekulauad, -riiulid; Letid, müügilauad; Müügilauad, -letid [mööbel]; Väljapanekuletid; Mannekeenid ja rätsepamannekeenid; Vaateakende mannekeenid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Huonekalut; Esittelytelineet; Monikäyttöiset esittelytelineet; Lasikaapit; Pöytälevyt; Myyntitiskit [huonekalut]; Tiskit esillepanotarkoituksiin; Mallinuket ja sovitusnuket; Näyteikkunoiden mallinuket.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Meubles; Étagères d'exposition; Présentoirs multiusages; Vitrines d'exposition; Comptoirs [tables]; Comptoirs de vente [meubles]; Comptoirs à des fins de présentation; Mannequins; Mannequins pour vitrines de magasins.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Namještaj; Police za potrebe izlaganja; Višenamjenski izložbeni stalci; Vitrine za potrebe izlaganja; Stolne ploče; Pultovi [namještaj]; Pultovi za potrebe prikazivanja; Lutke za izlog i krojačke lutke; Lutke za izlog.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Bútorok; Árubemutató polcok; Többcélú bemutatóállványok; Kiállítási árusítóhely, bódé, stand; Asztallapok; Ügyfélpultok [bútorok]; Árubemutató pultok; Próbababák; Kirakati próbababák.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Mobilia; Scaffali da esposizione; Espositori multiuso; Vetrine per esposizione; Banconi [tavoli]; Sportelli di vendita [mobili]; Banconi da esposizione; Manichini e manichini per sarti; Manichini per vetrine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Baldai; Vitrinų lentynos; Daugiafunkciai ekspoziciniai stendai; Demonstracinė įranga [baldai]; Prekystaliai; Prekystaliai [baldai]; Vitrinos (prekystaliai); Siuvėjų manekenai; Parduotuvių vitrinų manekenai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mēbeles; Sastatņu plaukti izstādēm; Daudzfunkcionālie ekspozīcijas stendi; Skatlogi; Letes; Tirdzniecības letes [mēbeles]; Vitrīnas izstādīšanas nolūkiem; Skatlogu un drēbnieku manekeni; Skatlogu manekeni.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Għamara; Xkaffar għall-wiri; Stends għall-wiri ta' diversi oġġetti; Unitajiet tal-wiri (għamara); Uċuħ l-imwejjed; Bankijiet tal-bejgħ [għamara]; Bankijiet għal skopijiet ta' displej; Mannekkini u pupi għall-ħajjata; Manikini għall-vetrini tal-ħanut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Meubelen; Uitstalplanken; Verkoopstandaards [displays] voor meerdere doeleinden te gebruiken; Displays [verkoopstandaards]; Toonbanken; Toonbanken [meubelen]; Toonbanken voor uitstallingsdoeleinden; Etalagepoppen en paspoppen [kleermakerij]; Etalagefiguren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Meble; Półki wystawowe; Wielofunkcyjne stoiska wystawowe; Segmenty wystawiennicze [meble]; Blaty stołowe; Lady sprzedażowe [meble]; Lady do celów prezentacji; Manekiny, manekiny krawieckie; Manekiny do witryn sklepowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Móveis; Expositores; Expositores multiusos; Estojos expositores; Balcões; Balcões (mobiliário); Balcões para exposição; Manequins; Manequins para montras..</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Piese de mobilier; Rafturi de prezentare; Standuri de expunere de uz universal; Vitrine de prezentare; Tăblii masă; Tejghele [mobilier]; Tejghele pentru expunere; Manechine și manechini de croitorie; Manechine pentru vitrine de magazin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nábytok; Police na vystavovacie účely; Viacúčelové výstavné stojany; Nábytok na vystavovacie účely; Pulty; Pulty a priehradky [nábytok]; Pulty na vystavovanie; Figuríny; Figuríny pre výklady obchodov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pohištvo; Razstavne police; Večnamenska razstavna stojala; Razstavne vitrine; Mizne plošče; Prodajna razstavna stojala [pohištvo]; Pulti za razstavne namene; Manekenske in krojaške lutke; Izložbene figure.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Möbler; Utställningshyllor; Skyltställ för flera ändamål; Utställningsmontrar; Diskar [bord]; Försäljningsdiskar [möbler]; Bänkar för skyltningsändamål; Skylt- och provdockor; Skyltdockor för skyltfönster.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/076</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-22</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/146</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>974327</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>30683</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

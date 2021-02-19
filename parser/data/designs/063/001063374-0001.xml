@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:47</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001063374-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-24</ReceivingOfficeDate>
+<DesignIdentifier>001063374-0001</DesignIdentifier>
+<ApplicationNumber>001063374</ApplicationNumber>
+<ApplicationLanguageCode>es</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-24</ApplicationDate>
+<RegistrationDate>2008-12-24</RegistrationDate>
+<PublicationDate>2011-06-22</PublicationDate>
+<ApplicationReference>7085/C</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>true</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-24</ExpiryDate>
+<EffectiveDate>2008-12-24</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061857592</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063374_0001/001063374_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061857594</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063374_0001/001063374_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061857596</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/063/001063374_0001/001063374_0001_3.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Апарати и оборудване за лекари, болници и лаборатории</IndicationProduct>
+       <IndicationProduct languageCode="bg">Тоалетни принадлежности и оборудване на салони за красота</IndicationProduct>
+       <IndicationProduct languageCode="cs">Toaletní potřeby a zařízení kosmetických salónů</IndicationProduct>
+       <IndicationProduct languageCode="cs">Přístroje a zařízení pro lékaře, nemocnice a laboratoře</IndicationProduct>
+       <IndicationProduct languageCode="da">Toiletartikler og udstyr til skønhedspleje</IndicationProduct>
+       <IndicationProduct languageCode="da">Fast apparatur og udstyr til brug for læger, hospitaler og laboratorier</IndicationProduct>
+       <IndicationProduct languageCode="de">Apparate und Einrichtungen für Ärzte, Krankenhäuser und Labors</IndicationProduct>
+       <IndicationProduct languageCode="de">Toilettenartikel und Geräte für die Schönheitspflege</IndicationProduct>
+       <IndicationProduct languageCode="el">Είδη και εξοπλισμοί καλλωπισμού</IndicationProduct>
+       <IndicationProduct languageCode="el">Ιατρικοί, νοσοκομειακοί, εργαστηριακοί εξοπλισμοί και συσκευές</IndicationProduct>
+       <IndicationProduct languageCode="en">Apparatus and equipment for doctors, hospitals and laboratories</IndicationProduct>
+       <IndicationProduct languageCode="en">Toilet articles and beauty parlor equipment</IndicationProduct>
+       <IndicationProduct languageCode="es">Artículos de tocador y equipo para tratamientos de belleza</IndicationProduct>
+       <IndicationProduct languageCode="es">Aparatos e instalaciones para médicos, hospitales o laboratorios</IndicationProduct>
+       <IndicationProduct languageCode="et">Arstide, haiglate ja laborite aparaadid ja seadmed</IndicationProduct>
+       <IndicationProduct languageCode="et">Tualett-tarbed ja ilusalongi tarbed</IndicationProduct>
+       <IndicationProduct languageCode="fi">Toalettitarvikkeet ja kauneudenhoitovälineet</IndicationProduct>
+       <IndicationProduct languageCode="fi">Lääkäreiden, sairaaloiden ja laboratorioiden käyttämät kojeet ja laitteet</IndicationProduct>
+       <IndicationProduct languageCode="fr">Appareils et installations pour médecine, hôpitaux ou laboratoires</IndicationProduct>
+       <IndicationProduct languageCode="fr">Articles de toilette et équipments pour soins de beauté</IndicationProduct>
+       <IndicationProduct languageCode="hu">Orvosi, kórházi és laboratóriumi eszközök, készülékek és berendezések</IndicationProduct>
+       <IndicationProduct languageCode="hu">Piperecikkek és kozmetikai eszközök/berendezések</IndicationProduct>
+       <IndicationProduct languageCode="it">Apparecchi e installazioni per medici, ospedali o laboratori</IndicationProduct>
+       <IndicationProduct languageCode="it">Articoli da toletta ed attrezzature per cure di bellezza</IndicationProduct>
+       <IndicationProduct languageCode="lt">Tualeto reikmenys ir grožio salonų įranga</IndicationProduct>
+       <IndicationProduct languageCode="lt">Aparatai ir įranga gydytojams, ligoninėms, laboratorijoms Gydytojų, ligoninių, laboratorijų aparatai ir įranga</IndicationProduct>
+       <IndicationProduct languageCode="lv">Ārstu, slimnīcu un laboratoriju aparāti un iekārtas</IndicationProduct>
+       <IndicationProduct languageCode="lv">Tualetes izstrādājumi un kosmētikas kabinetu iekārtas</IndicationProduct>
+       <IndicationProduct languageCode="mt">Oġġetti tal-kamra tal-banju u tagħmir tal-beauty parlor</IndicationProduct>
+       <IndicationProduct languageCode="mt">Apparat u tagħmir għat-tobba, sptarijiet u laboratorji</IndicationProduct>
+       <IndicationProduct languageCode="nl">Artikelen en apparatuur voor de lichaams- en schoonheidsverzorging</IndicationProduct>
+       <IndicationProduct languageCode="nl">Apparatuur en uitrusting voor artsen, ziekenhuizen en laboratoria</IndicationProduct>
+       <IndicationProduct languageCode="pl">Artykuły toaletowe i dla salonów piękności</IndicationProduct>
+       <IndicationProduct languageCode="pl">Przyrządy i sprzęt dla lekarzy, szpitali i laboratoriów</IndicationProduct>
+       <IndicationProduct languageCode="pt">Aparelhos e instalações para médicos, hospitais ou laboratórios</IndicationProduct>
+       <IndicationProduct languageCode="pt">Artigos de “toilette” e equipamentos para cuidados de beleza</IndicationProduct>
+       <IndicationProduct languageCode="ro">Articole de toaletă şi echipamente pentru saloane de frumuseţe</IndicationProduct>
+       <IndicationProduct languageCode="ro">Aparate şi echipamente pentru cabinete medicale, spitale şi laboratoare</IndicationProduct>
+       <IndicationProduct languageCode="sk">Toaletné predmety a prostriedky na pestovanie krásy</IndicationProduct>
+       <IndicationProduct languageCode="sk">Prístroje a zariadenia pre lekárstvo, nemocnice a laboratóriá</IndicationProduct>
+       <IndicationProduct languageCode="sl">Toaletni artikli in kozmetična oprema</IndicationProduct>
+       <IndicationProduct languageCode="sl">Aparati in oprema za zdravnike, bolnišnice in laboratorije</IndicationProduct>
+       <IndicationProduct languageCode="sv">Toalettartiklar och artiklar för skönhetsvård</IndicationProduct>
+       <IndicationProduct languageCode="sv">Apparatur och utrustning för läkare, sjukhus och laboratorier</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>24.01</ClassNumber>
+       </ClassDescription>
+       <ClassDescription>
+        <ClassNumber>28.03</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/020</PublicationIdentifier>
+        <PublicationSection>A.2</PublicationSection>
+        <PublicationDate>2009-01-30</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2011/139</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2011-06-22</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325764</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<Applicant>
+        <ApplicantIdentifier>355713</ApplicantIdentifier>
+       </Applicant>
+</ApplicantDetails>
+<RepresentativeDetails>
+<Representative>
+        <RepresentativeIdentifier>14868</RepresentativeIdentifier>
+       </Representative>
+</RepresentativeDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

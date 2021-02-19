@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/design/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/design/data http://euipo.europa.eu/schemas/design/EM-DS-Design-V2-1.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2017-07-28T04:40:51</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<DesignTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>001136808-0001</TransactionIdentifier>
+<TransactionCode>EM-Design</TransactionCode>
+<TransactionData>
+<DesignDetails>
+<Design operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ReceivingOfficeDate>2008-12-28</ReceivingOfficeDate>
+<DesignIdentifier>001136808-0001</DesignIdentifier>
+<ApplicationNumber>001136808</ApplicationNumber>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ApplicationDate>2008-12-28</ApplicationDate>
+<RegistrationDate>2008-12-28</RegistrationDate>
+<PublicationDate>2009-05-27</PublicationDate>
+<ApplicationReference>G.K.</ApplicationReference>
+<DesignDescription>false</DesignDescription>
+<PublicationDefermentIndicator>false</PublicationDefermentIndicator>
+<RenewalCurrentStatusCode>Not to be renewed</RenewalCurrentStatusCode>
+<ExpiryDate>2013-12-28</ExpiryDate>
+<EffectiveDate>2008-12-28</EffectiveDate>
+<DesignCurrentStatusCode>Design lapsed</DesignCurrentStatusCode>
+<DesignCurrentStatusDate>2014-10-03</DesignCurrentStatusDate>
+<DesignRepresentationSheetDetails>
+<DesignRepresentationSheet>
+<ViewDetails>
+<View>
+<ViewIdentifier>000061759818</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/136/001136808_0001/001136808_0001_1.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061759819</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/136/001136808_0001/001136808_0001_2.JPG</ViewURI>
+</View>
+<View>
+<ViewIdentifier>000061759822</ViewIdentifier>
+<ViewFileFormat>JPG</ViewFileFormat>
+<ViewURI>	
+				file://001/136/001136808_0001/001136808_0001_3.JPG</ViewURI>
+</View>
+</ViewDetails>
+</DesignRepresentationSheet>
+</DesignRepresentationSheetDetails>
+<IndicationProductDetails>
+       <IndicationProduct languageCode="bg">Медицинско оборудване</IndicationProduct>
+       <IndicationProduct languageCode="bg">Водопречистватели</IndicationProduct>
+       <IndicationProduct languageCode="bg">Апарати за електролиза</IndicationProduct>
+       <IndicationProduct languageCode="cs">Lékařské přístroje</IndicationProduct>
+       <IndicationProduct languageCode="cs">Cistice vody</IndicationProduct>
+       <IndicationProduct languageCode="cs">Přístroje pro elektrolýzu</IndicationProduct>
+       <IndicationProduct languageCode="da">Elektrolyseapparater</IndicationProduct>
+       <IndicationProduct languageCode="da">Medicinske apparater</IndicationProduct>
+       <IndicationProduct languageCode="da">Anordninger til vandrensning</IndicationProduct>
+       <IndicationProduct languageCode="de">Wasseraufbereiter</IndicationProduct>
+       <IndicationProduct languageCode="de">Elektrolysegeräte</IndicationProduct>
+       <IndicationProduct languageCode="de">Medizinische Geräte</IndicationProduct>
+       <IndicationProduct languageCode="el">Συσκευές καθαρισμού ύδατος</IndicationProduct>
+       <IndicationProduct languageCode="el">Ιατρικές συσκευές</IndicationProduct>
+       <IndicationProduct languageCode="el">Συσκευές ηλεκτρόλυσης</IndicationProduct>
+       <IndicationProduct languageCode="en">Water purifiers</IndicationProduct>
+       <IndicationProduct languageCode="en">Electrolysis apparatus</IndicationProduct>
+       <IndicationProduct languageCode="en">Medical equipment</IndicationProduct>
+       <IndicationProduct languageCode="es">Aparatos de electrolisis</IndicationProduct>
+       <IndicationProduct languageCode="es">Aparatos médicos</IndicationProduct>
+       <IndicationProduct languageCode="es">Depuradoras de agua</IndicationProduct>
+       <IndicationProduct languageCode="et">Veepuhastusseadmed</IndicationProduct>
+       <IndicationProduct languageCode="et">Elektrolüüsiseadmed</IndicationProduct>
+       <IndicationProduct languageCode="et">Meditsiiniseadmed</IndicationProduct>
+       <IndicationProduct languageCode="fi">Vedenpuhdistuslaitteet</IndicationProduct>
+       <IndicationProduct languageCode="fi">Lääketieteelliset laitteet</IndicationProduct>
+       <IndicationProduct languageCode="fi">Elektrolyysilaitteet</IndicationProduct>
+       <IndicationProduct languageCode="fr">Appareils médicaux</IndicationProduct>
+       <IndicationProduct languageCode="fr">Purificateurs d'eau</IndicationProduct>
+       <IndicationProduct languageCode="fr">Appareils d'électrolyse</IndicationProduct>
+       <IndicationProduct languageCode="hu">Víztisztítók</IndicationProduct>
+       <IndicationProduct languageCode="hu">Elektrolízis-berendezések</IndicationProduct>
+       <IndicationProduct languageCode="hu">Orvosi berendezések</IndicationProduct>
+       <IndicationProduct languageCode="it">Depuratori dell'acqua</IndicationProduct>
+       <IndicationProduct languageCode="it">Apparecchiatura per elettrolisi</IndicationProduct>
+       <IndicationProduct languageCode="it">Apparecchi medici</IndicationProduct>
+       <IndicationProduct languageCode="lt">Medicininė aparatūra</IndicationProduct>
+       <IndicationProduct languageCode="lt">Vandens grynintuvai</IndicationProduct>
+       <IndicationProduct languageCode="lt">Elektrolizės prietaisai</IndicationProduct>
+       <IndicationProduct languageCode="lv">Medicīniskās ierīces</IndicationProduct>
+       <IndicationProduct languageCode="lv">Elektrolīzes iekārtas</IndicationProduct>
+       <IndicationProduct languageCode="lv">Ūdens attīrītāji</IndicationProduct>
+       <IndicationProduct languageCode="mt">Apparat mediku</IndicationProduct>
+       <IndicationProduct languageCode="mt">Apparat tal-elettroliżi</IndicationProduct>
+       <IndicationProduct languageCode="mt">Purifikaturi ta' l-ilma</IndicationProduct>
+       <IndicationProduct languageCode="nl">Medische apparatuur</IndicationProduct>
+       <IndicationProduct languageCode="nl">Waterzuiveringstoestellen</IndicationProduct>
+       <IndicationProduct languageCode="nl">Elektrolyseapparaten</IndicationProduct>
+       <IndicationProduct languageCode="pl">Urządzenia do elektrolizy</IndicationProduct>
+       <IndicationProduct languageCode="pl">Aparatura medyczna</IndicationProduct>
+       <IndicationProduct languageCode="pl">Filtry wody</IndicationProduct>
+       <IndicationProduct languageCode="pt">Aparelhos médicos</IndicationProduct>
+       <IndicationProduct languageCode="pt">Purificadores de água</IndicationProduct>
+       <IndicationProduct languageCode="pt">Aparelhos de electrólise</IndicationProduct>
+       <IndicationProduct languageCode="ro">Echipamente medicale</IndicationProduct>
+       <IndicationProduct languageCode="ro">Purificatoare de apă</IndicationProduct>
+       <IndicationProduct languageCode="ro">Aparate de electroliză</IndicationProduct>
+       <IndicationProduct languageCode="sk">Čistiace zariadenia na vodu</IndicationProduct>
+       <IndicationProduct languageCode="sk">Prístroje na elektrolýzu</IndicationProduct>
+       <IndicationProduct languageCode="sk">Lekárske prístroje</IndicationProduct>
+       <IndicationProduct languageCode="sl">Čistilne naprave za vodo</IndicationProduct>
+       <IndicationProduct languageCode="sl">naprave za elektrolizo</IndicationProduct>
+       <IndicationProduct languageCode="sl">Medicinski aparati</IndicationProduct>
+       <IndicationProduct languageCode="sv">Elektrolysapparater</IndicationProduct>
+       <IndicationProduct languageCode="sv">Medicinska apparater</IndicationProduct>
+       <IndicationProduct languageCode="sv">Vattenrenare</IndicationProduct>
+      </IndicationProductDetails>
+<ClassDescriptionDetails>
+       <ClassDescription>
+        <ClassNumber>13.03</ClassNumber>
+       </ClassDescription>
+       <ClassDescription>
+        <ClassNumber>23.01</ClassNumber>
+       </ClassDescription>
+       <ClassDescription>
+        <ClassNumber>24.01</ClassNumber>
+       </ClassDescription>
+      </ClassDescriptionDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2009/099</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2009-05-27</PublicationDate>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2014/193</PublicationIdentifier>
+        <PublicationSequenceNumber>1325890</PublicationSequenceNumber>
+        <PublicationSection>C.2</PublicationSection>
+        <PublicationDate>2014-10-15</PublicationDate>
+       </Publication>
+      </PublicationDetails>
+</Design>
+</DesignDetails>
+</TransactionData>
+</TransactionContentDetails>
+</DesignTransactionBody>
+</Transaction>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-17T09:59:32</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229849</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229849</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-13</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Nevsetpo</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>21</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Козметични четки; Тоалетни чанти; Козметични принадлежности; Приспособления за отстраняване на грим; Гребени (Електрически -); Гъбички за нанасяне на грим; Четки за мигли; Капкомери, продавани празни за козметични цели; Пулверизатори за парфюм; Четки за зъби, електрически.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Štětce na nanášení líčidel; Toaletní taštičky; Kosmetické pomůcky; Zařízení na odličování; Elektrické hřebeny; Houbičky na nanášení líčidel; Kartáčky na řasy; Kapátka ke kosmetickým účelům prodávaná prázdná; Rozprašovače na parfémy; Elektrické zubní kartáčky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kosmetikbørster; Toilettasker med redskaber til toiletbrug; Redskaber til kosmetisk brug; Make-up fjerneapparater; Elektriske kamme; Makeupsvampe; Øjenvippebørster; Dråbepipetter til kosmetiske formål; Parfumeforstøvere; Tandbørster, elektriske.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kosmetikpinsel; Toilettenecessaires; Kosmetische Geräte; Abschminkgeräte; Elektrische Kämme; Schminkschwämme; Wimpernbürsten; Leere Tropfer für kosmetische Zwecke; Parfümzerstäuber; Elektrische Zahnbürsten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καλλυντικές βούρτσες· Σετ τουαλέτας σε τσαντάκι· Καλλυντικά (Σκεύη -)· Συσκευές αφαίρεσης μακιγιάζ· Κτένες ηλεκτρικές· Σφουγγαράκια για μακιγιάζ· Βουρτσάκια για τις βλεφαρίδες· Σταγονόμετρα πωλούμενα άδεια για καλλυντική χρήση· Αρώματος (Ψεκαστήρες -)· Οδοντόβουρτσες [ηλεκτρικές].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">make-up brushes; fitted vanity cases; cosmetic utensils; make-up removing appliances; electric combs; make-up sponges; eyelash brushes; droppers for cosmetic purposes; perfume vaporizers; toothbrushes, electric.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Brochas y pinceles de maquillaje; Neceseres de tocador; Utensilios cosméticos; Aparatos para desmaquillar; Peines eléctricos; Esponjas para aplicar maquillaje; Cepillos para pestañas; Cuentagotas vacíos para fines cosméticos; Vaporizadores de perfume; Cepillos de dientes eléctricos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kosmeetikaharjad; Tualett-tarvete kotid; Kosmeetikatarbed; Meigieemaldustarvikud; Elektrikammid; Jumestuskäsnad; Ripsmepintslid; Tühjalt müüdavad kosmeetikapipetid; Parfüümipihustid, parfüümipulverisaatorid; Elektrihambaharjad.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Harjat kosmeettisiin tarkoituksiin; Toalettilaukut; Kosmetiikkavälineet; Ehostuksen poistovälineet; Kammat (Sähkö -); Meikkisienet; Silmäripsiharjat; Tyhjinä myytävät pipetit kosmeettiseen käyttöön; Parfyymisuihkepullot; Sähköhammasharjat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Pinceaux de maquillage; Nécessaires de toilette; Ustensiles cosmétiques; Appareils pour le démaquillage; Peignes électriques; Éponges pour le maquillage; Brosses à cils; Compte-gouttes à usage cosmétique; Vaporisateurs à parfum; Brosses à dents électriques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kozmetičke četke; Toaletni neseseri; Kozmetički pribor; Pribor za skidanje šminke; Električni češalj; Spužvice za nanošenje šminke; Četkice za trepavice; Kapaljke za kozmetičke svrhe koje se prodaju prazne; Raspršivači mirisa [parfema]; Četkice za zube, električne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kozmetikai ecsetek, pipere ecsetek; Piperetáskák, neszesszerek; Kozmetikai eszközök; Sminkeltávolító termékek; Fésűk (elektromos); Sminkszivacsok; Szempilla kefék; Üresen árusított csepegtetők kozmetikai célokra; Parfümpermetezők, illatszerpermetezők; Fogkefék (Elektromos -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pennelli per il trucco; Nécessaire per la toilette; Utensili cosmetici; Apparecchi elettrici per togliere il trucco; Pettini elettrici; Spugnette da make-up; Spazzole per le ciglia; Contagocce venduti vuoti per uso cosmetico; Vaporizzatori di profumi; Spazzolini da denti elettrici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Makiažo teptukai; Tualeto reikmeninės; Kosmetikos reikmenys; Grimo valymo reikmenys; Elektrinės šukos; Makiažo kempinėlės; Blakstienų šepetėliai; Lašintuvai (kosmetikos reikmėms); Kvepalų garintuvai; Elektriniai dantų šepetukai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Dekoratīvās kosmētikas otiņas; Tualetes maciņi; Kosmētikas piederumi; Piederumi dekoratīvās kosmētikas noņemšanai; Elektriskās ķemmes; Sūkļi dekoratīvās kosmētikas uzklāšanai; Skropstu birstītes; Tukšas pipetes kosmētiskiem nolūkiem; Smaržu pulverizatori; Elektriskās zobu sukas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Pniezel kożmetiċi; Kaxxi fejn jitpoġġew l-oġġetti tat-twaletta; Utensili kożmetiċi; Preparazzjonijiet għat-tneħħija tal-irtokk; Moxt (bl-elettriku); Sponoż tal-mejkapp; Pniezel tax-xagħar ta' xfar l-għajnejn; Qattara mibjugħin vojta għal skopijiet kożmetiċi; Sprejers tal-fwieħa; Xkupilji tas-snien, tal-elettriku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Make-up penselen; Toilettasjes [gevuld]; Cosmetisch gerei; Elektrische apparaten voor het verwijderen van make-up; Elektrische kammen; Sponsjes voor make-up; Borstels voor de oogwimpers; Druppeltellers, leeg verkocht, voor cosmetische doeleinden; Parfumverstuivers; Elektrische tandenborstels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Pędzle kosmetyczne; Kosmetyczki z przyborami toaletowymi; Przybory kosmetyczne; Przyrządy do demakijażu; Grzebienie elektryczne; Gąbki do makijażu; Szczoteczki do rzęs; Zakraplacze bez zawartości, do celów kosmetycznych; Rozpylacze do perfum; Szczoteczki do zębów elektryczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Pincéis para maquilhagem; Bolsas de toucador; Utensílios cosméticos; Aparelhos para remover maquilhagem; Pentes elétricos; Esponjas para maquilhagem; Escovas para pestanas; Conta-gotas vendidos vazios para uso cosmético; Vaporizadores de perfume; Escovas de dentes elétricas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Pensule de uz cosmetic; Truse de toaletă; Cosmetice (Ustensile -); Dispozitive de demachiere; Piepteni electrici; Bureței pentru machiaj; Periuțe pentru gene; Picurătoare comercializate fără conținut pentru uz cosmetic; Pulverizatoare de parfum; Perii de dinți electrice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Kozmetické štetce; Tašky alebo kufríky na toaletné potreby; Kozmetické pomôcky; Odličovacie pomôcky; Elektrické hrebene; Špongie na nanášanie líčidiel; Kefky na očné riasy; Kozmetické kvapkadlá, predávané prázdne; Rozprašovače na voňavky; Elektrické zubné kefky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Čopiči za kozmetične namene; Toaletne torbice; Kozmetični pripomočki; Aparati za odstranjevanje ličil; Glavniki, električni; Gobice za nanašanje ličil; Ščetke za trepalnice; Kapalke za kozmetične namene, v prodaji prazne; Uparjalniki za parfume; Zobne ščetke, električne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Sminkborstar; Resenecessärer (inredda); Kosmetikutensilier; Redskap för sminkborttagning; Elektriska kammar; Svampar för make-up; Borstar för ögonfransar; Pipetter sålda tomma för kosmetiska ändamål; Raffräschissörer för parfym; Elektriska tandborstar.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/084</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/154</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-14</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1082704</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>89731</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

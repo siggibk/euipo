@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-11T11:10:21</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229829</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229829</ApplicationNumber>
+<ApplicationDate>2020-04-27</ApplicationDate>
+<RegistrationDate>2020-08-07</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-04-27</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-11</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>xencelabs</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000162501042</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/229/018229829/000162501042.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>17.02.02</CategoryCode>
+          <CategoryCode>26.15.25</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>9</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Стойки за компютърно оборудване; Графични таблети; Компютърни програми, записани; Електронни интерактивни бели дъски; Периферни устройства, пригодени за използване с компютри; LCD [екран от течни кристали]; Персонални цифрови помощници; Компютърни програми, записани; Електронни писалки [визуални индикаторни устройства]; Лаптопи.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Stojany na počítačová zařízení; Grafické tablety; Nahrané počítačové programy; Elektronické interaktivní tabule; Periferní zařízení počítačů; LCD (displeje z tekutých krystalů); Kapesní počítače PDA; Počítačový software (nahraný); Elektronická pera [vizualizační nástroje]; Počítače.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Stativer til computerudstyr; Grafiktablet; Computerprogrammer, optagne; Interaktive elektroniske whiteboards; Perifere enheder til computere; LCD [skærme med flydende krystaller]; Personlige digitale assistenter [PDA'er]; Software til computere, optaget; Penne, elektroniske [enheder til dataskærme]; Computere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Gestelle für Computergeräte; Grafiktabletts; Gespeicherte Computerprogramme; Elektronische interaktive Whiteboards; An Computer angepasste Peripheriegeräte; LCD [Flüssigkristallanzeigen]; PDA-Computer [Personal Digital Assistants]; Gespeicherte Computersoftware; Elektronische Stifte für Bildschirmgeräte; Laptops [Computer].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Βάσεις για εξοπλισμό ηλεκτρονικών υπολογιστών· Πινακίδες γραφικών· Η/Υ (Προγράμματα -) εγγεγραμμένα· Ηλεκτρονικοί αλληλεπιδραστικοί λευκοί πίνακες· Περιφερειακός εξοπλισμός προσαρμοσμένος για χρήση σε ηλεκτρονικούς υπολογιστές· LCD (οθόνη υγρών κρυστάλλων)· Προσωπικά ψηφιακά βοηθήματα (PDA)· Η/Υ (Προγράμματα -) εγγεγραμμένα· Ηλεκτρονικές γραφίδες [για μονάδες οπτικής παρουσίασης]· Ηλεκτρονικοί υπολογιστές.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Stands for computer equipment; Graphics tablets; computer programs, recorded; electronic interactive whiteboards; computer peripheral devices; LCD [liquid crystal display]; personal digital assistants [PDAs]; computer software, recorded; Electronic pens; Computers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Soportes para equipos informáticos; Tabletas gráficas; Programas informáticos grabados; Pizarras interactivas electrónicas; Dispositivos periféricos utilizados con ordenadores; LCD [pantallas de cristal líquido]; Organizadores personales digitales [PDA]; Software [programas grabados]; Lápices electrónicos para unidades de visualización; Ordenadores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Arvutiseadmete alused; Graafikalauad; Salvestatud arvutiprogrammid; Elektroonilised interaktiivsed tahvlid; Arvutite välisseadmed; LCD-d (vedelkristallkuvarid); Elektronmärkmikud [PDA-d]; Salvestatud arvutitarkvara; Elektronpliiatsid [kuvarimanused]; Arvutid, raalid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tietokonelaitteiden telineet; Grafiikkatabletit; Tietokoneohjelmat, tallennetut; Vuorovaikutteiset elektroniset valkotaulut; Tietokoneiden oheislaitteet; Nestekidenäytöt (LCD-näytöt); Kämmentietokoneet (PDA); Tietokoneohjelmat [tallennetut]; Kynät, elektroniset; Sylimikrot.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Supports pour équipement informatique; Tablettes graphiques; Programmes d'ordinateurs enregistrés; Tableaux blancs électroniques interactifs; Périphériques adaptés pour utilisation avec des ordinateurs; LCD [écrans à cristaux liquides]; Assistants numériques personnels [PDA]; Logiciels [programmes enregistrés]; Crayons électroniques pour unités d'affichage visuel; Ordinateurs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Stalci za računalnu opremu; Grafički tableti; Računalni programi [snimljeni]; Elektroničke interaktivne bijele ploče; Periferni uređaji prilagođeni za uporabu s računalima; LCD [ekran s tekućim kristalima]; Dlanovnici; Računalni programi [snimljeni]; Svjetlosne olovke; Računala.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Állványok számítógépes eszközöknek; Grafikus táblák, digitális rajztáblák; Számítógépes programok, rögzített; Elektronikus interaktív táblák; Számítógéphez kialakított perifériák; LCD [folyadékkristályos kijelző]; Kézi számítógépek [PDA]; Számítógépes programok, rögzített; Fényceruzák vizuális kijelzőkhöz, displayekhez; Számítógépek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Supporti per apparecchiature informatiche; Tavolette grafiche; Programmi informatici, registrati; Lavagne bianche elettroniche interattive; Periferiche concepite per essere utilizzate con i computer; LCD [schermo a cristalli liquidi]; Palmari [PDA]; Software [programmi registrati]; Matite elettroniche per unità di visualizzazione; Elaboratori elettronici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kompiuterių įrangos stovai; Grafinės planšetės; Įrašytos kompiuterių programos; Elektroninės interaktyviosios lentos; Kompiuterių išoriniai įrenginiai; Skystųjų kristalų monitoriai [LCD]; Delniniai kompiuteriai [PDA]; Kompiuterių programinė įranga [įrašyta]; Elektroniniai rašikliai [rodymo įtaisai]; Kompiuteriai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Statīvi datoru aprīkojumam; Ciparošanas planšetes; Ierakstītas datorprogrammas; Elektroniskās interaktīvās tāfeles; Datoru perifērijas ierīces; LCD [šķidro kristālu ekrāni]; Plaukstdatori; Ierakstīta programmatūra; Elektroniskie zīmuļi (displeju piederumi); Datori.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Stends għat-tagħmir tal-kompjuter; Twavel grafiċi; Programmi tal-kompjuter irrekordjati; Wajtbords interattivi elettroniċi; Periferali addattati għall-użu mal-kompjuters; LCD [displej tal-kristalli likwidi]; Assistenti personali diġitali (PDAs); Programmi tal-kompjuter irrekordjati; Pinen elettroniċi; Kompjuters.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Standaards voor computerapparatuur; Grafische tabletten; Geregistreerde computerprogramma's; Elektronische interactieve whiteboards; Computerrandapparatuur; Lcd's (lcd-beeldschermen); Personal digital assistants (PDA's); Software [geregistreerde programma's]; Lichtpennen; Computers.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Stojaki na sprzęt komputerowy; Tablety graficzne; Programy komputerowe nagrane; Interaktywne tablice elektroniczne; Sprzęt peryferyjny do komputerów; LCD [wyświetlacze ciekłokrystaliczne]; Komputery kieszonkowe [PDA]; Programy komputerowe nagrane; Elektroniczne pióra [ekranopisy]; Komputery.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Suportes para equipamento informático; Tabletes gráficos; Programas de computador gravados; Quadros interativos eletrónicos; Periféricos adaptados para uso com computadores; LCD [monitor de cristal líquido]; Assistentes pessoais (PDAs); Software [programas de computador gravados]; Canetas eletrónicas [canetas digitais] para unidades de visualização; Computadores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Suporturi pentru echipamente de calculator; Tablete grafice; Programe de calculator înregistrate; Table electronice interactive whiteboard; Periferice adaptate pentru a fi folosite la calculatoare; LCD [ecrane cu cristale lichide]; Asistente personale digitale [PDA]; Programe de calculator înregistrate; Creioane electronice [pentru unități de afișaj vizual]; Computere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Stojany pre počítačové zariadenia; Grafické tablety; Nahraté počítačové programy; Elektronické interaktívne tabule; Periférne zariadenia počítačov; Displej z tekutých kryštálov [LCD]; Vreckové počítače (PDA); Počítačový softvér (nahraté počítačové programy); Elektronické perá (vizuálne zobrazovacie zariadenia); Počítače.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Stojala za računalniško opremo; Grafične tablice; Računalniški programi, posneti; Elektronske interaktivne table; Zunanje enote, prilagojene za uporabo z računalniki; LCD [zaslon s tekočimi kristali]; Osebni digitalni pomočniki - dlančniki (PDA); Računalniški programi, posneti; Elektronska peresa [za optično čitanje podatkov]; Računalniki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Stativ för datorutrustning; Digitala ritbord; Registrerade datorprogram; Elektroniska interaktiva whiteboardtavlor; Kringutrustning anpassade för användning med datorer; LCD-skärmar; Fickdatorer; Registrerade datormjukvaror; Elektroniska pennor [visuella visningsenheter]; Datorer.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/081</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-30</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/150</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-08-10</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1058737</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>39103</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

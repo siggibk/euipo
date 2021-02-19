@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-07T08:04:39</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018224184</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018224184</ApplicationNumber>
+<ApplicationDate>2020-04-09</ApplicationDate>
+<RegistrationDate>2020-08-05</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<ExpiryDate>2030-04-09</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>PASATRU</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Фармацевтични препарати; Фармацевтични препарати за лечение и превенция на инфекции от вирус Ебола; Антивирусни средства.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Farmaceutické přípravky; Farmaceutické výrobky pro léčbu nebo prevenci infekcí virem Ebola; Antivirové přípravky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Farmaceutiske præparater; Farmaceutiske præparater til behandling eller forebyggelse af Ebola-virusinfektioner; Antivirale midler.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Pharmazeutische Präparate; Pharmazeutische Präparate zur Behandlung oder Verhütung von Infektionen mit dem Ebola-Virus; Antivirale Mittel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φαρμακευτικά (Προϊόντα -)· Φαρμακευτικά παρασκευάσματα για τη θεραπεία ή την πρόληψη λοιμώξεων από τον ιό Ebola· Αντιγριπικοί παράγοντες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Pharmaceutical preparations; Pharmaceutical preparations for treatment or prevention of Ebola virus infections; antivirals.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Preparaciones farmacéuticas; Preparaciones farmacéuticas para el tratamiento o la prevención de infecciones por el virus de Ébola; Agentes antivirales.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Farmatseutilised preparaadid; Ebola viirushaiguste ravimise või ennetamise farmaatsiapreparaadid; Viiruste vastased ained.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Farmaseuttiset valmisteet; Farmaseuttiset valmisteet ebola-virustartuntojen hoitoon tai ehkäisyyn; Viruksia torjuvat aineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Préparations pharmaceutiques; Préparations pharmaceutiques pour le traitement ou la prévention des infections par le virus Ebola; Agents antiviraux.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Farmaceutski pripravci; Farmaceutski pripravci za liječenje ili sprječavanje infekcija virusom ebole; Antivirusna sredstva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Gyógyszerészeti készítmények; Gyógyszerkészítmények ebola-vírusfertőzések kezelésére vagy megelőzésére; Vírusellenes szerek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Preparazioni farmaceutiche; Prodotti farmaceutici per il trattamento o la prevenzione di infezioni da virus Ebola; Agenti antivirali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Farmaciniai preparatai; Farmacijos preparatai Ebolos viruso infekcijų gydymui ar prevencijai; Priešvirusiniai preparatai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Farmaceitiskie preparāti; Farmaceitiski preparāti Ebolas vīrusa infekciju ārstēšanai vai profilaksei; Pretvīrusu līdzekļi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preparazzjonijiet farmaċewtiċi; Preparazzjonijiet farmaċewtiċi għat-trattament jew il-prevenzjoni ta' infezzjonijiet mill-virus tal-Ebola; Aġenti antivirali.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Farmaceutische producten; Farmaceutische producten voor het behandelen of voorkomen van Ebolavirusinfecties; Antivirale preparaten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Preparaty farmaceutyczne; Produkty farmaceutyczne do leczenia zakażeń wirusem Ebola lub zapobieganiu im; Środki przeciwwirusowe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Preparações farmacêuticas; Produtos farmacêuticos para o tratamento ou a prevenção de infeções pelo vírus Ébola; Agentes antivirais.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Preparate farmaceutice; Preparate farmaceutice pentru tratamentul și prevenirea infecțiilor cu virusul Ebola; Antivirale.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Farmaceutické prípravky; Farmaceutické prípravky na liečenie a prevenciu nákazy vírusom eboly; Antivírusové činidlá.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Farmacevtski pripravki; Farmacevtski pripravki za zdravljenje ali preprečevanje okužb z virusom ebole; Protivirusna sredstva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Farmaceutiska preparat; Farmaceutiska preparat för behandling eller förebyggande av ebolavirusinfektioner; Preparat mot virus.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>US</PriorityCountryCode>
+<PriorityNumber>88693626</PriorityNumber>
+<PriorityDate>2019-11-15</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/079</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-04-28</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/148</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1008775</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>53517</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

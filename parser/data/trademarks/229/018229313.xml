@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-18T10:59:42</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018229313</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018229313</ApplicationNumber>
+<ApplicationDate>2020-04-23</ApplicationDate>
+<RegistrationDate>2020-09-18</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>it</SecondLanguageCode>
+<ExpiryDate>2030-04-23</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-21</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>EZ CHILL</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>1</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Охладителни химически препарати за използване в автомобилни климатици; Семеринги и Добавки.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Chladicí chemické přípravky pro použití v klimatizačních zařízeních automobilů; Těsnicí materiály a Přísady.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kølende kemiske præparater til anvendelse i luftkonditionering til biler; Midler til forsegling og Additiver.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Chemische Kältemittelpräparate zur Verwendung in Fahrzeugklimaanlagen; Versiegelungsmittel und Zusatzstoffe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Ψυκτικά χημικά παρασκευάσματα για χρήση σε συστήματα κλιματισμού αυτοκινήτων· Στεγανωτικά μέσα και Πρόσθετα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Refrigerant chemical preparations for use in automotive air conditioners; sealers and additives.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Preparaciones químicas refrigerantes para su uso en aires acondicionados de automóviles; Productos sellantes y Aditivos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Külmutuskemikaalid kasutamiseks mootorsõidukite kliimaseadmetes; Tihendid ja Lisandid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kemialliset jäähdytysvalmisteet käytettäväksi autojen ilmastointilaitteissa; Kitit ja Lisäaineet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Préparations chimiques réfrigérantes destinées aux climatiseurs automobiles; Mastics et Additifs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Rashladni kemijski pripravci za uporabu u klimatizacijskim uređajima automobila; Ispune i Aditivi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Hűtő hatású vegyi készítmények autók klímaberendezéseiben történő felhasználásra; Tömítőanyagok és Adalékok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Preparati chimici refrigeranti per l'uso nei condizionatori d'aria per autoveicoli; Isolanti e Additivi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Cheminiai šaldomieji preparatai, skirti naudoti automobilių oro kondicionieriuose; Sandarikliai ir Priedai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Aukstumaģentu ķīmiskie preparāti izmantošanai automobiļu gaisa kondicionieros; Blīvējuma materiāli un Piedevas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Preparazzjonijiet kimiċi li jkessħu għall-użu fil-kondizzjonaturi tal-arja tal-karozzi; Sustanzi użati biex ma jħallux l-ilma jgħaddi minn ġewwa xi ħaġa u Addittivi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Chemische koelmiddelen voor gebruik in klimaatregelingsinstallaties in auto's; Afdichtingsmiddel en Additieven.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Chłodnicze preparaty chemiczne do użytku w klimatyzatorach samochodowych; Szczeliwa i Dodatki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Preparações químicas refrigerantes para uso em sistemas de climatização de automóveis; Artigos impermeabilizantes e Aditivos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Preparate chimice refrigerante destinate utilizării în aparate de aer condiționat pentru automobile; Rosturi şi Aditivi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Chladiace chemické prípravky na použitie v automobilových klimatizačných prístrojoch; Tesnenia a Prísady.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Hladilni kemični proizvodi za uporabo v avtomobilskih klimatskih napravah; Tesnilna sredstva in Dodatki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kemiska kylpreparat för användning inom luftkonditioneringsanläggningar för bilar; Tätningar och Tillsatser.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>5</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Комплекти за климатични системи; Манометри и охладители за използване в автомобилни климатични системи; Оборудване за зареждане на климатични системи, състоящо се от метални фитинги за маркуч и метален дозатор на охладителен агент.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Soupravy klimatizačních systémů; Manometry a chladiva pro použití v klimatizačních systémech automobilů; Nabíjecí zařízení klimatizačních systémů obsahující kovové prvky pro hadice a kovové dávkovače chladiva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Sæt til luftkonditioneringssystemer; Trykmåler og kølemidler til anvendelse i luftkonditioneringssystemer til biler; Påfyldningsudstyr til luftkonditioneringssystemer inklusive metalbeslag til en slange og kølemiddeldispenser af metal.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Bausätze für Klimaanlagen; Manometer und Kältemittel zur Verwendung in Fahrzeugklimaanlagen; Fülleinrichtung für Klimaanlagen mit Metallarmaturen für einen Schlauch und einen Kältemittelspender aus Metall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κιτ συστημάτων κλιματισμού· Μετρητές πίεσης και ψυκτικό μέσο για χρήση σε συστήματα κλιματισμού αυτοκινήτων· Εξοπλισμός τροφοδοσίας συστήματος κλιματισμού αποτελούμενος από μεταλλικά εξαρτήματα για εύκαμπτο σωλήνα και μεταλλικό διανεμητή ψυκτικού μέσου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Air conditioning system kits; pressure gauge and refrigerant for use in automotive air conditioning systems; air conditioning system charging equipment comprising metal fittings for a hose and a metal refrigerant dispenser.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Kits de sistemas de aire acondicionado; Manómetros y fluidos refrigerantes para su uso en sistemas de aire acondicionado de automóviles; Equipos de recarga de sistemas de aire acondicionado compuestos por accesorios metálicos para manguitos y un dispensador metálico de fluidos refrigerantes.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kliimaseadmete täitekomplektid; Manomeetrid ja külmutusagensid kasutamiseks mootorsõidukite kliimaseadmetes; Kliimaseadme laadur, mis koosneb metallist voolikuliitmikest ja metallist külmutusagensi jaoturist.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Ilmastointijärjestelmiin liittyvät tarvikesarjat; Painemittarit ja jäähdytteet käytettäväksi autojen ilmastointijärjestelmissä; Ilmastointijärjestelmien latauslaitteet, jotka koostuvat metallitarvikkeista letkua varten ja metallisesta jäähdyteannostelijasta.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Kits de systèmes de climatisation; Manomètres et réfrigérants destinés aux systèmes de climatisation automobiles; Équipements de chargement pour systèmes de climatisation composés de fixations métalliques pour un tuyau flexible et d'un distributeur de réfrigérant.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kompleti klimatizacijskih sustava; Manometri i rashladni pripravci za uporabu u klimatizacijskim sustavima automobila; Oprema za punjenje klimatizacijskog sustava koja se sastoji od metalnih priključaka za crijevo i metalnih raspršivača rashladnih pripravaka.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Légkondicionáló rendszerek készletei; Nyomásmérő és hűtőközeg gépjárművek légkondicionáló rendszereiben történő felhasználásra; Légkondicionáló rendszer töltőberendezése, amely egy tömlő fém szerelvényeiből és fém hűtőközeg-adagolóból áll.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Kit di sistemi di climatizzazione; Manometro e refrigerante per l'uso nei sistemi di condizionamento dell'aria per automobili; Apparecchiature di ricarica per sistemi di condizionamento dell'aria comprendenti raccordi metallici per un tubo flessibile e un distributore di refrigerante in metallo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Oro kondicionavimo sistemos rinkiniai; Manometras ir šaldomoji medžiaga, skirta naudoti automobilių oro kondicionavimo sistemose; Oro kondicionavimo sistemos įkrovimo įranga, susidedanti iš metalinės žarnos jungiamosios detalės ir metalinio šaldomosios medžiagos dalytuvo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Gaisa kondicionēšanas sistēmu komplekti; Spiediena mērītājs un dzesēšanas līdzeklis izmantošanai automobiļu gaisa kondicionēšanas sistēmās; Gaisa kondicionēšanas sistēmas uzlādes iekārta, kas satur šļūtenes metāla veidgabalus un metāla dzesēšanas šķidruma dozatoru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kitts ta' sistemi tal-ikkondizzjonar tal-arja; Strumenti ta' kejl ta' pressjoni u sustanzi li jkessħu għall-użu f'sistemi tal-ikkondizzjonar tal-arja tal-karozzi; Tagħmir tal-iċċarġjar tal-ikkondizzjonar tal-arja magħmul minn aċċessorji tal-metall għal pajp u distributur ta' sustanzi li jkessħu tal-metall.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Sets van klimaatregelingssystemen; Manometers en koelmiddelen voor gebruik in klimaatregelingssystemen in auto's; Apparaten voor het opladen van klimaatregelingssystemen, bestaande uit metalen slanghulpstukken en een inrichting van metaal voor de afgifte van koelmiddel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Zestawy do systemów do klimatyzacji; Manometr i preparat chłodniczy do użytku w samochodowych systemach klimatyzacji; Sprzęt do ładowania systemów do klimatyzacji składający się z akcesoriów metalowych do węża i metalowego dozownika preparatów chłodniczych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Conjuntos de sistemas de climatização; Manómetros e refrigerantes para uso em sistemas de climatização de automóveis; Equipamento para carregamento de sistemas de climatização constituído por acessórios metálicos para tubos flexíveis e por um distribuidor metálico de refrigerante.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Kituri de sisteme de condiționare a aerului; Manometru și dispozitiv de răcire destinate utilizării în sisteme de aer condiționat auto; Echipament pentru încărcarea sistemului de aer condiționat care conține garnituri metalice pentru un furtun și un distribuitor metalic cu dispozitiv de răcire.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Súpravy klimatizačných systémov; Tlakomery a chladivá pre automobilové klimatizačné systémy; Zariadenia na dopĺňanie klimatizačných systémov, obsahujúce kovové súčasti pre hadicu a dávkovač kovového chladiva.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kompleti klimatskih sistemov; Tlakomer in hladilni proizvod za uporabo v avtomobilskih klimatskih napravah; Oprema za polnjenje klimatskega sistema, sestavljena iz kovinske opreme za gumijaste cevi in kovinskega odmernika hladilnega proizvoda.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Satser för luftkonditioneringssystem; Tryckmätare och kylning för användning i lufkonditioneringssystem för bilar; Laddningsutrustning för luftkonditioneringssystem bestående av metalltillbehör för en slag och en metallkylningsutmatare.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/109</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-06-11</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/180</PublicationIdentifier>
+        <PublicationSection>B.2</PublicationSection>
+        <PublicationDate>2020-09-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>579023</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>90488</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<MarkRecordDetails>
+<MarkRecord>
+<BasicRecord>
+<RecordIdentifier>018796188</RecordIdentifier>
+<BasicRecordKind>Representative - Replacement of representative</BasicRecordKind>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>90488</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+<RecordCurrentStatusCode>Notified</RecordCurrentStatusCode>
+<RecordCurrentStatusDate>2020-11-11</RecordCurrentStatusDate>
+</BasicRecord>
+</MarkRecord>
+</MarkRecordDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>
