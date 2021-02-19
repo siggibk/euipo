@@ -34,7 +34,7 @@ python3 main.py
 ### Start api (inside /api)
 
 ```
-npm intall -> only first time
+npm install -> only first time
 npm start dev
 ```
 
